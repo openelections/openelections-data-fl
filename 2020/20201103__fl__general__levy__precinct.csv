@@ -1,0 +1,183 @@
+county,precinct,office,district,candidate,party,provisional,mail,early_voting,election_day,votes
+Levy,Levy County Ag Extension Office,President,,Trump/Pence,REP,0,320,655,236,1211
+Levy,Williston Highlands,President,,Trump/Pence,REP,-,-,-,-,1705
+Levy, Bronson Dogan Cobb Building,President,,Trump/Pence,REP,-,-,-,-,1971
+Levy,Cedar Key Community Center,President,,Trump/Pence,REP,0,204,136,393,733
+Levy,Tommy Usher Center,President,,Trump/Pence,REP,-,-,-,-,2130
+Levy,Gulf Hammock Church of God,President,,Trump/Pence,REP,-,-,-,-,330
+Levy,Williston City Hall,President,,Trump/Pence,REP,-,-,-,-,1269
+Levy,Morriston Baptist Church,President,,Trump/Pence,REP,-,-,-,-,2031
+Levy,Inglis Community Center,President,,Trump/Pence,REP,-,-,-,-,1587
+Levy,Pine Grove Baptist Church,President,,Trump/Pence,REP,0,187,219,294,700
+Levy,Miracle Vision Tabernacle,President,,Trump/Pence,REP,0,193,320,219,732
+Levy,Fanning Springs City Hall,President,,Trump/Pence,REP,-,-,-,-,1236
+Levy,Tommy Usher Center,President,,Trump/Pence,REP,-,-,-,-,1114
+Levy,Levy County Ag Extension Office,President,,Biden/Harris,DEM,-,-,-,-,537
+Levy,Williston Highlands,President,,Biden/Harris,DEM,-,-,-,-,630
+Levy, Bronson Dogan Cobb Building,President,,Biden/Harris,DEM,-,-,-,-,790
+Levy,Cedar Key Community Center,President,,Biden/Harris,DEM,0,190,51,119,360
+Levy,Tommy Usher Center,President,,Biden/Harris,DEM,-,-,-,-,469
+Levy,Gulf Hammock Church of God,President,,Biden/Harris,DEM,-,-,-,-,69
+Levy,Williston City Hall,President,,Biden/Harris,DEM,-,-,-,-,997
+Levy,Morriston Baptist Church,President,,Biden/Harris,DEM,-,-,-,-,593
+Levy,Inglis Community Center,President,,Biden/Harris,DEM,0,269,41,165,475
+Levy,Pine Grove Baptist Church,President,,Biden/Harris,DEM,-,-,-,-,131
+Levy,Miracle Vision Tabernacle,President,,Biden/Harris,DEM,0,146,112,104,362
+Levy,Fanning Springs City Hall,President,,Biden/Harris,DEM,-,-,-,-,316
+Levy,Tommy Usher Center,President,,Biden/Harris,DEM,-,-,-,-,476
+Levy,Levy County Ag Extension Office,President,,Jorgensen/Cohen,LPF,-,-,-,-,21
+Levy,Williston Highlands,President,,Jorgensen/Cohen,LPF,-,-,-,-,16
+Levy, Bronson Dogan Cobb Building,President,,Jorgensen/Cohen,LPF,-,-,-,-,14
+Levy,Cedar Key Community Center,President,,Jorgensen/Cohen,LPF,-,-,-,-,4
+Levy,Tommy Usher Center,President,,Jorgensen/Cohen,LPF,-,-,-,-,9
+Levy,Gulf Hammock Church of God,President,,Jorgensen/Cohen,LPF,-,-,-,-,1
+Levy,Williston City Hall,President,,Jorgensen/Cohen,LPF,-,-,-,-,13
+Levy,Morriston Baptist Church,President,,Jorgensen/Cohen,LPF,-,-,-,-,9
+Levy,Inglis Community Center,President,,Jorgensen/Cohen,LPF,-,-,-,-,9
+Levy,Pine Grove Baptist Church,President,,Jorgensen/Cohen,LPF,-,-,-,-,5
+Levy,Miracle Vision Tabernacle,President,,Jorgensen/Cohen,LPF,-,-,-,-,4
+Levy,Fanning Springs City Hall,President,,Jorgensen/Cohen,LPF,-,-,-,-,14
+Levy,Tommy Usher Center,President,,Jorgensen/Cohen,LPF,-,-,-,-,12
+Levy,Levy County Ag Extension Office,President,,De La Fuente/Richardson,REF,-,-,-,-,2
+Levy,Williston Highlands,President,,De La Fuente/Richardson,REF,-,-,-,-,1
+Levy, Bronson Dogan Cobb Building,President,,De La Fuente/Richardson,REF,-,-,-,-,2
+Levy,Cedar Key Community Center,President,,De La Fuente/Richardson,REF,-,-,-,-,3
+Levy,Tommy Usher Center,President,,De La Fuente/Richardson,REF,-,-,-,-,2
+Levy,Gulf Hammock Church of God,President,,De La Fuente/Richardson,REF,0,0,0,0,0
+Levy,Williston City Hall,President,,De La Fuente/Richardson,REF,0,0,0,0,0
+Levy,Morriston Baptist Church,President,,De La Fuente/Richardson,REF,-,-,-,-,1
+Levy,Inglis Community Center,President,,De La Fuente/Richardson,REF,0,0,0,0,0
+Levy,Pine Grove Baptist Church,President,,De La Fuente/Richardson,REF,0,0,0,0,0
+Levy,Miracle Vision Tabernacle,President,,De La Fuente/Richardson,REF,0,0,0,0,0
+Levy,Fanning Springs City Hall,President,,De La Fuente/Richardson,REF,-,-,-,-,1
+Levy,Tommy Usher Center,President,,De La Fuente/Richardson,REF,-,-,-,-,2
+Levy,Levy County Ag Extension Office,President,,La Riva/Freeman,PSL,0,0,0,0,0
+Levy,Williston Highlands,President,,La Riva/Freeman,PSL,0,0,0,0,0
+Levy, Bronson Dogan Cobb Building,President,,La Riva/Freeman,PSL,-,-,-,-,1
+Levy,Cedar Key Community Center,President,,La Riva/Freeman,PSL,-,-,-,-,2
+Levy,Tommy Usher Center,President,,La Riva/Freeman,PSL,-,-,-,-,1
+Levy,Gulf Hammock Church of God,President,,La Riva/Freeman,PSL,0,0,0,0,0
+Levy,Williston City Hall,President,,La Riva/Freeman,PSL,0,0,0,0,0
+Levy,Morriston Baptist Church,President,,La Riva/Freeman,PSL,-,-,-,-,1
+Levy,Inglis Community Center,President,,La Riva/Freeman,PSL,-,-,-,-,1
+Levy,Pine Grove Baptist Church,President,,La Riva/Freeman,PSL,0,0,0,0,0
+Levy,Miracle Vision Tabernacle,President,,La Riva/Freeman,PSL,0,0,0,0,0
+Levy,Fanning Springs City Hall,President,,La Riva/Freeman,PSL,-,-,-,-,1
+Levy,Tommy Usher Center,President,,La Riva/Freeman,PSL,0,0,0,0,0
+Levy,Levy County Ag Extension Office,President,,Hawkins/Howard,GRE,-,-,-,-,3
+Levy,Williston Highlands,President,,Hawkins/Howard,GRE,-,-,-,-,5
+Levy, Bronson Dogan Cobb Building,President,,Hawkins/Howard,GRE,-,-,-,-,5
+Levy,Cedar Key Community Center,President,,Hawkins/Howard,GRE,0,0,0,0,0
+Levy,Tommy Usher Center,President,,Hawkins/Howard,GRE,-,-,-,-,1
+Levy,Gulf Hammock Church of God,President,,Hawkins/Howard,GRE,0,0,0,0,0
+Levy,Williston City Hall,President,,Hawkins/Howard,GRE,-,-,-,-,1
+Levy,Morriston Baptist Church,President,,Hawkins/Howard,GRE,-,-,-,-,4
+Levy,Inglis Community Center,President,,Hawkins/Howard,GRE,-,-,-,-,3
+Levy,Pine Grove Baptist Church,President,,Hawkins/Howard,GRE,-,-,-,-,1
+Levy,Miracle Vision Tabernacle,President,,Hawkins/Howard,GRE,0,0,0,0,0
+Levy,Fanning Springs City Hall,President,,Hawkins/Howard,GRE,-,-,-,-,1
+Levy,Tommy Usher Center,President,,Hawkins/Howard,GRE,-,-,-,-,1
+Levy,Levy County Ag Extension Office,President,,Blankenship/Don,CPF,-,-,-,-,2
+Levy,Williston Highlands,President,,Blankenship/Don,CPF,-,-,-,-,1
+Levy, Bronson Dogan Cobb Building,President,,Blankenship/Don,CPF,-,-,-,-,5
+Levy,Cedar Key Community Center,President,,Blankenship/Don,CPF,0,0,0,0,0
+Levy,Tommy Usher Center,President,,Blankenship/Don,CPF,0,0,0,0,0
+Levy,Gulf Hammock Church of God,President,,Blankenship/Don,CPF,0,0,0,0,0
+Levy,Williston City Hall,President,,Blankenship/Don,CPF,-,-,-,-,2
+Levy,Morriston Baptist Church,President,,Blankenship/Don,CPF,-,-,-,-,1
+Levy,Inglis Community Center,President,,Blankenship/Don,CPF,0,0,0,0,0
+Levy,Pine Grove Baptist Church,President,,Blankenship/Don,CPF,-,-,-,-,1
+Levy,Miracle Vision Tabernacle,President,,Blankenship/Don,CPF,0,0,0,0,0
+Levy,Fanning Springs City Hall,President,,Blankenship/Don,CPF,0,0,0,0,0
+Levy,Tommy Usher Center,President,,Blankenship/Don,CPF,-,-,-,-,1
+Levy,Levy County Ag Extension Office,President,,Write-in,,-,-,-,-,3
+Levy,Williston Highlands,President,,Write-in,,-,-,-,-,9
+Levy, Bronson Dogan Cobb Building,President,,Write-in,,-,-,-,-,7
+Levy,Cedar Key Community Center,President,,Write-in,,-,-,-,-,3
+Levy,Tommy Usher Center,President,,Write-in,,-,-,-,-,5
+Levy,Gulf Hammock Church of God,President,,Write-in,,0,0,0,0,0
+Levy,Williston City Hall,President,,Write-in,,-,-,-,-,3
+Levy,Morriston Baptist Church,President,,Write-in,,0,0,0,0,0
+Levy,Inglis Community Center,President,,Write-in,,-,-,-,-,3
+Levy,Pine Grove Baptist Church,President,,Write-in,,-,-,-,-,1
+Levy,Miracle Vision Tabernacle,President,,Write-in,,-,-,-,-,5
+Levy,Fanning Springs City Hall,President,,Write-in,,-,-,-,-,1
+Levy,Tommy Usher Center,President,,Write-in,,-,-,-,-,1
+Levy,Levy County Ag Extension Office,U.S. House,2,Neal Dunn,REP,-,-,-,-,1408
+Levy,Williston Highlands,U.S. House,2,Neal Dunn,REP,-,-,-,-,1945
+Levy, Bronson Dogan Cobb Building,U.S. House,2,Neal Dunn,REP,-,-,-,-,2270
+Levy,Cedar Key Community Center,U.S. House,2,Neal Dunn,REP,0,245,146,432,823
+Levy,Tommy Usher Center,U.S. House,2,Neal Dunn,REP,-,-,-,-,2270
+Levy,Gulf Hammock Church of God,U.S. House,2,Neal Dunn,REP,-,-,-,-,350
+Levy,Williston City Hall,U.S. House,2,Neal Dunn,REP,-,-,-,-,1663
+Levy,Morriston Baptist Church,U.S. House,2,Neal Dunn,REP,-,-,-,-,2204
+Levy,Inglis Community Center,U.S. House,2,Neal Dunn,REP,-,-,-,-,1708
+Levy,Pine Grove Baptist Church,U.S. House,2,Neal Dunn,REP,0,212,228,305,745
+Levy,Miracle Vision Tabernacle,U.S. House,2,Neal Dunn,REP,0,257,351,270,878
+Levy,Fanning Springs City Hall,U.S. House,2,Neal Dunn,REP,-,-,-,-,1370
+Levy,Tommy Usher Center,U.S. House,2,Neal Dunn,REP,-,-,-,-,1325
+Levy,Levy County Ag Extension Office,U.S. House,2,Write-in,,-,-,-,-,77
+Levy,Williston Highlands,U.S. House,2,Write-in,,-,-,-,-,80
+Levy, Bronson Dogan Cobb Building,U.S. House,2,Write-in,,-,-,-,-,106
+Levy,Cedar Key Community Center,U.S. House,2,Write-in,,-,-,-,-,59
+Levy,Tommy Usher Center,U.S. House,2,Write-in,,-,-,-,-,73
+Levy,Gulf Hammock Church of God,U.S. House,2,Write-in,,-,-,-,-,14
+Levy,Williston City Hall,U.S. House,2,Write-in,,-,-,-,-,108
+Levy,Morriston Baptist Church,U.S. House,2,Write-in,,-,-,-,-,105
+Levy,Inglis Community Center,U.S. House,2,Write-in,,-,-,-,-,84
+Levy,Pine Grove Baptist Church,U.S. House,2,Write-in,,-,-,-,-,23
+Levy,Miracle Vision Tabernacle,U.S. House,2,Write-in,,-,-,-,-,60
+Levy,Fanning Springs City Hall,U.S. House,2,Write-in,,-,-,-,-,26
+Levy,Tommy Usher Center,U.S. House,2,Write-in,,-,-,-,-,46
+Levy,Levy County Ag Extension Office,State Senate,5,Jennifer Bradley,REP,0,331,639,235,1205
+Levy,Williston Highlands,State Senate,5,Jennifer Bradley,REP,-,-,-,-,1709
+Levy, Bronson Dogan Cobb Building,State Senate,5,Jennifer Bradley,REP,-,-,-,-,1932
+Levy,Cedar Key Community Center,State Senate,5,Jennifer Bradley,REP,0,214,137,388,739
+Levy,Tommy Usher Center,State Senate,5,Jennifer Bradley,REP,-,-,-,-,2099
+Levy,Gulf Hammock Church of God,State Senate,5,Jennifer Bradley,REP,-,-,-,-,320
+Levy,Williston City Hall,State Senate,5,Jennifer Bradley,REP,-,-,-,-,1271
+Levy,Morriston Baptist Church,State Senate,5,Jennifer Bradley,REP,-,-,-,-,1965
+Levy,Inglis Community Center,State Senate,5,Jennifer Bradley,REP,-,-,-,-,1542
+Levy,Pine Grove Baptist Church,State Senate,5,Jennifer Bradley,REP,0,191,214,285,690
+Levy,Miracle Vision Tabernacle,State Senate,5,Jennifer Bradley,REP,0,196,310,213,719
+Levy,Fanning Springs City Hall,State Senate,5,Jennifer Bradley,REP,-,-,-,-,1236
+Levy,Tommy Usher Center,State Senate,5,Jennifer Bradley,REP,-,-,-,-,1089
+Levy,Levy County Ag Extension Office,State Senate,5,Melina Barratt,DEM,-,-,-,-,503
+Levy,Williston Highlands,State Senate,5,Melina Barratt,DEM,-,-,-,-,570
+Levy, Bronson Dogan Cobb Building,State Senate,5,Melina Barratt,DEM,0,363,307,98,768
+Levy,Cedar Key Community Center,State Senate,5,Melina Barratt,DEM,0,169,47,112,328
+Levy,Tommy Usher Center,State Senate,5,Melina Barratt,DEM,-,-,-,-,419
+Levy,Gulf Hammock Church of God,State Senate,5,Melina Barratt,DEM,-,-,-,-,67
+Levy,Williston City Hall,State Senate,5,Melina Barratt,DEM,-,-,-,-,910
+Levy,Morriston Baptist Church,State Senate,5,Melina Barratt,DEM,-,-,-,-,578
+Levy,Inglis Community Center,State Senate,5,Melina Barratt,DEM,0,243,40,171,454
+Levy,Pine Grove Baptist Church,State Senate,5,Melina Barratt,DEM,-,-,-,-,123
+Levy,Miracle Vision Tabernacle,State Senate,5,Melina Barratt,DEM,0,131,110,101,342
+Levy,Fanning Springs City Hall,State Senate,5,Melina Barratt,DEM,-,-,-,-,292
+Levy,Tommy Usher Center,State Senate,5,Melina Barratt,DEM,-,-,-,-,452
+Levy,Levy County Ag Extension Office,State House,22,Joe Harding,REP,0,321,638,232,1191
+Levy,Williston Highlands,State House,22,Joe Harding,REP,-,-,-,-,1732
+Levy, Bronson Dogan Cobb Building,State House,22,Joe Harding,REP,-,-,-,-,1920
+Levy,Cedar Key Community Center,State House,22,Joe Harding,REP,0,211,133,395,739
+Levy,Tommy Usher Center,State House,22,Joe Harding,REP,-,-,-,-,2096
+Levy,Gulf Hammock Church of God,State House,22,Joe Harding,REP,-,-,-,-,320
+Levy,Williston City Hall,State House,22,Joe Harding,REP,-,-,-,-,1275
+Levy,Morriston Baptist Church,State House,22,Joe Harding,REP,-,-,-,-,1985
+Levy,Inglis Community Center,State House,22,Joe Harding,REP,-,-,-,-,1537
+Levy,Pine Grove Baptist Church,State House,22,Joe Harding,REP,0,195,214,293,702
+Levy,Miracle Vision Tabernacle,State House,22,Joe Harding,REP,0,204,317,218,739
+Levy,Fanning Springs City Hall,State House,22,Joe Harding,REP,-,-,-,-,1222
+Levy,Tommy Usher Center,State House,22,Joe Harding,REP,-,-,-,-,1078
+Levy,Levy County Ag Extension Office,State House,22,Barbara Byram,DEM,-,-,-,-,515
+Levy,Williston Highlands,State House,22,Barbara Byram,DEM,-,-,-,-,562
+Levy, Bronson Dogan Cobb Building,State House,22,Barbara Byram,DEM,-,-,-,-,784
+Levy,Cedar Key Community Center,State House,22,Barbara Byram,DEM,0,175,50,105,330
+Levy,Tommy Usher Center,State House,22,Barbara Byram,DEM,-,-,-,-,415
+Levy,Gulf Hammock Church of God,State House,22,Barbara Byram,DEM,-,-,-,-,70
+Levy,Williston City Hall,State House,22,Barbara Byram,DEM,-,-,-,-,919
+Levy,Morriston Baptist Church,State House,22,Barbara Byram,DEM,-,-,-,-,572
+Levy,Inglis Community Center,State House,22,Barbara Byram,DEM,0,256,40,161,457
+Levy,Pine Grove Baptist Church,State House,22,Barbara Byram,DEM,-,-,-,-,123
+Levy,Miracle Vision Tabernacle,State House,22,Barbara Byram,DEM,0,128,108,96,332
+Levy,Fanning Springs City Hall,State House,22,Barbara Byram,DEM,-,-,-,-,298
+Levy,Tommy Usher Center,State House,22,Barbara Byram,DEM,-,-,-,-,451
