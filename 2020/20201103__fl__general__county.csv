@@ -1,8 +1,8 @@
-county,party,office,district,candidate,votes,election_day,absentee,early_voting,provisionals
+county,party,office,district,candidate,votes,election_day,absentee,early_voting,provisional
 Alachua,REP,President,,Trump / Pence,50972,14773,14358,21772,69
 Baker,REP,President,,Trump / Pence,11911,,,,
 Bay,REP,President,,Trump / Pence,66097,,,,
-Bradford,REP,President,,Trump / Pence,10334,,,,
+Bradford,REP,President,,Trump / Pence,10334,3716,2514,4104,0
 Brevard,REP,President,,Trump / Pence,207883,,,,
 Broward,REP,President,,Trump / Pence,333409,62953,116199,154182,75
 Calhoun,REP,President,,Trump / Pence,5274,,,,
@@ -136,7 +136,7 @@ Washington,DEM,President,,Biden / Harris,2347,,,,
 Alachua,LPF,President,,Jorgensen / Cohen,1390,476,486,428,0
 Baker,LPF,President,,Jorgensen / Cohen,93,,,,
 Bay,LPF,President,,Jorgensen / Cohen,1004,,,,
-Bradford,LPF,President,,Jorgensen / Cohen,110,,,,
+Bradford,LPF,President,,Jorgensen / Cohen,110,43,30,37,0
 Brevard,LPF,President,,Jorgensen / Cohen,3178,,,,
 Broward,LPF,President,,Jorgensen / Cohen,3114,691,1559,863,1
 Calhoun,LPF,President,,Jorgensen / Cohen,29,,,,
@@ -1142,7 +1142,7 @@ Madison,DEM,State Senate,3,Loranne  Ausley,3647,,,,
 Taylor,DEM,State Senate,3,Loranne  Ausley,2358,,,,
 Wakulla,DEM,State Senate,3,Loranne  Ausley,5027,,,,
 Baker,REP,State Senate,5,Jennifer  Bradley,11646,,,,
-Bradford,REP,State Senate,5,Jennifer  Bradley,10083,,,,
+Bradford,REP,State Senate,5,Jennifer  Bradley,10083,3556,2521,4006,0
 Clay,REP,State Senate,5,Jennifer  Bradley,86412,,,,
 Columbia,REP,State Senate,5,Jennifer  Bradley,23641,,,,
 Dixie,REP,State Senate,5,Jennifer  Bradley,6416,,,,
@@ -1303,7 +1303,7 @@ St. Johns,DEM,State House,17,Dave  Rogers,46685,,,,
 Clay,REP,State House,18,Sam  Garrison,64759,,,,
 Clay,DEM,State House,18,Leroy Anthony Edwards,28457,,,,
 Clay,LPF,State House,18,Ken  Willey,3099,,,,
-Bradford,REP,State House,19,Bobby  Payne,9761,,,,
+Bradford,REP,State House,19,Bobby  Payne,9761,3441,2424,3896,0
 Clay,REP,State House,19,Bobby  Payne,18701,,,,
 Putnam,REP,State House,19,Bobby  Payne,24885,,,,
 Union,REP,State House,19,Bobby  Payne,4837,,,,
