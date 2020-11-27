@@ -1,7 +1,7 @@
 county,party,office,district,candidate,votes,election_day,early_voting,absentee,provisional
 Alachua,REP,President,,Trump / Pence,50972,14773,21772,14358,69
 Baker,REP,President,,Trump / Pence,11911,3398,6443,2070,0
-Bay,REP,President,,Trump / Pence,66097,,,,
+Bay,REP,President,,Trump / Pence,66097,49976,,16121,
 Bradford,REP,President,,Trump / Pence,10334,3716,4104,2514,0
 Brevard,REP,President,,Trump / Pence,207883,,,,
 Broward,REP,President,,Trump / Pence,333409,62953,154182,116199,75
@@ -68,7 +68,7 @@ Walton,REP,President,,Trump / Pence,32947,,,,
 Washington,REP,President,,Trump / Pence,9876,,,,
 Alachua,DEM,President,,Biden / Harris,89704,11451,31955,46166,132
 Baker,DEM,President,,Biden / Harris,2037,572,743,722,0
-Bay,DEM,President,,Biden / Harris,25614,,,,
+Bay,DEM,President,,Biden / Harris,25614,13289,,12325,
 Bradford,DEM,President,,Biden / Harris,3160,,,,
 Brevard,DEM,President,,Biden / Harris,148549,,,,
 Broward,DEM,President,,Biden / Harris,618752,58643,207575,352424,110
@@ -135,7 +135,7 @@ Walton,DEM,President,,Biden / Harris,10338,,,,
 Washington,DEM,President,,Biden / Harris,2347,,,,
 Alachua,LPF,President,,Jorgensen / Cohen,1390,476,428,486,0
 Baker,LPF,President,,Jorgensen / Cohen,93,,,,
-Bay,LPF,President,,Jorgensen / Cohen,1004,,,,
+Bay,LPF,President,,Jorgensen / Cohen,1004,701,,303,
 Bradford,LPF,President,,Jorgensen / Cohen,110,43,37,30,0
 Brevard,LPF,President,,Jorgensen / Cohen,3178,,,,
 Broward,LPF,President,,Jorgensen / Cohen,3114,691,863,1559,1
@@ -336,7 +336,7 @@ Walton,PSL,President,,La Riva / Freeman,15,,,,
 Washington,PSL,President,,La Riva / Freeman,10,,,,
 Alachua,GRE,President,,Hawkins / Walker,302,75,87,140,0
 Baker,GRE,President,,Hawkins / Walker,10,,,,
-Bay,GRE,President,,Hawkins / Walker,142,,,,
+Bay,GRE,President,,Hawkins / Walker,142,83,,59,
 Bradford,GRE,President,,Hawkins / Walker,11,,,,
 Brevard,GRE,President,,Hawkins / Walker,553,,,,
 Broward,GRE,President,,Hawkins / Walker,1253,248,303,702,0
@@ -885,7 +885,7 @@ Holmes,NPA,U.S. House,1,Albert  Oram,89,,,,
 Okaloosa,NPA,U.S. House,1,Albert  Oram,1877,,,,
 Santa Rosa,NPA,U.S. House,1,Albert  Oram,1380,,,,
 Walton,NPA,U.S. House,1,Albert  Oram,424,,,,
-Bay,REP,U.S. House,2,Neal  Dunn,76997,,,,
+Bay,REP,U.S. House,2,Neal  Dunn,76997,55573,,21424,
 Calhoun,REP,U.S. House,2,Neal  Dunn,5662,,,,
 Columbia,REP,U.S. House,2,Neal  Dunn,24293,,,,
 Dixie,REP,U.S. House,2,Neal  Dunn,6993,,,,
@@ -1254,8 +1254,8 @@ Santa Rosa,DEM,State House,3,Angela L. Hoover,23155,,,,
 Okaloosa,REP,State House,4,Patt  Maney,70208,,,,
 Okaloosa,DEM,State House,4,John  Plante,27083,,,,
 Okaloosa,WRI,State House,4,Lance  Lawrence,11,,,,
-Bay,REP,State House,6,Jay  Trumbull,61456,,,,
-Bay,DEM,State House,6,Alicia  Bays,23848,,,,
+Bay,REP,State House,6,Jay  Trumbull,61456,45334,,16122,
+Bay,DEM,State House,6,Alicia  Bays,23848,13062,,10786,
 Calhoun,REP,State House,7,Jason  Shoaf,5105,,,,
 Franklin,REP,State House,7,Jason  Shoaf,4738,,,,
 Gulf,REP,State House,7,Jason  Shoaf,6341,,,,
@@ -1591,3 +1591,9 @@ Baker,,State Senate,5,Over Votes,1,,,,
 Baker,,State Senate,5,Under Votes,470,152,204,114,0
 Baker,,State House,10,Over Votes,1,,,,
 Baker,,State House,10,Under Votes,302,89,136,77,0
+Bay,,President,,Over Votes,101,31,,70,
+Bay,,President,,Under Votes,190,109,,81,
+Bay,,U.S. House,2,Over Votes,28,,,,
+Bay,,U.S. House,2,Under Votes,11319,6396,,4923,
+Bay,,State House,6,Over Votes,10,,,,
+Bay,,State House,6,Under Votes,2800,1778,,1022,
