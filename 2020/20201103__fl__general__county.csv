@@ -1,21 +1,21 @@
-county,party,office,district,candidate,votes,election_day,early_voting,absentee,provisional
-Alachua,REP,President,,Trump / Pence,50972,14773,21772,14358,69
-Baker,REP,President,,Trump / Pence,11911,3398,6443,2070,0
-Bay,REP,President,,Trump / Pence,66097,49976,,16121,
-Bradford,REP,President,,Trump / Pence,10334,3716,4104,2514,0
+county,party,office,district,candidate,votes,election_day,absentee,early_voting,provisional
+Alachua,REP,President,,Trump / Pence,50972,14773,14358,21772,69
+Baker,REP,President,,Trump / Pence,11911,3398,2070,6443,0
+Bay,REP,President,,Trump / Pence,66097,49976,16121,,
+Bradford,REP,President,,Trump / Pence,10334,3716,2514,4104,0
 Brevard,REP,President,,Trump / Pence,207883,,,,
-Broward,REP,President,,Trump / Pence,333409,62953,154182,116199,75
+Broward,REP,President,,Trump / Pence,333409,62953,116199,154182,75
 Calhoun,REP,President,,Trump / Pence,5274,,,,
 Charlotte,REP,President,,Trump / Pence,73243,,,,
 Citrus,REP,President,,Trump / Pence,65352,,,,
-Clay,REP,President,,Trump / Pence,84480,18874,47883,17723,
+Clay,REP,President,,Trump / Pence,84480,18874,17723,47883,
 Collier,REP,President,,Trump / Pence,128950,,,,
 Columbia,REP,President,,Trump / Pence,23836,,,,
 Desoto,REP,President,,Trump / Pence,8313,,,,
 Dixie,REP,President,,Trump / Pence,6759,,,,
 Duval,REP,President,,Trump / Pence,233762,,,,
 Escambia,REP,President,,Trump / Pence,96674,,,,
-Flagler,REP,President,,Trump / Pence,43043,8630,20480,13933,
+Flagler,REP,President,,Trump / Pence,43043,8630,13933,20480,
 Franklin,REP,President,,Trump / Pence,4675,,,,
 Gadsden,REP,President,,Trump / Pence,7465,,,,
 Gilchrist,REP,President,,Trump / Pence,7895,,,,
@@ -23,9 +23,9 @@ Glades,REP,President,,Trump / Pence,3782,,,,
 Gulf,REP,President,,Trump / Pence,6113,,,,
 Hamilton,REP,President,,Trump / Pence,3815,,,,
 Hardee,REP,President,,Trump / Pence,6122,,,,
-Hendry,REP,President,,Trump / Pence,7906,,,,
-Hernando,REP,President,,Trump / Pence,70412,,,,
-Highlands,REP,President,,Trump / Pence,34873,,,,
+Hendry,REP,President,,Trump / Pence,7906,1800,1706,4400,0
+Hernando,REP,President,,Trump / Pence,70412,19173,23834,27376,29
+Highlands,REP,President,,Trump / Pence,34873,9098,10310,15433,32
 Hillsborough,REP,President,,Trump / Pence,327398,,,,
 Holmes,REP,President,,Trump / Pence,8080,,,,
 Indian River,REP,President,,Trump / Pence,58872,,,,
@@ -34,7 +34,7 @@ Jefferson,REP,President,,Trump / Pence,4479,,,,
 Lafayette,REP,President,,Trump / Pence,3128,,,,
 Lake,REP,President,,Trump / Pence,125859,,,,
 Lee,REP,President,,Trump / Pence,233247,,,,
-Leon,REP,President,,Trump / Pence,57453,15625,25472,16356,
+Leon,REP,President,,Trump / Pence,57453,15625,16356,25472,
 Levy,REP,President,,Trump / Pence,16749,,,,
 Liberty,REP,President,,Trump / Pence,2846,,,,
 Madison,REP,President,,Trump / Pence,5576,,,,
@@ -44,9 +44,9 @@ Martin,REP,President,,Trump / Pence,61168,,,,
 Miami-Dade,REP,President,,Trump / Pence,532833,,,,
 Monroe,REP,President,,Trump / Pence,25693,,,,
 Nassau,REP,President,,Trump / Pence,42566,,,,
-Okaloosa,REP,President,,Trump / Pence,79798,,,,
+Okaloosa,REP,President,,Trump / Pence,79798,18700,19304,41702,92
 Okeechobee,REP,President,,Trump / Pence,11470,,,,
-Orange,REP,President,,Trump / Pence,245398,,,,
+Orange,REP,President,,Trump / Pence,245398,57524,78988,108808,78
 Osceola,REP,President,,Trump / Pence,73480,,,,
 Palm Beach,REP,President,,Trump / Pence,334711,,,,
 Pasco,REP,President,,Trump / Pence,179621,,,,
@@ -66,23 +66,23 @@ Volusia,REP,President,,Trump / Pence,173821,,,,
 Wakulla,REP,President,,Trump / Pence,12874,,,,
 Walton,REP,President,,Trump / Pence,32947,,,,
 Washington,REP,President,,Trump / Pence,9876,,,,
-Alachua,DEM,President,,Biden / Harris,89704,11451,31955,46166,132
-Baker,DEM,President,,Biden / Harris,2037,572,743,722,0
-Bay,DEM,President,,Biden / Harris,25614,13289,,12325,
+Alachua,DEM,President,,Biden / Harris,89704,11451,46166,31955,132
+Baker,DEM,President,,Biden / Harris,2037,572,722,743,0
+Bay,DEM,President,,Biden / Harris,25614,13289,12325,,
 Bradford,DEM,President,,Biden / Harris,3160,,,,
 Brevard,DEM,President,,Biden / Harris,148549,,,,
-Broward,DEM,President,,Biden / Harris,618752,58643,207575,352424,110
+Broward,DEM,President,,Biden / Harris,618752,58643,352424,207575,110
 Calhoun,DEM,President,,Biden / Harris,1209,,,,
 Charlotte,DEM,President,,Biden / Harris,42273,,,,
 Citrus,DEM,President,,Biden / Harris,27092,,,,
-Clay,DEM,President,,Biden / Harris,38317,4989,17276,16052,
+Clay,DEM,President,,Biden / Harris,38317,4989,16052,17276,
 Collier,DEM,President,,Biden / Harris,77621,,,,
 Columbia,DEM,President,,Biden / Harris,8914,,,,
 Desoto,DEM,President,,Biden / Harris,4259,,,,
 Dixie,DEM,President,,Biden / Harris,1365,,,,
 Duval,DEM,President,,Biden / Harris,252556,,,,
 Escambia,DEM,President,,Biden / Harris,70929,,,,
-Flagler,DEM,President,,Biden / Harris,28161,2945,7781,17435,
+Flagler,DEM,President,,Biden / Harris,28161,2945,17435,7781,
 Franklin,DEM,President,,Biden / Harris,2120,,,,
 Gadsden,DEM,President,,Biden / Harris,16153,,,,
 Gilchrist,DEM,President,,Biden / Harris,1700,,,,
@@ -90,8 +90,8 @@ Glades,DEM,President,,Biden / Harris,1385,,,,
 Gulf,DEM,President,,Biden / Harris,1985,,,,
 Hamilton,DEM,President,,Biden / Harris,1963,,,,
 Hardee,DEM,President,,Biden / Harris,2298,,,,
-Hendry,DEM,President,,Biden / Harris,4929,,,,
-Hernando,DEM,President,,Biden / Harris,37519,,,,
+Hendry,DEM,President,,Biden / Harris,4929,996,1547,2386,0
+Hernando,DEM,President,,Biden / Harris,37519,5272,22564,9658,25
 Highlands,DEM,President,,Biden / Harris,16938,,,,
 Hillsborough,DEM,President,,Biden / Harris,376367,,,,
 Holmes,DEM,President,,Biden / Harris,924,,,,
@@ -101,7 +101,7 @@ Jefferson,DEM,President,,Biden / Harris,3897,,,,
 Lafayette,DEM,President,,Biden / Harris,510,,,,
 Lake,DEM,President,,Biden / Harris,83505,,,,
 Lee,DEM,President,,Biden / Harris,157695,,,,
-Leon,DEM,President,,Biden / Harris,103517,15338,38619,49560,
+Leon,DEM,President,,Biden / Harris,103517,15338,49560,38619,
 Levy,DEM,President,,Biden / Harris,6205,,,,
 Liberty,DEM,President,,Biden / Harris,694,,,,
 Madison,DEM,President,,Biden / Harris,3747,,,,
@@ -111,9 +111,9 @@ Martin,DEM,President,,Biden / Harris,36893,,,,
 Miami-Dade,DEM,President,,Biden / Harris,617864,,,,
 Monroe,DEM,President,,Biden / Harris,21881,,,,
 Nassau,DEM,President,,Biden / Harris,15564,,,,
-Okaloosa,DEM,President,,Biden / Harris,34248,,,,
+Okaloosa,DEM,President,,Biden / Harris,34248,4644,17236,12334,34
 Okeechobee,DEM,President,,Biden / Harris,4390,,,,
-Orange,DEM,President,,Biden / Harris,395014,,,,
+Orange,DEM,President,,Biden / Harris,395014,49314,194837,150759,84
 Osceola,DEM,President,,Biden / Harris,97297,,,,
 Palm Beach,DEM,President,,Biden / Harris,433572,,,,
 Pasco,DEM,President,,Biden / Harris,119073,,,,
@@ -133,23 +133,23 @@ Volusia,DEM,President,,Biden / Harris,130575,,,,
 Wakulla,DEM,President,,Biden / Harris,5351,,,,
 Walton,DEM,President,,Biden / Harris,10338,,,,
 Washington,DEM,President,,Biden / Harris,2347,,,,
-Alachua,LPF,President,,Jorgensen / Cohen,1390,476,428,486,0
+Alachua,LPF,President,,Jorgensen / Cohen,1390,476,486,428,0
 Baker,LPF,President,,Jorgensen / Cohen,93,,,,
-Bay,LPF,President,,Jorgensen / Cohen,1004,701,,303,
-Bradford,LPF,President,,Jorgensen / Cohen,110,43,37,30,0
+Bay,LPF,President,,Jorgensen / Cohen,1004,701,303,,
+Bradford,LPF,President,,Jorgensen / Cohen,110,43,30,37,0
 Brevard,LPF,President,,Jorgensen / Cohen,3178,,,,
-Broward,LPF,President,,Jorgensen / Cohen,3114,691,863,1559,1
+Broward,LPF,President,,Jorgensen / Cohen,3114,691,1559,863,1
 Calhoun,LPF,President,,Jorgensen / Cohen,29,,,,
 Charlotte,LPF,President,,Jorgensen / Cohen,565,,,,
 Citrus,LPF,President,,Jorgensen / Cohen,548,,,,
-Clay,LPF,President,,Jorgensen / Cohen,1286,390,520,376,
+Clay,LPF,President,,Jorgensen / Cohen,1286,390,376,520,
 Collier,LPF,President,,Jorgensen / Cohen,889,,,,
 Columbia,LPF,President,,Jorgensen / Cohen,224,,,,
 Desoto,LPF,President,,Jorgensen / Cohen,52,,,,
 Dixie,LPF,President,,Jorgensen / Cohen,27,,,,
 Duval,LPF,President,,Jorgensen / Cohen,4788,,,,
 Escambia,LPF,President,,Jorgensen / Cohen,2146,,,,
-Flagler,LPF,President,,Jorgensen / Cohen,359,107,98,154,
+Flagler,LPF,President,,Jorgensen / Cohen,359,107,154,98,
 Franklin,LPF,President,,Jorgensen / Cohen,27,,,,
 Gadsden,LPF,President,,Jorgensen / Cohen,96,,,,
 Gilchrist,LPF,President,,Jorgensen / Cohen,61,,,,
@@ -158,8 +158,8 @@ Gulf,LPF,President,,Jorgensen / Cohen,48,,,,
 Hamilton,LPF,President,,Jorgensen / Cohen,33,,,,
 Hardee,LPF,President,,Jorgensen / Cohen,40,,,,
 Hendry,LPF,President,,Jorgensen / Cohen,65,,,,
-Hernando,LPF,President,,Jorgensen / Cohen,686,,,,
-Highlands,LPF,President,,Jorgensen / Cohen,223,,,,
+Hernando,LPF,President,,Jorgensen / Cohen,686,241,278,166,1
+Highlands,LPF,President,,Jorgensen / Cohen,223,80,87,56,0
 Hillsborough,LPF,President,,Jorgensen / Cohen,5665,,,,
 Holmes,LPF,President,,Jorgensen / Cohen,48,,,,
 Indian River,LPF,President,,Jorgensen / Cohen,534,,,,
@@ -168,7 +168,7 @@ Jefferson,LPF,President,,Jorgensen / Cohen,46,,,,
 Lafayette,LPF,President,,Jorgensen / Cohen,14,,,,
 Lake,LPF,President,,Jorgensen / Cohen,1385,,,,
 Lee,LPF,President,,Jorgensen / Cohen,2016,,,,
-Leon,LPF,President,,Jorgensen / Cohen,1344,412,414,518,
+Leon,LPF,President,,Jorgensen / Cohen,1344,412,518,414,
 Levy,LPF,President,,Jorgensen / Cohen,131,,,,
 Liberty,LPF,President,,Jorgensen / Cohen,14,,,,
 Madison,LPF,President,,Jorgensen / Cohen,32,,,,
@@ -180,7 +180,7 @@ Monroe,LPF,President,,Jorgensen / Cohen,348,,,,
 Nassau,LPF,President,,Jorgensen / Cohen,569,,,,
 Okaloosa,LPF,President,,Jorgensen / Cohen,1881,,,,
 Okeechobee,LPF,President,,Jorgensen / Cohen,66,,,,
-Orange,LPF,President,,Jorgensen / Cohen,4685,,,,
+Orange,LPF,President,,Jorgensen / Cohen,4685,1368,1851,1466,0
 Osceola,LPF,President,,Jorgensen / Cohen,964,,,,
 Palm Beach,LPF,President,,Jorgensen / Cohen,3040,,,,
 Pasco,LPF,President,,Jorgensen / Cohen,2265,,,,
@@ -205,18 +205,18 @@ Baker,REF,President,,De La Fuente / Richardson,4,,,,
 Bay,REF,President,,De La Fuente / Richardson,54,,,,
 Bradford,REF,President,,De La Fuente / Richardson,7,,,,
 Brevard,REF,President,,De La Fuente / Richardson,222,,,,
-Broward,REF,President,,De La Fuente / Richardson,426,91,106,229,0
+Broward,REF,President,,De La Fuente / Richardson,426,91,229,106,0
 Calhoun,REF,President,,De La Fuente / Richardson,4,,,,
 Charlotte,REF,President,,De La Fuente / Richardson,49,,,,
 Citrus,REF,President,,De La Fuente / Richardson,42,,,,
-Clay,REF,President,,De La Fuente / Richardson,45,10,21,14,
+Clay,REF,President,,De La Fuente / Richardson,45,10,14,21,
 Collier,REF,President,,De La Fuente / Richardson,64,,,,
 Columbia,REF,President,,De La Fuente / Richardson,12,,,,
 Desoto,REF,President,,De La Fuente / Richardson,12,,,,
 Dixie,REF,President,,De La Fuente / Richardson,5,,,,
 Duval,REF,President,,De La Fuente / Richardson,319,,,,
 Escambia,REF,President,,De La Fuente / Richardson,105,,,,
-Flagler,REF,President,,De La Fuente / Richardson,30,5,8,17,
+Flagler,REF,President,,De La Fuente / Richardson,30,5,17,8,
 Franklin,REF,President,,De La Fuente / Richardson,4,,,,
 Gadsden,REF,President,,De La Fuente / Richardson,8,,,,
 Gilchrist,REF,President,,De La Fuente / Richardson,6,,,,
@@ -225,7 +225,7 @@ Gulf,REF,President,,De La Fuente / Richardson,6,,,,
 Hamilton,REF,President,,De La Fuente / Richardson,6,,,,
 Hardee,REF,President,,De La Fuente / Richardson,10,,,,
 Hendry,REF,President,,De La Fuente / Richardson,11,,,,
-Hernando,REF,President,,De La Fuente / Richardson,62,,,,
+Hernando,REF,President,,De La Fuente / Richardson,62,13,45,4,0
 Highlands,REF,President,,De La Fuente / Richardson,28,,,,
 Hillsborough,REF,President,,De La Fuente / Richardson,574,,,,
 Holmes,REF,President,,De La Fuente / Richardson,2,,,,
@@ -235,7 +235,7 @@ Jefferson,REF,President,,De La Fuente / Richardson,4,,,,
 Lafayette,REF,President,,De La Fuente / Richardson,1,,,,
 Lake,REF,President,,De La Fuente / Richardson,120,,,,
 Lee,REF,President,,De La Fuente / Richardson,187,,,,
-Leon,REF,President,,De La Fuente / Richardson,98,33,25,40,
+Leon,REF,President,,De La Fuente / Richardson,98,33,40,25,
 Levy,REF,President,,De La Fuente / Richardson,14,,,,
 Liberty,REF,President,,De La Fuente / Richardson,2,,,,
 Madison,REF,President,,De La Fuente / Richardson,3,,,,
@@ -247,7 +247,7 @@ Monroe,REF,President,,De La Fuente / Richardson,26,,,,
 Nassau,REF,President,,De La Fuente / Richardson,28,,,,
 Okaloosa,REF,President,,De La Fuente / Richardson,76,,,,
 Okeechobee,REF,President,,De La Fuente / Richardson,8,,,,
-Orange,REF,President,,De La Fuente / Richardson,386,,,,
+Orange,REF,President,,De La Fuente / Richardson,386,113,157,116,0
 Osceola,REF,President,,De La Fuente / Richardson,166,,,,
 Palm Beach,REF,President,,De La Fuente / Richardson,356,,,,
 Pasco,REF,President,,De La Fuente / Richardson,200,,,,
@@ -272,7 +272,7 @@ Baker,PSL,President,,La Riva / Freeman,3,,,,
 Bay,PSL,President,,La Riva / Freeman,45,,,,
 Bradford,PSL,President,,La Riva / Freeman,3,,,,
 Brevard,PSL,President,,La Riva / Freeman,164,,,,
-Broward,PSL,President,,La Riva / Freeman,417,115,108,193,1
+Broward,PSL,President,,La Riva / Freeman,417,115,193,108,1
 Calhoun,PSL,President,,La Riva / Freeman,4,,,,
 Charlotte,PSL,President,,La Riva / Freeman,32,,,,
 Citrus,PSL,President,,La Riva / Freeman,30,,,,
@@ -283,7 +283,7 @@ Desoto,PSL,President,,La Riva / Freeman,11,,,,
 Dixie,PSL,President,,La Riva / Freeman,2,,,,
 Duval,PSL,President,,La Riva / Freeman,328,,,,
 Escambia,PSL,President,,La Riva / Freeman,137,,,,
-Flagler,PSL,President,,La Riva / Freeman,29,6,9,14,
+Flagler,PSL,President,,La Riva / Freeman,29,6,14,9,
 Franklin,PSL,President,,La Riva / Freeman,8,,,,
 Gadsden,PSL,President,,La Riva / Freeman,10,,,,
 Gilchrist,PSL,President,,La Riva / Freeman,2,,,,
@@ -292,7 +292,7 @@ Gulf,PSL,President,,La Riva / Freeman,0,,,,
 Hamilton,PSL,President,,La Riva / Freeman,2,,,,
 Hardee,PSL,President,,La Riva / Freeman,6,,,,
 Hendry,PSL,President,,La Riva / Freeman,8,,,,
-Hernando,PSL,President,,La Riva / Freeman,44,,,,
+Hernando,PSL,President,,La Riva / Freeman,44,8,29,7,0
 Highlands,PSL,President,,La Riva / Freeman,24,,,,
 Hillsborough,PSL,President,,La Riva / Freeman,529,,,,
 Holmes,PSL,President,,La Riva / Freeman,1,,,,
@@ -302,7 +302,7 @@ Jefferson,PSL,President,,La Riva / Freeman,4,,,,
 Lafayette,PSL,President,,La Riva / Freeman,1,,,,
 Lake,PSL,President,,La Riva / Freeman,96,,,,
 Lee,PSL,President,,La Riva / Freeman,176,,,,
-Leon,PSL,President,,La Riva / Freeman,122,36,39,47,
+Leon,PSL,President,,La Riva / Freeman,122,36,47,39,
 Levy,PSL,President,,La Riva / Freeman,7,,,,
 Liberty,PSL,President,,La Riva / Freeman,2,,,,
 Madison,PSL,President,,La Riva / Freeman,4,,,,
@@ -314,7 +314,7 @@ Monroe,PSL,President,,La Riva / Freeman,14,,,,
 Nassau,PSL,President,,La Riva / Freeman,12,,,,
 Okaloosa,PSL,President,,La Riva / Freeman,73,,,,
 Okeechobee,PSL,President,,La Riva / Freeman,4,,,,
-Orange,PSL,President,,La Riva / Freeman,444,,,,
+Orange,PSL,President,,La Riva / Freeman,444,114,187,143,0
 Osceola,PSL,President,,La Riva / Freeman,140,,,,
 Palm Beach,PSL,President,,La Riva / Freeman,335,,,,
 Pasco,PSL,President,,La Riva / Freeman,169,,,,
@@ -334,23 +334,23 @@ Volusia,PSL,President,,La Riva / Freeman,173,,,,
 Wakulla,PSL,President,,La Riva / Freeman,6,,,,
 Walton,PSL,President,,La Riva / Freeman,15,,,,
 Washington,PSL,President,,La Riva / Freeman,10,,,,
-Alachua,GRE,President,,Hawkins / Walker,302,75,87,140,0
+Alachua,GRE,President,,Hawkins / Walker,302,75,140,87,0
 Baker,GRE,President,,Hawkins / Walker,10,,,,
-Bay,GRE,President,,Hawkins / Walker,142,83,,59,
+Bay,GRE,President,,Hawkins / Walker,142,83,59,,
 Bradford,GRE,President,,Hawkins / Walker,11,,,,
 Brevard,GRE,President,,Hawkins / Walker,553,,,,
-Broward,GRE,President,,Hawkins / Walker,1253,248,303,702,0
+Broward,GRE,President,,Hawkins / Walker,1253,248,702,303,0
 Calhoun,GRE,President,,Hawkins / Walker,4,,,,
 Charlotte,GRE,President,,Hawkins / Walker,129,,,,
 Citrus,GRE,President,,Hawkins / Walker,86,,,,
-Clay,GRE,President,,Hawkins / Walker,153,37,67,49,
+Clay,GRE,President,,Hawkins / Walker,153,37,49,67,
 Collier,GRE,President,,Hawkins / Walker,186,,,,
 Columbia,GRE,President,,Hawkins / Walker,28,,,,
 Desoto,GRE,President,,Hawkins / Walker,8,,,,
 Dixie,GRE,President,,Hawkins / Walker,5,,,,
 Duval,GRE,President,,Hawkins / Walker,772,,,,
 Escambia,GRE,President,,Hawkins / Walker,256,,,,
-Flagler,GRE,President,,Hawkins / Walker,69,27,13,29,
+Flagler,GRE,President,,Hawkins / Walker,69,27,29,13,
 Franklin,GRE,President,,Hawkins / Walker,12,,,,
 Gadsden,GRE,President,,Hawkins / Walker,21,,,,
 Gilchrist,GRE,President,,Hawkins / Walker,13,,,,
@@ -359,7 +359,7 @@ Gulf,GRE,President,,Hawkins / Walker,5,,,,
 Hamilton,GRE,President,,Hawkins / Walker,8,,,,
 Hardee,GRE,President,,Hawkins / Walker,8,,,,
 Hendry,GRE,President,,Hawkins / Walker,13,,,,
-Hernando,GRE,President,,Hawkins / Walker,151,,,,
+Hernando,GRE,President,,Hawkins / Walker,151,49,81,21,0
 Highlands,GRE,President,,Hawkins / Walker,53,,,,
 Hillsborough,GRE,President,,Hawkins / Walker,1187,,,,
 Holmes,GRE,President,,Hawkins / Walker,9,,,,
@@ -369,7 +369,7 @@ Jefferson,GRE,President,,Hawkins / Walker,13,,,,
 Lafayette,GRE,President,,Hawkins / Walker,2,,,,
 Lake,GRE,President,,Hawkins / Walker,254,,,,
 Lee,GRE,President,,Hawkins / Walker,440,,,,
-Leon,GRE,President,,Hawkins / Walker,271,65,93,113,
+Leon,GRE,President,,Hawkins / Walker,271,65,113,93,
 Levy,GRE,President,,Hawkins / Walker,25,,,,
 Liberty,GRE,President,,Hawkins / Walker,2,,,,
 Madison,GRE,President,,Hawkins / Walker,13,,,,
@@ -379,9 +379,9 @@ Martin,GRE,President,,Hawkins / Walker,105,,,,
 Miami-Dade,GRE,President,,Hawkins / Walker,1289,,,,
 Monroe,GRE,President,,Hawkins / Walker,51,,,,
 Nassau,GRE,President,,Hawkins / Walker,43,,,,
-Okaloosa,GRE,President,,Hawkins / Walker,183,,,,
+Okaloosa,GRE,President,,Hawkins / Walker,183,51,73,59,0
 Okeechobee,GRE,President,,Hawkins / Walker,7,,,,
-Orange,GRE,President,,Hawkins / Walker,1146,,,,
+Orange,GRE,President,,Hawkins / Walker,1146,270,544,331,0
 Osceola,GRE,President,,Hawkins / Walker,290,,,,
 Palm Beach,GRE,President,,Hawkins / Walker,891,,,,
 Pasco,GRE,President,,Hawkins / Walker,467,,,,
@@ -406,18 +406,18 @@ Baker,CPF,President,,Blankenship / Mohr,1,,,,
 Bay,CPF,President,,Blankenship / Mohr,52,,,,
 Bradford,CPF,President,,Blankenship / Mohr,6,,,,
 Brevard,CPF,President,,Blankenship / Mohr,171,,,,
-Broward,CPF,President,,Blankenship / Mohr,238,47,46,145,0
+Broward,CPF,President,,Blankenship / Mohr,238,47,145,46,0
 Calhoun,CPF,President,,Blankenship / Mohr,2,,,,
 Charlotte,CPF,President,,Blankenship / Mohr,45,,,,
 Citrus,CPF,President,,Blankenship / Mohr,49,,,,
-Clay,CPF,President,,Blankenship / Mohr,57,13,19,25,
+Clay,CPF,President,,Blankenship / Mohr,57,13,25,19,
 Collier,CPF,President,,Blankenship / Mohr,39,,,,
 Columbia,CPF,President,,Blankenship / Mohr,8,,,,
 Desoto,CPF,President,,Blankenship / Mohr,4,,,,
 Dixie,CPF,President,,Blankenship / Mohr,4,,,,
 Duval,CPF,President,,Blankenship / Mohr,218,,,,
 Escambia,CPF,President,,Blankenship / Mohr,92,,,,
-Flagler,CPF,President,,Blankenship / Mohr,20,5,3,12,
+Flagler,CPF,President,,Blankenship / Mohr,20,5,12,3,
 Franklin,CPF,President,,Blankenship / Mohr,3,,,,
 Gadsden,CPF,President,,Blankenship / Mohr,9,,,,
 Gilchrist,CPF,President,,Blankenship / Mohr,5,,,,
@@ -426,7 +426,7 @@ Gulf,CPF,President,,Blankenship / Mohr,6,,,,
 Hamilton,CPF,President,,Blankenship / Mohr,2,,,,
 Hardee,CPF,President,,Blankenship / Mohr,1,,,,
 Hendry,CPF,President,,Blankenship / Mohr,7,,,,
-Hernando,CPF,President,,Blankenship / Mohr,40,,,,
+Hernando,CPF,President,,Blankenship / Mohr,40,11,20,9,0
 Highlands,CPF,President,,Blankenship / Mohr,28,,,,
 Hillsborough,CPF,President,,Blankenship / Mohr,270,,,,
 Holmes,CPF,President,,Blankenship / Mohr,4,,,,
@@ -436,7 +436,7 @@ Jefferson,CPF,President,,Blankenship / Mohr,5,,,,
 Lafayette,CPF,President,,Blankenship / Mohr,2,,,,
 Lake,CPF,President,,Blankenship / Mohr,79,,,,
 Lee,CPF,President,,Blankenship / Mohr,121,,,,
-Leon,CPF,President,,Blankenship / Mohr,71,24,15,32,
+Leon,CPF,President,,Blankenship / Mohr,71,24,32,15,
 Levy,CPF,President,,Blankenship / Mohr,13,,,,
 Liberty,CPF,President,,Blankenship / Mohr,1,,,,
 Madison,CPF,President,,Blankenship / Mohr,5,,,,
@@ -448,7 +448,7 @@ Monroe,CPF,President,,Blankenship / Mohr,12,,,,
 Nassau,CPF,President,,Blankenship / Mohr,24,,,,
 Okaloosa,CPF,President,,Blankenship / Mohr,79,,,,
 Okeechobee,CPF,President,,Blankenship / Mohr,8,,,,
-Orange,CPF,President,,Blankenship / Mohr,223,,,,
+Orange,CPF,President,,Blankenship / Mohr,223,49,117,57,0
 Osceola,CPF,President,,Blankenship / Mohr,70,,,,
 Palm Beach,CPF,President,,Blankenship / Mohr,188,,,,
 Pasco,CPF,President,,Blankenship / Mohr,142,,,,
@@ -872,12 +872,12 @@ Walton,WRI,President,,Wells / Wells,0,,,,
 Washington,WRI,President,,Wells / Wells,0,,,,
 Escambia,REP,U.S. House,1,Matt  Gaetz,93078,,,,
 Holmes,REP,U.S. House,1,Matt  Gaetz,4992,,,,
-Okaloosa,REP,U.S. House,1,Matt  Gaetz,78035,,,,
+Okaloosa,REP,U.S. House,1,Matt  Gaetz,78035,17965,19482,40498,90
 Santa Rosa,REP,U.S. House,1,Matt  Gaetz,75075,,,,
 Walton,REP,U.S. House,1,Matt  Gaetz,32172,,,,
 Escambia,DEM,U.S. House,1,Phil  Ehr,73582,,,,
 Holmes,DEM,U.S. House,1,Phil  Ehr,587,,,,
-Okaloosa,DEM,U.S. House,1,Phil  Ehr,34966,,,,
+Okaloosa,DEM,U.S. House,1,Phil  Ehr,34966,5064,16858,13014,30
 Santa Rosa,DEM,U.S. House,1,Phil  Ehr,29483,,,,
 Walton,DEM,U.S. House,1,Phil  Ehr,10554,,,,
 Escambia,NPA,U.S. House,1,Albert  Oram,2268,,,,
@@ -885,7 +885,7 @@ Holmes,NPA,U.S. House,1,Albert  Oram,89,,,,
 Okaloosa,NPA,U.S. House,1,Albert  Oram,1877,,,,
 Santa Rosa,NPA,U.S. House,1,Albert  Oram,1380,,,,
 Walton,NPA,U.S. House,1,Albert  Oram,424,,,,
-Bay,REP,U.S. House,2,Neal  Dunn,76997,55573,,21424,
+Bay,REP,U.S. House,2,Neal  Dunn,76997,55573,21424,,
 Calhoun,REP,U.S. House,2,Neal  Dunn,5662,,,,
 Columbia,REP,U.S. House,2,Neal  Dunn,24293,,,,
 Dixie,REP,U.S. House,2,Neal  Dunn,6993,,,,
@@ -896,7 +896,7 @@ Holmes,REP,U.S. House,2,Neal  Dunn,2968,,,,
 Jackson,REP,U.S. House,2,Neal  Dunn,18262,,,,
 Jefferson,REP,U.S. House,2,Neal  Dunn,586,,,,
 Lafayette,REP,U.S. House,2,Neal  Dunn,3307,,,,
-Leon,REP,U.S. House,2,Neal  Dunn,47294,10795,19768,16731,
+Leon,REP,U.S. House,2,Neal  Dunn,47294,10795,16731,19768,
 Levy,REP,U.S. House,2,Neal  Dunn,18959,,,,
 Liberty,REP,U.S. House,2,Neal  Dunn,2973,,,,
 Marion,REP,U.S. House,2,Neal  Dunn,24888,,,,
@@ -923,15 +923,15 @@ Suwannee,WRI,U.S. House,2,Kim  O'Connor,156,,,,
 Taylor,WRI,U.S. House,2,Kim  O'Connor,67,,,,
 Wakulla,WRI,U.S. House,2,Kim  O'Connor,332,,,,
 Washington,WRI,U.S. House,2,Kim  O'Connor,0,,,,
-Alachua,REP,U.S. House,3,Kat  Cammack,52914,15266,22244,15331,73
+Alachua,REP,U.S. House,3,Kat  Cammack,52914,15266,15331,22244,73
 Bradford,REP,U.S. House,3,Kat  Cammack,9965,,,,
-Clay,REP,U.S. House,3,Kat  Cammack,84221,18705,47620,17896,
+Clay,REP,U.S. House,3,Kat  Cammack,84221,18705,17896,47620,
 Marion,REP,U.S. House,3,Kat  Cammack,46097,,,,
 Putnam,REP,U.S. House,3,Kat  Cammack,24916,,,,
 Union,REP,U.S. House,3,Kat  Cammack,4962,,,,
-Alachua,DEM,U.S. House,3,Adam  Christensen,86857,10997,30999,44733,128
+Alachua,DEM,U.S. House,3,Adam  Christensen,86857,10997,44733,30999,128
 Bradford,DEM,U.S. House,3,Adam  Christensen,3302,,,,
-Clay,DEM,U.S. House,3,Adam  Christensen,38040,5406,17163,15831,
+Clay,DEM,U.S. House,3,Adam  Christensen,38040,5406,15831,17163,
 Marion,DEM,U.S. House,3,Adam  Christensen,27141,,,,
 Putnam,DEM,U.S. House,3,Adam  Christensen,10835,,,,
 Union,DEM,U.S. House,3,Adam  Christensen,1151,,,,
@@ -944,27 +944,27 @@ St. Johns,DEM,U.S. House,4,Donna  Deegan,54700,,,,
 Duval,WRI,U.S. House,4,Gary L. Koniz,17,,,,
 Nassau,WRI,U.S. House,4,Gary L. Koniz,0,,,,
 St. Johns,WRI,U.S. House,4,Gary L. Koniz,3,,,,
-Baker,REP,U.S. House,5,Gary  Adler,11329,3200,6186,1943,0
+Baker,REP,U.S. House,5,Gary  Adler,11329,3200,1943,6186,0
 Columbia,REP,U.S. House,5,Gary  Adler,1758,,,,
 Duval,REP,U.S. House,5,Gary  Adler,63193,,,,
 Gadsden,REP,U.S. House,5,Gary  Adler,6875,,,,
 Hamilton,REP,U.S. House,5,Gary  Adler,3579,,,,
 Jefferson,REP,U.S. House,5,Gary  Adler,3841,,,,
-Leon,REP,U.S. House,5,Gary  Adler,21674,6628,9551,5855,
+Leon,REP,U.S. House,5,Gary  Adler,21674,6628,5855,9551,
 Madison,REP,U.S. House,5,Gary  Adler,5261,,,,
-Baker,DEM,U.S. House,5,Al  Lawson,2476,726,917,833,0
+Baker,DEM,U.S. House,5,Al  Lawson,2476,726,833,917,0
 Columbia,DEM,U.S. House,5,Al  Lawson,2033,,,,
 Duval,DEM,U.S. House,5,Al  Lawson,127311,,,,
 Gadsden,DEM,U.S. House,5,Al  Lawson,16783,,,,
 Hamilton,DEM,U.S. House,5,Al  Lawson,2133,,,,
 Jefferson,DEM,U.S. House,5,Al  Lawson,3800,,,,
-Leon,DEM,U.S. House,5,Al  Lawson,60937,11153,24445,25339,
+Leon,DEM,U.S. House,5,Al  Lawson,60937,11153,25339,24445,
 Madison,DEM,U.S. House,5,Al  Lawson,3990,,,,
-Flagler,REP,U.S. House,6,Michael  Waltz,43346,8414,20291,14641,
+Flagler,REP,U.S. House,6,Michael  Waltz,43346,8414,14641,20291,
 Lake,REP,U.S. House,6,Michael  Waltz,32302,,,,
 St. Johns,REP,U.S. House,6,Michael  Waltz,14851,,,,
 Volusia,REP,U.S. House,6,Michael  Waltz,174894,,,,
-Flagler,DEM,U.S. House,6,Clint  Curtis,26257,2760,7304,16193,
+Flagler,DEM,U.S. House,6,Clint  Curtis,26257,2760,16193,7304,
 Lake,DEM,U.S. House,6,Clint  Curtis,16386,,,,
 St. Johns,DEM,U.S. House,6,Clint  Curtis,7717,,,,
 Volusia,DEM,U.S. House,6,Clint  Curtis,121945,,,,
@@ -976,37 +976,37 @@ Flagler,WRI,U.S. House,6,John G. 'Gerry' Nolan,4,,,,
 Lake,WRI,U.S. House,6,John G. 'Gerry' Nolan,16,,,,
 St. Johns,WRI,U.S. House,6,John G. 'Gerry' Nolan,2,,,,
 Volusia,WRI,U.S. House,6,John G. 'Gerry' Nolan,90,,,,
-Orange,REP,U.S. House,7,Leo  ValentÌn,56280,,,,
+Orange,REP,U.S. House,7,Leo  ValentÌn,56280,14043,19001,23213,23
 Seminole,REP,U.S. House,7,Leo  ValentÌn,119470,,,,
-Orange,DEM,U.S. House,7,Stephanie  Murphy,92639,,,,
+Orange,DEM,U.S. House,7,Stephanie  Murphy,92639,11984,47337,33289,29
 Seminole,DEM,U.S. House,7,Stephanie  Murphy,132307,,,,
-Orange,NPA,U.S. House,7,William R. Garlington,2242,,,,
+Orange,NPA,U.S. House,7,William R. Garlington,2242,631,860,750,1
 Seminole,NPA,U.S. House,7,William R. Garlington,3511,,,,
 Brevard,REP,U.S. House,8,Bill  Posey,215686,,,,
 Indian River,REP,U.S. House,8,Bill  Posey,61055,,,,
-Orange,REP,U.S. House,8,Bill  Posey,5352,,,,
+Orange,REP,U.S. House,8,Bill  Posey,5352,2525,1447,1379,1
 Brevard,DEM,U.S. House,8,Jim  Kennedy,139769,,,,
 Indian River,DEM,U.S. House,8,Jim  Kennedy,34585,,,,
-Orange,DEM,U.S. House,8,Jim  Kennedy,3341,,,,
-Orange,REP,U.S. House,9,William P. 'Bill' Olson,38365,,,,
+Orange,DEM,U.S. House,8,Jim  Kennedy,3341,727,1766,848,0
+Orange,REP,U.S. House,9,William P. 'Bill' Olson,38365,8808,12701,16850,6
 Osceola,REP,U.S. House,9,William P. 'Bill' Olson,65756,,,,
 Polk,REP,U.S. House,9,William P. 'Bill' Olson,84768,,,,
-Orange,DEM,U.S. House,9,Darren  Soto,62032,,,,
+Orange,DEM,U.S. House,9,Darren  Soto,62032,8418,31429,22171,14
 Osceola,DEM,U.S. House,9,Darren  Soto,103147,,,,
 Polk,DEM,U.S. House,9,Darren  Soto,75545,,,,
 Orange,WRI,U.S. House,9,Clay  Hill,6,,,,
 Osceola,WRI,U.S. House,9,Clay  Hill,15,,,,
 Polk,WRI,U.S. House,9,Clay  Hill,4,,,,
-Orange,REP,U.S. House,10,Vennia  Francois,136889,,,,
-Orange,DEM,U.S. House,10,Val  Demings,239434,,,,
+Orange,REP,U.S. House,10,Vennia  Francois,136889,29240,43529,64084,36
+Orange,DEM,U.S. House,10,Val  Demings,239434,29483,115440,94446,65
 Orange,WRI,U.S. House,10,Sufiyah  Yasmine,74,,,,
 Citrus,REP,U.S. House,11,Daniel  Webster,64293,,,,
-Hernando,REP,U.S. House,11,Daniel  Webster,68885,,,,
+Hernando,REP,U.S. House,11,Daniel  Webster,68885,18405,23739,26713,28
 Lake,REP,U.S. House,11,Daniel  Webster,61012,,,,
 Marion,REP,U.S. House,11,Daniel  Webster,58948,,,,
 Sumter,REP,U.S. House,11,Daniel  Webster,63841,,,,
 Citrus,DEM,U.S. House,11,Dana Marie Cottrell,26816,,,,
-Hernando,DEM,U.S. House,11,Dana Marie Cottrell,37530,,,,
+Hernando,DEM,U.S. House,11,Dana Marie Cottrell,37530,5531,22268,9708,23
 Lake,DEM,U.S. House,11,Dana Marie Cottrell,32956,,,,
 Marion,DEM,U.S. House,11,Dana Marie Cottrell,33999,,,,
 Sumter,DEM,U.S. House,11,Dana Marie Cottrell,26793,,,,
@@ -1075,30 +1075,30 @@ Collier,DEM,U.S. House,19,Cindy Lyn Banyai,36612,,,,
 Lee,DEM,U.S. House,19,Cindy Lyn Banyai,135534,,,,
 Collier,WRI,U.S. House,19,Patrick  Post,1,,,,
 Lee,WRI,U.S. House,19,Patrick  Post,2,,,,
-Broward,REP,U.S. House,20,Greg  Musselwhite,41803,7602,18719,15472,10
+Broward,REP,U.S. House,20,Greg  Musselwhite,41803,7602,15472,18719,10
 Palm Beach,REP,U.S. House,20,Greg  Musselwhite,26945,,,,
-Broward,DEM,U.S. House,20,Alcee L. Hastings,186909,19426,70242,97201,40
+Broward,DEM,U.S. House,20,Alcee L. Hastings,186909,19426,97201,70242,40
 Palm Beach,DEM,U.S. House,20,Alcee L. Hastings,66752,,,,
 Palm Beach,REP,U.S. House,21,Laura  Loomer,157612,,,,
 Palm Beach,DEM,U.S. House,21,Lois  Frankel,237925,,,,
 Palm Beach,NPA,U.S. House,21,Charleston  Malkemus,7544,,,,
 Palm Beach,WRI,U.S. House,21,Piotr  Blass,4,,,,
 Palm Beach,WRI,U.S. House,21,Sylvia  Caravetta,8,,,,
-Broward,REP,U.S. House,22,James 'Jim' Pruden,128851,25018,58441,45368,24
+Broward,REP,U.S. House,22,James 'Jim' Pruden,128851,25018,45368,58441,24
 Palm Beach,REP,U.S. House,22,James 'Jim' Pruden,37702,,,,
-Broward,DEM,U.S. House,22,Ted  Deutch,192923,17305,61630,113960,28
+Broward,DEM,U.S. House,22,Ted  Deutch,192923,17305,113960,61630,28
 Palm Beach,DEM,U.S. House,22,Ted  Deutch,42841,,,,
-Broward,REP,U.S. House,23,Carla  Spalding,141886,24275,66436,51136,39
+Broward,REP,U.S. House,23,Carla  Spalding,141886,24275,51136,66436,39
 Miami-Dade,REP,U.S. House,23,Carla  Spalding,16988,,,,
-Broward,DEM,U.S. House,23,Debbie  Wasserman Schultz,203940,18261,64545,121096,38
+Broward,DEM,U.S. House,23,Debbie  Wasserman Schultz,203940,18261,121096,64545,38
 Miami-Dade,DEM,U.S. House,23,Debbie  Wasserman Schultz,17299,,,,
 Broward,WRI,U.S. House,23,Demetrius 'DB' Fugate,33,,,,
 Miami-Dade,WRI,U.S. House,23,Demetrius 'DB' Fugate,4,,,,
 Broward,WRI,U.S. House,23,Jeff  Olson,42,,,,
 Miami-Dade,WRI,U.S. House,23,Jeff  Olson,4,,,,
-Broward,REP,U.S. House,24,Lavern  Spicer,10079,2122,4466,3490,1
+Broward,REP,U.S. House,24,Lavern  Spicer,10079,2122,3490,4466,1
 Miami-Dade,REP,U.S. House,24,Lavern  Spicer,49005,,,,
-Broward,DEM,U.S. House,24,Frederica  Wilson,24817,3266,8248,13300,3
+Broward,DEM,U.S. House,24,Frederica  Wilson,24817,3266,13300,8248,3
 Miami-Dade,DEM,U.S. House,24,Frederica  Wilson,194008,,,,
 Broward,NPA,U.S. House,24,Christine Alexandria Olivo,1632,,,,
 Miami-Dade,NPA,U.S. House,24,Christine Alexandria Olivo,10071,,,,
@@ -1125,7 +1125,7 @@ Gadsden,REP,State Senate,3,Marva Harris Preston,7855,,,,
 Gulf,REP,State Senate,3,Marva Harris Preston,5996,,,,
 Hamilton,REP,State Senate,3,Marva Harris Preston,3826,,,,
 Jefferson,REP,State Senate,3,Marva Harris Preston,4523,,,,
-Leon,REP,State Senate,3,Marva Harris Preston,59937,16080,26212,17645,
+Leon,REP,State Senate,3,Marva Harris Preston,59937,16080,17645,26212,
 Liberty,REP,State Senate,3,Marva Harris Preston,2521,,,,
 Madison,REP,State Senate,3,Marva Harris Preston,5527,,,,
 Taylor,REP,State Senate,3,Marva Harris Preston,7569,,,,
@@ -1136,14 +1136,14 @@ Gadsden,DEM,State Senate,3,Loranne  Ausley,15268,,,,
 Gulf,DEM,State Senate,3,Loranne  Ausley,1911,,,,
 Hamilton,DEM,State Senate,3,Loranne  Ausley,1862,,,,
 Jefferson,DEM,State Senate,3,Loranne  Ausley,3828,,,,
-Leon,DEM,State Senate,3,Loranne  Ausley,99391,14578,36929,47884,
+Leon,DEM,State Senate,3,Loranne  Ausley,99391,14578,47884,36929,
 Liberty,DEM,State Senate,3,Loranne  Ausley,851,,,,
 Madison,DEM,State Senate,3,Loranne  Ausley,3647,,,,
 Taylor,DEM,State Senate,3,Loranne  Ausley,2358,,,,
 Wakulla,DEM,State Senate,3,Loranne  Ausley,5027,,,,
-Baker,REP,State Senate,5,Jennifer  Bradley,11646,3294,6305,2047,0
-Bradford,REP,State Senate,5,Jennifer  Bradley,10083,3556,4006,2521,0
-Clay,REP,State Senate,5,Jennifer  Bradley,86412,18879,48520,19013,
+Baker,REP,State Senate,5,Jennifer  Bradley,11646,3294,2047,6305,0
+Bradford,REP,State Senate,5,Jennifer  Bradley,10083,3556,2521,4006,0
+Clay,REP,State Senate,5,Jennifer  Bradley,86412,18879,19013,48520,
 Columbia,REP,State Senate,5,Jennifer  Bradley,23641,,,,
 Dixie,REP,State Senate,5,Jennifer  Bradley,6416,,,,
 Gilchrist,REP,State Senate,5,Jennifer  Bradley,7862,,,,
@@ -1152,9 +1152,9 @@ Levy,REP,State Senate,5,Jennifer  Bradley,16516,,,,
 Marion,REP,State Senate,5,Jennifer  Bradley,7281,,,,
 Suwannee,REP,State Senate,5,Jennifer  Bradley,16260,,,,
 Union,REP,State Senate,5,Jennifer  Bradley,5025,,,,
-Baker,DEM,State Senate,5,Stacey L. Peters,2017,593,734,690,0
+Baker,DEM,State Senate,5,Stacey L. Peters,2017,593,690,734,0
 Bradford,DEM,State Senate,5,Stacey L. Peters,3007,,,,
-Clay,DEM,State Senate,5,Stacey L. Peters,34852,4678,15829,14345,
+Clay,DEM,State Senate,5,Stacey L. Peters,34852,4678,14345,15829,
 Columbia,DEM,State Senate,5,Stacey L. Peters,8174,,,,
 Dixie,DEM,State Senate,5,Stacey L. Peters,1282,,,,
 Gilchrist,DEM,State Senate,5,Stacey L. Peters,1543,,,,
@@ -1163,10 +1163,10 @@ Levy,DEM,State Senate,5,Stacey L. Peters,5806,,,,
 Marion,DEM,State Senate,5,Stacey L. Peters,3199,,,,
 Suwannee,DEM,State Senate,5,Stacey L. Peters,4166,,,,
 Union,DEM,State Senate,5,Stacey L. Peters,1022,,,,
-Flagler,REP,State Senate,7,Travis J. Hutson,41816,8067,19728,14021,
+Flagler,REP,State Senate,7,Travis J. Hutson,41816,8067,14021,19728,
 St. Johns,REP,State Senate,7,Travis J. Hutson,112279,,,,
 Volusia,REP,State Senate,7,Travis J. Hutson,58482,,,,
-Flagler,DEM,State Senate,7,Heather  Hunter,26722,2898,7447,16377,
+Flagler,DEM,State Senate,7,Heather  Hunter,26722,2898,16377,7447,
 St. Johns,DEM,State Senate,7,Heather  Hunter,57983,,,,
 Volusia,DEM,State Senate,7,Heather  Hunter,47058,,,,
 Flagler,WRI,State Senate,7,Richard  Dembinsky,2,,,,
@@ -1178,15 +1178,15 @@ Seminole,DEM,State Senate,9,Patricia  Sigman,124056,,,,
 Volusia,DEM,State Senate,9,Patricia  Sigman,9844,,,,
 Seminole,NPA,State Senate,9,Jestine  Iannotti,4854,,,,
 Volusia,NPA,State Senate,9,Jestine  Iannotti,933,,,,
-Orange,REP,State Senate,11,Joshua Eli Adams,79224,,,,
-Orange,DEM,State Senate,11,Randolph  Bracy,147244,,,,
-Orange,REP,State Senate,13,Josh  Anderson,99134,,,,
-Orange,DEM,State Senate,13,Linda  Stewart,152769,,,,
-Orange,REP,State Senate,15,Louis T. Minnis,60847,,,,
+Orange,REP,State Senate,11,Joshua Eli Adams,79224,17944,26042,35220,18
+Orange,DEM,State Senate,11,Randolph  Bracy,147244,19397,68047,59756,44
+Orange,REP,State Senate,13,Josh  Anderson,99134,25032,33441,40625,36
+Orange,DEM,State Senate,13,Linda  Stewart,152769,21133,77493,54101,42
+Orange,REP,State Senate,15,Louis T. Minnis,60847,11246,19440,30144,17
 Osceola,REP,State Senate,15,Louis T. Minnis,62306,,,,
-Orange,DEM,State Senate,15,Victor M. Torres,83491,,,,
+Orange,DEM,State Senate,15,Victor M. Torres,83491,8343,43032,32100,16
 Osceola,DEM,State Senate,15,Victor M. Torres,96694,,,,
-Orange,NPA,State Senate,15,Mike  James,4656,,,,
+Orange,NPA,State Senate,15,Mike  James,4656,1004,1892,1760,0
 Osceola,NPA,State Senate,15,Mike  James,7551,,,,
 Brevard,REP,State Senate,17,Debbie  Mayfield,132043,,,,
 Indian River,REP,State Senate,17,Debbie  Mayfield,61517,,,,
@@ -1222,13 +1222,13 @@ Palm Beach,DEM,State Senate,25,Corinna  Balderramos Robinson,9326,,,,
 St. Lucie,DEM,State Senate,25,Corinna  Balderramos Robinson,77749,,,,
 Lee,REP,State Senate,27,Ray  Rodrigues,176954,,,,
 Lee,DEM,State Senate,27,Rachel  Brown,115537,,,,
-Broward,REP,State Senate,29,Brian  Norton,29319,4792,14210,10313,4
+Broward,REP,State Senate,29,Brian  Norton,29319,4792,10313,14210,4
 Palm Beach,REP,State Senate,29,Brian  Norton,95183,,,,
-Broward,DEM,State Senate,29,Tina  Polsky,43776,3484,13868,26419,5
+Broward,DEM,State Senate,29,Tina  Polsky,43776,3484,26419,13868,5
 Palm Beach,DEM,State Senate,29,Tina  Polsky,112665,,,,
 Palm Beach,REP,State Senate,31,Tami  Donnally,95019,,,,
 Palm Beach,DEM,State Senate,31,Lori  Berman,156495,,,,
-Broward,DEM,State Senate,35,Shevrin 'Shev' Jones,98088,10359,36292,51427,10
+Broward,DEM,State Senate,35,Shevrin 'Shev' Jones,98088,10359,51427,36292,10
 Miami-Dade,DEM,State Senate,35,Shevrin 'Shev' Jones,90854,,,,
 Broward,WRI,State Senate,35,Darien  Hill,339,,,,
 Miami-Dade,WRI,State Senate,35,Darien  Hill,251,,,,
@@ -1251,11 +1251,11 @@ Okaloosa,REP,State House,3,Jayer  Williamson,12300,,,,
 Santa Rosa,REP,State House,3,Jayer  Williamson,70402,,,,
 Okaloosa,DEM,State House,3,Angela L. Hoover,2774,,,,
 Santa Rosa,DEM,State House,3,Angela L. Hoover,23155,,,,
-Okaloosa,REP,State House,4,Patt  Maney,70208,,,,
+Okaloosa,REP,State House,4,Patt  Maney,70208,14844,19401,35878,85
 Okaloosa,DEM,State House,4,John  Plante,27083,,,,
 Okaloosa,WRI,State House,4,Lance  Lawrence,11,,,,
-Bay,REP,State House,6,Jay  Trumbull,61456,45334,,16122,
-Bay,DEM,State House,6,Alicia  Bays,23848,13062,,10786,
+Bay,REP,State House,6,Jay  Trumbull,61456,45334,16122,,
+Bay,DEM,State House,6,Alicia  Bays,23848,13062,10786,,
 Calhoun,REP,State House,7,Jason  Shoaf,5105,,,,
 Franklin,REP,State House,7,Jason  Shoaf,4738,,,,
 Gulf,REP,State House,7,Jason  Shoaf,6341,,,,
@@ -1279,12 +1279,12 @@ Wakulla,DEM,State House,7,Taymour  Khan,4610,,,,
 Leon,REP,State House,9,Jim  Kallinger,42901,,,,
 Leon,DEM,State House,9,Allison  Tant,58868,,,,
 Alachua,REP,State House,10,Chuck  Brannan,2367,,,,
-Baker,REP,State House,10,Chuck  Brannan,12001,3403,6425,2173,0
+Baker,REP,State House,10,Chuck  Brannan,12001,3403,2173,6425,0
 Columbia,REP,State House,10,Chuck  Brannan,24236,,,,
 Hamilton,REP,State House,10,Chuck  Brannan,3842,,,,
 Suwannee,REP,State House,10,Chuck  Brannan,16426,,,,
-Alachua,DEM,State House,10,Rock  Aboujaoude,1284,231,398,655,0
-Baker,DEM,State House,10,Rock  Aboujaoude,1830,547,682,601,0
+Alachua,DEM,State House,10,Rock  Aboujaoude,1284,231,655,398,0
+Baker,DEM,State House,10,Rock  Aboujaoude,1830,547,601,682,0
 Columbia,DEM,State House,10,Rock  Aboujaoude,7683,,,,
 Hamilton,DEM,State House,10,Rock  Aboujaoude,1772,,,,
 Suwannee,DEM,State House,10,Rock  Aboujaoude,3887,,,,
@@ -1300,21 +1300,21 @@ Duval,REP,State House,16,Jason  Fischer,59549,,,,
 Duval,DEM,State House,16,Ben  Marcus,43901,,,,
 St. Johns,REP,State House,17,Cyndi  Stevenson,97932,,,,
 St. Johns,DEM,State House,17,Dave  Rogers,46685,,,,
-Clay,REP,State House,18,Sam  Garrison,64759,13662,37744,13353,
-Clay,DEM,State House,18,Leroy Anthony Edwards,28457,3745,13692,11020,
-Clay,LPF,State House,18,Ken  Willey,3099,838,1416,845,
-Bradford,REP,State House,19,Bobby  Payne,9761,3441,3896,2424,0
-Clay,REP,State House,19,Bobby  Payne,18701,4430,9471,4800,
+Clay,REP,State House,18,Sam  Garrison,64759,13662,13353,37744,
+Clay,DEM,State House,18,Leroy Anthony Edwards,28457,3745,11020,13692,
+Clay,LPF,State House,18,Ken  Willey,3099,838,845,1416,
+Bradford,REP,State House,19,Bobby  Payne,9761,3441,2424,3896,0
+Clay,REP,State House,19,Bobby  Payne,18701,4430,4800,9471,
 Putnam,REP,State House,19,Bobby  Payne,24885,,,,
 Union,REP,State House,19,Bobby  Payne,4837,,,,
 Bradford,DEM,State House,19,Kimberly  Dugger,3286,,,,
-Clay,DEM,State House,19,Kimberly  Dugger,6167,814,1979,3374,
+Clay,DEM,State House,19,Kimberly  Dugger,6167,814,3374,1979,
 Putnam,DEM,State House,19,Kimberly  Dugger,10619,,,,
 Union,DEM,State House,19,Kimberly  Dugger,1187,,,,
-Alachua,REP,State House,21,Chuck  Clemons,34151,8865,14749,10490,47
+Alachua,REP,State House,21,Chuck  Clemons,34151,8865,10490,14749,47
 Dixie,REP,State House,21,Chuck  Clemons,6731,,,,
 Gilchrist,REP,State House,21,Chuck  Clemons,8001,,,,
-Alachua,DEM,State House,21,Kayser  Enneking,44114,4309,15653,24091,61
+Alachua,DEM,State House,21,Kayser  Enneking,44114,4309,24091,15653,61
 Dixie,DEM,State House,21,Kayser  Enneking,1165,,,,
 Gilchrist,DEM,State House,21,Kayser  Enneking,1538,,,,
 Levy,REP,State House,22,Joe  Harding,16536,,,,
@@ -1323,10 +1323,10 @@ Levy,DEM,State House,22,Barbara  Byram,5828,,,,
 Marion,DEM,State House,22,Barbara  Byram,29183,,,,
 Marion,REP,State House,23,Stan  McClain,58787,,,,
 Marion,DEM,State House,23,Cynthia  Dela Rosa,28882,,,,
-Flagler,REP,State House,24,Paul  Renner,42186,8154,19876,14156,
+Flagler,REP,State House,24,Paul  Renner,42186,8154,14156,19876,
 St. Johns,REP,State House,24,Paul  Renner,16290,,,,
 Volusia,REP,State House,24,Paul  Renner,12408,,,,
-Flagler,DEM,State House,24,Adam  Morley,26345,2849,7395,16101,
+Flagler,DEM,State House,24,Adam  Morley,26345,2849,16101,7395,
 St. Johns,DEM,State House,24,Adam  Morley,9074,,,,
 Volusia,DEM,State House,24,Adam  Morley,6134,,,,
 Volusia,REP,State House,25,Tom  Leek,65675,,,,
@@ -1342,14 +1342,14 @@ Seminole,NPA,State House,28,Michael A. Riccio,2049,,,,
 Seminole,REP,State House,29,Scott  Plakon,48411,,,,
 Seminole,DEM,State House,29,Tracey  Kagan,44619,,,,
 Seminole,NPA,State House,29,Juan  Rodriguez,2760,,,,
-Orange,REP,State House,30,Bob  Cortes,13136,,,,
+Orange,REP,State House,30,Bob  Cortes,13136,3341,4646,5146,3
 Seminole,REP,State House,30,Bob  Cortes,28316,,,,
-Orange,DEM,State House,30,Joy  Goff-Marcil,16468,,,,
+Orange,DEM,State House,30,Joy  Goff-Marcil,16468,2134,8482,5850,2
 Seminole,DEM,State House,30,Joy  Goff-Marcil,30245,,,,
 Lake,REP,State House,31,Keith  Truenow,41223,,,,
-Orange,REP,State House,31,Keith  Truenow,17088,,,,
+Orange,REP,State House,31,Keith  Truenow,17088,4378,5578,7130,2
 Lake,DEM,State House,31,Crissy  Stile,23424,,,,
-Orange,DEM,State House,31,Crissy  Stile,15979,,,,
+Orange,DEM,State House,31,Crissy  Stile,15979,2154,7918,5905,2
 Lake,REP,State House,32,Anthony  Sabatini,63164,,,,
 Lake,DEM,State House,32,Stephanie L. Dukes,50226,,,,
 Lake,REP,State House,33,Brett T. Hage,18464,,,,
@@ -1359,11 +1359,11 @@ Lake,DEM,State House,33,Mamie 'Dee' Melvin,8594,,,,
 Marion,DEM,State House,33,Mamie 'Dee' Melvin,5198,,,,
 Sumter,DEM,State House,33,Mamie 'Dee' Melvin,26578,,,,
 Citrus,REP,State House,34,Ralph E. Massullo,67670,,,,
-Hernando,REP,State House,34,Ralph E. Massullo,8075,,,,
+Hernando,REP,State House,34,Ralph E. Massullo,8075,2005,3100,2967,3
 Citrus,DEM,State House,34,Dushyant Jethagir Gosai,22081,,,,
-Hernando,DEM,State House,34,Dushyant Jethagir Gosai,2988,,,,
-Hernando,REP,State House,35,Blaise  Ingoglia,60733,,,,
-Hernando,DEM,State House,35,Keith G. Laufenberg,33761,,,,
+Hernando,DEM,State House,34,Dushyant Jethagir Gosai,2988,312,1968,707,1
+Hernando,REP,State House,35,Blaise  Ingoglia,60733,16328,20773,23607,25
+Hernando,DEM,State House,35,Keith G. Laufenberg,33761,5090,19795,8855,21
 Pasco,REP,State House,36,Amber  Mariano,51432,,,,
 Pasco,DEM,State House,36,Daniel  Endonino,29726,,,,
 Pasco,REP,State House,37,Ardian  Zika,71722,,,,
@@ -1385,18 +1385,18 @@ Osceola,DEM,State House,42,Barbara Ann Cady,30940,,,,
 Polk,DEM,State House,42,Barbara Ann Cady,14515,,,,
 Osceola,NPA,State House,42,Leroy  Sanchez,6474,,,,
 Polk,NPA,State House,42,Leroy  Sanchez,1000,,,,
-Orange,REP,State House,44,Bruno  Portigliatti,55950,,,,
-Orange,DEM,State House,44,Geraldine F. Thompson,61564,,,,
-Orange,REP,State House,47,Jeremy  Sisson,41321,,,,
-Orange,DEM,State House,47,Anna V. Eskamani,59494,,,,
-Orange,REP,State House,48,Jesus  Martinez,25197,,,,
-Orange,DEM,State House,48,Daisy  Morales,47341,,,,
-Orange,REP,State House,49,Robert  Prater,29357,,,,
-Orange,DEM,State House,49,Carlos Guillermo Smith,47759,,,,
+Orange,REP,State House,44,Bruno  Portigliatti,55950,9902,17882,28152,14
+Orange,DEM,State House,44,Geraldine F. Thompson,61564,5340,32526,23688,10
+Orange,REP,State House,47,Jeremy  Sisson,41321,10083,14439,16779,20
+Orange,DEM,State House,47,Anna V. Eskamani,59494,7023,31260,21193,18
+Orange,REP,State House,48,Jesus  Martinez,25197,5231,8710,11247,9
+Orange,DEM,State House,48,Daisy  Morales,47341,6604,23419,17302,16
+Orange,REP,State House,49,Robert  Prater,29357,6874,9819,12655,9
+Orange,DEM,State House,49,Carlos Guillermo Smith,47759,6846,23218,17680,15
 Brevard,REP,State House,50,Rene 'Coach P' Plasencia,27269,,,,
-Orange,REP,State House,50,Rene 'Coach P' Plasencia,35521,,,,
+Orange,REP,State House,50,Rene 'Coach P' Plasencia,35521,9712,11820,13978,11
 Brevard,DEM,State House,50,Nina  Yoakum,13212,,,,
-Orange,DEM,State House,50,Nina  Yoakum,33792,,,,
+Orange,DEM,State House,50,Nina  Yoakum,33792,4353,17252,12186,1
 Brevard,REP,State House,51,Tyler  Sirois,59405,,,,
 Brevard,DEM,State House,51,Joan Marie Majid,36694,,,,
 Brevard,REP,State House,52,Thad  Altman,70949,,,,
@@ -1474,9 +1474,9 @@ Lee,DEM,State House,78,Shawn Michael Williams,38792,,,,
 Lee,REP,State House,79,Spencer  Roach,46239,,,,
 Lee,DEM,State House,79,Danika  Fornear,29933,,,,
 Collier,REP,State House,80,Lauren Uhlich Melo,47426,,,,
-Hendry,REP,State House,80,Lauren Uhlich Melo,7433,,,,
+Hendry,REP,State House,80,Lauren Uhlich Melo,7433,1650,1605,4178,0
 Collier,DEM,State House,80,Laura  Novosad,25797,,,,
-Hendry,DEM,State House,80,Laura  Novosad,4950,,,,
+Hendry,DEM,State House,80,Laura  Novosad,4950,1034,1537,2379,0
 Palm Beach,REP,State House,81,Saulis  Banionis,36126,,,,
 Palm Beach,DEM,State House,81,Kelly  Skidmore,52204,,,,
 Martin,REP,State House,82,John  Snyder,38693,,,,
@@ -1504,22 +1504,22 @@ Palm Beach,REP,State House,90,Lydia  Maldonado,35537,,,,
 Palm Beach,DEM,State House,90,Joseph A. Casello,52386,,,,
 Palm Beach,REP,State House,91,Sayd  Hussain,38763,,,,
 Palm Beach,DEM,State House,91,Emily Ann Slosberg,68053,,,,
-Broward,DEM,State House,92,Patricia  Hawkins-Williams,49496,5562,17763,26162,9
-Broward,NPA,State House,92,Nancy  St. Clair,11485,2469,4431,4583,2
-Broward,REP,State House,93,Chip  LaMarca,54593,9995,23607,20977,14
-Broward,DEM,State House,93,Linda Thompson Gonzalez,44239,3378,13496,27357,8
-Broward,REP,State House,101,Vincent 'Vinny' Parlatore,17935,3593,8190,6149,3
-Broward,DEM,State House,101,Marie  Woodson,51222,6291,18254,26669,8
-Broward,REP,State House,103,Tom  Fabricio,7086,819,3485,2781,1
+Broward,DEM,State House,92,Patricia  Hawkins-Williams,49496,5562,26162,17763,9
+Broward,NPA,State House,92,Nancy  St. Clair,11485,2469,4583,4431,2
+Broward,REP,State House,93,Chip  LaMarca,54593,9995,20977,23607,14
+Broward,DEM,State House,93,Linda Thompson Gonzalez,44239,3378,27357,13496,8
+Broward,REP,State House,101,Vincent 'Vinny' Parlatore,17935,3593,6149,8190,3
+Broward,DEM,State House,101,Marie  Woodson,51222,6291,26669,18254,8
+Broward,REP,State House,103,Tom  Fabricio,7086,819,2781,3485,1
 Miami-Dade,REP,State House,103,Tom  Fabricio,34640,,,,
-Broward,DEM,State House,103,Cindy  Polo,14612,999,5216,8396,1
+Broward,DEM,State House,103,Cindy  Polo,14612,999,8396,5216,1
 Miami-Dade,DEM,State House,103,Cindy  Polo,20686,,,,
-Broward,REP,State House,104,George  Navarini,36921,4719,19368,12823,11
-Broward,DEM,State House,104,Robin  Bartleman,50865,3150,17131,30577,7
-Broward,REP,State House,105,David  Borrero,3577,454,1822,1300,1
+Broward,REP,State House,104,George  Navarini,36921,4719,12823,19368,11
+Broward,DEM,State House,104,Robin  Bartleman,50865,3150,30577,17131,7
+Broward,REP,State House,105,David  Borrero,3577,454,1300,1822,1
 Collier,REP,State House,105,David  Borrero,13152,,,,
 Miami-Dade,REP,State House,105,David  Borrero,21708,,,,
-Broward,DEM,State House,105,Maureen  Porras,5985,430,2162,3393,0
+Broward,DEM,State House,105,Maureen  Porras,5985,430,3393,2162,0
 Collier,DEM,State House,105,Maureen  Porras,9932,,,,
 Miami-Dade,DEM,State House,105,Maureen  Porras,17249,,,,
 Collier,REP,State House,106,Bob  Rommel,69786,,,,
@@ -1546,54 +1546,84 @@ Monroe,REP,State House,120,James 'Jim' Vernon Mooney,26492,,,,
 Miami-Dade,DEM,State House,120,Clint  Barras,17544,,,,
 Monroe,DEM,State House,120,Clint  Barras,19882,,,,
 Flagler,,Registered Voters,,,91916,,,,
-Flagler,,Ballots Cast,,,72224,11806,28537,31881,
-Flagler,,President,,Over Votes,92,16,76,0,
-Flagler,,President,,Under Votes,269,21,38,210,
-Flagler,,U.S. House,6,Over Votes,10,1,9,0,
-Flagler,,U.S. House,6,Under Votes,2555,612,921,1022,
-Flagler,,State Senate,7,Over Votes,9,2,7,0,
-Flagler,,State Senate,7,Under Votes,3612,824,1345,1443,
-Flagler,,State House,24,Over Votes,4,1,3,0,
-Flagler,,State House,24,Under Votes,3667,802,1263,1602,
+Flagler,,Ballots Cast,,,72224,11806,31881,28537,
+Flagler,,President,,Over Votes,92,16,0,76,
+Flagler,,President,,Under Votes,269,21,210,38,
+Flagler,,U.S. House,6,Over Votes,10,1,0,9,
+Flagler,,U.S. House,6,Under Votes,2555,612,1022,921,
+Flagler,,State Senate,7,Over Votes,9,2,0,7,
+Flagler,,State Senate,7,Under Votes,3612,824,1443,1345,
+Flagler,,State House,24,Over Votes,4,1,0,3,
+Flagler,,State House,24,Under Votes,3667,802,1602,1263,
 Leon,,Registered Voters,,,217454,,,,
-Leon,,Ballots Cast,,,164233,31896,64995,67342,
-Leon,,President,,Over Votes,134,9,6,119,
-Leon,,President,,Under Votes,623,164,146,313,
+Leon,,Ballots Cast,,,164233,31896,67342,64995,
+Leon,,President,,Over Votes,134,9,119,6,
+Leon,,President,,Under Votes,623,164,313,146,
 Leon,,U.S. House,2,Over Votes,1,1,0,0,
-Leon,,U.S. House,2,Under Votes,21774,2448,7005,12321,
-Leon,,U.S. House,5,Over Votes,1,0,1,0,
-Leon,,U.S. House,5,Under Votes,2062,545,792,725,
-Leon,,State Senate,3,Over Votes,6,2,1,3,
-Leon,,State Senate,3,Under Votes,4899,1236,1853,1810,
+Leon,,U.S. House,2,Under Votes,21774,2448,12321,7005,
+Leon,,U.S. House,5,Over Votes,1,0,0,1,
+Leon,,U.S. House,5,Under Votes,2062,545,725,792,
+Leon,,State Senate,3,Over Votes,6,2,3,1,
+Leon,,State Senate,3,Under Votes,4899,1236,1810,1853,
 Leon,,State House,7,Over Votes,0,0,0,0,
-Leon,,State House,7,Under Votes,246,54,108,84,
-Leon,,State House,9,Over Votes,4,1,1,2,
-Leon,,State House,9,Under Votes,4938,1130,1671,2137,
-Broward,DEM,State House,96,Christine Hunschofsky,66892,6965,22274,37645,8
+Leon,,State House,7,Under Votes,246,54,84,108,
+Leon,,State House,9,Over Votes,4,1,2,1,
+Leon,,State House,9,Under Votes,4938,1130,2137,1671,
+Broward,DEM,State House,96,Christine Hunschofsky,66892,6965,37645,22274,8
 Clay,,Registered Voters,,,164745,,,,
-Clay,,Ballots Cast,,,125056,24448,66047,34561,
-Clay,,Ballots Cast Blank,,,2825,666,1423,736,
-Clay,,President,,Over Votes,156,15,27,114,
-Clay,,President,,Under Votes,240,39,108,93,
-Clay,,U.S. House,3,Over Votes,22,4,13,5,
-Clay,,U.S. House,3,Under Votes,2773,693,1251,829,
-Clay,,State Senate,5,Over Votes,6,1,4,1,
-Clay,,State Senate,5,Under Votes,3786,890,1694,1202,
-Clay,,State House,18,Over Votes,8,5,1,2,
-Clay,,State House,18,Under Votes,3008,733,1443,832,
-Clay,,State House,19,Over Votes,5,2,2,1,
-Clay,,State House,19,Under Votes,852,219,299,334,
+Clay,,Ballots Cast,,,125056,24448,34561,66047,
+Clay,,Ballots Cast Blank,,,2825,666,736,1423,
+Clay,,President,,Over Votes,156,15,114,27,
+Clay,,President,,Under Votes,240,39,93,108,
+Clay,,U.S. House,3,Over Votes,22,4,5,13,
+Clay,,U.S. House,3,Under Votes,2773,693,829,1251,
+Clay,,State Senate,5,Over Votes,6,1,1,4,
+Clay,,State Senate,5,Under Votes,3786,890,1202,1694,
+Clay,,State House,18,Over Votes,8,5,2,1,
+Clay,,State House,18,Under Votes,3008,733,832,1443,
+Clay,,State House,19,Over Votes,5,2,1,2,
+Clay,,State House,19,Under Votes,852,219,334,299,
 Baker,,President,,Over Votes,17,,,,
 Baker,,President,,Under Votes,35,,,,
 Baker,,U.S. House,5,Over Votes,2,,,,
-Baker,,U.S. House,5,Under Votes,327,112,140,75,0
+Baker,,U.S. House,5,Under Votes,327,112,75,140,0
 Baker,,State Senate,5,Over Votes,1,,,,
-Baker,,State Senate,5,Under Votes,470,152,204,114,0
+Baker,,State Senate,5,Under Votes,470,152,114,204,0
 Baker,,State House,10,Over Votes,1,,,,
-Baker,,State House,10,Under Votes,302,89,136,77,0
-Bay,,President,,Over Votes,101,31,,70,
-Bay,,President,,Under Votes,190,109,,81,
+Baker,,State House,10,Under Votes,302,89,77,136,0
+Bay,,President,,Over Votes,101,31,70,,
+Bay,,President,,Under Votes,190,109,81,,
 Bay,,U.S. House,2,Over Votes,28,,,,
-Bay,,U.S. House,2,Under Votes,11319,6396,,4923,
+Bay,,U.S. House,2,Under Votes,11319,6396,4923,,
 Bay,,State House,6,Over Votes,10,,,,
-Bay,,State House,6,Under Votes,2800,1778,,1022,
+Bay,,State House,6,Under Votes,2800,1778,1022,,
+Hernando,,Ballots Cast,,,109862,24934,47444,37427,57
+Orange,,Registered Voters,,,866460,,,,
+Orange,,Ballots Cast,,,653106,109784,280194,262944,18
+Orange,,Ballots Cast Blank,,,22719,5014,7418,10272,15
+Orange,,President,,Over Votes,2079,121,1735,222,1
+Orange,,President,,Under Votes,1870,405,983,482,0
+Orange,,U.S. House,7,Over Votes,37,8,11,18,0
+Orange,,U.S. House,7,Under Votes,4300,1047,1772,1480,1
+Orange,,U.S. House,8,Over Votes,3,0,2,1,0
+Orange,,U.S. House,8,Under Votes,224,85,86,53,0
+Orange,,State Senate,11,Over Votes,75,11,41,23,0
+Orange,,State Senate,11,Under Votes,9485,2057,3921,3504,3
+Orange,,State Senate,13,Over Votes,61,10,35,16,0
+Orange,,State Senate,13,Under Votes,10119,2475,4128,3512,4
+Orange,,State Senate,15,Over Votes,44,12,14,18,0
+Orange,,State Senate,15,Under Votes,5956,1120,2667,2165,4
+Orange,,State House,30,Over Votes,8,1,4,3,0
+Orange,,State House,30,Under Votes,1073,209,524,339,1
+Orange,,State House,31,Over Votes,6,1,1,4,0
+Orange,,State House,31,Under Votes,1355,342,588,424,1
+Orange,,State House,44,Over Votes,17,5,9,3,0
+Orange,,State House,44,Under Votes,4461,805,2075,1578,3
+Orange,,State House,47,Over Votes,9,1,6,2,0
+Orange,,State House,47,Under Votes,3777,796,1793,1188,0
+Orange,,State House,48,Over Votes,14,4,4,6,0
+Orange,,State House,48,Under Votes,2908,643,1118,1144,3
+Orange,,State House,49,Over Votes,10,1,3,6,0
+Orange,,State House,49,Under Votes,3267,845,1190,1229,3
+Orange,,State House,50,Over Votes,13,5,6,2,0
+Orange,,State House,50,Under Votes,2203,516,1001,686,0
