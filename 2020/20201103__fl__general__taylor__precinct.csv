@@ -1,0 +1,337 @@
+county,precinct,office,district,candidate,party,election_day,early_voting,mail,provisional,other,votes
+Taylor,1-1st United Methodist Ch,Registered Voters,,,,,,,,,873
+Taylor,1-1st United Methodist Ch,Ballots Cast,,,,136,320,229,2,0,687
+Taylor,1-1st United Methodist Ch,President,,Donald J. Trump,REP,80,222,107,0,0,409
+Taylor,1-1st United Methodist Ch,President,,Joseph R. Biden,DEM,46,95,117,2,0,260
+Taylor,1-1st United Methodist Ch,President,,Jo Jorgensen,LPF,8,1,2,0,0,11
+Taylor,1-1st United Methodist Ch,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,1-1st United Methodist Ch,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,1-1st United Methodist Ch,President,,Howie Hawkins,GRE,2,0,0,0,0,2
+Taylor,1-1st United Methodist Ch,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,1-1st United Methodist Ch,President,,Write-in,,0,0,0,0,0,0
+Taylor,1-1st United Methodist Ch,President,,Undervotes,,0,2,1,0,0,3
+Taylor,1-1st United Methodist Ch,President,,Overvotes,,0,0,2,0,0,2
+Taylor,1-1st United Methodist Ch,U.S. House,2,Neal Dunn,REP,109,256,142,0,0,507
+Taylor,1-1st United Methodist Ch,U.S. House,2,Write-in,,4,17,16,0,0,37
+Taylor,1-1st United Methodist Ch,U.S. House,2,Undervotes,,23,47,71,2,0,143
+Taylor,1-1st United Methodist Ch,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,1-1st United Methodist Ch,State Senate,3,Marva Harris Preston,REP,80,228,111,0,0,419
+Taylor,1-1st United Methodist Ch,State Senate,3,Loranne Ausley,DEM,54,91,113,2,0,260
+Taylor,1-1st United Methodist Ch,State Senate,3,Undervotes,,2,1,5,0,0,8
+Taylor,1-1st United Methodist Ch,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,1-1st United Methodist Ch,State Representative,7,Jason Shoaf,REP,84,228,110,0,0,422
+Taylor,1-1st United Methodist Ch,State Representative,7,Taymour Khan,DEM,49,89,109,2,0,249
+Taylor,1-1st United Methodist Ch,State Representative,7,Undervotes,,3,2,10,0,0,15
+Taylor,1-1st United Methodist Ch,State Representative,7,Overvotes,,0,1,0,0,0,1
+Taylor,2-Big Bend Technical College,Registered Voters,,,,,,,,,1164
+Taylor,2-Big Bend Technical College,Ballots Cast,,,,222,398,280,2,2,904
+Taylor,2-Big Bend Technical College,President,,Donald J. Trump,REP,200,367,199,1,2,769
+Taylor,2-Big Bend Technical College,President,,Joseph R. Biden,DEM,19,28,73,1,0,121
+Taylor,2-Big Bend Technical College,President,,Jo Jorgensen,LPF,2,1,0,0,0,3
+Taylor,2-Big Bend Technical College,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,2-Big Bend Technical College,President,,Gloria La Riva,PSL,0,2,1,0,0,3
+Taylor,2-Big Bend Technical College,President,,Howie Hawkins,GRE,0,0,0,0,0,0
+Taylor,2-Big Bend Technical College,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,2-Big Bend Technical College,President,,Write-in,,0,0,1,0,0,1
+Taylor,2-Big Bend Technical College,President,,Undervotes,,1,0,0,0,0,1
+Taylor,2-Big Bend Technical College,President,,Overvotes,,0,0,6,0,0,6
+Taylor,2-Big Bend Technical College,U.S. House,2,Neal Dunn,REP,205,373,236,1,2,817
+Taylor,2-Big Bend Technical College,U.S. House,2,Write-in,,2,5,7,0,0,14
+Taylor,2-Big Bend Technical College,U.S. House,2,Undervotes,,15,20,36,1,0,72
+Taylor,2-Big Bend Technical College,U.S. House,2,Overvotes,,0,0,1,0,0,1
+Taylor,2-Big Bend Technical College,State Senate,3,Marva Harris Preston,REP,191,360,194,1,2,748
+Taylor,2-Big Bend Technical College,State Senate,3,Loranne Ausley,DEM,27,32,77,0,0,136
+Taylor,2-Big Bend Technical College,State Senate,3,Undervotes,,4,6,9,1,0,20
+Taylor,2-Big Bend Technical College,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,2-Big Bend Technical College,State Representative,7,Jason Shoaf,REP,202,359,211,1,2,775
+Taylor,2-Big Bend Technical College,State Representative,7,Taymour Khan,DEM,15,26,60,0,0,101
+Taylor,2-Big Bend Technical College,State Representative,7,Undervotes,,5,13,9,1,0,28
+Taylor,2-Big Bend Technical College,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,3-Blue Creek Bapt Church,Registered Voters,,,,,,,,,1011
+Taylor,3-Blue Creek Bapt Church,Ballots Cast,,,,279,275,302,1,0,857
+Taylor,3-Blue Creek Bapt Church,President,,Donald J. Trump,REP,262,249,209,1,0,721
+Taylor,3-Blue Creek Bapt Church,President,,Joseph R. Biden,DEM,17,25,84,0,0,126
+Taylor,3-Blue Creek Bapt Church,President,,Jo Jorgensen,LPF,0,1,1,0,0,2
+Taylor,3-Blue Creek Bapt Church,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,3-Blue Creek Bapt Church,President,,Gloria La Riva,PSL,0,0,1,0,0,1
+Taylor,3-Blue Creek Bapt Church,President,,Howie Hawkins,GRE,0,0,2,0,0,2
+Taylor,3-Blue Creek Bapt Church,President,,Don Blankenship,CPF,0,0,1,0,0,1
+Taylor,3-Blue Creek Bapt Church,President,,Write-in,,0,0,1,0,0,1
+Taylor,3-Blue Creek Bapt Church,President,,Undervotes,,0,0,1,0,0,1
+Taylor,3-Blue Creek Bapt Church,President,,Overvotes,,0,0,2,0,0,2
+Taylor,3-Blue Creek Bapt Church,U.S. House,2,Neal Dunn,REP,262,251,246,1,0,760
+Taylor,3-Blue Creek Bapt Church,U.S. House,2,Write-in,,0,2,13,0,0,15
+Taylor,3-Blue Creek Bapt Church,U.S. House,2,Undervotes,,17,22,43,0,0,82
+Taylor,3-Blue Creek Bapt Church,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,3-Blue Creek Bapt Church,State Senate,3,Marva Harris Preston,REP,252,243,206,1,0,702
+Taylor,3-Blue Creek Bapt Church,State Senate,3,Loranne Ausley,DEM,18,28,87,0,0,133
+Taylor,3-Blue Creek Bapt Church,State Senate,3,Undervotes,,9,4,8,0,0,21
+Taylor,3-Blue Creek Bapt Church,State Senate,3,Overvotes,,0,0,1,0,0,1
+Taylor,3-Blue Creek Bapt Church,State Representative,7,Jason Shoaf,REP,255,254,214,1,0,724
+Taylor,3-Blue Creek Bapt Church,State Representative,7,Taymour Khan,DEM,17,15,77,0,0,109
+Taylor,3-Blue Creek Bapt Church,State Representative,7,Undervotes,,7,6,11,0,0,24
+Taylor,3-Blue Creek Bapt Church,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,Registered Voters,,,,,,,,,159
+Taylor,4-Salem Baptist Church,Ballots Cast,,,,60,26,41,1,0,128
+Taylor,4-Salem Baptist Church,President,,Donald J. Trump,REP,56,23,37,1,0,117
+Taylor,4-Salem Baptist Church,President,,Joseph R. Biden,DEM,3,3,3,0,0,9
+Taylor,4-Salem Baptist Church,President,,Jo Jorgensen,LPF,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,President,,"Roque ""Rocky"" De La Fuente",REF,1,0,0,0,0,1
+Taylor,4-Salem Baptist Church,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,President,,Howie Hawkins,GRE,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,President,,Write-in,,0,0,1,0,0,1
+Taylor,4-Salem Baptist Church,President,,Undervotes,,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,President,,Overvotes,,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,U.S. House,2,Neal Dunn,REP,56,23,34,1,0,114
+Taylor,4-Salem Baptist Church,U.S. House,2,Write-in,,0,0,2,0,0,2
+Taylor,4-Salem Baptist Church,U.S. House,2,Undervotes,,4,3,5,0,0,12
+Taylor,4-Salem Baptist Church,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,State Senate,3,Marva Harris Preston,REP,53,22,32,1,0,108
+Taylor,4-Salem Baptist Church,State Senate,3,Loranne Ausley,DEM,3,3,6,0,0,12
+Taylor,4-Salem Baptist Church,State Senate,3,Undervotes,,4,1,3,0,0,8
+Taylor,4-Salem Baptist Church,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,4-Salem Baptist Church,State Representative,7,Jason Shoaf,REP,55,22,37,0,0,114
+Taylor,4-Salem Baptist Church,State Representative,7,Taymour Khan,DEM,3,3,4,0,0,10
+Taylor,4-Salem Baptist Church,State Representative,7,Undervotes,,2,1,0,1,0,4
+Taylor,4-Salem Baptist Church,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,5-Steinhatchee Comm Cntr,Registered Voters,,,,,,,,,946
+Taylor,5-Steinhatchee Comm Cntr,Ballots Cast,,,,420,142,241,1,0,804
+Taylor,5-Steinhatchee Comm Cntr,President,,Donald J. Trump,REP,379,122,181,1,0,683
+Taylor,5-Steinhatchee Comm Cntr,President,,Joseph R. Biden,DEM,37,20,57,0,0,114
+Taylor,5-Steinhatchee Comm Cntr,President,,Jo Jorgensen,LPF,1,0,1,0,0,2
+Taylor,5-Steinhatchee Comm Cntr,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,5-Steinhatchee Comm Cntr,President,,Gloria La Riva,PSL,0,0,1,0,0,1
+Taylor,5-Steinhatchee Comm Cntr,President,,Howie Hawkins,GRE,1,0,1,0,0,2
+Taylor,5-Steinhatchee Comm Cntr,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,5-Steinhatchee Comm Cntr,President,,Write-in,,0,0,0,0,0,0
+Taylor,5-Steinhatchee Comm Cntr,President,,Undervotes,,2,0,0,0,0,2
+Taylor,5-Steinhatchee Comm Cntr,President,,Overvotes,,0,0,0,0,0,0
+Taylor,5-Steinhatchee Comm Cntr,U.S. House,2,Neal Dunn,REP,387,120,197,1,0,705
+Taylor,5-Steinhatchee Comm Cntr,U.S. House,2,Write-in,,3,3,4,0,0,10
+Taylor,5-Steinhatchee Comm Cntr,U.S. House,2,Undervotes,,30,19,40,0,0,89
+Taylor,5-Steinhatchee Comm Cntr,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,5-Steinhatchee Comm Cntr,State Senate,3,Marva Harris Preston,REP,367,118,174,1,0,660
+Taylor,5-Steinhatchee Comm Cntr,State Senate,3,Loranne Ausley,DEM,35,21,57,0,0,113
+Taylor,5-Steinhatchee Comm Cntr,State Senate,3,Undervotes,,18,3,10,0,0,31
+Taylor,5-Steinhatchee Comm Cntr,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,5-Steinhatchee Comm Cntr,State Representative,7,Jason Shoaf,REP,374,118,176,1,0,669
+Taylor,5-Steinhatchee Comm Cntr,State Representative,7,Taymour Khan,DEM,29,16,52,0,0,97
+Taylor,5-Steinhatchee Comm Cntr,State Representative,7,Undervotes,,17,8,13,0,0,38
+Taylor,5-Steinhatchee Comm Cntr,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,Registered Voters,,,,,,,,,565
+Taylor,6-Shady Gr Missnry Bapt Ch,Ballots Cast,,,,162,139,188,2,1,492
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Donald J. Trump,REP,142,129,154,1,1,427
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Joseph R. Biden,DEM,20,9,32,1,0,62
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Jo Jorgensen,LPF,0,0,1,0,0,1
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Howie Hawkins,GRE,0,0,1,0,0,1
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Write-in,,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Undervotes,,0,1,0,0,0,1
+Taylor,6-Shady Gr Missnry Bapt Ch,President,,Overvotes,,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,U.S. House,2,Neal Dunn,REP,138,131,158,1,0,428
+Taylor,6-Shady Gr Missnry Bapt Ch,U.S. House,2,Write-in,,2,1,3,0,0,6
+Taylor,6-Shady Gr Missnry Bapt Ch,U.S. House,2,Undervotes,,22,7,27,1,1,58
+Taylor,6-Shady Gr Missnry Bapt Ch,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,State Senate,3,Marva Harris Preston,REP,131,129,148,1,0,409
+Taylor,6-Shady Gr Missnry Bapt Ch,State Senate,3,Loranne Ausley,DEM,20,10,37,1,0,68
+Taylor,6-Shady Gr Missnry Bapt Ch,State Senate,3,Undervotes,,11,0,3,0,1,15
+Taylor,6-Shady Gr Missnry Bapt Ch,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,6-Shady Gr Missnry Bapt Ch,State Representative,7,Jason Shoaf,REP,131,130,157,1,0,419
+Taylor,6-Shady Gr Missnry Bapt Ch,State Representative,7,Taymour Khan,DEM,18,6,23,1,0,48
+Taylor,6-Shady Gr Missnry Bapt Ch,State Representative,7,Undervotes,,13,3,8,0,1,25
+Taylor,6-Shady Gr Missnry Bapt Ch,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,7-Johnson Strip Rd Voting,Registered Voters,,,,,,,,,1434
+Taylor,7-Johnson Strip Rd Voting,Ballots Cast,,,,261,615,294,5,0,1175
+Taylor,7-Johnson Strip Rd Voting,President,,Donald J. Trump,REP,235,560,255,4,0,1054
+Taylor,7-Johnson Strip Rd Voting,President,,Joseph R. Biden,DEM,25,48,36,1,0,110
+Taylor,7-Johnson Strip Rd Voting,President,,Jo Jorgensen,LPF,1,2,1,0,0,4
+Taylor,7-Johnson Strip Rd Voting,President,,"Roque ""Rocky"" De La Fuente",REF,0,1,0,0,0,1
+Taylor,7-Johnson Strip Rd Voting,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,7-Johnson Strip Rd Voting,President,,Howie Hawkins,GRE,0,0,0,0,0,0
+Taylor,7-Johnson Strip Rd Voting,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,7-Johnson Strip Rd Voting,President,,Write-in,,0,1,0,0,0,1
+Taylor,7-Johnson Strip Rd Voting,President,,Undervotes,,0,3,0,0,0,3
+Taylor,7-Johnson Strip Rd Voting,President,,Overvotes,,0,0,2,0,0,2
+Taylor,7-Johnson Strip Rd Voting,U.S. House,2,Neal Dunn,REP,240,573,261,5,0,1079
+Taylor,7-Johnson Strip Rd Voting,U.S. House,2,Write-in,,3,12,6,0,0,21
+Taylor,7-Johnson Strip Rd Voting,U.S. House,2,Undervotes,,18,30,27,0,0,75
+Taylor,7-Johnson Strip Rd Voting,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,7-Johnson Strip Rd Voting,State Senate,3,Marva Harris Preston,REP,227,552,241,4,0,1024
+Taylor,7-Johnson Strip Rd Voting,State Senate,3,Loranne Ausley,DEM,29,54,44,1,0,128
+Taylor,7-Johnson Strip Rd Voting,State Senate,3,Undervotes,,4,9,9,0,0,22
+Taylor,7-Johnson Strip Rd Voting,State Senate,3,Overvotes,,1,0,0,0,0,1
+Taylor,7-Johnson Strip Rd Voting,State Representative,7,Jason Shoaf,REP,225,566,257,4,0,1052
+Taylor,7-Johnson Strip Rd Voting,State Representative,7,Taymour Khan,DEM,26,37,31,1,0,95
+Taylor,7-Johnson Strip Rd Voting,State Representative,7,Undervotes,,10,12,6,0,0,28
+Taylor,7-Johnson Strip Rd Voting,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,Registered Voters,,,,,,,,,895
+Taylor,8-United Steel Workers Bdg,Ballots Cast,,,,178,327,195,1,0,701
+Taylor,8-United Steel Workers Bdg,President,,Donald J. Trump,REP,143,254,115,1,0,513
+Taylor,8-United Steel Workers Bdg,President,,Joseph R. Biden,DEM,33,68,76,0,0,177
+Taylor,8-United Steel Workers Bdg,President,,Jo Jorgensen,LPF,2,4,2,0,0,8
+Taylor,8-United Steel Workers Bdg,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,President,,Howie Hawkins,GRE,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,President,,Write-in,,0,1,1,0,0,2
+Taylor,8-United Steel Workers Bdg,President,,Undervotes,,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,President,,Overvotes,,0,0,1,0,0,1
+Taylor,8-United Steel Workers Bdg,U.S. House,2,Neal Dunn,REP,151,286,146,1,0,584
+Taylor,8-United Steel Workers Bdg,U.S. House,2,Write-in,,8,8,8,0,0,24
+Taylor,8-United Steel Workers Bdg,U.S. House,2,Undervotes,,19,33,41,0,0,93
+Taylor,8-United Steel Workers Bdg,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,State Senate,3,Marva Harris Preston,REP,132,247,113,1,0,493
+Taylor,8-United Steel Workers Bdg,State Senate,3,Loranne Ausley,DEM,42,70,72,0,0,184
+Taylor,8-United Steel Workers Bdg,State Senate,3,Undervotes,,4,10,10,0,0,24
+Taylor,8-United Steel Workers Bdg,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,8-United Steel Workers Bdg,State Representative,7,Jason Shoaf,REP,133,252,130,1,0,516
+Taylor,8-United Steel Workers Bdg,State Representative,7,Taymour Khan,DEM,35,64,53,0,0,152
+Taylor,8-United Steel Workers Bdg,State Representative,7,Undervotes,,10,11,12,0,0,33
+Taylor,8-United Steel Workers Bdg,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,Registered Voters,,,,,,,,,730
+Taylor,9-Forest Capital Hall,Ballots Cast,,,,111,263,185,1,0,560
+Taylor,9-Forest Capital Hall,President,,Donald J. Trump,REP,103,244,139,1,0,487
+Taylor,9-Forest Capital Hall,President,,Joseph R. Biden,DEM,8,19,44,0,0,71
+Taylor,9-Forest Capital Hall,President,,Jo Jorgensen,LPF,0,0,1,0,0,1
+Taylor,9-Forest Capital Hall,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,President,,Howie Hawkins,GRE,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,President,,Write-in,,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,President,,Undervotes,,0,0,1,0,0,1
+Taylor,9-Forest Capital Hall,President,,Overvotes,,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,U.S. House,2,Neal Dunn,REP,100,240,158,1,0,499
+Taylor,9-Forest Capital Hall,U.S. House,2,Write-in,,2,1,5,0,0,8
+Taylor,9-Forest Capital Hall,U.S. House,2,Undervotes,,9,22,22,0,0,53
+Taylor,9-Forest Capital Hall,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,State Senate,3,Marva Harris Preston,REP,98,232,137,1,0,468
+Taylor,9-Forest Capital Hall,State Senate,3,Loranne Ausley,DEM,10,23,37,0,0,70
+Taylor,9-Forest Capital Hall,State Senate,3,Undervotes,,3,8,11,0,0,22
+Taylor,9-Forest Capital Hall,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,9-Forest Capital Hall,State Representative,7,Jason Shoaf,REP,100,239,141,1,0,481
+Taylor,9-Forest Capital Hall,State Representative,7,Taymour Khan,DEM,6,17,33,0,0,56
+Taylor,9-Forest Capital Hall,State Representative,7,Undervotes,,5,7,11,0,0,23
+Taylor,9-Forest Capital Hall,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,Registered Voters,,,,,,,,,699
+Taylor,10-Lakeside Bapt Church,Ballots Cast,,,,165,246,153,6,0,570
+Taylor,10-Lakeside Bapt Church,President,,Donald J. Trump,REP,137,217,114,6,0,474
+Taylor,10-Lakeside Bapt Church,President,,Joseph R. Biden,DEM,26,28,36,0,0,90
+Taylor,10-Lakeside Bapt Church,President,,Jo Jorgensen,LPF,2,1,2,0,0,5
+Taylor,10-Lakeside Bapt Church,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,President,,Howie Hawkins,GRE,0,0,1,0,0,1
+Taylor,10-Lakeside Bapt Church,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,President,,Write-in,,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,President,,Undervotes,,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,President,,Overvotes,,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,U.S. House,2,Neal Dunn,REP,147,227,129,6,0,509
+Taylor,10-Lakeside Bapt Church,U.S. House,2,Write-in,,2,5,9,0,0,16
+Taylor,10-Lakeside Bapt Church,U.S. House,2,Undervotes,,16,14,15,0,0,45
+Taylor,10-Lakeside Bapt Church,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,State Senate,3,Marva Harris Preston,REP,130,212,109,6,0,457
+Taylor,10-Lakeside Bapt Church,State Senate,3,Loranne Ausley,DEM,30,30,39,0,0,99
+Taylor,10-Lakeside Bapt Church,State Senate,3,Undervotes,,5,4,5,0,0,14
+Taylor,10-Lakeside Bapt Church,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,10-Lakeside Bapt Church,State Representative,7,Jason Shoaf,REP,138,216,117,6,0,477
+Taylor,10-Lakeside Bapt Church,State Representative,7,Taymour Khan,DEM,22,27,34,0,0,83
+Taylor,10-Lakeside Bapt Church,State Representative,7,Undervotes,,5,3,2,0,0,10
+Taylor,10-Lakeside Bapt Church,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,Registered Voters,,,,,,,,,769
+Taylor,11-Kelly Grade Voting House,Ballots Cast,,,,181,266,167,0,0,614
+Taylor,11-Kelly Grade Voting House,President,,Donald J. Trump,REP,174,257,136,0,0,567
+Taylor,11-Kelly Grade Voting House,President,,Joseph R. Biden,DEM,5,8,30,0,0,43
+Taylor,11-Kelly Grade Voting House,President,,Jo Jorgensen,LPF,1,0,0,0,0,1
+Taylor,11-Kelly Grade Voting House,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,President,,Howie Hawkins,GRE,0,0,1,0,0,1
+Taylor,11-Kelly Grade Voting House,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,President,,Write-in,,1,1,0,0,0,2
+Taylor,11-Kelly Grade Voting House,President,,Undervotes,,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,President,,Overvotes,,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,U.S. House,2,Neal Dunn,REP,172,258,143,0,0,573
+Taylor,11-Kelly Grade Voting House,U.S. House,2,Write-in,,1,0,3,0,0,4
+Taylor,11-Kelly Grade Voting House,U.S. House,2,Undervotes,,8,8,21,0,0,37
+Taylor,11-Kelly Grade Voting House,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,State Senate,3,Marva Harris Preston,REP,163,248,129,0,0,540
+Taylor,11-Kelly Grade Voting House,State Senate,3,Loranne Ausley,DEM,16,13,33,0,0,62
+Taylor,11-Kelly Grade Voting House,State Senate,3,Undervotes,,2,5,5,0,0,12
+Taylor,11-Kelly Grade Voting House,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,11-Kelly Grade Voting House,State Representative,7,Jason Shoaf,REP,171,255,136,0,0,562
+Taylor,11-Kelly Grade Voting House,State Representative,7,Taymour Khan,DEM,7,9,22,0,0,38
+Taylor,11-Kelly Grade Voting House,State Representative,7,Undervotes,,3,2,9,0,0,14
+Taylor,11-Kelly Grade Voting House,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,12-Perry Shrine Bldg,Registered Voters,,,,,,,,,1036
+Taylor,12-Perry Shrine Bldg,Ballots Cast,,,,167,354,270,7,0,798
+Taylor,12-Perry Shrine Bldg,President,,Donald J. Trump,REP,105,205,132,4,0,446
+Taylor,12-Perry Shrine Bldg,President,,Joseph R. Biden,DEM,59,143,134,3,0,339
+Taylor,12-Perry Shrine Bldg,President,,Jo Jorgensen,LPF,2,3,0,0,0,5
+Taylor,12-Perry Shrine Bldg,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,12-Perry Shrine Bldg,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,12-Perry Shrine Bldg,President,,Howie Hawkins,GRE,1,0,0,0,0,1
+Taylor,12-Perry Shrine Bldg,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,12-Perry Shrine Bldg,President,,Write-in,,0,0,0,0,0,0
+Taylor,12-Perry Shrine Bldg,President,,Undervotes,,0,1,1,0,0,2
+Taylor,12-Perry Shrine Bldg,President,,Overvotes,,0,2,3,0,0,5
+Taylor,12-Perry Shrine Bldg,U.S. House,2,Neal Dunn,REP,138,261,181,5,0,585
+Taylor,12-Perry Shrine Bldg,U.S. House,2,Write-in,,8,23,23,0,0,54
+Taylor,12-Perry Shrine Bldg,U.S. House,2,Undervotes,,21,70,66,2,0,159
+Taylor,12-Perry Shrine Bldg,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,12-Perry Shrine Bldg,State Senate,3,Marva Harris Preston,REP,105,208,129,4,0,446
+Taylor,12-Perry Shrine Bldg,State Senate,3,Loranne Ausley,DEM,60,134,133,3,0,330
+Taylor,12-Perry Shrine Bldg,State Senate,3,Undervotes,,2,12,8,0,0,22
+Taylor,12-Perry Shrine Bldg,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,12-Perry Shrine Bldg,State Representative,7,Jason Shoaf,REP,109,214,138,4,0,465
+Taylor,12-Perry Shrine Bldg,State Representative,7,Taymour Khan,DEM,53,129,124,3,0,309
+Taylor,12-Perry Shrine Bldg,State Representative,7,Undervotes,,5,11,8,0,0,24
+Taylor,12-Perry Shrine Bldg,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,13-Jerkins Bldg,Registered Voters,,,,,,,,,1143
+Taylor,13-Jerkins Bldg,Ballots Cast,,,,212,351,269,4,0,836
+Taylor,13-Jerkins Bldg,President,,Donald J. Trump,REP,16,91,48,1,0,156
+Taylor,13-Jerkins Bldg,President,,Joseph R. Biden,DEM,191,256,207,3,0,657
+Taylor,13-Jerkins Bldg,President,,Jo Jorgensen,LPF,2,1,1,0,0,4
+Taylor,13-Jerkins Bldg,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0,0
+Taylor,13-Jerkins Bldg,President,,Gloria La Riva,PSL,0,0,0,0,0,0
+Taylor,13-Jerkins Bldg,President,,Howie Hawkins,GRE,0,0,0,0,0,0
+Taylor,13-Jerkins Bldg,President,,Don Blankenship,CPF,2,0,0,0,0,2
+Taylor,13-Jerkins Bldg,President,,Write-in,,1,0,1,0,0,2
+Taylor,13-Jerkins Bldg,President,,Undervotes,,0,1,1,0,0,2
+Taylor,13-Jerkins Bldg,President,,Overvotes,,0,2,11,0,0,13
+Taylor,13-Jerkins Bldg,U.S. House,2,Neal Dunn,REP,119,173,119,3,0,414
+Taylor,13-Jerkins Bldg,U.S. House,2,Write-in,,17,30,34,0,0,81
+Taylor,13-Jerkins Bldg,U.S. House,2,Undervotes,,76,148,116,1,0,341
+Taylor,13-Jerkins Bldg,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,13-Jerkins Bldg,State Senate,3,Marva Harris Preston,REP,33,97,57,1,0,188
+Taylor,13-Jerkins Bldg,State Senate,3,Loranne Ausley,DEM,177,249,206,3,0,635
+Taylor,13-Jerkins Bldg,State Senate,3,Undervotes,,2,5,6,0,0,13
+Taylor,13-Jerkins Bldg,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,13-Jerkins Bldg,State Representative,7,Jason Shoaf,REP,28,108,68,1,0,205
+Taylor,13-Jerkins Bldg,State Representative,7,Taymour Khan,DEM,175,229,192,3,0,599
+Taylor,13-Jerkins Bldg,State Representative,7,Undervotes,,9,14,9,0,0,32
+Taylor,13-Jerkins Bldg,State Representative,7,Overvotes,,0,0,0,0,0,0
+Taylor,14-Mt Carmel Bapt Church,Registered Voters,,,,,,,,,1355
+Taylor,14-Mt Carmel Bapt Church,Ballots Cast,,,,202,571,289,1,0,1063
+Taylor,14-Mt Carmel Bapt Church,President,,Donald J. Trump,REP,179,530,218,1,0,928
+Taylor,14-Mt Carmel Bapt Church,President,,Joseph R. Biden,DEM,18,36,66,0,0,120
+Taylor,14-Mt Carmel Bapt Church,President,,Jo Jorgensen,LPF,2,3,0,0,0,5
+Taylor,14-Mt Carmel Bapt Church,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,1,0,0,1
+Taylor,14-Mt Carmel Bapt Church,President,,Gloria La Riva,PSL,0,0,1,0,0,1
+Taylor,14-Mt Carmel Bapt Church,President,,Howie Hawkins,GRE,1,0,0,0,0,1
+Taylor,14-Mt Carmel Bapt Church,President,,Don Blankenship,CPF,0,0,0,0,0,0
+Taylor,14-Mt Carmel Bapt Church,President,,Write-in,,1,1,1,0,0,3
+Taylor,14-Mt Carmel Bapt Church,President,,Undervotes,,0,1,1,0,0,2
+Taylor,14-Mt Carmel Bapt Church,President,,Overvotes,,1,0,1,0,0,2
+Taylor,14-Mt Carmel Bapt Church,U.S. House,2,Neal Dunn,REP,187,534,245,1,0,967
+Taylor,14-Mt Carmel Bapt Church,U.S. House,2,Write-in,,3,5,8,0,0,16
+Taylor,14-Mt Carmel Bapt Church,U.S. House,2,Undervotes,,12,32,36,0,0,80
+Taylor,14-Mt Carmel Bapt Church,U.S. House,2,Overvotes,,0,0,0,0,0,0
+Taylor,14-Mt Carmel Bapt Church,State Senate,3,Marva Harris Preston,REP,175,518,213,1,0,907
+Taylor,14-Mt Carmel Bapt Church,State Senate,3,Loranne Ausley,DEM,24,39,65,0,0,128
+Taylor,14-Mt Carmel Bapt Church,State Senate,3,Undervotes,,3,14,11,0,0,28
+Taylor,14-Mt Carmel Bapt Church,State Senate,3,Overvotes,,0,0,0,0,0,0
+Taylor,14-Mt Carmel Bapt Church,State Representative,7,Jason Shoaf,REP,177,518,234,1,0,930
+Taylor,14-Mt Carmel Bapt Church,State Representative,7,Taymour Khan,DEM,18,31,41,0,0,90
+Taylor,14-Mt Carmel Bapt Church,State Representative,7,Undervotes,,7,22,14,0,0,43
+Taylor,14-Mt Carmel Bapt Church,State Representative,7,Overvotes,,0,0,0,0,0,0
