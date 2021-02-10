@@ -1,0 +1,209 @@
+county,precinct,office,district,candidate,party,votes,early_voting,mail,election_day
+Franklin,0001 Eastpoint,Registered Voters,,,,1845,,,
+Franklin,0001 Eastpoint,Ballots Cast,,,,1454,477,477,500
+Franklin,0001 Eastpoint,Ballots Cast Blank,,,,0,0,0,0
+Franklin,0001 Eastpoint,President,,Donald J. Trump,REP,1197,411,324,462
+Franklin,0001 Eastpoint,President,,Joseph R. Biden,DEM,237,60,147,30
+Franklin,0001 Eastpoint,President,,Jorgensen / Cohen,LPF,4,1,1,2
+Franklin,0001 Eastpoint,President,,De La Fuente / Richardson,REF,2,1,1,0
+Franklin,0001 Eastpoint,President,,La Riva / Freeman,PSL,2,1,1,0
+Franklin,0001 Eastpoint,President,,Hawkins / Walker,GRE,2,0,1,1
+Franklin,0001 Eastpoint,President,,Blankenship / Mohr,CPF,1,0,0,1
+Franklin,0001 Eastpoint,President,,Write-In,,0,0,0,0
+Franklin,0001 Eastpoint,President,,Over Votes,,3,1,0,2
+Franklin,0001 Eastpoint,President,,Under Votes,,6,2,2,2
+Franklin,0001 Eastpoint,U.S. House,2,Neal Dunn,REP,1226,413,372,441
+Franklin,0001 Eastpoint,U.S. House,2,Write-In,,48,12,30,6
+Franklin,0001 Eastpoint,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0001 Eastpoint,U.S. House,2,Under Votes,,180,52,75,53
+Franklin,0001 Eastpoint,State Senate,3,Marva Harris Preston,REP,1093,373,299,421
+Franklin,0001 Eastpoint,State Senate,3,Lorranne Ausley,DEM,287,76,160,51
+Franklin,0001 Eastpoint,State Senate,3,Write-In,,0,0,0,0
+Franklin,0001 Eastpoint,State Senate,3,Over Votes,,0,0,0,0
+Franklin,0001 Eastpoint,State Senate,3,Under Votes,,74,28,18,28
+Franklin,0001 Eastpoint,State House,7,Jason Shoaf,REP,1150,405,319,426
+Franklin,0001 Eastpoint,State House,7,Taymour Khan,DEM,216,48,137,31
+Franklin,0001 Eastpoint,State House,7,Over Votes,,1,0,0,1
+Franklin,0001 Eastpoint,State House,7,Under Votes,,87,24,21,42
+Franklin,0002 Alligator Point,Registered Voters,,,,384,,,
+Franklin,0002 Alligator Point,Ballots Cast,,,,338,75,167,96
+Franklin,0002 Alligator Point,Ballots Cast Blank,,,,0,0,0,0
+Franklin,0002 Alligator Point,President,,Donald J. Trump,REP,218,50,89,79
+Franklin,0002 Alligator Point,President,,Joseph R. Biden,DEM,114,25,75,14
+Franklin,0002 Alligator Point,President,,Jorgensen / Cohen,LPF,3,0,1,2
+Franklin,0002 Alligator Point,President,,De La Fuente / Richardson,REF,0,0,0,0
+Franklin,0002 Alligator Point,President,,La Riva / Freeman,PSL,0,0,0,0
+Franklin,0002 Alligator Point,President,,Hawkins / Walker,GRE,1,0,1,0
+Franklin,0002 Alligator Point,President,,Blankenship / Mohr,CPF,0,0,0,0
+Franklin,0002 Alligator Point,President,,Write-In,,0,0,0,0
+Franklin,0002 Alligator Point,President,,Over Votes,,1,0,0,1
+Franklin,0002 Alligator Point,President,,Under Votes,,1,0,1,0
+Franklin,0002 Alligator Point,U.S. House,2,Neal Dunn,REP,255,53,117,85
+Franklin,0002 Alligator Point,U.S. House,2,Write-In,,24,6,17,1
+Franklin,0002 Alligator Point,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0002 Alligator Point,U.S. House,2,Under Votes,,59,16,33,10
+Franklin,0002 Alligator Point,State Senate,3,Marva Harris Preston,REP,219,47,93,79
+Franklin,0002 Alligator Point,State Senate,3,Lorranne Ausley,DEM,111,27,72,12
+Franklin,0002 Alligator Point,State Senate,3,Write-In,,1,0,0,1
+Franklin,0002 Alligator Point,State Senate,3,Over Votes,,0,0,0,0
+Franklin,0002 Alligator Point,State Senate,3,Under Votes,,7,1,2,4
+Franklin,0002 Alligator Point,State House,7,Jason Shoaf,REP,240,50,104,86
+Franklin,0002 Alligator Point,State House,7,Taymour Khan,DEM,92,24,60,8
+Franklin,0002 Alligator Point,State House,7,Over Votes,,0,0,0,0
+Franklin,0002 Alligator Point,State House,7,Under Votes,,6,1,3,2
+Franklin,0003 National Guard Armory,Registered Voters,,,,1494,,,
+Franklin,0003 National Guard Armory,Ballots Cast,,,,1200,481,488,231
+Franklin,0003 National Guard Armory,Ballots Cast Blank,,,,0,0,0,0
+Franklin,0003 National Guard Armory,President,,Donald J. Trump,REP,466,200,149,117
+Franklin,0003 National Guard Armory,President,,Joseph R. Biden,DEM,708,273,328,107
+Franklin,0003 National Guard Armory,President,,Jorgensen / Cohen,LPF,5,2,1,2
+Franklin,0003 National Guard Armory,President,,De La Fuente / Richardson,REF,0,0,0,0
+Franklin,0003 National Guard Armory,President,,La Riva / Freeman,PSL,3,1,0,2
+Franklin,0003 National Guard Armory,President,,Hawkins / Walker,GRE,3,1,1,1
+Franklin,0003 National Guard Armory,President,,Blankenship / Mohr,CPF,1,0,1,0
+Franklin,0003 National Guard Armory,President,,Write-In,,5,0,3,2
+Franklin,0003 National Guard Armory,President,,Over Votes,,3,1,2,0
+Franklin,0003 National Guard Armory,President,,Under Votes,,6,3,3,0
+Franklin,0003 National Guard Armory,U.S. House,2,Neal Dunn,REP,708,292,256,160
+Franklin,0003 National Guard Armory,U.S. House,2,Write-In,,151,63,64,24
+Franklin,0003 National Guard Armory,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0003 National Guard Armory,U.S. House,2,Under Votes,,341,126,168,47
+Franklin,0003 National Guard Armory,State Senate,3,Marva Harris Preston,REP,479,206,159,114
+Franklin,0003 National Guard Armory,State Senate,3,Lorranne Ausley,DEM,665,259,308,98
+Franklin,0003 National Guard Armory,State Senate,3,Write-In,,3,1,2,0
+Franklin,0003 National Guard Armory,State Senate,3,Over Votes,,0,0,0,0
+Franklin,0003 National Guard Armory,State Senate,3,Under Votes,,53,15,19,19
+Franklin,0003 National Guard Armory,State House,7,Jason Shoaf,REP,520,224,173,123
+Franklin,0003 National Guard Armory,State House,7,Taymour Khan,DEM,609,236,284,89
+Franklin,0003 National Guard Armory,State House,7,Over Votes,,0,0,0,0
+Franklin,0003 National Guard Armory,State House,7,Under Votes,,71,21,31,19
+Franklin,0004 Fort Coombs Armory,Registered Voters,,,,392,,,
+Franklin,0004 Fort Coombs Armory,Ballots Cast,,,,338,144,156,38
+Franklin,0004 Fort Coombs Armory,Ballots Cast Blank,,,,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,Donald J. Trump,REP,170,81,62,27
+Franklin,0004 Fort Coombs Armory,President,,Joseph R. Biden,DEM,166,62,93,11
+Franklin,0004 Fort Coombs Armory,President,,Jorgensen / Cohen,LPF,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,De La Fuente / Richardson,REF,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,La Riva / Freeman,PSL,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,Hawkins / Walker,GRE,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,Blankenship / Mohr,CPF,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,Write-In,,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,Over Votes,,0,0,0,0
+Franklin,0004 Fort Coombs Armory,President,,Under Votes,,2,1,1,0
+Franklin,0004 Fort Coombs Armory,U.S. House,2,Neal Dunn,REP,209,95,82,32
+Franklin,0004 Fort Coombs Armory,U.S. House,2,Write-In,,39,17,21,1
+Franklin,0004 Fort Coombs Armory,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0004 Fort Coombs Armory,U.S. House,2,Under Votes,,90,32,53,5
+Franklin,0004 Fort Coombs Armory,State Senate,3,Marva Harris Preston,REP,161,82,52,27
+Franklin,0004 Fort Coombs Armory,State Senate,3,Lorranne Ausley,DEM,160,57,94,9
+Franklin,0004 Fort Coombs Armory,State Senate,3,Write-In,,0,0,0,0
+Franklin,0004 Fort Coombs Armory,State Senate,3,Over Votes,,0,0,0,0
+Franklin,0004 Fort Coombs Armory,State Senate,3,Under Votes,,17,5,10,2
+Franklin,0004 Fort Coombs Armory,State House,7,Jason Shoaf,REP,194,92,75,27
+Franklin,0004 Fort Coombs Armory,State House,7,Taymour Khan,DEM,119,44,66,9
+Franklin,0004 Fort Coombs Armory,State House,7,Over Votes,,0,0,0,0
+Franklin,0004 Fort Coombs Armory,State House,7,Under Votes,,25,8,15,2
+Franklin,0005 Carrabelle,Registered Voters,,,,1773,,,
+Franklin,0005 Carrabelle,Ballots Cast,,,,1415,676,462,277
+Franklin,0005 Carrabelle,Ballots Cast Blank,,,,0,0,0,0
+Franklin,0005 Carrabelle,President,,Donald J. Trump,REP,1076,558,269,249
+Franklin,0005 Carrabelle,President,,Joseph R. Biden,DEM,318,111,180,27
+Franklin,0005 Carrabelle,President,,Jorgensen / Cohen,LPF,7,3,3,1
+Franklin,0005 Carrabelle,President,,De La Fuente / Richardson,REF,1,0,1,0
+Franklin,0005 Carrabelle,President,,La Riva / Freeman,PSL,1,0,1,0
+Franklin,0005 Carrabelle,President,,Hawkins / Walker,GRE,3,1,2,0
+Franklin,0005 Carrabelle,President,,Blankenship / Mohr,CPF,0,0,0,0
+Franklin,0005 Carrabelle,President,,Write-In,,3,1,2,0
+Franklin,0005 Carrabelle,President,,Over Votes,,2,1,1,0
+Franklin,0005 Carrabelle,President,,Under Votes,,4,1,3,0
+Franklin,0005 Carrabelle,U.S. House,2,Neal Dunn,REP,1123,574,313,236
+Franklin,0005 Carrabelle,U.S. House,2,Write-In,,68,29,37,2
+Franklin,0005 Carrabelle,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0005 Carrabelle,U.S. House,2,Under Votes,,224,73,112,39
+Franklin,0005 Carrabelle,State Senate,3,Marva Harris Preston,REP,1018,537,250,231
+Franklin,0005 Carrabelle,State Senate,3,Lorranne Ausley,DEM,334,118,186,30
+Franklin,0005 Carrabelle,State Senate,3,Write-In,,1,0,1,0
+Franklin,0005 Carrabelle,State Senate,3,Over Votes,,1,1,0,0
+Franklin,0005 Carrabelle,State Senate,3,Under Votes,,61,20,25,16
+Franklin,0005 Carrabelle,State House,7,Jason Shoaf,REP,1058,549,274,235
+Franklin,0005 Carrabelle,State House,7,Taymour Khan,DEM,286,102,160,24
+Franklin,0005 Carrabelle,State House,7,Over Votes,,0,0,0,0
+Franklin,0005 Carrabelle,State House,7,Under Votes,,71,25,28,18
+Franklin,0006 Lanark Village,Registered Voters,,,,670,,,
+Franklin,0006 Lanark Village,Ballots Cast,,,,536,199,181,156
+Franklin,0006 Lanark Village,Ballots Cast Blank,,,,1,1,0,0
+Franklin,0006 Lanark Village,President,,Donald J. Trump,REP,393,162,105,126
+Franklin,0006 Lanark Village,President,,Joseph R. Biden,DEM,138,33,76,29
+Franklin,0006 Lanark Village,President,,Jorgensen / Cohen,LPF,3,2,0,1
+Franklin,0006 Lanark Village,President,,De La Fuente / Richardson,REF,0,0,0,0
+Franklin,0006 Lanark Village,President,,La Riva / Freeman,PSL,0,0,0,0
+Franklin,0006 Lanark Village,President,,Hawkins / Walker,GRE,0,0,0,0
+Franklin,0006 Lanark Village,President,,Blankenship / Mohr,CPF,0,0,0,0
+Franklin,0006 Lanark Village,President,,Write-In,,0,0,0,0
+Franklin,0006 Lanark Village,President,,Over Votes,,0,0,0,0
+Franklin,0006 Lanark Village,President,,Under Votes,,2,2,0,0
+Franklin,0006 Lanark Village,U.S. House,2,Neal Dunn,REP,429,168,130,131
+Franklin,0006 Lanark Village,U.S. House,2,Write-In,,29,12,11,6
+Franklin,0006 Lanark Village,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0006 Lanark Village,U.S. House,2,Under Votes,,78,19,40,19
+Franklin,0006 Lanark Village,State Senate,3,Marva Harris Preston,REP,376,154,106,116
+Franklin,0006 Lanark Village,State Senate,3,Lorranne Ausley,DEM,136,37,65,34
+Franklin,0006 Lanark Village,State Senate,3,Write-In,,3,1,2,0
+Franklin,0006 Lanark Village,State Senate,3,Over Votes,,0,0,0,0
+Franklin,0006 Lanark Village,State Senate,3,Under Votes,,21,7,8,6
+Franklin,0006 Lanark Village,State House,7,Jason Shoaf,REP,392,160,111,121
+Franklin,0006 Lanark Village,State House,7,Taymour Khan,DEM,119,32,60,27
+Franklin,0006 Lanark Village,State House,7,Over Votes,,0,0,0,0
+Franklin,0006 Lanark Village,State House,7,Under Votes,,25,7,10,8
+Franklin,0007 St. George Island,Registered Voters,,,,974,,,
+Franklin,0007 St. George Island,Ballots Cast,,,,812,229,363,220
+Franklin,0007 St. George Island,Ballots Cast Blank,,,,0,0,0,0
+Franklin,0007 St. George Island,President,,Donald J. Trump,REP,509,154,183,172
+Franklin,0007 St. George Island,President,,Joseph R. Biden,DEM,284,74,166,44
+Franklin,0007 St. George Island,President,,Jorgensen / Cohen,LPF,5,1,3,1
+Franklin,0007 St. George Island,President,,De La Fuente / Richardson,REF,0,0,0,0
+Franklin,0007 St. George Island,President,,La Riva / Freeman,PSL,1,0,1,0
+Franklin,0007 St. George Island,President,,Hawkins / Walker,GRE,3,0,3,0
+Franklin,0007 St. George Island,President,,Blankenship / Mohr,CPF,0,0,0,0
+Franklin,0007 St. George Island,President,,Write-In,,2,0,2,0
+Franklin,0007 St. George Island,President,,Over Votes,,0,0,0,0
+Franklin,0007 St. George Island,President,,Under Votes,,7,1,4,2
+Franklin,0007 St. George Island,U.S. House,2,Neal Dunn,REP,597,169,244,184
+Franklin,0007 St. George Island,U.S. House,2,Write-In,,61,14,36,11
+Franklin,0007 St. George Island,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0007 St. George Island,U.S. House,2,Under Votes,,153,47,82,24
+Franklin,0007 St. George Island,State Senate,3,Marva Harris Preston,REP,523,157,196,170
+Franklin,0007 St. George Island,State Senate,3,Lorranne Ausley,DEM,266,68,157,41
+Franklin,0007 St. George Island,State Senate,3,Write-In,,1,0,0,1
+Franklin,0007 St. George Island,State Senate,3,Over Votes,,1,1,0,0
+Franklin,0007 St. George Island,State Senate,3,Under Votes,,20,4,9,7
+Franklin,0007 St. George Island,State House,7,Jason Shoaf,REP,550,165,212,173
+Franklin,0007 St. George Island,State House,7,Taymour Khan,DEM,230,59,137,34
+Franklin,0007 St. George Island,State House,7,Over Votes,,0,0,0,0
+Franklin,0007 St. George Island,State House,7,Under Votes,,31,6,13,12
+Franklin,0008 American Legion,Registered Voters,,,,962,,,
+Franklin,0008 American Legion,Ballots Cast,,,,807,318,269,220
+Franklin,0008 American Legion,Ballots Cast Blank,,,,0,0,0,0
+Franklin,0008 American Legion,President,,Donald J. Trump,REP,646,268,187,191
+Franklin,0008 American Legion,President,,Joseph R. Biden,DEM,155,49,79,27
+Franklin,0008 American Legion,President,,Jorgensen / Cohen,LPF,0,0,0,0
+Franklin,0008 American Legion,President,,De La Fuente / Richardson,REF,1,0,1,0
+Franklin,0008 American Legion,President,,La Riva / Freeman,PSL,1,0,0,1
+Franklin,0008 American Legion,President,,Hawkins / Walker,GRE,0,0,0,0
+Franklin,0008 American Legion,President,,Blankenship / Mohr,CPF,1,0,1,0
+Franklin,0008 American Legion,President,,Write-In,,0,0,0,0
+Franklin,0008 American Legion,President,,Over Votes,,2,1,1,0
+Franklin,0008 American Legion,President,,Under Votes,,1,0,0,1
+Franklin,0008 American Legion,U.S. House,2,Neal Dunn,REP,673,283,207,183
+Franklin,0008 American Legion,U.S. House,2,Write-In,,23,8,13,2
+Franklin,0008 American Legion,U.S. House,2,Over Votes,,0,0,0,0
+Franklin,0008 American Legion,U.S. House,2,Under Votes,,111,27,49,35
+Franklin,0008 American Legion,State Senate,3,Marva Harris Preston,REP,585,247,175,163
+Franklin,0008 American Legion,State Senate,3,Lorranne Ausley,DEM,173,61,76,36
+Franklin,0008 American Legion,State Senate,3,Write-In,,1,0,1,0
+Franklin,0008 American Legion,State Senate,3,Over Votes,,0,0,0,0
+Franklin,0008 American Legion,State Senate,3,Under Votes,,48,10,17,21
+Franklin,0008 American Legion,State House,7,Jason Shoaf,REP,634,270,189,175
+Franklin,0008 American Legion,State House,7,Taymour Khan,DEM,129,40,65,24
+Franklin,0008 American Legion,State House,7,Over Votes,,0,0,0,0
+Franklin,0008 American Legion,State House,7,Under Votes,,44,8,15,21
