@@ -1,0 +1,141 @@
+county,precinct,office,district,candidate,party,votes
+Gulf,Honeyville Community Center,President,,Donald J. Trump,REP,1451
+Gulf,Honeyville Community Center,President,,Joseph R. Biden,DEM,241
+Gulf,Honeyville Community Center,President,,Jorgensen and Cohen,LPF,8
+Gulf,Honeyville Community Center,President,,De La Fuente and Richardson,REF,2
+Gulf,Honeyville Community Center,President,,La Riva and Freeman,PSL,0
+Gulf,Honeyville Community Center,President,,Hawkins and Walker,GRE,1
+Gulf,Honeyville Community Center,President,,Blankenship and Mohr,CPF,1
+Gulf,Honeyville Community Center,President,,WRITE-IN,NON,2
+Gulf,First Pentecostal Church Hall ,President,,Donald J. Trump,REP,872
+Gulf,First Pentecostal Church Hall ,President,,Joseph R. Biden,DEM,248
+Gulf,First Pentecostal Church Hall ,President,,Jorgensen and Cohen,LPF,14
+Gulf,First Pentecostal Church Hall ,President,,De La Fuente and Richardson,REF,1
+Gulf,First Pentecostal Church Hall ,President,,La Riva and Freeman,PSL,0
+Gulf,First Pentecostal Church Hall ,President,,Hawkins and Walker,GRE,1
+Gulf,First Pentecostal Church Hall ,President,,Blankenship and Mohr,CPF,4
+Gulf,First Pentecostal Church Hall ,President,,WRITE-IN,NON,1
+Gulf,St. Joe Beach Fire Station,President,,Donald J. Trump,REP,636
+Gulf,St. Joe Beach Fire Station,President,,Joseph R. Biden,DEM,216
+Gulf,St. Joe Beach Fire Station,President,,Jorgensen and Cohen,LPF,3
+Gulf,St. Joe Beach Fire Station,President,,De La Fuente and Richardson,REF,0
+Gulf,St. Joe Beach Fire Station,President,,La Riva and Freeman,PSL,0
+Gulf,St. Joe Beach Fire Station,President,,Hawkins and Walker,GRE,1
+Gulf,St. Joe Beach Fire Station,President,,Blankenship and Mohr,CPF,1
+Gulf,St. Joe Beach Fire Station,President,,WRITE-IN,NON,1
+Gulf,Port St. Joe Fire Station,President,,Donald J. Trump,REP,516
+Gulf,Port St. Joe Fire Station,President,,Joseph R. Biden,DEM,600
+Gulf,Port St. Joe Fire Station,President,,Jorgensen and Cohen,LPF,7
+Gulf,Port St. Joe Fire Station,President,,De La Fuente and Richardson,REF,2
+Gulf,Port St. Joe Fire Station,President,,La Riva and Freeman,PSL,0
+Gulf,Port St. Joe Fire Station,President,,Hawkins and Walker,GRE,1
+Gulf,Port St. Joe Fire Station,President,,Blankenship and Mohr,CPF,0
+Gulf,Port St. Joe Fire Station,President,,WRITE-IN,NON,0
+Gulf,Centennial Building,President,,Donald J. Trump,REP,1147
+Gulf,Centennial Building,President,,Joseph R. Biden,DEM,206
+Gulf,Centennial Building,President,,Jorgensen and Cohen,LPF,6
+Gulf,Centennial Building,President,,De La Fuente and Richardson,REF,1
+Gulf,Centennial Building,President,,La Riva and Freeman,PSL,0
+Gulf,Centennial Building,President,,Hawkins and Walker,GRE,1
+Gulf,Centennial Building,President,,Blankenship and Mohr,CPF,0
+Gulf,Centennial Building,President,,WRITE-IN,NON,2
+Gulf,White City Fire Station,President,,Donald J. Trump,REP,175
+Gulf,White City Fire Station,President,,Joseph R. Biden,DEM,31
+Gulf,White City Fire Station,President,,Jorgensen and Cohen,LPF,3
+Gulf,White City Fire Station,President,,De La Fuente and Richardson,REF,0
+Gulf,White City Fire Station,President,,La Riva and Freeman,PSL,0
+Gulf,White City Fire Station,President,,Hawkins and Walker,GRE,0
+Gulf,White City Fire Station,President,,Blankenship and Mohr,CPF,0
+Gulf,White City Fire Station,President,,WRITE-IN,NON,0
+Gulf,Cape San Blas Fire Station,President,,Donald J. Trump,REP,461
+Gulf,Cape San Blas Fire Station,President,,Joseph R. Biden,DEM,223
+Gulf,Cape San Blas Fire Station,President,,Jorgensen and Cohen,LPF,2
+Gulf,Cape San Blas Fire Station,President,,De La Fuente and Richardson,REF,0
+Gulf,Cape San Blas Fire Station,President,,La Riva and Freeman,PSL,0
+Gulf,Cape San Blas Fire Station,President,,Hawkins and Walker,GRE,0
+Gulf,Cape San Blas Fire Station,President,,Blankenship and Mohr,CPF,0
+Gulf,Cape San Blas Fire Station,President,,WRITE-IN,NON,2
+Gulf,Howard Creek Fire Station,President,,Donald J. Trump,REP,162
+Gulf,Howard Creek Fire Station,President,,Joseph R. Biden,DEM,24
+Gulf,Howard Creek Fire Station,President,,Jorgensen and Cohen,LPF,2
+Gulf,Howard Creek Fire Station,President,,De La Fuente and Richardson,REF,0
+Gulf,Howard Creek Fire Station,President,,La Riva and Freeman,PSL,0
+Gulf,Howard Creek Fire Station,President,,Hawkins and Walker,GRE,0
+Gulf,Howard Creek Fire Station,President,,Blankenship and Mohr,CPF,0
+Gulf,Howard Creek Fire Station,President,,WRITE-IN,NON,0
+Gulf,Overstreet Fire Station,President,,Donald J. Trump,REP,395
+Gulf,Overstreet Fire Station,President,,Joseph R. Biden,DEM,119
+Gulf,Overstreet Fire Station,President,,Jorgensen and Cohen,LPF,1
+Gulf,Overstreet Fire Station,President,,De La Fuente and Richardson,REF,0
+Gulf,Overstreet Fire Station,President,,La Riva and Freeman,PSL,0
+Gulf,Overstreet Fire Station,President,,Hawkins and Walker,GRE,0
+Gulf,Overstreet Fire Station,President,,Blankenship and Mohr,CPF,0
+Gulf,Overstreet Fire Station,President,,WRITE-IN,NON,0
+Gulf,Highland View Fire Station,President,,Donald J. Trump,REP,298
+Gulf,Highland View Fire Station,President,,Joseph R. Biden,DEM,77
+Gulf,Highland View Fire Station,President,,Jorgensen and Cohen,LPF,2
+Gulf,Highland View Fire Station,President,,De La Fuente and Richardson,REF,0
+Gulf,Highland View Fire Station,President,,La Riva and Freeman,PSL,0
+Gulf,Highland View Fire Station,President,,Hawkins and Walker,GRE,0
+Gulf,Highland View Fire Station,President,,Blankenship and Mohr,CPF,0
+Gulf,Highland View Fire Station,President,,WRITE-IN,NON,1
+Gulf,Honeyville Community Center,U.S. House,2,Neal Dunn,REP,1526
+Gulf,Honeyville Community Center,U.S. House,2,WRITE-IN,NON,28
+Gulf,First Pentecostal Church Hall ,U.S. House,2,Neal Dunn,REP,957
+Gulf,First Pentecostal Church Hall ,U.S. House,2,WRITE-IN,NON,49
+Gulf,St. Joe Beach Fire Station,U.S. House,2,Neal Dunn,REP,730
+Gulf,St. Joe Beach Fire Station,U.S. House,2,WRITE-IN,NON,39
+Gulf,Port St. Joe Fire Station,U.S. House,2,Neal Dunn,REP,761
+Gulf,Port St. Joe Fire Station,U.S. House,2,WRITE-IN,NON,67
+Gulf,Centennial Building,U.S. House,2,Neal Dunn,REP,1215
+Gulf,Centennial Building,U.S. House,2,WRITE-IN,NON,30
+Gulf,White City Fire Station,U.S. House,2,Neal Dunn,REP,184
+Gulf,White City Fire Station,U.S. House,2,WRITE-IN,NON,5
+Gulf,Cape San Blas Fire Station,U.S. House,2,Neal Dunn,REP,517
+Gulf,Cape San Blas Fire Station,U.S. House,2,WRITE-IN,NON,46
+Gulf,Howard Creek Fire Station,U.S. House,2,Neal Dunn,REP,169
+Gulf,Howard Creek Fire Station,U.S. House,2,WRITE-IN,NON,6
+Gulf,Overstreet Fire Station,U.S. House,2,Neal Dunn,REP,431
+Gulf,Overstreet Fire Station,U.S. House,2,WRITE-IN,NON,18
+Gulf,Highland View Fire Station,U.S. House,2,Neal Dunn,REP,316
+Gulf,Highland View Fire Station,U.S. House,2,WRITE-IN,NON,13
+Gulf,Honeyville Community Center,State Senate,3,Marva Harris Preston,REP,1372
+Gulf,Honeyville Community Center,State Senate,3,Loranne Ausley,DEM,256
+Gulf,First Pentecostal Church Hall ,State Senate,3,Marva Harris Preston,REP,838
+Gulf,First Pentecostal Church Hall ,State Senate,3,Loranne Ausley,DEM,270
+Gulf,St. Joe Beach Fire Station,State Senate,3,Marva Harris Preston,REP,647
+Gulf,St. Joe Beach Fire Station,State Senate,3,Loranne Ausley,DEM,195
+Gulf,Port St. Joe Fire Station,State Senate,3,Marva Harris Preston,REP,537
+Gulf,Port St. Joe Fire Station,State Senate,3,Loranne Ausley,DEM,555
+Gulf,Centennial Building,State Senate,3,Marva Harris Preston,REP,1107
+Gulf,Centennial Building,State Senate,3,Loranne Ausley,DEM,215
+Gulf,White City Fire Station,State Senate,3,Marva Harris Preston,REP,172
+Gulf,White City Fire Station,State Senate,3,Loranne Ausley,DEM,31
+Gulf,Cape San Blas Fire Station,State Senate,3,Marva Harris Preston,REP,472
+Gulf,Cape San Blas Fire Station,State Senate,3,Loranne Ausley,DEM,201
+Gulf,Howard Creek Fire Station,State Senate,3,Marva Harris Preston,REP,164
+Gulf,Howard Creek Fire Station,State Senate,3,Loranne Ausley,DEM,15
+Gulf,Overstreet Fire Station,State Senate,3,Marva Harris Preston,REP,398
+Gulf,Overstreet Fire Station,State Senate,3,Loranne Ausley,DEM,103
+Gulf,Highland View Fire Station,State Senate,3,Marva Harris Preston,REP,289
+Gulf,Highland View Fire Station,State Senate,3,Loranne Ausley,DEM,70
+Gulf,Honeyville Community Center,State House,7,Jason Shoaf,REP,1413
+Gulf,Honeyville Community Center,State House,7,Taymour Kahn,DEM,212
+Gulf,First Pentecostal Church Hall ,State House,7,Jason Shoaf,REP,879
+Gulf,First Pentecostal Church Hall ,State House,7,Taymour Kahn,DEM,229
+Gulf,St. Joe Beach Fire Station,State House,7,Jason Shoaf,REP,687
+Gulf,St. Joe Beach Fire Station,State House,7,Taymour Kahn,DEM,157
+Gulf,Port St. Joe Fire Station,State House,7,Jason Shoaf,REP,620
+Gulf,Port St. Joe Fire Station,State House,7,Taymour Kahn,DEM,472
+Gulf,Centennial Building,State House,7,Jason Shoaf,REP,1175
+Gulf,Centennial Building,State House,7,Taymour Kahn,DEM,162
+Gulf,White City Fire Station,State House,7,Jason Shoaf,REP,180
+Gulf,White City Fire Station,State House,7,Taymour Kahn,DEM,28
+Gulf,Cape San Blas Fire Station,State House,7,Jason Shoaf,REP,507
+Gulf,Cape San Blas Fire Station,State House,7,Taymour Kahn,DEM,163
+Gulf,Howard Creek Fire Station,State House,7,Jason Shoaf,REP,160
+Gulf,Howard Creek Fire Station,State House,7,Taymour Kahn,DEM,15
+Gulf,Overstreet Fire Station,State House,7,Jason Shoaf,REP,416
+Gulf,Overstreet Fire Station,State House,7,Taymour Kahn,DEM,91
+Gulf,Highland View Fire Station,State House,7,Jason Shoaf,REP,304
+Gulf,Highland View Fire Station,State House,7,Taymour Kahn,DEM,58
