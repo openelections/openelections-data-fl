@@ -2,8 +2,8 @@ candidate,office,district,party,county,precinct,votes,absentee,election_day,earl
 Registered Voters,,,,Flagler,1,2225,,,
 Ballots Cast,,,,Flagler,1,1627,623,621,383
 Ballots Cast Blank,,,,Flagler,1,0,,,
-Donald J Trump,President,,REP,Flagler,1,991,309,430,252
-Joseph R Biden,President,,DEM,Flagler,1,615,302,186,127
+Donald J. Trump,President,,REP,Flagler,1,991,309,430,252
+Joseph R. Biden,President,,DEM,Flagler,1,615,302,186,127
 Jo Jorgensen,President,,LPF,Flagler,1,5,2,2,1
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,1,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,1,0,0,0,0
@@ -29,8 +29,8 @@ Under Votes,State House,24,,Flagler,1,95,39,31,25
 Registered Voters,,,,Flagler,3,2949,,,
 Ballots Cast,,,,Flagler,3,2017,656,584,777
 Ballots Cast Blank,,,,Flagler,3,0,0,0,0
-Donald J Trump,President,,REP,Flagler,3,1599,403,508,688
-Joseph R Biden,President,,DEM,Flagler,3,397,237,76,84
+Donald J. Trump,President,,REP,Flagler,3,1599,403,508,688
+Joseph R. Biden,President,,DEM,Flagler,3,397,237,76,84
 Jo Jorgensen,President,,LPF,Flagler,3,6,5,0,1
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,3,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,3,0,0,0,0
@@ -56,8 +56,8 @@ Under Votes,State House,24,,Flagler,3,95,35,16,44
 Registered Voters,,,,Flagler,5,760,,,
 Ballots Cast,,,,Flagler,5,671,360,204,107
 Ballots Cast Blank,,,,Flagler,5,0,0,0,0
-Donald J Trump,President,,REP,Flagler,5,494,232,170,92
-Joseph R Biden,President,,DEM,Flagler,5,170,124,32,14
+Donald J. Trump,President,,REP,Flagler,5,494,232,170,92
+Joseph R. Biden,President,,DEM,Flagler,5,170,124,32,14
 Jo Jorgensen,President,,LPF,Flagler,5,1,0,1,0
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,5,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,5,0,0,0,0
@@ -83,8 +83,8 @@ Under Votes,State House,24,,Flagler,5,24,10,8,6
 Registered Voters,,,,Flagler,7,2239,,,
 Ballots Cast,,,,Flagler,7,1988,1019,610,359
 Ballots Cast Blank,,,,Flagler,7,0,0,0,0
-Donald J Trump,President,,REP,Flagler,7,1386,587,494,305
-Joseph R Biden,President,,DEM,Flagler,7,583,419,115,49
+Donald J. Trump,President,,REP,Flagler,7,1386,587,494,305
+Joseph R. Biden,President,,DEM,Flagler,7,583,419,115,49
 Jo Jorgensen,President,,LPF,Flagler,7,6,4,0,2
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,7,1,1,0,0
 Gloria La Riva,President,,PSL,Flagler,7,0,0,0,0
@@ -110,8 +110,8 @@ Under Votes,State House,24,,Flagler,7,84,41,24,19
 Registered Voters,,,,Flagler,8,4602,,,
 Ballots Cast,,,,Flagler,8,3506,1425,1438,643
 Ballots Cast Blank,,,,Flagler,8,0,0,0,0
-Donald J Trump,President,,REP,Flagler,8,2120,613,1037,470
-Joseph R Biden,President,,DEM,Flagler,8,1334,785,387,162
+Donald J. Trump,President,,REP,Flagler,8,2120,613,1037,470
+Joseph R. Biden,President,,DEM,Flagler,8,1334,785,387,162
 Jo Jorgensen,President,,LPF,Flagler,8,21,13,2,6
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,8,2,0,2,0
 Gloria La Riva,President,,PSL,Flagler,8,1,1,0,0
@@ -137,8 +137,8 @@ Under Votes,State House,24,,Flagler,8,213,96,79,38
 Registered Voters,,,,Flagler,9,3610,,,
 Ballots Cast,,,,Flagler,9,2629,1128,1130,371
 Ballots Cast Blank,,,,Flagler,9,0,0,0,0
-Donald J Trump,President,,REP,Flagler,9,1569,518,795,256
-Joseph R Biden,President,,DEM,Flagler,9,1025,592,325,108
+Donald J. Trump,President,,REP,Flagler,9,1569,518,795,256
+Joseph R. Biden,President,,DEM,Flagler,9,1025,592,325,108
 Jo Jorgensen,President,,LPF,Flagler,9,13,6,4,3
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,9,2,2,0,0
 Gloria La Riva,President,,PSL,Flagler,9,2,0,1,1
@@ -164,8 +164,8 @@ Under Votes,State House,24,,Flagler,9,141,69,41,31
 Registered Voters,,,,Flagler,10,3884,,,
 Ballots Cast,,,,Flagler,10,3127,1620,1162,345
 Ballots Cast Blank,,,,Flagler,10,0,0,0,0
-Donald J Trump,President,,REP,Flagler,10,1799,708,847,244
-Joseph R Biden,President,,DEM,Flagler,10,1277,877,308,92
+Donald J. Trump,President,,REP,Flagler,10,1799,708,847,244
+Joseph R. Biden,President,,DEM,Flagler,10,1277,877,308,92
 Jo Jorgensen,President,,LPF,Flagler,10,17,7,5,5
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,10,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,10,2,1,1,0
@@ -191,8 +191,8 @@ Under Votes,State House,24,,Flagler,10,168,75,52,41
 Registered Voters,,,,Flagler,11,3503,,,
 Ballots Cast,,,,Flagler,11,2562,1063,959,540
 Ballots Cast Blank,,,,Flagler,11,0,0,0,0
-Donald J Trump,President,,REP,Flagler,11,1374,427,613,334
-Joseph R Biden,President,,DEM,Flagler,11,1141,615,337,189
+Donald J. Trump,President,,REP,Flagler,11,1374,427,613,334
+Joseph R. Biden,President,,DEM,Flagler,11,1141,615,337,189
 Jo Jorgensen,President,,LPF,Flagler,11,13,3,4,6
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,11,3,1,2,0
 Gloria La Riva,President,,PSL,Flagler,11,1,1,0,0
@@ -218,8 +218,8 @@ Under Votes,State House,24,,Flagler,11,123,44,38,41
 Registered Voters,,,,Flagler,13,3550,,,
 Ballots Cast,,,,Flagler,13,2694,1068,1159,467
 Ballots Cast Blank,,,,Flagler,13,1,0,1,0
-Donald J Trump,President,,REP,Flagler,13,1464,399,744,321
-Joseph R Biden,President,,DEM,Flagler,13,1184,642,402,140
+Donald J. Trump,President,,REP,Flagler,13,1464,399,744,321
+Joseph R. Biden,President,,DEM,Flagler,13,1184,642,402,140
 Jo Jorgensen,President,,LPF,Flagler,13,17,13,1,3
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,13,3,1,1,1
 Gloria La Riva,President,,PSL,Flagler,13,0,0,0,0
@@ -245,8 +245,8 @@ Under Votes,State House,24,,Flagler,13,140,54,54,32
 Registered Voters,,,,Flagler,14,5265,,,
 Ballots Cast,,,,Flagler,14,4071,1806,1663,602
 Ballots Cast Blank,,,,Flagler,14,0,0,0,0
-Donald J Trump,President,,REP,Flagler,14,2296,713,1162,421
-Joseph R Biden,President,,DEM,Flagler,14,1704,1059,478,167
+Donald J. Trump,President,,REP,Flagler,14,2296,713,1162,421
+Joseph R. Biden,President,,DEM,Flagler,14,1704,1059,478,167
 Jo Jorgensen,President,,LPF,Flagler,14,19,8,7,4
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,14,2,1,0,1
 Gloria La Riva,President,,PSL,Flagler,14,0,0,0,0
@@ -272,8 +272,8 @@ Under Votes,State House,24,,Flagler,14,221,90,86,45
 Registered Voters,,,,Flagler,15,3702,,,
 Ballots Cast,,,,Flagler,15,2638,1083,1075,480
 Ballots Cast Blank,,,,Flagler,15,0,0,0,0
-Donald J Trump,President,,REP,Flagler,15,1402,432,662,308
-Joseph R Biden,President,,DEM,Flagler,15,1202,635,400,167
+Donald J. Trump,President,,REP,Flagler,15,1402,432,662,308
+Joseph R. Biden,President,,DEM,Flagler,15,1202,635,400,167
 Jo Jorgensen,President,,LPF,Flagler,15,11,4,4,3
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,15,1,1,0,0
 Gloria La Riva,President,,PSL,Flagler,15,1,0,1,0
@@ -299,8 +299,8 @@ Under Votes,State House,24,,Flagler,15,118,47,49,22
 Registered Voters,,,,Flagler,16,2881,,,
 Ballots Cast,,,,Flagler,16,2093,926,801,366
 Ballots Cast Blank,,,,Flagler,16,2,2,0,0
-Donald J Trump,President,,REP,Flagler,16,1156,367,546,243
-Joseph R Biden,President,,DEM,Flagler,16,896,537,246,113
+Donald J. Trump,President,,REP,Flagler,16,1156,367,546,243
+Joseph R. Biden,President,,DEM,Flagler,16,896,537,246,113
 Jo Jorgensen,President,,LPF,Flagler,16,11,6,4,1
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,16,1,1,0,0
 Gloria La Riva,President,,PSL,Flagler,16,1,0,0,1
@@ -326,8 +326,8 @@ Under Votes,State House,24,,Flagler,16,114,51,33,30
 Registered Voters,,,,Flagler,17,2035,,,
 Ballots Cast,,,,Flagler,17,1460,571,570,319
 Ballots Cast Blank,,,,Flagler,17,0,0,0,0
-Donald J Trump,President,,REP,Flagler,17,819,237,368,214
-Joseph R Biden,President,,DEM,Flagler,17,623,327,198,98
+Donald J. Trump,President,,REP,Flagler,17,819,237,368,214
+Joseph R. Biden,President,,DEM,Flagler,17,623,327,198,98
 Jo Jorgensen,President,,LPF,Flagler,17,8,1,2,5
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,17,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,17,0,0,0,0
@@ -353,8 +353,8 @@ Under Votes,State House,24,,Flagler,17,82,32,25,25
 Registered Voters,,,,Flagler,18,4790,,,
 Ballots Cast,,,,Flagler,18,3805,1827,1451,527
 Ballots Cast Blank,,,,Flagler,18,3,1,2,0
-Donald J Trump,President,,REP,Flagler,18,2013,659,985,369
-Joseph R Biden,President,,DEM,Flagler,18,1735,1142,453,140
+Donald J. Trump,President,,REP,Flagler,18,2013,659,985,369
+Joseph R. Biden,President,,DEM,Flagler,18,1735,1142,453,140
 Jo Jorgensen,President,,LPF,Flagler,18,14,2,5,7
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,18,3,3,0,0
 Gloria La Riva,President,,PSL,Flagler,18,6,3,1,2
@@ -380,8 +380,8 @@ Under Votes,State House,24,,Flagler,18,215,109,69,37
 Registered Voters,,,,Flagler,19,4823,,,
 Ballots Cast,,,,Flagler,19,3626,1464,1699,463
 Ballots Cast Blank,,,,Flagler,19,0,0,0,0
-Donald J Trump,President,,REP,Flagler,19,1946,541,1111,294
-Joseph R Biden,President,,DEM,Flagler,19,1623,896,569,158
+Donald J. Trump,President,,REP,Flagler,19,1946,541,1111,294
+Joseph R. Biden,President,,DEM,Flagler,19,1623,896,569,158
 Jo Jorgensen,President,,LPF,Flagler,19,26,15,7,4
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,19,3,0,1,2
 Gloria La Riva,President,,PSL,Flagler,19,3,3,0,0
@@ -407,8 +407,8 @@ Under Votes,State House,24,,Flagler,19,186,64,85,37
 Registered Voters,,,,Flagler,20,4709,,,
 Ballots Cast,,,,Flagler,20,3609,1389,1595,625
 Ballots Cast Blank,,,,Flagler,20,0,0,0,0
-Donald J Trump,President,,REP,Flagler,20,2019,511,1066,442
-Joseph R Biden,President,,DEM,Flagler,20,1547,865,515,167
+Donald J. Trump,President,,REP,Flagler,20,2019,511,1066,442
+Joseph R. Biden,President,,DEM,Flagler,20,1547,865,515,167
 Jo Jorgensen,President,,LPF,Flagler,20,22,3,7,12
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,20,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,20,1,1,0,0
@@ -434,8 +434,8 @@ Under Votes,State House,24,,Flagler,20,200,63,91,46
 Registered Voters,,,,Flagler,21,3690,,,
 Ballots Cast,,,,Flagler,21,2857,1035,1305,517
 Ballots Cast Blank,,,,Flagler,21,0,0,0,0
-Donald J Trump,President,,REP,Flagler,21,1645,359,922,364
-Joseph R Biden,President,,DEM,Flagler,21,1172,659,374,139
+Donald J. Trump,President,,REP,Flagler,21,1645,359,922,364
+Joseph R. Biden,President,,DEM,Flagler,21,1172,659,374,139
 Jo Jorgensen,President,,LPF,Flagler,21,19,1,5,13
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,21,2,1,1,0
 Gloria La Riva,President,,PSL,Flagler,21,1,0,1,0
@@ -461,8 +461,8 @@ Under Votes,State House,24,,Flagler,21,141,55,60,26
 Registered Voters,,,,Flagler,23,5224,,,
 Ballots Cast,,,,Flagler,23,4085,1843,1683,559
 Ballots Cast Blank,,,,Flagler,23,0,0,0,0
-Donald J Trump,President,,REP,Flagler,23,2474,820,1235,419
-Joseph R Biden,President,,DEM,Flagler,23,1562,995,437,130
+Donald J. Trump,President,,REP,Flagler,23,2474,820,1235,419
+Joseph R. Biden,President,,DEM,Flagler,23,1562,995,437,130
 Jo Jorgensen,President,,LPF,Flagler,23,12,10,1,1
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,23,2,2,0,0
 Gloria La Riva,President,,PSL,Flagler,23,1,0,1,0
@@ -488,8 +488,8 @@ Under Votes,State House,24,,Flagler,23,198,82,77,39
 Registered Voters,,,,Flagler,24,3883,,,
 Ballots Cast,,,,Flagler,24,3105,1341,1300,464
 Ballots Cast Blank,,,,Flagler,24,0,0,0,0
-Donald J Trump,President,,REP,Flagler,24,1898,585,969,344
-Joseph R Biden,President,,DEM,Flagler,24,1165,742,311,112
+Donald J. Trump,President,,REP,Flagler,24,1898,585,969,344
+Joseph R. Biden,President,,DEM,Flagler,24,1165,742,311,112
 Jo Jorgensen,President,,LPF,Flagler,24,14,6,5,3
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,24,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,24,4,2,2,0
@@ -515,8 +515,8 @@ Under Votes,State House,24,,Flagler,24,164,57,77,30
 Registered Voters,,,,Flagler,27,6131,,,
 Ballots Cast,,,,Flagler,27,4903,2144,2289,470
 Ballots Cast Blank,,,,Flagler,27,1,1,0,0
-Donald J Trump,President,,REP,Flagler,27,2975,945,1692,338
-Joseph R Biden,President,,DEM,Flagler,27,1848,1166,567,115
+Donald J. Trump,President,,REP,Flagler,27,2975,945,1692,338
+Joseph R. Biden,President,,DEM,Flagler,27,1848,1166,567,115
 Jo Jorgensen,President,,LPF,Flagler,27,31,11,12,8
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,27,1,1,0,0
 Gloria La Riva,President,,PSL,Flagler,27,1,1,0,0
@@ -542,8 +542,8 @@ Under Votes,State House,24,,Flagler,27,257,123,86,48
 Registered Voters,,,,Flagler,29,5369,,,
 Ballots Cast,,,,Flagler,29,4767,2496,1739,532
 Ballots Cast Blank,,,,Flagler,29,0,0,0,0
-Donald J Trump,President,,REP,Flagler,29,3082,1270,1383,429
-Joseph R Biden,President,,DEM,Flagler,29,1625,1191,337,97
+Donald J. Trump,President,,REP,Flagler,29,3082,1270,1383,429
+Joseph R. Biden,President,,DEM,Flagler,29,1625,1191,337,97
 Jo Jorgensen,President,,LPF,Flagler,29,24,12,7,5
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,29,1,1,0,0
 Gloria La Riva,President,,PSL,Flagler,29,1,0,1,0
@@ -569,8 +569,8 @@ Under Votes,State House,24,,Flagler,29,200,122,48,30
 Registered Voters,,,,Flagler,31,3032,,,
 Ballots Cast,,,,Flagler,31,2662,1282,937,443
 Ballots Cast Blank,,,,Flagler,31,0,0,0,0
-Donald J Trump,President,,REP,Flagler,31,1646,552,746,348
-Joseph R Biden,President,,DEM,Flagler,31,983,713,180,90
+Donald J. Trump,President,,REP,Flagler,31,1646,552,746,348
+Joseph R. Biden,President,,DEM,Flagler,31,983,713,180,90
 Jo Jorgensen,President,,LPF,Flagler,31,14,6,5,3
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,31,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,31,2,1,0,1
@@ -596,8 +596,8 @@ Under Votes,State House,24,,Flagler,31,112,53,39,20
 Registered Voters,,,,Flagler,33,4005,,,
 Ballots Cast,,,,Flagler,33,3371,1580,1155,636
 Ballots Cast Blank,,,,Flagler,33,0,0,0,0
-Donald J Trump,President,,REP,Flagler,33,2190,769,917,504
-Joseph R Biden,President,,DEM,Flagler,33,1154,795,233,126
+Donald J. Trump,President,,REP,Flagler,33,2190,769,917,504
+Joseph R. Biden,President,,DEM,Flagler,33,1154,795,233,126
 Jo Jorgensen,President,,LPF,Flagler,33,8,3,1,4
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,33,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,33,0,0,0,0
@@ -623,8 +623,8 @@ Under Votes,State House,24,,Flagler,33,156,78,35,43
 Registered Voters,,,,Flagler,35,2030,,,
 Ballots Cast,,,,Flagler,35,1754,832,467,455
 Ballots Cast Blank,,,,Flagler,35,0,0,0,0
-Donald J Trump,President,,REP,Flagler,35,1022,340,339,343
-Joseph R Biden,President,,DEM,Flagler,35,705,479,125,101
+Donald J. Trump,President,,REP,Flagler,35,1022,340,339,343
+Joseph R. Biden,President,,DEM,Flagler,35,705,479,125,101
 Jo Jorgensen,President,,LPF,Flagler,35,10,3,2,5
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,35,2,1,0,1
 Gloria La Riva,President,,PSL,Flagler,35,0,0,0,0
@@ -650,8 +650,8 @@ Under Votes,State House,24,,Flagler,35,92,46,19,27
 Registered Voters,,,,Flagler,37,3025,,,
 Ballots Cast,,,,Flagler,37,2575,1278,941,356
 Ballots Cast Blank,,,,Flagler,37,0,0,0,0
-Donald J Trump,President,,REP,Flagler,37,1656,629,739,288
-Joseph R Biden,President,,DEM,Flagler,37,879,629,190,60
+Donald J. Trump,President,,REP,Flagler,37,1656,629,739,288
+Joseph R. Biden,President,,DEM,Flagler,37,879,629,190,60
 Jo Jorgensen,President,,LPF,Flagler,37,15,8,5,2
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,37,1,0,1,0
 Gloria La Riva,President,,PSL,Flagler,37,1,0,0,1
@@ -677,8 +677,8 @@ Under Votes,State House,24,,Flagler,37,128,67,41,20
 Registered Voters,,,,Flagler,999,0,,,
 Ballots Cast,,,,Flagler,999,22,22,0,0
 Ballots Cast Blank,,,,Flagler,999,0,0,0,0
-Donald J Trump,President,,REP,Flagler,999,8,8,0,0
-Joseph R Biden,President,,DEM,Flagler,999,12,12,0,0
+Donald J. Trump,President,,REP,Flagler,999,8,8,0,0
+Joseph R. Biden,President,,DEM,Flagler,999,12,12,0,0
 Jo Jorgensen,President,,LPF,Flagler,999,2,2,0,0
 "Roque ""Rocky""De La Fuente",President,,REF,Flagler,999,0,0,0,0
 Gloria La Riva,President,,PSL,Flagler,999,0,0,0,0

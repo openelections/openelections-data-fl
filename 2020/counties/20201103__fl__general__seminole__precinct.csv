@@ -1,4 +1,4 @@
-county,precinct,office,,candidate,party,votes
+county,precinct,office,district,candidate,party,votes
 Seminole,001 Seminole Community Church,President,,Donald J. Trump,REP,374
 Seminole,002 The Church at Heathrow DE,President,,Donald J. Trump,REP,568
 Seminole,003 Crossings Community Church,President,,Donald J. Trump,REP,514

@@ -1,24 +1,24 @@
 county,precinct,office,district,candidate,party,provisional,mail,early_voting,election_day,votes
-Gilchrist,1A Trenton Center,President,,Donald J. Trump and Michael R. Pence,REP,0,165,339,218,722
-Gilchrist,1B County Library,President,,Donald J. Trump and Michael R. Pence,REP,0,82,158,104,344
-Gilchrist,1C County Library,President,,Donald J. Trump and Michael R. Pence,REP,,,,,144
-Gilchrist,2A Donnie Center,President,,Donald J. Trump and Michael R. Pence,REP,0,275,548,391,1214
-Gilchrist,3A Bell Community Center,President,,Donald J. Trump and Michael R. Pence,REP,0,220,395,440,1055
-Gilchrist,4A Cruse Center,President,,Donald J. Trump and Michael R. Pence,REP,0,254,324,453,1031
-Gilchrist,5A N Gilchrist Fire Station,President,,Donald J. Trump and Michael R. Pence,REP,0,111,141,323,575
-Gilchrist,6A Osteen Center,President,,Donald J. Trump and Michael R. Pence,REP,0,257,423,546,1226
-Gilchrist,7A Osceola Center,President,,Donald J. Trump and Michael R. Pence,REP,,,,,804
-Gilchrist,8A Southeast Center,President,,Donald J. Trump and Michael R. Pence,REP,0,148,309,323,780
-Gilchrist,1A Trenton Center,President,,Joseph R. Biden and Kamala D. Harris,DEM,0,66,64,32,162
-Gilchrist,1B County Library,President,,Joseph R. Biden and Kamala D. Harris,DEM,,,,,74
-Gilchrist,1C County Library,President,,Joseph R. Biden and Kamala D. Harris,DEM,,,,,101
-Gilchrist,2A Donnie Center,President,,Joseph R. Biden and Kamala D. Harris,DEM,,,,,191
-Gilchrist,3A Bell Community Center,President,,Joseph R. Biden and Kamala D. Harris,DEM,0,93,58,36,187
-Gilchrist,4A Cruse Center,President,,Joseph R. Biden and Kamala D. Harris,DEM,0,121,55,55,231
-Gilchrist,5A N Gilchrist Fire Station,President,,Joseph R. Biden and Kamala D. Harris,DEM,,,,,113
-Gilchrist,6A Osteen Center,President,,Joseph R. Biden and Kamala D. Harris,DEM,0,123,65,43,231
-Gilchrist,7A Osceola Center,President,,Joseph R. Biden and Kamala D. Harris,DEM,0,76,47,53,176
-Gilchrist,8A Southeast Center,President,,Joseph R. Biden and Kamala D. Harris,DEM,0,94,86,54,234
+Gilchrist,1A Trenton Center,President,,Donald J. Trump,REP,0,165,339,218,722
+Gilchrist,1B County Library,President,,Donald J. Trump,REP,0,82,158,104,344
+Gilchrist,1C County Library,President,,Donald J. Trump,REP,,,,,144
+Gilchrist,2A Donnie Center,President,,Donald J. Trump,REP,0,275,548,391,1214
+Gilchrist,3A Bell Community Center,President,,Donald J. Trump,REP,0,220,395,440,1055
+Gilchrist,4A Cruse Center,President,,Donald J. Trump,REP,0,254,324,453,1031
+Gilchrist,5A N Gilchrist Fire Station,President,,Donald J. Trump,REP,0,111,141,323,575
+Gilchrist,6A Osteen Center,President,,Donald J. Trump,REP,0,257,423,546,1226
+Gilchrist,7A Osceola Center,President,,Donald J. Trump,REP,,,,,804
+Gilchrist,8A Southeast Center,President,,Donald J. Trump,REP,0,148,309,323,780
+Gilchrist,1A Trenton Center,President,,Joseph R. Biden,DEM,0,66,64,32,162
+Gilchrist,1B County Library,President,,Joseph R. Biden,DEM,,,,,74
+Gilchrist,1C County Library,President,,Joseph R. Biden,DEM,,,,,101
+Gilchrist,2A Donnie Center,President,,Joseph R. Biden,DEM,,,,,191
+Gilchrist,3A Bell Community Center,President,,Joseph R. Biden,DEM,0,93,58,36,187
+Gilchrist,4A Cruse Center,President,,Joseph R. Biden,DEM,0,121,55,55,231
+Gilchrist,5A N Gilchrist Fire Station,President,,Joseph R. Biden,DEM,,,,,113
+Gilchrist,6A Osteen Center,President,,Joseph R. Biden,DEM,0,123,65,43,231
+Gilchrist,7A Osceola Center,President,,Joseph R. Biden,DEM,0,76,47,53,176
+Gilchrist,8A Southeast Center,President,,Joseph R. Biden,DEM,0,94,86,54,234
 Gilchrist,1A Trenton Center,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,,,,,4
 Gilchrist,1B County Library,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,,,,,5
 Gilchrist,1C County Library,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,,,,,2

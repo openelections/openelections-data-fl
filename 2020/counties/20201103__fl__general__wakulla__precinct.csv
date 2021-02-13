@@ -2,8 +2,8 @@ candidate,office,district,party,county,precinct,votes,absentee,early_voting,elec
 ,Registered Voters,,,Wakulla,01 Wakulla Station,2863,,,,,
 ,Ballots Cast,,,Wakulla,01 Wakulla Station,2329,699,911,718,1,0
 ,Ballots Cast Blank,,,Wakulla,01 Wakulla Station,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,01 Wakulla Station,1593,325,676,591,1,0
-Joseph R Biden,President,,DEM,Wakulla,01 Wakulla Station,699,360,225,114,0,0
+Donald J. Trump,President,,REP,Wakulla,01 Wakulla Station,1593,325,676,591,1,0
+Joseph R. Biden,President,,DEM,Wakulla,01 Wakulla Station,699,360,225,114,0,0
 Jo Jorgensen,President,,LPF,Wakulla,01 Wakulla Station,21,6,5,10,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,01 Wakulla Station,1,0,1,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,01 Wakulla Station,2,2,0,0,0,0
@@ -19,8 +19,8 @@ Taymour Khan,State House,7,DEM,Wakulla,01 Wakulla Station,623,316,211,96,0,0
 ,Registered Voters,,,Wakulla,02 Crawfordville,6098,,,,,
 ,Ballots Cast,,,Wakulla,02 Crawfordville,4947,1310,2793,840,2,2
 ,Ballots Cast Blank,,,Wakulla,02 Crawfordville,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,02 Crawfordville,3390,651,2096,641,1,1
-Joseph R Biden,President,,DEM,Wakulla,02 Crawfordville,1482,624,675,183,0,0
+Donald J. Trump,President,,REP,Wakulla,02 Crawfordville,3390,651,2096,641,1,1
+Joseph R. Biden,President,,DEM,Wakulla,02 Crawfordville,1482,624,675,183,0,0
 Jo Jorgensen,President,,LPF,Wakulla,02 Crawfordville,37,12,15,8,1,1
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,02 Crawfordville,1,1,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,02 Crawfordville,1,1,0,0,0,0
@@ -36,8 +36,8 @@ Taymour Khan,State House,7,DEM,Wakulla,02 Crawfordville,1245,520,569,156,0,0
 ,Registered Voters,,,Wakulla,03 Sopchoppy,1348,,,,,
 ,Ballots Cast,,,Wakulla,03 Sopchoppy,1142,335,425,381,0,1
 ,Ballots Cast Blank,,,Wakulla,03 Sopchoppy,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,03 Sopchoppy,777,164,327,286,0,0
-Joseph R Biden,President,,DEM,Wakulla,03 Sopchoppy,351,162,94,94,0,1
+Donald J. Trump,President,,REP,Wakulla,03 Sopchoppy,777,164,327,286,0,0
+Joseph R. Biden,President,,DEM,Wakulla,03 Sopchoppy,351,162,94,94,0,1
 Jo Jorgensen,President,,LPF,Wakulla,03 Sopchoppy,4,3,1,0,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,03 Sopchoppy,0,0,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,03 Sopchoppy,0,0,0,0,0,0
@@ -53,8 +53,8 @@ Taymour Khan,State House,7,DEM,Wakulla,03 Sopchoppy,300,145,86,69,0,0
 ,Registered Voters,,,Wakulla,04 Smith Creek,210,,,,,
 ,Ballots Cast,,,Wakulla,04 Smith Creek,188,47,52,89,0,0
 ,Ballots Cast Blank,,,Wakulla,04 Smith Creek,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,04 Smith Creek,168,34,52,82,0,0
-Joseph R Biden,President,,DEM,Wakulla,04 Smith Creek,20,13,0,7,0,0
+Donald J. Trump,President,,REP,Wakulla,04 Smith Creek,168,34,52,82,0,0
+Joseph R. Biden,President,,DEM,Wakulla,04 Smith Creek,20,13,0,7,0,0
 Jo Jorgensen,President,,LPF,Wakulla,04 Smith Creek,0,0,0,0,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,04 Smith Creek,0,0,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,04 Smith Creek,0,0,0,0,0,0
@@ -70,8 +70,8 @@ Taymour Khan,State House,7,DEM,Wakulla,04 Smith Creek,14,11,0,3,0,0
 ,Registered Voters,,,Wakulla,05 St. Marks,398,,,,,
 ,Ballots Cast,,,Wakulla,05 St. Marks,338,71,92,175,0,0
 ,Ballots Cast Blank,,,Wakulla,05 St. Marks,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,05 St. Marks,245,31,61,153,0,0
-Joseph R Biden,President,,DEM,Wakulla,05 St. Marks,89,39,30,20,0,0
+Donald J. Trump,President,,REP,Wakulla,05 St. Marks,245,31,61,153,0,0
+Joseph R. Biden,President,,DEM,Wakulla,05 St. Marks,89,39,30,20,0,0
 Jo Jorgensen,President,,LPF,Wakulla,05 St. Marks,1,0,1,0,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,05 St. Marks,0,0,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,05 St. Marks,0,0,0,0,0,0
@@ -87,8 +87,8 @@ Taymour Khan,State House,7,DEM,Wakulla,05 St. Marks,77,34,27,16,0,0
 ,Registered Voters,,,Wakulla,06 Medart,1671,,,,,
 ,Ballots Cast,,,Wakulla,06 Medart,1316,319,698,299,0,0
 ,Ballots Cast Blank,,,Wakulla,06 Medart,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,06 Medart,1032,184,604,244,0,0
-Joseph R Biden,President,,DEM,Wakulla,06 Medart,255,129,78,48,0,0
+Donald J. Trump,President,,REP,Wakulla,06 Medart,1032,184,604,244,0,0
+Joseph R. Biden,President,,DEM,Wakulla,06 Medart,255,129,78,48,0,0
 Jo Jorgensen,President,,LPF,Wakulla,06 Medart,17,2,9,6,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,06 Medart,0,0,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,06 Medart,1,1,0,0,0,0
@@ -104,8 +104,8 @@ Taymour Khan,State House,7,DEM,Wakulla,06 Medart,226,123,65,38,0,0
 ,Registered Voters,,,Wakulla,07 Ivan,3700,,,,,
 ,Ballots Cast,,,Wakulla,07 Ivan,3062,899,1526,637,0,0
 ,Ballots Cast Blank,,,Wakulla,07 Ivan,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,07 Ivan,2166,507,1161,498,0,0
-Joseph R Biden,President,,DEM,Wakulla,07 Ivan,851,374,356,121,0,0
+Donald J. Trump,President,,REP,Wakulla,07 Ivan,2166,507,1161,498,0,0
+Joseph R. Biden,President,,DEM,Wakulla,07 Ivan,851,374,356,121,0,0
 Jo Jorgensen,President,,LPF,Wakulla,07 Ivan,23,10,5,8,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,07 Ivan,2,0,1,1,0,0
 Gloria La Riva,President,,PSL,Wakulla,07 Ivan,1,0,1,0,0,0
@@ -121,8 +121,8 @@ Taymour Khan,State House,7,DEM,Wakulla,07 Ivan,728,316,311,101,0,0
 ,Registered Voters,,,Wakulla,08 Shell Point,992,,,,,
 ,Ballots Cast,,,Wakulla,08 Shell Point,791,255,281,255,0,0
 ,Ballots Cast Blank,,,Wakulla,08 Shell Point,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,08 Shell Point,546,122,220,204,0,0
-Joseph R Biden,President,,DEM,Wakulla,08 Shell Point,233,126,59,48,0,0
+Donald J. Trump,President,,REP,Wakulla,08 Shell Point,546,122,220,204,0,0
+Joseph R. Biden,President,,DEM,Wakulla,08 Shell Point,233,126,59,48,0,0
 Jo Jorgensen,President,,LPF,Wakulla,08 Shell Point,5,1,1,3,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,08 Shell Point,1,1,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,08 Shell Point,0,0,0,0,0,0
@@ -138,8 +138,8 @@ Taymour Khan,State House,7,DEM,Wakulla,08 Shell Point,199,108,48,43,0,0
 ,Registered Voters,,,Wakulla,09 Panacea,639,,,,,
 ,Ballots Cast,,,Wakulla,09 Panacea,465,90,155,220,0,0
 ,Ballots Cast Blank,,,Wakulla,09 Panacea,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,09 Panacea,371,56,124,191,0,0
-Joseph R Biden,President,,DEM,Wakulla,09 Panacea,90,33,29,28,0,0
+Donald J. Trump,President,,REP,Wakulla,09 Panacea,371,56,124,191,0,0
+Joseph R. Biden,President,,DEM,Wakulla,09 Panacea,90,33,29,28,0,0
 Jo Jorgensen,President,,LPF,Wakulla,09 Panacea,0,0,0,0,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,09 Panacea,1,1,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,09 Panacea,0,0,0,0,0,0
@@ -155,8 +155,8 @@ Taymour Khan,State House,7,DEM,Wakulla,09 Panacea,81,29,24,28,0,0
 ,Registered Voters,,,Wakulla,10 Ochlockonee Bay,513,,,,,
 ,Ballots Cast,,,Wakulla,10 Ochlockonee Bay,415,131,157,127,0,0
 ,Ballots Cast Blank,,,Wakulla,10 Ochlockonee Bay,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,10 Ochlockonee Bay,303,67,126,110,0,0
-Joseph R Biden,President,,DEM,Wakulla,10 Ochlockonee Bay,103,60,28,15,0,0
+Donald J. Trump,President,,REP,Wakulla,10 Ochlockonee Bay,303,67,126,110,0,0
+Joseph R. Biden,President,,DEM,Wakulla,10 Ochlockonee Bay,103,60,28,15,0,0
 Jo Jorgensen,President,,LPF,Wakulla,10 Ochlockonee Bay,1,1,0,0,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,10 Ochlockonee Bay,0,0,0,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,10 Ochlockonee Bay,0,0,0,0,0,0
@@ -172,8 +172,8 @@ Taymour Khan,State House,7,DEM,Wakulla,10 Ochlockonee Bay,78,41,21,16,0,0
 ,Registered Voters,,,Wakulla,11 Bethel,1830,,,,,
 ,Ballots Cast,,,Wakulla,11 Bethel,1507,427,668,407,4,1
 ,Ballots Cast Blank,,,Wakulla,11 Bethel,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,11 Bethel,950,178,486,283,3,0
-Joseph R Biden,President,,DEM,Wakulla,11 Bethel,537,244,177,114,1,1
+Donald J. Trump,President,,REP,Wakulla,11 Bethel,950,178,486,283,3,0
+Joseph R. Biden,President,,DEM,Wakulla,11 Bethel,537,244,177,114,1,1
 Jo Jorgensen,President,,LPF,Wakulla,11 Bethel,6,0,1,5,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,11 Bethel,2,0,2,0,0,0
 Gloria La Riva,President,,PSL,Wakulla,11 Bethel,1,0,0,1,0,0
@@ -189,8 +189,8 @@ Taymour Khan,State House,7,DEM,Wakulla,11 Bethel,466,208,161,96,1,0
 ,Registered Voters,,,Wakulla,12 Shadeville,2648,,,,,
 ,Ballots Cast,,,Wakulla,12 Shadeville,2013,515,1012,484,1,1
 ,Ballots Cast Blank,,,Wakulla,12 Shadeville,0,0,0,0,0,0
-Donald J Trump,President,,REP,Wakulla,12 Shadeville,1333,242,722,369,0,0
-Joseph R Biden,President,,DEM,Wakulla,12 Shadeville,641,257,277,105,1,1
+Donald J. Trump,President,,REP,Wakulla,12 Shadeville,1333,242,722,369,0,0
+Joseph R. Biden,President,,DEM,Wakulla,12 Shadeville,641,257,277,105,1,1
 Jo Jorgensen,President,,LPF,Wakulla,12 Shadeville,20,4,10,6,0,0
 "Roque ""Rocky"" De La Fuente ",President,,REF,Wakulla,12 Shadeville,2,0,1,1,0,0
 Gloria La Riva,President,,PSL,Wakulla,12 Shadeville,0,0,0,0,0,0

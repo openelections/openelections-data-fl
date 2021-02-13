@@ -2,8 +2,8 @@ candidate,office,district,party,county,precinct,votes,election_day,mail,early_vo
 Registered Voters,,,,Liberty,Rock Bluff,380,,,,
 Ballots Cast,,,,Liberty,Rock Bluff,287,113,78,96,0
 Ballots Cast Blank,,,,Liberty,Rock Bluff,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Rock Bluff,85,22,17,46,0
-Joseph R Biden,President,,DEM,Liberty,Rock Bluff,200,91,59,50,0
+Donald J. Trump,President,,REP,Liberty,Rock Bluff,85,22,17,46,0
+Joseph R. Biden,President,,DEM,Liberty,Rock Bluff,200,91,59,50,0
 Jo Jorgensen,President,,LPF,Liberty,Rock Bluff,1,0,1,0,0
 De La Fuente,President,,REF,Liberty,Rock Bluff,0,0,0,0,0
 La Riva,President,,PSL,Liberty,Rock Bluff,0,0,0,0,0
@@ -19,8 +19,8 @@ Taymour Khan,State House,7,DEM,Liberty,Rock Bluff,173,73,55,45,0
 Registered Voters,,,,Liberty,Annex,304,,,,
 Ballots Cast,,,,Liberty,Annex,205,45,47,113,0
 Ballots Cast Blank,,,,Liberty,Annex,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Annex,105,26,13,66,0
-Joseph R Biden,President,,DEM,Liberty,Annex,96,17,34,45,0
+Donald J. Trump,President,,REP,Liberty,Annex,105,26,13,66,0
+Joseph R. Biden,President,,DEM,Liberty,Annex,96,17,34,45,0
 Jo Jorgensen,President,,LPF,Liberty,Annex,1,0,0,1,0
 De La Fuente,President,,REF,Liberty,Annex,0,0,0,0,0
 La Riva,President,,PSL,Liberty,Annex,1,1,0,0,0
@@ -36,8 +36,8 @@ Taymour Khan,State House,7,DEM,Liberty,Annex,87,16,31,40,0
 Registered Voters,,,,Liberty,Bristol,1088,,,,
 Ballots Cast,,,,Liberty,Bristol,846,211,176,459,0
 Ballots Cast Blank,,,,Liberty,Bristol,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Bristol,712,181,130,401,0
-Joseph R Biden,President,,DEM,Liberty,Bristol,125,28,45,52,0
+Donald J. Trump,President,,REP,Liberty,Bristol,712,181,130,401,0
+Joseph R. Biden,President,,DEM,Liberty,Bristol,125,28,45,52,0
 Jo Jorgensen,President,,LPF,Liberty,Bristol,3,0,0,3,0
 De La Fuente,President,,REF,Liberty,Bristol,0,0,0,0,0
 La Riva,President,,PSL,Liberty,Bristol,1,1,0,0,0
@@ -53,8 +53,8 @@ Taymour Khan,State House,7,DEM,Liberty,Bristol,113,31,39,43,0
 Registered Voters,,,,Liberty,Lake Mystic,1027,,,,
 Ballots Cast,,,,Liberty,Lake Mystic,827,203,189,435,0
 Ballots Cast Blank,,,,Liberty,Lake Mystic,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Lake Mystic,744,188,151,405,0
-Joseph R Biden,President,,DEM,Liberty,Lake Mystic,75,14,35,26,0
+Donald J. Trump,President,,REP,Liberty,Lake Mystic,744,188,151,405,0
+Joseph R. Biden,President,,DEM,Liberty,Lake Mystic,75,14,35,26,0
 Jo Jorgensen,President,,LPF,Liberty,Lake Mystic,2,0,0,2,0
 De La Fuente,President,,REF,Liberty,Lake Mystic,2,0,2,0,0
 La Riva,President,,PSL,Liberty,Lake Mystic,0,0,0,0,0
@@ -70,8 +70,8 @@ Taymour Khan,State House,7,DEM,Liberty,Lake Mystic,61,14,25,22,0
 Registered Voters,,,,Liberty,Hosford,647,,,,
 Ballots Cast,,,,Liberty,Hosford,509,138,79,292,0
 Ballots Cast Blank,,,,Liberty,Hosford,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Hosford,418,125,54,239,0
-Joseph R Biden,President,,DEM,Liberty,Hosford,81,9,24,48,0
+Donald J. Trump,President,,REP,Liberty,Hosford,418,125,54,239,0
+Joseph R. Biden,President,,DEM,Liberty,Hosford,81,9,24,48,0
 Jo Jorgensen,President,,LPF,Liberty,Hosford,5,2,0,3,0
 De La Fuente,President,,REF,Liberty,Hosford,0,0,0,0,0
 La Riva,President,,PSL,Liberty,Hosford,0,0,0,0,0
@@ -87,8 +87,8 @@ Taymour Khan,State House,7,DEM,Liberty,Hosford,63,10,14,39,0
 Registered Voters,,,,Liberty,Telogia,707,,,,
 Ballots Cast,,,,Liberty,Telogia,547,213,73,261,0
 Ballots Cast Blank,,,,Liberty,Telogia,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Telogia,484,199,53,232,0
-Joseph R Biden,President,,DEM,Liberty,Telogia,61,14,18,29,0
+Donald J. Trump,President,,REP,Liberty,Telogia,484,199,53,232,0
+Joseph R. Biden,President,,DEM,Liberty,Telogia,61,14,18,29,0
 Jo Jorgensen,President,,LPF,Liberty,Telogia,1,0,1,0,0
 De La Fuente,President,,REF,Liberty,Telogia,0,0,0,0,0
 La Riva,President,,PSL,Liberty,Telogia,0,0,0,0,0
@@ -104,8 +104,8 @@ Taymour Khan,State House,7,DEM,Liberty,Telogia,62,17,20,25,0
 Registered Voters,,,,Liberty,Sumatra,180,,,,
 Ballots Cast,,,,Liberty,Sumatra,141,86,23,32,0
 Ballots Cast Blank,,,,Liberty,Sumatra,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Sumatra,130,82,19,29,0
-Joseph R Biden,President,,DEM,Liberty,Sumatra,11,4,4,3,0
+Donald J. Trump,President,,REP,Liberty,Sumatra,130,82,19,29,0
+Joseph R. Biden,President,,DEM,Liberty,Sumatra,11,4,4,3,0
 Jo Jorgensen,President,,LPF,Liberty,Sumatra,0,0,0,0,0
 De La Fuente,President,,REF,Liberty,Sumatra,0,0,0,0,0
 La Riva,President,,PSL,Liberty,Sumatra,0,0,0,0,0
@@ -121,8 +121,8 @@ Taymour Khan,State House,7,DEM,Liberty,Sumatra,10,5,2,3,0
 Registered Voters,,,,Liberty,Orange,268,,,,
 Ballots Cast,,,,Liberty,Orange,215,91,35,89,0
 Ballots Cast Blank,,,,Liberty,Orange,0,0,0,0,0
-Donald J Trump,President,,REP,Liberty,Orange,168,73,17,78,0
-Joseph R Biden,President,,DEM,Liberty,Orange,45,16,18,11,0
+Donald J. Trump,President,,REP,Liberty,Orange,168,73,17,78,0
+Joseph R. Biden,President,,DEM,Liberty,Orange,45,16,18,11,0
 Jo Jorgensen,President,,LPF,Liberty,Orange,1,1,0,0,0
 De La Fuente,President,,REF,Liberty,Orange,0,0,0,0,0
 La Riva,President,,PSL,Liberty,Orange,0,0,0,0,0
