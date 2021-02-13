@@ -1,0 +1,781 @@
+county,precinct,office,district,candidate,party,mail,election_day,votes
+Bay,PCT 1,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1330
+Bay,PCT 2,President,,Donald J. Trump and Michael R. Pence,REP,-,-,859
+Bay,PCT 3,President,,Donald J. Trump and Michael R. Pence,REP,-,-,479
+Bay,PCT 4,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2130
+Bay,PCT 5,President,,Donald J. Trump and Michael R. Pence,REP,387,1899,2286
+Bay,PCT 6,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2799
+Bay,PCT 7,President,,Donald J. Trump and Michael R. Pence,REP,91,309,400
+Bay,PCT 8,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2167
+Bay,PCT 9,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2086
+Bay,PCT 10,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2867
+Bay,PCT 11,President,,Donald J. Trump and Michael R. Pence,REP,-,-,3237
+Bay,PCT 12,President,,Donald J. Trump and Michael R. Pence,REP,-,-,3035
+Bay,PCT 13,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1702
+Bay,PCT 14,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2556
+Bay,PCT 15,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2128
+Bay,PCT 16,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1144
+Bay,PCT 17,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2468
+Bay,PCT 18,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1565
+Bay,PCT 19,President,,Donald J. Trump and Michael R. Pence,REP,-,-,954
+Bay,PCT 20,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1057
+Bay,PCT 21,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2737
+Bay,PCT 22,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2314
+Bay,PCT 23,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2534
+Bay,PCT 24,President,,Donald J. Trump and Michael R. Pence,REP,-,-,885
+Bay,PCT 25,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1328
+Bay,PCT 26,President,,Donald J. Trump and Michael R. Pence,REP,460,1123,1583
+Bay,PCT 27,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1754
+Bay,PCT 28,President,,Donald J. Trump and Michael R. Pence,REP,-,-,975
+Bay,PCT 29,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1188
+Bay,PCT 30,President,,Donald J. Trump and Michael R. Pence,REP,-,-,538
+Bay,PCT 31,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1866
+Bay,PCT 32,President,,Donald J. Trump and Michael R. Pence,REP,-,-,138
+Bay,PCT 33,President,,Donald J. Trump and Michael R. Pence,REP,104,339,443
+Bay,PCT 34,President,,Donald J. Trump and Michael R. Pence,REP,172,419,591
+Bay,PCT 35,President,,Donald J. Trump and Michael R. Pence,REP,321,816,1137
+Bay,PCT 36,President,,Donald J. Trump and Michael R. Pence,REP,-,-,376
+Bay,PCT 37,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1305
+Bay,PCT 38,President,,Donald J. Trump and Michael R. Pence,REP,-,-,826
+Bay,PCT 39,President,,Donald J. Trump and Michael R. Pence,REP,-,-,2000
+Bay,PCT 40,President,,Donald J. Trump and Michael R. Pence,REP,-,-,925
+Bay,PCT 41,President,,Donald J. Trump and Michael R. Pence,REP,-,-,1180
+Bay,PCT 42,President,,Donald J. Trump and Michael R. Pence,REP,-,-,773
+Bay,PCT 43,President,,Donald J. Trump and Michael R. Pence,REP,-,-,861
+Bay,PCT 44,President,,Donald J. Trump and Michael R. Pence,REP,-,-,591
+Bay,PCT 1,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,220
+Bay,PCT 2,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,132
+Bay,PCT 3,President,,Joseph R. Biden and Kamala D. Harris,DEM,43,47,90
+Bay,PCT 4,President,,Joseph R. Biden and Kamala D. Harris,DEM,180,182,362
+Bay,PCT 5,President,,Joseph R. Biden and Kamala D. Harris,DEM,144,180,324
+Bay,PCT 6,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,497
+Bay,PCT 7,President,,Joseph R. Biden and Kamala D. Harris,DEM,36,39,75
+Bay,PCT 8,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,688
+Bay,PCT 9,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,796
+Bay,PCT 10,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,975
+Bay,PCT 11,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,1343
+Bay,PCT 12,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,1031
+Bay,PCT 13,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,526
+Bay,PCT 14,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,892
+Bay,PCT 15,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,549
+Bay,PCT 16,President,,Joseph R. Biden and Kamala D. Harris,DEM,111,99,210
+Bay,PCT 17,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,774
+Bay,PCT 18,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,415
+Bay,PCT 19,President,,Joseph R. Biden and Kamala D. Harris,DEM,243,299,542
+Bay,PCT 20,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,338
+Bay,PCT 21,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,784
+Bay,PCT 22,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,862
+Bay,PCT 23,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,1117
+Bay,PCT 24,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,384
+Bay,PCT 25,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,465
+Bay,PCT 26,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,522
+Bay,PCT 27,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,687
+Bay,PCT 28,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,548
+Bay,PCT 29,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,839
+Bay,PCT 30,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,388
+Bay,PCT 31,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,1128
+Bay,PCT 32,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,1010
+Bay,PCT 33,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,802
+Bay,PCT 34,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,290
+Bay,PCT 35,President,,Joseph R. Biden and Kamala D. Harris,DEM,289,250,539
+Bay,PCT 36,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,260
+Bay,PCT 37,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,910
+Bay,PCT 38,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,383
+Bay,PCT 39,President,,Joseph R. Biden and Kamala D. Harris,DEM,379,409,788
+Bay,PCT 40,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,537
+Bay,PCT 41,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,631
+Bay,PCT 42,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,298
+Bay,PCT 43,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,458
+Bay,PCT 44,President,,Joseph R. Biden and Kamala D. Harris,DEM,-,-,205
+Bay,PCT 1,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,11
+Bay,PCT 2,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,4
+Bay,PCT 3,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,10
+Bay,PCT 4,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,23
+Bay,PCT 5,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,16
+Bay,PCT 6,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,26
+Bay,PCT 7,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,2
+Bay,PCT 8,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,15
+Bay,PCT 9,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,26
+Bay,PCT 10,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,35
+Bay,PCT 11,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,41
+Bay,PCT 12,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,43
+Bay,PCT 13,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,21
+Bay,PCT 14,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,53
+Bay,PCT 15,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,16
+Bay,PCT 16,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,10
+Bay,PCT 17,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,56
+Bay,PCT 18,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,19
+Bay,PCT 19,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,21
+Bay,PCT 20,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,16
+Bay,PCT 21,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,35
+Bay,PCT 22,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,37
+Bay,PCT 23,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,41
+Bay,PCT 24,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,22
+Bay,PCT 25,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,16
+Bay,PCT 26,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,32
+Bay,PCT 27,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,31
+Bay,PCT 28,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,24
+Bay,PCT 29,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,31
+Bay,PCT 30,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,18
+Bay,PCT 31,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,32
+Bay,PCT 32,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,4
+Bay,PCT 33,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,5
+Bay,PCT 34,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,10
+Bay,PCT 35,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,41
+Bay,PCT 36,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,3
+Bay,PCT 37,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,22
+Bay,PCT 38,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,14
+Bay,PCT 39,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,32
+Bay,PCT 40,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,23
+Bay,PCT 41,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,28
+Bay,PCT 42,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,18
+Bay,PCT 43,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,12
+Bay,PCT 44,President,,"Jo Jorgensen and Jeremy ""Spike"" Cohen",LPF,-,-,9
+Bay,PCT 1,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 2,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 3,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 4,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 5,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 6,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 7,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 8,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 9,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 10,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 11,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 12,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 13,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 14,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 15,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 16,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 17,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 18,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 19,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 20,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,3
+Bay,PCT 21,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 22,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 23,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,7
+Bay,PCT 24,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 25,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 26,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,6
+Bay,PCT 27,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,3
+Bay,PCT 28,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 29,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 30,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 31,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 32,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 33,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 34,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 35,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 36,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 37,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 38,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 39,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 40,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 41,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,2
+Bay,PCT 42,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,0,0,0
+Bay,PCT 43,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 44,President,,"Roque ""Rocky"" De La Fuente and Darcy G. Richardson",REF,-,-,1
+Bay,PCT 1,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 2,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 3,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 4,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,3
+Bay,PCT 5,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 6,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 7,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 8,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 9,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 10,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 11,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 12,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 13,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 14,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 15,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 16,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 17,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,3
+Bay,PCT 18,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 19,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 20,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 21,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 22,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 23,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 24,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 25,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,4
+Bay,PCT 26,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 27,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 28,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,3
+Bay,PCT 29,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 30,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 31,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,4
+Bay,PCT 32,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 33,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 34,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 35,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 36,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,1
+Bay,PCT 37,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,3
+Bay,PCT 38,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 39,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 40,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 41,President,,Gloria La Riva and Sunil Freeman,PSL,-,-,2
+Bay,PCT 42,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 43,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 44,President,,Gloria La Riva and Sunil Freeman,PSL,0,0,0
+Bay,PCT 1,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 2,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 3,President,,Howie Hawkins and Angela Nicole Walker,GRE,0,0,0
+Bay,PCT 4,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,3
+Bay,PCT 5,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,5
+Bay,PCT 6,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 7,President,,Howie Hawkins and Angela Nicole Walker,GRE,0,0,0
+Bay,PCT 8,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,5
+Bay,PCT 9,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,4
+Bay,PCT 10,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,9
+Bay,PCT 11,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,8
+Bay,PCT 12,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,6
+Bay,PCT 13,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,6
+Bay,PCT 14,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,3
+Bay,PCT 15,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,3
+Bay,PCT 16,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 17,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,4
+Bay,PCT 18,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,4
+Bay,PCT 19,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,4
+Bay,PCT 20,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 21,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,6
+Bay,PCT 22,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 23,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,12
+Bay,PCT 24,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 25,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 26,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,4
+Bay,PCT 27,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 28,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,3
+Bay,PCT 29,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,3
+Bay,PCT 30,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 31,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,5
+Bay,PCT 32,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 33,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 34,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 35,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,3
+Bay,PCT 36,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 37,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,5
+Bay,PCT 38,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 39,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 40,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,2
+Bay,PCT 41,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,7
+Bay,PCT 42,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 43,President,,Howie Hawkins and Angela Nicole Walker,GRE,-,-,1
+Bay,PCT 44,President,,Howie Hawkins and Angela Nicole Walker,GRE,0,0,0
+Bay,PCT 1,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 2,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 3,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 4,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 5,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 6,President,,Don Blankenship and William Mohr,CPF,-,-,3
+Bay,PCT 7,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 8,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 9,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 10,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 11,President,,Don Blankenship and William Mohr,CPF,-,-,2
+Bay,PCT 12,President,,Don Blankenship and William Mohr,CPF,-,-,3
+Bay,PCT 13,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 14,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 15,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 16,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 17,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 18,President,,Don Blankenship and William Mohr,CPF,-,-,2
+Bay,PCT 19,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 20,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 21,President,,Don Blankenship and William Mohr,CPF,-,-,2
+Bay,PCT 22,President,,Don Blankenship and William Mohr,CPF,-,-,4
+Bay,PCT 23,President,,Don Blankenship and William Mohr,CPF,-,-,6
+Bay,PCT 24,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 25,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 26,President,,Don Blankenship and William Mohr,CPF,-,-,2
+Bay,PCT 27,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 28,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 29,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 30,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 31,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 32,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 33,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 34,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 35,President,,Don Blankenship and William Mohr,CPF,-,-,2
+Bay,PCT 36,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 37,President,,Don Blankenship and William Mohr,CPF,-,-,3
+Bay,PCT 38,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 39,President,,Don Blankenship and William Mohr,CPF,0,0,0
+Bay,PCT 40,President,,Don Blankenship and William Mohr,CPF,-,-,3
+Bay,PCT 41,President,,Don Blankenship and William Mohr,CPF,-,-,2
+Bay,PCT 42,President,,Don Blankenship and William Mohr,CPF,-,-,4
+Bay,PCT 43,President,,Don Blankenship and William Mohr,CPF,-,-,2
+Bay,PCT 44,President,,Don Blankenship and William Mohr,CPF,-,-,1
+Bay,PCT 1,President,,Write-In Candidates,,-,-,3
+Bay,PCT 2,President,,Write-In Candidates,,-,-,3
+Bay,PCT 3,President,,Write-In Candidates,,0,0,0
+Bay,PCT 4,President,,Write-In Candidates,,-,-,2
+Bay,PCT 5,President,,Write-In Candidates,,-,-,2
+Bay,PCT 6,President,,Write-In Candidates,,-,-,3
+Bay,PCT 7,President,,Write-In Candidates,,0,0,0
+Bay,PCT 8,President,,Write-In Candidates,,-,-,1
+Bay,PCT 9,President,,Write-In Candidates,,-,-,8
+Bay,PCT 10,President,,Write-In Candidates,,-,-,10
+Bay,PCT 11,President,,Write-In Candidates,,-,-,6
+Bay,PCT 12,President,,Write-In Candidates,,-,-,7
+Bay,PCT 13,President,,Write-In Candidates,,-,-,4
+Bay,PCT 14,President,,Write-In Candidates,,-,-,8
+Bay,PCT 15,President,,Write-In Candidates,,-,-,9
+Bay,PCT 16,President,,Write-In Candidates,,-,-,3
+Bay,PCT 17,President,,Write-In Candidates,,-,-,10
+Bay,PCT 18,President,,Write-In Candidates,,-,-,5
+Bay,PCT 19,President,,Write-In Candidates,,-,-,2
+Bay,PCT 20,President,,Write-In Candidates,,-,-,7
+Bay,PCT 21,President,,Write-In Candidates,,-,-,11
+Bay,PCT 22,President,,Write-In Candidates,,-,-,3
+Bay,PCT 23,President,,Write-In Candidates,,-,-,11
+Bay,PCT 24,President,,Write-In Candidates,,-,-,4
+Bay,PCT 25,President,,Write-In Candidates,,-,-,9
+Bay,PCT 26,President,,Write-In Candidates,,-,-,4
+Bay,PCT 27,President,,Write-In Candidates,,-,-,9
+Bay,PCT 28,President,,Write-In Candidates,,-,-,4
+Bay,PCT 29,President,,Write-In Candidates,,-,-,4
+Bay,PCT 30,President,,Write-In Candidates,,0,0,0
+Bay,PCT 31,President,,Write-In Candidates,,-,-,10
+Bay,PCT 32,President,,Write-In Candidates,,-,-,2
+Bay,PCT 33,President,,Write-In Candidates,,-,-,3
+Bay,PCT 34,President,,Write-In Candidates,,-,-,2
+Bay,PCT 35,President,,Write-In Candidates,,-,-,8
+Bay,PCT 36,President,,Write-In Candidates,,-,-,2
+Bay,PCT 37,President,,Write-In Candidates,,-,-,4
+Bay,PCT 38,President,,Write-In Candidates,,-,-,1
+Bay,PCT 39,President,,Write-In Candidates,,-,-,8
+Bay,PCT 40,President,,Write-In Candidates,,-,-,4
+Bay,PCT 41,President,,Write-In Candidates,,-,-,4
+Bay,PCT 42,President,,Write-In Candidates,,0,0,0
+Bay,PCT 43,President,,Write-In Candidates,,-,-,4
+Bay,PCT 44,President,,Write-In Candidates,,-,-,1
+Bay,PCT 1,President,,OVER VOTES,,-,-,4
+Bay,PCT 2,President,,OVER VOTES,,0,0,0
+Bay,PCT 3,President,,OVER VOTES,,-,-,1
+Bay,PCT 4,President,,OVER VOTES,,-,-,3
+Bay,PCT 5,President,,OVER VOTES,,-,-,2
+Bay,PCT 6,President,,OVER VOTES,,-,-,2
+Bay,PCT 7,President,,OVER VOTES,,0,0,0
+Bay,PCT 8,President,,OVER VOTES,,-,-,2
+Bay,PCT 9,President,,OVER VOTES,,0,0,0
+Bay,PCT 10,President,,OVER VOTES,,-,-,2
+Bay,PCT 11,President,,OVER VOTES,,-,-,4
+Bay,PCT 12,President,,OVER VOTES,,-,-,7
+Bay,PCT 13,President,,OVER VOTES,,-,-,1
+Bay,PCT 14,President,,OVER VOTES,,-,-,2
+Bay,PCT 15,President,,OVER VOTES,,-,-,1
+Bay,PCT 16,President,,OVER VOTES,,0,0,0
+Bay,PCT 17,President,,OVER VOTES,,-,-,3
+Bay,PCT 18,President,,OVER VOTES,,-,-,1
+Bay,PCT 19,President,,OVER VOTES,,-,-,2
+Bay,PCT 20,President,,OVER VOTES,,0,0,0
+Bay,PCT 21,President,,OVER VOTES,,-,-,3
+Bay,PCT 22,President,,OVER VOTES,,-,-,2
+Bay,PCT 23,President,,OVER VOTES,,-,-,2
+Bay,PCT 24,President,,OVER VOTES,,0,0,0
+Bay,PCT 25,President,,OVER VOTES,,-,-,3
+Bay,PCT 26,President,,OVER VOTES,,-,-,2
+Bay,PCT 27,President,,OVER VOTES,,-,-,1
+Bay,PCT 28,President,,OVER VOTES,,0,0,0
+Bay,PCT 29,President,,OVER VOTES,,-,-,6
+Bay,PCT 30,President,,OVER VOTES,,0,0,0
+Bay,PCT 31,President,,OVER VOTES,,-,-,3
+Bay,PCT 32,President,,OVER VOTES,,-,-,3
+Bay,PCT 33,President,,OVER VOTES,,-,-,6
+Bay,PCT 34,President,,OVER VOTES,,-,-,2
+Bay,PCT 35,President,,OVER VOTES,,-,-,3
+Bay,PCT 36,President,,OVER VOTES,,-,-,2
+Bay,PCT 37,President,,OVER VOTES,,-,-,10
+Bay,PCT 38,President,,OVER VOTES,,-,-,1
+Bay,PCT 39,President,,OVER VOTES,,-,-,2
+Bay,PCT 40,President,,OVER VOTES,,-,-,3
+Bay,PCT 41,President,,OVER VOTES,,-,-,4
+Bay,PCT 42,President,,OVER VOTES,,-,-,1
+Bay,PCT 43,President,,OVER VOTES,,-,-,4
+Bay,PCT 44,President,,OVER VOTES,,-,-,1
+Bay,PCT 1,President,,UNDER VOTES,,-,-,2
+Bay,PCT 2,President,,UNDER VOTES,,0,0,0
+Bay,PCT 3,President,,UNDER VOTES,,0,0,0
+Bay,PCT 4,President,,UNDER VOTES,,-,-,5
+Bay,PCT 5,President,,UNDER VOTES,,-,-,3
+Bay,PCT 6,President,,UNDER VOTES,,-,-,7
+Bay,PCT 7,President,,UNDER VOTES,,-,-,1
+Bay,PCT 8,President,,UNDER VOTES,,-,-,6
+Bay,PCT 9,President,,UNDER VOTES,,-,-,6
+Bay,PCT 10,President,,UNDER VOTES,,-,-,6
+Bay,PCT 11,President,,UNDER VOTES,,-,-,8
+Bay,PCT 12,President,,UNDER VOTES,,-,-,10
+Bay,PCT 13,President,,UNDER VOTES,,-,-,4
+Bay,PCT 14,President,,UNDER VOTES,,-,-,8
+Bay,PCT 15,President,,UNDER VOTES,,-,-,9
+Bay,PCT 16,President,,UNDER VOTES,,-,-,1
+Bay,PCT 17,President,,UNDER VOTES,,-,-,4
+Bay,PCT 18,President,,UNDER VOTES,,-,-,2
+Bay,PCT 19,President,,UNDER VOTES,,-,-,4
+Bay,PCT 20,President,,UNDER VOTES,,-,-,2
+Bay,PCT 21,President,,UNDER VOTES,,-,-,3
+Bay,PCT 22,President,,UNDER VOTES,,-,-,4
+Bay,PCT 23,President,,UNDER VOTES,,-,-,11
+Bay,PCT 24,President,,UNDER VOTES,,-,-,4
+Bay,PCT 25,President,,UNDER VOTES,,-,-,3
+Bay,PCT 26,President,,UNDER VOTES,,-,-,8
+Bay,PCT 27,President,,UNDER VOTES,,-,-,6
+Bay,PCT 28,President,,UNDER VOTES,,-,-,3
+Bay,PCT 29,President,,UNDER VOTES,,-,-,4
+Bay,PCT 30,President,,UNDER VOTES,,-,-,2
+Bay,PCT 31,President,,UNDER VOTES,,-,-,9
+Bay,PCT 32,President,,UNDER VOTES,,-,-,3
+Bay,PCT 33,President,,UNDER VOTES,,-,-,3
+Bay,PCT 34,President,,UNDER VOTES,,0,0,0
+Bay,PCT 35,President,,UNDER VOTES,,-,-,6
+Bay,PCT 36,President,,UNDER VOTES,,-,-,3
+Bay,PCT 37,President,,UNDER VOTES,,-,-,5
+Bay,PCT 38,President,,UNDER VOTES,,-,-,2
+Bay,PCT 39,President,,UNDER VOTES,,-,-,8
+Bay,PCT 40,President,,UNDER VOTES,,-,-,5
+Bay,PCT 41,President,,UNDER VOTES,,-,-,3
+Bay,PCT 42,President,,UNDER VOTES,,-,-,2
+Bay,PCT 43,President,,UNDER VOTES,,-,-,3
+Bay,PCT 44,President,,UNDER VOTES,,-,-,2
+Bay,PCT 1,U.S. House,2,Neal Dunn,REP,-,-,1406
+Bay,PCT 2,U.S. House,2,Neal Dunn,REP,-,-,899
+Bay,PCT 3,U.S. House,2,Neal Dunn,REP,-,-,518
+Bay,PCT 4,U.S. House,2,Neal Dunn,REP,-,-,2326
+Bay,PCT 5,U.S. House,2,Neal Dunn,REP,436,1921,2357
+Bay,PCT 6,U.S. House,2,Neal Dunn,REP,-,-,3004
+Bay,PCT 7,U.S. House,2,Neal Dunn,REP,100,321,421
+Bay,PCT 8,U.S. House,2,Neal Dunn,REP,-,-,2365
+Bay,PCT 9,U.S. House,2,Neal Dunn,REP,-,-,2364
+Bay,PCT 10,U.S. House,2,Neal Dunn,REP,-,-,3189
+Bay,PCT 11,U.S. House,2,Neal Dunn,REP,-,-,3759
+Bay,PCT 12,U.S. House,2,Neal Dunn,REP,-,-,3415
+Bay,PCT 13,U.S. House,2,Neal Dunn,REP,-,-,1899
+Bay,PCT 14,U.S. House,2,Neal Dunn,REP,-,-,2968
+Bay,PCT 15,U.S. House,2,Neal Dunn,REP,-,-,2319
+Bay,PCT 16,U.S. House,2,Neal Dunn,REP,-,-,1241
+Bay,PCT 17,U.S. House,2,Neal Dunn,REP,-,-,2821
+Bay,PCT 18,U.S. House,2,Neal Dunn,REP,-,-,1767
+Bay,PCT 19,U.S. House,2,Neal Dunn,REP,-,-,1165
+Bay,PCT 20,U.S. House,2,Neal Dunn,REP,-,-,1211
+Bay,PCT 21,U.S. House,2,Neal Dunn,REP,-,-,3078
+Bay,PCT 22,U.S. House,2,Neal Dunn,REP,-,-,2691
+Bay,PCT 23,U.S. House,2,Neal Dunn,REP,-,-,3099
+Bay,PCT 24,U.S. House,2,Neal Dunn,REP,-,-,1067
+Bay,PCT 25,U.S. House,2,Neal Dunn,REP,-,-,1550
+Bay,PCT 26,U.S. House,2,Neal Dunn,REP,585,1243,1828
+Bay,PCT 27,U.S. House,2,Neal Dunn,REP,-,-,2063
+Bay,PCT 28,U.S. House,2,Neal Dunn,REP,-,-,1227
+Bay,PCT 29,U.S. House,2,Neal Dunn,REP,-,-,1592
+Bay,PCT 30,U.S. House,2,Neal Dunn,REP,-,-,733
+Bay,PCT 31,U.S. House,2,Neal Dunn,REP,-,-,2293
+Bay,PCT 32,U.S. House,2,Neal Dunn,REP,-,-,602
+Bay,PCT 33,U.S. House,2,Neal Dunn,REP,240,565,805
+Bay,PCT 34,U.S. House,2,Neal Dunn,REP,-,-,705
+Bay,PCT 35,U.S. House,2,Neal Dunn,REP,429,921,1350
+Bay,PCT 36,U.S. House,2,Neal Dunn,REP,-,-,481
+Bay,PCT 37,U.S. House,2,Neal Dunn,REP,-,-,1771
+Bay,PCT 38,U.S. House,2,Neal Dunn,REP,-,-,1016
+Bay,PCT 39,U.S. House,2,Neal Dunn,REP,-,-,2333
+Bay,PCT 40,U.S. House,2,Neal Dunn,REP,-,-,1184
+Bay,PCT 41,U.S. House,2,Neal Dunn,REP,-,-,1484
+Bay,PCT 42,U.S. House,2,Neal Dunn,REP,-,-,900
+Bay,PCT 43,U.S. House,2,Neal Dunn,REP,-,-,1089
+Bay,PCT 44,U.S. House,2,Neal Dunn,REP,-,-,642
+Bay,PCT 1,U.S. House,2,Write-In Candidate,,-,-,41
+Bay,PCT 2,U.S. House,2,Write-In Candidate,,-,-,29
+Bay,PCT 3,U.S. House,2,Write-In Candidate,,-,-,24
+Bay,PCT 4,U.S. House,2,Write-In Candidate,,35,30,65
+Bay,PCT 5,U.S. House,2,Write-In Candidate,,49,30,79
+Bay,PCT 6,U.S. House,2,Write-In Candidate,,40,50,90
+Bay,PCT 7,U.S. House,2,Write-In Candidate,,-,-,26
+Bay,PCT 8,U.S. House,2,Write-In Candidate,,-,-,162
+Bay,PCT 9,U.S. House,2,Write-In Candidate,,85,80,165
+Bay,PCT 10,U.S. House,2,Write-In Candidate,,119,98,217
+Bay,PCT 11,U.S. House,2,Write-In Candidate,,144,119,263
+Bay,PCT 12,U.S. House,2,Write-In Candidate,,-,-,251
+Bay,PCT 13,U.S. House,2,Write-In Candidate,,56,64,120
+Bay,PCT 14,U.S. House,2,Write-In Candidate,,103,96,199
+Bay,PCT 15,U.S. House,2,Write-In Candidate,,60,63,123
+Bay,PCT 16,U.S. House,2,Write-In Candidate,,-,-,35
+Bay,PCT 17,U.S. House,2,Write-In Candidate,,81,91,172
+Bay,PCT 18,U.S. House,2,Write-In Candidate,,-,-,67
+Bay,PCT 19,U.S. House,2,Write-In Candidate,,50,52,102
+Bay,PCT 20,U.S. House,2,Write-In Candidate,,30,39,69
+Bay,PCT 21,U.S. House,2,Write-In Candidate,,88,74,162
+Bay,PCT 22,U.S. House,2,Write-In Candidate,,93,97,190
+Bay,PCT 23,U.S. House,2,Write-In Candidate,,74,90,164
+Bay,PCT 24,U.S. House,2,Write-In Candidate,,45,33,78
+Bay,PCT 25,U.S. House,2,Write-In Candidate,,52,52,104
+Bay,PCT 26,U.S. House,2,Write-In Candidate,,-,-,115
+Bay,PCT 27,U.S. House,2,Write-In Candidate,,-,-,130
+Bay,PCT 28,U.S. House,2,Write-In Candidate,,55,57,112
+Bay,PCT 29,U.S. House,2,Write-In Candidate,,83,83,166
+Bay,PCT 30,U.S. House,2,Write-In Candidate,,-,-,61
+Bay,PCT 31,U.S. House,2,Write-In Candidate,,172,88,260
+Bay,PCT 32,U.S. House,2,Write-In Candidate,,54,86,140
+Bay,PCT 33,U.S. House,2,Write-In Candidate,,61,57,118
+Bay,PCT 34,U.S. House,2,Write-In Candidate,,-,-,64
+Bay,PCT 35,U.S. House,2,Write-In Candidate,,83,65,148
+Bay,PCT 36,U.S. House,2,Write-In Candidate,,-,-,44
+Bay,PCT 37,U.S. House,2,Write-In Candidate,,78,76,154
+Bay,PCT 38,U.S. House,2,Write-In Candidate,,38,34,72
+Bay,PCT 39,U.S. House,2,Write-In Candidate,,91,67,158
+Bay,PCT 40,U.S. House,2,Write-In Candidate,,-,-,99
+Bay,PCT 41,U.S. House,2,Write-In Candidate,,-,-,115
+Bay,PCT 42,U.S. House,2,Write-In Candidate,,-,-,72
+Bay,PCT 43,U.S. House,2,Write-In Candidate,,52,35,87
+Bay,PCT 44,U.S. House,2,Write-In Candidate,,-,-,48
+Bay,PCT 1,U.S. House,2,OVER VOTES,,-,-,2
+Bay,PCT 2,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 3,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 4,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 5,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 6,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 7,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 8,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 9,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 10,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 11,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 12,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 13,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 14,U.S. House,2,OVER VOTES,,-,-,2
+Bay,PCT 15,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 16,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 17,U.S. House,2,OVER VOTES,,-,-,3
+Bay,PCT 18,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 19,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 20,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 21,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 22,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 23,U.S. House,2,OVER VOTES,,-,-,2
+Bay,PCT 24,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 25,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 26,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 27,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 28,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 29,U.S. House,2,OVER VOTES,,-,-,2
+Bay,PCT 30,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 31,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 32,U.S. House,2,OVER VOTES,,-,-,2
+Bay,PCT 33,U.S. House,2,OVER VOTES,,-,-,2
+Bay,PCT 34,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 35,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 36,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 37,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 38,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 39,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 40,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 41,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 42,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 43,U.S. House,2,OVER VOTES,,-,-,1
+Bay,PCT 44,U.S. House,2,OVER VOTES,,0,0,0
+Bay,PCT 1,U.S. House,2,UNDER VOTES,,-,-,122
+Bay,PCT 2,U.S. House,2,UNDER VOTES,,-,-,74
+Bay,PCT 3,U.S. House,2,UNDER VOTES,,-,-,39
+Bay,PCT 4,U.S. House,2,UNDER VOTES,,40,101,141
+Bay,PCT 5,U.S. House,2,UNDER VOTES,,58,145,203
+Bay,PCT 6,U.S. House,2,UNDER VOTES,,-,-,245
+Bay,PCT 7,U.S. House,2,UNDER VOTES,,-,-,31
+Bay,PCT 8,U.S. House,2,UNDER VOTES,,-,-,357
+Bay,PCT 9,U.S. House,2,UNDER VOTES,,-,-,400
+Bay,PCT 10,U.S. House,2,UNDER VOTES,,-,-,500
+Bay,PCT 11,U.S. House,2,UNDER VOTES,,-,-,628
+Bay,PCT 12,U.S. House,2,UNDER VOTES,,-,-,478
+Bay,PCT 13,U.S. House,2,UNDER VOTES,,-,-,247
+Bay,PCT 14,U.S. House,2,UNDER VOTES,,-,-,357
+Bay,PCT 15,U.S. House,2,UNDER VOTES,,121,152,273
+Bay,PCT 16,U.S. House,2,UNDER VOTES,,52,41,93
+Bay,PCT 17,U.S. House,2,UNDER VOTES,,135,193,328
+Bay,PCT 18,U.S. House,2,UNDER VOTES,,-,-,181
+Bay,PCT 19,U.S. House,2,UNDER VOTES,,119,145,264
+Bay,PCT 20,U.S. House,2,UNDER VOTES,,-,-,146
+Bay,PCT 21,U.S. House,2,UNDER VOTES,,-,-,342
+Bay,PCT 22,U.S. House,2,UNDER VOTES,,-,-,348
+Bay,PCT 23,U.S. House,2,UNDER VOTES,,-,-,476
+Bay,PCT 24,U.S. House,2,UNDER VOTES,,-,-,154
+Bay,PCT 25,U.S. House,2,UNDER VOTES,,-,-,177
+Bay,PCT 26,U.S. House,2,UNDER VOTES,,-,-,221
+Bay,PCT 27,U.S. House,2,UNDER VOTES,,-,-,301
+Bay,PCT 28,U.S. House,2,UNDER VOTES,,-,-,224
+Bay,PCT 29,U.S. House,2,UNDER VOTES,,-,-,319
+Bay,PCT 30,U.S. House,2,UNDER VOTES,,-,-,156
+Bay,PCT 31,U.S. House,2,UNDER VOTES,,-,-,505
+Bay,PCT 32,U.S. House,2,UNDER VOTES,,-,-,418
+Bay,PCT 33,U.S. House,2,UNDER VOTES,,-,-,340
+Bay,PCT 34,U.S. House,2,UNDER VOTES,,57,73,130
+Bay,PCT 35,U.S. House,2,UNDER VOTES,,121,120,241
+Bay,PCT 36,U.S. House,2,UNDER VOTES,,-,-,125
+Bay,PCT 37,U.S. House,2,UNDER VOTES,,-,-,343
+Bay,PCT 38,U.S. House,2,UNDER VOTES,,-,-,142
+Bay,PCT 39,U.S. House,2,UNDER VOTES,,154,195,349
+Bay,PCT 40,U.S. House,2,UNDER VOTES,,81,141,222
+Bay,PCT 41,U.S. House,2,UNDER VOTES,,-,-,264
+Bay,PCT 42,U.S. House,2,UNDER VOTES,,-,-,125
+Bay,PCT 43,U.S. House,2,UNDER VOTES,,-,-,169
+Bay,PCT 44,U.S. House,2,UNDER VOTES,,59,62,121
+Bay,PCT 3,State House,6,Jay Trumbull,REP,-,-,466
+Bay,PCT 4,State House,6,Jay Trumbull,REP,-,-,2065
+Bay,PCT 6,State House,6,Jay Trumbull,REP,-,-,2743
+Bay,PCT 7,State House,6,Jay Trumbull,REP,41,191,232
+Bay,PCT 8,State House,6,Jay Trumbull,REP,-,-,2127
+Bay,PCT 9,State House,6,Jay Trumbull,REP,-,-,2063
+Bay,PCT 10,State House,6,Jay Trumbull,REP,-,-,2811
+Bay,PCT 11,State House,6,Jay Trumbull,REP,-,-,3173
+Bay,PCT 12,State House,6,Jay Trumbull,REP,-,-,2985
+Bay,PCT 13,State House,6,Jay Trumbull,REP,-,-,1669
+Bay,PCT 14,State House,6,Jay Trumbull,REP,-,-,2574
+Bay,PCT 15,State House,6,Jay Trumbull,REP,-,-,2137
+Bay,PCT 16,State House,6,Jay Trumbull,REP,-,-,1141
+Bay,PCT 17,State House,6,Jay Trumbull,REP,547,1906,2453
+Bay,PCT 18,State House,6,Jay Trumbull,REP,-,-,1571
+Bay,PCT 19,State House,6,Jay Trumbull,REP,231,724,955
+Bay,PCT 20,State House,6,Jay Trumbull,REP,220,849,1069
+Bay,PCT 21,State House,6,Jay Trumbull,REP,-,-,2746
+Bay,PCT 22,State House,6,Jay Trumbull,REP,-,-,2356
+Bay,PCT 23,State House,6,Jay Trumbull,REP,-,-,2574
+Bay,PCT 24,State House,6,Jay Trumbull,REP,-,-,889
+Bay,PCT 25,State House,6,Jay Trumbull,REP,-,-,1380
+Bay,PCT 26,State House,6,Jay Trumbull,REP,497,1113,1610
+Bay,PCT 27,State House,6,Jay Trumbull,REP,502,1231,1733
+Bay,PCT 28,State House,6,Jay Trumbull,REP,-,-,983
+Bay,PCT 29,State House,6,Jay Trumbull,REP,-,-,1196
+Bay,PCT 30,State House,6,Jay Trumbull,REP,-,-,553
+Bay,PCT 31,State House,6,Jay Trumbull,REP,-,-,1890
+Bay,PCT 32,State House,6,Jay Trumbull,REP,53,130,183
+Bay,PCT 33,State House,6,Jay Trumbull,REP,119,341,460
+Bay,PCT 34,State House,6,Jay Trumbull,REP,-,-,610
+Bay,PCT 35,State House,6,Jay Trumbull,REP,362,843,1205
+Bay,PCT 36,State House,6,Jay Trumbull,REP,-,-,375
+Bay,PCT 37,State House,6,Jay Trumbull,REP,407,907,1314
+Bay,PCT 38,State House,6,Jay Trumbull,REP,-,-,836
+Bay,PCT 39,State House,6,Jay Trumbull,REP,-,-,1996
+Bay,PCT 40,State House,6,Jay Trumbull,REP,-,-,945
+Bay,PCT 41,State House,6,Jay Trumbull,REP,-,-,1179
+Bay,PCT 42,State House,6,Jay Trumbull,REP,-,-,747
+Bay,PCT 43,State House,6,Jay Trumbull,REP,-,-,869
+Bay,PCT 44,State House,6,Jay Trumbull,REP,-,-,593
+Bay,PCT 3,State House,6,Alicia Bays,DEM,42,56,98
+Bay,PCT 4,State House,6,Alicia Bays,DEM,-,-,384
+Bay,PCT 6,State House,6,Alicia Bays,DEM,-,-,516
+Bay,PCT 7,State House,6,Alicia Bays,DEM,-,-,59
+Bay,PCT 8,State House,6,Alicia Bays,DEM,-,-,652
+Bay,PCT 9,State House,6,Alicia Bays,DEM,-,-,748
+Bay,PCT 10,State House,6,Alicia Bays,DEM,482,448,930
+Bay,PCT 11,State House,6,Alicia Bays,DEM,-,-,1282
+Bay,PCT 12,State House,6,Alicia Bays,DEM,-,-,1017
+Bay,PCT 13,State House,6,Alicia Bays,DEM,-,-,526
+Bay,PCT 14,State House,6,Alicia Bays,DEM,-,-,843
+Bay,PCT 15,State House,6,Alicia Bays,DEM,-,-,506
+Bay,PCT 16,State House,6,Alicia Bays,DEM,104,100,204
+Bay,PCT 17,State House,6,Alicia Bays,DEM,-,-,783
+Bay,PCT 18,State House,6,Alicia Bays,DEM,161,220,381
+Bay,PCT 19,State House,6,Alicia Bays,DEM,-,-,541
+Bay,PCT 20,State House,6,Alicia Bays,DEM,-,-,317
+Bay,PCT 21,State House,6,Alicia Bays,DEM,366,378,744
+Bay,PCT 22,State House,6,Alicia Bays,DEM,383,406,789
+Bay,PCT 23,State House,6,Alicia Bays,DEM,-,-,1060
+Bay,PCT 24,State House,6,Alicia Bays,DEM,-,-,360
+Bay,PCT 25,State House,6,Alicia Bays,DEM,200,202,402
+Bay,PCT 26,State House,6,Alicia Bays,DEM,-,-,486
+Bay,PCT 27,State House,6,Alicia Bays,DEM,-,-,682
+Bay,PCT 28,State House,6,Alicia Bays,DEM,-,-,531
+Bay,PCT 29,State House,6,Alicia Bays,DEM,-,-,811
+Bay,PCT 30,State House,6,Alicia Bays,DEM,-,-,366
+Bay,PCT 31,State House,6,Alicia Bays,DEM,-,-,1056
+Bay,PCT 32,State House,6,Alicia Bays,DEM,-,-,937
+Bay,PCT 33,State House,6,Alicia Bays,DEM,-,-,759
+Bay,PCT 34,State House,6,Alicia Bays,DEM,125,146,271
+Bay,PCT 35,State House,6,Alicia Bays,DEM,253,237,490
+Bay,PCT 36,State House,6,Alicia Bays,DEM,97,158,255
+Bay,PCT 37,State House,6,Alicia Bays,DEM,-,-,886
+Bay,PCT 38,State House,6,Alicia Bays,DEM,-,-,356
+Bay,PCT 39,State House,6,Alicia Bays,DEM,334,425,759
+Bay,PCT 40,State House,6,Alicia Bays,DEM,203,318,521
+Bay,PCT 41,State House,6,Alicia Bays,DEM,-,-,624
+Bay,PCT 42,State House,6,Alicia Bays,DEM,187,112,299
+Bay,PCT 43,State House,6,Alicia Bays,DEM,194,239,433
+Bay,PCT 44,State House,6,Alicia Bays,DEM,-,-,184
+Bay,PCT 3,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 4,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 6,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 7,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 8,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 9,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 10,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 11,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 12,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 13,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 14,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 15,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 16,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 17,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 18,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 19,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 20,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 21,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 22,State House,6,OVER VOTES,,-,-,2
+Bay,PCT 23,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 24,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 25,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 26,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 27,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 28,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 29,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 30,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 31,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 32,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 33,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 34,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 35,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 36,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 37,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 38,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 39,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 40,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 41,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 42,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 43,State House,6,OVER VOTES,,-,-,1
+Bay,PCT 44,State House,6,OVER VOTES,,0,0,0
+Bay,PCT 3,State House,6,UNDER VOTES,,-,-,17
+Bay,PCT 4,State House,6,UNDER VOTES,,-,-,83
+Bay,PCT 6,State House,6,UNDER VOTES,,-,-,79
+Bay,PCT 7,State House,6,UNDER VOTES,,-,-,9
+Bay,PCT 8,State House,6,UNDER VOTES,,-,-,105
+Bay,PCT 9,State House,6,UNDER VOTES,,-,-,119
+Bay,PCT 10,State House,6,UNDER VOTES,,-,-,165
+Bay,PCT 11,State House,6,UNDER VOTES,,-,-,196
+Bay,PCT 12,State House,6,UNDER VOTES,,-,-,141
+Bay,PCT 13,State House,6,UNDER VOTES,,-,-,70
+Bay,PCT 14,State House,6,UNDER VOTES,,-,-,109
+Bay,PCT 15,State House,6,UNDER VOTES,,-,-,72
+Bay,PCT 16,State House,6,UNDER VOTES,,-,-,24
+Bay,PCT 17,State House,6,UNDER VOTES,,-,-,88
+Bay,PCT 18,State House,6,UNDER VOTES,,-,-,63
+Bay,PCT 19,State House,6,UNDER VOTES,,-,-,36
+Bay,PCT 20,State House,6,UNDER VOTES,,-,-,40
+Bay,PCT 21,State House,6,UNDER VOTES,,-,-,93
+Bay,PCT 22,State House,6,UNDER VOTES,,-,-,82
+Bay,PCT 23,State House,6,UNDER VOTES,,-,-,107
+Bay,PCT 24,State House,6,UNDER VOTES,,-,-,51
+Bay,PCT 25,State House,6,UNDER VOTES,,-,-,49
+Bay,PCT 26,State House,6,UNDER VOTES,,-,-,69
+Bay,PCT 27,State House,6,UNDER VOTES,,-,-,79
+Bay,PCT 28,State House,6,UNDER VOTES,,-,-,49
+Bay,PCT 29,State House,6,UNDER VOTES,,-,-,72
+Bay,PCT 30,State House,6,UNDER VOTES,,-,-,31
+Bay,PCT 31,State House,6,UNDER VOTES,,-,-,113
+Bay,PCT 32,State House,6,UNDER VOTES,,-,-,42
+Bay,PCT 33,State House,6,UNDER VOTES,,-,-,46
+Bay,PCT 34,State House,6,UNDER VOTES,,-,-,17
+Bay,PCT 35,State House,6,UNDER VOTES,,-,-,44
+Bay,PCT 36,State House,6,UNDER VOTES,,-,-,20
+Bay,PCT 37,State House,6,UNDER VOTES,,-,-,69
+Bay,PCT 38,State House,6,UNDER VOTES,,-,-,38
+Bay,PCT 39,State House,6,UNDER VOTES,,39,47,86
+Bay,PCT 40,State House,6,UNDER VOTES,,-,-,39
+Bay,PCT 41,State House,6,UNDER VOTES,,-,-,60
+Bay,PCT 42,State House,6,UNDER VOTES,,-,-,51
+Bay,PCT 43,State House,6,UNDER VOTES,,-,-,43
+Bay,PCT 44,State House,6,UNDER VOTES,,-,-,34

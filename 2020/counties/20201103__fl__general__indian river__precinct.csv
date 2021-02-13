@@ -1,0 +1,526 @@
+county,precinct,office,district,candidate,party,mail,early_voting,election_day,votes
+Indian River,Precinct 1,President,,Donald J. Trump,REP,-,-,-,36
+Indian River,Precinct 2,President,,Donald J. Trump,REP,61,109,130,300
+Indian River,Precinct 3,President,,Donald J. Trump,REP,194,386,255,835
+Indian River,Precinct 4,President,,Donald J. Trump,REP,-,-,-,22
+Indian River,Precinct 5,President,,Donald J. Trump,REP,752,1509,514,2775
+Indian River,Precinct 6,President,,Donald J. Trump,REP,238,422,181,841
+Indian River,Precinct 7,President,,Donald J. Trump,REP,381,561,159,1101
+Indian River,Precinct 8,President,,Donald J. Trump,REP,713,1273,476,2462
+Indian River,Precinct 9,President,,Donald J. Trump,REP,1039,1648,686,3373
+Indian River,Precinct 10,President,,Donald J. Trump,REP,1094,1592,694,3380
+Indian River,Precinct 11,President,,Donald J. Trump,REP,293,356,86,735
+Indian River,Precinct 12,President,,Donald J. Trump,REP,292,474,147,913
+Indian River,Precinct 13,President,,Donald J. Trump,REP,1703,1579,479,3761
+Indian River,Precinct 14,President,,Donald J. Trump,REP,663,446,114,1223
+Indian River,Precinct 15,President,,Donald J. Trump,REP,-,-,-,305
+Indian River,Precinct 16,President,,Donald J. Trump,REP,1201,742,366,2309
+Indian River,Precinct 17,President,,Donald J. Trump,REP,1019,854,487,2360
+Indian River,Precinct 18,President,,Donald J. Trump,REP,884,730,342,1956
+Indian River,Precinct 19,President,,Donald J. Trump,REP,664,849,427,1940
+Indian River,Precinct 20,President,,Donald J. Trump,REP,138,108,63,309
+Indian River,Precinct 21,President,,Donald J. Trump,REP,137,197,86,420
+Indian River,Precinct 22,President,,Donald J. Trump,REP,777,947,429,2153
+Indian River,Precinct 23,President,,Donald J. Trump,REP,376,457,264,1097
+Indian River,Precinct 24,President,,Donald J. Trump,REP,93,133,73,299
+Indian River,Precinct 26,President,,Donald J. Trump,REP,295,342,208,845
+Indian River,Precinct 27,President,,Donald J. Trump,REP,809,855,601,2265
+Indian River,Precinct 28,President,,Donald J. Trump,REP,2158,3074,1467,6699
+Indian River,Precinct 29,President,,Donald J. Trump,REP,45,41,50,136
+Indian River,Precinct 30,President,,Donald J. Trump,REP,594,785,422,1801
+Indian River,Precinct 31,President,,Donald J. Trump,REP,585,897,460,1942
+Indian River,Precinct 32,President,,Donald J. Trump,REP,1123,1651,799,3573
+Indian River,Precinct 33,President,,Donald J. Trump,REP,831,470,220,1521
+Indian River,Precinct 34,President,,Donald J. Trump,REP,719,835,606,2160
+Indian River,Precinct 35,President,,Donald J. Trump,REP,715,696,305,1716
+Indian River,Precinct 36,President,,Donald J. Trump,REP,471,701,137,1309
+Indian River,Precinct 1,President,,Joseph R. Biden,DEM,-,-,-,5
+Indian River,Precinct 2,President,,Joseph R. Biden,DEM,244,155,240,639
+Indian River,Precinct 3,President,,Joseph R. Biden,DEM,151,43,53,247
+Indian River,Precinct 4,President,,Joseph R. Biden,DEM,-,-,-,3
+Indian River,Precinct 5,President,,Joseph R. Biden,DEM,793,457,176,1426
+Indian River,Precinct 6,President,,Joseph R. Biden,DEM,295,127,35,457
+Indian River,Precinct 7,President,,Joseph R. Biden,DEM,408,184,48,640
+Indian River,Precinct 8,President,,Joseph R. Biden,DEM,827,459,133,1419
+Indian River,Precinct 9,President,,Joseph R. Biden,DEM,1179,591,175,1945
+Indian River,Precinct 10,President,,Joseph R. Biden,DEM,1289,621,211,2121
+Indian River,Precinct 11,President,,Joseph R. Biden,DEM,335,157,35,527
+Indian River,Precinct 12,President,,Joseph R. Biden,DEM,228,107,36,371
+Indian River,Precinct 13,President,,Joseph R. Biden,DEM,1708,548,122,2378
+Indian River,Precinct 14,President,,Joseph R. Biden,DEM,759,212,34,1005
+Indian River,Precinct 15,President,,Joseph R. Biden,DEM,-,-,-,144
+Indian River,Precinct 16,President,,Joseph R. Biden,DEM,950,234,82,1266
+Indian River,Precinct 17,President,,Joseph R. Biden,DEM,1083,342,125,1550
+Indian River,Precinct 18,President,,Joseph R. Biden,DEM,776,258,48,1082
+Indian River,Precinct 19,President,,Joseph R. Biden,DEM,717,358,129,1204
+Indian River,Precinct 20,President,,Joseph R. Biden,DEM,-,-,-,214
+Indian River,Precinct 21,President,,Joseph R. Biden,DEM,830,750,346,1926
+Indian River,Precinct 22,President,,Joseph R. Biden,DEM,901,310,110,1321
+Indian River,Precinct 23,President,,Joseph R. Biden,DEM,497,268,122,887
+Indian River,Precinct 24,President,,Joseph R. Biden,DEM,178,76,58,312
+Indian River,Precinct 26,President,,Joseph R. Biden,DEM,507,215,124,846
+Indian River,Precinct 27,President,,Joseph R. Biden,DEM,883,370,174,1427
+Indian River,Precinct 28,President,,Joseph R. Biden,DEM,2673,1414,562,4649
+Indian River,Precinct 29,President,,Joseph R. Biden,DEM,-,-,-,51
+Indian River,Precinct 30,President,,Joseph R. Biden,DEM,631,280,126,1037
+Indian River,Precinct 31,President,,Joseph R. Biden,DEM,613,296,98,1007
+Indian River,Precinct 32,President,,Joseph R. Biden,DEM,1181,546,143,1870
+Indian River,Precinct 33,President,,Joseph R. Biden,DEM,738,153,41,932
+Indian River,Precinct 34,President,,Joseph R. Biden,DEM,795,268,140,1203
+Indian River,Precinct 35,President,,Joseph R. Biden,DEM,772,213,57,1042
+Indian River,Precinct 36,President,,Joseph R. Biden,DEM,458,201,32,691
+Indian River,Precinct 1,President,,Jo Jorgensen,LPF,0,0,0,0
+Indian River,Precinct 2,President,,Jo Jorgensen,LPF,-,-,-,3
+Indian River,Precinct 3,President,,Jo Jorgensen,LPF,-,-,-,1
+Indian River,Precinct 4,President,,Jo Jorgensen,LPF,0,0,0,0
+Indian River,Precinct 5,President,,Jo Jorgensen,LPF,-,-,-,33
+Indian River,Precinct 6,President,,Jo Jorgensen,LPF,-,-,-,4
+Indian River,Precinct 7,President,,Jo Jorgensen,LPF,-,-,-,7
+Indian River,Precinct 8,President,,Jo Jorgensen,LPF,-,-,-,31
+Indian River,Precinct 9,President,,Jo Jorgensen,LPF,-,-,-,22
+Indian River,Precinct 10,President,,Jo Jorgensen,LPF,-,-,-,31
+Indian River,Precinct 11,President,,Jo Jorgensen,LPF,0,0,0,0
+Indian River,Precinct 12,President,,Jo Jorgensen,LPF,-,-,-,4
+Indian River,Precinct 13,President,,Jo Jorgensen,LPF,-,-,-,26
+Indian River,Precinct 14,President,,Jo Jorgensen,LPF,-,-,-,7
+Indian River,Precinct 15,President,,Jo Jorgensen,LPF,0,0,0,0
+Indian River,Precinct 16,President,,Jo Jorgensen,LPF,-,-,-,7
+Indian River,Precinct 17,President,,Jo Jorgensen,LPF,-,-,-,25
+Indian River,Precinct 18,President,,Jo Jorgensen,LPF,-,-,-,8
+Indian River,Precinct 19,President,,Jo Jorgensen,LPF,-,-,-,14
+Indian River,Precinct 20,President,,Jo Jorgensen,LPF,-,-,-,2
+Indian River,Precinct 21,President,,Jo Jorgensen,LPF,-,-,-,9
+Indian River,Precinct 22,President,,Jo Jorgensen,LPF,-,-,-,21
+Indian River,Precinct 23,President,,Jo Jorgensen,LPF,-,-,-,17
+Indian River,Precinct 24,President,,Jo Jorgensen,LPF,-,-,-,5
+Indian River,Precinct 26,President,,Jo Jorgensen,LPF,-,-,-,5
+Indian River,Precinct 27,President,,Jo Jorgensen,LPF,-,-,-,31
+Indian River,Precinct 28,President,,Jo Jorgensen,LPF,-,-,-,84
+Indian River,Precinct 29,President,,Jo Jorgensen,LPF,0,0,0,0
+Indian River,Precinct 30,President,,Jo Jorgensen,LPF,-,-,-,35
+Indian River,Precinct 31,President,,Jo Jorgensen,LPF,-,-,-,15
+Indian River,Precinct 32,President,,Jo Jorgensen,LPF,-,-,-,38
+Indian River,Precinct 33,President,,Jo Jorgensen,LPF,-,-,-,15
+Indian River,Precinct 34,President,,Jo Jorgensen,LPF,-,-,-,17
+Indian River,Precinct 35,President,,Jo Jorgensen,LPF,-,-,-,7
+Indian River,Precinct 36,President,,Jo Jorgensen,LPF,-,-,-,10
+Indian River,Precinct 1,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 2,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 3,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 4,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 5,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Indian River,Precinct 6,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 7,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 8,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 9,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Indian River,Precinct 10,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Indian River,Precinct 11,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 12,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 13,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 14,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 15,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 16,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 17,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Indian River,Precinct 18,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Indian River,Precinct 19,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 20,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 21,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 22,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 23,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 24,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 26,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 27,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Indian River,Precinct 28,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,9
+Indian River,Precinct 29,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 30,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Indian River,Precinct 31,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 32,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Indian River,Precinct 33,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Indian River,Precinct 34,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Indian River,Precinct 35,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
+Indian River,Precinct 36,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Indian River,Precinct 1,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 2,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 3,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 4,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 5,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 6,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 7,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 8,President,,Gloria La Riva,PSL,-,-,-,2
+Indian River,Precinct 9,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 10,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 11,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 12,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 13,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 14,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 15,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 16,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 17,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 18,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 19,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 20,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 21,President,,Gloria La Riva,PSL,-,-,-,2
+Indian River,Precinct 22,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 23,President,,Gloria La Riva,PSL,-,-,-,2
+Indian River,Precinct 24,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 26,President,,Gloria La Riva,PSL,-,-,-,4
+Indian River,Precinct 27,President,,Gloria La Riva,PSL,-,-,-,3
+Indian River,Precinct 28,President,,Gloria La Riva,PSL,-,-,-,8
+Indian River,Precinct 29,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 30,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 31,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 32,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 33,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 34,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 35,President,,Gloria La Riva,PSL,-,-,-,1
+Indian River,Precinct 36,President,,Gloria La Riva,PSL,0,0,0,0
+Indian River,Precinct 1,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 2,President,,Howie Hawkins,GRE,-,-,-,1
+Indian River,Precinct 3,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 4,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 5,President,,Howie Hawkins,GRE,-,-,-,8
+Indian River,Precinct 6,President,,Howie Hawkins,GRE,-,-,-,3
+Indian River,Precinct 7,President,,Howie Hawkins,GRE,-,-,-,4
+Indian River,Precinct 8,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 9,President,,Howie Hawkins,GRE,-,-,-,7
+Indian River,Precinct 10,President,,Howie Hawkins,GRE,-,-,-,7
+Indian River,Precinct 11,President,,Howie Hawkins,GRE,-,-,-,1
+Indian River,Precinct 12,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 13,President,,Howie Hawkins,GRE,-,-,-,3
+Indian River,Precinct 14,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 15,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 16,President,,Howie Hawkins,GRE,-,-,-,3
+Indian River,Precinct 17,President,,Howie Hawkins,GRE,-,-,-,4
+Indian River,Precinct 18,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 19,President,,Howie Hawkins,GRE,-,-,-,5
+Indian River,Precinct 20,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 21,President,,Howie Hawkins,GRE,-,-,-,5
+Indian River,Precinct 22,President,,Howie Hawkins,GRE,-,-,-,2
+Indian River,Precinct 23,President,,Howie Hawkins,GRE,-,-,-,4
+Indian River,Precinct 24,President,,Howie Hawkins,GRE,-,-,-,4
+Indian River,Precinct 26,President,,Howie Hawkins,GRE,-,-,-,1
+Indian River,Precinct 27,President,,Howie Hawkins,GRE,-,-,-,7
+Indian River,Precinct 28,President,,Howie Hawkins,GRE,-,-,-,14
+Indian River,Precinct 29,President,,Howie Hawkins,GRE,0,0,0,0
+Indian River,Precinct 30,President,,Howie Hawkins,GRE,-,-,-,7
+Indian River,Precinct 31,President,,Howie Hawkins,GRE,-,-,-,4
+Indian River,Precinct 32,President,,Howie Hawkins,GRE,-,-,-,6
+Indian River,Precinct 33,President,,Howie Hawkins,GRE,-,-,-,2
+Indian River,Precinct 34,President,,Howie Hawkins,GRE,-,-,-,6
+Indian River,Precinct 35,President,,Howie Hawkins,GRE,-,-,-,3
+Indian River,Precinct 36,President,,Howie Hawkins,GRE,-,-,-,6
+Indian River,Precinct 1,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 2,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 3,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 4,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 5,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 6,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 7,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 8,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 9,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 10,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 11,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 12,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 13,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 14,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 15,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 16,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 17,President,,Don Blankenship,CPF,-,-,-,3
+Indian River,Precinct 18,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 19,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 20,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 21,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 22,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 23,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 24,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 26,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 27,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 28,President,,Don Blankenship,CPF,-,-,-,2
+Indian River,Precinct 29,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 30,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 31,President,,Don Blankenship,CPF,-,-,-,4
+Indian River,Precinct 32,President,,Don Blankenship,CPF,-,-,-,3
+Indian River,Precinct 33,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 34,President,,Don Blankenship,CPF,-,-,-,1
+Indian River,Precinct 35,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 36,President,,Don Blankenship,CPF,0,0,0,0
+Indian River,Precinct 1,President,,WRITE-IN,,0,0,0,0
+Indian River,Precinct 2,President,,WRITE-IN,,-,-,-,2
+Indian River,Precinct 3,President,,WRITE-IN,,0,0,0,0
+Indian River,Precinct 4,President,,WRITE-IN,,0,0,0,0
+Indian River,Precinct 5,President,,WRITE-IN,,-,-,-,8
+Indian River,Precinct 6,President,,WRITE-IN,,-,-,-,5
+Indian River,Precinct 7,President,,WRITE-IN,,-,-,-,3
+Indian River,Precinct 8,President,,WRITE-IN,,-,-,-,10
+Indian River,Precinct 9,President,,WRITE-IN,,-,-,-,7
+Indian River,Precinct 10,President,,WRITE-IN,,-,-,-,9
+Indian River,Precinct 11,President,,WRITE-IN,,-,-,-,3
+Indian River,Precinct 12,President,,WRITE-IN,,-,-,-,2
+Indian River,Precinct 13,President,,WRITE-IN,,-,-,-,15
+Indian River,Precinct 14,President,,WRITE-IN,,-,-,-,16
+Indian River,Precinct 15,President,,WRITE-IN,,-,-,-,3
+Indian River,Precinct 16,President,,WRITE-IN,,-,-,-,20
+Indian River,Precinct 17,President,,WRITE-IN,,-,-,-,15
+Indian River,Precinct 18,President,,WRITE-IN,,-,-,-,13
+Indian River,Precinct 19,President,,WRITE-IN,,-,-,-,13
+Indian River,Precinct 20,President,,WRITE-IN,,-,-,-,1
+Indian River,Precinct 21,President,,WRITE-IN,,-,-,-,8
+Indian River,Precinct 22,President,,WRITE-IN,,-,-,-,8
+Indian River,Precinct 23,President,,WRITE-IN,,-,-,-,4
+Indian River,Precinct 24,President,,WRITE-IN,,0,0,0,0
+Indian River,Precinct 26,President,,WRITE-IN,,-,-,-,4
+Indian River,Precinct 27,President,,WRITE-IN,,-,-,-,11
+Indian River,Precinct 28,President,,WRITE-IN,,-,-,-,25
+Indian River,Precinct 29,President,,WRITE-IN,,0,0,0,0
+Indian River,Precinct 30,President,,WRITE-IN,,-,-,-,10
+Indian River,Precinct 31,President,,WRITE-IN,,-,-,-,7
+Indian River,Precinct 32,President,,WRITE-IN,,-,-,-,13
+Indian River,Precinct 33,President,,WRITE-IN,,-,-,-,6
+Indian River,Precinct 34,President,,WRITE-IN,,-,-,-,6
+Indian River,Precinct 35,President,,WRITE-IN,,-,-,-,5
+Indian River,Precinct 36,President,,WRITE-IN,,-,-,-,7
+Indian River,Precinct 1,U.S. House,8,Bill Posey,REP,-,-,-,37
+Indian River,Precinct 2,U.S. House,8,Bill Posey,REP,80,102,140,322
+Indian River,Precinct 3,U.S. House,8,Bill Posey,REP,204,377,248,829
+Indian River,Precinct 4,U.S. House,8,Bill Posey,REP,-,-,-,21
+Indian River,Precinct 5,U.S. House,8,Bill Posey,REP,788,1474,501,2763
+Indian River,Precinct 6,U.S. House,8,Bill Posey,REP,245,416,177,838
+Indian River,Precinct 7,U.S. House,8,Bill Posey,REP,419,568,161,1148
+Indian River,Precinct 8,U.S. House,8,Bill Posey,REP,756,1268,467,2491
+Indian River,Precinct 9,U.S. House,8,Bill Posey,REP,1091,1644,676,3411
+Indian River,Precinct 10,U.S. House,8,Bill Posey,REP,1170,1590,676,3436
+Indian River,Precinct 11,U.S. House,8,Bill Posey,REP,328,353,88,769
+Indian River,Precinct 12,U.S. House,8,Bill Posey,REP,304,472,145,921
+Indian River,Precinct 13,U.S. House,8,Bill Posey,REP,1867,1621,483,3971
+Indian River,Precinct 14,U.S. House,8,Bill Posey,REP,765,466,121,1352
+Indian River,Precinct 15,U.S. House,8,Bill Posey,REP,-,-,-,343
+Indian River,Precinct 16,U.S. House,8,Bill Posey,REP,1408,800,404,2612
+Indian River,Precinct 17,U.S. House,8,Bill Posey,REP,1142,890,502,2534
+Indian River,Precinct 18,U.S. House,8,Bill Posey,REP,1040,749,355,2144
+Indian River,Precinct 19,U.S. House,8,Bill Posey,REP,714,852,438,2004
+Indian River,Precinct 20,U.S. House,8,Bill Posey,REP,148,107,62,317
+Indian River,Precinct 21,U.S. House,8,Bill Posey,REP,148,235,98,481
+Indian River,Precinct 22,U.S. House,8,Bill Posey,REP,825,959,434,2218
+Indian River,Precinct 23,U.S. House,8,Bill Posey,REP,403,463,264,1130
+Indian River,Precinct 24,U.S. House,8,Bill Posey,REP,105,133,64,302
+Indian River,Precinct 26,U.S. House,8,Bill Posey,REP,313,347,205,865
+Indian River,Precinct 27,U.S. House,8,Bill Posey,REP,872,856,589,2317
+Indian River,Precinct 28,U.S. House,8,Bill Posey,REP,2308,3112,1464,6884
+Indian River,Precinct 29,U.S. House,8,Bill Posey,REP,51,43,49,143
+Indian River,Precinct 30,U.S. House,8,Bill Posey,REP,636,790,427,1853
+Indian River,Precinct 31,U.S. House,8,Bill Posey,REP,642,909,458,2009
+Indian River,Precinct 32,U.S. House,8,Bill Posey,REP,1198,1650,814,3662
+Indian River,Precinct 33,U.S. House,8,Bill Posey,REP,908,485,228,1621
+Indian River,Precinct 34,U.S. House,8,Bill Posey,REP,750,837,588,2175
+Indian River,Precinct 35,U.S. House,8,Bill Posey,REP,762,703,304,1769
+Indian River,Precinct 36,U.S. House,8,Bill Posey,REP,501,729,133,1363
+Indian River,Precinct 1,U.S. House,8,Jim Kennedy,DEM,-,-,-,4
+Indian River,Precinct 2,U.S. House,8,Jim Kennedy,DEM,219,151,224,594
+Indian River,Precinct 3,U.S. House,8,Jim Kennedy,DEM,139,43,53,235
+Indian River,Precinct 4,U.S. House,8,Jim Kennedy,DEM,-,-,-,3
+Indian River,Precinct 5,U.S. House,8,Jim Kennedy,DEM,747,448,169,1364
+Indian River,Precinct 6,U.S. House,8,Jim Kennedy,DEM,280,115,37,432
+Indian River,Precinct 7,U.S. House,8,Jim Kennedy,DEM,369,159,44,572
+Indian River,Precinct 8,U.S. House,8,Jim Kennedy,DEM,765,427,129,1321
+Indian River,Precinct 9,U.S. House,8,Jim Kennedy,DEM,1096,544,153,1793
+Indian River,Precinct 10,U.S. House,8,Jim Kennedy,DEM,1184,578,219,1981
+Indian River,Precinct 11,U.S. House,8,Jim Kennedy,DEM,295,142,31,468
+Indian River,Precinct 12,U.S. House,8,Jim Kennedy,DEM,209,100,31,340
+Indian River,Precinct 13,U.S. House,8,Jim Kennedy,DEM,1515,495,116,2126
+Indian River,Precinct 14,U.S. House,8,Jim Kennedy,DEM,-,-,-,866
+Indian River,Precinct 15,U.S. House,8,Jim Kennedy,DEM,-,-,-,102
+Indian River,Precinct 16,U.S. House,8,Jim Kennedy,DEM,753,170,42,965
+Indian River,Precinct 17,U.S. House,8,Jim Kennedy,DEM,936,308,101,1345
+Indian River,Precinct 18,U.S. House,8,Jim Kennedy,DEM,624,229,39,892
+Indian River,Precinct 19,U.S. House,8,Jim Kennedy,DEM,658,330,115,1103
+Indian River,Precinct 20,U.S. House,8,Jim Kennedy,DEM,-,-,-,197
+Indian River,Precinct 21,U.S. House,8,Jim Kennedy,DEM,806,689,332,1827
+Indian River,Precinct 22,U.S. House,8,Jim Kennedy,DEM,838,284,99,1221
+Indian River,Precinct 23,U.S. House,8,Jim Kennedy,DEM,458,244,114,816
+Indian River,Precinct 24,U.S. House,8,Jim Kennedy,DEM,166,71,56,293
+Indian River,Precinct 26,U.S. House,8,Jim Kennedy,DEM,474,193,121,788
+Indian River,Precinct 27,U.S. House,8,Jim Kennedy,DEM,810,351,190,1351
+Indian River,Precinct 28,U.S. House,8,Jim Kennedy,DEM,2527,1315,552,4394
+Indian River,Precinct 29,U.S. House,8,Jim Kennedy,DEM,-,-,-,36
+Indian River,Precinct 30,U.S. House,8,Jim Kennedy,DEM,593,267,119,979
+Indian River,Precinct 31,U.S. House,8,Jim Kennedy,DEM,547,277,89,913
+Indian River,Precinct 32,U.S. House,8,Jim Kennedy,DEM,1083,511,135,1729
+Indian River,Precinct 33,U.S. House,8,Jim Kennedy,DEM,636,136,36,808
+Indian River,Precinct 34,U.S. House,8,Jim Kennedy,DEM,742,254,141,1137
+Indian River,Precinct 35,U.S. House,8,Jim Kennedy,DEM,713,194,53,960
+Indian River,Precinct 36,U.S. House,8,Jim Kennedy,DEM,427,171,32,630
+Indian River,Precinct 1,State Senate,17,Debbie Mayfield,REP,-,-,-,36
+Indian River,Precinct 2,State Senate,17,Debbie Mayfield,REP,66,102,136,304
+Indian River,Precinct 3,State Senate,17,Debbie Mayfield,REP,204,364,249,817
+Indian River,Precinct 4,State Senate,17,Debbie Mayfield,REP,-,-,-,22
+Indian River,Precinct 5,State Senate,17,Debbie Mayfield,REP,784,1455,469,2708
+Indian River,Precinct 6,State Senate,17,Debbie Mayfield,REP,242,405,171,818
+Indian River,Precinct 7,State Senate,17,Debbie Mayfield,REP,408,547,154,1109
+Indian River,Precinct 8,State Senate,17,Debbie Mayfield,REP,771,1248,442,2461
+Indian River,Precinct 9,State Senate,17,Debbie Mayfield,REP,1123,1623,645,3391
+Indian River,Precinct 10,State Senate,17,Debbie Mayfield,REP,1195,1570,678,3443
+Indian River,Precinct 11,State Senate,17,Debbie Mayfield,REP,336,357,89,782
+Indian River,Precinct 12,State Senate,17,Debbie Mayfield,REP,308,471,144,923
+Indian River,Precinct 13,State Senate,17,Debbie Mayfield,REP,1948,1627,479,4054
+Indian River,Precinct 14,State Senate,17,Debbie Mayfield,REP,795,478,114,1387
+Indian River,Precinct 15,State Senate,17,Debbie Mayfield,REP,-,-,-,353
+Indian River,Precinct 16,State Senate,17,Debbie Mayfield,REP,1488,809,407,2704
+Indian River,Precinct 17,State Senate,17,Debbie Mayfield,REP,1202,915,508,2625
+Indian River,Precinct 18,State Senate,17,Debbie Mayfield,REP,1093,766,364,2223
+Indian River,Precinct 19,State Senate,17,Debbie Mayfield,REP,731,853,430,2014
+Indian River,Precinct 20,State Senate,17,Debbie Mayfield,REP,159,106,65,330
+Indian River,Precinct 21,State Senate,17,Debbie Mayfield,REP,167,248,99,514
+Indian River,Precinct 22,State Senate,17,Debbie Mayfield,REP,864,965,435,2264
+Indian River,Precinct 23,State Senate,17,Debbie Mayfield,REP,402,465,265,1132
+Indian River,Precinct 24,State Senate,17,Debbie Mayfield,REP,108,126,68,302
+Indian River,Precinct 26,State Senate,17,Debbie Mayfield,REP,318,344,198,860
+Indian River,Precinct 27,State Senate,17,Debbie Mayfield,REP,909,865,583,2357
+Indian River,Precinct 28,State Senate,17,Debbie Mayfield,REP,2358,3094,1434,6886
+Indian River,Precinct 29,State Senate,17,Debbie Mayfield,REP,51,40,45,136
+Indian River,Precinct 30,State Senate,17,Debbie Mayfield,REP,660,771,418,1849
+Indian River,Precinct 31,State Senate,17,Debbie Mayfield,REP,652,907,446,2005
+Indian River,Precinct 32,State Senate,17,Debbie Mayfield,REP,1255,1654,805,3714
+Indian River,Precinct 33,State Senate,17,Debbie Mayfield,REP,945,478,222,1645
+Indian River,Precinct 34,State Senate,17,Debbie Mayfield,REP,768,837,573,2178
+Indian River,Precinct 35,State Senate,17,Debbie Mayfield,REP,797,700,298,1795
+Indian River,Precinct 36,State Senate,17,Debbie Mayfield,REP,523,721,132,1376
+Indian River,Precinct 1,State Senate,17,Scot Fretwell,DEM,-,-,-,5
+Indian River,Precinct 2,State Senate,17,Scot Fretwell,DEM,215,130,206,551
+Indian River,Precinct 3,State Senate,17,Scot Fretwell,DEM,117,42,41,200
+Indian River,Precinct 4,State Senate,17,Scot Fretwell,DEM,-,-,-,2
+Indian River,Precinct 5,State Senate,17,Scot Fretwell,DEM,666,399,156,1221
+Indian River,Precinct 6,State Senate,17,Scot Fretwell,DEM,255,109,31,395
+Indian River,Precinct 7,State Senate,17,Scot Fretwell,DEM,351,152,35,538
+Indian River,Precinct 8,State Senate,17,Scot Fretwell,DEM,693,387,111,1191
+Indian River,Precinct 9,State Senate,17,Scot Fretwell,DEM,975,487,139,1601
+Indian River,Precinct 10,State Senate,17,Scot Fretwell,DEM,1083,504,161,1748
+Indian River,Precinct 11,State Senate,17,Scot Fretwell,DEM,-,-,-,426
+Indian River,Precinct 12,State Senate,17,Scot Fretwell,DEM,-,-,-,315
+Indian River,Precinct 13,State Senate,17,Scot Fretwell,DEM,1348,442,104,1894
+Indian River,Precinct 14,State Senate,17,Scot Fretwell,DEM,-,-,-,786
+Indian River,Precinct 15,State Senate,17,Scot Fretwell,DEM,-,-,-,86
+Indian River,Precinct 16,State Senate,17,Scot Fretwell,DEM,633,142,32,807
+Indian River,Precinct 17,State Senate,17,Scot Fretwell,DEM,819,265,85,1169
+Indian River,Precinct 18,State Senate,17,Scot Fretwell,DEM,-,-,-,762
+Indian River,Precinct 19,State Senate,17,Scot Fretwell,DEM,593,290,103,986
+Indian River,Precinct 20,State Senate,17,Scot Fretwell,DEM,-,-,-,170
+Indian River,Precinct 21,State Senate,17,Scot Fretwell,DEM,764,654,304,1722
+Indian River,Precinct 22,State Senate,17,Scot Fretwell,DEM,749,257,81,1087
+Indian River,Precinct 23,State Senate,17,Scot Fretwell,DEM,418,212,89,719
+Indian River,Precinct 24,State Senate,17,Scot Fretwell,DEM,144,68,43,255
+Indian River,Precinct 26,State Senate,17,Scot Fretwell,DEM,432,181,111,724
+Indian River,Precinct 27,State Senate,17,Scot Fretwell,DEM,729,309,158,1196
+Indian River,Precinct 28,State Senate,17,Scot Fretwell,DEM,2319,1214,488,4021
+Indian River,Precinct 29,State Senate,17,Scot Fretwell,DEM,-,-,-,27
+Indian River,Precinct 30,State Senate,17,Scot Fretwell,DEM,519,247,103,869
+Indian River,Precinct 31,State Senate,17,Scot Fretwell,DEM,492,247,83,822
+Indian River,Precinct 32,State Senate,17,Scot Fretwell,DEM,943,441,111,1495
+Indian River,Precinct 33,State Senate,17,Scot Fretwell,DEM,555,124,32,711
+Indian River,Precinct 34,State Senate,17,Scot Fretwell,DEM,681,226,128,1035
+Indian River,Precinct 35,State Senate,17,Scot Fretwell,DEM,642,175,46,863
+Indian River,Precinct 36,State Senate,17,Scot Fretwell,DEM,-,-,-,567
+Indian River,Precinct 1,State Senate,17,Phillip Snyder,NPA,0,0,0,0
+Indian River,Precinct 2,State Senate,17,Phillip Snyder,NPA,-,-,-,44
+Indian River,Precinct 3,State Senate,17,Phillip Snyder,NPA,-,-,-,35
+Indian River,Precinct 4,State Senate,17,Phillip Snyder,NPA,0,0,0,0
+Indian River,Precinct 5,State Senate,17,Phillip Snyder,NPA,70,45,35,150
+Indian River,Precinct 6,State Senate,17,Phillip Snyder,NPA,-,-,-,35
+Indian River,Precinct 7,State Senate,17,Phillip Snyder,NPA,-,-,-,52
+Indian River,Precinct 8,State Senate,17,Phillip Snyder,NPA,-,-,-,97
+Indian River,Precinct 9,State Senate,17,Phillip Snyder,NPA,-,-,-,145
+Indian River,Precinct 10,State Senate,17,Phillip Snyder,NPA,59,56,45,160
+Indian River,Precinct 11,State Senate,17,Phillip Snyder,NPA,-,-,-,21
+Indian River,Precinct 12,State Senate,17,Phillip Snyder,NPA,-,-,-,18
+Indian River,Precinct 13,State Senate,17,Phillip Snyder,NPA,-,-,-,106
+Indian River,Precinct 14,State Senate,17,Phillip Snyder,NPA,-,-,-,29
+Indian River,Precinct 15,State Senate,17,Phillip Snyder,NPA,-,-,-,4
+Indian River,Precinct 16,State Senate,17,Phillip Snyder,NPA,-,-,-,43
+Indian River,Precinct 17,State Senate,17,Phillip Snyder,NPA,-,-,-,83
+Indian River,Precinct 18,State Senate,17,Phillip Snyder,NPA,-,-,-,32
+Indian River,Precinct 19,State Senate,17,Phillip Snyder,NPA,-,-,-,89
+Indian River,Precinct 20,State Senate,17,Phillip Snyder,NPA,-,-,-,8
+Indian River,Precinct 21,State Senate,17,Phillip Snyder,NPA,-,-,-,67
+Indian River,Precinct 22,State Senate,17,Phillip Snyder,NPA,-,-,-,70
+Indian River,Precinct 23,State Senate,17,Phillip Snyder,NPA,-,-,-,73
+Indian River,Precinct 24,State Senate,17,Phillip Snyder,NPA,-,-,-,29
+Indian River,Precinct 26,State Senate,17,Phillip Snyder,NPA,-,-,-,54
+Indian River,Precinct 27,State Senate,17,Phillip Snyder,NPA,-,-,-,90
+Indian River,Precinct 28,State Senate,17,Phillip Snyder,NPA,135,86,79,300
+Indian River,Precinct 29,State Senate,17,Phillip Snyder,NPA,-,-,-,14
+Indian River,Precinct 30,State Senate,17,Phillip Snyder,NPA,-,-,-,92
+Indian River,Precinct 31,State Senate,17,Phillip Snyder,NPA,-,-,-,81
+Indian River,Precinct 32,State Senate,17,Phillip Snyder,NPA,-,-,-,138
+Indian River,Precinct 33,State Senate,17,Phillip Snyder,NPA,-,-,-,61
+Indian River,Precinct 34,State Senate,17,Phillip Snyder,NPA,-,-,-,75
+Indian River,Precinct 35,State Senate,17,Phillip Snyder,NPA,-,-,-,52
+Indian River,Precinct 36,State Senate,17,Phillip Snyder,NPA,-,-,-,47
+Indian River,Precinct 1,State House,54,Erin Grall,REP,-,-,-,36
+Indian River,Precinct 2,State House,54,Erin Grall,REP,70,101,125,296
+Indian River,Precinct 3,State House,54,Erin Grall,REP,217,379,252,848
+Indian River,Precinct 4,State House,54,Erin Grall,REP,-,-,-,22
+Indian River,Precinct 5,State House,54,Erin Grall,REP,831,1488,506,2825
+Indian River,Precinct 6,State House,54,Erin Grall,REP,250,407,173,830
+Indian River,Precinct 7,State House,54,Erin Grall,REP,428,558,164,1150
+Indian River,Precinct 8,State House,54,Erin Grall,REP,781,1256,463,2500
+Indian River,Precinct 9,State House,54,Erin Grall,REP,1141,1633,664,3438
+Indian River,Precinct 10,State House,54,Erin Grall,REP,1225,1606,694,3525
+Indian River,Precinct 11,State House,54,Erin Grall,REP,337,366,83,786
+Indian River,Precinct 12,State House,54,Erin Grall,REP,318,480,148,946
+Indian River,Precinct 13,State House,54,Erin Grall,REP,1956,1642,492,4090
+Indian River,Precinct 14,State House,54,Erin Grall,REP,791,482,114,1387
+Indian River,Precinct 15,State House,54,Erin Grall,REP,-,-,-,344
+Indian River,Precinct 16,State House,54,Erin Grall,REP,1453,799,398,2650
+Indian River,Precinct 17,State House,54,Erin Grall,REP,1209,921,517,2647
+Indian River,Precinct 18,State House,54,Erin Grall,REP,1074,767,352,2193
+Indian River,Precinct 19,State House,54,Erin Grall,REP,747,876,457,2080
+Indian River,Precinct 20,State House,54,Erin Grall,REP,156,109,66,331
+Indian River,Precinct 21,State House,54,Erin Grall,REP,173,243,114,530
+Indian River,Precinct 22,State House,54,Erin Grall,REP,919,977,445,2341
+Indian River,Precinct 23,State House,54,Erin Grall,REP,435,484,274,1193
+Indian River,Precinct 24,State House,54,Erin Grall,REP,106,136,71,313
+Indian River,Precinct 26,State House,54,Erin Grall,REP,336,348,205,889
+Indian River,Precinct 27,State House,54,Erin Grall,REP,945,872,591,2408
+Indian River,Precinct 28,State House,54,Erin Grall,REP,2465,3186,1503,7154
+Indian River,Precinct 29,State House,54,Erin Grall,REP,55,41,49,145
+Indian River,Precinct 30,State House,54,Erin Grall,REP,712,803,436,1951
+Indian River,Precinct 31,State House,54,Erin Grall,REP,679,932,466,2077
+Indian River,Precinct 32,State House,54,Erin Grall,REP,1318,1716,839,3873
+Indian River,Precinct 33,State House,54,Erin Grall,REP,962,501,235,1698
+Indian River,Precinct 34,State House,54,Erin Grall,REP,829,875,601,2305
+Indian River,Precinct 35,State House,54,Erin Grall,REP,819,717,308,1844
+Indian River,Precinct 36,State House,54,Erin Grall,REP,539,733,135,1407
+Indian River,Precinct 1,State House,54,Albert M. Griffiths,DEM,-,-,-,5
+Indian River,Precinct 2,State House,54,Albert M. Griffiths,DEM,219,143,226,588
+Indian River,Precinct 3,State House,54,Albert M. Griffiths,DEM,117,35,44,196
+Indian River,Precinct 4,State House,54,Albert M. Griffiths,DEM,-,-,-,2
+Indian River,Precinct 5,State House,54,Albert M. Griffiths,DEM,687,405,159,1251
+Indian River,Precinct 6,State House,54,Albert M. Griffiths,DEM,264,112,37,413
+Indian River,Precinct 7,State House,54,Albert M. Griffiths,DEM,350,154,36,540
+Indian River,Precinct 8,State House,54,Albert M. Griffiths,DEM,709,398,112,1219
+Indian River,Precinct 9,State House,54,Albert M. Griffiths,DEM,1025,512,143,1680
+Indian River,Precinct 10,State House,54,Albert M. Griffiths,DEM,1100,527,185,1812
+Indian River,Precinct 11,State House,54,Albert M. Griffiths,DEM,275,131,33,439
+Indian River,Precinct 12,State House,54,Albert M. Griffiths,DEM,-,-,-,314
+Indian River,Precinct 13,State House,54,Albert M. Griffiths,DEM,1377,456,101,1934
+Indian River,Precinct 14,State House,54,Albert M. Griffiths,DEM,-,-,-,802
+Indian River,Precinct 15,State House,54,Albert M. Griffiths,DEM,-,-,-,88
+Indian River,Precinct 16,State House,54,Albert M. Griffiths,DEM,658,163,39,860
+Indian River,Precinct 17,State House,54,Albert M. Griffiths,DEM,833,265,84,1182
+Indian River,Precinct 18,State House,54,Albert M. Griffiths,DEM,566,195,39,800
+Indian River,Precinct 19,State House,54,Albert M. Griffiths,DEM,611,298,93,1002
+Indian River,Precinct 20,State House,54,Albert M. Griffiths,DEM,-,-,-,176
+Indian River,Precinct 21,State House,54,Albert M. Griffiths,DEM,762,666,311,1739
+Indian River,Precinct 22,State House,54,Albert M. Griffiths,DEM,730,252,85,1067
+Indian River,Precinct 23,State House,54,Albert M. Griffiths,DEM,411,217,98,726
+Indian River,Precinct 24,State House,54,Albert M. Griffiths,DEM,160,65,48,273
+Indian River,Precinct 26,State House,54,Albert M. Griffiths,DEM,439,186,112,737
+Indian River,Precinct 27,State House,54,Albert M. Griffiths,DEM,725,322,168,1215
+Indian River,Precinct 28,State House,54,Albert M. Griffiths,DEM,2336,1210,505,4051
+Indian River,Precinct 29,State House,54,Albert M. Griffiths,DEM,-,-,-,33
+Indian River,Precinct 30,State House,54,Albert M. Griffiths,DEM,506,244,105,855
+Indian River,Precinct 31,State House,54,Albert M. Griffiths,DEM,498,249,79,826
+Indian River,Precinct 32,State House,54,Albert M. Griffiths,DEM,946,429,112,1487
+Indian River,Precinct 33,State House,54,Albert M. Griffiths,DEM,-,-,-,709
+Indian River,Precinct 34,State House,54,Albert M. Griffiths,DEM,651,212,120,983
+Indian River,Precinct 35,State House,54,Albert M. Griffiths,DEM,641,175,45,861
+Indian River,Precinct 36,State House,54,Albert M. Griffiths,DEM,386,164,30,580

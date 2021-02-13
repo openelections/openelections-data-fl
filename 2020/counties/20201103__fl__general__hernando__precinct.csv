@@ -1,0 +1,449 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day,provisional
+Hernando,1001 - Tri-County Comm. CTR,Registered Voters,,,,1575,,,,
+Hernando,1002 - Eden Baptist CH Fellowship HL,Registered Voters,,,,1920,,,,
+Hernando,1004 - Jerome Brown Comm. CTR,Registered Voters,,,,2076,,,,
+Hernando,1006 - Faith Evanl. Presb. CH,Registered Voters,,,,2402,,,,
+Hernando,1008 - Ridge Manor Comm. CTR,Registered Voters,,,,2622,,,,
+Hernando,1009 - Spring Lake United Methodist CH,Registered Voters,,,,2652,,,,
+Hernando,1010 - Grace World Outreach CH,Registered Voters,,,,3118,,,,
+Hernando,1012 - Deerfield Clubhouse,Registered Voters,,,,3238,,,,
+Hernando,1014 - Brooksville Elks Lodge,Registered Voters,,,,3267,,,,
+Hernando,1015 - Holy Cross Luth. CH,Registered Voters,,,,3546,,,,
+Hernando,1017 - Nativity Luth. CH,Registered Voters,,,,3688,,,,
+Hernando,1018 - High Point Comm. Clubhouse,Registered Voters,,,,3835,,,,
+Hernando,1019 - Grace Presb. CH,Registered Voters,,,,4038,,,,
+Hernando,1021 - Fellowship Comm. CH,Registered Voters,,,,4158,,,,
+Hernando,1023 - Forest Oaks Luth. CH,Registered Voters,,,,4172,,,,
+Hernando,1024 - Christian CH in the Wildwood,Registered Voters,,,,4332,,,,
+Hernando,1025 - Brookridge Clubhouse Middle RM,Registered Voters,,,,4354,,,,
+Hernando,1027 - St. Joan of Arc CH Parish Hall,Registered Voters,,,,4374,,,,
+Hernando,1029 - Providence CH,Registered Voters,,,,4518,,,,
+Hernando,1030 - Coast Guard Aux. BLDG,Registered Voters,,,,4734,,,,
+Hernando,1031 - Hernando County Utilities DEPT,Registered Voters,,,,4836,,,,
+Hernando,1033 - Gateway Bible CH,Registered Voters,,,,4862,,,,
+Hernando,1034 - Northcliffe Bapt. CH Hall,Registered Voters,,,,4980,,,,
+Hernando,1036 - Hillside Comm. Bapt. CH,Registered Voters,,,,5397,,,,
+Hernando,1038 - Regency Oaks Clubhouse,Registered Voters,,,,5816,,,,
+Hernando,1039 - SH Cal. CH of the Nazarene,Registered Voters,,,,5994,,,,
+Hernando,1040 - SH United CH of Christ Hall,Registered Voters,,,,6009,,,,
+Hernando,1042 - Family First Assembly,Registered Voters,,,,6547,,,,
+Hernando,1044 - Sterling Hill Clubhouse North,Registered Voters,,,,7420,,,,
+Hernando,1047 - Timber Pines Perf. Arts CTR,Registered Voters,,,,7710,,,,
+Hernando,1048 - YMCA of Suncoast,Registered Voters,,,,8516,,,,
+Hernando,1054 - Wellington Clubhouse,Registered Voters,,,,10187,,,,
+Hernando,1001 - Tri-County Comm. CTR,Ballots Cast,,,,1212,442,332,438,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,Ballots Cast,,,,1700,908,266,526,0
+Hernando,1004 - Jerome Brown Comm. CTR,Ballots Cast,,,,1607,538,501,568,0
+Hernando,1006 - Faith Evanl. Presb. CH,Ballots Cast,,,,1953,671,654,628,0
+Hernando,1008 - Ridge Manor Comm. CTR,Ballots Cast,,,,2167,824,626,715,2
+Hernando,1009 - Spring Lake United Methodist CH,Ballots Cast,,,,1832,765,651,415,1
+Hernando,1010 - Grace World Outreach CH,Ballots Cast,,,,2481,984,819,677,1
+Hernando,1012 - Deerfield Clubhouse,Ballots Cast,,,,2509,1087,605,816,1
+Hernando,1014 - Brooksville Elks Lodge,Ballots Cast,,,,2533,1033,933,567,0
+Hernando,1015 - Holy Cross Luth. CH,Ballots Cast,,,,2732,1243,912,577,0
+Hernando,1017 - Nativity Luth. CH,Ballots Cast,,,,2706,1128,1076,501,1
+Hernando,1018 - High Point Comm. Clubhouse,Ballots Cast,,,,3026,1563,691,772,0
+Hernando,1019 - Grace Presb. CH,Ballots Cast,,,,2946,975,1045,924,2
+Hernando,1021 - Fellowship Comm. CH,Ballots Cast,,,,3084,1393,1119,572,0
+Hernando,1023 - Forest Oaks Luth. CH,Ballots Cast,,,,2961,1340,1053,568,0
+Hernando,1024 - Christian CH in the Wildwood,Ballots Cast,,,,3196,1252,1173,769,2
+Hernando,1025 - Brookridge Clubhouse Middle RM,Ballots Cast,,,,3143,1258,1122,761,2
+Hernando,1027 - St. Joan of Arc CH Parish Hall,Ballots Cast,,,,3275,1531,1238,506,0
+Hernando,1029 - Providence CH,Ballots Cast,,,,3955,2228,719,1006,2
+Hernando,1030 - Coast Guard Aux. BLDG,Ballots Cast,,,,3436,1507,1276,649,4
+Hernando,1031 - Hernando County Utilities DEPT,Ballots Cast,,,,3551,1238,1475,838,0
+Hernando,1033 - Gateway Bible CH,Ballots Cast,,,,3922,2061,1173,684,4
+Hernando,1034 - Northcliffe Bapt. CH Hall,Ballots Cast,,,,3444,1616,1166,661,1
+Hernando,1036 - Hillside Comm. Bapt. CH,Ballots Cast,,,,3717,1534,1250,926,7
+Hernando,1038 - Regency Oaks Clubhouse,Ballots Cast,,,,4035,1762,1357,914,2
+Hernando,1039 - SH Cal. CH of the Nazarene,Ballots Cast,,,,4399,1742,1597,1060,0
+Hernando,1040 - SH United CH of Christ Hall,Ballots Cast,,,,4342,2087,1444,802,9
+Hernando,1042 - Family First Assembly,Ballots Cast,,,,4548,1919,1566,1060,3
+Hernando,1044 - Sterling Hill Clubhouse North,Ballots Cast,,,,5572,2480,2190,900,2
+Hernando,1047 - Timber Pines Perf. Arts CTR,Ballots Cast,,,,5766,2390,2259,1112,5
+Hernando,1048 - YMCA of Suncoast,Ballots Cast,,,,6454,2712,2477,1261,4
+Hernando,1054 - Wellington Clubhouse,Ballots Cast,,,,7658,3233,2662,1761,2
+Hernando,1001 - Tri-County Comm. CTR,President,,REP,Donald J. Trump,901,259,266,376,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,REP,Donald J. Trump,1313,368,430,515,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,REP,Donald J. Trump,2553,1014,963,574,2
+Hernando,1006 - Faith Evanl. Presb. CH,President,,REP,Donald J. Trump,2340,782,915,641,2
+Hernando,1008 - Ridge Manor Comm. CTR,President,,REP,Donald J. Trump,2050,532,786,731,1
+Hernando,1009 - Spring Lake United Methodist CH,President,,REP,Donald J. Trump,1505,436,522,547,0
+Hernando,1010 - Grace World Outreach CH,President,,REP,Donald J. Trump,2300,842,958,496,4
+Hernando,1012 - Deerfield Clubhouse,President,,REP,Donald J. Trump,1658,542,620,495,1
+Hernando,1014 - Brooksville Elks Lodge,President,,REP,Donald J. Trump,4148,1345,1832,970,1
+Hernando,1015 - Holy Cross Luth. CH,President,,REP,Donald J. Trump,2158,675,839,641,3
+Hernando,1017 - Nativity Luth. CH,President,,REP,Donald J. Trump,2669,1162,930,574,3
+Hernando,1018 - High Point Comm. Clubhouse,President,,REP,Donald J. Trump,1727,593,472,661,1
+Hernando,1019 - Grace Presb. CH,President,,REP,Donald J. Trump,3740,1219,1679,840,2
+Hernando,1021 - Fellowship Comm. CH,President,,REP,Donald J. Trump,1613,466,785,362,0
+Hernando,1023 - Forest Oaks Luth. CH,President,,REP,Donald J. Trump,2041,716,830,495,0
+Hernando,1024 - Christian CH in the Wildwood,President,,REP,Donald J. Trump,5420,1817,2113,1489,1
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,REP,Donald J. Trump,1822,747,496,579,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,REP,Donald J. Trump,2692,789,1115,788,0
+Hernando,1029 - Providence CH,President,,REP,Donald J. Trump,1686,586,700,400,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,REP,Donald J. Trump,1579,468,508,603,0
+Hernando,1031 - Hernando County Utilities DEPT,President,,REP,Donald J. Trump,2253,869,963,421,0
+Hernando,1033 - Gateway Bible CH,President,,REP,Donald J. Trump,1958,599,781,577,1
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,REP,Donald J. Trump,2350,779,929,640,2
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,REP,Donald J. Trump,2345,631,1071,643,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,REP,Donald J. Trump,1647,579,660,408,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,REP,Donald J. Trump,1068,320,454,294,0
+Hernando,1040 - SH United CH of Christ Hall,President,,REP,Donald J. Trump,2625,826,1066,732,1
+Hernando,1042 - Family First Assembly,President,,REP,Donald J. Trump,1647,502,690,455,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,REP,Donald J. Trump,3222,1114,1496,610,2
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,REP,Donald J. Trump,2460,1139,531,788,2
+Hernando,1048 - YMCA of Suncoast,President,,REP,Donald J. Trump,1869,670,780,419,0
+Hernando,1054 - Wellington Clubhouse,President,,REP,Donald J. Trump,1053,448,196,409,0
+Hernando,1001 - Tri-County Comm. CTR,President,,DEM,Joseph R. Biden,292,174,63,55,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,DEM,Joseph R. Biden,278,163,67,48,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,DEM,Joseph R. Biden,1689,1021,461,201,6
+Hernando,1006 - Faith Evanl. Presb. CH,President,,DEM,Joseph R. Biden,811,446,251,114,0
+Hernando,1008 - Ridge Manor Comm. CTR,President,,DEM,Joseph R. Biden,841,426,247,167,1
+Hernando,1009 - Spring Lake United Methodist CH,President,,DEM,Joseph R. Biden,424,223,127,74,0
+Hernando,1010 - Grace World Outreach CH,President,,DEM,Joseph R. Biden,1064,621,309,134,0
+Hernando,1012 - Deerfield Clubhouse,President,,DEM,Joseph R. Biden,781,422,193,166,0
+Hernando,1014 - Brooksville Elks Lodge,President,,DEM,Joseph R. Biden,2227,1325,632,268,2
+Hernando,1015 - Holy Cross Luth. CH,President,,DEM,Joseph R. Biden,1473,810,392,267,4
+Hernando,1017 - Nativity Luth. CH,President,,DEM,Joseph R. Biden,1196,865,233,97,1
+Hernando,1018 - High Point Comm. Clubhouse,President,,DEM,Joseph R. Biden,740,470,125,145,0
+Hernando,1019 - Grace Presb. CH,President,,DEM,Joseph R. Biden,1923,1126,553,241,3
+Hernando,1021 - Fellowship Comm. CH,President,,DEM,Joseph R. Biden,1033,629,273,130,1
+Hernando,1023 - Forest Oaks Luth. CH,President,,DEM,Joseph R. Biden,1337,865,315,157,0
+Hernando,1024 - Christian CH in the Wildwood,President,,DEM,Joseph R. Biden,2112,1352,520,239,1
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,DEM,Joseph R. Biden,1146,780,186,180,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,DEM,Joseph R. Biden,1622,913,460,249,0
+Hernando,1029 - Providence CH,President,,DEM,Joseph R. Biden,1201,715,332,154,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,DEM,Joseph R. Biden,557,342,113,100,2
+Hernando,1031 - Hernando County Utilities DEPT,President,,DEM,Joseph R. Biden,976,631,269,76,0
+Hernando,1033 - Gateway Bible CH,President,,DEM,Joseph R. Biden,1126,633,326,166,1
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,DEM,Joseph R. Biden,1627,954,417,256,0
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,DEM,Joseph R. Biden,1133,562,390,181,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,DEM,Joseph R. Biden,1050,641,247,162,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,DEM,Joseph R. Biden,728,426,191,110,1
+Hernando,1040 - SH United CH of Christ Hall,President,,DEM,Joseph R. Biden,1829,1039,487,301,2
+Hernando,1042 - Family First Assembly,President,,DEM,Joseph R. Biden,835,505,228,102,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,DEM,Joseph R. Biden,2234,1296,670,268,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,DEM,Joseph R. Biden,1449,1051,185,213,0
+Hernando,1048 - YMCA of Suncoast,President,,DEM,Joseph R. Biden,1166,701,327,138,0
+Hernando,1054 - Wellington Clubhouse,President,,DEM,Joseph R. Biden,619,437,69,113,0
+Hernando,1001 - Tri-County Comm. CTR,President,,LPF,Jo Jorgensen,7,1,2,4,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,LPF,Jo Jorgensen,5,2,1,2,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,LPF,Jo Jorgensen,37,12,11,14,0
+Hernando,1006 - Faith Evanl. Presb. CH,President,,LPF,Jo Jorgensen,18,9,2,7,0
+Hernando,1008 - Ridge Manor Comm. CTR,President,,LPF,Jo Jorgensen,26,6,5,15,0
+Hernando,1009 - Spring Lake United Methodist CH,President,,LPF,Jo Jorgensen,13,5,3,5,0
+Hernando,1010 - Grace World Outreach CH,President,,LPF,Jo Jorgensen,24,8,4,12,0
+Hernando,1012 - Deerfield Clubhouse,President,,LPF,Jo Jorgensen,17,3,4,10,0
+Hernando,1014 - Brooksville Elks Lodge,President,,LPF,Jo Jorgensen,31,15,5,11,0
+Hernando,1015 - Holy Cross Luth. CH,President,,LPF,Jo Jorgensen,28,12,6,10,0
+Hernando,1017 - Nativity Luth. CH,President,,LPF,Jo Jorgensen,18,10,4,4,0
+Hernando,1018 - High Point Comm. Clubhouse,President,,LPF,Jo Jorgensen,15,7,1,7,0
+Hernando,1019 - Grace Presb. CH,President,,LPF,Jo Jorgensen,42,17,9,16,0
+Hernando,1021 - Fellowship Comm. CH,President,,LPF,Jo Jorgensen,13,8,4,1,0
+Hernando,1023 - Forest Oaks Luth. CH,President,,LPF,Jo Jorgensen,28,10,12,5,1
+Hernando,1024 - Christian CH in the Wildwood,President,,LPF,Jo Jorgensen,57,23,15,19,0
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,LPF,Jo Jorgensen,10,3,4,3,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,LPF,Jo Jorgensen,28,12,9,7,0
+Hernando,1029 - Providence CH,President,,LPF,Jo Jorgensen,27,10,9,8,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,LPF,Jo Jorgensen,6,2,0,4,0
+Hernando,1031 - Hernando County Utilities DEPT,President,,LPF,Jo Jorgensen,15,7,3,5,0
+Hernando,1033 - Gateway Bible CH,President,,LPF,Jo Jorgensen,27,9,7,11,0
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,LPF,Jo Jorgensen,24,8,5,11,0
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,LPF,Jo Jorgensen,30,17,7,6,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,LPF,Jo Jorgensen,13,6,2,5,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,LPF,Jo Jorgensen,10,2,3,5,0
+Hernando,1040 - SH United CH of Christ Hall,President,,LPF,Jo Jorgensen,40,15,7,18,0
+Hernando,1042 - Family First Assembly,President,,LPF,Jo Jorgensen,18,8,5,5,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,LPF,Jo Jorgensen,38,19,11,8,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,LPF,Jo Jorgensen,7,6,0,1,0
+Hernando,1048 - YMCA of Suncoast,President,,LPF,Jo Jorgensen,12,5,5,2,0
+Hernando,1054 - Wellington Clubhouse,President,,LPF,Jo Jorgensen,2,1,1,0,0
+Hernando,1001 - Tri-County Comm. CTR,President,,REF,"Roque ""Rocky"" De La Fuente",2,1,1,0,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,REF,"Roque ""Rocky"" De La Fuente",1,0,0,1,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,REF,"Roque ""Rocky"" De La Fuente",1,1,0,0,0
+Hernando,1006 - Faith Evanl. Presb. CH,President,,REF,"Roque ""Rocky"" De La Fuente",1,1,0,0,0
+Hernando,1008 - Ridge Manor Comm. CTR,President,,REF,"Roque ""Rocky"" De La Fuente",2,0,0,2,0
+Hernando,1009 - Spring Lake United Methodist CH,President,,REF,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Hernando,1010 - Grace World Outreach CH,President,,REF,"Roque ""Rocky"" De La Fuente",1,1,0,0,0
+Hernando,1012 - Deerfield Clubhouse,President,,REF,"Roque ""Rocky"" De La Fuente",2,1,0,1,0
+Hernando,1014 - Brooksville Elks Lodge,President,,REF,"Roque ""Rocky"" De La Fuente",2,2,0,0,0
+Hernando,1015 - Holy Cross Luth. CH,President,,REF,"Roque ""Rocky"" De La Fuente",3,2,0,1,0
+Hernando,1017 - Nativity Luth. CH,President,,REF,"Roque ""Rocky"" De La Fuente",6,5,0,1,0
+Hernando,1018 - High Point Comm. Clubhouse,President,,REF,"Roque ""Rocky"" De La Fuente",1,0,1,0,0
+Hernando,1019 - Grace Presb. CH,President,,REF,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Hernando,1021 - Fellowship Comm. CH,President,,REF,"Roque ""Rocky"" De La Fuente",1,0,0,1,0
+Hernando,1023 - Forest Oaks Luth. CH,President,,REF,"Roque ""Rocky"" De La Fuente",2,2,0,0,0
+Hernando,1024 - Christian CH in the Wildwood,President,,REF,"Roque ""Rocky"" De La Fuente",4,3,0,1,0
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,REF,"Roque ""Rocky"" De La Fuente",2,2,0,0,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,REF,"Roque ""Rocky"" De La Fuente",1,0,0,1,0
+Hernando,1029 - Providence CH,President,,REF,"Roque ""Rocky"" De La Fuente",1,1,0,0,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,REF,"Roque ""Rocky"" De La Fuente",3,2,0,1,0
+Hernando,1031 - Hernando County Utilities DEPT,President,,REF,"Roque ""Rocky"" De La Fuente",1,1,0,0,0
+Hernando,1033 - Gateway Bible CH,President,,REF,"Roque ""Rocky"" De La Fuente",2,1,1,0,0
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,REF,"Roque ""Rocky"" De La Fuente",2,2,0,0,0
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,REF,"Roque ""Rocky"" De La Fuente",3,2,0,1,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,REF,"Roque ""Rocky"" De La Fuente",1,1,0,0,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,REF,"Roque ""Rocky"" De La Fuente",4,2,1,1,0
+Hernando,1040 - SH United CH of Christ Hall,President,,REF,"Roque ""Rocky"" De La Fuente",3,3,0,0,0
+Hernando,1042 - Family First Assembly,President,,REF,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,REF,"Roque ""Rocky"" De La Fuente",6,5,0,1,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,REF,"Roque ""Rocky"" De La Fuente",3,3,0,0,0
+Hernando,1048 - YMCA of Suncoast,President,,REF,"Roque ""Rocky"" De La Fuente",1,1,0,0,0
+Hernando,1054 - Wellington Clubhouse,President,,REF,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Hernando,1001 - Tri-County Comm. CTR,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,PSL,Gloria La Riva,3,2,0,1,0
+Hernando,1006 - Faith Evanl. Presb. CH,President,,PSL,Gloria La Riva,2,2,0,0,0
+Hernando,1008 - Ridge Manor Comm. CTR,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1009 - Spring Lake United Methodist CH,President,,PSL,Gloria La Riva,1,1,0,0,0
+Hernando,1010 - Grace World Outreach CH,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1012 - Deerfield Clubhouse,President,,PSL,Gloria La Riva,3,1,1,1,0
+Hernando,1014 - Brooksville Elks Lodge,President,,PSL,Gloria La Riva,5,3,1,1,0
+Hernando,1015 - Holy Cross Luth. CH,President,,PSL,Gloria La Riva,3,3,0,0,0
+Hernando,1017 - Nativity Luth. CH,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1018 - High Point Comm. Clubhouse,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1019 - Grace Presb. CH,President,,PSL,Gloria La Riva,3,2,0,1,0
+Hernando,1021 - Fellowship Comm. CH,President,,PSL,Gloria La Riva,3,2,1,0,0
+Hernando,1023 - Forest Oaks Luth. CH,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1024 - Christian CH in the Wildwood,President,,PSL,Gloria La Riva,3,2,0,1,0
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,PSL,Gloria La Riva,4,3,0,1,0
+Hernando,1029 - Providence CH,President,,PSL,Gloria La Riva,2,1,1,0,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1031 - Hernando County Utilities DEPT,President,,PSL,Gloria La Riva,2,1,1,0,0
+Hernando,1033 - Gateway Bible CH,President,,PSL,Gloria La Riva,1,0,1,0,0
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,PSL,Gloria La Riva,3,2,0,1,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,PSL,Gloria La Riva,1,0,0,1,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1040 - SH United CH of Christ Hall,President,,PSL,Gloria La Riva,2,2,0,0,0
+Hernando,1042 - Family First Assembly,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,PSL,Gloria La Riva,2,2,0,0,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,PSL,Gloria La Riva,1,0,1,0,0
+Hernando,1048 - YMCA of Suncoast,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1054 - Wellington Clubhouse,President,,PSL,Gloria La Riva,0,0,0,0,0
+Hernando,1001 - Tri-County Comm. CTR,President,,GRE,Howie Hawkins,2,1,0,1,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,GRE,Howie Hawkins,2,1,1,0,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,GRE,Howie Hawkins,12,7,2,3,0
+Hernando,1006 - Faith Evanl. Presb. CH,President,,GRE,Howie Hawkins,3,1,1,1,0
+Hernando,1008 - Ridge Manor Comm. CTR,President,,GRE,Howie Hawkins,5,1,0,4,0
+Hernando,1009 - Spring Lake United Methodist CH,President,,GRE,Howie Hawkins,1,1,0,0,0
+Hernando,1010 - Grace World Outreach CH,President,,GRE,Howie Hawkins,5,4,1,0,0
+Hernando,1012 - Deerfield Clubhouse,President,,GRE,Howie Hawkins,2,0,1,1,0
+Hernando,1014 - Brooksville Elks Lodge,President,,GRE,Howie Hawkins,4,4,0,0,0
+Hernando,1015 - Holy Cross Luth. CH,President,,GRE,Howie Hawkins,10,7,2,1,0
+Hernando,1017 - Nativity Luth. CH,President,,GRE,Howie Hawkins,7,3,2,2,0
+Hernando,1018 - High Point Comm. Clubhouse,President,,GRE,Howie Hawkins,1,0,0,1,0
+Hernando,1019 - Grace Presb. CH,President,,GRE,Howie Hawkins,16,6,3,7,0
+Hernando,1021 - Fellowship Comm. CH,President,,GRE,Howie Hawkins,2,0,2,0,0
+Hernando,1023 - Forest Oaks Luth. CH,President,,GRE,Howie Hawkins,3,2,0,1,0
+Hernando,1024 - Christian CH in the Wildwood,President,,GRE,Howie Hawkins,6,3,1,2,0
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,GRE,Howie Hawkins,2,1,1,0,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,GRE,Howie Hawkins,10,6,1,3,0
+Hernando,1029 - Providence CH,President,,GRE,Howie Hawkins,4,3,0,1,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,GRE,Howie Hawkins,2,1,0,1,0
+Hernando,1031 - Hernando County Utilities DEPT,President,,GRE,Howie Hawkins,5,3,0,2,0
+Hernando,1033 - Gateway Bible CH,President,,GRE,Howie Hawkins,3,0,0,3,0
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,GRE,Howie Hawkins,3,1,0,2,0
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,GRE,Howie Hawkins,4,2,0,2,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,GRE,Howie Hawkins,1,1,0,0,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,GRE,Howie Hawkins,6,5,0,1,0
+Hernando,1040 - SH United CH of Christ Hall,President,,GRE,Howie Hawkins,8,5,0,3,0
+Hernando,1042 - Family First Assembly,President,,GRE,Howie Hawkins,4,3,1,0,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,GRE,Howie Hawkins,9,6,2,1,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,GRE,Howie Hawkins,1,1,0,0,0
+Hernando,1048 - YMCA of Suncoast,President,,GRE,Howie Hawkins,5,0,0,5,0
+Hernando,1054 - Wellington Clubhouse,President,,GRE,Howie Hawkins,3,2,0,1,0
+Hernando,1001 - Tri-County Comm. CTR,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,CPF,Don Blankenship,2,1,0,1,0
+Hernando,1006 - Faith Evanl. Presb. CH,President,,CPF,Don Blankenship,1,1,0,0,0
+Hernando,1008 - Ridge Manor Comm. CTR,President,,CPF,Don Blankenship,3,0,2,1,0
+Hernando,1009 - Spring Lake United Methodist CH,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1010 - Grace World Outreach CH,President,,CPF,Don Blankenship,4,2,1,1,0
+Hernando,1012 - Deerfield Clubhouse,President,,CPF,Don Blankenship,2,1,0,1,0
+Hernando,1014 - Brooksville Elks Lodge,President,,CPF,Don Blankenship,6,1,0,5,0
+Hernando,1015 - Holy Cross Luth. CH,President,,CPF,Don Blankenship,1,0,0,1,0
+Hernando,1017 - Nativity Luth. CH,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1018 - High Point Comm. Clubhouse,President,,CPF,Don Blankenship,1,0,1,0,0
+Hernando,1019 - Grace Presb. CH,President,,CPF,Don Blankenship,3,2,1,0,0
+Hernando,1021 - Fellowship Comm. CH,President,,CPF,Don Blankenship,2,1,1,0,0
+Hernando,1023 - Forest Oaks Luth. CH,President,,CPF,Don Blankenship,3,2,1,0,0
+Hernando,1024 - Christian CH in the Wildwood,President,,CPF,Don Blankenship,2,2,0,0,0
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,CPF,Don Blankenship,1,1,0,0,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,CPF,Don Blankenship,1,1,0,0,0
+Hernando,1029 - Providence CH,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1031 - Hernando County Utilities DEPT,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1033 - Gateway Bible CH,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,CPF,Don Blankenship,1,1,0,0,0
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,CPF,Don Blankenship,2,1,1,0,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1040 - SH United CH of Christ Hall,President,,CPF,Don Blankenship,4,3,0,1,0
+Hernando,1042 - Family First Assembly,President,,CPF,Don Blankenship,1,0,1,0,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1048 - YMCA of Suncoast,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1054 - Wellington Clubhouse,President,,CPF,Don Blankenship,0,0,0,0,0
+Hernando,1001 - Tri-County Comm. CTR,President,,,Write-ins,1,0,0,1,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,President,,,Write-ins,1,0,1,0,0
+Hernando,1004 - Jerome Brown Comm. CTR,President,,,Write-ins,7,3,0,3,1
+Hernando,1006 - Faith Evanl. Presb. CH,President,,,Write-ins,3,1,0,2,0
+Hernando,1008 - Ridge Manor Comm. CTR,President,,,Write-ins,7,3,3,1,0
+Hernando,1009 - Spring Lake United Methodist CH,President,,,Write-ins,4,3,0,1,0
+Hernando,1010 - Grace World Outreach CH,President,,,Write-ins,9,7,1,1,0
+Hernando,1012 - Deerfield Clubhouse,President,,,Write-ins,7,5,0,2,0
+Hernando,1014 - Brooksville Elks Lodge,President,,,Write-ins,12,8,2,2,0
+Hernando,1015 - Holy Cross Luth. CH,President,,,Write-ins,10,3,2,5,0
+Hernando,1017 - Nativity Luth. CH,President,,,Write-ins,9,5,1,3,0
+Hernando,1018 - High Point Comm. Clubhouse,President,,,Write-ins,2,1,1,0,0
+Hernando,1019 - Grace Presb. CH,President,,,Write-ins,11,4,5,2,0
+Hernando,1021 - Fellowship Comm. CH,President,,,Write-ins,9,4,2,3,0
+Hernando,1023 - Forest Oaks Luth. CH,President,,,Write-ins,7,4,1,2,0
+Hernando,1024 - Christian CH in the Wildwood,President,,,Write-ins,15,7,1,7,0
+Hernando,1025 - Brookridge Clubhouse Middle RM,President,,,Write-ins,11,6,1,4,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,President,,,Write-ins,18,6,5,7,0
+Hernando,1029 - Providence CH,President,,,Write-ins,9,5,2,2,0
+Hernando,1030 - Coast Guard Aux. BLDG,President,,,Write-ins,6,3,1,2,0
+Hernando,1031 - Hernando County Utilities DEPT,President,,,Write-ins,5,3,0,2,0
+Hernando,1033 - Gateway Bible CH,President,,,Write-ins,5,1,2,2,0
+Hernando,1034 - Northcliffe Bapt. CH Hall,President,,,Write-ins,3,1,0,2,0
+Hernando,1036 - Hillside Comm. Bapt. CH,President,,,Write-ins,10,7,3,0,0
+Hernando,1038 - Regency Oaks Clubhouse,President,,,Write-ins,2,2,0,0,0
+Hernando,1039 - SH Cal. CH of the Nazarene,President,,,Write-ins,5,2,0,3,0
+Hernando,1040 - SH United CH of Christ Hall,President,,,Write-ins,7,5,1,1,0
+Hernando,1042 - Family First Assembly,President,,,Write-ins,8,6,0,2,0
+Hernando,1044 - Sterling Hill Clubhouse North,President,,,Write-ins,20,10,5,5,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,President,,,Write-ins,7,5,0,2,0
+Hernando,1048 - YMCA of Suncoast,President,,,Write-ins,4,2,0,2,0
+Hernando,1054 - Wellington Clubhouse,President,,,Write-ins,2,1,0,1,0
+Hernando,1001 - Tri-County Comm. CTR,U.S. House,11,REP,Daniel Webster,882,257,260,365,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,U.S. House,11,REP,Daniel Webster,1262,344,416,502,0
+Hernando,1004 - Jerome Brown Comm. CTR,U.S. House,11,REP,Daniel Webster,2498,1002,953,539,4
+Hernando,1006 - Faith Evanl. Presb. CH,U.S. House,11,REP,Daniel Webster,2288,771,895,620,2
+Hernando,1008 - Ridge Manor Comm. CTR,U.S. House,11,REP,Daniel Webster,1978,512,766,699,1
+Hernando,1009 - Spring Lake United Methodist CH,U.S. House,11,REP,Daniel Webster,1485,442,509,534,0
+Hernando,1010 - Grace World Outreach CH,U.S. House,11,REP,Daniel Webster,2254,849,924,477,4
+Hernando,1012 - Deerfield Clubhouse,U.S. House,11,REP,Daniel Webster,1631,535,612,483,1
+Hernando,1014 - Brooksville Elks Lodge,U.S. House,11,REP,Daniel Webster,4075,1343,1802,929,1
+Hernando,1015 - Holy Cross Luth. CH,U.S. House,11,REP,Daniel Webster,2106,680,818,605,3
+Hernando,1017 - Nativity Luth. CH,U.S. House,11,REP,Daniel Webster,2601,1147,898,554,2
+Hernando,1018 - High Point Comm. Clubhouse,U.S. House,11,REP,Daniel Webster,1689,595,465,629,0
+Hernando,1019 - Grace Presb. CH,U.S. House,11,REP,Daniel Webster,3621,1175,1647,798,1
+Hernando,1021 - Fellowship Comm. CH,U.S. House,11,REP,Daniel Webster,1584,477,764,343,0
+Hernando,1023 - Forest Oaks Luth. CH,U.S. House,11,REP,Daniel Webster,1955,700,802,453,0
+Hernando,1024 - Christian CH in the Wildwood,U.S. House,11,REP,Daniel Webster,5314,1800,2084,1429,1
+Hernando,1025 - Brookridge Clubhouse Middle RM,U.S. House,11,REP,Daniel Webster,1805,745,497,563,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,U.S. House,11,REP,Daniel Webster,2605,775,1081,749,0
+Hernando,1029 - Providence CH,U.S. House,11,REP,Daniel Webster,1617,574,673,370,0
+Hernando,1030 - Coast Guard Aux. BLDG,U.S. House,11,REP,Daniel Webster,1559,463,501,595,0
+Hernando,1031 - Hernando County Utilities DEPT,U.S. House,11,REP,Daniel Webster,2210,868,940,402,0
+Hernando,1033 - Gateway Bible CH,U.S. House,11,REP,Daniel Webster,1934,614,759,560,1
+Hernando,1034 - Northcliffe Bapt. CH Hall,U.S. House,11,REP,Daniel Webster,2254,758,898,596,2
+Hernando,1036 - Hillside Comm. Bapt. CH,U.S. House,11,REP,Daniel Webster,2308,652,1041,615,0
+Hernando,1038 - Regency Oaks Clubhouse,U.S. House,11,REP,Daniel Webster,1633,596,643,394,0
+Hernando,1039 - SH Cal. CH of the Nazarene,U.S. House,11,REP,Daniel Webster,1040,324,433,283,0
+Hernando,1040 - SH United CH of Christ Hall,U.S. House,11,REP,Daniel Webster,2564,834,1022,707,1
+Hernando,1042 - Family First Assembly,U.S. House,11,REP,Daniel Webster,1611,505,672,434,0
+Hernando,1044 - Sterling Hill Clubhouse North,U.S. House,11,REP,Daniel Webster,3197,1133,1469,593,2
+Hernando,1047 - Timber Pines Perf. Arts CTR,U.S. House,11,REP,Daniel Webster,2479,1163,524,790,2
+Hernando,1048 - YMCA of Suncoast,U.S. House,11,REP,Daniel Webster,1815,655,756,404,0
+Hernando,1054 - Wellington Clubhouse,U.S. House,11,REP,Daniel Webster,1031,451,189,391,0
+Hernando,1001 - Tri-County Comm. CTR,U.S. House,11,DEM,Dana Marie Cottrell,299,176,66,57,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,U.S. House,11,DEM,Dana Marie Cottrell,298,174,70,54,0
+Hernando,1004 - Jerome Brown Comm. CTR,U.S. House,11,DEM,Dana Marie Cottrell,1692,1008,461,218,5
+Hernando,1006 - Faith Evanl. Presb. CH,U.S. House,11,DEM,Dana Marie Cottrell,820,452,249,119,0
+Hernando,1008 - Ridge Manor Comm. CTR,U.S. House,11,DEM,Dana Marie Cottrell,840,418,251,170,1
+Hernando,1009 - Spring Lake United Methodist CH,U.S. House,11,DEM,Dana Marie Cottrell,427,215,132,80,0
+Hernando,1010 - Grace World Outreach CH,U.S. House,11,DEM,Dana Marie Cottrell,1083,611,319,153,0
+Hernando,1012 - Deerfield Clubhouse,U.S. House,11,DEM,Dana Marie Cottrell,778,421,192,165,0
+Hernando,1014 - Brooksville Elks Lodge,U.S. House,11,DEM,Dana Marie Cottrell,2200,1290,621,286,3
+Hernando,1015 - Holy Cross Luth. CH,U.S. House,11,DEM,Dana Marie Cottrell,1508,822,396,286,4
+Hernando,1017 - Nativity Luth. CH,U.S. House,11,DEM,Dana Marie Cottrell,1172,832,242,98,0
+Hernando,1018 - High Point Comm. Clubhouse,U.S. House,11,DEM,Dana Marie Cottrell,719,461,119,139,0
+Hernando,1019 - Grace Presb. CH,U.S. House,11,DEM,Dana Marie Cottrell,1948,1133,557,255,3
+Hernando,1021 - Fellowship Comm. CH,U.S. House,11,DEM,Dana Marie Cottrell,1036,621,284,131,0
+Hernando,1023 - Forest Oaks Luth. CH,U.S. House,11,DEM,Dana Marie Cottrell,1360,851,325,183,1
+Hernando,1024 - Christian CH in the Wildwood,U.S. House,11,DEM,Dana Marie Cottrell,2134,1346,516,271,1
+Hernando,1025 - Brookridge Clubhouse Middle RM,U.S. House,11,DEM,Dana Marie Cottrell,1112,765,175,172,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,U.S. House,11,DEM,Dana Marie Cottrell,1635,912,462,261,0
+Hernando,1029 - Providence CH,U.S. House,11,DEM,Dana Marie Cottrell,1245,719,347,179,0
+Hernando,1030 - Coast Guard Aux. BLDG,U.S. House,11,DEM,Dana Marie Cottrell,559,339,111,107,2
+Hernando,1031 - Hernando County Utilities DEPT,U.S. House,11,DEM,Dana Marie Cottrell,985,627,274,84,0
+Hernando,1033 - Gateway Bible CH,U.S. House,11,DEM,Dana Marie Cottrell,1118,613,337,167,1
+Hernando,1034 - Northcliffe Bapt. CH Hall,U.S. House,11,DEM,Dana Marie Cottrell,1634,950,402,282,0
+Hernando,1036 - Hillside Comm. Bapt. CH,U.S. House,11,DEM,Dana Marie Cottrell,1136,557,383,196,0
+Hernando,1038 - Regency Oaks Clubhouse,U.S. House,11,DEM,Dana Marie Cottrell,1026,619,245,162,0
+Hernando,1039 - SH Cal. CH of the Nazarene,U.S. House,11,DEM,Dana Marie Cottrell,725,420,188,116,1
+Hernando,1040 - SH United CH of Christ Hall,U.S. House,11,DEM,Dana Marie Cottrell,1829,1024,489,315,1
+Hernando,1042 - Family First Assembly,U.S. House,11,DEM,Dana Marie Cottrell,840,490,240,110,0
+Hernando,1044 - Sterling Hill Clubhouse North,U.S. House,11,DEM,Dana Marie Cottrell,2237,1291,678,268,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,U.S. House,11,DEM,Dana Marie Cottrell,1329,977,173,179,0
+Hernando,1048 - YMCA of Suncoast,U.S. House,11,DEM,Dana Marie Cottrell,1193,707,334,152,0
+Hernando,1054 - Wellington Clubhouse,U.S. House,11,DEM,Dana Marie Cottrell,613,427,70,116,0
+Hernando,1017 - Nativity Luth. CH,State House,34,REP,Ralph E. Massullo Jr.,2679,1223,895,559,2
+Hernando,1024 - Christian CH in the Wildwood,State House,34,REP,Ralph E. Massullo Jr.,5396,1877,2072,1446,1
+Hernando,1017 - Nativity Luth. CH,State House,34,DEM,Dushyant Jethagir Gosai,1047,740,221,86,0
+Hernando,1024 - Christian CH in the Wildwood,State House,34,DEM,Dushyant Jethagir Gosai,1941,1228,486,226,1
+Hernando,1001 - Tri-County Comm. CTR,State House,35,REP,Blaise Ingoglia,871,254,258,359,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,State House,35,REP,Blaise Ingoglia,1262,351,412,499,0
+Hernando,1004 - Jerome Brown Comm. CTR,State House,35,REP,Blaise Ingoglia,2494,1000,950,541,3
+Hernando,1006 - Faith Evanl. Presb. CH,State House,35,REP,Blaise Ingoglia,2239,764,869,604,2
+Hernando,1008 - Ridge Manor Comm. CTR,State House,35,REP,Blaise Ingoglia,1950,512,759,678,1
+Hernando,1009 - Spring Lake United Methodist CH,State House,35,REP,Blaise Ingoglia,1461,423,503,535,0
+Hernando,1010 - Grace World Outreach CH,State House,35,REP,Blaise Ingoglia,2252,848,926,474,4
+Hernando,1012 - Deerfield Clubhouse,State House,35,REP,Blaise Ingoglia,1653,550,617,485,1
+Hernando,1014 - Brooksville Elks Lodge,State House,35,REP,Blaise Ingoglia,4081,1349,1796,934,2
+Hernando,1015 - Holy Cross Luth. CH,State House,35,REP,Blaise Ingoglia,2087,673,812,599,3
+Hernando,1018 - High Point Comm. Clubhouse,State House,35,REP,Blaise Ingoglia,1669,575,464,630,0
+Hernando,1019 - Grace Presb. CH,State House,35,REP,Blaise Ingoglia,3612,1180,1626,805,1
+Hernando,1021 - Fellowship Comm. CH,State House,35,REP,Blaise Ingoglia,1596,487,763,346,0
+Hernando,1023 - Forest Oaks Luth. CH,State House,35,REP,Blaise Ingoglia,1945,693,803,449,0
+Hernando,1025 - Brookridge Clubhouse Middle RM,State House,35,REP,Blaise Ingoglia,1768,727,492,549,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,State House,35,REP,Blaise Ingoglia,2583,783,1063,737,0
+Hernando,1029 - Providence CH,State House,35,REP,Blaise Ingoglia,1632,573,681,378,0
+Hernando,1030 - Coast Guard Aux. BLDG,State House,35,REP,Blaise Ingoglia,1536,458,489,589,0
+Hernando,1031 - Hernando County Utilities DEPT,State House,35,REP,Blaise Ingoglia,2180,873,922,385,0
+Hernando,1033 - Gateway Bible CH,State House,35,REP,Blaise Ingoglia,1924,611,761,551,1
+Hernando,1034 - Northcliffe Bapt. CH Hall,State House,35,REP,Blaise Ingoglia,2254,755,892,605,2
+Hernando,1036 - Hillside Comm. Bapt. CH,State House,35,REP,Blaise Ingoglia,2277,648,1026,603,0
+Hernando,1038 - Regency Oaks Clubhouse,State House,35,REP,Blaise Ingoglia,1627,594,640,393,0
+Hernando,1039 - SH Cal. CH of the Nazarene,State House,35,REP,Blaise Ingoglia,1036,315,437,284,0
+Hernando,1040 - SH United CH of Christ Hall,State House,35,REP,Blaise Ingoglia,2584,846,1028,709,1
+Hernando,1042 - Family First Assembly,State House,35,REP,Blaise Ingoglia,1618,510,674,434,0
+Hernando,1044 - Sterling Hill Clubhouse North,State House,35,REP,Blaise Ingoglia,3198,1145,1464,587,2
+Hernando,1047 - Timber Pines Perf. Arts CTR,State House,35,REP,Blaise Ingoglia,2466,1153,526,785,2
+Hernando,1048 - YMCA of Suncoast,State House,35,REP,Blaise Ingoglia,1836,670,765,401,0
+Hernando,1054 - Wellington Clubhouse,State House,35,REP,Blaise Ingoglia,1042,453,189,400,0
+Hernando,1001 - Tri-County Comm. CTR,State House,35,DEM,Keith G. Laufenberg,303,177,65,61,0
+Hernando,1002 - Eden Baptist CH Fellowship HL,State House,35,DEM,Keith G. Laufenberg,295,169,71,55,0
+Hernando,1004 - Jerome Brown Comm. CTR,State House,35,DEM,Keith G. Laufenberg,1654,989,448,211,6
+Hernando,1006 - Faith Evanl. Presb. CH,State House,35,DEM,Keith G. Laufenberg,845,452,267,126,0
+Hernando,1008 - Ridge Manor Comm. CTR,State House,35,DEM,Keith G. Laufenberg,838,413,248,177,0
+Hernando,1009 - Spring Lake United Methodist CH,State House,35,DEM,Keith G. Laufenberg,438,231,134,73,0
+Hernando,1010 - Grace World Outreach CH,State House,35,DEM,Keith G. Laufenberg,1057,597,309,151,0
+Hernando,1012 - Deerfield Clubhouse,State House,35,DEM,Keith G. Laufenberg,742,401,185,156,0
+Hernando,1014 - Brooksville Elks Lodge,State House,35,DEM,Keith G. Laufenberg,2158,1264,619,273,2
+Hernando,1015 - Holy Cross Luth. CH,State House,35,DEM,Keith G. Laufenberg,1499,819,394,282,4
+Hernando,1018 - High Point Comm. Clubhouse,State House,35,DEM,Keith G. Laufenberg,723,470,117,136,0
+Hernando,1019 - Grace Presb. CH,State House,35,DEM,Keith G. Laufenberg,1923,1115,559,246,3
+Hernando,1021 - Fellowship Comm. CH,State House,35,DEM,Keith G. Laufenberg,1007,605,275,127,0
+Hernando,1023 - Forest Oaks Luth. CH,State House,35,DEM,Keith G. Laufenberg,1353,853,317,182,1
+Hernando,1025 - Brookridge Clubhouse Middle RM,State House,35,DEM,Keith G. Laufenberg,1103,753,172,178,0
+Hernando,1027 - St. Joan of Arc CH Parish Hall,State House,35,DEM,Keith G. Laufenberg,1642,900,470,272,0
+Hernando,1029 - Providence CH,State House,35,DEM,Keith G. Laufenberg,1220,712,339,169,0
+Hernando,1030 - Coast Guard Aux. BLDG,State House,35,DEM,Keith G. Laufenberg,560,334,117,107,2
+Hernando,1031 - Hernando County Utilities DEPT,State House,35,DEM,Keith G. Laufenberg,994,615,281,98,0
+Hernando,1033 - Gateway Bible CH,State House,35,DEM,Keith G. Laufenberg,1101,606,328,166,1
+Hernando,1034 - Northcliffe Bapt. CH Hall,State House,35,DEM,Keith G. Laufenberg,1618,948,400,270,0
+Hernando,1036 - Hillside Comm. Bapt. CH,State House,35,DEM,Keith G. Laufenberg,1129,548,380,201,0
+Hernando,1038 - Regency Oaks Clubhouse,State House,35,DEM,Keith G. Laufenberg,1006,603,243,160,0
+Hernando,1039 - SH Cal. CH of the Nazarene,State House,35,DEM,Keith G. Laufenberg,712,418,181,112,1
+Hernando,1040 - SH United CH of Christ Hall,State House,35,DEM,Keith G. Laufenberg,1792,1005,475,311,1
+Hernando,1042 - Family First Assembly,State House,35,DEM,Keith G. Laufenberg,825,483,234,108,0
+Hernando,1044 - Sterling Hill Clubhouse North,State House,35,DEM,Keith G. Laufenberg,2194,1259,674,261,0
+Hernando,1047 - Timber Pines Perf. Arts CTR,State House,35,DEM,Keith G. Laufenberg,1305,965,166,174,0
+Hernando,1048 - YMCA of Suncoast,State House,35,DEM,Keith G. Laufenberg,1148,680,319,149,0
+Hernando,1054 - Wellington Clubhouse,State House,35,DEM,Keith G. Laufenberg,577,411,68,98,0

@@ -1,0 +1,756 @@
+county,precinct,office,district,candidate,party,election_day,early_voting,mail,provisional,votes
+Okaloosa,1,President,,Donald J. Trump,REP,,,,,"1,953"
+Okaloosa,1,President,,Joseph R. Biden,DEM,52,86,101,0,239
+Okaloosa,1,President,,Jo Jorgensen,LPF,,,,,20
+Okaloosa,1,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,1,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,1,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,1,President,,Don Blankenship,CPF,,,,,2
+Okaloosa,1,President,,WRITE-IN,NON,,,,,3
+Okaloosa,2,President,,Donald J. Trump,REP,342,126,88,0,556
+Okaloosa,2,President,,Joseph R. Biden,DEM,,,,,47
+Okaloosa,2,President,,Jo Jorgensen,LPF,,,,,1
+Okaloosa,2,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,2,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,2,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,2,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,2,President,,WRITE-IN,NON,,,,,1
+Okaloosa,3,President,,Donald J. Trump,REP,364,424,185,0,973
+Okaloosa,3,President,,Joseph R. Biden,DEM,,,,,153
+Okaloosa,3,President,,Jo Jorgensen,LPF,,,,,12
+Okaloosa,3,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,3,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,3,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,3,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,3,President,,WRITE-IN,NON,,,,,1
+Okaloosa,4,President,,Donald J. Trump,REP,,,,,981
+Okaloosa,4,President,,Joseph R. Biden,DEM,45,45,62,0,152
+Okaloosa,4,President,,Jo Jorgensen,LPF,,,,,14
+Okaloosa,4,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,4,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,4,President,,Howie Hawkins,GRE,0,0,0,0,0
+Okaloosa,4,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,4,President,,WRITE-IN,NON,,,,,2
+Okaloosa,5,President,,Donald J. Trump,REP,,,,,818
+Okaloosa,5,President,,Joseph R. Biden,DEM,,,,,146
+Okaloosa,5,President,,Jo Jorgensen,LPF,,,,,6
+Okaloosa,5,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,5,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,5,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,5,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,5,President,,WRITE-IN,NON,,,,,1
+Okaloosa,6,President,,Donald J. Trump,REP,,,,,"2,652"
+Okaloosa,6,President,,Joseph R. Biden,DEM,78,270,286,0,634
+Okaloosa,6,President,,Jo Jorgensen,LPF,,,,,43
+Okaloosa,6,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,6,President,,Gloria La Riva,PSL,,,,,4
+Okaloosa,6,President,,Howie Hawkins,GRE,,,,,4
+Okaloosa,6,President,,Don Blankenship,CPF,,,,,4
+Okaloosa,6,President,,WRITE-IN,NON,,,,,5
+Okaloosa,7,President,,Donald J. Trump,REP,,,,,"1,178"
+Okaloosa,7,President,,Joseph R. Biden,DEM,,,,,283
+Okaloosa,7,President,,Jo Jorgensen,LPF,,,,,20
+Okaloosa,7,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,7,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,7,President,,Howie Hawkins,GRE,0,0,0,0,0
+Okaloosa,7,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,7,President,,WRITE-IN,NON,,,,,9
+Okaloosa,8,President,,Donald J. Trump,REP,,,,,"2,624"
+Okaloosa,8,President,,Joseph R. Biden,DEM,,,,,893
+Okaloosa,8,President,,Jo Jorgensen,LPF,,,,,58
+Okaloosa,8,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,8,President,,Gloria La Riva,PSL,,,,,6
+Okaloosa,8,President,,Howie Hawkins,GRE,,,,,6
+Okaloosa,8,President,,Don Blankenship,CPF,,,,,5
+Okaloosa,8,President,,WRITE-IN,NON,,,,,14
+Okaloosa,9,President,,Donald J. Trump,REP,,,,,"2,442"
+Okaloosa,9,President,,Joseph R. Biden,DEM,100,398,410,0,908
+Okaloosa,9,President,,Jo Jorgensen,LPF,,,,,58
+Okaloosa,9,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,3
+Okaloosa,9,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,9,President,,Howie Hawkins,GRE,,,,,8
+Okaloosa,9,President,,Don Blankenship,CPF,,,,,2
+Okaloosa,9,President,,WRITE-IN,NON,,,,,13
+Okaloosa,10,President,,Donald J. Trump,REP,,,,,"2,926"
+Okaloosa,10,President,,Joseph R. Biden,DEM,,,,,"1,882"
+Okaloosa,10,President,,Jo Jorgensen,LPF,,,,,93
+Okaloosa,10,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,3
+Okaloosa,10,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,10,President,,Howie Hawkins,GRE,,,,,15
+Okaloosa,10,President,,Don Blankenship,CPF,,,,,3
+Okaloosa,10,President,,WRITE-IN,NON,,,,,20
+Okaloosa,11,President,,Donald J. Trump,REP,,,,,"5,147"
+Okaloosa,11,President,,Joseph R. Biden,DEM,,,,,"3,536"
+Okaloosa,11,President,,Jo Jorgensen,LPF,,,,,204
+Okaloosa,11,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,6
+Okaloosa,11,President,,Gloria La Riva,PSL,,,,,3
+Okaloosa,11,President,,Howie Hawkins,GRE,,,,,17
+Okaloosa,11,President,,Don Blankenship,CPF,,,,,12
+Okaloosa,11,President,,WRITE-IN,NON,,,,,38
+Okaloosa,12,President,,Donald J. Trump,REP,50,123,47,0,220
+Okaloosa,12,President,,Joseph R. Biden,DEM,132,165,163,0,460
+Okaloosa,12,President,,Jo Jorgensen,LPF,,,,,4
+Okaloosa,12,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,12,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,12,President,,Howie Hawkins,GRE,0,0,0,0,0
+Okaloosa,12,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,12,President,,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,13,President,,Donald J. Trump,REP,,,,,"2,306"
+Okaloosa,13,President,,Joseph R. Biden,DEM,,,,,814
+Okaloosa,13,President,,Jo Jorgensen,LPF,,,,,37
+Okaloosa,13,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,13,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,13,President,,Howie Hawkins,GRE,,,,,4
+Okaloosa,13,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,13,President,,WRITE-IN,NON,,,,,5
+Okaloosa,14,President,,Donald J. Trump,REP,,,,,"1,725"
+Okaloosa,14,President,,Joseph R. Biden,DEM,,,,,700
+Okaloosa,14,President,,Jo Jorgensen,LPF,,,,,42
+Okaloosa,14,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,14,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,14,President,,Howie Hawkins,GRE,,,,,7
+Okaloosa,14,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,14,President,,WRITE-IN,NON,,,,,6
+Okaloosa,15,President,,Donald J. Trump,REP,,,,,"1,763"
+Okaloosa,15,President,,Joseph R. Biden,DEM,91,264,302,0,657
+Okaloosa,15,President,,Jo Jorgensen,LPF,,,,,51
+Okaloosa,15,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,15,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,15,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,15,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,15,President,,WRITE-IN,NON,,,,,7
+Okaloosa,16,President,,Donald J. Trump,REP,,,,,"1,541"
+Okaloosa,16,President,,Joseph R. Biden,DEM,,,,,763
+Okaloosa,16,President,,Jo Jorgensen,LPF,,,,,32
+Okaloosa,16,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,16,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,16,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,16,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,16,President,,WRITE-IN,NON,,,,,7
+Okaloosa,17,President,,Donald J. Trump,REP,,,,,"1,433"
+Okaloosa,17,President,,Joseph R. Biden,DEM,,,,,936
+Okaloosa,17,President,,Jo Jorgensen,LPF,,,,,59
+Okaloosa,17,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,17,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,17,President,,Howie Hawkins,GRE,,,,,5
+Okaloosa,17,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,17,President,,WRITE-IN,NON,,,,,13
+Okaloosa,18,President,,Donald J. Trump,REP,,,,,"1,382"
+Okaloosa,18,President,,Joseph R. Biden,DEM,,,,,681
+Okaloosa,18,President,,Jo Jorgensen,LPF,,,,,31
+Okaloosa,18,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,18,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,18,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,18,President,,Don Blankenship,CPF,,,,,3
+Okaloosa,18,President,,WRITE-IN,NON,,,,,3
+Okaloosa,19,President,,Donald J. Trump,REP,,,,,733
+Okaloosa,19,President,,Joseph R. Biden,DEM,,,,,615
+Okaloosa,19,President,,Jo Jorgensen,LPF,,,,,29
+Okaloosa,19,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,19,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,19,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,19,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,19,President,,WRITE-IN,NON,,,,,3
+Okaloosa,20,President,,Donald J. Trump,REP,,,,,"1,628"
+Okaloosa,20,President,,Joseph R. Biden,DEM,76,206,236,0,518
+Okaloosa,20,President,,Jo Jorgensen,LPF,,,,,25
+Okaloosa,20,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,4
+Okaloosa,20,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,20,President,,Howie Hawkins,GRE,0,0,0,0,0
+Okaloosa,20,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,20,President,,WRITE-IN,NON,,,,,11
+Okaloosa,21,President,,Donald J. Trump,REP,,,,,"1,501"
+Okaloosa,21,President,,Joseph R. Biden,DEM,,,,,667
+Okaloosa,21,President,,Jo Jorgensen,LPF,,,,,33
+Okaloosa,21,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,21,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,21,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,21,President,,Don Blankenship,CPF,,,,,2
+Okaloosa,21,President,,WRITE-IN,NON,,,,,6
+Okaloosa,22,President,,Donald J. Trump,REP,,,,,"1,099"
+Okaloosa,22,President,,Joseph R. Biden,DEM,102,222,283,0,607
+Okaloosa,22,President,,Jo Jorgensen,LPF,,,,,22
+Okaloosa,22,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,22,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,22,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,22,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,22,President,,WRITE-IN,NON,,,,,8
+Okaloosa,23,President,,Donald J. Trump,REP,,,,,260
+Okaloosa,23,President,,Joseph R. Biden,DEM,60,72,71,0,203
+Okaloosa,23,President,,Jo Jorgensen,LPF,,,,,22
+Okaloosa,23,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,23,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,23,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,23,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,23,President,,WRITE-IN,NON,,,,,1
+Okaloosa,24,President,,Donald J. Trump,REP,,,,,"1,388"
+Okaloosa,24,President,,Joseph R. Biden,DEM,,,,,905
+Okaloosa,24,President,,Jo Jorgensen,LPF,,,,,39
+Okaloosa,24,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,24,President,,Gloria La Riva,PSL,,,,,4
+Okaloosa,24,President,,Howie Hawkins,GRE,,,,,6
+Okaloosa,24,President,,Don Blankenship,CPF,,,,,2
+Okaloosa,24,President,,WRITE-IN,NON,,,,,8
+Okaloosa,25,President,,Donald J. Trump,REP,211,653,221,0,"1,085"
+Okaloosa,25,President,,Joseph R. Biden,DEM,55,216,176,0,447
+Okaloosa,25,President,,Jo Jorgensen,LPF,,,,,31
+Okaloosa,25,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,25,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,25,President,,Howie Hawkins,GRE,,,,,9
+Okaloosa,25,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,25,President,,WRITE-IN,NON,,,,,8
+Okaloosa,26,President,,Donald J. Trump,REP,,,,,"1,772"
+Okaloosa,26,President,,Joseph R. Biden,DEM,,,,,535
+Okaloosa,26,President,,Jo Jorgensen,LPF,,,,,37
+Okaloosa,26,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,26,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,26,President,,Howie Hawkins,GRE,,,,,5
+Okaloosa,26,President,,Don Blankenship,CPF,,,,,4
+Okaloosa,26,President,,WRITE-IN,NON,,,,,18
+Okaloosa,27,President,,Donald J. Trump,REP,,,,,136
+Okaloosa,27,President,,Joseph R. Biden,DEM,,,,,69
+Okaloosa,27,President,,Jo Jorgensen,LPF,,,,,6
+Okaloosa,27,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,27,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,27,President,,Howie Hawkins,GRE,0,0,0,0,0
+Okaloosa,27,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,27,President,,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,28,President,,Donald J. Trump,REP,,,,,227
+Okaloosa,28,President,,Joseph R. Biden,DEM,,,,,78
+Okaloosa,28,President,,Jo Jorgensen,LPF,,,,,3
+Okaloosa,28,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,28,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,28,President,,Howie Hawkins,GRE,0,0,0,0,0
+Okaloosa,28,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,28,President,,WRITE-IN,NON,,,,,1
+Okaloosa,29,President,,Donald J. Trump,REP,,,,,"1,243"
+Okaloosa,29,President,,Joseph R. Biden,DEM,,,,,476
+Okaloosa,29,President,,Jo Jorgensen,LPF,,,,,41
+Okaloosa,29,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,29,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,29,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,29,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,29,President,,WRITE-IN,NON,,,,,9
+Okaloosa,30,President,,Donald J. Trump,REP,243,423,276,0,942
+Okaloosa,30,President,,Joseph R. Biden,DEM,65,142,191,0,398
+Okaloosa,30,President,,Jo Jorgensen,LPF,,,,,18
+Okaloosa,30,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,30,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,30,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,30,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,30,President,,WRITE-IN,NON,,,,,4
+Okaloosa,31,President,,Donald J. Trump,REP,366,701,298,0,"1,365"
+Okaloosa,31,President,,Joseph R. Biden,DEM,59,166,278,0,503
+Okaloosa,31,President,,Jo Jorgensen,LPF,,,,,19
+Okaloosa,31,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,31,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,31,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,31,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,31,President,,WRITE-IN,NON,,,,,10
+Okaloosa,32,President,,Donald J. Trump,REP,,,,,"1,526"
+Okaloosa,32,President,,Joseph R. Biden,DEM,,,,,634
+Okaloosa,32,President,,Jo Jorgensen,LPF,,,,,18
+Okaloosa,32,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,32,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,32,President,,Howie Hawkins,GRE,,,,,5
+Okaloosa,32,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,32,President,,WRITE-IN,NON,,,,,5
+Okaloosa,33,President,,Donald J. Trump,REP,,,,,"3,078"
+Okaloosa,33,President,,Joseph R. Biden,DEM,92,489,508,0,"1,089"
+Okaloosa,33,President,,Jo Jorgensen,LPF,,,,,52
+Okaloosa,33,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,33,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,33,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,33,President,,Don Blankenship,CPF,,,,,2
+Okaloosa,33,President,,WRITE-IN,NON,,,,,18
+Okaloosa,34,President,,Donald J. Trump,REP,,,,,"1,737"
+Okaloosa,34,President,,Joseph R. Biden,DEM,,,,,"1,003"
+Okaloosa,34,President,,Jo Jorgensen,LPF,,,,,60
+Okaloosa,34,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,7
+Okaloosa,34,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,34,President,,Howie Hawkins,GRE,,,,,7
+Okaloosa,34,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,34,President,,WRITE-IN,NON,,,,,7
+Okaloosa,35,President,,Donald J. Trump,REP,,,,,"2,114"
+Okaloosa,35,President,,Joseph R. Biden,DEM,61,336,350,0,747
+Okaloosa,35,President,,Jo Jorgensen,LPF,,,,,32
+Okaloosa,35,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,35,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,35,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,35,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,35,President,,WRITE-IN,NON,,,,,4
+Okaloosa,36,President,,Donald J. Trump,REP,,,,,"1,713"
+Okaloosa,36,President,,Joseph R. Biden,DEM,62,264,328,0,654
+Okaloosa,36,President,,Jo Jorgensen,LPF,,,,,32
+Okaloosa,36,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,36,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,36,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,36,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,36,President,,WRITE-IN,NON,,,,,9
+Okaloosa,37,President,,Donald J. Trump,REP,,,,,"1,690"
+Okaloosa,37,President,,Joseph R. Biden,DEM,,,,,674
+Okaloosa,37,President,,Jo Jorgensen,LPF,,,,,43
+Okaloosa,37,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,37,President,,Gloria La Riva,PSL,,,,,4
+Okaloosa,37,President,,Howie Hawkins,GRE,,,,,4
+Okaloosa,37,President,,Don Blankenship,CPF,,,,,5
+Okaloosa,37,President,,WRITE-IN,NON,,,,,14
+Okaloosa,38,President,,Donald J. Trump,REP,325,580,267,0,"1,172"
+Okaloosa,38,President,,Joseph R. Biden,DEM,,,,,616
+Okaloosa,38,President,,Jo Jorgensen,LPF,,,,,26
+Okaloosa,38,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,38,President,,Gloria La Riva,PSL,,,,,3
+Okaloosa,38,President,,Howie Hawkins,GRE,,,,,4
+Okaloosa,38,President,,Don Blankenship,CPF,,,,,2
+Okaloosa,38,President,,WRITE-IN,NON,,,,,10
+Okaloosa,39,President,,Donald J. Trump,REP,,,,,"1,202"
+Okaloosa,39,President,,Joseph R. Biden,DEM,,,,,654
+Okaloosa,39,President,,Jo Jorgensen,LPF,,,,,35
+Okaloosa,39,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,39,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,39,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,39,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,39,President,,WRITE-IN,NON,,,,,6
+Okaloosa,40,President,,Donald J. Trump,REP,,,,,"1,872"
+Okaloosa,40,President,,Joseph R. Biden,DEM,,,,,704
+Okaloosa,40,President,,Jo Jorgensen,LPF,,,,,29
+Okaloosa,40,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,40,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,40,President,,Howie Hawkins,GRE,,,,,6
+Okaloosa,40,President,,Don Blankenship,CPF,,,,,5
+Okaloosa,40,President,,WRITE-IN,NON,,,,,11
+Okaloosa,41,President,,Donald J. Trump,REP,208,413,191,0,812
+Okaloosa,41,President,,Joseph R. Biden,DEM,48,138,158,0,344
+Okaloosa,41,President,,Jo Jorgensen,LPF,,,,,15
+Okaloosa,41,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,41,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,41,President,,Howie Hawkins,GRE,,,,,4
+Okaloosa,41,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,41,President,,WRITE-IN,NON,,,,,4
+Okaloosa,42,President,,Donald J. Trump,REP,,,,,923
+Okaloosa,42,President,,Joseph R. Biden,DEM,123,326,369,0,818
+Okaloosa,42,President,,Jo Jorgensen,LPF,,,,,27
+Okaloosa,42,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,42,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,42,President,,Howie Hawkins,GRE,,,,,5
+Okaloosa,42,President,,Don Blankenship,CPF,,,,,2
+Okaloosa,42,President,,WRITE-IN,NON,,,,,6
+Okaloosa,43,President,,Donald J. Trump,REP,268,817,280,0,"1,365"
+Okaloosa,43,President,,Joseph R. Biden,DEM,,,,,551
+Okaloosa,43,President,,Jo Jorgensen,LPF,,,,,32
+Okaloosa,43,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,43,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,43,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,43,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,43,President,,WRITE-IN,NON,,,,,3
+Okaloosa,44,President,,Donald J. Trump,REP,291,598,180,0,"1,069"
+Okaloosa,44,President,,Joseph R. Biden,DEM,85,187,175,0,447
+Okaloosa,44,President,,Jo Jorgensen,LPF,,,,,22
+Okaloosa,44,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,44,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,44,President,,Howie Hawkins,GRE,,,,,4
+Okaloosa,44,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,44,President,,WRITE-IN,NON,,,,,3
+Okaloosa,45,President,,Donald J. Trump,REP,,,,,"2,192"
+Okaloosa,45,President,,Joseph R. Biden,DEM,130,577,572,0,"1,279"
+Okaloosa,45,President,,Jo Jorgensen,LPF,,,,,97
+Okaloosa,45,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,45,President,,Gloria La Riva,PSL,,,,,1
+Okaloosa,45,President,,Howie Hawkins,GRE,,,,,6
+Okaloosa,45,President,,Don Blankenship,CPF,,,,,3
+Okaloosa,45,President,,WRITE-IN,NON,,,,,17
+Okaloosa,46,President,,Donald J. Trump,REP,,,,,"2,716"
+Okaloosa,46,President,,Joseph R. Biden,DEM,,,,,"1,072"
+Okaloosa,46,President,,Jo Jorgensen,LPF,,,,,66
+Okaloosa,46,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,46,President,,Gloria La Riva,PSL,,,,,3
+Okaloosa,46,President,,Howie Hawkins,GRE,,,,,10
+Okaloosa,46,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,46,President,,WRITE-IN,NON,,,,,21
+Okaloosa,47,President,,Donald J. Trump,REP,,,,,926
+Okaloosa,47,President,,Joseph R. Biden,DEM,,,,,467
+Okaloosa,47,President,,Jo Jorgensen,LPF,,,,,41
+Okaloosa,47,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,47,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,47,President,,Howie Hawkins,GRE,,,,,2
+Okaloosa,47,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,47,President,,WRITE-IN,NON,,,,,2
+Okaloosa,48,President,,Donald J. Trump,REP,,,,,59
+Okaloosa,48,President,,Joseph R. Biden,DEM,0,0,31,0,31
+Okaloosa,48,President,,Jo Jorgensen,LPF,0,0,0,0,0
+Okaloosa,48,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,48,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,48,President,,Howie Hawkins,GRE,0,0,0,0,0
+Okaloosa,48,President,,Don Blankenship,CPF,0,0,0,0,0
+Okaloosa,48,President,,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,49,President,,Donald J. Trump,REP,305,"1,222",628,0,"2,155"
+Okaloosa,49,President,,Joseph R. Biden,DEM,74,226,350,0,650
+Okaloosa,49,President,,Jo Jorgensen,LPF,,,,,21
+Okaloosa,49,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,49,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,49,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,49,President,,Don Blankenship,CPF,,,,,3
+Okaloosa,49,President,,WRITE-IN,NON,,,,,3
+Okaloosa,50,President,,Donald J. Trump,REP,238,"1,114",646,0,"1,998"
+Okaloosa,50,President,,Joseph R. Biden,DEM,,,,,614
+Okaloosa,50,President,,Jo Jorgensen,LPF,,,,,22
+Okaloosa,50,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Okaloosa,50,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,50,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,50,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,50,President,,WRITE-IN,NON,,,,,8
+Okaloosa,51,President,,Donald J. Trump,REP,280,800,217,0,"1,297"
+Okaloosa,51,President,,Joseph R. Biden,DEM,46,173,155,0,374
+Okaloosa,51,President,,Jo Jorgensen,LPF,,,,,23
+Okaloosa,51,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Okaloosa,51,President,,Gloria La Riva,PSL,0,0,0,0,0
+Okaloosa,51,President,,Howie Hawkins,GRE,,,,,1
+Okaloosa,51,President,,Don Blankenship,CPF,,,,,1
+Okaloosa,51,President,,WRITE-IN,NON,,,,,6
+Okaloosa,52,President,,Donald J. Trump,REP,,,,,"2,183"
+Okaloosa,52,President,,Joseph R. Biden,DEM,,,,,921
+Okaloosa,52,President,,Jo Jorgensen,LPF,,,,,78
+Okaloosa,52,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
+Okaloosa,52,President,,Gloria La Riva,PSL,,,,,2
+Okaloosa,52,President,,Howie Hawkins,GRE,,,,,9
+Okaloosa,52,President,,Don Blankenship,CPF,,,,,3
+Okaloosa,52,President,,WRITE-IN,NON,,,,,13
+Okaloosa,1,U.S. House,1,Matt Gaetz,REP,,,,,"1,887"
+Okaloosa,1,U.S. House,1,Phil Ehr,DEM,,,,,282
+Okaloosa,1,U.S. House,1,Albert Oram,NPA,,,,,39
+Okaloosa,2,U.S. House,1,Matt Gaetz,REP,324,119,81,0,524
+Okaloosa,2,U.S. House,1,Phil Ehr,DEM,,,,,65
+Okaloosa,2,U.S. House,1,Albert Oram,NPA,,,,,11
+Okaloosa,3,U.S. House,1,Matt Gaetz,REP,345,410,186,0,941
+Okaloosa,3,U.S. House,1,Phil Ehr,DEM,,,,,175
+Okaloosa,3,U.S. House,1,Albert Oram,NPA,,,,,16
+Okaloosa,4,U.S. House,1,Matt Gaetz,REP,,,,,929
+Okaloosa,4,U.S. House,1,Phil Ehr,DEM,71,53,58,0,182
+Okaloosa,4,U.S. House,1,Albert Oram,NPA,,,,,16
+Okaloosa,5,U.S. House,1,Matt Gaetz,REP,,,,,789
+Okaloosa,5,U.S. House,1,Phil Ehr,DEM,60,38,66,0,164
+Okaloosa,5,U.S. House,1,Albert Oram,NPA,,,,,10
+Okaloosa,6,U.S. House,1,Matt Gaetz,REP,,,,,"2,577"
+Okaloosa,6,U.S. House,1,Phil Ehr,DEM,87,297,290,0,674
+Okaloosa,6,U.S. House,1,Albert Oram,NPA,,,,,40
+Okaloosa,7,U.S. House,1,Matt Gaetz,REP,,,,,"1,131"
+Okaloosa,7,U.S. House,1,Phil Ehr,DEM,,,,,307
+Okaloosa,7,U.S. House,1,Albert Oram,NPA,,,,,31
+Okaloosa,8,U.S. House,1,Matt Gaetz,REP,,,,,"2,532"
+Okaloosa,8,U.S. House,1,Phil Ehr,DEM,,,,,911
+Okaloosa,8,U.S. House,1,Albert Oram,NPA,,,,,70
+Okaloosa,9,U.S. House,1,Matt Gaetz,REP,,,,,"2,370"
+Okaloosa,9,U.S. House,1,Phil Ehr,DEM,107,409,420,0,936
+Okaloosa,9,U.S. House,1,Albert Oram,NPA,,,,,67
+Okaloosa,10,U.S. House,1,Matt Gaetz,REP,,,,,"2,889"
+Okaloosa,10,U.S. House,1,Phil Ehr,DEM,,,,,"1,890"
+Okaloosa,10,U.S. House,1,Albert Oram,NPA,,,,,96
+Okaloosa,11,U.S. House,1,Matt Gaetz,REP,,,,,"5,216"
+Okaloosa,11,U.S. House,1,Phil Ehr,DEM,,,,,"3,363"
+Okaloosa,11,U.S. House,1,Albert Oram,NPA,,,,,142
+Okaloosa,12,U.S. House,1,Matt Gaetz,REP,50,121,58,0,229
+Okaloosa,12,U.S. House,1,Phil Ehr,DEM,117,156,150,0,423
+Okaloosa,12,U.S. House,1,Albert Oram,NPA,,,,,11
+Okaloosa,13,U.S. House,1,Matt Gaetz,REP,,,,,"2,233"
+Okaloosa,13,U.S. House,1,Phil Ehr,DEM,,,,,845
+Okaloosa,13,U.S. House,1,Albert Oram,NPA,,,,,49
+Okaloosa,14,U.S. House,1,Matt Gaetz,REP,,,,,"1,689"
+Okaloosa,14,U.S. House,1,Phil Ehr,DEM,,,,,728
+Okaloosa,14,U.S. House,1,Albert Oram,NPA,,,,,37
+Okaloosa,15,U.S. House,1,Matt Gaetz,REP,,,,,"1,695"
+Okaloosa,15,U.S. House,1,Phil Ehr,DEM,120,292,296,0,708
+Okaloosa,15,U.S. House,1,Albert Oram,NPA,,,,,52
+Okaloosa,16,U.S. House,1,Matt Gaetz,REP,,,,,"1,508"
+Okaloosa,16,U.S. House,1,Phil Ehr,DEM,,,,,771
+Okaloosa,16,U.S. House,1,Albert Oram,NPA,,,,,36
+Okaloosa,17,U.S. House,1,Matt Gaetz,REP,,,,,"1,393"
+Okaloosa,17,U.S. House,1,Phil Ehr,DEM,,,,,958
+Okaloosa,17,U.S. House,1,Albert Oram,NPA,,,,,57
+Okaloosa,18,U.S. House,1,Matt Gaetz,REP,,,,,"1,331"
+Okaloosa,18,U.S. House,1,Phil Ehr,DEM,,,,,695
+Okaloosa,18,U.S. House,1,Albert Oram,NPA,,,,,38
+Okaloosa,19,U.S. House,1,Matt Gaetz,REP,,,,,741
+Okaloosa,19,U.S. House,1,Phil Ehr,DEM,,,,,594
+Okaloosa,19,U.S. House,1,Albert Oram,NPA,,,,,26
+Okaloosa,20,U.S. House,1,Matt Gaetz,REP,,,,,"1,568"
+Okaloosa,20,U.S. House,1,Phil Ehr,DEM,,,,,550
+Okaloosa,20,U.S. House,1,Albert Oram,NPA,,,,,33
+Okaloosa,21,U.S. House,1,Matt Gaetz,REP,,,,,"1,441"
+Okaloosa,21,U.S. House,1,Phil Ehr,DEM,,,,,701
+Okaloosa,21,U.S. House,1,Albert Oram,NPA,,,,,46
+Okaloosa,22,U.S. House,1,Matt Gaetz,REP,,,,,"1,058"
+Okaloosa,22,U.S. House,1,Phil Ehr,DEM,115,233,290,0,638
+Okaloosa,22,U.S. House,1,Albert Oram,NPA,,,,,26
+Okaloosa,23,U.S. House,1,Matt Gaetz,REP,,,,,268
+Okaloosa,23,U.S. House,1,Phil Ehr,DEM,64,65,62,0,191
+Okaloosa,23,U.S. House,1,Albert Oram,NPA,,,,,21
+Okaloosa,24,U.S. House,1,Matt Gaetz,REP,,,,,"1,356"
+Okaloosa,24,U.S. House,1,Phil Ehr,DEM,,,,,916
+Okaloosa,24,U.S. House,1,Albert Oram,NPA,,,,,50
+Okaloosa,25,U.S. House,1,Matt Gaetz,REP,204,633,212,0,"1,049"
+Okaloosa,25,U.S. House,1,Phil Ehr,DEM,62,234,188,0,484
+Okaloosa,25,U.S. House,1,Albert Oram,NPA,,,,,24
+Okaloosa,26,U.S. House,1,Matt Gaetz,REP,,,,,"1,760"
+Okaloosa,26,U.S. House,1,Phil Ehr,DEM,83,196,279,0,558
+Okaloosa,26,U.S. House,1,Albert Oram,NPA,,,,,25
+Okaloosa,27,U.S. House,1,Matt Gaetz,REP,,,,,132
+Okaloosa,27,U.S. House,1,Phil Ehr,DEM,,,,,71
+Okaloosa,27,U.S. House,1,Albert Oram,NPA,,,,,4
+Okaloosa,28,U.S. House,1,Matt Gaetz,REP,,,,,209
+Okaloosa,28,U.S. House,1,Phil Ehr,DEM,,,,,89
+Okaloosa,28,U.S. House,1,Albert Oram,NPA,,,,,4
+Okaloosa,29,U.S. House,1,Matt Gaetz,REP,,,,,"1,208"
+Okaloosa,29,U.S. House,1,Phil Ehr,DEM,,,,,505
+Okaloosa,29,U.S. House,1,Albert Oram,NPA,,,,,30
+Okaloosa,30,U.S. House,1,Matt Gaetz,REP,231,418,272,0,921
+Okaloosa,30,U.S. House,1,Phil Ehr,DEM,75,146,180,0,401
+Okaloosa,30,U.S. House,1,Albert Oram,NPA,,,,,20
+Okaloosa,31,U.S. House,1,Matt Gaetz,REP,348,672,303,0,"1,323"
+Okaloosa,31,U.S. House,1,Phil Ehr,DEM,62,196,266,0,524
+Okaloosa,31,U.S. House,1,Albert Oram,NPA,,,,,21
+Okaloosa,32,U.S. House,1,Matt Gaetz,REP,,,,,"1,466"
+Okaloosa,32,U.S. House,1,Phil Ehr,DEM,,,,,675
+Okaloosa,32,U.S. House,1,Albert Oram,NPA,,,,,24
+Okaloosa,33,U.S. House,1,Matt Gaetz,REP,,,,,"3,032"
+Okaloosa,33,U.S. House,1,Phil Ehr,DEM,101,528,498,0,"1,127"
+Okaloosa,33,U.S. House,1,Albert Oram,NPA,,,,,44
+Okaloosa,34,U.S. House,1,Matt Gaetz,REP,,,,,"1,707"
+Okaloosa,34,U.S. House,1,Phil Ehr,DEM,,,,,"1,027"
+Okaloosa,34,U.S. House,1,Albert Oram,NPA,,,,,48
+Okaloosa,35,U.S. House,1,Matt Gaetz,REP,,,,,"2,077"
+Okaloosa,35,U.S. House,1,Phil Ehr,DEM,63,343,346,0,752
+Okaloosa,35,U.S. House,1,Albert Oram,NPA,,,,,38
+Okaloosa,36,U.S. House,1,Matt Gaetz,REP,,,,,"1,664"
+Okaloosa,36,U.S. House,1,Phil Ehr,DEM,63,290,316,0,669
+Okaloosa,36,U.S. House,1,Albert Oram,NPA,,,,,36
+Okaloosa,37,U.S. House,1,Matt Gaetz,REP,,,,,"1,661"
+Okaloosa,37,U.S. House,1,Phil Ehr,DEM,,,,,721
+Okaloosa,37,U.S. House,1,Albert Oram,NPA,,,,,38
+Okaloosa,38,U.S. House,1,Matt Gaetz,REP,302,569,265,0,"1,136"
+Okaloosa,38,U.S. House,1,Phil Ehr,DEM,,,,,640
+Okaloosa,38,U.S. House,1,Albert Oram,NPA,,,,,26
+Okaloosa,39,U.S. House,1,Matt Gaetz,REP,,,,,"1,184"
+Okaloosa,39,U.S. House,1,Phil Ehr,DEM,,,,,649
+Okaloosa,39,U.S. House,1,Albert Oram,NPA,,,,,37
+Okaloosa,40,U.S. House,1,Matt Gaetz,REP,,,,,"1,852"
+Okaloosa,40,U.S. House,1,Phil Ehr,DEM,77,260,388,0,725
+Okaloosa,40,U.S. House,1,Albert Oram,NPA,,,,,25
+Okaloosa,41,U.S. House,1,Matt Gaetz,REP,202,397,201,0,800
+Okaloosa,41,U.S. House,1,Phil Ehr,DEM,52,147,148,0,347
+Okaloosa,41,U.S. House,1,Albert Oram,NPA,,,,,14
+Okaloosa,42,U.S. House,1,Matt Gaetz,REP,,,,,923
+Okaloosa,42,U.S. House,1,Phil Ehr,DEM,125,321,368,0,814
+Okaloosa,42,U.S. House,1,Albert Oram,NPA,,,,,28
+Okaloosa,43,U.S. House,1,Matt Gaetz,REP,255,784,275,0,"1,314"
+Okaloosa,43,U.S. House,1,Phil Ehr,DEM,,,,,589
+Okaloosa,43,U.S. House,1,Albert Oram,NPA,,,,,32
+Okaloosa,44,U.S. House,1,Matt Gaetz,REP,289,586,172,0,"1,047"
+Okaloosa,44,U.S. House,1,Phil Ehr,DEM,81,185,168,0,434
+Okaloosa,44,U.S. House,1,Albert Oram,NPA,,,,,25
+Okaloosa,45,U.S. House,1,Matt Gaetz,REP,,,,,"2,149"
+Okaloosa,45,U.S. House,1,Phil Ehr,DEM,133,581,564,0,"1,278"
+Okaloosa,45,U.S. House,1,Albert Oram,NPA,,,,,89
+Okaloosa,46,U.S. House,1,Matt Gaetz,REP,,,,,"2,688"
+Okaloosa,46,U.S. House,1,Phil Ehr,DEM,,,,,"1,086"
+Okaloosa,46,U.S. House,1,Albert Oram,NPA,,,,,60
+Okaloosa,47,U.S. House,1,Matt Gaetz,REP,,,,,895
+Okaloosa,47,U.S. House,1,Phil Ehr,DEM,,,,,492
+Okaloosa,47,U.S. House,1,Albert Oram,NPA,,,,,27
+Okaloosa,48,U.S. House,1,Matt Gaetz,REP,,,,,63
+Okaloosa,48,U.S. House,1,Phil Ehr,DEM,,,,,25
+Okaloosa,48,U.S. House,1,Albert Oram,NPA,,,,,1
+Okaloosa,49,U.S. House,1,Matt Gaetz,REP,296,"1,197",629,0,"2,122"
+Okaloosa,49,U.S. House,1,Phil Ehr,DEM,68,234,350,0,652
+Okaloosa,49,U.S. House,1,Albert Oram,NPA,,,,,26
+Okaloosa,50,U.S. House,1,Matt Gaetz,REP,229,"1,086",665,0,"1,980"
+Okaloosa,50,U.S. House,1,Phil Ehr,DEM,32,208,355,0,595
+Okaloosa,50,U.S. House,1,Albert Oram,NPA,,,,,32
+Okaloosa,51,U.S. House,1,Matt Gaetz,REP,263,786,206,0,"1,255"
+Okaloosa,51,U.S. House,1,Phil Ehr,DEM,58,185,156,0,399
+Okaloosa,51,U.S. House,1,Albert Oram,NPA,,,,,24
+Okaloosa,52,U.S. House,1,Matt Gaetz,REP,,,,,"2,123"
+Okaloosa,52,U.S. House,1,Phil Ehr,DEM,,,,,971
+Okaloosa,52,U.S. House,1,Albert Oram,NPA,,,,,55
+Okaloosa,3,State Senate,1,Douglas V. Broxson,REP,,,,,96
+Okaloosa,3,State Senate,1,Karen M. Butler,DEM,,,,,19
+Okaloosa,4,State Senate,1,Douglas V. Broxson,REP,148,87,44,0,279
+Okaloosa,4,State Senate,1,Karen M. Butler,DEM,,,,,59
+Okaloosa,10,State Senate,1,Douglas V. Broxson,REP,,,,,"2,032"
+Okaloosa,10,State Senate,1,Karen M. Butler,DEM,,,,,"1,400"
+Okaloosa,17,State Senate,1,Douglas V. Broxson,REP,,,,,69
+Okaloosa,17,State Senate,1,Karen M. Butler,DEM,,,,,68
+Okaloosa,23,State Senate,1,Douglas V. Broxson,REP,0,0,0,0,0
+Okaloosa,23,State Senate,1,Karen M. Butler,DEM,0,0,0,0,0
+Okaloosa,29,State Senate,1,Douglas V. Broxson,REP,,,,,32
+Okaloosa,29,State Senate,1,Karen M. Butler,DEM,,,,,13
+Okaloosa,34,State Senate,1,Douglas V. Broxson,REP,,,,,"1,754"
+Okaloosa,34,State Senate,1,Karen M. Butler,DEM,,,,,981
+Okaloosa,38,State Senate,1,Douglas V. Broxson,REP,311,582,284,0,"1,177"
+Okaloosa,38,State Senate,1,Karen M. Butler,DEM,,,,,602
+Okaloosa,42,State Senate,1,Douglas V. Broxson,REP,,,,,903
+Okaloosa,42,State Senate,1,Karen M. Butler,DEM,102,240,310,0,652
+Okaloosa,45,State Senate,1,Douglas V. Broxson,REP,,,,,110
+Okaloosa,45,State Senate,1,Karen M. Butler,DEM,,,,,13
+Okaloosa,47,State Senate,1,Douglas V. Broxson,REP,,,,,926
+Okaloosa,47,State Senate,1,Karen M. Butler,DEM,,,,,473
+Okaloosa,1,State House,3,Jayer Williamson,REP,,,,,"1,899"
+Okaloosa,1,State House,3,Angela L. Hoover,DEM,65,96,93,0,254
+Okaloosa,2,State House,3,Jayer Williamson,REP,327,121,83,0,531
+Okaloosa,2,State House,3,Angela L. Hoover,DEM,,,,,55
+Okaloosa,3,State House,3,Jayer Williamson,REP,306,372,168,0,846
+Okaloosa,3,State House,3,Angela L. Hoover,DEM,,,,,146
+Okaloosa,4,State House,3,Jayer Williamson,REP,,,,,673
+Okaloosa,4,State House,3,Angela L. Hoover,DEM,,,,,98
+Okaloosa,5,State House,3,Jayer Williamson,REP,,,,,793
+Okaloosa,5,State House,3,Angela L. Hoover,DEM,60,34,62,0,156
+Okaloosa,6,State House,3,Jayer Williamson,REP,,,,,"2,594"
+Okaloosa,6,State House,3,Angela L. Hoover,DEM,87,260,284,0,631
+Okaloosa,7,State House,3,Jayer Williamson,REP,,,,,"1,126"
+Okaloosa,7,State House,3,Angela L. Hoover,DEM,53,124,128,0,305
+Okaloosa,8,State House,3,Jayer Williamson,REP,,,,,"1,681"
+Okaloosa,8,State House,3,Angela L. Hoover,DEM,65,217,211,0,493
+Okaloosa,13,State House,3,Jayer Williamson,REP,,,,,893
+Okaloosa,13,State House,3,Angela L. Hoover,DEM,,,,,264
+Okaloosa,51,State House,3,Jayer Williamson,REP,266,781,217,0,"1,264"
+Okaloosa,51,State House,3,Angela L. Hoover,DEM,55,171,146,0,372
+Okaloosa,3,State House,4,Patt Maney,REP,,,,,92
+Okaloosa,3,State House,4,John Plante,DEM,,,,,17
+Okaloosa,3,State House,4,WRITE-IN,NON,,,,,1
+Okaloosa,4,State House,4,Patt Maney,REP,147,80,43,0,270
+Okaloosa,4,State House,4,John Plante,DEM,,,,,60
+Okaloosa,4,State House,4,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,7,State House,4,Patt Maney,REP,,,,,3
+Okaloosa,7,State House,4,John Plante,DEM,,,,,2
+Okaloosa,7,State House,4,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,8,State House,4,Patt Maney,REP,,,,,855
+Okaloosa,8,State House,4,John Plante,DEM,,,,,363
+Okaloosa,8,State House,4,WRITE-IN,NON,,,,,5
+Okaloosa,9,State House,4,Patt Maney,REP,,,,,"2,464"
+Okaloosa,9,State House,4,John Plante,DEM,95,357,391,0,843
+Okaloosa,9,State House,4,WRITE-IN,NON,,,,,10
+Okaloosa,10,State House,4,Patt Maney,REP,,,,,"3,123"
+Okaloosa,10,State House,4,John Plante,DEM,,,,,"1,664"
+Okaloosa,10,State House,4,WRITE-IN,NON,,,,,8
+Okaloosa,11,State House,4,Patt Maney,REP,,,,,"5,432"
+Okaloosa,11,State House,4,John Plante,DEM,,,,,"3,094"
+Okaloosa,11,State House,4,WRITE-IN,NON,,,,,8
+Okaloosa,12,State House,4,Patt Maney,REP,54,132,57,0,243
+Okaloosa,12,State House,4,John Plante,DEM,112,141,152,0,405
+Okaloosa,12,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,13,State House,4,Patt Maney,REP,,,,,"1,416"
+Okaloosa,13,State House,4,John Plante,DEM,,,,,477
+Okaloosa,13,State House,4,WRITE-IN,NON,,,,,4
+Okaloosa,14,State House,4,Patt Maney,REP,,,,,"1,800"
+Okaloosa,14,State House,4,John Plante,DEM,,,,,617
+Okaloosa,14,State House,4,WRITE-IN,NON,,,,,7
+Okaloosa,15,State House,4,Patt Maney,REP,,,,,"1,814"
+Okaloosa,15,State House,4,John Plante,DEM,87,256,250,0,593
+Okaloosa,15,State House,4,WRITE-IN,NON,,,,,4
+Okaloosa,16,State House,4,Patt Maney,REP,,,,,"1,638"
+Okaloosa,16,State House,4,John Plante,DEM,82,267,290,0,639
+Okaloosa,16,State House,4,WRITE-IN,NON,,,,,5
+Okaloosa,17,State House,4,Patt Maney,REP,,,,,"1,512"
+Okaloosa,17,State House,4,John Plante,DEM,,,,,844
+Okaloosa,17,State House,4,WRITE-IN,NON,,,,,5
+Okaloosa,18,State House,4,Patt Maney,REP,,,,,"1,441"
+Okaloosa,18,State House,4,John Plante,DEM,108,228,243,0,579
+Okaloosa,18,State House,4,WRITE-IN,NON,,,,,9
+Okaloosa,19,State House,4,Patt Maney,REP,,,,,817
+Okaloosa,19,State House,4,John Plante,DEM,,,,,521
+Okaloosa,19,State House,4,WRITE-IN,NON,,,,,5
+Okaloosa,20,State House,4,Patt Maney,REP,,,,,"1,644"
+Okaloosa,20,State House,4,John Plante,DEM,,,,,434
+Okaloosa,20,State House,4,WRITE-IN,NON,,,,,6
+Okaloosa,21,State House,4,Patt Maney,REP,,,,,"1,581"
+Okaloosa,21,State House,4,John Plante,DEM,,,,,556
+Okaloosa,21,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,22,State House,4,Patt Maney,REP,,,,,"1,161"
+Okaloosa,22,State House,4,John Plante,DEM,93,189,247,0,529
+Okaloosa,22,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,23,State House,4,Patt Maney,REP,,,,,283
+Okaloosa,23,State House,4,John Plante,DEM,60,67,60,0,187
+Okaloosa,23,State House,4,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,24,State House,4,Patt Maney,REP,,,,,"1,467"
+Okaloosa,24,State House,4,John Plante,DEM,,,,,806
+Okaloosa,24,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,25,State House,4,Patt Maney,REP,212,673,244,0,"1,129"
+Okaloosa,25,State House,4,John Plante,DEM,52,190,160,0,402
+Okaloosa,25,State House,4,WRITE-IN,NON,,,,,3
+Okaloosa,26,State House,4,Patt Maney,REP,,,,,"1,838"
+Okaloosa,26,State House,4,John Plante,DEM,61,162,226,0,449
+Okaloosa,26,State House,4,WRITE-IN,NON,,,,,7
+Okaloosa,27,State House,4,Patt Maney,REP,45,65,36,0,146
+Okaloosa,27,State House,4,John Plante,DEM,,,,,58
+Okaloosa,27,State House,4,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,28,State House,4,Patt Maney,REP,,,,,225
+Okaloosa,28,State House,4,John Plante,DEM,,,,,72
+Okaloosa,28,State House,4,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,29,State House,4,Patt Maney,REP,,,,,"1,333"
+Okaloosa,29,State House,4,John Plante,DEM,,,,,364
+Okaloosa,29,State House,4,WRITE-IN,NON,,,,,3
+Okaloosa,30,State House,4,Patt Maney,REP,254,420,298,0,972
+Okaloosa,30,State House,4,John Plante,DEM,50,123,152,0,325
+Okaloosa,30,State House,4,WRITE-IN,NON,,,,,1
+Okaloosa,31,State House,4,Patt Maney,REP,366,727,355,0,"1,448"
+Okaloosa,31,State House,4,John Plante,DEM,42,130,209,0,381
+Okaloosa,31,State House,4,WRITE-IN,NON,0,0,0,0,0
+Okaloosa,32,State House,4,Patt Maney,REP,,,,,"1,624"
+Okaloosa,32,State House,4,John Plante,DEM,,,,,505
+Okaloosa,32,State House,4,WRITE-IN,NON,,,,,4
+Okaloosa,33,State House,4,Patt Maney,REP,,,,,"3,319"
+Okaloosa,33,State House,4,John Plante,DEM,71,376,375,0,822
+Okaloosa,33,State House,4,WRITE-IN,NON,,,,,3
+Okaloosa,34,State House,4,Patt Maney,REP,,,,,"1,822"
+Okaloosa,34,State House,4,John Plante,DEM,,,,,899
+Okaloosa,34,State House,4,WRITE-IN,NON,,,,,4
+Okaloosa,35,State House,4,Patt Maney,REP,,,,,"2,162"
+Okaloosa,35,State House,4,John Plante,DEM,53,288,291,0,632
+Okaloosa,35,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,36,State House,4,Patt Maney,REP,,,,,"1,795"
+Okaloosa,36,State House,4,John Plante,DEM,53,235,250,0,538
+Okaloosa,36,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,37,State House,4,Patt Maney,REP,,,,,"1,859"
+Okaloosa,37,State House,4,John Plante,DEM,,,,,526
+Okaloosa,37,State House,4,WRITE-IN,NON,,,,,5
+Okaloosa,38,State House,4,Patt Maney,REP,319,601,311,0,"1,231"
+Okaloosa,38,State House,4,John Plante,DEM,,,,,549
+Okaloosa,38,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,39,State House,4,Patt Maney,REP,,,,,"1,272"
+Okaloosa,39,State House,4,John Plante,DEM,,,,,566
+Okaloosa,39,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,40,State House,4,Patt Maney,REP,,,,,"1,988"
+Okaloosa,40,State House,4,John Plante,DEM,,,,,552
+Okaloosa,40,State House,4,WRITE-IN,NON,,,,,3
+Okaloosa,41,State House,4,Patt Maney,REP,212,431,221,0,864
+Okaloosa,41,State House,4,John Plante,DEM,40,112,127,0,279
+Okaloosa,41,State House,4,WRITE-IN,NON,,,,,1
+Okaloosa,42,State House,4,Patt Maney,REP,,,,,"1,001"
+Okaloosa,42,State House,4,John Plante,DEM,124,274,329,0,727
+Okaloosa,42,State House,4,WRITE-IN,NON,,,,,1
+Okaloosa,43,State House,4,Patt Maney,REP,,,,,"1,414"
+Okaloosa,43,State House,4,John Plante,DEM,59,207,211,0,477
+Okaloosa,43,State House,4,WRITE-IN,NON,,,,,5
+Okaloosa,44,State House,4,Patt Maney,REP,284,608,182,0,"1,074"
+Okaloosa,44,State House,4,John Plante,DEM,80,150,150,0,380
+Okaloosa,44,State House,4,WRITE-IN,NON,,,,,2
+Okaloosa,45,State House,4,Patt Maney,REP,,,,,"2,285"
+Okaloosa,45,State House,4,John Plante,DEM,125,505,529,0,"1,159"
+Okaloosa,45,State House,4,WRITE-IN,NON,,,,,10
+Okaloosa,46,State House,4,Patt Maney,REP,,,,,"2,874"
+Okaloosa,46,State House,4,John Plante,DEM,,,,,854
+Okaloosa,46,State House,4,WRITE-IN,NON,,,,,6
+Okaloosa,47,State House,4,Patt Maney,REP,,,,,971
+Okaloosa,47,State House,4,John Plante,DEM,,,,,418
+Okaloosa,47,State House,4,WRITE-IN,NON,,,,,3
+Okaloosa,48,State House,4,Patt Maney,REP,,,,,62
+Okaloosa,48,State House,4,John Plante,DEM,,,,,23
+Okaloosa,48,State House,4,WRITE-IN,NON,,,,,1
+Okaloosa,49,State House,4,Patt Maney,REP,300,"1,207",672,0,"2,179"
+Okaloosa,49,State House,4,John Plante,DEM,65,198,291,0,554
+Okaloosa,49,State House,4,WRITE-IN,NON,,,,,1
+Okaloosa,50,State House,4,Patt Maney,REP,236,"1,105",689,0,"2,030"
+Okaloosa,50,State House,4,John Plante,DEM,,,,,507
+Okaloosa,50,State House,4,WRITE-IN,NON,,,,,1
+Okaloosa,52,State House,4,Patt Maney,REP,,,,,"2,235"
+Okaloosa,52,State House,4,John Plante,DEM,,,,,835
+Okaloosa,52,State House,4,WRITE-IN,NON,,,,,12

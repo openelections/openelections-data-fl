@@ -1,0 +1,674 @@
+county,precinct,office,district,candidate,party,provisional,absentee,early_voting,election_day,votes
+Bradford,Precinct 1,President,,Trump and Pence,REP,0,309,485,464,1258
+Bradford,Precinct 2,President,,Trump and Pence,REP,0,96,124,83,303
+Bradford,Precinct 3,President,,Trump and Pence,REP,0,102,223,136,461
+Bradford,Precinct 4,President,,Trump and Pence,REP,0,172,430,327,929
+Bradford,Precinct 5,President,,Trump and Pence,REP,0,243,396,277,916
+Bradford,Precinct 6,President,,Trump and Pence,REP,0,140,249,210,599
+Bradford,Precinct 7,President,,Trump and Pence,REP,0,116,168,101,385
+Bradford,Precinct 8,President,,Trump and Pence,REP,0,288,474,360,1122
+Bradford,Precinct 9,President,,Trump and Pence,REP,0,181,318,192,691
+Bradford,Precinct 10,President,,Trump and Pence,REP,0,170,274,297,741
+Bradford,Precinct 11,President,,Trump and Pence,REP,0,171,331,323,825
+Bradford,Precinct 12,President,,Trump and Pence,REP,0,315,416,450,1181
+Bradford,Precinct 13,President,,Trump and Pence,REP,0,86,93,214,393
+Bradford,Precinct 14,President,,Trump and Pence,REP,0,125,123,282,530
+Bradford,Precinct 1,President,,Biden and Harris,DEM,-,-,-,-,128
+Bradford,Precinct 2,President,,Biden and Harris,DEM,0,94,111,93,298
+Bradford,Precinct 3,President,,Biden and Harris,DEM,-,-,-,-,58
+Bradford,Precinct 4,President,,Biden and Harris,DEM,-,-,-,-,177
+Bradford,Precinct 5,President,,Biden and Harris,DEM,0,177,212,80,469
+Bradford,Precinct 6,President,,Biden and Harris,DEM,-,-,-,-,72
+Bradford,Precinct 7,President,,Biden and Harris,DEM,0,143,168,163,474
+Bradford,Precinct 8,President,,Biden and Harris,DEM,0,137,126,64,327
+Bradford,Precinct 9,President,,Biden and Harris,DEM,-,-,-,-,321
+Bradford,Precinct 10,President,,Biden and Harris,DEM,-,-,-,-,81
+Bradford,Precinct 11,President,,Biden and Harris,DEM,0,84,49,39,172
+Bradford,Precinct 12,President,,Biden and Harris,DEM,0,216,134,81,431
+Bradford,Precinct 13,President,,Biden and Harris,DEM,-,-,-,-,43
+Bradford,Precinct 14,President,,Biden and Harris,DEM,-,-,-,-,109
+Bradford,Precinct 1,President,,Jorgensen and Cohen,LPF,-,-,-,-,9
+Bradford,Precinct 2,President,,Jorgensen and Cohen,LPF,-,-,-,-,3
+Bradford,Precinct 3,President,,Jorgensen and Cohen,LPF,-,-,-,-,2
+Bradford,Precinct 4,President,,Jorgensen and Cohen,LPF,-,-,-,-,8
+Bradford,Precinct 5,President,,Jorgensen and Cohen,LPF,-,-,-,-,20
+Bradford,Precinct 6,President,,Jorgensen and Cohen,LPF,-,-,-,-,3
+Bradford,Precinct 7,President,,Jorgensen and Cohen,LPF,-,-,-,-,8
+Bradford,Precinct 8,President,,Jorgensen and Cohen,LPF,-,-,-,-,23
+Bradford,Precinct 9,President,,Jorgensen and Cohen,LPF,-,-,-,-,6
+Bradford,Precinct 10,President,,Jorgensen and Cohen,LPF,-,-,-,-,1
+Bradford,Precinct 11,President,,Jorgensen and Cohen,LPF,-,-,-,-,9
+Bradford,Precinct 12,President,,Jorgensen and Cohen,LPF,-,-,-,-,10
+Bradford,Precinct 13,President,,Jorgensen and Cohen,LPF,-,-,-,-,5
+Bradford,Precinct 14,President,,Jorgensen and Cohen,LPF,-,-,-,-,3
+Bradford,Precinct 1,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 2,President,,De La Fuente and Richardson,REF,-,-,-,-,1
+Bradford,Precinct 3,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 4,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 5,President,,De La Fuente and Richardson,REF,-,-,-,-,2
+Bradford,Precinct 6,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 7,President,,De La Fuente and Richardson,REF,-,-,-,-,2
+Bradford,Precinct 8,President,,De La Fuente and Richardson,REF,-,-,-,-,1
+Bradford,Precinct 9,President,,De La Fuente and Richardson,REF,-,-,-,-,1
+Bradford,Precinct 10,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 11,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 12,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 13,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 14,President,,De La Fuente and Richardson,REF,0,0,0,0,0
+Bradford,Precinct 1,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 2,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 3,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 4,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 5,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 6,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 7,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 8,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 9,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 10,President,,La Riva and Freeman,PSL,-,-,-,-,1
+Bradford,Precinct 11,President,,La Riva and Freeman,PSL,-,-,-,-,1
+Bradford,Precinct 12,President,,La Riva and Freeman,PSL,-,-,-,-,1
+Bradford,Precinct 13,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 14,President,,La Riva and Freeman,PSL,0,0,0,0,0
+Bradford,Precinct 1,President,,Hawkins and Walker,GRE,-,-,-,-,1
+Bradford,Precinct 2,President,,Hawkins and Walker,GRE,-,-,-,-,2
+Bradford,Precinct 3,President,,Hawkins and Walker,GRE,-,-,-,-,1
+Bradford,Precinct 4,President,,Hawkins and Walker,GRE,0,0,0,0,0
+Bradford,Precinct 5,President,,Hawkins and Walker,GRE,0,0,0,0,0
+Bradford,Precinct 6,President,,Hawkins and Walker,GRE,0,0,0,0,0
+Bradford,Precinct 7,President,,Hawkins and Walker,GRE,-,-,-,-,1
+Bradford,Precinct 8,President,,Hawkins and Walker,GRE,0,0,0,0,0
+Bradford,Precinct 9,President,,Hawkins and Walker,GRE,-,-,-,-,2
+Bradford,Precinct 10,President,,Hawkins and Walker,GRE,-,-,-,-,2
+Bradford,Precinct 11,President,,Hawkins and Walker,GRE,-,-,-,-,1
+Bradford,Precinct 12,President,,Hawkins and Walker,GRE,-,-,-,-,1
+Bradford,Precinct 13,President,,Hawkins and Walker,GRE,0,0,0,0,0
+Bradford,Precinct 14,President,,Hawkins and Walker,GRE,0,0,0,0,0
+Bradford,Precinct 1,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 2,President,, Blankenship and Mohr,CPF,-,-,-,-,1
+Bradford,Precinct 3,President,, Blankenship and Mohr,CPF,-,-,-,-,1
+Bradford,Precinct 4,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 5,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 6,President,, Blankenship and Mohr,CPF,-,-,-,-,1
+Bradford,Precinct 7,President,, Blankenship and Mohr,CPF,-,-,-,-,2
+Bradford,Precinct 8,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 9,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 10,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 11,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 12,President,, Blankenship and Mohr,CPF,-,-,-,-,1
+Bradford,Precinct 13,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 14,President,, Blankenship and Mohr,CPF,0,0,0,0,0
+Bradford,Precinct 1,President,,WRITE-IN,NON,-,-,-,-,1
+Bradford,Precinct 2,President,,WRITE-IN,NON,-,-,-,-,1
+Bradford,Precinct 3,President,,WRITE-IN,NON,0,0,0,0,0
+Bradford,Precinct 4,President,,WRITE-IN,NON,-,-,-,-,1
+Bradford,Precinct 5,President,,WRITE-IN,NON,-,-,-,-,1
+Bradford,Precinct 6,President,,WRITE-IN,NON,0,0,0,0,0
+Bradford,Precinct 7,President,,WRITE-IN,NON,-,-,-,-,3
+Bradford,Precinct 8,President,,WRITE-IN,NON,-,-,-,-,2
+Bradford,Precinct 9,President,,WRITE-IN,NON,0,0,0,0,0
+Bradford,Precinct 10,President,,WRITE-IN,NON,-,-,-,-,1
+Bradford,Precinct 11,President,,WRITE-IN,NON,-,-,-,-,5
+Bradford,Precinct 12,President,,WRITE-IN,NON,-,-,-,-,3
+Bradford,Precinct 13,President,,WRITE-IN,NON,0,0,0,0,0
+Bradford,Precinct 14,President,,WRITE-IN,NON,-,-,-,-,1
+Bradford,Precinct 1,U.S. House,3,Kat Cammack,REP,0,293,466,442,1201
+Bradford,Precinct 2,U.S. House,3,Kat Cammack,REP,0,87,119,78,284
+Bradford,Precinct 3,U.S. House,3,Kat Cammack,REP,0,100,216,129,445
+Bradford,Precinct 4,U.S. House,3,Kat Cammack,REP,0,162,414,317,893
+Bradford,Precinct 5,U.S. House,3,Kat Cammack,REP,0,236,387,266,889
+Bradford,Precinct 6,U.S. House,3,Kat Cammack,REP,0,131,240,204,575
+Bradford,Precinct 7,U.S. House,3,Kat Cammack,REP,0,114,158,96,368
+Bradford,Precinct 8,U.S. House,3,Kat Cammack,REP,0,283,462,353,1098
+Bradford,Precinct 9,U.S. House,3,Kat Cammack,REP,-,-,-,-,660
+Bradford,Precinct 10,U.S. House,3,Kat Cammack,REP,0,167,261,284,712
+Bradford,Precinct 11,U.S. House,3,Kat Cammack,REP,0,165,309,314,788
+Bradford,Precinct 12,U.S. House,3,Kat Cammack,REP,0,310,409,443,1162
+Bradford,Precinct 13,U.S. House,3,Kat Cammack,REP,0,81,91,204,376
+Bradford,Precinct 14,U.S. House,3,Kat Cammack,REP,0,123,120,271,514
+Bradford,Precinct 1,U.S. House,3,Adam Christensen,DEM,-,-,-,-,156
+Bradford,Precinct 2,U.S. House,3,Adam Christensen,DEM,0,103,109,91,303
+Bradford,Precinct 3,U.S. House,3,Adam Christensen,DEM,-,-,-,-,69
+Bradford,Precinct 4,U.S. House,3,Adam Christensen,DEM,-,-,-,-,196
+Bradford,Precinct 5,U.S. House,3,Adam Christensen,DEM,0,180,213,87,480
+Bradford,Precinct 6,U.S. House,3,Adam Christensen,DEM,-,-,-,-,86
+Bradford,Precinct 7,U.S. House,3,Adam Christensen,DEM,0,152,163,155,470
+Bradford,Precinct 8,U.S. House,3,Adam Christensen,DEM,0,136,136,60,332
+Bradford,Precinct 9,U.S. House,3,Adam Christensen,DEM,-,-,-,-,334
+Bradford,Precinct 10,U.S. House,3,Adam Christensen,DEM,-,-,-,-,93
+Bradford,Precinct 11,U.S. House,3,Adam Christensen,DEM,0,89,56,48,193
+Bradford,Precinct 12,U.S. House,3,Adam Christensen,DEM,0,221,129,82,432
+Bradford,Precinct 13,U.S. House,3,Adam Christensen,DEM,-,-,-,-,47
+Bradford,Precinct 14,U.S. House,3,Adam Christensen,DEM,-,-,-,-,111
+Bradford,Precinct 1,State Senate,5,Jennifer Bradley,REP,0,307,458,437,1202
+Bradford,Precinct 2,State Senate,5,Jennifer Bradley,REP,0,98,124,80,302
+Bradford,Precinct 3,State Senate,5,Jennifer Bradley,REP,0,104,215,128,447
+Bradford,Precinct 4,State Senate,5,Jennifer Bradley,REP,0,178,420,311,909
+Bradford,Precinct 5,State Senate,5,Jennifer Bradley,REP,0,248,395,269,912
+Bradford,Precinct 6,State Senate,5,Jennifer Bradley,REP,0,142,244,194,580
+Bradford,Precinct 7,State Senate,5,Jennifer Bradley,REP,0,117,164,99,380
+Bradford,Precinct 8,State Senate,5,Jennifer Bradley,REP,0,294,467,347,1108
+Bradford,Precinct 9,State Senate,5,Jennifer Bradley,REP,0,179,315,182,676
+Bradford,Precinct 10,State Senate,5,Jennifer Bradley,REP,0,167,263,282,712
+Bradford,Precinct 11,State Senate,5,Jennifer Bradley,REP,0,162,320,314,796
+Bradford,Precinct 12,State Senate,5,Jennifer Bradley,REP,0,318,411,437,1166
+Bradford,Precinct 13,State Senate,5,Jennifer Bradley,REP,0,83,91,205,379
+Bradford,Precinct 14,State Senate,5,Jennifer Bradley,REP,0,124,119,271,514
+Bradford,Precinct 1,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,137
+Bradford,Precinct 2,State Senate,5,Melina Rayna Barratt,DEM,0,90,104,86,280
+Bradford,Precinct 3,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,60
+Bradford,Precinct 4,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,163
+Bradford,Precinct 5,State Senate,5,Melina Rayna Barratt,DEM,0,161,187,87,435
+Bradford,Precinct 6,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,68
+Bradford,Precinct 7,State Senate,5,Melina Rayna Barratt,DEM,0,147,160,150,457
+Bradford,Precinct 8,State Senate,5,Melina Rayna Barratt,DEM,0,119,121,60,300
+Bradford,Precinct 9,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,309
+Bradford,Precinct 10,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,83
+Bradford,Precinct 11,State Senate,5,Melina Rayna Barratt,DEM,0,88,46,38,172
+Bradford,Precinct 12,State Senate,5,Melina Rayna Barratt,DEM,0,208,120,77,405
+Bradford,Precinct 13,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,39
+Bradford,Precinct 14,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,99
+Bradford,Precinct 1,State House,19,Bobby Payne,REP,0,295,451,428,1174
+Bradford,Precinct 2,State House,19,Bobby Payne,REP,0,96,116,74,286
+Bradford,Precinct 3,State House,19,Bobby Payne,REP,0,98,208,122,428
+Bradford,Precinct 4,State House,19,Bobby Payne,REP,0,170,412,300,882
+Bradford,Precinct 5,State House,19,Bobby Payne,REP,0,238,381,264,883
+Bradford,Precinct 6,State House,19,Bobby Payne,REP,0,136,237,185,558
+Bradford,Precinct 7,State House,19,Bobby Payne,REP,0,111,155,92,358
+Bradford,Precinct 8,State House,19,Bobby Payne,REP,0,274,467,336,1077
+Bradford,Precinct 9,State House,19,Bobby Payne,REP,0,172,298,180,650
+Bradford,Precinct 10,State House,19,Bobby Payne,REP,0,167,264,272,703
+Bradford,Precinct 11,State House,19,Bobby Payne,REP,0,160,309,301,770
+Bradford,Precinct 12,State House,19,Bobby Payne,REP,0,312,395,431,1138
+Bradford,Precinct 13,State House,19,Bobby Payne,REP,0,76,88,196,360
+Bradford,Precinct 14,State House,19,Bobby Payne,REP,0,119,115,260,494
+Bradford,Precinct 1,State House,19,Kimberly Dugger,DEM,-,-,-,-,156
+Bradford,Precinct 2,State House,19,Kimberly Dugger,DEM,0,93,114,92,299
+Bradford,Precinct 3,State House,19,Kimberly Dugger,DEM,-,-,-,-,76
+Bradford,Precinct 4,State House,19,Kimberly Dugger,DEM,0,67,84,34,185
+Bradford,Precinct 5,State House,19,Kimberly Dugger,DEM,0,173,194,89,456
+Bradford,Precinct 6,State House,19,Kimberly Dugger,DEM,-,-,-,-,87
+Bradford,Precinct 7,State House,19,Kimberly Dugger,DEM,0,152,162,156,470
+Bradford,Precinct 8,State House,19,Kimberly Dugger,DEM,0,139,126,68,333
+Bradford,Precinct 9,State House,19,Kimberly Dugger,DEM,-,-,-,-,327
+Bradford,Precinct 10,State House,19,Kimberly Dugger,DEM,-,-,-,-,93
+Bradford,Precinct 11,State House,19,Kimberly Dugger,DEM,0,92,54,50,196
+Bradford,Precinct 12,State House,19,Kimberly Dugger,DEM,0,215,137,84,436
+Bradford,Precinct 13,State House,19,Kimberly Dugger,DEM,-,-,-,-,55
+Bradford,Precinct 14,State House,19,Kimberly Dugger,DEM,-,-,-,-,117
+Bradford,Precinct 1,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,187,305,313,805
+Bradford,Precinct 2,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,71,80,59,210
+Bradford,Precinct 3,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,53,129,77,259
+Bradford,Precinct 4,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,99,239,173,511
+Bradford,Precinct 5,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,145,265,174,584
+Bradford,Precinct 6,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,88,137,94,319
+Bradford,Precinct 7,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,68,112,55,235
+Bradford,Precinct 8,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,185,265,236,686
+Bradford,Precinct 9,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,119,206,125,450
+Bradford,Precinct 10,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,115,181,218,514
+Bradford,Precinct 11,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,117,215,222,554
+Bradford,Precinct 12,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,258,356,355,969
+Bradford,Precinct 13,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,57,76,141,274
+Bradford,Precinct 14,Clerk of the Circuit Court and Comptroller,,Denny Thompson,REP,0,58,67,177,302
+Bradford,Precinct 1,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,136,149,122,407
+Bradford,Precinct 2,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,-,-,-,-,102
+Bradford,Precinct 3,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,54,66,53,173
+Bradford,Precinct 4,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,84,155,114,353
+Bradford,Precinct 5,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,136,141,98,375
+Bradford,Precinct 6,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,52,97,96,245
+Bradford,Precinct 7,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,52,55,51,158
+Bradford,Precinct 8,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,138,183,106,427
+Bradford,Precinct 9,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,68,118,64,250
+Bradford,Precinct 10,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,69,76,68,213
+Bradford,Precinct 11,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,78,101,94,273
+Bradford,Precinct 12,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,109,112,119,340
+Bradford,Precinct 13,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,-,-,-,-,111
+Bradford,Precinct 14,Clerk of the Circuit Court and Comptroller,,Lisa Alvarez Rodgers,NPA,0,63,63,112,238
+Bradford,Precinct 1,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,49,70,39,158
+Bradford,Precinct 2,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,87,106,96,289
+Bradford,Precinct 3,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,-,-,-,-,85
+Bradford,Precinct 4,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,59,110,62,231
+Bradford,Precinct 5,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,129,193,84,406
+Bradford,Precinct 6,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,32,30,30,92
+Bradford,Precinct 7,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,145,160,153,458
+Bradford,Precinct 8,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,91,149,73,313
+Bradford,Precinct 9,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,-,-,-,-,290
+Bradford,Precinct 10,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,-,-,-,-,72
+Bradford,Precinct 11,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,56,53,39,148
+Bradford,Precinct 12,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,0,140,59,39,238
+Bradford,Precinct 13,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,-,-,-,-,40
+Bradford,Precinct 14,Clerk of the Circuit Court and Comptroller,,Cynthia Davis Berry,NPA,-,-,-,-,77
+Bradford,Precinct 1,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,206,309,255,770
+Bradford,Precinct 2,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,68,66,52,186
+Bradford,Precinct 3,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,56,99,57,212
+Bradford,Precinct 4,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,113,219,141,473
+Bradford,Precinct 5,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,178,208,132,518
+Bradford,Precinct 6,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,100,136,97,333
+Bradford,Precinct 7,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,73,84,40,197
+Bradford,Precinct 8,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,206,230,163,599
+Bradford,Precinct 9,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,130,180,105,415
+Bradford,Precinct 10,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,122,157,194,473
+Bradford,Precinct 11,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,119,192,141,452
+Bradford,Precinct 12,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,287,322,337,946
+Bradford,Precinct 13,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,48,54,117,219
+Bradford,Precinct 14,Superintendent of Schools,,Stacey Shuford Creighton,REP,0,95,92,191,378
+Bradford,Precinct 1,Superintendent of Schools,,Will Hartley,NPA,0,162,223,219,604
+Bradford,Precinct 2,Superintendent of Schools,,Will Hartley,NPA,0,125,169,124,418
+Bradford,Precinct 3,Superintendent of Schools,,Will Hartley,NPA,0,82,132,85,299
+Bradford,Precinct 4,Superintendent of Schools,,Will Hartley,NPA,0,129,280,213,622
+Bradford,Precinct 5,Superintendent of Schools,,Will Hartley,NPA,0,235,398,225,858
+Bradford,Precinct 6,Superintendent of Schools,,Will Hartley,NPA,0,74,129,127,330
+Bradford,Precinct 7,Superintendent of Schools,,Will Hartley,NPA,0,191,244,218,653
+Bradford,Precinct 8,Superintendent of Schools,,Will Hartley,NPA,0,217,370,257,844
+Bradford,Precinct 9,Superintendent of Schools,,Will Hartley,NPA,-,-,-,-,585
+Bradford,Precinct 10,Superintendent of Schools,,Will Hartley,NPA,0,90,127,116,333
+Bradford,Precinct 11,Superintendent of Schools,,Will Hartley,NPA,0,135,179,219,533
+Bradford,Precinct 12,Superintendent of Schools,,Will Hartley,NPA,0,226,202,178,606
+Bradford,Precinct 13,Superintendent of Schools,,Will Hartley,NPA,0,49,57,104,210
+Bradford,Precinct 14,Superintendent of Schools,,Will Hartley,NPA,0,69,53,126,248
+Bradford,Precinct 1,Supervisor of Elections,,Amanda Seyfang,REP,0,302,474,402,1178
+Bradford,Precinct 2,Supervisor of Elections,,Amanda Seyfang,REP,0,123,144,99,366
+Bradford,Precinct 3,Supervisor of Elections,,Amanda Seyfang,REP,0,110,206,118,434
+Bradford,Precinct 4,Supervisor of Elections,,Amanda Seyfang,REP,0,202,433,285,920
+Bradford,Precinct 5,Supervisor of Elections,,Amanda Seyfang,REP,0,295,443,274,1012
+Bradford,Precinct 6,Supervisor of Elections,,Amanda Seyfang,REP,0,144,238,183,565
+Bradford,Precinct 7,Supervisor of Elections,,Amanda Seyfang,REP,0,168,209,126,503
+Bradford,Precinct 8,Supervisor of Elections,,Amanda Seyfang,REP,0,325,483,339,1147
+Bradford,Precinct 9,Supervisor of Elections,,Amanda Seyfang,REP,-,-,-,-,720
+Bradford,Precinct 10,Supervisor of Elections,,Amanda Seyfang,REP,0,178,255,274,707
+Bradford,Precinct 11,Supervisor of Elections,,Amanda Seyfang,REP,0,186,306,285,777
+Bradford,Precinct 12,Supervisor of Elections,,Amanda Seyfang,REP,0,353,403,406,1162
+Bradford,Precinct 13,Supervisor of Elections,,Amanda Seyfang,REP,0,84,92,198,374
+Bradford,Precinct 14,Supervisor of Elections,,Amanda Seyfang,REP,0,109,120,231,460
+Bradford,Precinct 1,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,65,45,68,178
+Bradford,Precinct 2,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,70,87,70,227
+Bradford,Precinct 3,Supervisor of Elections,,Storm Zedra Hamilton,NPA,-,-,-,-,82
+Bradford,Precinct 4,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,40,65,59,164
+Bradford,Precinct 5,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,116,145,80,341
+Bradford,Precinct 6,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,30,30,35,95
+Bradford,Precinct 7,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,94,111,116,321
+Bradford,Precinct 8,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,94,109,73,276
+Bradford,Precinct 9,Supervisor of Elections,,Storm Zedra Hamilton,NPA,-,-,-,-,254
+Bradford,Precinct 10,Supervisor of Elections,,Storm Zedra Hamilton,NPA,-,-,-,-,90
+Bradford,Precinct 11,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,64,60,71,195
+Bradford,Precinct 12,Supervisor of Elections,,Storm Zedra Hamilton,NPA,0,165,126,110,401
+Bradford,Precinct 13,Supervisor of Elections,,Storm Zedra Hamilton,NPA,-,-,-,-,51
+Bradford,Precinct 14,Supervisor of Elections,,Storm Zedra Hamilton,NPA,-,-,-,-,157
+Bradford,Precinct 2,Board of County Commissioners District 1,,Robby Stokley,REP,0,85,115,66,266
+Bradford,Precinct 7,Board of County Commissioners District 1,,Robby Stokley,REP,0,110,165,85,360
+Bradford,Precinct 2,Board of County Commissioners District 1,,Carolyn Brown Spooner,DEM,0,102,116,106,324
+Bradford,Precinct 7,Board of County Commissioners District 1,,Carolyn Brown Spooner,DEM,0,155,161,167,483
+Bradford,Precinct 6,Board of County Commissioners District 5,,Diane Andrews,REP,0,136,210,169,515
+Bradford,Precinct 9,Board of County Commissioners District 5,,Diane Andrews,REP,0,173,308,168,649
+Bradford,Precinct 13,Board of County Commissioners District 5,,Diane Andrews,REP,0,76,89,167,332
+Bradford,Precinct 14,Board of County Commissioners District 5,,Diane Andrews,REP,0,107,109,253,469
+Bradford,Precinct 6,Board of County Commissioners District 5,,Carol Mosley,NPA,0,37,46,42,125
+Bradford,Precinct 9,Board of County Commissioners District 5,,Carol Mosley,NPA,-,-,-,-,314
+Bradford,Precinct 13,Board of County Commissioners District 5,,Carol Mosley,NPA,-,-,-,-,84
+Bradford,Precinct 14,Board of County Commissioners District 5,,Carol Mosley,NPA,0,54,35,57,146
+Bradford,Precinct 11,City of Hampton City Council,,Frank Bryant,NON,-,-,-,-,104
+Bradford,Precinct 11,City of Hampton City Council,,Colleen Schon,NON,-,-,-,-,82
+Bradford,Precinct 11,City of Hampton City Council,,Douglas E. Williamson,NON,-,-,-,-,93
+Bradford,Precinct 1,Supreme Court Justice Muniz,,Yes,NON,0,229,297,259,785
+Bradford,Precinct 2,Supreme Court Justice Muniz,,Yes,NON,0,110,139,78,327
+Bradford,Precinct 3,Supreme Court Justice Muniz,,Yes,NON,0,76,122,76,274
+Bradford,Precinct 4,Supreme Court Justice Muniz,,Yes,NON,0,144,289,184,617
+Bradford,Precinct 5,Supreme Court Justice Muniz,,Yes,NON,0,234,324,214,772
+Bradford,Precinct 6,Supreme Court Justice Muniz,,Yes,NON,0,108,138,98,344
+Bradford,Precinct 7,Supreme Court Justice Muniz,,Yes,NON,0,161,162,115,438
+Bradford,Precinct 8,Supreme Court Justice Muniz,,Yes,NON,0,249,355,220,824
+Bradford,Precinct 9,Supreme Court Justice Muniz,,Yes,NON,-,-,-,-,532
+Bradford,Precinct 10,Supreme Court Justice Muniz,,Yes,NON,0,117,165,169,451
+Bradford,Precinct 11,Supreme Court Justice Muniz,,Yes,NON,0,144,202,187,533
+Bradford,Precinct 12,Supreme Court Justice Muniz,,Yes,NON,0,289,315,301,905
+Bradford,Precinct 13,Supreme Court Justice Muniz,,Yes,NON,0,65,68,109,242
+Bradford,Precinct 14,Supreme Court Justice Muniz,,Yes,NON,0,75,72,155,302
+Bradford,Precinct 1,Supreme Court Justice Muniz,,No,NON,0,111,155,123,389
+Bradford,Precinct 2,Supreme Court Justice Muniz,,No,NON,0,72,62,60,194
+Bradford,Precinct 3,Supreme Court Justice Muniz,,No,NON,0,49,72,46,167
+Bradford,Precinct 4,Supreme Court Justice Muniz,,No,NON,0,77,141,93,311
+Bradford,Precinct 5,Supreme Court Justice Muniz,,No,NON,0,139,194,118,451
+Bradford,Precinct 6,Supreme Court Justice Muniz,,No,NON,0,53,88,71,212
+Bradford,Precinct 7,Supreme Court Justice Muniz,,No,NON,0,92,122,105,319
+Bradford,Precinct 8,Supreme Court Justice Muniz,,No,NON,0,128,171,120,419
+Bradford,Precinct 9,Supreme Court Justice Muniz,,No,NON,-,-,-,-,315
+Bradford,Precinct 10,Supreme Court Justice Muniz,,No,NON,0,76,73,85,234
+Bradford,Precinct 11,Supreme Court Justice Muniz,,No,NON,0,75,104,107,286
+Bradford,Precinct 12,Supreme Court Justice Muniz,,No,NON,0,183,149,161,493
+Bradford,Precinct 13,Supreme Court Justice Muniz,,No,NON,-,-,-,-,124
+Bradford,Precinct 14,Supreme Court Justice Muniz,,No,NON,0,66,47,96,209
+Bradford,Precinct 1,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,218,280,235,733
+Bradford,Precinct 2,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,125,135,87,347
+Bradford,Precinct 3,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,72,122,81,275
+Bradford,Precinct 4,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,147,251,177,575
+Bradford,Precinct 5,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,262,321,221,804
+Bradford,Precinct 6,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,112,130,110,352
+Bradford,Precinct 7,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,179,173,126,478
+Bradford,Precinct 8,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,268,359,227,854
+Bradford,Precinct 9,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,-,-,-,-,542
+Bradford,Precinct 10,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,118,160,160,438
+Bradford,Precinct 11,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,154,198,154,506
+Bradford,Precinct 12,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,308,298,296,902
+Bradford,Precinct 13,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,61,61,93,215
+Bradford,Precinct 14,First District Court of Appeal Joseph Lewis Jr.,,Yes,NON,0,72,77,171,320
+Bradford,Precinct 1,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,119,157,140,416
+Bradford,Precinct 2,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,61,67,55,183
+Bradford,Precinct 3,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,52,69,38,159
+Bradford,Precinct 4,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,71,166,93,330
+Bradford,Precinct 5,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,110,189,107,406
+Bradford,Precinct 6,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,46,85,64,195
+Bradford,Precinct 7,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,73,112,96,281
+Bradford,Precinct 8,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,106,159,107,372
+Bradford,Precinct 9,First District Court of Appeal Joseph Lewis Jr.,,No,NON,-,-,-,-,300
+Bradford,Precinct 10,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,72,75,91,238
+Bradford,Precinct 11,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,67,104,127,298
+Bradford,Precinct 12,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,159,160,163,482
+Bradford,Precinct 13,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,33,34,73,140
+Bradford,Precinct 14,First District Court of Appeal Joseph Lewis Jr.,,No,NON,0,68,44,79,191
+Bradford,Precinct 1,First District Court of Appeal Scott Makar,,Yes,NON,0,220,289,240,749
+Bradford,Precinct 2,First District Court of Appeal Scott Makar,,Yes,NON,0,120,131,80,331
+Bradford,Precinct 3,First District Court of Appeal Scott Makar,,Yes,NON,0,74,128,78,280
+Bradford,Precinct 4,First District Court of Appeal Scott Makar,,Yes,NON,0,147,268,179,594
+Bradford,Precinct 5,First District Court of Appeal Scott Makar,,Yes,NON,0,243,312,217,772
+Bradford,Precinct 6,First District Court of Appeal Scott Makar,,Yes,NON,0,115,136,111,362
+Bradford,Precinct 7,First District Court of Appeal Scott Makar,,Yes,NON,0,162,163,113,438
+Bradford,Precinct 8,First District Court of Appeal Scott Makar,,Yes,NON,0,254,340,210,804
+Bradford,Precinct 9,First District Court of Appeal Scott Makar,,Yes,NON,-,-,-,-,519
+Bradford,Precinct 10,First District Court of Appeal Scott Makar,,Yes,NON,0,123,163,167,453
+Bradford,Precinct 11,First District Court of Appeal Scott Makar,,Yes,NON,0,150,201,170,521
+Bradford,Precinct 12,First District Court of Appeal Scott Makar,,Yes,NON,0,301,306,301,908
+Bradford,Precinct 13,First District Court of Appeal Scott Makar,,Yes,NON,0,66,66,103,235
+Bradford,Precinct 14,First District Court of Appeal Scott Makar,,Yes,NON,0,75,74,159,308
+Bradford,Precinct 1,First District Court of Appeal Scott Makar,,No,NON,0,120,141,126,387
+Bradford,Precinct 2,First District Court of Appeal Scott Makar,,No,NON,0,62,73,59,194
+Bradford,Precinct 3,First District Court of Appeal Scott Makar,,No,NON,0,44,62,39,145
+Bradford,Precinct 4,First District Court of Appeal Scott Makar,,No,NON,0,68,147,88,303
+Bradford,Precinct 5,First District Court of Appeal Scott Makar,,No,NON,0,125,194,107,426
+Bradford,Precinct 6,First District Court of Appeal Scott Makar,,No,NON,0,43,80,63,186
+Bradford,Precinct 7,First District Court of Appeal Scott Makar,,No,NON,0,89,117,104,310
+Bradford,Precinct 8,First District Court of Appeal Scott Makar,,No,NON,0,115,171,117,403
+Bradford,Precinct 9,First District Court of Appeal Scott Makar,,No,NON,-,-,-,-,310
+Bradford,Precinct 10,First District Court of Appeal Scott Makar,,No,NON,0,65,70,78,213
+Bradford,Precinct 11,First District Court of Appeal Scott Makar,,No,NON,0,71,95,106,272
+Bradford,Precinct 12,First District Court of Appeal Scott Makar,,No,NON,0,162,142,154,458
+Bradford,Precinct 13,First District Court of Appeal Scott Makar,,No,NON,-,-,-,-,118
+Bradford,Precinct 14,First District Court of Appeal Scott Makar,,No,NON,0,67,43,84,194
+Bradford,Precinct 1,First District Court of Appeal Rachel Nordby,,Yes,NON,0,231,301,242,774
+Bradford,Precinct 2,First District Court of Appeal Rachel Nordby,,Yes,NON,0,113,131,81,325
+Bradford,Precinct 3,First District Court of Appeal Rachel Nordby,,Yes,NON,0,73,126,79,278
+Bradford,Precinct 4,First District Court of Appeal Rachel Nordby,,Yes,NON,0,152,266,183,601
+Bradford,Precinct 5,First District Court of Appeal Rachel Nordby,,Yes,NON,0,238,326,227,791
+Bradford,Precinct 6,First District Court of Appeal Rachel Nordby,,Yes,NON,0,109,134,113,356
+Bradford,Precinct 7,First District Court of Appeal Rachel Nordby,,Yes,NON,0,159,168,110,437
+Bradford,Precinct 8,First District Court of Appeal Rachel Nordby,,Yes,NON,0,268,360,217,845
+Bradford,Precinct 9,First District Court of Appeal Rachel Nordby,,Yes,NON,-,-,-,-,527
+Bradford,Precinct 10,First District Court of Appeal Rachel Nordby,,Yes,NON,0,116,172,168,456
+Bradford,Precinct 11,First District Court of Appeal Rachel Nordby,,Yes,NON,0,151,213,168,532
+Bradford,Precinct 12,First District Court of Appeal Rachel Nordby,,Yes,NON,0,302,308,313,923
+Bradford,Precinct 13,First District Court of Appeal Rachel Nordby,,Yes,NON,0,67,64,94,225
+Bradford,Precinct 14,First District Court of Appeal Rachel Nordby,,Yes,NON,0,74,70,164,308
+Bradford,Precinct 1,First District Court of Appeal Rachel Nordby,,No,NON,0,109,131,130,370
+Bradford,Precinct 2,First District Court of Appeal Rachel Nordby,,No,NON,0,71,67,58,196
+Bradford,Precinct 3,First District Court of Appeal Rachel Nordby,,No,NON,0,48,65,40,153
+Bradford,Precinct 4,First District Court of Appeal Rachel Nordby,,No,NON,0,65,148,85,298
+Bradford,Precinct 5,First District Court of Appeal Rachel Nordby,,No,NON,0,131,183,104,418
+Bradford,Precinct 6,First District Court of Appeal Rachel Nordby,,No,NON,0,47,83,58,188
+Bradford,Precinct 7,First District Court of Appeal Rachel Nordby,,No,NON,0,88,110,102,300
+Bradford,Precinct 8,First District Court of Appeal Rachel Nordby,,No,NON,0,102,154,109,365
+Bradford,Precinct 9,First District Court of Appeal Rachel Nordby,,No,NON,-,-,-,-,304
+Bradford,Precinct 10,First District Court of Appeal Rachel Nordby,,No,NON,0,71,63,81,215
+Bradford,Precinct 11,First District Court of Appeal Rachel Nordby,,No,NON,0,70,84,104,258
+Bradford,Precinct 12,First District Court of Appeal Rachel Nordby,,No,NON,0,159,144,143,446
+Bradford,Precinct 13,First District Court of Appeal Rachel Nordby,,No,NON,-,-,-,-,125
+Bradford,Precinct 14,First District Court of Appeal Rachel Nordby,,No,NON,0,67,44,79,190
+Bradford,Precinct 1,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,221,289,234,744
+Bradford,Precinct 2,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,104,134,76,314
+Bradford,Precinct 3,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,71,124,76,271
+Bradford,Precinct 4,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,146,262,184,592
+Bradford,Precinct 5,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,230,318,217,765
+Bradford,Precinct 6,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,109,137,105,351
+Bradford,Precinct 7,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,163,161,116,440
+Bradford,Precinct 8,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,254,346,208,808
+Bradford,Precinct 9,First District Court of Appeal Tim Osterhaus,,Yes,NON,-,-,-,-,498
+Bradford,Precinct 10,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,120,164,164,448
+Bradford,Precinct 11,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,137,203,166,506
+Bradford,Precinct 12,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,290,307,303,900
+Bradford,Precinct 13,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,64,66,92,222
+Bradford,Precinct 14,First District Court of Appeal Tim Osterhaus,,Yes,NON,0,73,70,162,305
+Bradford,Precinct 1,First District Court of Appeal Tim Osterhaus,,No,NON,0,119,136,135,390
+Bradford,Precinct 2,First District Court of Appeal Tim Osterhaus,,No,NON,0,77,64,63,204
+Bradford,Precinct 3,First District Court of Appeal Tim Osterhaus,,No,NON,0,49,65,42,156
+Bradford,Precinct 4,First District Court of Appeal Tim Osterhaus,,No,NON,0,71,153,85,309
+Bradford,Precinct 5,First District Court of Appeal Tim Osterhaus,,No,NON,0,137,191,113,441
+Bradford,Precinct 6,First District Court of Appeal Tim Osterhaus,,No,NON,0,49,80,68,197
+Bradford,Precinct 7,First District Court of Appeal Tim Osterhaus,,No,NON,0,86,120,97,303
+Bradford,Precinct 8,First District Court of Appeal Tim Osterhaus,,No,NON,0,115,167,120,402
+Bradford,Precinct 9,First District Court of Appeal Tim Osterhaus,,No,NON,-,-,-,-,326
+Bradford,Precinct 10,First District Court of Appeal Tim Osterhaus,,No,NON,0,69,69,85,223
+Bradford,Precinct 11,First District Court of Appeal Tim Osterhaus,,No,NON,0,85,94,106,285
+Bradford,Precinct 12,First District Court of Appeal Tim Osterhaus,,No,NON,0,173,145,151,469
+Bradford,Precinct 13,First District Court of Appeal Tim Osterhaus,,No,NON,0,30,31,64,125
+Bradford,Precinct 14,First District Court of Appeal Tim Osterhaus,,No,NON,0,66,44,81,191
+Bradford,Precinct 1,First District Court of Appeal Clay Roberts,,Yes,NON,0,219,291,233,743
+Bradford,Precinct 2,First District Court of Appeal Clay Roberts,,Yes,NON,0,120,138,77,335
+Bradford,Precinct 3,First District Court of Appeal Clay Roberts,,Yes,NON,0,69,122,79,270
+Bradford,Precinct 4,First District Court of Appeal Clay Roberts,,Yes,NON,0,146,258,182,586
+Bradford,Precinct 5,First District Court of Appeal Clay Roberts,,Yes,NON,0,246,316,227,789
+Bradford,Precinct 6,First District Court of Appeal Clay Roberts,,Yes,NON,0,105,135,111,351
+Bradford,Precinct 7,First District Court of Appeal Clay Roberts,,Yes,NON,0,178,163,130,471
+Bradford,Precinct 8,First District Court of Appeal Clay Roberts,,Yes,NON,0,239,353,219,811
+Bradford,Precinct 9,First District Court of Appeal Clay Roberts,,Yes,NON,-,-,-,-,521
+Bradford,Precinct 10,First District Court of Appeal Clay Roberts,,Yes,NON,0,114,161,159,434
+Bradford,Precinct 11,First District Court of Appeal Clay Roberts,,Yes,NON,0,148,206,167,521
+Bradford,Precinct 12,First District Court of Appeal Clay Roberts,,Yes,NON,0,288,294,307,889
+Bradford,Precinct 13,First District Court of Appeal Clay Roberts,,Yes,NON,0,60,66,95,221
+Bradford,Precinct 14,First District Court of Appeal Clay Roberts,,Yes,NON,0,67,70,170,307
+Bradford,Precinct 1,First District Court of Appeal Clay Roberts,,No,NON,0,120,138,138,396
+Bradford,Precinct 2,First District Court of Appeal Clay Roberts,,No,NON,0,65,63,62,190
+Bradford,Precinct 3,First District Court of Appeal Clay Roberts,,No,NON,0,51,66,38,155
+Bradford,Precinct 4,First District Court of Appeal Clay Roberts,,No,NON,0,71,158,89,318
+Bradford,Precinct 5,First District Court of Appeal Clay Roberts,,No,NON,0,123,187,102,412
+Bradford,Precinct 6,First District Court of Appeal Clay Roberts,,No,NON,0,53,82,62,197
+Bradford,Precinct 7,First District Court of Appeal Clay Roberts,,No,NON,0,72,116,80,268
+Bradford,Precinct 8,First District Court of Appeal Clay Roberts,,No,NON,0,131,159,110,400
+Bradford,Precinct 9,First District Court of Appeal Clay Roberts,,No,NON,-,-,-,-,302
+Bradford,Precinct 10,First District Court of Appeal Clay Roberts,,No,NON,0,76,72,87,235
+Bradford,Precinct 11,First District Court of Appeal Clay Roberts,,No,NON,0,74,92,107,273
+Bradford,Precinct 12,First District Court of Appeal Clay Roberts,,No,NON,0,176,161,146,483
+Bradford,Precinct 13,First District Court of Appeal Clay Roberts,,No,NON,-,-,-,-,128
+Bradford,Precinct 14,First District Court of Appeal Clay Roberts,,No,NON,0,73,44,75,192
+Bradford,Precinct 1,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,230,304,241,775
+Bradford,Precinct 2,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,111,131,82,324
+Bradford,Precinct 3,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,74,120,81,275
+Bradford,Precinct 4,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,150,269,183,602
+Bradford,Precinct 5,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,239,326,220,785
+Bradford,Precinct 6,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,112,138,108,358
+Bradford,Precinct 7,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,163,164,114,441
+Bradford,Precinct 8,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,258,347,210,815
+Bradford,Precinct 9,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,-,-,-,-,529
+Bradford,Precinct 10,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,123,170,167,460
+Bradford,Precinct 11,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,150,206,179,535
+Bradford,Precinct 12,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,300,308,315,923
+Bradford,Precinct 13,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,67,67,98,232
+Bradford,Precinct 14,Fisrt District Court of Appeal Adam S. Tanenbaum,,Yes,NON,0,80,69,164,313
+Bradford,Precinct 1,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,109,124,130,363
+Bradford,Precinct 2,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,73,70,58,201
+Bradford,Precinct 3,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,46,68,38,152
+Bradford,Precinct 4,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,66,145,85,296
+Bradford,Precinct 5,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,130,185,109,424
+Bradford,Precinct 6,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,44,79,64,187
+Bradford,Precinct 7,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,88,116,97,301
+Bradford,Precinct 8,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,116,167,120,403
+Bradford,Precinct 9,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,-,-,-,-,301
+Bradford,Precinct 10,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,66,63,81,210
+Bradford,Precinct 11,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,72,92,95,259
+Bradford,Precinct 12,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,167,146,140,453
+Bradford,Precinct 13,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,-,-,-,-,119
+Bradford,Precinct 14,Fisrt District Court of Appeal Adam S. Tanenbaum,,No,NON,0,60,45,81,186
+Bradford,Precinct 1,Amendment 1,,Yes,NON,0,329,474,440,1243
+Bradford,Precinct 2,Amendment 1,,Yes,NON,0,152,193,136,481
+Bradford,Precinct 3,Amendment 1,,Yes,NON,0,122,202,122,446
+Bradford,Precinct 4,Amendment 1,,Yes,NON,0,203,448,311,962
+Bradford,Precinct 5,Amendment 1,,Yes,NON,0,341,479,316,1136
+Bradford,Precinct 6,Amendment 1,,Yes,NON,0,157,246,204,607
+Bradford,Precinct 7,Amendment 1,,Yes,NON,0,211,262,186,659
+Bradford,Precinct 8,Amendment 1,,Yes,NON,0,368,516,366,1250
+Bradford,Precinct 9,Amendment 1,,Yes,NON,-,-,-,-,825
+Bradford,Precinct 10,Amendment 1,,Yes,NON,0,200,257,280,737
+Bradford,Precinct 11,Amendment 1,,Yes,NON,0,227,335,331,893
+Bradford,Precinct 12,Amendment 1,,Yes,NON,0,422,460,456,1338
+Bradford,Precinct 13,Amendment 1,,Yes,NON,0,94,98,192,384
+Bradford,Precinct 14,Amendment 1,,Yes,NON,0,135,123,286,544
+Bradford,Precinct 1,Amendment 1,,No,NON,-,-,-,-,109
+Bradford,Precinct 2,Amendment 1,,No,NON,0,34,37,37,108
+Bradford,Precinct 3,Amendment 1,,No,NON,-,-,-,-,58
+Bradford,Precinct 4,Amendment 1,,No,NON,0,36,53,32,121
+Bradford,Precinct 5,Amendment 1,,No,NON,0,78,110,44,232
+Bradford,Precinct 6,Amendment 1,,No,NON,-,-,-,-,52
+Bradford,Precinct 7,Amendment 1,,No,NON,0,50,54,61,165
+Bradford,Precinct 8,Amendment 1,,No,NON,0,48,79,46,173
+Bradford,Precinct 9,Amendment 1,,No,NON,-,-,-,-,149
+Bradford,Precinct 10,Amendment 1,,No,NON,-,-,-,-,70
+Bradford,Precinct 11,Amendment 1,,No,NON,0,30,32,34,96
+Bradford,Precinct 12,Amendment 1,,No,NON,0,116,80,66,262
+Bradford,Precinct 13,Amendment 1,,No,NON,-,-,-,-,40
+Bradford,Precinct 14,Amendment 1,,No,NON,-,-,-,-,70
+Bradford,Precinct 1,Amendment 2,,Yes,NON,0,132,126,91,349
+Bradford,Precinct 2,Amendment 2,,Yes,NON,0,124,114,100,338
+Bradford,Precinct 3,Amendment 2,,Yes,NON,0,62,57,35,154
+Bradford,Precinct 4,Amendment 2,,Yes,NON,0,103,137,72,312
+Bradford,Precinct 5,Amendment 2,,Yes,NON,0,244,249,113,606
+Bradford,Precinct 6,Amendment 2,,Yes,NON,0,63,63,52,178
+Bradford,Precinct 7,Amendment 2,,Yes,NON,0,181,178,159,518
+Bradford,Precinct 8,Amendment 2,,Yes,NON,0,203,192,115,510
+Bradford,Precinct 9,Amendment 2,,Yes,NON,-,-,-,-,464
+Bradford,Precinct 10,Amendment 2,,Yes,NON,0,93,82,52,227
+Bradford,Precinct 11,Amendment 2,,Yes,NON,0,149,112,96,357
+Bradford,Precinct 12,Amendment 2,,Yes,NON,0,269,170,129,568
+Bradford,Precinct 13,Amendment 2,,Yes,NON,0,49,43,57,149
+Bradford,Precinct 14,Amendment 2,,Yes,NON,0,65,35,83,183
+Bradford,Precinct 1,Amendment 2,,No,NON,0,232,393,376,1001
+Bradford,Precinct 2,Amendment 2,,No,NON,0,64,119,74,257
+Bradford,Precinct 3,Amendment 2,,No,NON,0,75,175,105,355
+Bradford,Precinct 4,Amendment 2,,No,NON,0,138,364,273,775
+Bradford,Precinct 5,Amendment 2,,No,NON,0,170,347,247,764
+Bradford,Precinct 6,Amendment 2,,No,NON,0,112,203,167,482
+Bradford,Precinct 7,Amendment 2,,No,NON,0,82,145,91,318
+Bradford,Precinct 8,Amendment 2,,No,NON,0,213,406,306,925
+Bradford,Precinct 9,Amendment 2,,No,NON,-,-,-,-,521
+Bradford,Precinct 10,Amendment 2,,No,NON,0,120,203,253,576
+Bradford,Precinct 11,Amendment 2,,No,NON,0,107,260,267,634
+Bradford,Precinct 12,Amendment 2,,No,NON,0,267,369,398,1034
+Bradford,Precinct 13,Amendment 2,,No,NON,0,50,71,157,278
+Bradford,Precinct 14,Amendment 2,,No,NON,0,95,106,232,433
+Bradford,Precinct 1,Amendment 3,,Yes,NON,0,209,214,201,624
+Bradford,Precinct 2,Amendment 3,,Yes,NON,0,111,120,85,316
+Bradford,Precinct 3,Amendment 3,,Yes,NON,0,72,110,61,243
+Bradford,Precinct 4,Amendment 3,,Yes,NON,0,110,213,163,486
+Bradford,Precinct 5,Amendment 3,,Yes,NON,0,237,292,193,722
+Bradford,Precinct 6,Amendment 3,,Yes,NON,0,82,110,93,285
+Bradford,Precinct 7,Amendment 3,,Yes,NON,0,167,192,140,499
+Bradford,Precinct 8,Amendment 3,,Yes,NON,0,226,276,189,691
+Bradford,Precinct 9,Amendment 3,,Yes,NON,-,-,-,-,508
+Bradford,Precinct 10,Amendment 3,,Yes,NON,0,126,135,119,380
+Bradford,Precinct 11,Amendment 3,,Yes,NON,0,143,182,134,459
+Bradford,Precinct 12,Amendment 3,,Yes,NON,0,268,232,228,728
+Bradford,Precinct 13,Amendment 3,,Yes,NON,0,52,63,79,194
+Bradford,Precinct 14,Amendment 3,,Yes,NON,0,80,60,120,260
+Bradford,Precinct 1,Amendment 3,,No,NON,0,149,280,235,664
+Bradford,Precinct 2,Amendment 3,,No,NON,0,75,101,81,257
+Bradford,Precinct 3,Amendment 3,,No,NON,0,63,112,68,243
+Bradford,Precinct 4,Amendment 3,,No,NON,0,120,263,153,536
+Bradford,Precinct 5,Amendment 3,,No,NON,0,168,279,161,608
+Bradford,Precinct 6,Amendment 3,,No,NON,0,89,140,116,345
+Bradford,Precinct 7,Amendment 3,,No,NON,0,86,117,98,301
+Bradford,Precinct 8,Amendment 3,,No,NON,0,185,295,210,690
+Bradford,Precinct 9,Amendment 3,,No,NON,-,-,-,-,428
+Bradford,Precinct 10,Amendment 3,,No,NON,0,81,130,172,383
+Bradford,Precinct 11,Amendment 3,,No,NON,0,106,166,192,464
+Bradford,Precinct 12,Amendment 3,,No,NON,0,254,289,290,833
+Bradford,Precinct 13,Amendment 3,,No,NON,0,44,42,118,204
+Bradford,Precinct 14,Amendment 3,,No,NON,0,76,76,178,330
+Bradford,Precinct 1,Amendment 4,,Yes,NON,0,157,242,227,626
+Bradford,Precinct 2,Amendment 4,,Yes,NON,0,88,107,78,273
+Bradford,Precinct 3,Amendment 4,,Yes,NON,0,65,96,67,228
+Bradford,Precinct 4,Amendment 4,,Yes,NON,0,104,234,163,501
+Bradford,Precinct 5,Amendment 4,,Yes,NON,0,196,261,184,641
+Bradford,Precinct 6,Amendment 4,,Yes,NON,0,76,123,95,294
+Bradford,Precinct 7,Amendment 4,,Yes,NON,0,137,159,110,406
+Bradford,Precinct 8,Amendment 4,,Yes,NON,0,185,283,177,645
+Bradford,Precinct 9,Amendment 4,,Yes,NON,0,147,194,118,459
+Bradford,Precinct 10,Amendment 4,,Yes,NON,0,91,145,137,373
+Bradford,Precinct 11,Amendment 4,,Yes,NON,0,108,173,149,430
+Bradford,Precinct 12,Amendment 4,,Yes,NON,0,208,234,239,681
+Bradford,Precinct 13,Amendment 4,,Yes,NON,0,53,48,95,196
+Bradford,Precinct 14,Amendment 4,,Yes,NON,0,71,63,112,246
+Bradford,Precinct 1,Amendment 4,,No,NON,0,192,237,194,623
+Bradford,Precinct 2,Amendment 4,,No,NON,0,96,104,76,276
+Bradford,Precinct 3,Amendment 4,,No,NON,0,67,119,58,244
+Bradford,Precinct 4,Amendment 4,,No,NON,0,123,224,145,492
+Bradford,Precinct 5,Amendment 4,,No,NON,0,202,297,159,658
+Bradford,Precinct 6,Amendment 4,,No,NON,0,94,118,100,312
+Bradford,Precinct 7,Amendment 4,,No,NON,0,113,145,113,371
+Bradford,Precinct 8,Amendment 4,,No,NON,0,214,286,197,697
+Bradford,Precinct 9,Amendment 4,,No,NON,-,-,-,-,442
+Bradford,Precinct 10,Amendment 4,,No,NON,0,114,117,144,375
+Bradford,Precinct 11,Amendment 4,,No,NON,0,135,166,165,466
+Bradford,Precinct 12,Amendment 4,,No,NON,0,308,274,271,853
+Bradford,Precinct 13,Amendment 4,,No,NON,0,44,54,97,195
+Bradford,Precinct 14,Amendment 4,,No,NON,0,79,68,166,313
+Bradford,Precinct 1,Amendment 5,,Yes,NON,0,250,346,280,876
+Bradford,Precinct 2,Amendment 5,,Yes,NON,0,148,163,116,427
+Bradford,Precinct 3,Amendment 5,,Yes,NON,0,101,140,84,325
+Bradford,Precinct 4,Amendment 5,,Yes,NON,0,157,345,219,721
+Bradford,Precinct 5,Amendment 5,,Yes,NON,0,295,398,245,938
+Bradford,Precinct 6,Amendment 5,,Yes,NON,0,118,167,133,418
+Bradford,Precinct 7,Amendment 5,,Yes,NON,0,202,229,184,615
+Bradford,Precinct 8,Amendment 5,,Yes,NON,0,302,407,266,975
+Bradford,Precinct 9,Amendment 5,,Yes,NON,-,-,-,-,658
+Bradford,Precinct 10,Amendment 5,,Yes,NON,0,148,189,184,521
+Bradford,Precinct 11,Amendment 5,,Yes,NON,0,194,254,213,661
+Bradford,Precinct 12,Amendment 5,,Yes,NON,0,401,371,366,1138
+Bradford,Precinct 13,Amendment 5,,Yes,NON,0,72,69,150,291
+Bradford,Precinct 14,Amendment 5,,Yes,NON,0,107,93,188,388
+Bradford,Precinct 1,Amendment 5,,No,NON,0,105,138,151,394
+Bradford,Precinct 2,Amendment 5,,No,NON,0,38,49,39,126
+Bradford,Precinct 3,Amendment 5,,No,NON,0,33,74,43,150
+Bradford,Precinct 4,Amendment 5,,No,NON,0,74,124,100,298
+Bradford,Precinct 5,Amendment 5,,No,NON,0,113,161,101,375
+Bradford,Precinct 6,Amendment 5,,No,NON,0,54,76,69,199
+Bradford,Precinct 7,Amendment 5,,No,NON,0,50,81,60,191
+Bradford,Precinct 8,Amendment 5,,No,NON,0,105,161,124,390
+Bradford,Precinct 9,Amendment 5,,No,NON,0,66,139,67,272
+Bradford,Precinct 10,Amendment 5,,No,NON,0,58,77,99,234
+Bradford,Precinct 11,Amendment 5,,No,NON,0,54,93,117,264
+Bradford,Precinct 12,Amendment 5,,No,NON,0,125,147,146,418
+Bradford,Precinct 13,Amendment 5,,No,NON,-,-,-,-,104
+Bradford,Precinct 14,Amendment 5,,No,NON,0,46,40,93,179
+Bradford,Precinct 1,Amendment 6,,Yes,NON,0,325,444,405,1174
+Bradford,Precinct 2,Amendment 6,,Yes,NON,0,176,204,149,529
+Bradford,Precinct 3,Amendment 6,,Yes,NON,0,127,194,114,435
+Bradford,Precinct 4,Amendment 6,,Yes,NON,0,217,441,290,948
+Bradford,Precinct 5,Amendment 6,,Yes,NON,0,377,525,316,1218
+Bradford,Precinct 6,Amendment 6,,Yes,NON,0,152,228,186,566
+Bradford,Precinct 7,Amendment 6,,Yes,NON,0,236,283,220,739
+Bradford,Precinct 8,Amendment 6,,Yes,NON,0,374,525,361,1260
+Bradford,Precinct 9,Amendment 6,,Yes,NON,-,-,-,-,848
+Bradford,Precinct 10,Amendment 6,,Yes,NON,0,199,257,252,708
+Bradford,Precinct 11,Amendment 6,,Yes,NON,0,231,332,299,862
+Bradford,Precinct 12,Amendment 6,,Yes,NON,0,476,466,457,1399
+Bradford,Precinct 13,Amendment 6,,Yes,NON,0,95,97,196,388
+Bradford,Precinct 14,Amendment 6,,Yes,NON,0,138,122,262,522
+Bradford,Precinct 1,Amendment 6,,No,NON,0,38,50,46,134
+Bradford,Precinct 2,Amendment 6,,No,NON,-,-,-,-,41
+Bradford,Precinct 3,Amendment 6,,No,NON,-,-,-,-,58
+Bradford,Precinct 4,Amendment 6,,No,NON,-,-,-,-,101
+Bradford,Precinct 5,Amendment 6,,No,NON,0,39,57,38,134
+Bradford,Precinct 6,Amendment 6,,No,NON,-,-,-,-,64
+Bradford,Precinct 7,Amendment 6,,No,NON,-,-,-,-,78
+Bradford,Precinct 8,Amendment 6,,No,NON,0,38,63,42,143
+Bradford,Precinct 9,Amendment 6,,No,NON,-,-,-,-,109
+Bradford,Precinct 10,Amendment 6,,No,NON,-,-,-,-,80
+Bradford,Precinct 11,Amendment 6,,No,NON,-,-,-,-,103
+Bradford,Precinct 12,Amendment 6,,No,NON,0,61,67,67,195
+Bradford,Precinct 13,Amendment 6,,No,NON,-,-,-,-,25
+Bradford,Precinct 14,Amendment 6,,No,NON,-,-,-,-,78
