@@ -1,7 +1,7 @@
 county,precinct,office,district,candidate,party,votes,mail,early_voting,election_day,provisional
 Citrus,100,Registered Voters,,,,3075,,,,
-Citrus,100,BALLOTS CAST,,,,2474,878,765,828,3
-Citrus,100,BALLOTS CAST - BLANK,,,,78,23,23,32,0
+Citrus,100,Ballots Cast,,,,2474,878,765,828,3
+Citrus,100,Ballots Cast Blank,,,,78,23,23,32,0
 Citrus,100,President,,Donald J. Trump,REP,1904,519,650,732,3
 Citrus,100,President,,Joseph R. Biden,DEM,541,343,110,88,0
 Citrus,100,President,,Jo Jorgensen,LPF,11,7,2,2,0
@@ -48,8 +48,8 @@ Citrus,100,No. 5 Limit Prop Tax Assessment,,No,,614,214,189,210,1
 Citrus,100,No. 6 Ad Valorem Tax,,Yes,,2132,766,642,722,2
 Citrus,100,No. 6 Ad Valorem Tax,,No,,239,74,96,68,1
 Citrus,101,Registered Voters,,,,3440,,,,
-Citrus,101,BALLOTS CAST,,,,2635,957,832,844,2
-Citrus,101,BALLOTS CAST - BLANK,,,,105,27,29,49,0
+Citrus,101,Ballots Cast,,,,2635,957,832,844,2
+Citrus,101,Ballots Cast Blank,,,,105,27,29,49,0
 Citrus,101,President,,Donald J. Trump,REP,1989,553,696,740,0
 Citrus,101,President,,Joseph R. Biden,DEM,609,388,130,89,2
 Citrus,101,President,,Jo Jorgensen,LPF,20,4,6,10,0
@@ -96,8 +96,8 @@ Citrus,101,No. 5 Limit Prop Tax Assessment,,No,,639,225,204,210,0
 Citrus,101,No. 6 Ad Valorem Tax,,Yes,,2234,803,700,729,2
 Citrus,101,No. 6 Ad Valorem Tax,,No,,264,109,94,61,0
 Citrus,102,Registered Voters,,,,1021,,,,
-Citrus,102,BALLOTS CAST,,,,824,273,225,326,0
-Citrus,102,BALLOTS CAST - BLANK,,,,23,3,10,10,0
+Citrus,102,Ballots Cast,,,,824,273,225,326,0
+Citrus,102,Ballots Cast Blank,,,,23,3,10,10,0
 Citrus,102,President,,Donald J. Trump,REP,565,139,172,254,0
 Citrus,102,President,,Joseph R. Biden,DEM,251,131,53,67,0
 Citrus,102,President,,Jo Jorgensen,LPF,3,1,0,2,0
@@ -144,8 +144,8 @@ Citrus,102,No. 5 Limit Prop Tax Assessment,,No,,205,69,50,86,0
 Citrus,102,No. 6 Ad Valorem Tax,,Yes,,704,238,194,272,0
 Citrus,102,No. 6 Ad Valorem Tax,,No,,88,26,19,43,0
 Citrus,103,Registered Voters,,,,2657,,,,
-Citrus,103,BALLOTS CAST,,,,2110,797,649,659,5
-Citrus,103,BALLOTS CAST - BLANK,,,,77,19,20,37,1
+Citrus,103,Ballots Cast,,,,2110,797,649,659,5
+Citrus,103,Ballots Cast Blank,,,,77,19,20,37,1
 Citrus,103,President,,Donald J. Trump,REP,1485,413,496,571,5
 Citrus,103,President,,Joseph R. Biden,DEM,595,368,148,79,0
 Citrus,103,President,,Jo Jorgensen,LPF,16,7,4,5,0
@@ -192,8 +192,8 @@ Citrus,103,No. 5 Limit Prop Tax Assessment,,No,,512,176,179,156,1
 Citrus,103,No. 6 Ad Valorem Tax,,Yes,,1801,680,564,553,4
 Citrus,103,No. 6 Ad Valorem Tax,,No,,198,75,63,60,0
 Citrus,104,Registered Voters,,,,2390,,,,
-Citrus,104,BALLOTS CAST,,,,1776,703,562,511,0
-Citrus,104,BALLOTS CAST - BLANK,,,,74,22,34,18,0
+Citrus,104,Ballots Cast,,,,1776,703,562,511,0
+Citrus,104,Ballots Cast Blank,,,,74,22,34,18,0
 Citrus,104,President,,Donald J. Trump,REP,1266,394,445,427,0
 Citrus,104,President,,Joseph R. Biden,DEM,463,282,107,74,0
 Citrus,104,President,,Jo Jorgensen,LPF,30,13,7,10,0
@@ -240,8 +240,8 @@ Citrus,104,No. 5 Limit Prop Tax Assessment,,No,,463,159,156,148,0
 Citrus,104,No. 6 Ad Valorem Tax,,Yes,,1469,587,458,424,0
 Citrus,104,No. 6 Ad Valorem Tax,,No,,208,76,67,65,0
 Citrus,105,Registered Voters,,,,2374,,,,
-Citrus,105,BALLOTS CAST,,,,1803,813,617,371,2
-Citrus,105,BALLOTS CAST - BLANK,,,,70,29,26,15,0
+Citrus,105,Ballots Cast,,,,1803,813,617,371,2
+Citrus,105,Ballots Cast Blank,,,,70,29,26,15,0
 Citrus,105,President,,Donald J. Trump,REP,1211,439,487,284,1
 Citrus,105,President,,Joseph R. Biden,DEM,566,359,124,82,1
 Citrus,105,President,,Jo Jorgensen,LPF,10,7,0,3,0
@@ -292,8 +292,8 @@ Citrus,105,No. 5 Limit Prop Tax Assessment,,No,,469,204,171,92,2
 Citrus,105,No. 6 Ad Valorem Tax,,Yes,,1477,666,498,311,2
 Citrus,105,No. 6 Ad Valorem Tax,,No,,225,97,85,43,0
 Citrus,107,Registered Voters,,,,2940,,,,
-Citrus,107,BALLOTS CAST,,,,2352,1125,816,409,2
-Citrus,107,BALLOTS CAST - BLANK,,,,105,39,47,19,0
+Citrus,107,Ballots Cast,,,,2352,1125,816,409,2
+Citrus,107,Ballots Cast Blank,,,,105,39,47,19,0
 Citrus,107,President,,Donald J. Trump,REP,1612,594,675,341,2
 Citrus,107,President,,Joseph R. Biden,DEM,702,513,129,60,0
 Citrus,107,President,,Jo Jorgensen,LPF,20,6,9,5,0
@@ -340,8 +340,8 @@ Citrus,107,No. 5 Limit Prop Tax Assessment,,No,,543,266,186,91,0
 Citrus,107,No. 6 Ad Valorem Tax,,Yes,,1994,946,694,352,2
 Citrus,107,No. 6 Ad Valorem Tax,,No,,224,119,67,38,0
 Citrus,108,Registered Voters,,,,3470,,,,
-Citrus,108,BALLOTS CAST,,,,3016,1436,1150,425,5
-Citrus,108,BALLOTS CAST - BLANK,,,,73,22,36,15,0
+Citrus,108,Ballots Cast,,,,3016,1436,1150,425,5
+Citrus,108,Ballots Cast Blank,,,,73,22,36,15,0
 Citrus,108,President,,Donald J. Trump,REP,2017,764,899,350,4
 Citrus,108,President,,Joseph R. Biden,DEM,947,641,237,68,1
 Citrus,108,President,,Jo Jorgensen,LPF,19,12,3,4,0
@@ -388,8 +388,8 @@ Citrus,108,No. 5 Limit Prop Tax Assessment,,No,,695,341,260,93,1
 Citrus,108,No. 6 Ad Valorem Tax,,Yes,,2547,1210,980,354,3
 Citrus,108,No. 6 Ad Valorem Tax,,No,,355,170,129,54,2
 Citrus,109,Registered Voters,,,,3679,,,,
-Citrus,109,BALLOTS CAST,,,,3218,1457,1087,671,3
-Citrus,109,BALLOTS CAST - BLANK,,,,86,30,32,24,0
+Citrus,109,Ballots Cast,,,,3218,1457,1087,671,3
+Citrus,109,Ballots Cast Blank,,,,86,30,32,24,0
 Citrus,109,President,,Donald J. Trump,REP,2287,845,855,584,3
 Citrus,109,President,,Joseph R. Biden,DEM,892,596,222,74,0
 Citrus,109,President,,Jo Jorgensen,LPF,10,5,2,3,0
@@ -436,8 +436,8 @@ Citrus,109,No. 5 Limit Prop Tax Assessment,,No,,799,363,251,184,1
 Citrus,109,No. 6 Ad Valorem Tax,,Yes,,2730,1225,938,564,3
 Citrus,109,No. 6 Ad Valorem Tax,,No,,360,177,108,75,0
 Citrus,110,Registered Voters,,,,5434,,,,
-Citrus,110,BALLOTS CAST,,,,4339,1594,1534,1208,3
-Citrus,110,BALLOTS CAST - BLANK,,,,155,53,49,53,0
+Citrus,110,Ballots Cast,,,,4339,1594,1534,1208,3
+Citrus,110,Ballots Cast Blank,,,,155,53,49,53,0
 Citrus,110,President,,Donald J. Trump,REP,2978,817,1160,998,3
 Citrus,110,President,,Joseph R. Biden,DEM,1307,751,364,192,0
 Citrus,110,President,,Jo Jorgensen,LPF,26,7,5,14,0
@@ -484,8 +484,8 @@ Citrus,110,No. 5 Limit Prop Tax Assessment,,No,,1034,365,370,299,0
 Citrus,110,No. 6 Ad Valorem Tax,,Yes,,3788,1358,1360,1068,2
 Citrus,110,No. 6 Ad Valorem Tax,,No,,341,144,115,82,0
 Citrus,200,Registered Voters,,,,3071,,,,
-Citrus,200,BALLOTS CAST,,,,2354,943,754,651,6
-Citrus,200,BALLOTS CAST - BLANK,,,,85,20,38,26,1
+Citrus,200,Ballots Cast,,,,2354,943,754,651,6
+Citrus,200,Ballots Cast Blank,,,,85,20,38,26,1
 Citrus,200,President,,Donald J. Trump,REP,1766,566,642,553,5
 Citrus,200,President,,Joseph R. Biden,DEM,554,354,109,90,1
 Citrus,200,President,,Jo Jorgensen,LPF,19,11,2,6,0
@@ -532,8 +532,8 @@ Citrus,200,No. 5 Limit Prop Tax Assessment,,No,,560,205,195,160,0
 Citrus,200,No. 6 Ad Valorem Tax,,Yes,,2011,819,622,565,5
 Citrus,200,No. 6 Ad Valorem Tax,,No,,227,79,90,58,0
 Citrus,201,Registered Voters,,,,3538,,,,
-Citrus,201,BALLOTS CAST,,,,2797,1276,847,673,1
-Citrus,201,BALLOTS CAST - BLANK,,,,116,42,28,46,0
+Citrus,201,Ballots Cast,,,,2797,1276,847,673,1
+Citrus,201,Ballots Cast Blank,,,,116,42,28,46,0
 Citrus,201,President,,Donald J. Trump,REP,1921,695,666,560,0
 Citrus,201,President,,Joseph R. Biden,DEM,840,559,175,105,1
 Citrus,201,President,,Jo Jorgensen,LPF,15,8,1,6,0
@@ -580,8 +580,8 @@ Citrus,201,No. 5 Limit Prop Tax Assessment,,No,,689,307,209,173,0
 Citrus,201,No. 6 Ad Valorem Tax,,Yes,,2358,1062,739,556,1
 Citrus,201,No. 6 Ad Valorem Tax,,No,,282,135,78,69,0
 Citrus,202,Registered Voters,,,,6273,,,,
-Citrus,202,BALLOTS CAST,,,,5569,2596,2171,794,8
-Citrus,202,BALLOTS CAST - BLANK,,,,184,81,71,31,1
+Citrus,202,Ballots Cast,,,,5569,2596,2171,794,8
+Citrus,202,Ballots Cast Blank,,,,184,81,71,31,1
 Citrus,202,President,,Donald J. Trump,REP,3698,1362,1690,639,7
 Citrus,202,President,,Joseph R. Biden,DEM,1808,1198,468,141,1
 Citrus,202,President,,Jo Jorgensen,LPF,20,9,6,5,0
@@ -628,8 +628,8 @@ Citrus,202,No. 5 Limit Prop Tax Assessment,,No,,1365,622,549,193,1
 Citrus,202,No. 6 Ad Valorem Tax,,Yes,,4698,2157,1868,666,7
 Citrus,202,No. 6 Ad Valorem Tax,,No,,610,296,222,92,0
 Citrus,203,Registered Voters,,,,3035,,,,
-Citrus,203,BALLOTS CAST,,,,2558,1177,1062,310,9
-Citrus,203,BALLOTS CAST - BLANK,,,,114,34,62,18,0
+Citrus,203,Ballots Cast,,,,2558,1177,1062,310,9
+Citrus,203,Ballots Cast Blank,,,,114,34,62,18,0
 Citrus,203,President,,Donald J. Trump,REP,1645,566,824,247,8
 Citrus,203,President,,Joseph R. Biden,DEM,879,592,233,53,1
 Citrus,203,President,,Jo Jorgensen,LPF,15,6,2,7,0
@@ -676,8 +676,8 @@ Citrus,203,No. 5 Limit Prop Tax Assessment,,No,,579,270,244,64,1
 Citrus,203,No. 6 Ad Valorem Tax,,Yes,,2168,1008,892,260,8
 Citrus,203,No. 6 Ad Valorem Tax,,No,,243,108,105,29,1
 Citrus,204,Registered Voters,,,,3694,,,,
-Citrus,204,BALLOTS CAST,,,,3276,1667,1197,411,1
-Citrus,204,BALLOTS CAST - BLANK,,,,104,35,46,22,1
+Citrus,204,Ballots Cast,,,,3276,1667,1197,411,1
+Citrus,204,Ballots Cast Blank,,,,104,35,46,22,1
 Citrus,204,President,,Donald J. Trump,REP,2164,851,949,364,0
 Citrus,204,President,,Joseph R. Biden,DEM,1077,793,240,43,1
 Citrus,204,President,,Jo Jorgensen,LPF,8,4,1,3,0
@@ -724,8 +724,8 @@ Citrus,204,No. 5 Limit Prop Tax Assessment,,No,,792,438,265,89,0
 Citrus,204,No. 6 Ad Valorem Tax,,Yes,,2755,1377,1027,351,0
 Citrus,204,No. 6 Ad Valorem Tax,,No,,371,217,119,35,0
 Citrus,205,Registered Voters,,,,2318,,,,
-Citrus,205,BALLOTS CAST,,,,1721,617,701,400,3
-Citrus,205,BALLOTS CAST - BLANK,,,,81,21,43,17,0
+Citrus,205,Ballots Cast,,,,1721,617,701,400,3
+Citrus,205,Ballots Cast Blank,,,,81,21,43,17,0
 Citrus,205,President,,Donald J. Trump,REP,1116,290,523,301,2
 Citrus,205,President,,Joseph R. Biden,DEM,579,318,169,91,1
 Citrus,205,President,,Jo Jorgensen,LPF,14,3,5,6,0
@@ -772,8 +772,8 @@ Citrus,205,No. 5 Limit Prop Tax Assessment,,No,,446,158,179,109,0
 Citrus,205,No. 6 Ad Valorem Tax,,Yes,,1460,517,588,352,3
 Citrus,205,No. 6 Ad Valorem Tax,,No,,157,64,65,28,0
 Citrus,206,Registered Voters,,,,2574,,,,
-Citrus,206,BALLOTS CAST,,,,1828,712,693,415,8
-Citrus,206,BALLOTS CAST - BLANK,,,,67,16,34,17,0
+Citrus,206,Ballots Cast,,,,1828,712,693,415,8
+Citrus,206,Ballots Cast Blank,,,,67,16,34,17,0
 Citrus,206,President,,Donald J. Trump,REP,1120,317,505,295,3
 Citrus,206,President,,Joseph R. Biden,DEM,668,377,181,105,5
 Citrus,206,President,,Jo Jorgensen,LPF,18,9,1,8,0
@@ -820,8 +820,8 @@ Citrus,206,No. 5 Limit Prop Tax Assessment,,No,,449,175,176,96,2
 Citrus,206,No. 6 Ad Valorem Tax,,Yes,,1563,601,593,361,8
 Citrus,206,No. 6 Ad Valorem Tax,,No,,171,72,64,35,0
 Citrus,208,Registered Voters,,,,1806,,,,
-Citrus,208,BALLOTS CAST,,,,1563,655,568,338,2
-Citrus,208,BALLOTS CAST - BLANK,,,,43,21,17,5,0
+Citrus,208,Ballots Cast,,,,1563,655,568,338,2
+Citrus,208,Ballots Cast Blank,,,,43,21,17,5,0
 Citrus,208,President,,Donald J. Trump,REP,1085,345,451,288,1
 Citrus,208,President,,Joseph R. Biden,DEM,460,302,114,43,1
 Citrus,208,President,,Jo Jorgensen,LPF,10,3,2,5,0
@@ -868,8 +868,8 @@ Citrus,208,No. 5 Limit Prop Tax Assessment,,No,,377,140,144,92,1
 Citrus,208,No. 6 Ad Valorem Tax,,Yes,,1328,551,485,290,2
 Citrus,208,No. 6 Ad Valorem Tax,,No,,173,72,58,43,0
 Citrus,300,Registered Voters,,,,2805,,,,
-Citrus,300,BALLOTS CAST,,,,2106,812,758,532,4
-Citrus,300,BALLOTS CAST - BLANK,,,,67,19,21,27,0
+Citrus,300,Ballots Cast,,,,2106,812,758,532,4
+Citrus,300,Ballots Cast Blank,,,,67,19,21,27,0
 Citrus,300,President,,Donald J. Trump,REP,1608,502,636,468,2
 Citrus,300,President,,Joseph R. Biden,DEM,477,302,119,55,1
 Citrus,300,President,,Jo Jorgensen,LPF,13,6,3,4,0
@@ -916,8 +916,8 @@ Citrus,300,No. 5 Limit Prop Tax Assessment,,No,,515,207,185,123,0
 Citrus,300,No. 6 Ad Valorem Tax,,Yes,,1805,697,658,446,4
 Citrus,300,No. 6 Ad Valorem Tax,,No,,210,80,74,56,0
 Citrus,301,Registered Voters,,,,6793,,,,
-Citrus,301,BALLOTS CAST,,,,5237,1951,2098,1182,6
-Citrus,301,BALLOTS CAST - BLANK,,,,199,69,80,50,0
+Citrus,301,Ballots Cast,,,,5237,1951,2098,1182,6
+Citrus,301,Ballots Cast Blank,,,,199,69,80,50,0
 Citrus,301,President,,Donald J. Trump,REP,3793,1107,1704,978,4
 Citrus,301,President,,Joseph R. Biden,DEM,1375,812,376,185,2
 Citrus,301,President,,Jo Jorgensen,LPF,26,9,10,7,0
@@ -964,8 +964,8 @@ Citrus,301,No. 5 Limit Prop Tax Assessment,,No,,1209,406,500,302,1
 Citrus,301,No. 6 Ad Valorem Tax,,Yes,,4466,1655,1808,998,5
 Citrus,301,No. 6 Ad Valorem Tax,,No,,512,180,202,129,1
 Citrus,302,Registered Voters,,,,5743,,,,
-Citrus,302,BALLOTS CAST,,,,4363,1665,1838,853,7
-Citrus,302,BALLOTS CAST - BLANK,,,,156,35,87,33,1
+Citrus,302,Ballots Cast,,,,4363,1665,1838,853,7
+Citrus,302,Ballots Cast Blank,,,,156,35,87,33,1
 Citrus,302,President,,Donald J. Trump,REP,3212,963,1512,731,6
 Citrus,302,President,,Joseph R. Biden,DEM,1106,681,313,111,1
 Citrus,302,President,,Jo Jorgensen,LPF,16,4,6,6,0
@@ -1012,8 +1012,8 @@ Citrus,302,No. 5 Limit Prop Tax Assessment,,No,,1034,413,406,214,1
 Citrus,302,No. 6 Ad Valorem Tax,,Yes,,3736,1423,1563,745,5
 Citrus,302,No. 6 Ad Valorem Tax,,No,,426,174,181,70,1
 Citrus,305,Registered Voters,,,,5498,,,,
-Citrus,305,BALLOTS CAST,,,,3996,1522,1488,979,7
-Citrus,305,BALLOTS CAST - BLANK,,,,137,37,65,33,2
+Citrus,305,Ballots Cast,,,,3996,1522,1488,979,7
+Citrus,305,Ballots Cast Blank,,,,137,37,65,33,2
 Citrus,305,President,,Donald J. Trump,REP,2905,873,1187,839,6
 Citrus,305,President,,Joseph R. Biden,DEM,1034,619,285,129,1
 Citrus,305,President,,Jo Jorgensen,LPF,23,6,12,5,0
@@ -1060,8 +1060,8 @@ Citrus,305,No. 5 Limit Prop Tax Assessment,,No,,997,363,373,261,0
 Citrus,305,No. 6 Ad Valorem Tax,,Yes,,3419,1316,1266,832,5
 Citrus,305,No. 6 Ad Valorem Tax,,No,,379,127,146,106,0
 Citrus,307,Registered Voters,,,,9492,,,,
-Citrus,307,BALLOTS CAST,,,,8260,4261,3071,914,14
-Citrus,307,BALLOTS CAST - BLANK,,,,305,130,133,38,4
+Citrus,307,Ballots Cast,,,,8260,4261,3071,914,14
+Citrus,307,Ballots Cast Blank,,,,305,130,133,38,4
 Citrus,307,President,,Donald J. Trump,REP,5451,2245,2422,774,10
 Citrus,307,President,,Joseph R. Biden,DEM,2739,1979,626,130,4
 Citrus,307,President,,Jo Jorgensen,LPF,19,6,7,6,0
@@ -1108,8 +1108,8 @@ Citrus,307,No. 5 Limit Prop Tax Assessment,,No,,1856,939,697,219,1
 Citrus,307,No. 6 Ad Valorem Tax,,Yes,,7112,3678,2630,794,10
 Citrus,307,No. 6 Ad Valorem Tax,,No,,727,365,289,73,0
 Citrus,400,Registered Voters,,,,2331,,,,
-Citrus,400,BALLOTS CAST,,,,1829,665,604,560,0
-Citrus,400,BALLOTS CAST - BLANK,,,,56,14,24,18,0
+Citrus,400,Ballots Cast,,,,1829,665,604,560,0
+Citrus,400,Ballots Cast Blank,,,,56,14,24,18,0
 Citrus,400,President,,Donald J. Trump,REP,1401,392,506,503,0
 Citrus,400,President,,Joseph R. Biden,DEM,400,258,95,47,0
 Citrus,400,President,,Jo Jorgensen,LPF,14,7,3,4,0
@@ -1156,8 +1156,8 @@ Citrus,400,No. 5 Limit Prop Tax Assessment,,No,,489,157,156,176,0
 Citrus,400,No. 6 Ad Valorem Tax,,Yes,,1515,551,503,461,0
 Citrus,400,No. 6 Ad Valorem Tax,,No,,227,75,74,78,0
 Citrus,402,Registered Voters,,,,4511,,,,
-Citrus,402,BALLOTS CAST,,,,3437,1314,1211,905,7
-Citrus,402,BALLOTS CAST - BLANK,,,,116,32,44,39,1
+Citrus,402,Ballots Cast,,,,3437,1314,1211,905,7
+Citrus,402,Ballots Cast Blank,,,,116,32,44,39,1
 Citrus,402,President,,Donald J. Trump,REP,2495,740,970,781,4
 Citrus,402,President,,Joseph R. Biden,DEM,890,549,226,112,3
 Citrus,402,President,,Jo Jorgensen,LPF,23,9,7,7,0
@@ -1204,8 +1204,8 @@ Citrus,402,No. 5 Limit Prop Tax Assessment,,No,,860,321,309,230,0
 Citrus,402,No. 6 Ad Valorem Tax,,Yes,,2962,1138,1029,789,6
 Citrus,402,No. 6 Ad Valorem Tax,,No,,324,119,131,74,0
 Citrus,403,Registered Voters,,,,5126,,,,
-Citrus,403,BALLOTS CAST,,,,3946,1840,1490,611,5
-Citrus,403,BALLOTS CAST - BLANK,,,,165,86,51,27,1
+Citrus,403,Ballots Cast,,,,3946,1840,1490,611,5
+Citrus,403,Ballots Cast Blank,,,,165,86,51,27,1
 Citrus,403,President,,Donald J. Trump,REP,2525,923,1106,492,4
 Citrus,403,President,,Joseph R. Biden,DEM,1350,880,361,108,1
 Citrus,403,President,,Jo Jorgensen,LPF,31,11,16,4,0
@@ -1252,8 +1252,8 @@ Citrus,403,No. 5 Limit Prop Tax Assessment,,No,,909,399,366,143,1
 Citrus,403,No. 6 Ad Valorem Tax,,Yes,,3325,1508,1278,535,4
 Citrus,403,No. 6 Ad Valorem Tax,,No,,397,196,154,47,0
 Citrus,404,Registered Voters,,,,2958,,,,
-Citrus,404,BALLOTS CAST,,,,2439,1004,831,598,6
-Citrus,404,BALLOTS CAST - BLANK,,,,98,30,36,32,0
+Citrus,404,Ballots Cast,,,,2439,1004,831,598,6
+Citrus,404,Ballots Cast Blank,,,,98,30,36,32,0
 Citrus,404,President,,Donald J. Trump,REP,1753,555,674,519,5
 Citrus,404,President,,Joseph R. Biden,DEM,649,430,148,70,1
 Citrus,404,President,,Jo Jorgensen,LPF,13,5,6,2,0
@@ -1300,8 +1300,8 @@ Citrus,404,No. 5 Limit Prop Tax Assessment,,No,,607,248,195,164,0
 Citrus,404,No. 6 Ad Valorem Tax,,Yes,,2058,854,706,492,6
 Citrus,404,No. 6 Ad Valorem Tax,,No,,253,98,84,71,0
 Citrus,405,Registered Voters,,,,6545,,,,
-Citrus,405,BALLOTS CAST,,,,5202,2175,1868,1153,6
-Citrus,405,BALLOTS CAST - BLANK,,,,196,71,69,55,1
+Citrus,405,Ballots Cast,,,,5202,2175,1868,1153,6
+Citrus,405,Ballots Cast Blank,,,,196,71,69,55,1
 Citrus,405,President,,Donald J. Trump,REP,3540,1133,1454,949,4
 Citrus,405,President,,Joseph R. Biden,DEM,1571,986,402,181,2
 Citrus,405,President,,Jo Jorgensen,LPF,38,18,6,14,0
@@ -1348,8 +1348,8 @@ Citrus,405,No. 5 Limit Prop Tax Assessment,,No,,1412,572,507,332,1
 Citrus,405,No. 6 Ad Valorem Tax,,Yes,,4396,1808,1600,984,4
 Citrus,405,No. 6 Ad Valorem Tax,,No,,529,235,187,107,0
 Citrus,406,Registered Voters,,,,2883,,,,
-Citrus,406,BALLOTS CAST,,,,2298,729,834,735,0
-Citrus,406,BALLOTS CAST - BLANK,,,,91,21,33,37,0
+Citrus,406,Ballots Cast,,,,2298,729,834,735,0
+Citrus,406,Ballots Cast Blank,,,,91,21,33,37,0
 Citrus,406,President,,Donald J. Trump,REP,1657,382,653,622,0
 Citrus,406,President,,Joseph R. Biden,DEM,611,337,174,100,0
 Citrus,406,President,,Jo Jorgensen,LPF,20,6,3,11,0
@@ -1396,8 +1396,8 @@ Citrus,406,No. 5 Limit Prop Tax Assessment,,No,,571,170,213,188,0
 Citrus,406,No. 6 Ad Valorem Tax,,Yes,,1943,626,708,609,0
 Citrus,406,No. 6 Ad Valorem Tax,,No,,242,67,89,86,0
 Citrus,407,Registered Voters,,,,2559,,,,
-Citrus,407,BALLOTS CAST,,,,2003,851,552,598,2
-Citrus,407,BALLOTS CAST - BLANK,,,,79,22,34,22,1
+Citrus,407,Ballots Cast,,,,2003,851,552,598,2
+Citrus,407,Ballots Cast Blank,,,,79,22,34,22,1
 Citrus,407,President,,Donald J. Trump,REP,1419,481,441,495,2
 Citrus,407,President,,Joseph R. Biden,DEM,554,355,106,93,0
 Citrus,407,President,,Jo Jorgensen,LPF,11,3,3,5,0
@@ -1444,8 +1444,8 @@ Citrus,407,No. 5 Limit Prop Tax Assessment,,No,,438,180,120,138,0
 Citrus,407,No. 6 Ad Valorem Tax,,Yes,,1713,723,466,523,1
 Citrus,407,No. 6 Ad Valorem Tax,,No,,188,83,52,53,0
 Citrus,408,Registered Voters,,,,3061,,,,
-Citrus,408,BALLOTS CAST,,,,2398,906,705,785,2
-Citrus,408,BALLOTS CAST - BLANK,,,,71,25,18,28,0
+Citrus,408,Ballots Cast,,,,2398,906,705,785,2
+Citrus,408,Ballots Cast Blank,,,,71,25,18,28,0
 Citrus,408,President,,Donald J. Trump,REP,1764,529,569,664,2
 Citrus,408,President,,Joseph R. Biden,DEM,598,352,133,113,0
 Citrus,408,President,,Jo Jorgensen,LPF,17,10,2,5,0
