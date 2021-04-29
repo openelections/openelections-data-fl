@@ -2,10 +2,10 @@ county,precinct,office,district,candidate,party,mail,early_voting,election_day,v
 Columbia,10 Richardson Comm Ctr,President,,Donald J. Trump/Michael R. Pence,REP,56,104,36,196
 Columbia,12 Supv Elections,President,,Donald J. Trump/Michael R. Pence,REP,-,-,-,62
 Columbia,13 Supv Elections,President,,Donald J. Trump/Michael R. Pence,REP,-,-,-,55
-Columbia,14  Supv Elections,President,,Donald J. Trump/Michael R. Pence,REP,45,78,35,158
+Columbia,14 Supv Elections,President,,Donald J. Trump/Michael R. Pence,REP,45,78,35,158
 Columbia,15 Winfield Comm Ctr,President,,Donald J. Trump/Michael R. Pence,REP,83,198,142,423
 Columbia,16 Winfield Comm Ctr,President,,Donald J. Trump/Michael R. Pence,REP,282,486,337,1105
-Columbia,17  Richardson Comm Ctr,President,,Donald J. Trump/Michael R. Pence,REP,167,316,168,651
+Columbia,17 Richardson Comm Ctr,President,,Donald J. Trump/Michael R. Pence,REP,167,316,168,651
 Columbia,21 Westside Community Ctr,President,,Donald J. Trump/Michael R. Pence,REP,206,520,321,1047
 Columbia,22 Columbia City,President,,Donald J. Trump/Michael R. Pence,REP,286,759,296,1341
 Columbia,23 Ft White Comm Center,President,,Donald J. Trump/Michael R. Pence,REP,627,2294,600,3521
@@ -24,10 +24,10 @@ Columbia,54 Supv Elections Office,President,,Donald J. Trump/Michael R. Pence,RE
 Columbia,10 Richardson Comm Ctr,President,,Joseph R. Biden/Kamala D. Harris,DEM,360,253,183,796
 Columbia,12 Supv Elections,President,,Joseph R. Biden/Kamala D. Harris,DEM,147,153,65,365
 Columbia,13 Supv Elections,President,,Joseph R. Biden/Kamala D. Harris,DEM,-,-,-,11
-Columbia,14  Supv Elections,President,,Joseph R. Biden/Kamala D. Harris,DEM,-,-,-,108
+Columbia,14 Supv Elections,President,,Joseph R. Biden/Kamala D. Harris,DEM,-,-,-,108
 Columbia,15 Winfield Comm Ctr,President,,Joseph R. Biden/Kamala D. Harris,DEM,-,-,-,100
 Columbia,16 Winfield Comm Ctr,President,,Joseph R. Biden/Kamala D. Harris,DEM,215,171,144,530
-Columbia,17  Richardson Comm Ctr,President,,Joseph R. Biden/Kamala D. Harris,DEM,170,151,75,396
+Columbia,17 Richardson Comm Ctr,President,,Joseph R. Biden/Kamala D. Harris,DEM,170,151,75,396
 Columbia,21 Westside Community Ctr,President,,Joseph R. Biden/Kamala D. Harris,DEM,147,101,49,297
 Columbia,22 Columbia City,President,,Joseph R. Biden/Kamala D. Harris,DEM,-,-,-,337
 Columbia,23 Ft White Comm Center,President,,Joseph R. Biden/Kamala D. Harris,DEM,505,469,126,1100
@@ -46,10 +46,10 @@ Columbia,54 Supv Elections Office,President,,Joseph R. Biden/Kamala D. Harris,DE
 Columbia,10 Richardson Comm Ctr,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,1
 Columbia,12 Supv Elections,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,4
 Columbia,13 Supv Elections,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,1
-Columbia,14  Supv Elections,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,6
+Columbia,14 Supv Elections,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,6
 Columbia,15 Winfield Comm Ctr,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,3
 Columbia,16 Winfield Comm Ctr,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,10
-Columbia,17  Richardson Comm Ctr,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,9
+Columbia,17 Richardson Comm Ctr,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,9
 Columbia,21 Westside Community Ctr,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,6
 Columbia,22 Columbia City,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,14
 Columbia,23 Ft White Comm Center,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohen",LPF,-,-,-,33
@@ -68,10 +68,10 @@ Columbia,54 Supv Elections Office,President,,"Jo Jorgensen/Jeremy ""Spike"" Cohe
 Columbia,10 Richardson Comm Ctr,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,-,-,-,1
 Columbia,12 Supv Elections,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,0,0,0,0
 Columbia,13 Supv Elections,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,0,0,0,0
-Columbia,14  Supv Elections,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,0,0,0,0
+Columbia,14 Supv Elections,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,0,0,0,0
 Columbia,15 Winfield Comm Ctr,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,0,0,0,0
 Columbia,16 Winfield Comm Ctr,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,-,-,-,2
-Columbia,17  Richardson Comm Ctr,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,0,0,0,0
+Columbia,17 Richardson Comm Ctr,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,0,0,0,0
 Columbia,21 Westside Community Ctr,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,-,-,-,1
 Columbia,22 Columbia City,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,-,-,-,1
 Columbia,23 Ft White Comm Center,President,,"Roque ""Rocky"" de la Fuente/Darcy G. Richardson",REF,-,-,-,2
@@ -90,10 +90,10 @@ Columbia,54 Supv Elections Office,President,,"Roque ""Rocky"" de la Fuente/Darcy
 Columbia,10 Richardson Comm Ctr,President,,Gloria La Riva / Sunil Freeman,PSL,-,-,-,3
 Columbia,12 Supv Elections,President,,Gloria La Riva / Sunil Freeman,PSL,-,-,-,1
 Columbia,13 Supv Elections,President,,Gloria La Riva / Sunil Freeman,PSL,0,0,0,0
-Columbia,14  Supv Elections,President,,Gloria La Riva / Sunil Freeman,PSL,0,0,0,0
+Columbia,14 Supv Elections,President,,Gloria La Riva / Sunil Freeman,PSL,0,0,0,0
 Columbia,15 Winfield Comm Ctr,President,,Gloria La Riva / Sunil Freeman,PSL,0,0,0,0
 Columbia,16 Winfield Comm Ctr,President,,Gloria La Riva / Sunil Freeman,PSL,-,-,-,1
-Columbia,17  Richardson Comm Ctr,President,,Gloria La Riva / Sunil Freeman,PSL,-,-,-,1
+Columbia,17 Richardson Comm Ctr,President,,Gloria La Riva / Sunil Freeman,PSL,-,-,-,1
 Columbia,21 Westside Community Ctr,President,,Gloria La Riva / Sunil Freeman,PSL,0,0,0,0
 Columbia,22 Columbia City,President,,Gloria La Riva / Sunil Freeman,PSL,-,-,-,3
 Columbia,23 Ft White Comm Center,President,,Gloria La Riva / Sunil Freeman,PSL,-,-,-,7
@@ -112,10 +112,10 @@ Columbia,54 Supv Elections Office,President,,Gloria La Riva / Sunil Freeman,PSL,
 Columbia,10 Richardson Comm Ctr,President,,Howie Hawkins/Angela Nicole Walker,GRE,-,-,-,2
 Columbia,12 Supv Elections,President,,Howie Hawkins/Angela Nicole Walker,GRE,-,-,-,2
 Columbia,13 Supv Elections,President,,Howie Hawkins/Angela Nicole Walker,GRE,0,0,0,0
-Columbia,14  Supv Elections,President,,Howie Hawkins/Angela Nicole Walker,GRE,0,0,0,0
+Columbia,14 Supv Elections,President,,Howie Hawkins/Angela Nicole Walker,GRE,0,0,0,0
 Columbia,15 Winfield Comm Ctr,President,,Howie Hawkins/Angela Nicole Walker,GRE,0,0,0,0
 Columbia,16 Winfield Comm Ctr,President,,Howie Hawkins/Angela Nicole Walker,GRE,0,0,0,0
-Columbia,17  Richardson Comm Ctr,President,,Howie Hawkins/Angela Nicole Walker,GRE,-,-,-,3
+Columbia,17 Richardson Comm Ctr,President,,Howie Hawkins/Angela Nicole Walker,GRE,-,-,-,3
 Columbia,21 Westside Community Ctr,President,,Howie Hawkins/Angela Nicole Walker,GRE,-,-,-,1
 Columbia,22 Columbia City,President,,Howie Hawkins/Angela Nicole Walker,GRE,-,-,-,2
 Columbia,23 Ft White Comm Center,President,,Howie Hawkins/Angela Nicole Walker,GRE,-,-,-,7
@@ -134,10 +134,10 @@ Columbia,54 Supv Elections Office,President,,Howie Hawkins/Angela Nicole Walker,
 Columbia,10 Richardson Comm Ctr,President,,Don Blankenship/William Mohr,CPF,-,-,-,1
 Columbia,12 Supv Elections,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
 Columbia,13 Supv Elections,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
-Columbia,14  Supv Elections,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
+Columbia,14 Supv Elections,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
 Columbia,15 Winfield Comm Ctr,President,,Don Blankenship/William Mohr,CPF,-,-,-,2
 Columbia,16 Winfield Comm Ctr,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
-Columbia,17  Richardson Comm Ctr,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
+Columbia,17 Richardson Comm Ctr,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
 Columbia,21 Westside Community Ctr,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
 Columbia,22 Columbia City,President,,Don Blankenship/William Mohr,CPF,0,0,0,0
 Columbia,23 Ft White Comm Center,President,,Don Blankenship/William Mohr,CPF,-,-,-,4
@@ -156,10 +156,10 @@ Columbia,54 Supv Elections Office,President,,Don Blankenship/William Mohr,CPF,0,
 Columbia,10 Richardson Comm Ctr,President,,Write-in,,-,-,-,1
 Columbia,12 Supv Elections,President,,Write-in,,-,-,-,1
 Columbia,13 Supv Elections,President,,Write-in,,0,0,0,0
-Columbia,14  Supv Elections,President,,Write-in,,0,0,0,0
+Columbia,14 Supv Elections,President,,Write-in,,0,0,0,0
 Columbia,15 Winfield Comm Ctr,President,,Write-in,,0,0,0,0
 Columbia,16 Winfield Comm Ctr,President,,Write-in,,-,-,-,3
-Columbia,17  Richardson Comm Ctr,President,,Write-in,,-,-,-,2
+Columbia,17 Richardson Comm Ctr,President,,Write-in,,-,-,-,2
 Columbia,21 Westside Community Ctr,President,,Write-in,,-,-,-,2
 Columbia,22 Columbia City,President,,Write-in,,-,-,-,1
 Columbia,23 Ft White Comm Center,President,,Write-in,,-,-,-,10
@@ -178,10 +178,10 @@ Columbia,54 Supv Elections Office,President,,Write-in,,-,-,-,2
 Columbia,10 Richardson Comm Ctr,President,,OVER VOTES,STATS,-,-,-,1
 Columbia,12 Supv Elections,President,,OVER VOTES,STATS,0,0,0,0
 Columbia,13 Supv Elections,President,,OVER VOTES,STATS,0,0,0,0
-Columbia,14  Supv Elections,President,,OVER VOTES,STATS,0,0,0,0
+Columbia,14 Supv Elections,President,,OVER VOTES,STATS,0,0,0,0
 Columbia,15 Winfield Comm Ctr,President,,OVER VOTES,STATS,-,-,-,1
 Columbia,16 Winfield Comm Ctr,President,,OVER VOTES,STATS,0,0,0,0
-Columbia,17  Richardson Comm Ctr,President,,OVER VOTES,STATS,-,-,-,1
+Columbia,17 Richardson Comm Ctr,President,,OVER VOTES,STATS,-,-,-,1
 Columbia,21 Westside Community Ctr,President,,OVER VOTES,STATS,0,0,0,0
 Columbia,22 Columbia City,President,,OVER VOTES,STATS,0,0,0,0
 Columbia,23 Ft White Comm Center,President,,OVER VOTES,STATS,-,-,-,5
@@ -200,10 +200,10 @@ Columbia,54 Supv Elections Office,President,,OVER VOTES,STATS,0,0,0,0
 Columbia,10 Richardson Comm Ctr,President,,UNDER VOTES,STATS,-,-,-,10
 Columbia,12 Supv Elections,President,,UNDER VOTES,STATS,-,-,-,6
 Columbia,13 Supv Elections,President,,UNDER VOTES,STATS,0,0,0,0
-Columbia,14  Supv Elections,President,,UNDER VOTES,STATS,0,0,0,0
+Columbia,14 Supv Elections,President,,UNDER VOTES,STATS,0,0,0,0
 Columbia,15 Winfield Comm Ctr,President,,UNDER VOTES,STATS,-,-,-,1
 Columbia,16 Winfield Comm Ctr,President,,UNDER VOTES,STATS,-,-,-,8
-Columbia,17  Richardson Comm Ctr,President,,UNDER VOTES,STATS,-,-,-,7
+Columbia,17 Richardson Comm Ctr,President,,UNDER VOTES,STATS,-,-,-,7
 Columbia,21 Westside Community Ctr,President,,UNDER VOTES,STATS,-,-,-,5
 Columbia,22 Columbia City,President,,UNDER VOTES,STATS,-,-,-,8
 Columbia,23 Ft White Comm Center,President,,UNDER VOTES,STATS,-,-,-,21
@@ -220,9 +220,9 @@ Columbia,52 Columbia City,President,,UNDER VOTES,STATS,-,-,-,8
 Columbia,53 Supv Elections Office,President,,UNDER VOTES,STATS,-,-,-,6
 Columbia,54 Supv Elections Office,President,,UNDER VOTES,STATS,-,-,-,9
 Columbia,13 Supv Elections,U.S. House,2,Neal Dunn,REP,-,-,-,59
-Columbia,14  Supv Elections,U.S. House,2,Neal Dunn,REP,-,-,-,42
+Columbia,14 Supv Elections,U.S. House,2,Neal Dunn,REP,-,-,-,42
 Columbia,16 Winfield Comm Ctr,U.S. House,2,Neal Dunn,REP,373,539,391,1303
-Columbia,17  Richardson Comm Ctr,U.S. House,2,Neal Dunn,REP,64,95,46,205
+Columbia,17 Richardson Comm Ctr,U.S. House,2,Neal Dunn,REP,64,95,46,205
 Columbia,21 Westside Community Ctr,U.S. House,2,Neal Dunn,REP,264,537,330,1131
 Columbia,22 Columbia City,U.S. House,2,Neal Dunn,REP,357,791,301,1449
 Columbia,23 Ft White Comm Center,U.S. House,2,Neal Dunn,REP,769,2411,651,3831
@@ -239,9 +239,9 @@ Columbia,52 Columbia City,U.S. House,2,Neal Dunn,REP,467,1235,456,2158
 Columbia,53 Supv Elections Office,U.S. House,2,Neal Dunn,REP,271,475,189,935
 Columbia,54 Supv Elections Office,U.S. House,2,Neal Dunn,REP,228,322,96,646
 Columbia,13 Supv Elections,U.S. House,2,Write-in,,-,-,-,1
-Columbia,14  Supv Elections,U.S. House,2,Write-in,,-,-,-,4
+Columbia,14 Supv Elections,U.S. House,2,Write-in,,-,-,-,4
 Columbia,16 Winfield Comm Ctr,U.S. House,2,Write-in,,-,-,-,67
-Columbia,17  Richardson Comm Ctr,U.S. House,2,Write-in,,-,-,-,7
+Columbia,17 Richardson Comm Ctr,U.S. House,2,Write-in,,-,-,-,7
 Columbia,21 Westside Community Ctr,U.S. House,2,Write-in,,-,-,-,49
 Columbia,22 Columbia City,U.S. House,2,Write-in,,-,-,-,56
 Columbia,23 Ft White Comm Center,U.S. House,2,Write-in,,-,-,-,204
@@ -258,9 +258,9 @@ Columbia,52 Columbia City,U.S. House,2,Write-in,,-,-,-,73
 Columbia,53 Supv Elections Office,U.S. House,2,Write-in,,-,-,-,81
 Columbia,54 Supv Elections Office,U.S. House,2,Write-in,,-,-,-,52
 Columbia,13 Supv Elections,U.S. House,2,OVER VOTES,STATS,0,0,0,0
-Columbia,14  Supv Elections,U.S. House,2,OVER VOTES,STATS,0,0,0,0
+Columbia,14 Supv Elections,U.S. House,2,OVER VOTES,STATS,0,0,0,0
 Columbia,16 Winfield Comm Ctr,U.S. House,2,OVER VOTES,STATS,0,0,0,0
-Columbia,17  Richardson Comm Ctr,U.S. House,2,OVER VOTES,STATS,0,0,0,0
+Columbia,17 Richardson Comm Ctr,U.S. House,2,OVER VOTES,STATS,0,0,0,0
 Columbia,21 Westside Community Ctr,U.S. House,2,OVER VOTES,STATS,0,0,0,0
 Columbia,22 Columbia City,U.S. House,2,OVER VOTES,STATS,0,0,0,0
 Columbia,23 Ft White Comm Center,U.S. House,2,OVER VOTES,STATS,-,-,-,1
@@ -277,9 +277,9 @@ Columbia,52 Columbia City,U.S. House,2,OVER VOTES,STATS,0,0,0,0
 Columbia,53 Supv Elections Office,U.S. House,2,OVER VOTES,STATS,0,0,0,0
 Columbia,54 Supv Elections Office,U.S. House,2,OVER VOTES,STATS,0,0,0,0
 Columbia,13 Supv Elections,U.S. House,2,UNDER VOTES,STATS,-,-,-,7
-Columbia,14  Supv Elections,U.S. House,2,UNDER VOTES,STATS,-,-,-,6
+Columbia,14 Supv Elections,U.S. House,2,UNDER VOTES,STATS,-,-,-,6
 Columbia,16 Winfield Comm Ctr,U.S. House,2,UNDER VOTES,STATS,103,93,92,288
-Columbia,17  Richardson Comm Ctr,U.S. House,2,UNDER VOTES,STATS,-,-,-,26
+Columbia,17 Richardson Comm Ctr,U.S. House,2,UNDER VOTES,STATS,-,-,-,26
 Columbia,21 Westside Community Ctr,U.S. House,2,UNDER VOTES,STATS,75,69,35,179
 Columbia,22 Columbia City,U.S. House,2,UNDER VOTES,STATS,-,-,-,202
 Columbia,23 Ft White Comm Center,U.S. House,2,UNDER VOTES,STATS,283,311,80,674
@@ -297,47 +297,47 @@ Columbia,53 Supv Elections Office,U.S. House,2,UNDER VOTES,STATS,114,98,48,260
 Columbia,54 Supv Elections Office,U.S. House,2,UNDER VOTES,STATS,-,-,-,141
 Columbia,10 Richardson Comm Ctr,U.S. House,5,Gary Adler,REP,55,100,35,190
 Columbia,12 Supv Elections,U.S. House,5,Gary Adler,REP,-,-,-,62
-Columbia,14  Supv Elections,U.S. House,5,Gary Adler,REP,33,53,30,116
+Columbia,14 Supv Elections,U.S. House,5,Gary Adler,REP,33,53,30,116
 Columbia,15 Winfield Comm Ctr,U.S. House,5,Gary Adler,REP,84,186,127,397
 Columbia,16 Winfield Comm Ctr,U.S. House,5,Gary Adler,REP,-,-,-,1
-Columbia,17  Richardson Comm Ctr,U.S. House,5,Gary Adler,REP,108,226,117,451
+Columbia,17 Richardson Comm Ctr,U.S. House,5,Gary Adler,REP,108,226,117,451
 Columbia,34 Supv Elections,U.S. House,5,Gary Adler,REP,0,0,0,0
 Columbia,41 Lulu Comm Center,U.S. House,5,Gary Adler,REP,165,216,81,462
 Columbia,51 Southside Rec Complex,U.S. House,5,Gary Adler,REP,-,-,-,79
 Columbia,10 Richardson Comm Ctr,U.S. House,5,Al Lawson,DEM,368,248,182,798
 Columbia,12 Supv Elections,U.S. House,5,Al Lawson,DEM,151,154,65,370
-Columbia,14  Supv Elections,U.S. House,5,Al Lawson,DEM,-,-,-,99
+Columbia,14 Supv Elections,U.S. House,5,Al Lawson,DEM,-,-,-,99
 Columbia,15 Winfield Comm Ctr,U.S. House,5,Al Lawson,DEM,37,48,33,118
 Columbia,16 Winfield Comm Ctr,U.S. House,5,Al Lawson,DEM,0,0,0,0
-Columbia,17  Richardson Comm Ctr,U.S. House,5,Al Lawson,DEM,149,139,71,359
+Columbia,17 Richardson Comm Ctr,U.S. House,5,Al Lawson,DEM,149,139,71,359
 Columbia,34 Supv Elections,U.S. House,5,Al Lawson,DEM,0,0,0,0
 Columbia,41 Lulu Comm Center,U.S. House,5,Al Lawson,DEM,-,-,-,247
 Columbia,51 Southside Rec Complex,U.S. House,5,Al Lawson,DEM,-,-,-,42
 Columbia,10 Richardson Comm Ctr,U.S. House,5,OVER VOTES,STATS,0,0,0,0
 Columbia,12 Supv Elections,U.S. House,5,OVER VOTES,STATS,0,0,0,0
-Columbia,14  Supv Elections,U.S. House,5,OVER VOTES,STATS,0,0,0,0
+Columbia,14 Supv Elections,U.S. House,5,OVER VOTES,STATS,0,0,0,0
 Columbia,15 Winfield Comm Ctr,U.S. House,5,OVER VOTES,STATS,-,-,-,1
 Columbia,16 Winfield Comm Ctr,U.S. House,5,OVER VOTES,STATS,0,0,0,0
-Columbia,17  Richardson Comm Ctr,U.S. House,5,OVER VOTES,STATS,0,0,0,0
+Columbia,17 Richardson Comm Ctr,U.S. House,5,OVER VOTES,STATS,0,0,0,0
 Columbia,34 Supv Elections,U.S. House,5,OVER VOTES,STATS,0,0,0,0
 Columbia,41 Lulu Comm Center,U.S. House,5,OVER VOTES,STATS,0,0,0,0
 Columbia,51 Southside Rec Complex,U.S. House,5,OVER VOTES,STATS,0,0,0,0
 Columbia,10 Richardson Comm Ctr,U.S. House,5,UNDER VOTES,STATS,-,-,-,24
 Columbia,12 Supv Elections,U.S. House,5,UNDER VOTES,STATS,-,-,-,9
-Columbia,14  Supv Elections,U.S. House,5,UNDER VOTES,STATS,-,-,-,5
+Columbia,14 Supv Elections,U.S. House,5,UNDER VOTES,STATS,-,-,-,5
 Columbia,15 Winfield Comm Ctr,U.S. House,5,UNDER VOTES,STATS,-,-,-,14
 Columbia,16 Winfield Comm Ctr,U.S. House,5,UNDER VOTES,STATS,0,0,0,0
-Columbia,17  Richardson Comm Ctr,U.S. House,5,UNDER VOTES,STATS,-,-,-,22
+Columbia,17 Richardson Comm Ctr,U.S. House,5,UNDER VOTES,STATS,-,-,-,22
 Columbia,34 Supv Elections,U.S. House,5,UNDER VOTES,STATS,0,0,0,0
 Columbia,41 Lulu Comm Center,U.S. House,5,UNDER VOTES,STATS,-,-,-,24
 Columbia,51 Southside Rec Complex,U.S. House,5,UNDER VOTES,STATS,-,-,-,3
 Columbia,10 Richardson Comm Ctr,State House,10,Chuck Brannan,REP,88,127,48,263
 Columbia,12 Supv Elections,State House,10,Chuck Brannan,REP,-,-,-,98
 Columbia,13 Supv Elections,State House,10,Chuck Brannan,REP,-,-,-,57
-Columbia,14  Supv Elections,State House,10,Chuck Brannan,REP,54,79,36,169
+Columbia,14 Supv Elections,State House,10,Chuck Brannan,REP,54,79,36,169
 Columbia,15 Winfield Comm Ctr,State House,10,Chuck Brannan,REP,84,203,137,424
 Columbia,16 Winfield Comm Ctr,State House,10,Chuck Brannan,REP,293,493,340,1126
-Columbia,17  Richardson Comm Ctr,State House,10,Chuck Brannan,REP,182,327,164,673
+Columbia,17 Richardson Comm Ctr,State House,10,Chuck Brannan,REP,182,327,164,673
 Columbia,21 Westside Community Ctr,State House,10,Chuck Brannan,REP,223,512,318,1053
 Columbia,22 Columbia City,State House,10,Chuck Brannan,REP,308,749,292,1349
 Columbia,23 Ft White Comm Center,State House,10,Chuck Brannan,REP,667,2297,593,3557
@@ -356,10 +356,10 @@ Columbia,54 Supv Elections Office,State House,10,Chuck Brannan,REP,188,304,90,58
 Columbia,10 Richardson Comm Ctr,State House,10,Rock Aboujaoude Jr,DEM,322,213,163,698
 Columbia,12 Supv Elections,State House,10,Rock Aboujaoude Jr,DEM,132,135,58,325
 Columbia,13 Supv Elections,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,8
-Columbia,14  Supv Elections,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,96
+Columbia,14 Supv Elections,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,96
 Columbia,15 Winfield Comm Ctr,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,87
 Columbia,16 Winfield Comm Ctr,State House,10,Rock Aboujaoude Jr,DEM,188,148,125,461
-Columbia,17  Richardson Comm Ctr,State House,10,Rock Aboujaoude Jr,DEM,153,127,69,349
+Columbia,17 Richardson Comm Ctr,State House,10,Rock Aboujaoude Jr,DEM,153,127,69,349
 Columbia,21 Westside Community Ctr,State House,10,Rock Aboujaoude Jr,DEM,121,90,39,250
 Columbia,22 Columbia City,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,291
 Columbia,23 Ft White Comm Center,State House,10,Rock Aboujaoude Jr,DEM,432,419,120,971
@@ -378,10 +378,10 @@ Columbia,54 Supv Elections Office,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,21
 Columbia,10 Richardson Comm Ctr,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,12 Supv Elections,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,13 Supv Elections,State House,10,OVER VOTES,STATS,0,0,0,0
-Columbia,14  Supv Elections,State House,10,OVER VOTES,STATS,0,0,0,0
+Columbia,14 Supv Elections,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,15 Winfield Comm Ctr,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,16 Winfield Comm Ctr,State House,10,OVER VOTES,STATS,0,0,0,0
-Columbia,17  Richardson Comm Ctr,State House,10,OVER VOTES,STATS,0,0,0,0
+Columbia,17 Richardson Comm Ctr,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,21 Westside Community Ctr,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,22 Columbia City,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,23 Ft White Comm Center,State House,10,OVER VOTES,STATS,0,0,0,0
@@ -400,10 +400,10 @@ Columbia,54 Supv Elections Office,State House,10,OVER VOTES,STATS,0,0,0,0
 Columbia,10 Richardson Comm Ctr,State House,10,UNDER VOTES,STATS,-,-,-,51
 Columbia,12 Supv Elections,State House,10,UNDER VOTES,STATS,-,-,-,18
 Columbia,13 Supv Elections,State House,10,UNDER VOTES,STATS,-,-,-,2
-Columbia,14  Supv Elections,State House,10,UNDER VOTES,STATS,-,-,-,7
+Columbia,14 Supv Elections,State House,10,UNDER VOTES,STATS,-,-,-,7
 Columbia,15 Winfield Comm Ctr,State House,10,UNDER VOTES,STATS,-,-,-,19
 Columbia,16 Winfield Comm Ctr,State House,10,UNDER VOTES,STATS,-,-,-,72
-Columbia,17  Richardson Comm Ctr,State House,10,UNDER VOTES,STATS,-,-,-,48
+Columbia,17 Richardson Comm Ctr,State House,10,UNDER VOTES,STATS,-,-,-,48
 Columbia,21 Westside Community Ctr,State House,10,UNDER VOTES,STATS,-,-,-,56
 Columbia,22 Columbia City,State House,10,UNDER VOTES,STATS,-,-,-,67
 Columbia,23 Ft White Comm Center,State House,10,UNDER VOTES,STATS,60,85,37,182
