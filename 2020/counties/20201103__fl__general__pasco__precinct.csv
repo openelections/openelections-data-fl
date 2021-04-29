@@ -22,7 +22,7 @@ Pasco,020,President,,Donald J. Trump,REP,93,149,75,317
 Pasco,021,President,,Donald J. Trump,REP,104,140,230,474
 Pasco,022,President,,Donald J. Trump,REP,535,730,460,1725
 Pasco,023,President,,Donald J. Trump,REP,386,414,309,1109
-Pasco,024,President,,Donald J. Trump,REP,-,-,-,177
+Pasco,024,President,,Donald J. Trump,REP,,,,177
 Pasco,025,President,,Donald J. Trump,REP,1010,1221,964,3195
 Pasco,026,President,,Donald J. Trump,REP,367,592,515,1474
 Pasco,027,President,,Donald J. Trump,REP,1077,1621,1251,3949
@@ -72,7 +72,7 @@ Pasco,070,President,,Donald J. Trump,REP,750,943,288,1981
 Pasco,071,President,,Donald J. Trump,REP,289,353,261,903
 Pasco,072,President,,Donald J. Trump,REP,412,573,367,1352
 Pasco,073,President,,Donald J. Trump,REP,608,893,581,2082
-Pasco,074,President,,Donald J. Trump,REP,-,-,-,57
+Pasco,074,President,,Donald J. Trump,REP,,,,57
 Pasco,075,President,,Donald J. Trump,REP,525,581,472,1578
 Pasco,076,President,,Donald J. Trump,REP,493,437,552,1482
 Pasco,077,President,,Donald J. Trump,REP,520,944,395,1859
@@ -129,11 +129,11 @@ Pasco,016,President,,Joseph R. Biden,DEM,68,46,47,161
 Pasco,017,President,,Joseph R. Biden,DEM,984,719,187,1890
 Pasco,018,President,,Joseph R. Biden,DEM,203,99,79,381
 Pasco,019,President,,Joseph R. Biden,DEM,572,299,100,971
-Pasco,020,President,,Joseph R. Biden,DEM,-,-,-,143
+Pasco,020,President,,Joseph R. Biden,DEM,,,,143
 Pasco,021,President,,Joseph R. Biden,DEM,90,65,91,246
 Pasco,022,President,,Joseph R. Biden,DEM,477,291,116,884
 Pasco,023,President,,Joseph R. Biden,DEM,361,127,76,564
-Pasco,024,President,,Joseph R. Biden,DEM,-,-,-,122
+Pasco,024,President,,Joseph R. Biden,DEM,,,,122
 Pasco,025,President,,Joseph R. Biden,DEM,1468,510,351,2329
 Pasco,026,President,,Joseph R. Biden,DEM,462,199,120,781
 Pasco,027,President,,Joseph R. Biden,DEM,849,340,182,1371
@@ -165,7 +165,7 @@ Pasco,052,President,,Joseph R. Biden,DEM,1056,430,159,1645
 Pasco,053,President,,Joseph R. Biden,DEM,438,206,135,779
 Pasco,054,President,,Joseph R. Biden,DEM,686,302,218,1206
 Pasco,055,President,,Joseph R. Biden,DEM,912,594,155,1661
-Pasco,056,President,,Joseph R. Biden,DEM,-,-,-,182
+Pasco,056,President,,Joseph R. Biden,DEM,,,,182
 Pasco,057,President,,Joseph R. Biden,DEM,393,185,127,705
 Pasco,058,President,,Joseph R. Biden,DEM,270,115,95,480
 Pasco,059,President,,Joseph R. Biden,DEM,1213,486,261,1960
@@ -183,7 +183,7 @@ Pasco,070,President,,Joseph R. Biden,DEM,862,371,82,1315
 Pasco,071,President,,Joseph R. Biden,DEM,239,88,44,371
 Pasco,072,President,,Joseph R. Biden,DEM,544,286,124,954
 Pasco,073,President,,Joseph R. Biden,DEM,1073,637,275,1985
-Pasco,074,President,,Joseph R. Biden,DEM,-,-,-,61
+Pasco,074,President,,Joseph R. Biden,DEM,,,,61
 Pasco,075,President,,Joseph R. Biden,DEM,730,295,168,1193
 Pasco,076,President,,Joseph R. Biden,DEM,513,138,164,815
 Pasco,077,President,,Joseph R. Biden,DEM,433,194,64,691
@@ -197,7 +197,7 @@ Pasco,084,President,,Joseph R. Biden,DEM,348,211,126,685
 Pasco,085,President,,Joseph R. Biden,DEM,633,407,178,1218
 Pasco,086,President,,Joseph R. Biden,DEM,432,184,100,716
 Pasco,087,President,,Joseph R. Biden,DEM,1027,751,264,2042
-Pasco,088,President,,Joseph R. Biden,DEM,-,-,-,155
+Pasco,088,President,,Joseph R. Biden,DEM,,,,155
 Pasco,089,President,,Joseph R. Biden,DEM,182,90,53,325
 Pasco,090,President,,Joseph R. Biden,DEM,1300,1059,313,2672
 Pasco,091,President,,Joseph R. Biden,DEM,603,259,126,988
@@ -221,894 +221,894 @@ Pasco,108,President,,Joseph R. Biden,DEM,1045,455,177,1677
 Pasco,109,President,,Joseph R. Biden,DEM,1208,662,173,2043
 Pasco,110,President,,Joseph R. Biden,DEM,552,323,79,954
 Pasco,111,President,,Joseph R. Biden,DEM,808,350,120,1278
-Pasco,001,President,,Jo Jorgensen,LPF,-,-,-,24
-Pasco,002,President,,Jo Jorgensen,LPF,-,-,-,6
-Pasco,003,President,,Jo Jorgensen,LPF,-,-,-,18
-Pasco,004,President,,Jo Jorgensen,LPF,-,-,-,5
-Pasco,005,President,,Jo Jorgensen,LPF,-,-,-,5
-Pasco,006,President,,Jo Jorgensen,LPF,-,-,-,61
-Pasco,007,President,,Jo Jorgensen,LPF,-,-,-,43
-Pasco,008,President,,Jo Jorgensen,LPF,-,-,-,36
-Pasco,009,President,,Jo Jorgensen,LPF,-,-,-,2
-Pasco,010,President,,Jo Jorgensen,LPF,-,-,-,6
-Pasco,011,President,,Jo Jorgensen,LPF,-,-,-,46
-Pasco,012,President,,Jo Jorgensen,LPF,-,-,-,15
-Pasco,013,President,,Jo Jorgensen,LPF,-,-,-,13
-Pasco,014,President,,Jo Jorgensen,LPF,-,-,-,55
-Pasco,015,President,,Jo Jorgensen,LPF,-,-,-,39
-Pasco,016,President,,Jo Jorgensen,LPF,-,-,-,7
-Pasco,017,President,,Jo Jorgensen,LPF,-,-,-,21
-Pasco,018,President,,Jo Jorgensen,LPF,-,-,-,8
-Pasco,019,President,,Jo Jorgensen,LPF,-,-,-,15
-Pasco,020,President,,Jo Jorgensen,LPF,-,-,-,7
-Pasco,021,President,,Jo Jorgensen,LPF,-,-,-,6
-Pasco,022,President,,Jo Jorgensen,LPF,-,-,-,17
-Pasco,023,President,,Jo Jorgensen,LPF,-,-,-,9
-Pasco,024,President,,Jo Jorgensen,LPF,-,-,-,5
-Pasco,025,President,,Jo Jorgensen,LPF,-,-,-,37
-Pasco,026,President,,Jo Jorgensen,LPF,-,-,-,16
-Pasco,027,President,,Jo Jorgensen,LPF,-,-,-,36
-Pasco,028,President,,Jo Jorgensen,LPF,-,-,-,36
-Pasco,029,President,,Jo Jorgensen,LPF,-,-,-,8
-Pasco,030,President,,Jo Jorgensen,LPF,-,-,-,20
-Pasco,031,President,,Jo Jorgensen,LPF,-,-,-,29
-Pasco,032,President,,Jo Jorgensen,LPF,-,-,-,37
-Pasco,033,President,,Jo Jorgensen,LPF,-,-,-,31
-Pasco,034,President,,Jo Jorgensen,LPF,-,-,-,20
-Pasco,035,President,,Jo Jorgensen,LPF,-,-,-,59
-Pasco,036,President,,Jo Jorgensen,LPF,-,-,-,64
-Pasco,037,President,,Jo Jorgensen,LPF,-,-,-,13
-Pasco,038,President,,Jo Jorgensen,LPF,-,-,-,25
-Pasco,039,President,,Jo Jorgensen,LPF,-,-,-,6
-Pasco,040,President,,Jo Jorgensen,LPF,-,-,-,5
-Pasco,041,President,,Jo Jorgensen,LPF,-,-,-,14
-Pasco,042,President,,Jo Jorgensen,LPF,-,-,-,38
-Pasco,043,President,,Jo Jorgensen,LPF,-,-,-,4
-Pasco,044,President,,Jo Jorgensen,LPF,-,-,-,3
-Pasco,045,President,,Jo Jorgensen,LPF,-,-,-,28
-Pasco,046,President,,Jo Jorgensen,LPF,-,-,-,29
-Pasco,047,President,,Jo Jorgensen,LPF,-,-,-,10
-Pasco,048,President,,Jo Jorgensen,LPF,-,-,-,18
-Pasco,049,President,,Jo Jorgensen,LPF,-,-,-,32
-Pasco,050,President,,Jo Jorgensen,LPF,-,-,-,14
-Pasco,051,President,,Jo Jorgensen,LPF,-,-,-,25
-Pasco,052,President,,Jo Jorgensen,LPF,-,-,-,25
-Pasco,053,President,,Jo Jorgensen,LPF,-,-,-,24
-Pasco,054,President,,Jo Jorgensen,LPF,-,-,-,25
-Pasco,055,President,,Jo Jorgensen,LPF,-,-,-,37
-Pasco,056,President,,Jo Jorgensen,LPF,-,-,-,1
-Pasco,057,President,,Jo Jorgensen,LPF,-,-,-,18
-Pasco,058,President,,Jo Jorgensen,LPF,-,-,-,9
-Pasco,059,President,,Jo Jorgensen,LPF,-,-,-,27
-Pasco,060,President,,Jo Jorgensen,LPF,-,-,-,24
-Pasco,061,President,,Jo Jorgensen,LPF,-,-,-,9
-Pasco,062,President,,Jo Jorgensen,LPF,-,-,-,32
-Pasco,063,President,,Jo Jorgensen,LPF,-,-,-,9
-Pasco,064,President,,Jo Jorgensen,LPF,-,-,-,7
-Pasco,065,President,,Jo Jorgensen,LPF,-,-,-,30
-Pasco,066,President,,Jo Jorgensen,LPF,-,-,-,32
-Pasco,067,President,,Jo Jorgensen,LPF,-,-,-,26
-Pasco,068,President,,Jo Jorgensen,LPF,-,-,-,13
-Pasco,069,President,,Jo Jorgensen,LPF,-,-,-,17
-Pasco,070,President,,Jo Jorgensen,LPF,-,-,-,20
-Pasco,071,President,,Jo Jorgensen,LPF,-,-,-,3
-Pasco,072,President,,Jo Jorgensen,LPF,-,-,-,24
-Pasco,073,President,,Jo Jorgensen,LPF,-,-,-,40
-Pasco,074,President,,Jo Jorgensen,LPF,-,-,-,1
-Pasco,075,President,,Jo Jorgensen,LPF,-,-,-,28
-Pasco,076,President,,Jo Jorgensen,LPF,-,-,-,9
-Pasco,077,President,,Jo Jorgensen,LPF,-,-,-,9
-Pasco,078,President,,Jo Jorgensen,LPF,-,-,-,13
-Pasco,079,President,,Jo Jorgensen,LPF,-,-,-,8
-Pasco,080,President,,Jo Jorgensen,LPF,-,-,-,10
-Pasco,081,President,,Jo Jorgensen,LPF,-,-,-,6
-Pasco,082,President,,Jo Jorgensen,LPF,-,-,-,13
-Pasco,083,President,,Jo Jorgensen,LPF,-,-,-,26
-Pasco,084,President,,Jo Jorgensen,LPF,-,-,-,14
-Pasco,085,President,,Jo Jorgensen,LPF,-,-,-,25
-Pasco,086,President,,Jo Jorgensen,LPF,-,-,-,10
-Pasco,087,President,,Jo Jorgensen,LPF,-,-,-,28
-Pasco,088,President,,Jo Jorgensen,LPF,-,-,-,2
-Pasco,089,President,,Jo Jorgensen,LPF,-,-,-,9
-Pasco,090,President,,Jo Jorgensen,LPF,-,-,-,35
-Pasco,091,President,,Jo Jorgensen,LPF,-,-,-,15
-Pasco,092,President,,Jo Jorgensen,LPF,-,-,-,12
-Pasco,093,President,,Jo Jorgensen,LPF,-,-,-,21
-Pasco,094,President,,Jo Jorgensen,LPF,-,-,-,18
-Pasco,095,President,,Jo Jorgensen,LPF,-,-,-,20
-Pasco,096,President,,Jo Jorgensen,LPF,-,-,-,16
-Pasco,097,President,,Jo Jorgensen,LPF,-,-,-,33
-Pasco,098,President,,Jo Jorgensen,LPF,-,-,-,11
-Pasco,099,President,,Jo Jorgensen,LPF,-,-,-,22
-Pasco,100,President,,Jo Jorgensen,LPF,-,-,-,20
-Pasco,101,President,,Jo Jorgensen,LPF,-,-,-,23
-Pasco,102,President,,Jo Jorgensen,LPF,-,-,-,18
-Pasco,103,President,,Jo Jorgensen,LPF,-,-,-,13
-Pasco,104,President,,Jo Jorgensen,LPF,-,-,-,5
-Pasco,105,President,,Jo Jorgensen,LPF,-,-,-,22
-Pasco,106,President,,Jo Jorgensen,LPF,-,-,-,19
-Pasco,107,President,,Jo Jorgensen,LPF,-,-,-,33
-Pasco,108,President,,Jo Jorgensen,LPF,-,-,-,50
-Pasco,109,President,,Jo Jorgensen,LPF,-,-,-,40
-Pasco,110,President,,Jo Jorgensen,LPF,-,-,-,10
-Pasco,111,President,,Jo Jorgensen,LPF,-,-,-,20
-Pasco,001,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,002,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,001,President,,Jo Jorgensen,LPF,,,,24
+Pasco,002,President,,Jo Jorgensen,LPF,,,,6
+Pasco,003,President,,Jo Jorgensen,LPF,,,,18
+Pasco,004,President,,Jo Jorgensen,LPF,,,,5
+Pasco,005,President,,Jo Jorgensen,LPF,,,,5
+Pasco,006,President,,Jo Jorgensen,LPF,,,,61
+Pasco,007,President,,Jo Jorgensen,LPF,,,,43
+Pasco,008,President,,Jo Jorgensen,LPF,,,,36
+Pasco,009,President,,Jo Jorgensen,LPF,,,,2
+Pasco,010,President,,Jo Jorgensen,LPF,,,,6
+Pasco,011,President,,Jo Jorgensen,LPF,,,,46
+Pasco,012,President,,Jo Jorgensen,LPF,,,,15
+Pasco,013,President,,Jo Jorgensen,LPF,,,,13
+Pasco,014,President,,Jo Jorgensen,LPF,,,,55
+Pasco,015,President,,Jo Jorgensen,LPF,,,,39
+Pasco,016,President,,Jo Jorgensen,LPF,,,,7
+Pasco,017,President,,Jo Jorgensen,LPF,,,,21
+Pasco,018,President,,Jo Jorgensen,LPF,,,,8
+Pasco,019,President,,Jo Jorgensen,LPF,,,,15
+Pasco,020,President,,Jo Jorgensen,LPF,,,,7
+Pasco,021,President,,Jo Jorgensen,LPF,,,,6
+Pasco,022,President,,Jo Jorgensen,LPF,,,,17
+Pasco,023,President,,Jo Jorgensen,LPF,,,,9
+Pasco,024,President,,Jo Jorgensen,LPF,,,,5
+Pasco,025,President,,Jo Jorgensen,LPF,,,,37
+Pasco,026,President,,Jo Jorgensen,LPF,,,,16
+Pasco,027,President,,Jo Jorgensen,LPF,,,,36
+Pasco,028,President,,Jo Jorgensen,LPF,,,,36
+Pasco,029,President,,Jo Jorgensen,LPF,,,,8
+Pasco,030,President,,Jo Jorgensen,LPF,,,,20
+Pasco,031,President,,Jo Jorgensen,LPF,,,,29
+Pasco,032,President,,Jo Jorgensen,LPF,,,,37
+Pasco,033,President,,Jo Jorgensen,LPF,,,,31
+Pasco,034,President,,Jo Jorgensen,LPF,,,,20
+Pasco,035,President,,Jo Jorgensen,LPF,,,,59
+Pasco,036,President,,Jo Jorgensen,LPF,,,,64
+Pasco,037,President,,Jo Jorgensen,LPF,,,,13
+Pasco,038,President,,Jo Jorgensen,LPF,,,,25
+Pasco,039,President,,Jo Jorgensen,LPF,,,,6
+Pasco,040,President,,Jo Jorgensen,LPF,,,,5
+Pasco,041,President,,Jo Jorgensen,LPF,,,,14
+Pasco,042,President,,Jo Jorgensen,LPF,,,,38
+Pasco,043,President,,Jo Jorgensen,LPF,,,,4
+Pasco,044,President,,Jo Jorgensen,LPF,,,,3
+Pasco,045,President,,Jo Jorgensen,LPF,,,,28
+Pasco,046,President,,Jo Jorgensen,LPF,,,,29
+Pasco,047,President,,Jo Jorgensen,LPF,,,,10
+Pasco,048,President,,Jo Jorgensen,LPF,,,,18
+Pasco,049,President,,Jo Jorgensen,LPF,,,,32
+Pasco,050,President,,Jo Jorgensen,LPF,,,,14
+Pasco,051,President,,Jo Jorgensen,LPF,,,,25
+Pasco,052,President,,Jo Jorgensen,LPF,,,,25
+Pasco,053,President,,Jo Jorgensen,LPF,,,,24
+Pasco,054,President,,Jo Jorgensen,LPF,,,,25
+Pasco,055,President,,Jo Jorgensen,LPF,,,,37
+Pasco,056,President,,Jo Jorgensen,LPF,,,,1
+Pasco,057,President,,Jo Jorgensen,LPF,,,,18
+Pasco,058,President,,Jo Jorgensen,LPF,,,,9
+Pasco,059,President,,Jo Jorgensen,LPF,,,,27
+Pasco,060,President,,Jo Jorgensen,LPF,,,,24
+Pasco,061,President,,Jo Jorgensen,LPF,,,,9
+Pasco,062,President,,Jo Jorgensen,LPF,,,,32
+Pasco,063,President,,Jo Jorgensen,LPF,,,,9
+Pasco,064,President,,Jo Jorgensen,LPF,,,,7
+Pasco,065,President,,Jo Jorgensen,LPF,,,,30
+Pasco,066,President,,Jo Jorgensen,LPF,,,,32
+Pasco,067,President,,Jo Jorgensen,LPF,,,,26
+Pasco,068,President,,Jo Jorgensen,LPF,,,,13
+Pasco,069,President,,Jo Jorgensen,LPF,,,,17
+Pasco,070,President,,Jo Jorgensen,LPF,,,,20
+Pasco,071,President,,Jo Jorgensen,LPF,,,,3
+Pasco,072,President,,Jo Jorgensen,LPF,,,,24
+Pasco,073,President,,Jo Jorgensen,LPF,,,,40
+Pasco,074,President,,Jo Jorgensen,LPF,,,,1
+Pasco,075,President,,Jo Jorgensen,LPF,,,,28
+Pasco,076,President,,Jo Jorgensen,LPF,,,,9
+Pasco,077,President,,Jo Jorgensen,LPF,,,,9
+Pasco,078,President,,Jo Jorgensen,LPF,,,,13
+Pasco,079,President,,Jo Jorgensen,LPF,,,,8
+Pasco,080,President,,Jo Jorgensen,LPF,,,,10
+Pasco,081,President,,Jo Jorgensen,LPF,,,,6
+Pasco,082,President,,Jo Jorgensen,LPF,,,,13
+Pasco,083,President,,Jo Jorgensen,LPF,,,,26
+Pasco,084,President,,Jo Jorgensen,LPF,,,,14
+Pasco,085,President,,Jo Jorgensen,LPF,,,,25
+Pasco,086,President,,Jo Jorgensen,LPF,,,,10
+Pasco,087,President,,Jo Jorgensen,LPF,,,,28
+Pasco,088,President,,Jo Jorgensen,LPF,,,,2
+Pasco,089,President,,Jo Jorgensen,LPF,,,,9
+Pasco,090,President,,Jo Jorgensen,LPF,,,,35
+Pasco,091,President,,Jo Jorgensen,LPF,,,,15
+Pasco,092,President,,Jo Jorgensen,LPF,,,,12
+Pasco,093,President,,Jo Jorgensen,LPF,,,,21
+Pasco,094,President,,Jo Jorgensen,LPF,,,,18
+Pasco,095,President,,Jo Jorgensen,LPF,,,,20
+Pasco,096,President,,Jo Jorgensen,LPF,,,,16
+Pasco,097,President,,Jo Jorgensen,LPF,,,,33
+Pasco,098,President,,Jo Jorgensen,LPF,,,,11
+Pasco,099,President,,Jo Jorgensen,LPF,,,,22
+Pasco,100,President,,Jo Jorgensen,LPF,,,,20
+Pasco,101,President,,Jo Jorgensen,LPF,,,,23
+Pasco,102,President,,Jo Jorgensen,LPF,,,,18
+Pasco,103,President,,Jo Jorgensen,LPF,,,,13
+Pasco,104,President,,Jo Jorgensen,LPF,,,,5
+Pasco,105,President,,Jo Jorgensen,LPF,,,,22
+Pasco,106,President,,Jo Jorgensen,LPF,,,,19
+Pasco,107,President,,Jo Jorgensen,LPF,,,,33
+Pasco,108,President,,Jo Jorgensen,LPF,,,,50
+Pasco,109,President,,Jo Jorgensen,LPF,,,,40
+Pasco,110,President,,Jo Jorgensen,LPF,,,,10
+Pasco,111,President,,Jo Jorgensen,LPF,,,,20
+Pasco,001,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,002,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,003,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,004,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,005,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,006,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
-Pasco,007,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,008,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,5
+Pasco,006,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Pasco,007,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,008,President,,"Roque ""Rocky"" De La Fuente",REF,,,,5
 Pasco,009,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,010,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,011,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
-Pasco,012,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,013,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,014,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,015,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,016,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,017,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,018,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,010,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,011,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Pasco,012,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,013,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,014,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,015,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,016,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,017,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,018,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,019,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,020,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,021,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,022,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,023,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,021,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,022,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,023,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,024,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,025,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
-Pasco,026,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,027,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,028,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
+Pasco,025,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Pasco,026,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,027,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,028,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
 Pasco,029,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,030,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,031,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
-Pasco,032,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,033,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,034,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,035,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,5
-Pasco,036,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
+Pasco,030,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,031,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Pasco,032,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,033,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,034,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,035,President,,"Roque ""Rocky"" De La Fuente",REF,,,,5
+Pasco,036,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
 Pasco,037,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,038,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
-Pasco,039,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Pasco,038,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Pasco,039,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
 Pasco,040,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,041,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,042,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Pasco,042,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
 Pasco,043,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,044,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,045,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,046,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Pasco,045,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,046,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
 Pasco,047,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,048,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,049,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,050,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,051,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,052,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
-Pasco,053,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,054,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,055,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Pasco,048,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,049,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,050,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,051,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,052,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Pasco,053,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,054,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,055,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
 Pasco,056,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,057,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,058,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,059,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,9
-Pasco,060,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,061,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,062,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,063,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,064,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,065,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,066,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Pasco,058,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,059,President,,"Roque ""Rocky"" De La Fuente",REF,,,,9
+Pasco,060,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,061,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,062,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,063,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,064,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,065,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,066,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
 Pasco,067,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,068,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,069,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,068,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,069,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,070,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,071,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,072,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,073,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Pasco,071,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,072,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,073,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
 Pasco,074,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,075,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,076,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Pasco,075,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,076,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
 Pasco,077,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,078,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,079,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,079,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,080,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,081,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,081,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,082,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,083,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,084,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,085,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,086,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,087,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,7
-Pasco,088,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,083,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,084,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,085,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,086,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,087,President,,"Roque ""Rocky"" De La Fuente",REF,,,,7
+Pasco,088,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,089,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,090,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,091,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,092,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Pasco,090,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,091,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,092,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
 Pasco,093,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,094,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,095,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,096,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,097,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
-Pasco,098,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,099,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,100,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,101,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,102,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Pasco,094,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,095,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,096,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,097,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Pasco,098,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,099,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,100,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,101,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,102,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
 Pasco,103,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,104,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Pasco,105,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Pasco,106,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,107,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,6
-Pasco,108,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,109,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
-Pasco,110,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,111,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
-Pasco,001,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,106,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,107,President,,"Roque ""Rocky"" De La Fuente",REF,,,,6
+Pasco,108,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,109,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Pasco,110,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,111,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Pasco,001,President,,Gloria La Riva,PSL,,,,1
 Pasco,002,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,003,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,004,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,005,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,006,President,,Gloria La Riva,PSL,-,-,-,7
-Pasco,007,President,,Gloria La Riva,PSL,-,-,-,5
-Pasco,008,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,004,President,,Gloria La Riva,PSL,,,,2
+Pasco,005,President,,Gloria La Riva,PSL,,,,2
+Pasco,006,President,,Gloria La Riva,PSL,,,,7
+Pasco,007,President,,Gloria La Riva,PSL,,,,5
+Pasco,008,President,,Gloria La Riva,PSL,,,,1
 Pasco,009,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,010,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,011,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,011,President,,Gloria La Riva,PSL,,,,1
 Pasco,012,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,013,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,014,President,,Gloria La Riva,PSL,-,-,-,4
-Pasco,015,President,,Gloria La Riva,PSL,-,-,-,6
+Pasco,013,President,,Gloria La Riva,PSL,,,,1
+Pasco,014,President,,Gloria La Riva,PSL,,,,4
+Pasco,015,President,,Gloria La Riva,PSL,,,,6
 Pasco,016,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,017,President,,Gloria La Riva,PSL,-,-,-,4
-Pasco,018,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,019,President,,Gloria La Riva,PSL,-,-,-,3
+Pasco,017,President,,Gloria La Riva,PSL,,,,4
+Pasco,018,President,,Gloria La Riva,PSL,,,,1
+Pasco,019,President,,Gloria La Riva,PSL,,,,3
 Pasco,020,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,021,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,021,President,,Gloria La Riva,PSL,,,,1
 Pasco,022,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,023,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,024,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,025,President,,Gloria La Riva,PSL,-,-,-,4
+Pasco,024,President,,Gloria La Riva,PSL,,,,1
+Pasco,025,President,,Gloria La Riva,PSL,,,,4
 Pasco,026,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,027,President,,Gloria La Riva,PSL,-,-,-,4
-Pasco,028,President,,Gloria La Riva,PSL,-,-,-,5
-Pasco,029,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,030,President,,Gloria La Riva,PSL,-,-,-,2
+Pasco,027,President,,Gloria La Riva,PSL,,,,4
+Pasco,028,President,,Gloria La Riva,PSL,,,,5
+Pasco,029,President,,Gloria La Riva,PSL,,,,1
+Pasco,030,President,,Gloria La Riva,PSL,,,,2
 Pasco,031,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,032,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,032,President,,Gloria La Riva,PSL,,,,1
 Pasco,033,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,034,President,,Gloria La Riva,PSL,-,-,-,4
-Pasco,035,President,,Gloria La Riva,PSL,-,-,-,4
-Pasco,036,President,,Gloria La Riva,PSL,-,-,-,4
-Pasco,037,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,038,President,,Gloria La Riva,PSL,-,-,-,6
+Pasco,034,President,,Gloria La Riva,PSL,,,,4
+Pasco,035,President,,Gloria La Riva,PSL,,,,4
+Pasco,036,President,,Gloria La Riva,PSL,,,,4
+Pasco,037,President,,Gloria La Riva,PSL,,,,3
+Pasco,038,President,,Gloria La Riva,PSL,,,,6
 Pasco,039,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,040,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,041,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,042,President,,Gloria La Riva,PSL,-,-,-,3
+Pasco,042,President,,Gloria La Riva,PSL,,,,3
 Pasco,043,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,044,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,045,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,046,President,,Gloria La Riva,PSL,-,-,-,3
+Pasco,045,President,,Gloria La Riva,PSL,,,,1
+Pasco,046,President,,Gloria La Riva,PSL,,,,3
 Pasco,047,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,048,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,049,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,050,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,051,President,,Gloria La Riva,PSL,-,-,-,6
+Pasco,048,President,,Gloria La Riva,PSL,,,,1
+Pasco,049,President,,Gloria La Riva,PSL,,,,3
+Pasco,050,President,,Gloria La Riva,PSL,,,,3
+Pasco,051,President,,Gloria La Riva,PSL,,,,6
 Pasco,052,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,053,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,054,President,,Gloria La Riva,PSL,-,-,-,3
+Pasco,053,President,,Gloria La Riva,PSL,,,,1
+Pasco,054,President,,Gloria La Riva,PSL,,,,3
 Pasco,055,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,056,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,057,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,058,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,059,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,060,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,061,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,062,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,063,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,064,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,057,President,,Gloria La Riva,PSL,,,,2
+Pasco,058,President,,Gloria La Riva,PSL,,,,1
+Pasco,059,President,,Gloria La Riva,PSL,,,,2
+Pasco,060,President,,Gloria La Riva,PSL,,,,1
+Pasco,061,President,,Gloria La Riva,PSL,,,,1
+Pasco,062,President,,Gloria La Riva,PSL,,,,1
+Pasco,063,President,,Gloria La Riva,PSL,,,,1
+Pasco,064,President,,Gloria La Riva,PSL,,,,1
 Pasco,065,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,066,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,067,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,068,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,066,President,,Gloria La Riva,PSL,,,,3
+Pasco,067,President,,Gloria La Riva,PSL,,,,1
+Pasco,068,President,,Gloria La Riva,PSL,,,,1
 Pasco,069,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,070,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,071,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,072,President,,Gloria La Riva,PSL,-,-,-,2
+Pasco,072,President,,Gloria La Riva,PSL,,,,2
 Pasco,073,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,074,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,075,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,076,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,077,President,,Gloria La Riva,PSL,-,-,-,2
+Pasco,075,President,,Gloria La Riva,PSL,,,,3
+Pasco,076,President,,Gloria La Riva,PSL,,,,2
+Pasco,077,President,,Gloria La Riva,PSL,,,,2
 Pasco,078,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,079,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,080,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,079,President,,Gloria La Riva,PSL,,,,1
+Pasco,080,President,,Gloria La Riva,PSL,,,,1
 Pasco,081,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,082,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,083,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,084,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,085,President,,Gloria La Riva,PSL,-,-,-,4
-Pasco,086,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,087,President,,Gloria La Riva,PSL,-,-,-,4
+Pasco,082,President,,Gloria La Riva,PSL,,,,3
+Pasco,083,President,,Gloria La Riva,PSL,,,,2
+Pasco,084,President,,Gloria La Riva,PSL,,,,3
+Pasco,085,President,,Gloria La Riva,PSL,,,,4
+Pasco,086,President,,Gloria La Riva,PSL,,,,1
+Pasco,087,President,,Gloria La Riva,PSL,,,,4
 Pasco,088,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,089,President,,Gloria La Riva,PSL,-,-,-,1
+Pasco,089,President,,Gloria La Riva,PSL,,,,1
 Pasco,090,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,091,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,092,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,093,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,094,President,,Gloria La Riva,PSL,-,-,-,2
+Pasco,092,President,,Gloria La Riva,PSL,,,,2
+Pasco,093,President,,Gloria La Riva,PSL,,,,1
+Pasco,094,President,,Gloria La Riva,PSL,,,,2
 Pasco,095,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,096,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,097,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,098,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,099,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,100,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,101,President,,Gloria La Riva,PSL,-,-,-,2
+Pasco,097,President,,Gloria La Riva,PSL,,,,1
+Pasco,098,President,,Gloria La Riva,PSL,,,,1
+Pasco,099,President,,Gloria La Riva,PSL,,,,2
+Pasco,100,President,,Gloria La Riva,PSL,,,,1
+Pasco,101,President,,Gloria La Riva,PSL,,,,2
 Pasco,102,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,103,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,104,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,105,President,,Gloria La Riva,PSL,0,0,0,0
 Pasco,106,President,,Gloria La Riva,PSL,0,0,0,0
-Pasco,107,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,108,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,109,President,,Gloria La Riva,PSL,-,-,-,2
-Pasco,110,President,,Gloria La Riva,PSL,-,-,-,3
-Pasco,111,President,,Gloria La Riva,PSL,-,-,-,1
-Pasco,001,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,002,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,003,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,004,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,005,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,006,President,,Howie Hawkins,GRE,-,-,-,14
-Pasco,007,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,008,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,009,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,010,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,011,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,012,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,013,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,014,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,015,President,,Howie Hawkins,GRE,-,-,-,12
-Pasco,016,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,017,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,018,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,019,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,020,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,021,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,022,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,023,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,024,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,025,President,,Howie Hawkins,GRE,-,-,-,11
-Pasco,026,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,027,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,028,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,029,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,030,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,031,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,032,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,033,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,034,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,035,President,,Howie Hawkins,GRE,-,-,-,10
-Pasco,036,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,037,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,038,President,,Howie Hawkins,GRE,-,-,-,8
+Pasco,107,President,,Gloria La Riva,PSL,,,,2
+Pasco,108,President,,Gloria La Riva,PSL,,,,3
+Pasco,109,President,,Gloria La Riva,PSL,,,,2
+Pasco,110,President,,Gloria La Riva,PSL,,,,3
+Pasco,111,President,,Gloria La Riva,PSL,,,,1
+Pasco,001,President,,Howie Hawkins,GRE,,,,7
+Pasco,002,President,,Howie Hawkins,GRE,,,,2
+Pasco,003,President,,Howie Hawkins,GRE,,,,2
+Pasco,004,President,,Howie Hawkins,GRE,,,,1
+Pasco,005,President,,Howie Hawkins,GRE,,,,6
+Pasco,006,President,,Howie Hawkins,GRE,,,,14
+Pasco,007,President,,Howie Hawkins,GRE,,,,6
+Pasco,008,President,,Howie Hawkins,GRE,,,,6
+Pasco,009,President,,Howie Hawkins,GRE,,,,1
+Pasco,010,President,,Howie Hawkins,GRE,,,,4
+Pasco,011,President,,Howie Hawkins,GRE,,,,4
+Pasco,012,President,,Howie Hawkins,GRE,,,,3
+Pasco,013,President,,Howie Hawkins,GRE,,,,5
+Pasco,014,President,,Howie Hawkins,GRE,,,,7
+Pasco,015,President,,Howie Hawkins,GRE,,,,12
+Pasco,016,President,,Howie Hawkins,GRE,,,,2
+Pasco,017,President,,Howie Hawkins,GRE,,,,7
+Pasco,018,President,,Howie Hawkins,GRE,,,,1
+Pasco,019,President,,Howie Hawkins,GRE,,,,3
+Pasco,020,President,,Howie Hawkins,GRE,,,,1
+Pasco,021,President,,Howie Hawkins,GRE,,,,1
+Pasco,022,President,,Howie Hawkins,GRE,,,,3
+Pasco,023,President,,Howie Hawkins,GRE,,,,2
+Pasco,024,President,,Howie Hawkins,GRE,,,,2
+Pasco,025,President,,Howie Hawkins,GRE,,,,11
+Pasco,026,President,,Howie Hawkins,GRE,,,,3
+Pasco,027,President,,Howie Hawkins,GRE,,,,6
+Pasco,028,President,,Howie Hawkins,GRE,,,,7
+Pasco,029,President,,Howie Hawkins,GRE,,,,2
+Pasco,030,President,,Howie Hawkins,GRE,,,,4
+Pasco,031,President,,Howie Hawkins,GRE,,,,7
+Pasco,032,President,,Howie Hawkins,GRE,,,,5
+Pasco,033,President,,Howie Hawkins,GRE,,,,4
+Pasco,034,President,,Howie Hawkins,GRE,,,,1
+Pasco,035,President,,Howie Hawkins,GRE,,,,10
+Pasco,036,President,,Howie Hawkins,GRE,,,,3
+Pasco,037,President,,Howie Hawkins,GRE,,,,1
+Pasco,038,President,,Howie Hawkins,GRE,,,,8
 Pasco,039,President,,Howie Hawkins,GRE,0,0,0,0
-Pasco,040,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,041,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,042,President,,Howie Hawkins,GRE,-,-,-,3
+Pasco,040,President,,Howie Hawkins,GRE,,,,1
+Pasco,041,President,,Howie Hawkins,GRE,,,,6
+Pasco,042,President,,Howie Hawkins,GRE,,,,3
 Pasco,043,President,,Howie Hawkins,GRE,0,0,0,0
-Pasco,044,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,045,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,046,President,,Howie Hawkins,GRE,-,-,-,8
-Pasco,047,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,048,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,049,President,,Howie Hawkins,GRE,-,-,-,8
-Pasco,050,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,051,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,052,President,,Howie Hawkins,GRE,-,-,-,8
-Pasco,053,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,054,President,,Howie Hawkins,GRE,-,-,-,9
-Pasco,055,President,,Howie Hawkins,GRE,-,-,-,3
+Pasco,044,President,,Howie Hawkins,GRE,,,,1
+Pasco,045,President,,Howie Hawkins,GRE,,,,7
+Pasco,046,President,,Howie Hawkins,GRE,,,,8
+Pasco,047,President,,Howie Hawkins,GRE,,,,2
+Pasco,048,President,,Howie Hawkins,GRE,,,,3
+Pasco,049,President,,Howie Hawkins,GRE,,,,8
+Pasco,050,President,,Howie Hawkins,GRE,,,,5
+Pasco,051,President,,Howie Hawkins,GRE,,,,4
+Pasco,052,President,,Howie Hawkins,GRE,,,,8
+Pasco,053,President,,Howie Hawkins,GRE,,,,1
+Pasco,054,President,,Howie Hawkins,GRE,,,,9
+Pasco,055,President,,Howie Hawkins,GRE,,,,3
 Pasco,056,President,,Howie Hawkins,GRE,0,0,0,0
-Pasco,057,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,058,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,059,President,,Howie Hawkins,GRE,-,-,-,11
+Pasco,057,President,,Howie Hawkins,GRE,,,,2
+Pasco,058,President,,Howie Hawkins,GRE,,,,2
+Pasco,059,President,,Howie Hawkins,GRE,,,,11
 Pasco,060,President,,Howie Hawkins,GRE,0,0,0,0
-Pasco,061,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,062,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,063,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,064,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,065,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,066,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,067,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,068,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,069,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,070,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,071,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,072,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,073,President,,Howie Hawkins,GRE,-,-,-,7
+Pasco,061,President,,Howie Hawkins,GRE,,,,2
+Pasco,062,President,,Howie Hawkins,GRE,,,,7
+Pasco,063,President,,Howie Hawkins,GRE,,,,1
+Pasco,064,President,,Howie Hawkins,GRE,,,,1
+Pasco,065,President,,Howie Hawkins,GRE,,,,5
+Pasco,066,President,,Howie Hawkins,GRE,,,,4
+Pasco,067,President,,Howie Hawkins,GRE,,,,5
+Pasco,068,President,,Howie Hawkins,GRE,,,,4
+Pasco,069,President,,Howie Hawkins,GRE,,,,7
+Pasco,070,President,,Howie Hawkins,GRE,,,,7
+Pasco,071,President,,Howie Hawkins,GRE,,,,2
+Pasco,072,President,,Howie Hawkins,GRE,,,,3
+Pasco,073,President,,Howie Hawkins,GRE,,,,7
 Pasco,074,President,,Howie Hawkins,GRE,0,0,0,0
-Pasco,075,President,,Howie Hawkins,GRE,-,-,-,8
-Pasco,076,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,077,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,078,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,079,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,080,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,081,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,082,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,083,President,,Howie Hawkins,GRE,-,-,-,9
-Pasco,084,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,085,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,086,President,,Howie Hawkins,GRE,-,-,-,2
-Pasco,087,President,,Howie Hawkins,GRE,-,-,-,6
+Pasco,075,President,,Howie Hawkins,GRE,,,,8
+Pasco,076,President,,Howie Hawkins,GRE,,,,2
+Pasco,077,President,,Howie Hawkins,GRE,,,,4
+Pasco,078,President,,Howie Hawkins,GRE,,,,4
+Pasco,079,President,,Howie Hawkins,GRE,,,,3
+Pasco,080,President,,Howie Hawkins,GRE,,,,2
+Pasco,081,President,,Howie Hawkins,GRE,,,,1
+Pasco,082,President,,Howie Hawkins,GRE,,,,2
+Pasco,083,President,,Howie Hawkins,GRE,,,,9
+Pasco,084,President,,Howie Hawkins,GRE,,,,6
+Pasco,085,President,,Howie Hawkins,GRE,,,,5
+Pasco,086,President,,Howie Hawkins,GRE,,,,2
+Pasco,087,President,,Howie Hawkins,GRE,,,,6
 Pasco,088,President,,Howie Hawkins,GRE,0,0,0,0
-Pasco,089,President,,Howie Hawkins,GRE,-,-,-,4
-Pasco,090,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,091,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,092,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,093,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,094,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,095,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,096,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,097,President,,Howie Hawkins,GRE,-,-,-,6
-Pasco,098,President,,Howie Hawkins,GRE,-,-,-,7
-Pasco,099,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,100,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,101,President,,Howie Hawkins,GRE,-,-,-,11
-Pasco,102,President,,Howie Hawkins,GRE,-,-,-,4
+Pasco,089,President,,Howie Hawkins,GRE,,,,4
+Pasco,090,President,,Howie Hawkins,GRE,,,,7
+Pasco,091,President,,Howie Hawkins,GRE,,,,6
+Pasco,092,President,,Howie Hawkins,GRE,,,,1
+Pasco,093,President,,Howie Hawkins,GRE,,,,3
+Pasco,094,President,,Howie Hawkins,GRE,,,,1
+Pasco,095,President,,Howie Hawkins,GRE,,,,3
+Pasco,096,President,,Howie Hawkins,GRE,,,,3
+Pasco,097,President,,Howie Hawkins,GRE,,,,6
+Pasco,098,President,,Howie Hawkins,GRE,,,,7
+Pasco,099,President,,Howie Hawkins,GRE,,,,5
+Pasco,100,President,,Howie Hawkins,GRE,,,,5
+Pasco,101,President,,Howie Hawkins,GRE,,,,11
+Pasco,102,President,,Howie Hawkins,GRE,,,,4
 Pasco,103,President,,Howie Hawkins,GRE,0,0,0,0
 Pasco,104,President,,Howie Hawkins,GRE,0,0,0,0
-Pasco,105,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,106,President,,Howie Hawkins,GRE,-,-,-,1
-Pasco,107,President,,Howie Hawkins,GRE,-,-,-,9
-Pasco,108,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,109,President,,Howie Hawkins,GRE,-,-,-,10
-Pasco,110,President,,Howie Hawkins,GRE,-,-,-,5
-Pasco,111,President,,Howie Hawkins,GRE,-,-,-,3
-Pasco,001,President,,Don Blankenship,CPF,-,-,-,5
+Pasco,105,President,,Howie Hawkins,GRE,,,,1
+Pasco,106,President,,Howie Hawkins,GRE,,,,1
+Pasco,107,President,,Howie Hawkins,GRE,,,,9
+Pasco,108,President,,Howie Hawkins,GRE,,,,5
+Pasco,109,President,,Howie Hawkins,GRE,,,,10
+Pasco,110,President,,Howie Hawkins,GRE,,,,5
+Pasco,111,President,,Howie Hawkins,GRE,,,,3
+Pasco,001,President,,Don Blankenship,CPF,,,,5
 Pasco,002,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,003,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,004,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,004,President,,Don Blankenship,CPF,,,,1
 Pasco,005,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,006,President,,Don Blankenship,CPF,-,-,-,6
-Pasco,007,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,008,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,009,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,010,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,011,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,006,President,,Don Blankenship,CPF,,,,6
+Pasco,007,President,,Don Blankenship,CPF,,,,2
+Pasco,008,President,,Don Blankenship,CPF,,,,1
+Pasco,009,President,,Don Blankenship,CPF,,,,1
+Pasco,010,President,,Don Blankenship,CPF,,,,1
+Pasco,011,President,,Don Blankenship,CPF,,,,1
 Pasco,012,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,013,President,,Don Blankenship,CPF,-,-,-,4
-Pasco,014,President,,Don Blankenship,CPF,-,-,-,7
-Pasco,015,President,,Don Blankenship,CPF,-,-,-,2
+Pasco,013,President,,Don Blankenship,CPF,,,,4
+Pasco,014,President,,Don Blankenship,CPF,,,,7
+Pasco,015,President,,Don Blankenship,CPF,,,,2
 Pasco,016,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,017,President,,Don Blankenship,CPF,-,-,-,3
+Pasco,017,President,,Don Blankenship,CPF,,,,3
 Pasco,018,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,019,President,,Don Blankenship,CPF,-,-,-,3
+Pasco,019,President,,Don Blankenship,CPF,,,,3
 Pasco,020,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,021,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,022,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,023,President,,Don Blankenship,CPF,-,-,-,2
+Pasco,023,President,,Don Blankenship,CPF,,,,2
 Pasco,024,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,025,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,026,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,027,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,028,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,025,President,,Don Blankenship,CPF,,,,1
+Pasco,026,President,,Don Blankenship,CPF,,,,1
+Pasco,027,President,,Don Blankenship,CPF,,,,3
+Pasco,028,President,,Don Blankenship,CPF,,,,1
 Pasco,029,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,030,President,,Don Blankenship,CPF,-,-,-,4
+Pasco,030,President,,Don Blankenship,CPF,,,,4
 Pasco,031,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,032,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,033,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,034,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,035,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,036,President,,Don Blankenship,CPF,-,-,-,5
-Pasco,037,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,038,President,,Don Blankenship,CPF,-,-,-,4
+Pasco,032,President,,Don Blankenship,CPF,,,,2
+Pasco,033,President,,Don Blankenship,CPF,,,,1
+Pasco,034,President,,Don Blankenship,CPF,,,,2
+Pasco,035,President,,Don Blankenship,CPF,,,,1
+Pasco,036,President,,Don Blankenship,CPF,,,,5
+Pasco,037,President,,Don Blankenship,CPF,,,,2
+Pasco,038,President,,Don Blankenship,CPF,,,,4
 Pasco,039,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,040,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,041,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,042,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,043,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,044,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,045,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,046,President,,Don Blankenship,CPF,-,-,-,3
+Pasco,040,President,,Don Blankenship,CPF,,,,2
+Pasco,041,President,,Don Blankenship,CPF,,,,1
+Pasco,042,President,,Don Blankenship,CPF,,,,2
+Pasco,043,President,,Don Blankenship,CPF,,,,1
+Pasco,044,President,,Don Blankenship,CPF,,,,1
+Pasco,045,President,,Don Blankenship,CPF,,,,3
+Pasco,046,President,,Don Blankenship,CPF,,,,3
 Pasco,047,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,048,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,048,President,,Don Blankenship,CPF,,,,1
 Pasco,049,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,050,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,050,President,,Don Blankenship,CPF,,,,1
 Pasco,051,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,052,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,053,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,054,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,055,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,056,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,052,President,,Don Blankenship,CPF,,,,1
+Pasco,053,President,,Don Blankenship,CPF,,,,1
+Pasco,054,President,,Don Blankenship,CPF,,,,3
+Pasco,055,President,,Don Blankenship,CPF,,,,1
+Pasco,056,President,,Don Blankenship,CPF,,,,1
 Pasco,057,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,058,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,059,President,,Don Blankenship,CPF,-,-,-,4
+Pasco,059,President,,Don Blankenship,CPF,,,,4
 Pasco,060,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,061,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,062,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,063,President,,Don Blankenship,CPF,-,-,-,2
+Pasco,062,President,,Don Blankenship,CPF,,,,3
+Pasco,063,President,,Don Blankenship,CPF,,,,2
 Pasco,064,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,065,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,066,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,067,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,068,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,069,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,067,President,,Don Blankenship,CPF,,,,1
+Pasco,068,President,,Don Blankenship,CPF,,,,1
+Pasco,069,President,,Don Blankenship,CPF,,,,1
 Pasco,070,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,071,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,072,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,073,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,071,President,,Don Blankenship,CPF,,,,1
+Pasco,072,President,,Don Blankenship,CPF,,,,2
+Pasco,073,President,,Don Blankenship,CPF,,,,1
 Pasco,074,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,075,President,,Don Blankenship,CPF,-,-,-,2
-Pasco,076,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,077,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,075,President,,Don Blankenship,CPF,,,,2
+Pasco,076,President,,Don Blankenship,CPF,,,,1
+Pasco,077,President,,Don Blankenship,CPF,,,,1
 Pasco,078,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,079,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,080,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,081,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,081,President,,Don Blankenship,CPF,,,,1
 Pasco,082,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,083,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,084,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,083,President,,Don Blankenship,CPF,,,,1
+Pasco,084,President,,Don Blankenship,CPF,,,,1
 Pasco,085,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,086,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,087,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,088,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,089,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,088,President,,Don Blankenship,CPF,,,,1
+Pasco,089,President,,Don Blankenship,CPF,,,,1
 Pasco,090,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,091,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,092,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,093,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,094,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,095,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,096,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,097,President,,Don Blankenship,CPF,-,-,-,5
-Pasco,098,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,099,President,,Don Blankenship,CPF,-,-,-,3
+Pasco,091,President,,Don Blankenship,CPF,,,,1
+Pasco,092,President,,Don Blankenship,CPF,,,,3
+Pasco,093,President,,Don Blankenship,CPF,,,,3
+Pasco,094,President,,Don Blankenship,CPF,,,,1
+Pasco,095,President,,Don Blankenship,CPF,,,,3
+Pasco,096,President,,Don Blankenship,CPF,,,,1
+Pasco,097,President,,Don Blankenship,CPF,,,,5
+Pasco,098,President,,Don Blankenship,CPF,,,,1
+Pasco,099,President,,Don Blankenship,CPF,,,,3
 Pasco,100,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,101,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,102,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,101,President,,Don Blankenship,CPF,,,,1
+Pasco,102,President,,Don Blankenship,CPF,,,,1
 Pasco,103,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,104,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,105,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,105,President,,Don Blankenship,CPF,,,,1
 Pasco,106,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,107,President,,Don Blankenship,CPF,-,-,-,1
-Pasco,108,President,,Don Blankenship,CPF,-,-,-,3
-Pasco,109,President,,Don Blankenship,CPF,-,-,-,1
+Pasco,107,President,,Don Blankenship,CPF,,,,1
+Pasco,108,President,,Don Blankenship,CPF,,,,3
+Pasco,109,President,,Don Blankenship,CPF,,,,1
 Pasco,110,President,,Don Blankenship,CPF,0,0,0,0
 Pasco,111,President,,Don Blankenship,CPF,0,0,0,0
-Pasco,001,President,,WRITE-IN,NON,-,-,-,10
+Pasco,001,President,,WRITE-IN,NON,,,,10
 Pasco,002,President,,WRITE-IN,NON,0,0,0,0
-Pasco,003,President,,WRITE-IN,NON,-,-,-,3
-Pasco,004,President,,WRITE-IN,NON,-,-,-,1
-Pasco,005,President,,WRITE-IN,NON,-,-,-,6
-Pasco,006,President,,WRITE-IN,NON,-,-,-,22
-Pasco,007,President,,WRITE-IN,NON,-,-,-,17
-Pasco,008,President,,WRITE-IN,NON,-,-,-,13
-Pasco,009,President,,WRITE-IN,NON,-,-,-,2
-Pasco,010,President,,WRITE-IN,NON,-,-,-,2
-Pasco,011,President,,WRITE-IN,NON,-,-,-,13
-Pasco,012,President,,WRITE-IN,NON,-,-,-,4
-Pasco,013,President,,WRITE-IN,NON,-,-,-,5
-Pasco,014,President,,WRITE-IN,NON,-,-,-,21
-Pasco,015,President,,WRITE-IN,NON,-,-,-,16
+Pasco,003,President,,WRITE-IN,NON,,,,3
+Pasco,004,President,,WRITE-IN,NON,,,,1
+Pasco,005,President,,WRITE-IN,NON,,,,6
+Pasco,006,President,,WRITE-IN,NON,,,,22
+Pasco,007,President,,WRITE-IN,NON,,,,17
+Pasco,008,President,,WRITE-IN,NON,,,,13
+Pasco,009,President,,WRITE-IN,NON,,,,2
+Pasco,010,President,,WRITE-IN,NON,,,,2
+Pasco,011,President,,WRITE-IN,NON,,,,13
+Pasco,012,President,,WRITE-IN,NON,,,,4
+Pasco,013,President,,WRITE-IN,NON,,,,5
+Pasco,014,President,,WRITE-IN,NON,,,,21
+Pasco,015,President,,WRITE-IN,NON,,,,16
 Pasco,016,President,,WRITE-IN,NON,0,0,0,0
-Pasco,017,President,,WRITE-IN,NON,-,-,-,15
-Pasco,018,President,,WRITE-IN,NON,-,-,-,1
-Pasco,019,President,,WRITE-IN,NON,-,-,-,6
+Pasco,017,President,,WRITE-IN,NON,,,,15
+Pasco,018,President,,WRITE-IN,NON,,,,1
+Pasco,019,President,,WRITE-IN,NON,,,,6
 Pasco,020,President,,WRITE-IN,NON,0,0,0,0
-Pasco,021,President,,WRITE-IN,NON,-,-,-,1
-Pasco,022,President,,WRITE-IN,NON,-,-,-,4
-Pasco,023,President,,WRITE-IN,NON,-,-,-,1
-Pasco,024,President,,WRITE-IN,NON,-,-,-,2
-Pasco,025,President,,WRITE-IN,NON,-,-,-,17
-Pasco,026,President,,WRITE-IN,NON,-,-,-,5
-Pasco,027,President,,WRITE-IN,NON,-,-,-,5
-Pasco,028,President,,WRITE-IN,NON,-,-,-,11
-Pasco,029,President,,WRITE-IN,NON,-,-,-,3
-Pasco,030,President,,WRITE-IN,NON,-,-,-,2
-Pasco,031,President,,WRITE-IN,NON,-,-,-,14
-Pasco,032,President,,WRITE-IN,NON,-,-,-,5
-Pasco,033,President,,WRITE-IN,NON,-,-,-,6
-Pasco,034,President,,WRITE-IN,NON,-,-,-,7
-Pasco,035,President,,WRITE-IN,NON,-,-,-,21
-Pasco,036,President,,WRITE-IN,NON,-,-,-,24
-Pasco,037,President,,WRITE-IN,NON,-,-,-,2
-Pasco,038,President,,WRITE-IN,NON,-,-,-,16
+Pasco,021,President,,WRITE-IN,NON,,,,1
+Pasco,022,President,,WRITE-IN,NON,,,,4
+Pasco,023,President,,WRITE-IN,NON,,,,1
+Pasco,024,President,,WRITE-IN,NON,,,,2
+Pasco,025,President,,WRITE-IN,NON,,,,17
+Pasco,026,President,,WRITE-IN,NON,,,,5
+Pasco,027,President,,WRITE-IN,NON,,,,5
+Pasco,028,President,,WRITE-IN,NON,,,,11
+Pasco,029,President,,WRITE-IN,NON,,,,3
+Pasco,030,President,,WRITE-IN,NON,,,,2
+Pasco,031,President,,WRITE-IN,NON,,,,14
+Pasco,032,President,,WRITE-IN,NON,,,,5
+Pasco,033,President,,WRITE-IN,NON,,,,6
+Pasco,034,President,,WRITE-IN,NON,,,,7
+Pasco,035,President,,WRITE-IN,NON,,,,21
+Pasco,036,President,,WRITE-IN,NON,,,,24
+Pasco,037,President,,WRITE-IN,NON,,,,2
+Pasco,038,President,,WRITE-IN,NON,,,,16
 Pasco,039,President,,WRITE-IN,NON,0,0,0,0
 Pasco,040,President,,WRITE-IN,NON,0,0,0,0
-Pasco,041,President,,WRITE-IN,NON,-,-,-,1
-Pasco,042,President,,WRITE-IN,NON,-,-,-,16
-Pasco,043,President,,WRITE-IN,NON,-,-,-,1
-Pasco,044,President,,WRITE-IN,NON,-,-,-,1
-Pasco,045,President,,WRITE-IN,NON,-,-,-,8
-Pasco,046,President,,WRITE-IN,NON,-,-,-,3
-Pasco,047,President,,WRITE-IN,NON,-,-,-,6
-Pasco,048,President,,WRITE-IN,NON,-,-,-,3
-Pasco,049,President,,WRITE-IN,NON,-,-,-,15
-Pasco,050,President,,WRITE-IN,NON,-,-,-,5
-Pasco,051,President,,WRITE-IN,NON,-,-,-,8
-Pasco,052,President,,WRITE-IN,NON,-,-,-,10
-Pasco,053,President,,WRITE-IN,NON,-,-,-,5
-Pasco,054,President,,WRITE-IN,NON,-,-,-,5
-Pasco,055,President,,WRITE-IN,NON,-,-,-,10
-Pasco,056,President,,WRITE-IN,NON,-,-,-,2
-Pasco,057,President,,WRITE-IN,NON,-,-,-,4
+Pasco,041,President,,WRITE-IN,NON,,,,1
+Pasco,042,President,,WRITE-IN,NON,,,,16
+Pasco,043,President,,WRITE-IN,NON,,,,1
+Pasco,044,President,,WRITE-IN,NON,,,,1
+Pasco,045,President,,WRITE-IN,NON,,,,8
+Pasco,046,President,,WRITE-IN,NON,,,,3
+Pasco,047,President,,WRITE-IN,NON,,,,6
+Pasco,048,President,,WRITE-IN,NON,,,,3
+Pasco,049,President,,WRITE-IN,NON,,,,15
+Pasco,050,President,,WRITE-IN,NON,,,,5
+Pasco,051,President,,WRITE-IN,NON,,,,8
+Pasco,052,President,,WRITE-IN,NON,,,,10
+Pasco,053,President,,WRITE-IN,NON,,,,5
+Pasco,054,President,,WRITE-IN,NON,,,,5
+Pasco,055,President,,WRITE-IN,NON,,,,10
+Pasco,056,President,,WRITE-IN,NON,,,,2
+Pasco,057,President,,WRITE-IN,NON,,,,4
 Pasco,058,President,,WRITE-IN,NON,0,0,0,0
-Pasco,059,President,,WRITE-IN,NON,-,-,-,15
-Pasco,060,President,,WRITE-IN,NON,-,-,-,3
+Pasco,059,President,,WRITE-IN,NON,,,,15
+Pasco,060,President,,WRITE-IN,NON,,,,3
 Pasco,061,President,,WRITE-IN,NON,0,0,0,0
-Pasco,062,President,,WRITE-IN,NON,-,-,-,12
+Pasco,062,President,,WRITE-IN,NON,,,,12
 Pasco,063,President,,WRITE-IN,NON,0,0,0,0
-Pasco,064,President,,WRITE-IN,NON,-,-,-,3
-Pasco,065,President,,WRITE-IN,NON,-,-,-,6
-Pasco,066,President,,WRITE-IN,NON,-,-,-,7
-Pasco,067,President,,WRITE-IN,NON,-,-,-,6
-Pasco,068,President,,WRITE-IN,NON,-,-,-,1
-Pasco,069,President,,WRITE-IN,NON,-,-,-,6
-Pasco,070,President,,WRITE-IN,NON,-,-,-,3
-Pasco,071,President,,WRITE-IN,NON,-,-,-,1
-Pasco,072,President,,WRITE-IN,NON,-,-,-,5
-Pasco,073,President,,WRITE-IN,NON,-,-,-,10
-Pasco,074,President,,WRITE-IN,NON,-,-,-,1
-Pasco,075,President,,WRITE-IN,NON,-,-,-,8
-Pasco,076,President,,WRITE-IN,NON,-,-,-,4
+Pasco,064,President,,WRITE-IN,NON,,,,3
+Pasco,065,President,,WRITE-IN,NON,,,,6
+Pasco,066,President,,WRITE-IN,NON,,,,7
+Pasco,067,President,,WRITE-IN,NON,,,,6
+Pasco,068,President,,WRITE-IN,NON,,,,1
+Pasco,069,President,,WRITE-IN,NON,,,,6
+Pasco,070,President,,WRITE-IN,NON,,,,3
+Pasco,071,President,,WRITE-IN,NON,,,,1
+Pasco,072,President,,WRITE-IN,NON,,,,5
+Pasco,073,President,,WRITE-IN,NON,,,,10
+Pasco,074,President,,WRITE-IN,NON,,,,1
+Pasco,075,President,,WRITE-IN,NON,,,,8
+Pasco,076,President,,WRITE-IN,NON,,,,4
 Pasco,077,President,,WRITE-IN,NON,0,0,0,0
-Pasco,078,President,,WRITE-IN,NON,-,-,-,2
-Pasco,079,President,,WRITE-IN,NON,-,-,-,3
+Pasco,078,President,,WRITE-IN,NON,,,,2
+Pasco,079,President,,WRITE-IN,NON,,,,3
 Pasco,080,President,,WRITE-IN,NON,0,0,0,0
-Pasco,081,President,,WRITE-IN,NON,-,-,-,1
-Pasco,082,President,,WRITE-IN,NON,-,-,-,5
-Pasco,083,President,,WRITE-IN,NON,-,-,-,9
-Pasco,084,President,,WRITE-IN,NON,-,-,-,5
-Pasco,085,President,,WRITE-IN,NON,-,-,-,4
+Pasco,081,President,,WRITE-IN,NON,,,,1
+Pasco,082,President,,WRITE-IN,NON,,,,5
+Pasco,083,President,,WRITE-IN,NON,,,,9
+Pasco,084,President,,WRITE-IN,NON,,,,5
+Pasco,085,President,,WRITE-IN,NON,,,,4
 Pasco,086,President,,WRITE-IN,NON,0,0,0,0
-Pasco,087,President,,WRITE-IN,NON,-,-,-,12
-Pasco,088,President,,WRITE-IN,NON,-,-,-,5
-Pasco,089,President,,WRITE-IN,NON,-,-,-,2
-Pasco,090,President,,WRITE-IN,NON,-,-,-,9
+Pasco,087,President,,WRITE-IN,NON,,,,12
+Pasco,088,President,,WRITE-IN,NON,,,,5
+Pasco,089,President,,WRITE-IN,NON,,,,2
+Pasco,090,President,,WRITE-IN,NON,,,,9
 Pasco,091,President,,WRITE-IN,NON,0,0,0,0
-Pasco,092,President,,WRITE-IN,NON,-,-,-,3
-Pasco,093,President,,WRITE-IN,NON,-,-,-,2
-Pasco,094,President,,WRITE-IN,NON,-,-,-,3
-Pasco,095,President,,WRITE-IN,NON,-,-,-,8
-Pasco,096,President,,WRITE-IN,NON,-,-,-,6
-Pasco,097,President,,WRITE-IN,NON,-,-,-,3
-Pasco,098,President,,WRITE-IN,NON,-,-,-,8
-Pasco,099,President,,WRITE-IN,NON,-,-,-,9
-Pasco,100,President,,WRITE-IN,NON,-,-,-,3
-Pasco,101,President,,WRITE-IN,NON,-,-,-,10
-Pasco,102,President,,WRITE-IN,NON,-,-,-,3
-Pasco,103,President,,WRITE-IN,NON,-,-,-,10
-Pasco,104,President,,WRITE-IN,NON,-,-,-,1
-Pasco,105,President,,WRITE-IN,NON,-,-,-,4
-Pasco,106,President,,WRITE-IN,NON,-,-,-,7
-Pasco,107,President,,WRITE-IN,NON,-,-,-,10
-Pasco,108,President,,WRITE-IN,NON,-,-,-,12
-Pasco,109,President,,WRITE-IN,NON,-,-,-,12
-Pasco,110,President,,WRITE-IN,NON,-,-,-,8
-Pasco,111,President,,WRITE-IN,NON,-,-,-,8
-Pasco,001,President,,OVER VOTES,STATS,-,-,-,10
+Pasco,092,President,,WRITE-IN,NON,,,,3
+Pasco,093,President,,WRITE-IN,NON,,,,2
+Pasco,094,President,,WRITE-IN,NON,,,,3
+Pasco,095,President,,WRITE-IN,NON,,,,8
+Pasco,096,President,,WRITE-IN,NON,,,,6
+Pasco,097,President,,WRITE-IN,NON,,,,3
+Pasco,098,President,,WRITE-IN,NON,,,,8
+Pasco,099,President,,WRITE-IN,NON,,,,9
+Pasco,100,President,,WRITE-IN,NON,,,,3
+Pasco,101,President,,WRITE-IN,NON,,,,10
+Pasco,102,President,,WRITE-IN,NON,,,,3
+Pasco,103,President,,WRITE-IN,NON,,,,10
+Pasco,104,President,,WRITE-IN,NON,,,,1
+Pasco,105,President,,WRITE-IN,NON,,,,4
+Pasco,106,President,,WRITE-IN,NON,,,,7
+Pasco,107,President,,WRITE-IN,NON,,,,10
+Pasco,108,President,,WRITE-IN,NON,,,,12
+Pasco,109,President,,WRITE-IN,NON,,,,12
+Pasco,110,President,,WRITE-IN,NON,,,,8
+Pasco,111,President,,WRITE-IN,NON,,,,8
+Pasco,001,President,,OVER VOTES,STATS,,,,10
 Pasco,002,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,003,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,004,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,005,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,006,President,,OVER VOTES,STATS,-,-,-,37
-Pasco,007,President,,OVER VOTES,STATS,-,-,-,8
-Pasco,008,President,,OVER VOTES,STATS,-,-,-,5
+Pasco,003,President,,OVER VOTES,STATS,,,,6
+Pasco,004,President,,OVER VOTES,STATS,,,,2
+Pasco,005,President,,OVER VOTES,STATS,,,,4
+Pasco,006,President,,OVER VOTES,STATS,,,,37
+Pasco,007,President,,OVER VOTES,STATS,,,,8
+Pasco,008,President,,OVER VOTES,STATS,,,,5
 Pasco,009,President,,OVER VOTES,STATS,0,0,0,0
 Pasco,010,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,011,President,,OVER VOTES,STATS,-,-,-,4
+Pasco,011,President,,OVER VOTES,STATS,,,,4
 Pasco,012,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,013,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,014,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,015,President,,OVER VOTES,STATS,-,-,-,12
+Pasco,013,President,,OVER VOTES,STATS,,,,1
+Pasco,014,President,,OVER VOTES,STATS,,,,4
+Pasco,015,President,,OVER VOTES,STATS,,,,12
 Pasco,016,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,017,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,018,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,019,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,020,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,021,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,022,President,,OVER VOTES,STATS,-,-,-,7
-Pasco,023,President,,OVER VOTES,STATS,-,-,-,4
+Pasco,017,President,,OVER VOTES,STATS,,,,6
+Pasco,018,President,,OVER VOTES,STATS,,,,4
+Pasco,019,President,,OVER VOTES,STATS,,,,6
+Pasco,020,President,,OVER VOTES,STATS,,,,1
+Pasco,021,President,,OVER VOTES,STATS,,,,1
+Pasco,022,President,,OVER VOTES,STATS,,,,7
+Pasco,023,President,,OVER VOTES,STATS,,,,4
 Pasco,024,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,025,President,,OVER VOTES,STATS,-,-,-,18
-Pasco,026,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,027,President,,OVER VOTES,STATS,-,-,-,9
-Pasco,028,President,,OVER VOTES,STATS,-,-,-,12
-Pasco,029,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,030,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,031,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,032,President,,OVER VOTES,STATS,-,-,-,5
-Pasco,033,President,,OVER VOTES,STATS,-,-,-,8
-Pasco,034,President,,OVER VOTES,STATS,-,-,-,5
-Pasco,035,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,036,President,,OVER VOTES,STATS,-,-,-,11
-Pasco,037,President,,OVER VOTES,STATS,-,-,-,8
-Pasco,038,President,,OVER VOTES,STATS,-,-,-,4
+Pasco,025,President,,OVER VOTES,STATS,,,,18
+Pasco,026,President,,OVER VOTES,STATS,,,,1
+Pasco,027,President,,OVER VOTES,STATS,,,,9
+Pasco,028,President,,OVER VOTES,STATS,,,,12
+Pasco,029,President,,OVER VOTES,STATS,,,,1
+Pasco,030,President,,OVER VOTES,STATS,,,,2
+Pasco,031,President,,OVER VOTES,STATS,,,,3
+Pasco,032,President,,OVER VOTES,STATS,,,,5
+Pasco,033,President,,OVER VOTES,STATS,,,,8
+Pasco,034,President,,OVER VOTES,STATS,,,,5
+Pasco,035,President,,OVER VOTES,STATS,,,,6
+Pasco,036,President,,OVER VOTES,STATS,,,,11
+Pasco,037,President,,OVER VOTES,STATS,,,,8
+Pasco,038,President,,OVER VOTES,STATS,,,,4
 Pasco,039,President,,OVER VOTES,STATS,0,0,0,0
 Pasco,040,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,041,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,042,President,,OVER VOTES,STATS,-,-,-,7
-Pasco,043,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,044,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,045,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,046,President,,OVER VOTES,STATS,-,-,-,8
-Pasco,047,President,,OVER VOTES,STATS,-,-,-,6
+Pasco,041,President,,OVER VOTES,STATS,,,,1
+Pasco,042,President,,OVER VOTES,STATS,,,,7
+Pasco,043,President,,OVER VOTES,STATS,,,,2
+Pasco,044,President,,OVER VOTES,STATS,,,,1
+Pasco,045,President,,OVER VOTES,STATS,,,,4
+Pasco,046,President,,OVER VOTES,STATS,,,,8
+Pasco,047,President,,OVER VOTES,STATS,,,,6
 Pasco,048,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,049,President,,OVER VOTES,STATS,-,-,-,5
-Pasco,050,President,,OVER VOTES,STATS,-,-,-,13
-Pasco,051,President,,OVER VOTES,STATS,-,-,-,9
-Pasco,052,President,,OVER VOTES,STATS,-,-,-,5
-Pasco,053,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,054,President,,OVER VOTES,STATS,-,-,-,5
-Pasco,055,President,,OVER VOTES,STATS,-,-,-,9
+Pasco,049,President,,OVER VOTES,STATS,,,,5
+Pasco,050,President,,OVER VOTES,STATS,,,,13
+Pasco,051,President,,OVER VOTES,STATS,,,,9
+Pasco,052,President,,OVER VOTES,STATS,,,,5
+Pasco,053,President,,OVER VOTES,STATS,,,,6
+Pasco,054,President,,OVER VOTES,STATS,,,,5
+Pasco,055,President,,OVER VOTES,STATS,,,,9
 Pasco,056,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,057,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,058,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,059,President,,OVER VOTES,STATS,-,-,-,10
-Pasco,060,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,061,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,062,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,063,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,064,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,065,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,066,President,,OVER VOTES,STATS,-,-,-,5
-Pasco,067,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,068,President,,OVER VOTES,STATS,-,-,-,9
-Pasco,069,President,,OVER VOTES,STATS,-,-,-,9
+Pasco,057,President,,OVER VOTES,STATS,,,,6
+Pasco,058,President,,OVER VOTES,STATS,,,,1
+Pasco,059,President,,OVER VOTES,STATS,,,,10
+Pasco,060,President,,OVER VOTES,STATS,,,,2
+Pasco,061,President,,OVER VOTES,STATS,,,,2
+Pasco,062,President,,OVER VOTES,STATS,,,,2
+Pasco,063,President,,OVER VOTES,STATS,,,,6
+Pasco,064,President,,OVER VOTES,STATS,,,,2
+Pasco,065,President,,OVER VOTES,STATS,,,,2
+Pasco,066,President,,OVER VOTES,STATS,,,,5
+Pasco,067,President,,OVER VOTES,STATS,,,,2
+Pasco,068,President,,OVER VOTES,STATS,,,,9
+Pasco,069,President,,OVER VOTES,STATS,,,,9
 Pasco,070,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,071,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,072,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,073,President,,OVER VOTES,STATS,-,-,-,6
+Pasco,071,President,,OVER VOTES,STATS,,,,1
+Pasco,072,President,,OVER VOTES,STATS,,,,6
+Pasco,073,President,,OVER VOTES,STATS,,,,6
 Pasco,074,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,075,President,,OVER VOTES,STATS,-,-,-,8
+Pasco,075,President,,OVER VOTES,STATS,,,,8
 Pasco,076,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,077,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,078,President,,OVER VOTES,STATS,-,-,-,5
+Pasco,077,President,,OVER VOTES,STATS,,,,4
+Pasco,078,President,,OVER VOTES,STATS,,,,5
 Pasco,079,President,,OVER VOTES,STATS,0,0,0,0
 Pasco,080,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,081,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,082,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,083,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,084,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,085,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,086,President,,OVER VOTES,STATS,-,-,-,5
-Pasco,087,President,,OVER VOTES,STATS,-,-,-,1
+Pasco,081,President,,OVER VOTES,STATS,,,,2
+Pasco,082,President,,OVER VOTES,STATS,,,,2
+Pasco,083,President,,OVER VOTES,STATS,,,,3
+Pasco,084,President,,OVER VOTES,STATS,,,,2
+Pasco,085,President,,OVER VOTES,STATS,,,,4
+Pasco,086,President,,OVER VOTES,STATS,,,,5
+Pasco,087,President,,OVER VOTES,STATS,,,,1
 Pasco,088,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,089,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,090,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,091,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,092,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,093,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,094,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,095,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,096,President,,OVER VOTES,STATS,-,-,-,2
-Pasco,097,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,098,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,099,President,,OVER VOTES,STATS,-,-,-,8
-Pasco,100,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,101,President,,OVER VOTES,STATS,-,-,-,3
-Pasco,102,President,,OVER VOTES,STATS,-,-,-,10
-Pasco,103,President,,OVER VOTES,STATS,-,-,-,1
+Pasco,089,President,,OVER VOTES,STATS,,,,3
+Pasco,090,President,,OVER VOTES,STATS,,,,3
+Pasco,091,President,,OVER VOTES,STATS,,,,1
+Pasco,092,President,,OVER VOTES,STATS,,,,1
+Pasco,093,President,,OVER VOTES,STATS,,,,4
+Pasco,094,President,,OVER VOTES,STATS,,,,2
+Pasco,095,President,,OVER VOTES,STATS,,,,3
+Pasco,096,President,,OVER VOTES,STATS,,,,2
+Pasco,097,President,,OVER VOTES,STATS,,,,3
+Pasco,098,President,,OVER VOTES,STATS,,,,3
+Pasco,099,President,,OVER VOTES,STATS,,,,8
+Pasco,100,President,,OVER VOTES,STATS,,,,1
+Pasco,101,President,,OVER VOTES,STATS,,,,3
+Pasco,102,President,,OVER VOTES,STATS,,,,10
+Pasco,103,President,,OVER VOTES,STATS,,,,1
 Pasco,104,President,,OVER VOTES,STATS,0,0,0,0
-Pasco,105,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,106,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,107,President,,OVER VOTES,STATS,-,-,-,6
-Pasco,108,President,,OVER VOTES,STATS,-,-,-,8
-Pasco,109,President,,OVER VOTES,STATS,-,-,-,7
-Pasco,110,President,,OVER VOTES,STATS,-,-,-,1
-Pasco,111,President,,OVER VOTES,STATS,-,-,-,4
-Pasco,001,President,,UNDER VOTES,STATS,-,-,-,11
-Pasco,002,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,003,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,004,President,,UNDER VOTES,STATS,-,-,-,2
-Pasco,005,President,,UNDER VOTES,STATS,-,-,-,6
-Pasco,006,President,,UNDER VOTES,STATS,-,-,-,21
-Pasco,007,President,,UNDER VOTES,STATS,-,-,-,9
-Pasco,008,President,,UNDER VOTES,STATS,-,-,-,10
-Pasco,009,President,,UNDER VOTES,STATS,-,-,-,1
+Pasco,105,President,,OVER VOTES,STATS,,,,1
+Pasco,106,President,,OVER VOTES,STATS,,,,4
+Pasco,107,President,,OVER VOTES,STATS,,,,6
+Pasco,108,President,,OVER VOTES,STATS,,,,8
+Pasco,109,President,,OVER VOTES,STATS,,,,7
+Pasco,110,President,,OVER VOTES,STATS,,,,1
+Pasco,111,President,,OVER VOTES,STATS,,,,4
+Pasco,001,President,,UNDER VOTES,STATS,,,,11
+Pasco,002,President,,UNDER VOTES,STATS,,,,3
+Pasco,003,President,,UNDER VOTES,STATS,,,,8
+Pasco,004,President,,UNDER VOTES,STATS,,,,2
+Pasco,005,President,,UNDER VOTES,STATS,,,,6
+Pasco,006,President,,UNDER VOTES,STATS,,,,21
+Pasco,007,President,,UNDER VOTES,STATS,,,,9
+Pasco,008,President,,UNDER VOTES,STATS,,,,10
+Pasco,009,President,,UNDER VOTES,STATS,,,,1
 Pasco,010,President,,UNDER VOTES,STATS,0,0,0,0
-Pasco,011,President,,UNDER VOTES,STATS,-,-,-,12
-Pasco,012,President,,UNDER VOTES,STATS,-,-,-,1
-Pasco,013,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,014,President,,UNDER VOTES,STATS,-,-,-,10
-Pasco,015,President,,UNDER VOTES,STATS,-,-,-,10
-Pasco,016,President,,UNDER VOTES,STATS,-,-,-,2
-Pasco,017,President,,UNDER VOTES,STATS,-,-,-,11
-Pasco,018,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,019,President,,UNDER VOTES,STATS,-,-,-,8
+Pasco,011,President,,UNDER VOTES,STATS,,,,12
+Pasco,012,President,,UNDER VOTES,STATS,,,,1
+Pasco,013,President,,UNDER VOTES,STATS,,,,5
+Pasco,014,President,,UNDER VOTES,STATS,,,,10
+Pasco,015,President,,UNDER VOTES,STATS,,,,10
+Pasco,016,President,,UNDER VOTES,STATS,,,,2
+Pasco,017,President,,UNDER VOTES,STATS,,,,11
+Pasco,018,President,,UNDER VOTES,STATS,,,,7
+Pasco,019,President,,UNDER VOTES,STATS,,,,8
 Pasco,020,President,,UNDER VOTES,STATS,0,0,0,0
 Pasco,021,President,,UNDER VOTES,STATS,0,0,0,0
-Pasco,022,President,,UNDER VOTES,STATS,-,-,-,6
-Pasco,023,President,,UNDER VOTES,STATS,-,-,-,5
+Pasco,022,President,,UNDER VOTES,STATS,,,,6
+Pasco,023,President,,UNDER VOTES,STATS,,,,5
 Pasco,024,President,,UNDER VOTES,STATS,0,0,0,0
-Pasco,025,President,,UNDER VOTES,STATS,-,-,-,16
-Pasco,026,President,,UNDER VOTES,STATS,-,-,-,2
-Pasco,027,President,,UNDER VOTES,STATS,-,-,-,13
-Pasco,028,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,029,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,030,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,031,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,032,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,033,President,,UNDER VOTES,STATS,-,-,-,12
-Pasco,034,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,035,President,,UNDER VOTES,STATS,-,-,-,15
-Pasco,036,President,,UNDER VOTES,STATS,-,-,-,16
-Pasco,037,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,038,President,,UNDER VOTES,STATS,-,-,-,17
-Pasco,039,President,,UNDER VOTES,STATS,-,-,-,1
-Pasco,040,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,041,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,042,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,043,President,,UNDER VOTES,STATS,-,-,-,1
+Pasco,025,President,,UNDER VOTES,STATS,,,,16
+Pasco,026,President,,UNDER VOTES,STATS,,,,2
+Pasco,027,President,,UNDER VOTES,STATS,,,,13
+Pasco,028,President,,UNDER VOTES,STATS,,,,4
+Pasco,029,President,,UNDER VOTES,STATS,,,,3
+Pasco,030,President,,UNDER VOTES,STATS,,,,4
+Pasco,031,President,,UNDER VOTES,STATS,,,,7
+Pasco,032,President,,UNDER VOTES,STATS,,,,4
+Pasco,033,President,,UNDER VOTES,STATS,,,,12
+Pasco,034,President,,UNDER VOTES,STATS,,,,5
+Pasco,035,President,,UNDER VOTES,STATS,,,,15
+Pasco,036,President,,UNDER VOTES,STATS,,,,16
+Pasco,037,President,,UNDER VOTES,STATS,,,,5
+Pasco,038,President,,UNDER VOTES,STATS,,,,17
+Pasco,039,President,,UNDER VOTES,STATS,,,,1
+Pasco,040,President,,UNDER VOTES,STATS,,,,4
+Pasco,041,President,,UNDER VOTES,STATS,,,,4
+Pasco,042,President,,UNDER VOTES,STATS,,,,8
+Pasco,043,President,,UNDER VOTES,STATS,,,,1
 Pasco,044,President,,UNDER VOTES,STATS,0,0,0,0
-Pasco,045,President,,UNDER VOTES,STATS,-,-,-,9
-Pasco,046,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,047,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,048,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,049,President,,UNDER VOTES,STATS,-,-,-,11
-Pasco,050,President,,UNDER VOTES,STATS,-,-,-,6
-Pasco,051,President,,UNDER VOTES,STATS,-,-,-,6
-Pasco,052,President,,UNDER VOTES,STATS,-,-,-,14
-Pasco,053,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,054,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,055,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,056,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,057,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,058,President,,UNDER VOTES,STATS,-,-,-,1
-Pasco,059,President,,UNDER VOTES,STATS,-,-,-,12
-Pasco,060,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,061,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,062,President,,UNDER VOTES,STATS,-,-,-,9
-Pasco,063,President,,UNDER VOTES,STATS,-,-,-,6
-Pasco,064,President,,UNDER VOTES,STATS,-,-,-,2
-Pasco,065,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,066,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,067,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,068,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,069,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,070,President,,UNDER VOTES,STATS,-,-,-,13
-Pasco,071,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,072,President,,UNDER VOTES,STATS,-,-,-,1
-Pasco,073,President,,UNDER VOTES,STATS,-,-,-,13
+Pasco,045,President,,UNDER VOTES,STATS,,,,9
+Pasco,046,President,,UNDER VOTES,STATS,,,,8
+Pasco,047,President,,UNDER VOTES,STATS,,,,3
+Pasco,048,President,,UNDER VOTES,STATS,,,,5
+Pasco,049,President,,UNDER VOTES,STATS,,,,11
+Pasco,050,President,,UNDER VOTES,STATS,,,,6
+Pasco,051,President,,UNDER VOTES,STATS,,,,6
+Pasco,052,President,,UNDER VOTES,STATS,,,,14
+Pasco,053,President,,UNDER VOTES,STATS,,,,7
+Pasco,054,President,,UNDER VOTES,STATS,,,,3
+Pasco,055,President,,UNDER VOTES,STATS,,,,3
+Pasco,056,President,,UNDER VOTES,STATS,,,,4
+Pasco,057,President,,UNDER VOTES,STATS,,,,3
+Pasco,058,President,,UNDER VOTES,STATS,,,,1
+Pasco,059,President,,UNDER VOTES,STATS,,,,12
+Pasco,060,President,,UNDER VOTES,STATS,,,,4
+Pasco,061,President,,UNDER VOTES,STATS,,,,5
+Pasco,062,President,,UNDER VOTES,STATS,,,,9
+Pasco,063,President,,UNDER VOTES,STATS,,,,6
+Pasco,064,President,,UNDER VOTES,STATS,,,,2
+Pasco,065,President,,UNDER VOTES,STATS,,,,8
+Pasco,066,President,,UNDER VOTES,STATS,,,,3
+Pasco,067,President,,UNDER VOTES,STATS,,,,7
+Pasco,068,President,,UNDER VOTES,STATS,,,,4
+Pasco,069,President,,UNDER VOTES,STATS,,,,3
+Pasco,070,President,,UNDER VOTES,STATS,,,,13
+Pasco,071,President,,UNDER VOTES,STATS,,,,5
+Pasco,072,President,,UNDER VOTES,STATS,,,,1
+Pasco,073,President,,UNDER VOTES,STATS,,,,13
 Pasco,074,President,,UNDER VOTES,STATS,0,0,0,0
-Pasco,075,President,,UNDER VOTES,STATS,-,-,-,9
-Pasco,076,President,,UNDER VOTES,STATS,-,-,-,10
-Pasco,077,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,078,President,,UNDER VOTES,STATS,-,-,-,10
-Pasco,079,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,080,President,,UNDER VOTES,STATS,-,-,-,1
-Pasco,081,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,082,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,083,President,,UNDER VOTES,STATS,-,-,-,20
-Pasco,084,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,085,President,,UNDER VOTES,STATS,-,-,-,9
-Pasco,086,President,,UNDER VOTES,STATS,-,-,-,2
-Pasco,087,President,,UNDER VOTES,STATS,-,-,-,4
-Pasco,088,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,089,President,,UNDER VOTES,STATS,-,-,-,1
-Pasco,090,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,091,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,092,President,,UNDER VOTES,STATS,-,-,-,6
-Pasco,093,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,094,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,095,President,,UNDER VOTES,STATS,-,-,-,5
-Pasco,096,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,097,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,098,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,099,President,,UNDER VOTES,STATS,-,-,-,4
+Pasco,075,President,,UNDER VOTES,STATS,,,,9
+Pasco,076,President,,UNDER VOTES,STATS,,,,10
+Pasco,077,President,,UNDER VOTES,STATS,,,,7
+Pasco,078,President,,UNDER VOTES,STATS,,,,10
+Pasco,079,President,,UNDER VOTES,STATS,,,,4
+Pasco,080,President,,UNDER VOTES,STATS,,,,1
+Pasco,081,President,,UNDER VOTES,STATS,,,,3
+Pasco,082,President,,UNDER VOTES,STATS,,,,7
+Pasco,083,President,,UNDER VOTES,STATS,,,,20
+Pasco,084,President,,UNDER VOTES,STATS,,,,4
+Pasco,085,President,,UNDER VOTES,STATS,,,,9
+Pasco,086,President,,UNDER VOTES,STATS,,,,2
+Pasco,087,President,,UNDER VOTES,STATS,,,,4
+Pasco,088,President,,UNDER VOTES,STATS,,,,5
+Pasco,089,President,,UNDER VOTES,STATS,,,,1
+Pasco,090,President,,UNDER VOTES,STATS,,,,8
+Pasco,091,President,,UNDER VOTES,STATS,,,,5
+Pasco,092,President,,UNDER VOTES,STATS,,,,6
+Pasco,093,President,,UNDER VOTES,STATS,,,,3
+Pasco,094,President,,UNDER VOTES,STATS,,,,3
+Pasco,095,President,,UNDER VOTES,STATS,,,,5
+Pasco,096,President,,UNDER VOTES,STATS,,,,7
+Pasco,097,President,,UNDER VOTES,STATS,,,,8
+Pasco,098,President,,UNDER VOTES,STATS,,,,7
+Pasco,099,President,,UNDER VOTES,STATS,,,,4
 Pasco,100,President,,UNDER VOTES,STATS,0,0,0,0
-Pasco,101,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,102,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,103,President,,UNDER VOTES,STATS,-,-,-,6
-Pasco,104,President,,UNDER VOTES,STATS,-,-,-,1
-Pasco,105,President,,UNDER VOTES,STATS,-,-,-,7
-Pasco,106,President,,UNDER VOTES,STATS,-,-,-,8
-Pasco,107,President,,UNDER VOTES,STATS,-,-,-,12
-Pasco,108,President,,UNDER VOTES,STATS,-,-,-,11
-Pasco,109,President,,UNDER VOTES,STATS,-,-,-,11
-Pasco,110,President,,UNDER VOTES,STATS,-,-,-,3
-Pasco,111,President,,UNDER VOTES,STATS,-,-,-,8
+Pasco,101,President,,UNDER VOTES,STATS,,,,8
+Pasco,102,President,,UNDER VOTES,STATS,,,,3
+Pasco,103,President,,UNDER VOTES,STATS,,,,6
+Pasco,104,President,,UNDER VOTES,STATS,,,,1
+Pasco,105,President,,UNDER VOTES,STATS,,,,7
+Pasco,106,President,,UNDER VOTES,STATS,,,,8
+Pasco,107,President,,UNDER VOTES,STATS,,,,12
+Pasco,108,President,,UNDER VOTES,STATS,,,,11
+Pasco,109,President,,UNDER VOTES,STATS,,,,11
+Pasco,110,President,,UNDER VOTES,STATS,,,,3
+Pasco,111,President,,UNDER VOTES,STATS,,,,8
 Pasco,001,U.S. House,12,Gus Michael Bilirakis,REP,578,618,468,1664
 Pasco,002,U.S. House,12,Gus Michael Bilirakis,REP,106,171,234,511
 Pasco,003,U.S. House,12,Gus Michael Bilirakis,REP,516,817,511,1844
@@ -1132,7 +1132,7 @@ Pasco,020,U.S. House,12,Gus Michael Bilirakis,REP,105,151,74,330
 Pasco,021,U.S. House,12,Gus Michael Bilirakis,REP,102,135,221,458
 Pasco,022,U.S. House,12,Gus Michael Bilirakis,REP,561,745,467,1773
 Pasco,023,U.S. House,12,Gus Michael Bilirakis,REP,423,414,311,1148
-Pasco,024,U.S. House,12,Gus Michael Bilirakis,REP,-,-,-,186
+Pasco,024,U.S. House,12,Gus Michael Bilirakis,REP,,,,186
 Pasco,025,U.S. House,12,Gus Michael Bilirakis,REP,1200,1253,989,3442
 Pasco,026,U.S. House,12,Gus Michael Bilirakis,REP,406,594,504,1504
 Pasco,027,U.S. House,12,Gus Michael Bilirakis,REP,1164,1593,1226,3983
@@ -1182,7 +1182,7 @@ Pasco,070,U.S. House,12,Gus Michael Bilirakis,REP,857,969,299,2125
 Pasco,071,U.S. House,12,Gus Michael Bilirakis,REP,313,360,258,931
 Pasco,072,U.S. House,12,Gus Michael Bilirakis,REP,464,585,375,1424
 Pasco,073,U.S. House,12,Gus Michael Bilirakis,REP,693,947,594,2234
-Pasco,074,U.S. House,12,Gus Michael Bilirakis,REP,-,-,-,64
+Pasco,074,U.S. House,12,Gus Michael Bilirakis,REP,,,,64
 Pasco,075,U.S. House,12,Gus Michael Bilirakis,REP,635,622,480,1737
 Pasco,076,U.S. House,12,Gus Michael Bilirakis,REP,547,453,557,1557
 Pasco,077,U.S. House,12,Gus Michael Bilirakis,REP,564,932,384,1880
@@ -1239,11 +1239,11 @@ Pasco,016,U.S. House,12,Kimberly Walker,DEM,64,49,58,171
 Pasco,017,U.S. House,12,Kimberly Walker,DEM,904,676,182,1762
 Pasco,018,U.S. House,12,Kimberly Walker,DEM,168,86,67,321
 Pasco,019,U.S. House,12,Kimberly Walker,DEM,493,271,98,862
-Pasco,020,U.S. House,12,Kimberly Walker,DEM,-,-,-,133
+Pasco,020,U.S. House,12,Kimberly Walker,DEM,,,,133
 Pasco,021,U.S. House,12,Kimberly Walker,DEM,90,63,98,251
 Pasco,022,U.S. House,12,Kimberly Walker,DEM,449,266,105,820
 Pasco,023,U.S. House,12,Kimberly Walker,DEM,322,116,71,509
-Pasco,024,U.S. House,12,Kimberly Walker,DEM,-,-,-,117
+Pasco,024,U.S. House,12,Kimberly Walker,DEM,,,,117
 Pasco,025,U.S. House,12,Kimberly Walker,DEM,1293,456,335,2084
 Pasco,026,U.S. House,12,Kimberly Walker,DEM,420,184,113,717
 Pasco,027,U.S. House,12,Kimberly Walker,DEM,775,332,189,1296
@@ -1275,7 +1275,7 @@ Pasco,052,U.S. House,12,Kimberly Walker,DEM,932,394,143,1469
 Pasco,053,U.S. House,12,Kimberly Walker,DEM,409,205,134,748
 Pasco,054,U.S. House,12,Kimberly Walker,DEM,619,286,216,1121
 Pasco,055,U.S. House,12,Kimberly Walker,DEM,818,554,144,1516
-Pasco,056,U.S. House,12,Kimberly Walker,DEM,-,-,-,178
+Pasco,056,U.S. House,12,Kimberly Walker,DEM,,,,178
 Pasco,057,U.S. House,12,Kimberly Walker,DEM,335,165,111,611
 Pasco,058,U.S. House,12,Kimberly Walker,DEM,246,100,90,436
 Pasco,059,U.S. House,12,Kimberly Walker,DEM,1056,451,245,1752
@@ -1293,7 +1293,7 @@ Pasco,070,U.S. House,12,Kimberly Walker,DEM,750,330,68,1148
 Pasco,071,U.S. House,12,Kimberly Walker,DEM,211,79,39,329
 Pasco,072,U.S. House,12,Kimberly Walker,DEM,500,270,120,890
 Pasco,073,U.S. House,12,Kimberly Walker,DEM,994,584,251,1829
-Pasco,074,U.S. House,12,Kimberly Walker,DEM,-,-,-,52
+Pasco,074,U.S. House,12,Kimberly Walker,DEM,,,,52
 Pasco,075,U.S. House,12,Kimberly Walker,DEM,622,263,161,1046
 Pasco,076,U.S. House,12,Kimberly Walker,DEM,464,118,148,730
 Pasco,077,U.S. House,12,Kimberly Walker,DEM,388,182,71,641
@@ -1307,7 +1307,7 @@ Pasco,084,U.S. House,12,Kimberly Walker,DEM,330,197,131,658
 Pasco,085,U.S. House,12,Kimberly Walker,DEM,579,380,173,1132
 Pasco,086,U.S. House,12,Kimberly Walker,DEM,394,169,110,673
 Pasco,087,U.S. House,12,Kimberly Walker,DEM,941,699,238,1878
-Pasco,088,U.S. House,12,Kimberly Walker,DEM,-,-,-,135
+Pasco,088,U.S. House,12,Kimberly Walker,DEM,,,,135
 Pasco,089,U.S. House,12,Kimberly Walker,DEM,173,84,53,310
 Pasco,090,U.S. House,12,Kimberly Walker,DEM,1197,1008,302,2507
 Pasco,091,U.S. House,12,Kimberly Walker,DEM,485,212,92,789
@@ -1336,39 +1336,39 @@ Pasco,002,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,003,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,004,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,005,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,006,U.S. House,12,OVER VOTES,STATS,-,-,-,3
-Pasco,007,U.S. House,12,OVER VOTES,STATS,-,-,-,2
+Pasco,006,U.S. House,12,OVER VOTES,STATS,,,,3
+Pasco,007,U.S. House,12,OVER VOTES,STATS,,,,2
 Pasco,008,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,009,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,010,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,010,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,011,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,012,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,012,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,013,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,014,U.S. House,12,OVER VOTES,STATS,-,-,-,1
-Pasco,015,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,014,U.S. House,12,OVER VOTES,STATS,,,,1
+Pasco,015,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,016,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,017,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,018,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,018,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,019,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,020,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,021,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,022,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,022,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,023,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,024,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,025,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,026,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,027,U.S. House,12,OVER VOTES,STATS,-,-,-,1
-Pasco,028,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,027,U.S. House,12,OVER VOTES,STATS,,,,1
+Pasco,028,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,029,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,030,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,030,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,031,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,032,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,033,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,033,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,034,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,035,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,036,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,036,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,037,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,038,U.S. House,12,OVER VOTES,STATS,-,-,-,2
+Pasco,038,U.S. House,12,OVER VOTES,STATS,,,,2
 Pasco,039,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,040,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,041,U.S. House,12,OVER VOTES,STATS,0,0,0,0
@@ -1382,32 +1382,32 @@ Pasco,048,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,049,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,050,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,051,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,052,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,052,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,053,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,054,U.S. House,12,OVER VOTES,STATS,-,-,-,2
-Pasco,055,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,054,U.S. House,12,OVER VOTES,STATS,,,,2
+Pasco,055,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,056,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,057,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,058,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,059,U.S. House,12,OVER VOTES,STATS,-,-,-,2
+Pasco,059,U.S. House,12,OVER VOTES,STATS,,,,2
 Pasco,060,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,061,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,061,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,062,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,063,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,064,U.S. House,12,OVER VOTES,STATS,-,-,-,2
+Pasco,064,U.S. House,12,OVER VOTES,STATS,,,,2
 Pasco,065,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,066,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,067,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,068,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,068,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,069,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,070,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,071,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,072,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,073,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,074,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,075,U.S. House,12,OVER VOTES,STATS,-,-,-,1
-Pasco,076,U.S. House,12,OVER VOTES,STATS,-,-,-,1
-Pasco,077,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,075,U.S. House,12,OVER VOTES,STATS,,,,1
+Pasco,076,U.S. House,12,OVER VOTES,STATS,,,,1
+Pasco,077,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,078,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,079,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,080,U.S. House,12,OVER VOTES,STATS,0,0,0,0
@@ -1427,132 +1427,132 @@ Pasco,093,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,094,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,095,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,096,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,097,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,097,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,098,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,099,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,100,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,100,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,101,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,102,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,103,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,104,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,105,U.S. House,12,OVER VOTES,STATS,-,-,-,1
+Pasco,105,U.S. House,12,OVER VOTES,STATS,,,,1
 Pasco,106,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,107,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,108,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,109,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,110,U.S. House,12,OVER VOTES,STATS,0,0,0,0
 Pasco,111,U.S. House,12,OVER VOTES,STATS,0,0,0,0
-Pasco,001,U.S. House,12,UNDER VOTES,STATS,-,-,-,46
-Pasco,002,U.S. House,12,UNDER VOTES,STATS,-,-,-,20
-Pasco,003,U.S. House,12,UNDER VOTES,STATS,-,-,-,53
-Pasco,004,U.S. House,12,UNDER VOTES,STATS,-,-,-,13
-Pasco,005,U.S. House,12,UNDER VOTES,STATS,-,-,-,49
+Pasco,001,U.S. House,12,UNDER VOTES,STATS,,,,46
+Pasco,002,U.S. House,12,UNDER VOTES,STATS,,,,20
+Pasco,003,U.S. House,12,UNDER VOTES,STATS,,,,53
+Pasco,004,U.S. House,12,UNDER VOTES,STATS,,,,13
+Pasco,005,U.S. House,12,UNDER VOTES,STATS,,,,49
 Pasco,006,U.S. House,12,UNDER VOTES,STATS,63,68,39,170
 Pasco,007,U.S. House,12,UNDER VOTES,STATS,40,40,30,110
-Pasco,008,U.S. House,12,UNDER VOTES,STATS,-,-,-,101
-Pasco,009,U.S. House,12,UNDER VOTES,STATS,-,-,-,9
-Pasco,010,U.S. House,12,UNDER VOTES,STATS,-,-,-,15
-Pasco,011,U.S. House,12,UNDER VOTES,STATS,-,-,-,97
-Pasco,012,U.S. House,12,UNDER VOTES,STATS,-,-,-,53
-Pasco,013,U.S. House,12,UNDER VOTES,STATS,-,-,-,56
-Pasco,014,U.S. House,12,UNDER VOTES,STATS,-,-,-,118
+Pasco,008,U.S. House,12,UNDER VOTES,STATS,,,,101
+Pasco,009,U.S. House,12,UNDER VOTES,STATS,,,,9
+Pasco,010,U.S. House,12,UNDER VOTES,STATS,,,,15
+Pasco,011,U.S. House,12,UNDER VOTES,STATS,,,,97
+Pasco,012,U.S. House,12,UNDER VOTES,STATS,,,,53
+Pasco,013,U.S. House,12,UNDER VOTES,STATS,,,,56
+Pasco,014,U.S. House,12,UNDER VOTES,STATS,,,,118
 Pasco,015,U.S. House,12,UNDER VOTES,STATS,37,45,40,122
-Pasco,016,U.S. House,12,UNDER VOTES,STATS,-,-,-,20
-Pasco,017,U.S. House,12,UNDER VOTES,STATS,-,-,-,94
-Pasco,018,U.S. House,12,UNDER VOTES,STATS,-,-,-,23
-Pasco,019,U.S. House,12,UNDER VOTES,STATS,-,-,-,51
-Pasco,020,U.S. House,12,UNDER VOTES,STATS,-,-,-,6
-Pasco,021,U.S. House,12,UNDER VOTES,STATS,-,-,-,23
-Pasco,022,U.S. House,12,UNDER VOTES,STATS,-,-,-,54
-Pasco,023,U.S. House,12,UNDER VOTES,STATS,-,-,-,40
-Pasco,024,U.S. House,12,UNDER VOTES,STATS,-,-,-,6
-Pasco,025,U.S. House,12,UNDER VOTES,STATS,-,-,-,106
-Pasco,026,U.S. House,12,UNDER VOTES,STATS,-,-,-,63
-Pasco,027,U.S. House,12,UNDER VOTES,STATS,-,-,-,117
-Pasco,028,U.S. House,12,UNDER VOTES,STATS,-,-,-,68
-Pasco,029,U.S. House,12,UNDER VOTES,STATS,-,-,-,34
-Pasco,030,U.S. House,12,UNDER VOTES,STATS,-,-,-,50
-Pasco,031,U.S. House,12,UNDER VOTES,STATS,-,-,-,66
-Pasco,032,U.S. House,12,UNDER VOTES,STATS,-,-,-,50
-Pasco,033,U.S. House,12,UNDER VOTES,STATS,-,-,-,63
-Pasco,034,U.S. House,12,UNDER VOTES,STATS,-,-,-,35
+Pasco,016,U.S. House,12,UNDER VOTES,STATS,,,,20
+Pasco,017,U.S. House,12,UNDER VOTES,STATS,,,,94
+Pasco,018,U.S. House,12,UNDER VOTES,STATS,,,,23
+Pasco,019,U.S. House,12,UNDER VOTES,STATS,,,,51
+Pasco,020,U.S. House,12,UNDER VOTES,STATS,,,,6
+Pasco,021,U.S. House,12,UNDER VOTES,STATS,,,,23
+Pasco,022,U.S. House,12,UNDER VOTES,STATS,,,,54
+Pasco,023,U.S. House,12,UNDER VOTES,STATS,,,,40
+Pasco,024,U.S. House,12,UNDER VOTES,STATS,,,,6
+Pasco,025,U.S. House,12,UNDER VOTES,STATS,,,,106
+Pasco,026,U.S. House,12,UNDER VOTES,STATS,,,,63
+Pasco,027,U.S. House,12,UNDER VOTES,STATS,,,,117
+Pasco,028,U.S. House,12,UNDER VOTES,STATS,,,,68
+Pasco,029,U.S. House,12,UNDER VOTES,STATS,,,,34
+Pasco,030,U.S. House,12,UNDER VOTES,STATS,,,,50
+Pasco,031,U.S. House,12,UNDER VOTES,STATS,,,,66
+Pasco,032,U.S. House,12,UNDER VOTES,STATS,,,,50
+Pasco,033,U.S. House,12,UNDER VOTES,STATS,,,,63
+Pasco,034,U.S. House,12,UNDER VOTES,STATS,,,,35
 Pasco,035,U.S. House,12,UNDER VOTES,STATS,46,47,40,133
 Pasco,036,U.S. House,12,UNDER VOTES,STATS,70,42,37,149
-Pasco,037,U.S. House,12,UNDER VOTES,STATS,-,-,-,52
-Pasco,038,U.S. House,12,UNDER VOTES,STATS,-,-,-,92
-Pasco,039,U.S. House,12,UNDER VOTES,STATS,-,-,-,13
-Pasco,040,U.S. House,12,UNDER VOTES,STATS,-,-,-,17
-Pasco,041,U.S. House,12,UNDER VOTES,STATS,-,-,-,54
-Pasco,042,U.S. House,12,UNDER VOTES,STATS,-,-,-,87
-Pasco,043,U.S. House,12,UNDER VOTES,STATS,-,-,-,17
-Pasco,044,U.S. House,12,UNDER VOTES,STATS,-,-,-,26
-Pasco,045,U.S. House,12,UNDER VOTES,STATS,-,-,-,63
-Pasco,046,U.S. House,12,UNDER VOTES,STATS,-,-,-,62
-Pasco,047,U.S. House,12,UNDER VOTES,STATS,-,-,-,26
-Pasco,048,U.S. House,12,UNDER VOTES,STATS,-,-,-,39
-Pasco,049,U.S. House,12,UNDER VOTES,STATS,-,-,-,75
-Pasco,050,U.S. House,12,UNDER VOTES,STATS,-,-,-,34
-Pasco,051,U.S. House,12,UNDER VOTES,STATS,-,-,-,43
-Pasco,052,U.S. House,12,UNDER VOTES,STATS,-,-,-,81
-Pasco,053,U.S. House,12,UNDER VOTES,STATS,-,-,-,44
-Pasco,054,U.S. House,12,UNDER VOTES,STATS,-,-,-,58
-Pasco,055,U.S. House,12,UNDER VOTES,STATS,-,-,-,83
-Pasco,056,U.S. House,12,UNDER VOTES,STATS,-,-,-,12
-Pasco,057,U.S. House,12,UNDER VOTES,STATS,-,-,-,23
-Pasco,058,U.S. House,12,UNDER VOTES,STATS,-,-,-,23
-Pasco,059,U.S. House,12,UNDER VOTES,STATS,-,-,-,103
-Pasco,060,U.S. House,12,UNDER VOTES,STATS,-,-,-,35
-Pasco,061,U.S. House,12,UNDER VOTES,STATS,-,-,-,22
-Pasco,062,U.S. House,12,UNDER VOTES,STATS,-,-,-,75
-Pasco,063,U.S. House,12,UNDER VOTES,STATS,-,-,-,19
-Pasco,064,U.S. House,12,UNDER VOTES,STATS,-,-,-,40
-Pasco,065,U.S. House,12,UNDER VOTES,STATS,-,-,-,65
-Pasco,066,U.S. House,12,UNDER VOTES,STATS,-,-,-,60
-Pasco,067,U.S. House,12,UNDER VOTES,STATS,-,-,-,37
-Pasco,068,U.S. House,12,UNDER VOTES,STATS,-,-,-,52
-Pasco,069,U.S. House,12,UNDER VOTES,STATS,-,-,-,79
-Pasco,070,U.S. House,12,UNDER VOTES,STATS,-,-,-,66
-Pasco,071,U.S. House,12,UNDER VOTES,STATS,-,-,-,29
-Pasco,072,U.S. House,12,UNDER VOTES,STATS,-,-,-,38
-Pasco,073,U.S. House,12,UNDER VOTES,STATS,-,-,-,83
-Pasco,074,U.S. House,12,UNDER VOTES,STATS,-,-,-,4
-Pasco,075,U.S. House,12,UNDER VOTES,STATS,-,-,-,56
-Pasco,076,U.S. House,12,UNDER VOTES,STATS,-,-,-,40
-Pasco,077,U.S. House,12,UNDER VOTES,STATS,-,-,-,55
-Pasco,078,U.S. House,12,UNDER VOTES,STATS,-,-,-,46
-Pasco,079,U.S. House,12,UNDER VOTES,STATS,-,-,-,23
-Pasco,080,U.S. House,12,UNDER VOTES,STATS,-,-,-,18
-Pasco,081,U.S. House,12,UNDER VOTES,STATS,-,-,-,23
-Pasco,082,U.S. House,12,UNDER VOTES,STATS,-,-,-,48
-Pasco,083,U.S. House,12,UNDER VOTES,STATS,-,-,-,80
-Pasco,084,U.S. House,12,UNDER VOTES,STATS,-,-,-,57
-Pasco,085,U.S. House,12,UNDER VOTES,STATS,-,-,-,59
-Pasco,086,U.S. House,12,UNDER VOTES,STATS,-,-,-,59
-Pasco,087,U.S. House,12,UNDER VOTES,STATS,-,-,-,82
-Pasco,088,U.S. House,12,UNDER VOTES,STATS,-,-,-,12
-Pasco,089,U.S. House,12,UNDER VOTES,STATS,-,-,-,25
-Pasco,090,U.S. House,12,UNDER VOTES,STATS,-,-,-,102
-Pasco,091,U.S. House,12,UNDER VOTES,STATS,-,-,-,55
-Pasco,092,U.S. House,12,UNDER VOTES,STATS,-,-,-,36
-Pasco,093,U.S. House,12,UNDER VOTES,STATS,-,-,-,42
-Pasco,094,U.S. House,12,UNDER VOTES,STATS,-,-,-,34
-Pasco,095,U.S. House,12,UNDER VOTES,STATS,-,-,-,57
-Pasco,096,U.S. House,12,UNDER VOTES,STATS,-,-,-,47
-Pasco,097,U.S. House,12,UNDER VOTES,STATS,-,-,-,66
-Pasco,098,U.S. House,12,UNDER VOTES,STATS,-,-,-,53
-Pasco,099,U.S. House,12,UNDER VOTES,STATS,-,-,-,65
-Pasco,100,U.S. House,12,UNDER VOTES,STATS,-,-,-,28
-Pasco,101,U.S. House,12,UNDER VOTES,STATS,-,-,-,59
-Pasco,102,U.S. House,12,UNDER VOTES,STATS,-,-,-,27
-Pasco,103,U.S. House,12,UNDER VOTES,STATS,-,-,-,43
-Pasco,104,U.S. House,12,UNDER VOTES,STATS,-,-,-,15
-Pasco,105,U.S. House,12,UNDER VOTES,STATS,-,-,-,29
-Pasco,106,U.S. House,12,UNDER VOTES,STATS,-,-,-,44
-Pasco,107,U.S. House,12,UNDER VOTES,STATS,-,-,-,95
-Pasco,108,U.S. House,12,UNDER VOTES,STATS,-,-,-,96
-Pasco,109,U.S. House,12,UNDER VOTES,STATS,-,-,-,82
-Pasco,110,U.S. House,12,UNDER VOTES,STATS,-,-,-,50
-Pasco,111,U.S. House,12,UNDER VOTES,STATS,-,-,-,49
+Pasco,037,U.S. House,12,UNDER VOTES,STATS,,,,52
+Pasco,038,U.S. House,12,UNDER VOTES,STATS,,,,92
+Pasco,039,U.S. House,12,UNDER VOTES,STATS,,,,13
+Pasco,040,U.S. House,12,UNDER VOTES,STATS,,,,17
+Pasco,041,U.S. House,12,UNDER VOTES,STATS,,,,54
+Pasco,042,U.S. House,12,UNDER VOTES,STATS,,,,87
+Pasco,043,U.S. House,12,UNDER VOTES,STATS,,,,17
+Pasco,044,U.S. House,12,UNDER VOTES,STATS,,,,26
+Pasco,045,U.S. House,12,UNDER VOTES,STATS,,,,63
+Pasco,046,U.S. House,12,UNDER VOTES,STATS,,,,62
+Pasco,047,U.S. House,12,UNDER VOTES,STATS,,,,26
+Pasco,048,U.S. House,12,UNDER VOTES,STATS,,,,39
+Pasco,049,U.S. House,12,UNDER VOTES,STATS,,,,75
+Pasco,050,U.S. House,12,UNDER VOTES,STATS,,,,34
+Pasco,051,U.S. House,12,UNDER VOTES,STATS,,,,43
+Pasco,052,U.S. House,12,UNDER VOTES,STATS,,,,81
+Pasco,053,U.S. House,12,UNDER VOTES,STATS,,,,44
+Pasco,054,U.S. House,12,UNDER VOTES,STATS,,,,58
+Pasco,055,U.S. House,12,UNDER VOTES,STATS,,,,83
+Pasco,056,U.S. House,12,UNDER VOTES,STATS,,,,12
+Pasco,057,U.S. House,12,UNDER VOTES,STATS,,,,23
+Pasco,058,U.S. House,12,UNDER VOTES,STATS,,,,23
+Pasco,059,U.S. House,12,UNDER VOTES,STATS,,,,103
+Pasco,060,U.S. House,12,UNDER VOTES,STATS,,,,35
+Pasco,061,U.S. House,12,UNDER VOTES,STATS,,,,22
+Pasco,062,U.S. House,12,UNDER VOTES,STATS,,,,75
+Pasco,063,U.S. House,12,UNDER VOTES,STATS,,,,19
+Pasco,064,U.S. House,12,UNDER VOTES,STATS,,,,40
+Pasco,065,U.S. House,12,UNDER VOTES,STATS,,,,65
+Pasco,066,U.S. House,12,UNDER VOTES,STATS,,,,60
+Pasco,067,U.S. House,12,UNDER VOTES,STATS,,,,37
+Pasco,068,U.S. House,12,UNDER VOTES,STATS,,,,52
+Pasco,069,U.S. House,12,UNDER VOTES,STATS,,,,79
+Pasco,070,U.S. House,12,UNDER VOTES,STATS,,,,66
+Pasco,071,U.S. House,12,UNDER VOTES,STATS,,,,29
+Pasco,072,U.S. House,12,UNDER VOTES,STATS,,,,38
+Pasco,073,U.S. House,12,UNDER VOTES,STATS,,,,83
+Pasco,074,U.S. House,12,UNDER VOTES,STATS,,,,4
+Pasco,075,U.S. House,12,UNDER VOTES,STATS,,,,56
+Pasco,076,U.S. House,12,UNDER VOTES,STATS,,,,40
+Pasco,077,U.S. House,12,UNDER VOTES,STATS,,,,55
+Pasco,078,U.S. House,12,UNDER VOTES,STATS,,,,46
+Pasco,079,U.S. House,12,UNDER VOTES,STATS,,,,23
+Pasco,080,U.S. House,12,UNDER VOTES,STATS,,,,18
+Pasco,081,U.S. House,12,UNDER VOTES,STATS,,,,23
+Pasco,082,U.S. House,12,UNDER VOTES,STATS,,,,48
+Pasco,083,U.S. House,12,UNDER VOTES,STATS,,,,80
+Pasco,084,U.S. House,12,UNDER VOTES,STATS,,,,57
+Pasco,085,U.S. House,12,UNDER VOTES,STATS,,,,59
+Pasco,086,U.S. House,12,UNDER VOTES,STATS,,,,59
+Pasco,087,U.S. House,12,UNDER VOTES,STATS,,,,82
+Pasco,088,U.S. House,12,UNDER VOTES,STATS,,,,12
+Pasco,089,U.S. House,12,UNDER VOTES,STATS,,,,25
+Pasco,090,U.S. House,12,UNDER VOTES,STATS,,,,102
+Pasco,091,U.S. House,12,UNDER VOTES,STATS,,,,55
+Pasco,092,U.S. House,12,UNDER VOTES,STATS,,,,36
+Pasco,093,U.S. House,12,UNDER VOTES,STATS,,,,42
+Pasco,094,U.S. House,12,UNDER VOTES,STATS,,,,34
+Pasco,095,U.S. House,12,UNDER VOTES,STATS,,,,57
+Pasco,096,U.S. House,12,UNDER VOTES,STATS,,,,47
+Pasco,097,U.S. House,12,UNDER VOTES,STATS,,,,66
+Pasco,098,U.S. House,12,UNDER VOTES,STATS,,,,53
+Pasco,099,U.S. House,12,UNDER VOTES,STATS,,,,65
+Pasco,100,U.S. House,12,UNDER VOTES,STATS,,,,28
+Pasco,101,U.S. House,12,UNDER VOTES,STATS,,,,59
+Pasco,102,U.S. House,12,UNDER VOTES,STATS,,,,27
+Pasco,103,U.S. House,12,UNDER VOTES,STATS,,,,43
+Pasco,104,U.S. House,12,UNDER VOTES,STATS,,,,15
+Pasco,105,U.S. House,12,UNDER VOTES,STATS,,,,29
+Pasco,106,U.S. House,12,UNDER VOTES,STATS,,,,44
+Pasco,107,U.S. House,12,UNDER VOTES,STATS,,,,95
+Pasco,108,U.S. House,12,UNDER VOTES,STATS,,,,96
+Pasco,109,U.S. House,12,UNDER VOTES,STATS,,,,82
+Pasco,110,U.S. House,12,UNDER VOTES,STATS,,,,50
+Pasco,111,U.S. House,12,UNDER VOTES,STATS,,,,49
 Pasco,001,State Senate,20,Danny Burgess,REP,571,620,478,1669
 Pasco,004,State Senate,20,Danny Burgess,REP,215,297,303,815
 Pasco,005,State Senate,20,Danny Burgess,REP,491,651,506,1648
@@ -1562,7 +1562,7 @@ Pasco,010,State Senate,20,Danny Burgess,REP,189,220,234,643
 Pasco,016,State Senate,20,Danny Burgess,REP,99,182,290,571
 Pasco,019,State Senate,20,Danny Burgess,REP,760,1075,517,2352
 Pasco,022,State Senate,20,Danny Burgess,REP,576,743,475,1794
-Pasco,024,State Senate,20,Danny Burgess,REP,-,-,-,179
+Pasco,024,State Senate,20,Danny Burgess,REP,,,,179
 Pasco,035,State Senate,20,Danny Burgess,REP,1208,2280,621,4109
 Pasco,037,State Senate,20,Danny Burgess,REP,640,640,311,1591
 Pasco,038,State Senate,20,Danny Burgess,REP,839,1308,531,2678
@@ -1576,7 +1576,7 @@ Pasco,063,State Senate,20,Danny Burgess,REP,288,311,232,831
 Pasco,064,State Senate,20,Danny Burgess,REP,393,330,348,1071
 Pasco,069,State Senate,20,Danny Burgess,REP,870,985,595,2450
 Pasco,073,State Senate,20,Danny Burgess,REP,662,915,587,2164
-Pasco,074,State Senate,20,Danny Burgess,REP,-,-,-,63
+Pasco,074,State Senate,20,Danny Burgess,REP,,,,63
 Pasco,076,State Senate,20,Danny Burgess,REP,516,445,553,1514
 Pasco,084,State Senate,20,Danny Burgess,REP,328,501,368,1197
 Pasco,085,State Senate,20,Danny Burgess,REP,354,625,336,1315
@@ -1600,21 +1600,21 @@ Pasco,010,State Senate,20,Kathy Lewis,DEM,107,58,58,223
 Pasco,016,State Senate,20,Kathy Lewis,DEM,57,46,48,151
 Pasco,019,State Senate,20,Kathy Lewis,DEM,475,267,97,839
 Pasco,022,State Senate,20,Kathy Lewis,DEM,430,270,97,797
-Pasco,024,State Senate,20,Kathy Lewis,DEM,-,-,-,122
+Pasco,024,State Senate,20,Kathy Lewis,DEM,,,,122
 Pasco,035,State Senate,20,Kathy Lewis,DEM,1215,882,187,2284
 Pasco,037,State Senate,20,Kathy Lewis,DEM,413,153,46,612
 Pasco,038,State Senate,20,Kathy Lewis,DEM,1365,980,303,2648
 Pasco,039,State Senate,20,Kathy Lewis,DEM,133,64,48,245
 Pasco,048,State Senate,20,Kathy Lewis,DEM,390,320,91,801
 Pasco,055,State Senate,20,Kathy Lewis,DEM,797,549,128,1474
-Pasco,056,State Senate,20,Kathy Lewis,DEM,-,-,-,168
+Pasco,056,State Senate,20,Kathy Lewis,DEM,,,,168
 Pasco,060,State Senate,20,Kathy Lewis,DEM,459,293,113,865
 Pasco,062,State Senate,20,Kathy Lewis,DEM,786,481,201,1468
 Pasco,063,State Senate,20,Kathy Lewis,DEM,219,95,74,388
 Pasco,064,State Senate,20,Kathy Lewis,DEM,284,109,98,491
 Pasco,069,State Senate,20,Kathy Lewis,DEM,600,252,112,964
 Pasco,073,State Senate,20,Kathy Lewis,DEM,1005,609,256,1870
-Pasco,074,State Senate,20,Kathy Lewis,DEM,-,-,-,54
+Pasco,074,State Senate,20,Kathy Lewis,DEM,,,,54
 Pasco,076,State Senate,20,Kathy Lewis,DEM,491,123,147,761
 Pasco,084,State Senate,20,Kathy Lewis,DEM,323,192,112,627
 Pasco,085,State Senate,20,Kathy Lewis,DEM,585,376,173,1134
@@ -1631,33 +1631,33 @@ Pasco,107,State Senate,20,Kathy Lewis,DEM,1228,874,245,2347
 Pasco,109,State Senate,20,Kathy Lewis,DEM,1158,646,168,1972
 Pasco,001,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,004,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,005,State Senate,20,OVER VOTES,STATS,-,-,-,1
-Pasco,006,State Senate,20,OVER VOTES,STATS,-,-,-,1
-Pasco,007,State Senate,20,OVER VOTES,STATS,-,-,-,1
+Pasco,005,State Senate,20,OVER VOTES,STATS,,,,1
+Pasco,006,State Senate,20,OVER VOTES,STATS,,,,1
+Pasco,007,State Senate,20,OVER VOTES,STATS,,,,1
 Pasco,010,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,016,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,019,State Senate,20,OVER VOTES,STATS,-,-,-,1
+Pasco,019,State Senate,20,OVER VOTES,STATS,,,,1
 Pasco,022,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,024,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,035,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,037,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,038,State Senate,20,OVER VOTES,STATS,-,-,-,2
+Pasco,038,State Senate,20,OVER VOTES,STATS,,,,2
 Pasco,039,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,048,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,055,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,056,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,060,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,062,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,063,State Senate,20,OVER VOTES,STATS,-,-,-,1
+Pasco,063,State Senate,20,OVER VOTES,STATS,,,,1
 Pasco,064,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,069,State Senate,20,OVER VOTES,STATS,-,-,-,1
+Pasco,069,State Senate,20,OVER VOTES,STATS,,,,1
 Pasco,073,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,074,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,076,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,084,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,085,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,086,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,087,State Senate,20,OVER VOTES,STATS,-,-,-,1
+Pasco,087,State Senate,20,OVER VOTES,STATS,,,,1
 Pasco,090,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,095,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,096,State Senate,20,OVER VOTES,STATS,0,0,0,0
@@ -1665,46 +1665,46 @@ Pasco,098,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,099,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,101,State Senate,20,OVER VOTES,STATS,0,0,0,0
 Pasco,104,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,107,State Senate,20,OVER VOTES,STATS,-,-,-,1
+Pasco,107,State Senate,20,OVER VOTES,STATS,,,,1
 Pasco,109,State Senate,20,OVER VOTES,STATS,0,0,0,0
-Pasco,001,State Senate,20,UNDER VOTES,STATS,-,-,-,72
-Pasco,004,State Senate,20,UNDER VOTES,STATS,-,-,-,15
-Pasco,005,State Senate,20,UNDER VOTES,STATS,-,-,-,52
+Pasco,001,State Senate,20,UNDER VOTES,STATS,,,,72
+Pasco,004,State Senate,20,UNDER VOTES,STATS,,,,15
+Pasco,005,State Senate,20,UNDER VOTES,STATS,,,,52
 Pasco,006,State Senate,20,UNDER VOTES,STATS,74,60,32,166
 Pasco,007,State Senate,20,UNDER VOTES,STATS,56,52,36,144
-Pasco,010,State Senate,20,UNDER VOTES,STATS,-,-,-,23
-Pasco,016,State Senate,20,UNDER VOTES,STATS,-,-,-,16
-Pasco,019,State Senate,20,UNDER VOTES,STATS,-,-,-,66
-Pasco,022,State Senate,20,UNDER VOTES,STATS,-,-,-,57
-Pasco,024,State Senate,20,UNDER VOTES,STATS,-,-,-,8
+Pasco,010,State Senate,20,UNDER VOTES,STATS,,,,23
+Pasco,016,State Senate,20,UNDER VOTES,STATS,,,,16
+Pasco,019,State Senate,20,UNDER VOTES,STATS,,,,66
+Pasco,022,State Senate,20,UNDER VOTES,STATS,,,,57
+Pasco,024,State Senate,20,UNDER VOTES,STATS,,,,8
 Pasco,035,State Senate,20,UNDER VOTES,STATS,58,57,44,159
-Pasco,037,State Senate,20,UNDER VOTES,STATS,-,-,-,56
-Pasco,038,State Senate,20,UNDER VOTES,STATS,-,-,-,116
-Pasco,039,State Senate,20,UNDER VOTES,STATS,-,-,-,17
-Pasco,048,State Senate,20,UNDER VOTES,STATS,-,-,-,41
-Pasco,055,State Senate,20,UNDER VOTES,STATS,-,-,-,89
-Pasco,056,State Senate,20,UNDER VOTES,STATS,-,-,-,14
-Pasco,060,State Senate,20,UNDER VOTES,STATS,-,-,-,48
-Pasco,062,State Senate,20,UNDER VOTES,STATS,-,-,-,88
-Pasco,063,State Senate,20,UNDER VOTES,STATS,-,-,-,21
-Pasco,064,State Senate,20,UNDER VOTES,STATS,-,-,-,33
-Pasco,069,State Senate,20,UNDER VOTES,STATS,-,-,-,91
-Pasco,073,State Senate,20,UNDER VOTES,STATS,-,-,-,112
-Pasco,074,State Senate,20,UNDER VOTES,STATS,-,-,-,3
-Pasco,076,State Senate,20,UNDER VOTES,STATS,-,-,-,53
-Pasco,084,State Senate,20,UNDER VOTES,STATS,-,-,-,68
-Pasco,085,State Senate,20,UNDER VOTES,STATS,-,-,-,74
-Pasco,086,State Senate,20,UNDER VOTES,STATS,-,-,-,68
+Pasco,037,State Senate,20,UNDER VOTES,STATS,,,,56
+Pasco,038,State Senate,20,UNDER VOTES,STATS,,,,116
+Pasco,039,State Senate,20,UNDER VOTES,STATS,,,,17
+Pasco,048,State Senate,20,UNDER VOTES,STATS,,,,41
+Pasco,055,State Senate,20,UNDER VOTES,STATS,,,,89
+Pasco,056,State Senate,20,UNDER VOTES,STATS,,,,14
+Pasco,060,State Senate,20,UNDER VOTES,STATS,,,,48
+Pasco,062,State Senate,20,UNDER VOTES,STATS,,,,88
+Pasco,063,State Senate,20,UNDER VOTES,STATS,,,,21
+Pasco,064,State Senate,20,UNDER VOTES,STATS,,,,33
+Pasco,069,State Senate,20,UNDER VOTES,STATS,,,,91
+Pasco,073,State Senate,20,UNDER VOTES,STATS,,,,112
+Pasco,074,State Senate,20,UNDER VOTES,STATS,,,,3
+Pasco,076,State Senate,20,UNDER VOTES,STATS,,,,53
+Pasco,084,State Senate,20,UNDER VOTES,STATS,,,,68
+Pasco,085,State Senate,20,UNDER VOTES,STATS,,,,74
+Pasco,086,State Senate,20,UNDER VOTES,STATS,,,,68
 Pasco,087,State Senate,20,UNDER VOTES,STATS,33,39,31,103
-Pasco,090,State Senate,20,UNDER VOTES,STATS,-,-,-,124
-Pasco,095,State Senate,20,UNDER VOTES,STATS,-,-,-,82
-Pasco,096,State Senate,20,UNDER VOTES,STATS,-,-,-,71
-Pasco,098,State Senate,20,UNDER VOTES,STATS,-,-,-,68
-Pasco,099,State Senate,20,UNDER VOTES,STATS,-,-,-,68
-Pasco,101,State Senate,20,UNDER VOTES,STATS,-,-,-,78
-Pasco,104,State Senate,20,UNDER VOTES,STATS,-,-,-,21
-Pasco,107,State Senate,20,UNDER VOTES,STATS,-,-,-,120
-Pasco,109,State Senate,20,UNDER VOTES,STATS,-,-,-,103
+Pasco,090,State Senate,20,UNDER VOTES,STATS,,,,124
+Pasco,095,State Senate,20,UNDER VOTES,STATS,,,,82
+Pasco,096,State Senate,20,UNDER VOTES,STATS,,,,71
+Pasco,098,State Senate,20,UNDER VOTES,STATS,,,,68
+Pasco,099,State Senate,20,UNDER VOTES,STATS,,,,68
+Pasco,101,State Senate,20,UNDER VOTES,STATS,,,,78
+Pasco,104,State Senate,20,UNDER VOTES,STATS,,,,21
+Pasco,107,State Senate,20,UNDER VOTES,STATS,,,,120
+Pasco,109,State Senate,20,UNDER VOTES,STATS,,,,103
 Pasco,013,State House,36,Amber Mariano,REP,644,876,566,2086
 Pasco,015,State House,36,Amber Mariano,REP,1005,1187,950,3142
 Pasco,018,State House,36,Amber Mariano,REP,214,234,196,644
@@ -1791,48 +1791,48 @@ Pasco,050,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,051,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,052,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,053,State House,36,OVER VOTES,STATS,0,0,0,0
-Pasco,054,State House,36,OVER VOTES,STATS,-,-,-,1
-Pasco,057,State House,36,OVER VOTES,STATS,-,-,-,1
+Pasco,054,State House,36,OVER VOTES,STATS,,,,1
+Pasco,057,State House,36,OVER VOTES,STATS,,,,1
 Pasco,058,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,059,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,066,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,067,State House,36,OVER VOTES,STATS,0,0,0,0
-Pasco,068,State House,36,OVER VOTES,STATS,-,-,-,1
+Pasco,068,State House,36,OVER VOTES,STATS,,,,1
 Pasco,072,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,075,State House,36,OVER VOTES,STATS,0,0,0,0
 Pasco,092,State House,36,OVER VOTES,STATS,0,0,0,0
-Pasco,013,State House,36,UNDER VOTES,STATS,-,-,-,78
+Pasco,013,State House,36,UNDER VOTES,STATS,,,,78
 Pasco,015,State House,36,UNDER VOTES,STATS,67,67,53,187
-Pasco,018,State House,36,UNDER VOTES,STATS,-,-,-,34
-Pasco,023,State House,36,UNDER VOTES,STATS,-,-,-,70
+Pasco,018,State House,36,UNDER VOTES,STATS,,,,34
+Pasco,023,State House,36,UNDER VOTES,STATS,,,,70
 Pasco,025,State House,36,UNDER VOTES,STATS,68,69,43,180
-Pasco,026,State House,36,UNDER VOTES,STATS,-,-,-,80
+Pasco,026,State House,36,UNDER VOTES,STATS,,,,80
 Pasco,028,State House,36,UNDER VOTES,STATS,50,44,41,135
-Pasco,029,State House,36,UNDER VOTES,STATS,-,-,-,61
-Pasco,030,State House,36,UNDER VOTES,STATS,-,-,-,87
-Pasco,032,State House,36,UNDER VOTES,STATS,-,-,-,75
-Pasco,033,State House,36,UNDER VOTES,STATS,-,-,-,137
-Pasco,034,State House,36,UNDER VOTES,STATS,-,-,-,76
-Pasco,040,State House,36,UNDER VOTES,STATS,-,-,-,24
+Pasco,029,State House,36,UNDER VOTES,STATS,,,,61
+Pasco,030,State House,36,UNDER VOTES,STATS,,,,87
+Pasco,032,State House,36,UNDER VOTES,STATS,,,,75
+Pasco,033,State House,36,UNDER VOTES,STATS,,,,137
+Pasco,034,State House,36,UNDER VOTES,STATS,,,,76
+Pasco,040,State House,36,UNDER VOTES,STATS,,,,24
 Pasco,042,State House,36,UNDER VOTES,STATS,43,59,32,134
-Pasco,043,State House,36,UNDER VOTES,STATS,-,-,-,28
-Pasco,044,State House,36,UNDER VOTES,STATS,-,-,-,30
-Pasco,046,State House,36,UNDER VOTES,STATS,-,-,-,73
-Pasco,047,State House,36,UNDER VOTES,STATS,-,-,-,38
-Pasco,050,State House,36,UNDER VOTES,STATS,-,-,-,66
-Pasco,051,State House,36,UNDER VOTES,STATS,-,-,-,81
-Pasco,052,State House,36,UNDER VOTES,STATS,-,-,-,111
-Pasco,053,State House,36,UNDER VOTES,STATS,-,-,-,55
-Pasco,054,State House,36,UNDER VOTES,STATS,-,-,-,93
-Pasco,057,State House,36,UNDER VOTES,STATS,-,-,-,55
-Pasco,058,State House,36,UNDER VOTES,STATS,-,-,-,37
+Pasco,043,State House,36,UNDER VOTES,STATS,,,,28
+Pasco,044,State House,36,UNDER VOTES,STATS,,,,30
+Pasco,046,State House,36,UNDER VOTES,STATS,,,,73
+Pasco,047,State House,36,UNDER VOTES,STATS,,,,38
+Pasco,050,State House,36,UNDER VOTES,STATS,,,,66
+Pasco,051,State House,36,UNDER VOTES,STATS,,,,81
+Pasco,052,State House,36,UNDER VOTES,STATS,,,,111
+Pasco,053,State House,36,UNDER VOTES,STATS,,,,55
+Pasco,054,State House,36,UNDER VOTES,STATS,,,,93
+Pasco,057,State House,36,UNDER VOTES,STATS,,,,55
+Pasco,058,State House,36,UNDER VOTES,STATS,,,,37
 Pasco,059,State House,36,UNDER VOTES,STATS,64,43,30,137
-Pasco,066,State House,36,UNDER VOTES,STATS,-,-,-,90
-Pasco,067,State House,36,UNDER VOTES,STATS,-,-,-,84
-Pasco,068,State House,36,UNDER VOTES,STATS,-,-,-,67
-Pasco,072,State House,36,UNDER VOTES,STATS,-,-,-,74
-Pasco,075,State House,36,UNDER VOTES,STATS,-,-,-,84
-Pasco,092,State House,36,UNDER VOTES,STATS,-,-,-,55
+Pasco,066,State House,36,UNDER VOTES,STATS,,,,90
+Pasco,067,State House,36,UNDER VOTES,STATS,,,,84
+Pasco,068,State House,36,UNDER VOTES,STATS,,,,67
+Pasco,072,State House,36,UNDER VOTES,STATS,,,,74
+Pasco,075,State House,36,UNDER VOTES,STATS,,,,84
+Pasco,092,State House,36,UNDER VOTES,STATS,,,,55
 Pasco,008,State House,37,Ardian Zika,REP,789,1489,555,2833
 Pasco,011,State House,37,Ardian Zika,REP,784,1016,479,2279
 Pasco,012,State House,37,Ardian Zika,REP,413,569,494,1476
@@ -1910,26 +1910,26 @@ Pasco,111,State House,37,Tammy Garcia,DEM,757,348,119,1224
 Pasco,008,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,011,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,012,State House,37,OVER VOTES,STATS,0,0,0,0
-Pasco,014,State House,37,OVER VOTES,STATS,-,-,-,1
+Pasco,014,State House,37,OVER VOTES,STATS,,,,1
 Pasco,017,State House,37,OVER VOTES,STATS,0,0,0,0
-Pasco,027,State House,37,OVER VOTES,STATS,-,-,-,2
+Pasco,027,State House,37,OVER VOTES,STATS,,,,2
 Pasco,031,State House,37,OVER VOTES,STATS,0,0,0,0
-Pasco,035,State House,37,OVER VOTES,STATS,-,-,-,1
+Pasco,035,State House,37,OVER VOTES,STATS,,,,1
 Pasco,036,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,041,State House,37,OVER VOTES,STATS,0,0,0,0
-Pasco,045,State House,37,OVER VOTES,STATS,-,-,-,2
+Pasco,045,State House,37,OVER VOTES,STATS,,,,2
 Pasco,049,State House,37,OVER VOTES,STATS,0,0,0,0
-Pasco,061,State House,37,OVER VOTES,STATS,-,-,-,1
-Pasco,065,State House,37,OVER VOTES,STATS,-,-,-,1
+Pasco,061,State House,37,OVER VOTES,STATS,,,,1
+Pasco,065,State House,37,OVER VOTES,STATS,,,,1
 Pasco,070,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,071,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,077,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,078,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,080,State House,37,OVER VOTES,STATS,0,0,0,0
-Pasco,081,State House,37,OVER VOTES,STATS,-,-,-,1
+Pasco,081,State House,37,OVER VOTES,STATS,,,,1
 Pasco,082,State House,37,OVER VOTES,STATS,0,0,0,0
-Pasco,083,State House,37,OVER VOTES,STATS,-,-,-,1
-Pasco,089,State House,37,OVER VOTES,STATS,-,-,-,1
+Pasco,083,State House,37,OVER VOTES,STATS,,,,1
+Pasco,089,State House,37,OVER VOTES,STATS,,,,1
 Pasco,091,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,093,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,094,State House,37,OVER VOTES,STATS,0,0,0,0
@@ -1946,41 +1946,41 @@ Pasco,110,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,111,State House,37,OVER VOTES,STATS,0,0,0,0
 Pasco,008,State House,37,UNDER VOTES,STATS,65,54,30,149
 Pasco,011,State House,37,UNDER VOTES,STATS,59,42,36,137
-Pasco,012,State House,37,UNDER VOTES,STATS,-,-,-,78
+Pasco,012,State House,37,UNDER VOTES,STATS,,,,78
 Pasco,014,State House,37,UNDER VOTES,STATS,70,88,36,194
 Pasco,017,State House,37,UNDER VOTES,STATS,48,60,32,140
 Pasco,027,State House,37,UNDER VOTES,STATS,45,90,67,202
-Pasco,031,State House,37,UNDER VOTES,STATS,-,-,-,82
+Pasco,031,State House,37,UNDER VOTES,STATS,,,,82
 Pasco,035,State House,37,UNDER VOTES,STATS,67,73,49,189
 Pasco,036,State House,37,UNDER VOTES,STATS,91,65,59,215
-Pasco,041,State House,37,UNDER VOTES,STATS,-,-,-,104
+Pasco,041,State House,37,UNDER VOTES,STATS,,,,104
 Pasco,045,State House,37,UNDER VOTES,STATS,52,59,46,157
 Pasco,049,State House,37,UNDER VOTES,STATS,71,41,46,158
-Pasco,061,State House,37,UNDER VOTES,STATS,-,-,-,38
+Pasco,061,State House,37,UNDER VOTES,STATS,,,,38
 Pasco,065,State House,37,UNDER VOTES,STATS,39,36,48,123
-Pasco,070,State House,37,UNDER VOTES,STATS,-,-,-,108
-Pasco,071,State House,37,UNDER VOTES,STATS,-,-,-,47
-Pasco,077,State House,37,UNDER VOTES,STATS,-,-,-,98
-Pasco,078,State House,37,UNDER VOTES,STATS,-,-,-,113
-Pasco,080,State House,37,UNDER VOTES,STATS,-,-,-,23
-Pasco,081,State House,37,UNDER VOTES,STATS,-,-,-,52
-Pasco,082,State House,37,UNDER VOTES,STATS,-,-,-,98
+Pasco,070,State House,37,UNDER VOTES,STATS,,,,108
+Pasco,071,State House,37,UNDER VOTES,STATS,,,,47
+Pasco,077,State House,37,UNDER VOTES,STATS,,,,98
+Pasco,078,State House,37,UNDER VOTES,STATS,,,,113
+Pasco,080,State House,37,UNDER VOTES,STATS,,,,23
+Pasco,081,State House,37,UNDER VOTES,STATS,,,,52
+Pasco,082,State House,37,UNDER VOTES,STATS,,,,98
 Pasco,083,State House,37,UNDER VOTES,STATS,84,49,38,171
-Pasco,089,State House,37,UNDER VOTES,STATS,-,-,-,48
+Pasco,089,State House,37,UNDER VOTES,STATS,,,,48
 Pasco,091,State House,37,UNDER VOTES,STATS,35,41,31,107
-Pasco,093,State House,37,UNDER VOTES,STATS,-,-,-,89
-Pasco,094,State House,37,UNDER VOTES,STATS,-,-,-,74
-Pasco,095,State House,37,UNDER VOTES,STATS,-,-,-,92
+Pasco,093,State House,37,UNDER VOTES,STATS,,,,89
+Pasco,094,State House,37,UNDER VOTES,STATS,,,,74
+Pasco,095,State House,37,UNDER VOTES,STATS,,,,92
 Pasco,097,State House,37,UNDER VOTES,STATS,56,43,37,136
-Pasco,100,State House,37,UNDER VOTES,STATS,-,-,-,72
-Pasco,102,State House,37,UNDER VOTES,STATS,-,-,-,65
-Pasco,103,State House,37,UNDER VOTES,STATS,-,-,-,64
-Pasco,105,State House,37,UNDER VOTES,STATS,-,-,-,87
-Pasco,106,State House,37,UNDER VOTES,STATS,-,-,-,83
-Pasco,108,State House,37,UNDER VOTES,STATS,-,-,-,169
-Pasco,109,State House,37,UNDER VOTES,STATS,-,-,-,113
-Pasco,110,State House,37,UNDER VOTES,STATS,-,-,-,58
-Pasco,111,State House,37,UNDER VOTES,STATS,-,-,-,100
+Pasco,100,State House,37,UNDER VOTES,STATS,,,,72
+Pasco,102,State House,37,UNDER VOTES,STATS,,,,65
+Pasco,103,State House,37,UNDER VOTES,STATS,,,,64
+Pasco,105,State House,37,UNDER VOTES,STATS,,,,87
+Pasco,106,State House,37,UNDER VOTES,STATS,,,,83
+Pasco,108,State House,37,UNDER VOTES,STATS,,,,169
+Pasco,109,State House,37,UNDER VOTES,STATS,,,,113
+Pasco,110,State House,37,UNDER VOTES,STATS,,,,58
+Pasco,111,State House,37,UNDER VOTES,STATS,,,,100
 Pasco,001,State House,38,Randy Maggard,REP,553,619,472,1644
 Pasco,002,State House,38,Randy Maggard,REP,94,165,230,489
 Pasco,003,State House,38,Randy Maggard,REP,497,806,509,1812
@@ -1995,7 +1995,7 @@ Pasco,019,State House,38,Randy Maggard,REP,736,1057,502,2295
 Pasco,020,State House,38,Randy Maggard,REP,96,148,72,316
 Pasco,021,State House,38,Randy Maggard,REP,98,131,222,451
 Pasco,022,State House,38,Randy Maggard,REP,566,736,459,1761
-Pasco,024,State House,38,Randy Maggard,REP,-,-,-,173
+Pasco,024,State House,38,Randy Maggard,REP,,,,173
 Pasco,037,State House,38,Randy Maggard,REP,575,621,306,1502
 Pasco,038,State House,38,Randy Maggard,REP,839,1311,526,2676
 Pasco,039,State House,38,Randy Maggard,REP,152,209,178,539
@@ -2008,7 +2008,7 @@ Pasco,063,State House,38,Randy Maggard,REP,273,305,227,805
 Pasco,064,State House,38,Randy Maggard,REP,339,322,341,1002
 Pasco,069,State House,38,Randy Maggard,REP,811,945,574,2330
 Pasco,073,State House,38,Randy Maggard,REP,659,915,571,2145
-Pasco,074,State House,38,Randy Maggard,REP,-,-,-,60
+Pasco,074,State House,38,Randy Maggard,REP,,,,60
 Pasco,076,State House,38,Randy Maggard,REP,506,439,547,1492
 Pasco,079,State House,38,Randy Maggard,REP,221,331,418,970
 Pasco,084,State House,38,Randy Maggard,REP,315,480,355,1150
@@ -2034,7 +2034,7 @@ Pasco,009,State House,38,Brian Staver,DEM,99,31,47,177
 Pasco,010,State House,38,Brian Staver,DEM,113,65,59,237
 Pasco,016,State House,38,Brian Staver,DEM,62,48,52,162
 Pasco,019,State House,38,Brian Staver,DEM,495,286,106,887
-Pasco,020,State House,38,Brian Staver,DEM,-,-,-,144
+Pasco,020,State House,38,Brian Staver,DEM,,,,144
 Pasco,021,State House,38,Brian Staver,DEM,93,64,95,252
 Pasco,022,State House,38,Brian Staver,DEM,435,270,102,807
 Pasco,024,State House,38,Brian Staver,DEM,45,52,30,127
@@ -2043,14 +2043,14 @@ Pasco,038,State House,38,Brian Staver,DEM,1353,966,300,2619
 Pasco,039,State House,38,Brian Staver,DEM,126,70,48,244
 Pasco,048,State House,38,Brian Staver,DEM,380,331,99,810
 Pasco,055,State House,38,Brian Staver,DEM,844,560,136,1540
-Pasco,056,State House,38,Brian Staver,DEM,-,-,-,180
+Pasco,056,State House,38,Brian Staver,DEM,,,,180
 Pasco,060,State House,38,Brian Staver,DEM,455,295,110,860
 Pasco,062,State House,38,Brian Staver,DEM,789,481,196,1466
 Pasco,063,State House,38,Brian Staver,DEM,232,96,76,404
 Pasco,064,State House,38,Brian Staver,DEM,321,113,99,533
 Pasco,069,State House,38,Brian Staver,DEM,655,277,126,1058
 Pasco,073,State House,38,Brian Staver,DEM,992,601,255,1848
-Pasco,074,State House,38,Brian Staver,DEM,-,-,-,56
+Pasco,074,State House,38,Brian Staver,DEM,,,,56
 Pasco,076,State House,38,Brian Staver,DEM,490,125,154,769
 Pasco,079,State House,38,Brian Staver,DEM,129,57,62,248
 Pasco,084,State House,38,Brian Staver,DEM,332,202,125,659
@@ -2070,18 +2070,18 @@ Pasco,002,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,003,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,004,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,005,State House,38,OVER VOTES,STATS,0,0,0,0
-Pasco,006,State House,38,OVER VOTES,STATS,-,-,-,1
-Pasco,007,State House,38,OVER VOTES,STATS,-,-,-,1
+Pasco,006,State House,38,OVER VOTES,STATS,,,,1
+Pasco,007,State House,38,OVER VOTES,STATS,,,,1
 Pasco,009,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,010,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,016,State House,38,OVER VOTES,STATS,0,0,0,0
-Pasco,019,State House,38,OVER VOTES,STATS,-,-,-,1
+Pasco,019,State House,38,OVER VOTES,STATS,,,,1
 Pasco,020,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,021,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,022,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,024,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,037,State House,38,OVER VOTES,STATS,0,0,0,0
-Pasco,038,State House,38,OVER VOTES,STATS,-,-,-,1
+Pasco,038,State House,38,OVER VOTES,STATS,,,,1
 Pasco,039,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,048,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,055,State House,38,OVER VOTES,STATS,0,0,0,0
@@ -2090,7 +2090,7 @@ Pasco,060,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,062,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,063,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,064,State House,38,OVER VOTES,STATS,0,0,0,0
-Pasco,069,State House,38,OVER VOTES,STATS,-,-,-,2
+Pasco,069,State House,38,OVER VOTES,STATS,,,,2
 Pasco,073,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,074,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,076,State House,38,OVER VOTES,STATS,0,0,0,0
@@ -2107,45 +2107,45 @@ Pasco,099,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,101,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,104,State House,38,OVER VOTES,STATS,0,0,0,0
 Pasco,107,State House,38,OVER VOTES,STATS,0,0,0,0
-Pasco,001,State House,38,UNDER VOTES,STATS,-,-,-,95
-Pasco,002,State House,38,UNDER VOTES,STATS,-,-,-,28
-Pasco,003,State House,38,UNDER VOTES,STATS,-,-,-,76
-Pasco,004,State House,38,UNDER VOTES,STATS,-,-,-,25
-Pasco,005,State House,38,UNDER VOTES,STATS,-,-,-,75
+Pasco,001,State House,38,UNDER VOTES,STATS,,,,95
+Pasco,002,State House,38,UNDER VOTES,STATS,,,,28
+Pasco,003,State House,38,UNDER VOTES,STATS,,,,76
+Pasco,004,State House,38,UNDER VOTES,STATS,,,,25
+Pasco,005,State House,38,UNDER VOTES,STATS,,,,75
 Pasco,006,State House,38,UNDER VOTES,STATS,92,86,51,229
 Pasco,007,State House,38,UNDER VOTES,STATS,63,66,50,179
-Pasco,009,State House,38,UNDER VOTES,STATS,-,-,-,15
-Pasco,010,State House,38,UNDER VOTES,STATS,-,-,-,24
-Pasco,016,State House,38,UNDER VOTES,STATS,-,-,-,26
-Pasco,019,State House,38,UNDER VOTES,STATS,-,-,-,75
-Pasco,020,State House,38,UNDER VOTES,STATS,-,-,-,9
-Pasco,021,State House,38,UNDER VOTES,STATS,-,-,-,29
-Pasco,022,State House,38,UNDER VOTES,STATS,-,-,-,80
-Pasco,024,State House,38,UNDER VOTES,STATS,-,-,-,9
-Pasco,037,State House,38,UNDER VOTES,STATS,-,-,-,76
+Pasco,009,State House,38,UNDER VOTES,STATS,,,,15
+Pasco,010,State House,38,UNDER VOTES,STATS,,,,24
+Pasco,016,State House,38,UNDER VOTES,STATS,,,,26
+Pasco,019,State House,38,UNDER VOTES,STATS,,,,75
+Pasco,020,State House,38,UNDER VOTES,STATS,,,,9
+Pasco,021,State House,38,UNDER VOTES,STATS,,,,29
+Pasco,022,State House,38,UNDER VOTES,STATS,,,,80
+Pasco,024,State House,38,UNDER VOTES,STATS,,,,9
+Pasco,037,State House,38,UNDER VOTES,STATS,,,,76
 Pasco,038,State House,38,UNDER VOTES,STATS,59,53,36,148
-Pasco,039,State House,38,UNDER VOTES,STATS,-,-,-,15
-Pasco,048,State House,38,UNDER VOTES,STATS,-,-,-,62
-Pasco,055,State House,38,UNDER VOTES,STATS,-,-,-,114
-Pasco,056,State House,38,UNDER VOTES,STATS,-,-,-,16
-Pasco,060,State House,38,UNDER VOTES,STATS,-,-,-,57
+Pasco,039,State House,38,UNDER VOTES,STATS,,,,15
+Pasco,048,State House,38,UNDER VOTES,STATS,,,,62
+Pasco,055,State House,38,UNDER VOTES,STATS,,,,114
+Pasco,056,State House,38,UNDER VOTES,STATS,,,,16
+Pasco,060,State House,38,UNDER VOTES,STATS,,,,57
 Pasco,062,State House,38,UNDER VOTES,STATS,51,35,33,119
-Pasco,063,State House,38,UNDER VOTES,STATS,-,-,-,32
-Pasco,064,State House,38,UNDER VOTES,STATS,-,-,-,60
-Pasco,069,State House,38,UNDER VOTES,STATS,-,-,-,116
+Pasco,063,State House,38,UNDER VOTES,STATS,,,,32
+Pasco,064,State House,38,UNDER VOTES,STATS,,,,60
+Pasco,069,State House,38,UNDER VOTES,STATS,,,,116
 Pasco,073,State House,38,UNDER VOTES,STATS,62,35,56,153
-Pasco,074,State House,38,UNDER VOTES,STATS,-,-,-,4
-Pasco,076,State House,38,UNDER VOTES,STATS,-,-,-,67
-Pasco,079,State House,38,UNDER VOTES,STATS,-,-,-,33
-Pasco,084,State House,38,UNDER VOTES,STATS,-,-,-,83
-Pasco,085,State House,38,UNDER VOTES,STATS,-,-,-,96
-Pasco,086,State House,38,UNDER VOTES,STATS,-,-,-,77
+Pasco,074,State House,38,UNDER VOTES,STATS,,,,4
+Pasco,076,State House,38,UNDER VOTES,STATS,,,,67
+Pasco,079,State House,38,UNDER VOTES,STATS,,,,33
+Pasco,084,State House,38,UNDER VOTES,STATS,,,,83
+Pasco,085,State House,38,UNDER VOTES,STATS,,,,96
+Pasco,086,State House,38,UNDER VOTES,STATS,,,,77
 Pasco,087,State House,38,UNDER VOTES,STATS,39,49,34,122
-Pasco,088,State House,38,UNDER VOTES,STATS,-,-,-,21
+Pasco,088,State House,38,UNDER VOTES,STATS,,,,21
 Pasco,090,State House,38,UNDER VOTES,STATS,52,65,37,154
-Pasco,096,State House,38,UNDER VOTES,STATS,-,-,-,80
-Pasco,098,State House,38,UNDER VOTES,STATS,-,-,-,89
-Pasco,099,State House,38,UNDER VOTES,STATS,-,-,-,89
-Pasco,101,State House,38,UNDER VOTES,STATS,-,-,-,96
-Pasco,104,State House,38,UNDER VOTES,STATS,-,-,-,24
+Pasco,096,State House,38,UNDER VOTES,STATS,,,,80
+Pasco,098,State House,38,UNDER VOTES,STATS,,,,89
+Pasco,099,State House,38,UNDER VOTES,STATS,,,,89
+Pasco,101,State House,38,UNDER VOTES,STATS,,,,96
+Pasco,104,State House,38,UNDER VOTES,STATS,,,,24
 Pasco,107,State House,38,UNDER VOTES,STATS,53,68,32,153
