@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,mail,early_voting,election_day,votes
 Marion,0001,President,,Donald J. Trump,REP,135,184,204,523
-Marion,0002,President,,Donald J. Trump,REP,,,,57
+Marion,0002,President,,Donald J. Trump,REP,-,-,-,57
 Marion,0003,President,,Donald J. Trump,REP,329,515,347,1191
 Marion,0004,President,,Donald J. Trump,REP,601,760,528,1889
 Marion,0005,President,,Donald J. Trump,REP,289,442,406,1137
@@ -21,7 +21,7 @@ Marion,0019,President,,Donald J. Trump,REP,104,254,336,694
 Marion,0040,President,,Donald J. Trump,REP,393,833,467,1693
 Marion,0050,President,,Donald J. Trump,REP,185,372,156,713
 Marion,0060,President,,Donald J. Trump,REP,32,61,101,194
-Marion,0070,President,,Donald J. Trump,REP,,,,93
+Marion,0070,President,,Donald J. Trump,REP,-,-,-,93
 Marion,1500,President,,Donald J. Trump,REP,58,42,277,377
 Marion,1510,President,,Donald J. Trump,REP,139,107,399,645
 Marion,1520,President,,Donald J. Trump,REP,218,352,541,1111
@@ -48,8 +48,8 @@ Marion,2590,President,,Donald J. Trump,REP,76,139,137,352
 Marion,2600,President,,Donald J. Trump,REP,616,775,679,2070
 Marion,2610,President,,Donald J. Trump,REP,342,328,130,800
 Marion,2620,President,,Donald J. Trump,REP,65,70,36,171
-Marion,2621,President,,Donald J. Trump,REP,,,,1
-Marion,2630,President,,Donald J. Trump,REP,,,,89
+Marion,2621,President,,Donald J. Trump,REP,-,-,-,1
+Marion,2630,President,,Donald J. Trump,REP,-,-,-,89
 Marion,3510,President,,Donald J. Trump,REP,212,257,544,1013
 Marion,3520,President,,Donald J. Trump,REP,262,552,514,1328
 Marion,3530,President,,Donald J. Trump,REP,727,734,690,2151
@@ -74,7 +74,7 @@ Marion,3690,President,,Donald J. Trump,REP,390,749,616,1755
 Marion,3700,President,,Donald J. Trump,REP,178,438,329,945
 Marion,3710,President,,Donald J. Trump,REP,438,933,510,1881
 Marion,3720,President,,Donald J. Trump,REP,150,348,133,631
-Marion,3721,President,,Donald J. Trump,REP,,,,54
+Marion,3721,President,,Donald J. Trump,REP,-,-,-,54
 Marion,3730,President,,Donald J. Trump,REP,208,702,395,1305
 Marion,3740,President,,Donald J. Trump,REP,285,543,272,1100
 Marion,3750,President,,Donald J. Trump,REP,335,670,401,1406
@@ -90,7 +90,7 @@ Marion,3840,President,,Donald J. Trump,REP,342,606,370,1318
 Marion,4500,President,,Donald J. Trump,REP,302,549,298,1149
 Marion,4510,President,,Donald J. Trump,REP,492,834,274,1600
 Marion,4520,President,,Donald J. Trump,REP,446,869,482,1797
-Marion,4521,President,,Donald J. Trump,REP,,,,100
+Marion,4521,President,,Donald J. Trump,REP,-,-,-,100
 Marion,4530,President,,Donald J. Trump,REP,114,97,310,521
 Marion,4540,President,,Donald J. Trump,REP,105,209,274,588
 Marion,4550,President,,Donald J. Trump,REP,137,265,217,619
@@ -133,7 +133,7 @@ Marion,0009,President,,Joseph R. Biden,DEM,475,388,364,1227
 Marion,0010,President,,Joseph R. Biden,DEM,321,222,210,753
 Marion,0011,President,,Joseph R. Biden,DEM,156,176,131,463
 Marion,0012,President,,Joseph R. Biden,DEM,312,260,153,725
-Marion,0013,President,,Joseph R. Biden,DEM,,,,126
+Marion,0013,President,,Joseph R. Biden,DEM,-,-,-,126
 Marion,0014,President,,Joseph R. Biden,DEM,587,249,130,966
 Marion,0015,President,,Joseph R. Biden,DEM,362,173,85,620
 Marion,0016,President,,Joseph R. Biden,DEM,279,142,106,527
@@ -142,10 +142,10 @@ Marion,0018,President,,Joseph R. Biden,DEM,714,476,215,1405
 Marion,0019,President,,Joseph R. Biden,DEM,248,232,167,647
 Marion,0040,President,,Joseph R. Biden,DEM,388,272,143,803
 Marion,0050,President,,Joseph R. Biden,DEM,206,142,37,385
-Marion,0060,President,,Joseph R. Biden,DEM,,,,111
-Marion,0070,President,,Joseph R. Biden,DEM,,,,146
-Marion,1500,President,,Joseph R. Biden,DEM,,,,76
-Marion,1510,President,,Joseph R. Biden,DEM,,,,180
+Marion,0060,President,,Joseph R. Biden,DEM,-,-,-,111
+Marion,0070,President,,Joseph R. Biden,DEM,-,-,-,146
+Marion,1500,President,,Joseph R. Biden,DEM,-,-,-,76
+Marion,1510,President,,Joseph R. Biden,DEM,-,-,-,180
 Marion,1520,President,,Joseph R. Biden,DEM,141,77,69,287
 Marion,1530,President,,Joseph R. Biden,DEM,188,59,71,318
 Marion,1540,President,,Joseph R. Biden,DEM,167,71,60,298
@@ -169,8 +169,8 @@ Marion,2580,President,,Joseph R. Biden,DEM,410,136,45,591
 Marion,2590,President,,Joseph R. Biden,DEM,141,138,110,389
 Marion,2600,President,,Joseph R. Biden,DEM,580,322,216,1118
 Marion,2610,President,,Joseph R. Biden,DEM,414,109,31,554
-Marion,2620,President,,Joseph R. Biden,DEM,,,,143
-Marion,2621,President,,Joseph R. Biden,DEM,,,,9
+Marion,2620,President,,Joseph R. Biden,DEM,-,-,-,143
+Marion,2621,President,,Joseph R. Biden,DEM,-,-,-,9
 Marion,2630,President,,Joseph R. Biden,DEM,129,112,106,347
 Marion,3510,President,,Joseph R. Biden,DEM,158,59,72,289
 Marion,3520,President,,Joseph R. Biden,DEM,196,106,89,391
@@ -196,14 +196,14 @@ Marion,3690,President,,Joseph R. Biden,DEM,522,448,291,1261
 Marion,3700,President,,Joseph R. Biden,DEM,458,507,253,1218
 Marion,3710,President,,Joseph R. Biden,DEM,522,447,227,1196
 Marion,3720,President,,Joseph R. Biden,DEM,117,66,42,225
-Marion,3721,President,,Joseph R. Biden,DEM,,,,51
+Marion,3721,President,,Joseph R. Biden,DEM,-,-,-,51
 Marion,3730,President,,Joseph R. Biden,DEM,248,186,105,539
 Marion,3740,President,,Joseph R. Biden,DEM,233,153,76,462
 Marion,3750,President,,Joseph R. Biden,DEM,296,164,98,558
 Marion,3760,President,,Joseph R. Biden,DEM,271,134,75,480
 Marion,3770,President,,Joseph R. Biden,DEM,241,124,53,418
 Marion,3780,President,,Joseph R. Biden,DEM,461,239,153,853
-Marion,3790,President,,Joseph R. Biden,DEM,,,,137
+Marion,3790,President,,Joseph R. Biden,DEM,-,-,-,137
 Marion,3800,President,,Joseph R. Biden,DEM,255,194,137,586
 Marion,3810,President,,Joseph R. Biden,DEM,251,176,151,578
 Marion,3820,President,,Joseph R. Biden,DEM,258,82,75,415
@@ -212,7 +212,7 @@ Marion,3840,President,,Joseph R. Biden,DEM,296,172,82,550
 Marion,4500,President,,Joseph R. Biden,DEM,295,218,62,575
 Marion,4510,President,,Joseph R. Biden,DEM,508,257,38,803
 Marion,4520,President,,Joseph R. Biden,DEM,355,250,84,689
-Marion,4521,President,,Joseph R. Biden,DEM,,,,19
+Marion,4521,President,,Joseph R. Biden,DEM,-,-,-,19
 Marion,4530,President,,Joseph R. Biden,DEM,192,31,102,325
 Marion,4540,President,,Joseph R. Biden,DEM,104,50,55,209
 Marion,4550,President,,Joseph R. Biden,DEM,423,299,182,904
@@ -220,21 +220,21 @@ Marion,4560,President,,Joseph R. Biden,DEM,517,451,218,1186
 Marion,4570,President,,Joseph R. Biden,DEM,379,87,117,583
 Marion,4580,President,,Joseph R. Biden,DEM,632,623,265,1520
 Marion,4590,President,,Joseph R. Biden,DEM,653,547,290,1490
-Marion,4600,President,,Joseph R. Biden,DEM,,,,346
+Marion,4600,President,,Joseph R. Biden,DEM,-,-,-,346
 Marion,4610,President,,Joseph R. Biden,DEM,579,188,109,876
 Marion,4620,President,,Joseph R. Biden,DEM,666,140,95,901
 Marion,4630,President,,Joseph R. Biden,DEM,182,62,83,327
 Marion,4640,President,,Joseph R. Biden,DEM,684,480,87,1251
 Marion,4650,President,,Joseph R. Biden,DEM,498,129,43,670
 Marion,4651,President,,Joseph R. Biden,DEM,1422,408,113,1943
-Marion,4652,President,,Joseph R. Biden,DEM,,,,353
-Marion,4653,President,,Joseph R. Biden,DEM,,,,338
+Marion,4652,President,,Joseph R. Biden,DEM,-,-,-,353
+Marion,4653,President,,Joseph R. Biden,DEM,-,-,-,338
 Marion,4654,President,,Joseph R. Biden,DEM,961,232,125,1318
 Marion,4660,President,,Joseph R. Biden,DEM,520,223,66,809
 Marion,4670,President,,Joseph R. Biden,DEM,685,594,101,1380
 Marion,4680,President,,Joseph R. Biden,DEM,275,149,108,532
 Marion,4690,President,,Joseph R. Biden,DEM,371,247,119,737
-Marion,4700,President,,Joseph R. Biden,DEM,,,,134
+Marion,4700,President,,Joseph R. Biden,DEM,-,-,-,134
 Marion,4710,President,,Joseph R. Biden,DEM,375,251,124,750
 Marion,4720,President,,Joseph R. Biden,DEM,161,81,58,300
 Marion,4730,President,,Joseph R. Biden,DEM,186,81,52,319
@@ -242,203 +242,203 @@ Marion,4740,President,,Joseph R. Biden,DEM,140,43,68,251
 Marion,4750,President,,Joseph R. Biden,DEM,368,245,70,683
 Marion,4760,President,,Joseph R. Biden,DEM,178,45,46,269
 Marion,4770,President,,Joseph R. Biden,DEM,185,127,39,351
-Marion,4771,President,,Joseph R. Biden,DEM,,,,116
-Marion,0001,President,,Jo Jorgensen,LPF,,,,11
-Marion,0002,President,,Jo Jorgensen,LPF,,,,2
-Marion,0003,President,,Jo Jorgensen,LPF,,,,22
-Marion,0004,President,,Jo Jorgensen,LPF,,,,23
-Marion,0005,President,,Jo Jorgensen,LPF,,,,13
-Marion,0006,President,,Jo Jorgensen,LPF,,,,26
-Marion,0007,President,,Jo Jorgensen,LPF,,,,19
-Marion,0008,President,,Jo Jorgensen,LPF,,,,10
-Marion,0009,President,,Jo Jorgensen,LPF,,,,4
-Marion,0010,President,,Jo Jorgensen,LPF,,,,2
-Marion,0011,President,,Jo Jorgensen,LPF,,,,2
-Marion,0012,President,,Jo Jorgensen,LPF,,,,16
-Marion,0013,President,,Jo Jorgensen,LPF,,,,1
-Marion,0014,President,,Jo Jorgensen,LPF,,,,19
-Marion,0015,President,,Jo Jorgensen,LPF,,,,16
-Marion,0016,President,,Jo Jorgensen,LPF,,,,16
-Marion,0017,President,,Jo Jorgensen,LPF,,,,16
-Marion,0018,President,,Jo Jorgensen,LPF,,,,21
-Marion,0019,President,,Jo Jorgensen,LPF,,,,8
-Marion,0040,President,,Jo Jorgensen,LPF,,,,16
-Marion,0050,President,,Jo Jorgensen,LPF,,,,13
-Marion,0060,President,,Jo Jorgensen,LPF,,,,2
-Marion,0070,President,,Jo Jorgensen,LPF,,,,3
-Marion,1500,President,,Jo Jorgensen,LPF,,,,3
-Marion,1510,President,,Jo Jorgensen,LPF,,,,5
-Marion,1520,President,,Jo Jorgensen,LPF,,,,9
-Marion,1530,President,,Jo Jorgensen,LPF,,,,9
-Marion,1540,President,,Jo Jorgensen,LPF,,,,10
-Marion,1550,President,,Jo Jorgensen,LPF,,,,12
-Marion,1560,President,,Jo Jorgensen,LPF,,,,10
-Marion,1570,President,,Jo Jorgensen,LPF,,,,6
-Marion,1580,President,,Jo Jorgensen,LPF,,,,10
-Marion,1590,President,,Jo Jorgensen,LPF,,,,9
-Marion,1600,President,,Jo Jorgensen,LPF,,,,13
-Marion,1610,President,,Jo Jorgensen,LPF,,,,21
-Marion,2500,President,,Jo Jorgensen,LPF,,,,7
-Marion,2510,President,,Jo Jorgensen,LPF,,,,6
-Marion,2520,President,,Jo Jorgensen,LPF,,,,8
-Marion,2530,President,,Jo Jorgensen,LPF,,,,9
-Marion,2540,President,,Jo Jorgensen,LPF,,,,8
-Marion,2550,President,,Jo Jorgensen,LPF,,,,14
-Marion,2551,President,,Jo Jorgensen,LPF,,,,1
-Marion,2560,President,,Jo Jorgensen,LPF,,,,1
-Marion,2570,President,,Jo Jorgensen,LPF,,,,19
-Marion,2580,President,,Jo Jorgensen,LPF,,,,1
-Marion,2590,President,,Jo Jorgensen,LPF,,,,3
-Marion,2600,President,,Jo Jorgensen,LPF,,,,13
-Marion,2610,President,,Jo Jorgensen,LPF,,,,7
-Marion,2620,President,,Jo Jorgensen,LPF,,,,3
+Marion,4771,President,,Joseph R. Biden,DEM,-,-,-,116
+Marion,0001,President,,Jo Jorgensen,LPF,-,-,-,11
+Marion,0002,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,0003,President,,Jo Jorgensen,LPF,-,-,-,22
+Marion,0004,President,,Jo Jorgensen,LPF,-,-,-,23
+Marion,0005,President,,Jo Jorgensen,LPF,-,-,-,13
+Marion,0006,President,,Jo Jorgensen,LPF,-,-,-,26
+Marion,0007,President,,Jo Jorgensen,LPF,-,-,-,19
+Marion,0008,President,,Jo Jorgensen,LPF,-,-,-,10
+Marion,0009,President,,Jo Jorgensen,LPF,-,-,-,4
+Marion,0010,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,0011,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,0012,President,,Jo Jorgensen,LPF,-,-,-,16
+Marion,0013,President,,Jo Jorgensen,LPF,-,-,-,1
+Marion,0014,President,,Jo Jorgensen,LPF,-,-,-,19
+Marion,0015,President,,Jo Jorgensen,LPF,-,-,-,16
+Marion,0016,President,,Jo Jorgensen,LPF,-,-,-,16
+Marion,0017,President,,Jo Jorgensen,LPF,-,-,-,16
+Marion,0018,President,,Jo Jorgensen,LPF,-,-,-,21
+Marion,0019,President,,Jo Jorgensen,LPF,-,-,-,8
+Marion,0040,President,,Jo Jorgensen,LPF,-,-,-,16
+Marion,0050,President,,Jo Jorgensen,LPF,-,-,-,13
+Marion,0060,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,0070,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,1500,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,1510,President,,Jo Jorgensen,LPF,-,-,-,5
+Marion,1520,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,1530,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,1540,President,,Jo Jorgensen,LPF,-,-,-,10
+Marion,1550,President,,Jo Jorgensen,LPF,-,-,-,12
+Marion,1560,President,,Jo Jorgensen,LPF,-,-,-,10
+Marion,1570,President,,Jo Jorgensen,LPF,-,-,-,6
+Marion,1580,President,,Jo Jorgensen,LPF,-,-,-,10
+Marion,1590,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,1600,President,,Jo Jorgensen,LPF,-,-,-,13
+Marion,1610,President,,Jo Jorgensen,LPF,-,-,-,21
+Marion,2500,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,2510,President,,Jo Jorgensen,LPF,-,-,-,6
+Marion,2520,President,,Jo Jorgensen,LPF,-,-,-,8
+Marion,2530,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,2540,President,,Jo Jorgensen,LPF,-,-,-,8
+Marion,2550,President,,Jo Jorgensen,LPF,-,-,-,14
+Marion,2551,President,,Jo Jorgensen,LPF,-,-,-,1
+Marion,2560,President,,Jo Jorgensen,LPF,-,-,-,1
+Marion,2570,President,,Jo Jorgensen,LPF,-,-,-,19
+Marion,2580,President,,Jo Jorgensen,LPF,-,-,-,1
+Marion,2590,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,2600,President,,Jo Jorgensen,LPF,-,-,-,13
+Marion,2610,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,2620,President,,Jo Jorgensen,LPF,-,-,-,3
 Marion,2621,President,,Jo Jorgensen,LPF,0,0,0,0
 Marion,2630,President,,Jo Jorgensen,LPF,0,0,0,0
-Marion,3510,President,,Jo Jorgensen,LPF,,,,9
-Marion,3520,President,,Jo Jorgensen,LPF,,,,7
-Marion,3530,President,,Jo Jorgensen,LPF,,,,6
-Marion,3540,President,,Jo Jorgensen,LPF,,,,4
-Marion,3550,President,,Jo Jorgensen,LPF,,,,6
-Marion,3560,President,,Jo Jorgensen,LPF,,,,10
-Marion,3570,President,,Jo Jorgensen,LPF,,,,16
-Marion,3580,President,,Jo Jorgensen,LPF,,,,21
-Marion,3590,President,,Jo Jorgensen,LPF,,,,14
-Marion,3600,President,,Jo Jorgensen,LPF,,,,15
-Marion,3610,President,,Jo Jorgensen,LPF,,,,7
-Marion,3620,President,,Jo Jorgensen,LPF,,,,7
-Marion,3621,President,,Jo Jorgensen,LPF,,,,1
-Marion,3622,President,,Jo Jorgensen,LPF,,,,5
-Marion,3630,President,,Jo Jorgensen,LPF,,,,20
-Marion,3640,President,,Jo Jorgensen,LPF,,,,11
-Marion,3650,President,,Jo Jorgensen,LPF,,,,12
-Marion,3660,President,,Jo Jorgensen,LPF,,,,9
-Marion,3670,President,,Jo Jorgensen,LPF,,,,32
-Marion,3680,President,,Jo Jorgensen,LPF,,,,10
-Marion,3690,President,,Jo Jorgensen,LPF,,,,25
-Marion,3700,President,,Jo Jorgensen,LPF,,,,22
-Marion,3710,President,,Jo Jorgensen,LPF,,,,25
-Marion,3720,President,,Jo Jorgensen,LPF,,,,4
-Marion,3721,President,,Jo Jorgensen,LPF,,,,2
-Marion,3730,President,,Jo Jorgensen,LPF,,,,11
-Marion,3740,President,,Jo Jorgensen,LPF,,,,5
-Marion,3750,President,,Jo Jorgensen,LPF,,,,13
-Marion,3760,President,,Jo Jorgensen,LPF,,,,14
-Marion,3770,President,,Jo Jorgensen,LPF,,,,9
-Marion,3780,President,,Jo Jorgensen,LPF,,,,26
-Marion,3790,President,,Jo Jorgensen,LPF,,,,3
-Marion,3800,President,,Jo Jorgensen,LPF,,,,18
-Marion,3810,President,,Jo Jorgensen,LPF,,,,19
-Marion,3820,President,,Jo Jorgensen,LPF,,,,6
-Marion,3830,President,,Jo Jorgensen,LPF,,,,6
-Marion,3840,President,,Jo Jorgensen,LPF,,,,20
-Marion,4500,President,,Jo Jorgensen,LPF,,,,8
-Marion,4510,President,,Jo Jorgensen,LPF,,,,3
-Marion,4520,President,,Jo Jorgensen,LPF,,,,17
-Marion,4521,President,,Jo Jorgensen,LPF,,,,1
-Marion,4530,President,,Jo Jorgensen,LPF,,,,3
-Marion,4540,President,,Jo Jorgensen,LPF,,,,3
-Marion,4550,President,,Jo Jorgensen,LPF,,,,6
-Marion,4560,President,,Jo Jorgensen,LPF,,,,8
-Marion,4570,President,,Jo Jorgensen,LPF,,,,7
-Marion,4580,President,,Jo Jorgensen,LPF,,,,17
-Marion,4590,President,,Jo Jorgensen,LPF,,,,13
-Marion,4600,President,,Jo Jorgensen,LPF,,,,2
-Marion,4610,President,,Jo Jorgensen,LPF,,,,4
-Marion,4620,President,,Jo Jorgensen,LPF,,,,5
-Marion,4630,President,,Jo Jorgensen,LPF,,,,1
-Marion,4640,President,,Jo Jorgensen,LPF,,,,8
-Marion,4650,President,,Jo Jorgensen,LPF,,,,2
-Marion,4651,President,,Jo Jorgensen,LPF,,,,11
+Marion,3510,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,3520,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,3530,President,,Jo Jorgensen,LPF,-,-,-,6
+Marion,3540,President,,Jo Jorgensen,LPF,-,-,-,4
+Marion,3550,President,,Jo Jorgensen,LPF,-,-,-,6
+Marion,3560,President,,Jo Jorgensen,LPF,-,-,-,10
+Marion,3570,President,,Jo Jorgensen,LPF,-,-,-,16
+Marion,3580,President,,Jo Jorgensen,LPF,-,-,-,21
+Marion,3590,President,,Jo Jorgensen,LPF,-,-,-,14
+Marion,3600,President,,Jo Jorgensen,LPF,-,-,-,15
+Marion,3610,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,3620,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,3621,President,,Jo Jorgensen,LPF,-,-,-,1
+Marion,3622,President,,Jo Jorgensen,LPF,-,-,-,5
+Marion,3630,President,,Jo Jorgensen,LPF,-,-,-,20
+Marion,3640,President,,Jo Jorgensen,LPF,-,-,-,11
+Marion,3650,President,,Jo Jorgensen,LPF,-,-,-,12
+Marion,3660,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,3670,President,,Jo Jorgensen,LPF,-,-,-,32
+Marion,3680,President,,Jo Jorgensen,LPF,-,-,-,10
+Marion,3690,President,,Jo Jorgensen,LPF,-,-,-,25
+Marion,3700,President,,Jo Jorgensen,LPF,-,-,-,22
+Marion,3710,President,,Jo Jorgensen,LPF,-,-,-,25
+Marion,3720,President,,Jo Jorgensen,LPF,-,-,-,4
+Marion,3721,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,3730,President,,Jo Jorgensen,LPF,-,-,-,11
+Marion,3740,President,,Jo Jorgensen,LPF,-,-,-,5
+Marion,3750,President,,Jo Jorgensen,LPF,-,-,-,13
+Marion,3760,President,,Jo Jorgensen,LPF,-,-,-,14
+Marion,3770,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,3780,President,,Jo Jorgensen,LPF,-,-,-,26
+Marion,3790,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,3800,President,,Jo Jorgensen,LPF,-,-,-,18
+Marion,3810,President,,Jo Jorgensen,LPF,-,-,-,19
+Marion,3820,President,,Jo Jorgensen,LPF,-,-,-,6
+Marion,3830,President,,Jo Jorgensen,LPF,-,-,-,6
+Marion,3840,President,,Jo Jorgensen,LPF,-,-,-,20
+Marion,4500,President,,Jo Jorgensen,LPF,-,-,-,8
+Marion,4510,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,4520,President,,Jo Jorgensen,LPF,-,-,-,17
+Marion,4521,President,,Jo Jorgensen,LPF,-,-,-,1
+Marion,4530,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,4540,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,4550,President,,Jo Jorgensen,LPF,-,-,-,6
+Marion,4560,President,,Jo Jorgensen,LPF,-,-,-,8
+Marion,4570,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,4580,President,,Jo Jorgensen,LPF,-,-,-,17
+Marion,4590,President,,Jo Jorgensen,LPF,-,-,-,13
+Marion,4600,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,4610,President,,Jo Jorgensen,LPF,-,-,-,4
+Marion,4620,President,,Jo Jorgensen,LPF,-,-,-,5
+Marion,4630,President,,Jo Jorgensen,LPF,-,-,-,1
+Marion,4640,President,,Jo Jorgensen,LPF,-,-,-,8
+Marion,4650,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,4651,President,,Jo Jorgensen,LPF,-,-,-,11
 Marion,4652,President,,Jo Jorgensen,LPF,0,0,0,0
-Marion,4653,President,,Jo Jorgensen,LPF,,,,2
-Marion,4654,President,,Jo Jorgensen,LPF,,,,11
-Marion,4660,President,,Jo Jorgensen,LPF,,,,13
-Marion,4670,President,,Jo Jorgensen,LPF,,,,11
-Marion,4680,President,,Jo Jorgensen,LPF,,,,9
-Marion,4690,President,,Jo Jorgensen,LPF,,,,9
-Marion,4700,President,,Jo Jorgensen,LPF,,,,5
-Marion,4710,President,,Jo Jorgensen,LPF,,,,20
-Marion,4720,President,,Jo Jorgensen,LPF,,,,5
-Marion,4730,President,,Jo Jorgensen,LPF,,,,7
-Marion,4740,President,,Jo Jorgensen,LPF,,,,2
-Marion,4750,President,,Jo Jorgensen,LPF,,,,7
-Marion,4760,President,,Jo Jorgensen,LPF,,,,3
-Marion,4770,President,,Jo Jorgensen,LPF,,,,9
+Marion,4653,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,4654,President,,Jo Jorgensen,LPF,-,-,-,11
+Marion,4660,President,,Jo Jorgensen,LPF,-,-,-,13
+Marion,4670,President,,Jo Jorgensen,LPF,-,-,-,11
+Marion,4680,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,4690,President,,Jo Jorgensen,LPF,-,-,-,9
+Marion,4700,President,,Jo Jorgensen,LPF,-,-,-,5
+Marion,4710,President,,Jo Jorgensen,LPF,-,-,-,20
+Marion,4720,President,,Jo Jorgensen,LPF,-,-,-,5
+Marion,4730,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,4740,President,,Jo Jorgensen,LPF,-,-,-,2
+Marion,4750,President,,Jo Jorgensen,LPF,-,-,-,7
+Marion,4760,President,,Jo Jorgensen,LPF,-,-,-,3
+Marion,4770,President,,Jo Jorgensen,LPF,-,-,-,9
 Marion,4771,President,,Jo Jorgensen,LPF,0,0,0,0
 Marion,0001,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,0002,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,0003,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,0004,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Marion,0004,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
 Marion,0005,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,0006,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Marion,0007,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,0008,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Marion,0009,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,0006,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Marion,0007,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,0008,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Marion,0009,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,0010,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,0011,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,0012,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,0012,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,0013,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,0014,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,0015,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,0016,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,0017,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,0018,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
-Marion,0019,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,0014,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,0015,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,0016,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,0017,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,0018,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
+Marion,0019,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,0040,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,0050,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,0060,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,0070,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,1500,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,1510,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,1520,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,1520,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,1530,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,1540,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,1550,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Marion,1550,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Marion,1560,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,1570,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,1580,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,1580,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,1590,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,1600,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,1610,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Marion,1610,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Marion,2500,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,2510,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,2520,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,2510,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,2520,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,2530,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,2540,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,2550,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,2551,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,2560,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,2570,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,2580,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
-Marion,2590,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,2600,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Marion,2570,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,2580,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Marion,2590,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,2600,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
 Marion,2610,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,2620,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,2621,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,2630,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3510,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,3520,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Marion,3520,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
 Marion,3530,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,3540,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,3550,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Marion,3540,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,3550,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
 Marion,3560,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,3570,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,3580,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,3570,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,3580,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,3590,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3600,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3610,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3620,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3621,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,3622,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,3630,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,3640,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,3650,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,3622,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,3630,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,3640,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,3650,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,3660,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,3670,President,,"Roque ""Rocky"" De La Fuente",REF,,,,6
+Marion,3670,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,6
 Marion,3680,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,3690,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
-Marion,3700,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,3710,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,3690,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
+Marion,3700,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,3710,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,3720,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3721,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3730,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
@@ -451,530 +451,530 @@ Marion,3790,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3800,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3810,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,3820,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,3830,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,3840,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
-Marion,4500,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,3830,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,3840,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
+Marion,4500,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,4510,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4520,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4521,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4530,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4540,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4550,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Marion,4560,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,4550,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Marion,4560,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,4570,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4580,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Marion,4590,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Marion,4580,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Marion,4590,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Marion,4600,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4610,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4620,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Marion,4620,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Marion,4630,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4640,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,4650,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,4651,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Marion,4640,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,4650,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,4651,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
 Marion,4652,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4653,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4654,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4660,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4670,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4680,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,4680,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,4690,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Marion,4700,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4710,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,4710,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,4720,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4730,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Marion,4740,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Marion,4750,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,4730,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Marion,4740,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Marion,4750,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,4760,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Marion,4770,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Marion,4771,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Marion,4770,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Marion,4771,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Marion,0001,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,0002,President,,Gloria La Riva,PSL,,,,1
-Marion,0003,President,,Gloria La Riva,PSL,,,,2
-Marion,0004,President,,Gloria La Riva,PSL,,,,3
+Marion,0002,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,0003,President,,Gloria La Riva,PSL,-,-,-,2
+Marion,0004,President,,Gloria La Riva,PSL,-,-,-,3
 Marion,0005,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,0006,President,,Gloria La Riva,PSL,,,,2
+Marion,0006,President,,Gloria La Riva,PSL,-,-,-,2
 Marion,0007,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,0008,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,0009,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,0010,President,,Gloria La Riva,PSL,,,,1
-Marion,0011,President,,Gloria La Riva,PSL,,,,1
-Marion,0012,President,,Gloria La Riva,PSL,,,,1
-Marion,0013,President,,Gloria La Riva,PSL,,,,1
-Marion,0014,President,,Gloria La Riva,PSL,,,,2
-Marion,0015,President,,Gloria La Riva,PSL,,,,1
+Marion,0010,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,0011,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,0012,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,0013,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,0014,President,,Gloria La Riva,PSL,-,-,-,2
+Marion,0015,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,0016,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,0017,President,,Gloria La Riva,PSL,,,,1
+Marion,0017,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,0018,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,0019,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,0040,President,,Gloria La Riva,PSL,,,,1
+Marion,0040,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,0050,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,0060,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,0070,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,1500,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,1510,President,,Gloria La Riva,PSL,,,,2
+Marion,1510,President,,Gloria La Riva,PSL,-,-,-,2
 Marion,1520,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,1530,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,1540,President,,Gloria La Riva,PSL,,,,3
+Marion,1540,President,,Gloria La Riva,PSL,-,-,-,3
 Marion,1550,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,1560,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,1570,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,1580,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,1590,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,1600,President,,Gloria La Riva,PSL,,,,3
-Marion,1610,President,,Gloria La Riva,PSL,,,,4
+Marion,1600,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,1610,President,,Gloria La Riva,PSL,-,-,-,4
 Marion,2500,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2510,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,2520,President,,Gloria La Riva,PSL,,,,2
+Marion,2520,President,,Gloria La Riva,PSL,-,-,-,2
 Marion,2530,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2540,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2550,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2551,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2560,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,2570,President,,Gloria La Riva,PSL,,,,1
+Marion,2570,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,2580,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,2590,President,,Gloria La Riva,PSL,,,,1
-Marion,2600,President,,Gloria La Riva,PSL,,,,3
+Marion,2590,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,2600,President,,Gloria La Riva,PSL,-,-,-,3
 Marion,2610,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2620,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2621,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,2630,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,3510,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3520,President,,Gloria La Riva,PSL,,,,1
+Marion,3520,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3530,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,3540,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3550,President,,Gloria La Riva,PSL,,,,1
-Marion,3560,President,,Gloria La Riva,PSL,,,,1
-Marion,3570,President,,Gloria La Riva,PSL,,,,3
-Marion,3580,President,,Gloria La Riva,PSL,,,,1
+Marion,3550,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3560,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3570,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,3580,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3590,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3600,President,,Gloria La Riva,PSL,,,,1
+Marion,3600,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3610,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,3620,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3621,President,,Gloria La Riva,PSL,,,,1
-Marion,3622,President,,Gloria La Riva,PSL,,,,1
-Marion,3630,President,,Gloria La Riva,PSL,,,,2
-Marion,3640,President,,Gloria La Riva,PSL,,,,1
+Marion,3621,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3622,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3630,President,,Gloria La Riva,PSL,-,-,-,2
+Marion,3640,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3650,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3660,President,,Gloria La Riva,PSL,,,,1
-Marion,3670,President,,Gloria La Riva,PSL,,,,3
-Marion,3680,President,,Gloria La Riva,PSL,,,,1
-Marion,3690,President,,Gloria La Riva,PSL,,,,1
-Marion,3700,President,,Gloria La Riva,PSL,,,,3
-Marion,3710,President,,Gloria La Riva,PSL,,,,2
-Marion,3720,President,,Gloria La Riva,PSL,,,,1
+Marion,3660,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3670,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,3680,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3690,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3700,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,3710,President,,Gloria La Riva,PSL,-,-,-,2
+Marion,3720,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3721,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3730,President,,Gloria La Riva,PSL,,,,1
-Marion,3740,President,,Gloria La Riva,PSL,,,,1
+Marion,3730,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3740,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3750,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3760,President,,Gloria La Riva,PSL,,,,1
-Marion,3770,President,,Gloria La Riva,PSL,,,,1
-Marion,3780,President,,Gloria La Riva,PSL,,,,1
+Marion,3760,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3770,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,3780,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3790,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,3800,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,3810,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,3820,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,3830,President,,Gloria La Riva,PSL,,,,1
+Marion,3830,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,3840,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,4500,President,,Gloria La Riva,PSL,,,,1
-Marion,4510,President,,Gloria La Riva,PSL,,,,1
-Marion,4520,President,,Gloria La Riva,PSL,,,,1
+Marion,4500,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,4510,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,4520,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,4521,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4530,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4540,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,4550,President,,Gloria La Riva,PSL,,,,3
-Marion,4560,President,,Gloria La Riva,PSL,,,,1
-Marion,4570,President,,Gloria La Riva,PSL,,,,1
-Marion,4580,President,,Gloria La Riva,PSL,,,,3
-Marion,4590,President,,Gloria La Riva,PSL,,,,3
-Marion,4600,President,,Gloria La Riva,PSL,,,,1
+Marion,4550,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,4560,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,4570,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,4580,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,4590,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,4600,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,4610,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4620,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4630,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,4640,President,,Gloria La Riva,PSL,,,,3
+Marion,4640,President,,Gloria La Riva,PSL,-,-,-,3
 Marion,4650,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4651,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4652,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4653,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,4654,President,,Gloria La Riva,PSL,,,,2
-Marion,4660,President,,Gloria La Riva,PSL,,,,3
-Marion,4670,President,,Gloria La Riva,PSL,,,,2
-Marion,4680,President,,Gloria La Riva,PSL,,,,1
-Marion,4690,President,,Gloria La Riva,PSL,,,,1
+Marion,4654,President,,Gloria La Riva,PSL,-,-,-,2
+Marion,4660,President,,Gloria La Riva,PSL,-,-,-,3
+Marion,4670,President,,Gloria La Riva,PSL,-,-,-,2
+Marion,4680,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,4690,President,,Gloria La Riva,PSL,-,-,-,1
 Marion,4700,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4710,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,4720,President,,Gloria La Riva,PSL,,,,1
-Marion,4730,President,,Gloria La Riva,PSL,,,,2
+Marion,4720,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,4730,President,,Gloria La Riva,PSL,-,-,-,2
 Marion,4740,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4750,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4760,President,,Gloria La Riva,PSL,0,0,0,0
 Marion,4770,President,,Gloria La Riva,PSL,0,0,0,0
-Marion,4771,President,,Gloria La Riva,PSL,,,,1
-Marion,0001,President,,Howie Hawkins,GRE,,,,1
+Marion,4771,President,,Gloria La Riva,PSL,-,-,-,1
+Marion,0001,President,,Howie Hawkins,GRE,-,-,-,1
 Marion,0002,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,0003,President,,Howie Hawkins,GRE,,,,5
-Marion,0004,President,,Howie Hawkins,GRE,,,,5
+Marion,0003,President,,Howie Hawkins,GRE,-,-,-,5
+Marion,0004,President,,Howie Hawkins,GRE,-,-,-,5
 Marion,0005,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,0006,President,,Howie Hawkins,GRE,,,,5
-Marion,0007,President,,Howie Hawkins,GRE,,,,4
-Marion,0008,President,,Howie Hawkins,GRE,,,,1
-Marion,0009,President,,Howie Hawkins,GRE,,,,1
-Marion,0010,President,,Howie Hawkins,GRE,,,,2
-Marion,0011,President,,Howie Hawkins,GRE,,,,3
-Marion,0012,President,,Howie Hawkins,GRE,,,,3
+Marion,0006,President,,Howie Hawkins,GRE,-,-,-,5
+Marion,0007,President,,Howie Hawkins,GRE,-,-,-,4
+Marion,0008,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,0009,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,0010,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,0011,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,0012,President,,Howie Hawkins,GRE,-,-,-,3
 Marion,0013,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,0014,President,,Howie Hawkins,GRE,,,,3
-Marion,0015,President,,Howie Hawkins,GRE,,,,1
-Marion,0016,President,,Howie Hawkins,GRE,,,,2
-Marion,0017,President,,Howie Hawkins,GRE,,,,5
-Marion,0018,President,,Howie Hawkins,GRE,,,,3
+Marion,0014,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,0015,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,0016,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,0017,President,,Howie Hawkins,GRE,-,-,-,5
+Marion,0018,President,,Howie Hawkins,GRE,-,-,-,3
 Marion,0019,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,0040,President,,Howie Hawkins,GRE,,,,2
-Marion,0050,President,,Howie Hawkins,GRE,,,,2
+Marion,0040,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,0050,President,,Howie Hawkins,GRE,-,-,-,2
 Marion,0060,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,0070,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,1500,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,1510,President,,Howie Hawkins,GRE,,,,2
-Marion,1520,President,,Howie Hawkins,GRE,,,,1
+Marion,1510,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,1520,President,,Howie Hawkins,GRE,-,-,-,1
 Marion,1530,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,1540,President,,Howie Hawkins,GRE,,,,2
-Marion,1550,President,,Howie Hawkins,GRE,,,,1
-Marion,1560,President,,Howie Hawkins,GRE,,,,2
-Marion,1570,President,,Howie Hawkins,GRE,,,,6
-Marion,1580,President,,Howie Hawkins,GRE,,,,2
-Marion,1590,President,,Howie Hawkins,GRE,,,,3
-Marion,1600,President,,Howie Hawkins,GRE,,,,4
-Marion,1610,President,,Howie Hawkins,GRE,,,,3
-Marion,2500,President,,Howie Hawkins,GRE,,,,1
-Marion,2510,President,,Howie Hawkins,GRE,,,,1
-Marion,2520,President,,Howie Hawkins,GRE,,,,3
-Marion,2530,President,,Howie Hawkins,GRE,,,,1
-Marion,2540,President,,Howie Hawkins,GRE,,,,1
-Marion,2550,President,,Howie Hawkins,GRE,,,,1
+Marion,1540,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,1550,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,1560,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,1570,President,,Howie Hawkins,GRE,-,-,-,6
+Marion,1580,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,1590,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,1600,President,,Howie Hawkins,GRE,-,-,-,4
+Marion,1610,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,2500,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,2510,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,2520,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,2530,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,2540,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,2550,President,,Howie Hawkins,GRE,-,-,-,1
 Marion,2551,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,2560,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,2570,President,,Howie Hawkins,GRE,,,,2
-Marion,2580,President,,Howie Hawkins,GRE,,,,3
-Marion,2590,President,,Howie Hawkins,GRE,,,,1
-Marion,2600,President,,Howie Hawkins,GRE,,,,6
-Marion,2610,President,,Howie Hawkins,GRE,,,,3
+Marion,2570,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,2580,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,2590,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,2600,President,,Howie Hawkins,GRE,-,-,-,6
+Marion,2610,President,,Howie Hawkins,GRE,-,-,-,3
 Marion,2620,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,2621,President,,Howie Hawkins,GRE,,,,1
-Marion,2630,President,,Howie Hawkins,GRE,,,,2
-Marion,3510,President,,Howie Hawkins,GRE,,,,4
-Marion,3520,President,,Howie Hawkins,GRE,,,,2
+Marion,2621,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,2630,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3510,President,,Howie Hawkins,GRE,-,-,-,4
+Marion,3520,President,,Howie Hawkins,GRE,-,-,-,2
 Marion,3530,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,3540,President,,Howie Hawkins,GRE,,,,2
-Marion,3550,President,,Howie Hawkins,GRE,,,,3
-Marion,3560,President,,Howie Hawkins,GRE,,,,2
+Marion,3540,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3550,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,3560,President,,Howie Hawkins,GRE,-,-,-,2
 Marion,3570,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,3580,President,,Howie Hawkins,GRE,,,,5
-Marion,3590,President,,Howie Hawkins,GRE,,,,2
+Marion,3580,President,,Howie Hawkins,GRE,-,-,-,5
+Marion,3590,President,,Howie Hawkins,GRE,-,-,-,2
 Marion,3600,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,3610,President,,Howie Hawkins,GRE,,,,1
+Marion,3610,President,,Howie Hawkins,GRE,-,-,-,1
 Marion,3620,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,3621,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,3622,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,3630,President,,Howie Hawkins,GRE,,,,1
-Marion,3640,President,,Howie Hawkins,GRE,,,,1
-Marion,3650,President,,Howie Hawkins,GRE,,,,2
-Marion,3660,President,,Howie Hawkins,GRE,,,,2
-Marion,3670,President,,Howie Hawkins,GRE,,,,5
+Marion,3630,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,3640,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,3650,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3660,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3670,President,,Howie Hawkins,GRE,-,-,-,5
 Marion,3680,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,3690,President,,Howie Hawkins,GRE,,,,2
-Marion,3700,President,,Howie Hawkins,GRE,,,,2
-Marion,3710,President,,Howie Hawkins,GRE,,,,3
-Marion,3720,President,,Howie Hawkins,GRE,,,,3
+Marion,3690,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3700,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3710,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,3720,President,,Howie Hawkins,GRE,-,-,-,3
 Marion,3721,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,3730,President,,Howie Hawkins,GRE,,,,3
-Marion,3740,President,,Howie Hawkins,GRE,,,,5
-Marion,3750,President,,Howie Hawkins,GRE,,,,2
-Marion,3760,President,,Howie Hawkins,GRE,,,,2
-Marion,3770,President,,Howie Hawkins,GRE,,,,3
-Marion,3780,President,,Howie Hawkins,GRE,,,,2
-Marion,3790,President,,Howie Hawkins,GRE,,,,1
-Marion,3800,President,,Howie Hawkins,GRE,,,,1
-Marion,3810,President,,Howie Hawkins,GRE,,,,1
-Marion,3820,President,,Howie Hawkins,GRE,,,,1
-Marion,3830,President,,Howie Hawkins,GRE,,,,1
-Marion,3840,President,,Howie Hawkins,GRE,,,,3
-Marion,4500,President,,Howie Hawkins,GRE,,,,1
-Marion,4510,President,,Howie Hawkins,GRE,,,,1
-Marion,4520,President,,Howie Hawkins,GRE,,,,1
+Marion,3730,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,3740,President,,Howie Hawkins,GRE,-,-,-,5
+Marion,3750,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3760,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3770,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,3780,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,3790,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,3800,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,3810,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,3820,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,3830,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,3840,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,4500,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,4510,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,4520,President,,Howie Hawkins,GRE,-,-,-,1
 Marion,4521,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,4530,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,4540,President,,Howie Hawkins,GRE,,,,3
-Marion,4550,President,,Howie Hawkins,GRE,,,,3
-Marion,4560,President,,Howie Hawkins,GRE,,,,4
+Marion,4540,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,4550,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,4560,President,,Howie Hawkins,GRE,-,-,-,4
 Marion,4570,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,4580,President,,Howie Hawkins,GRE,,,,3
-Marion,4590,President,,Howie Hawkins,GRE,,,,7
+Marion,4580,President,,Howie Hawkins,GRE,-,-,-,3
+Marion,4590,President,,Howie Hawkins,GRE,-,-,-,7
 Marion,4600,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,4610,President,,Howie Hawkins,GRE,,,,3
+Marion,4610,President,,Howie Hawkins,GRE,-,-,-,3
 Marion,4620,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,4630,President,,Howie Hawkins,GRE,,,,2
-Marion,4640,President,,Howie Hawkins,GRE,,,,5
-Marion,4650,President,,Howie Hawkins,GRE,,,,1
-Marion,4651,President,,Howie Hawkins,GRE,,,,4
+Marion,4630,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,4640,President,,Howie Hawkins,GRE,-,-,-,5
+Marion,4650,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,4651,President,,Howie Hawkins,GRE,-,-,-,4
 Marion,4652,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,4653,President,,Howie Hawkins,GRE,,,,1
-Marion,4654,President,,Howie Hawkins,GRE,,,,2
-Marion,4660,President,,Howie Hawkins,GRE,,,,1
+Marion,4653,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,4654,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,4660,President,,Howie Hawkins,GRE,-,-,-,1
 Marion,4670,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,4680,President,,Howie Hawkins,GRE,,,,1
-Marion,4690,President,,Howie Hawkins,GRE,,,,4
-Marion,4700,President,,Howie Hawkins,GRE,,,,2
-Marion,4710,President,,Howie Hawkins,GRE,,,,5
-Marion,4720,President,,Howie Hawkins,GRE,,,,2
+Marion,4680,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,4690,President,,Howie Hawkins,GRE,-,-,-,4
+Marion,4700,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,4710,President,,Howie Hawkins,GRE,-,-,-,5
+Marion,4720,President,,Howie Hawkins,GRE,-,-,-,2
 Marion,4730,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,4740,President,,Howie Hawkins,GRE,0,0,0,0
-Marion,4750,President,,Howie Hawkins,GRE,,,,2
-Marion,4760,President,,Howie Hawkins,GRE,,,,1
-Marion,4770,President,,Howie Hawkins,GRE,,,,2
+Marion,4750,President,,Howie Hawkins,GRE,-,-,-,2
+Marion,4760,President,,Howie Hawkins,GRE,-,-,-,1
+Marion,4770,President,,Howie Hawkins,GRE,-,-,-,2
 Marion,4771,President,,Howie Hawkins,GRE,0,0,0,0
 Marion,0001,President,,Don Blankenship,CPF,0,0,0,0
 Marion,0002,President,,Don Blankenship,CPF,0,0,0,0
-Marion,0003,President,,Don Blankenship,CPF,,,,1
-Marion,0004,President,,Don Blankenship,CPF,,,,1
+Marion,0003,President,,Don Blankenship,CPF,-,-,-,1
+Marion,0004,President,,Don Blankenship,CPF,-,-,-,1
 Marion,0005,President,,Don Blankenship,CPF,0,0,0,0
 Marion,0006,President,,Don Blankenship,CPF,0,0,0,0
-Marion,0007,President,,Don Blankenship,CPF,,,,1
+Marion,0007,President,,Don Blankenship,CPF,-,-,-,1
 Marion,0008,President,,Don Blankenship,CPF,0,0,0,0
-Marion,0009,President,,Don Blankenship,CPF,,,,1
+Marion,0009,President,,Don Blankenship,CPF,-,-,-,1
 Marion,0010,President,,Don Blankenship,CPF,0,0,0,0
 Marion,0011,President,,Don Blankenship,CPF,0,0,0,0
-Marion,0012,President,,Don Blankenship,CPF,,,,2
+Marion,0012,President,,Don Blankenship,CPF,-,-,-,2
 Marion,0013,President,,Don Blankenship,CPF,0,0,0,0
-Marion,0014,President,,Don Blankenship,CPF,,,,1
-Marion,0015,President,,Don Blankenship,CPF,,,,2
-Marion,0016,President,,Don Blankenship,CPF,,,,1
+Marion,0014,President,,Don Blankenship,CPF,-,-,-,1
+Marion,0015,President,,Don Blankenship,CPF,-,-,-,2
+Marion,0016,President,,Don Blankenship,CPF,-,-,-,1
 Marion,0017,President,,Don Blankenship,CPF,0,0,0,0
 Marion,0018,President,,Don Blankenship,CPF,0,0,0,0
 Marion,0019,President,,Don Blankenship,CPF,0,0,0,0
 Marion,0040,President,,Don Blankenship,CPF,0,0,0,0
-Marion,0050,President,,Don Blankenship,CPF,,,,1
+Marion,0050,President,,Don Blankenship,CPF,-,-,-,1
 Marion,0060,President,,Don Blankenship,CPF,0,0,0,0
 Marion,0070,President,,Don Blankenship,CPF,0,0,0,0
-Marion,1500,President,,Don Blankenship,CPF,,,,1
+Marion,1500,President,,Don Blankenship,CPF,-,-,-,1
 Marion,1510,President,,Don Blankenship,CPF,0,0,0,0
 Marion,1520,President,,Don Blankenship,CPF,0,0,0,0
 Marion,1530,President,,Don Blankenship,CPF,0,0,0,0
 Marion,1540,President,,Don Blankenship,CPF,0,0,0,0
-Marion,1550,President,,Don Blankenship,CPF,,,,1
+Marion,1550,President,,Don Blankenship,CPF,-,-,-,1
 Marion,1560,President,,Don Blankenship,CPF,0,0,0,0
 Marion,1570,President,,Don Blankenship,CPF,0,0,0,0
 Marion,1580,President,,Don Blankenship,CPF,0,0,0,0
 Marion,1590,President,,Don Blankenship,CPF,0,0,0,0
-Marion,1600,President,,Don Blankenship,CPF,,,,3
-Marion,1610,President,,Don Blankenship,CPF,,,,1
-Marion,2500,President,,Don Blankenship,CPF,,,,2
+Marion,1600,President,,Don Blankenship,CPF,-,-,-,3
+Marion,1610,President,,Don Blankenship,CPF,-,-,-,1
+Marion,2500,President,,Don Blankenship,CPF,-,-,-,2
 Marion,2510,President,,Don Blankenship,CPF,0,0,0,0
-Marion,2520,President,,Don Blankenship,CPF,,,,1
-Marion,2530,President,,Don Blankenship,CPF,,,,1
+Marion,2520,President,,Don Blankenship,CPF,-,-,-,1
+Marion,2530,President,,Don Blankenship,CPF,-,-,-,1
 Marion,2540,President,,Don Blankenship,CPF,0,0,0,0
-Marion,2550,President,,Don Blankenship,CPF,,,,1
+Marion,2550,President,,Don Blankenship,CPF,-,-,-,1
 Marion,2551,President,,Don Blankenship,CPF,0,0,0,0
 Marion,2560,President,,Don Blankenship,CPF,0,0,0,0
-Marion,2570,President,,Don Blankenship,CPF,,,,1
+Marion,2570,President,,Don Blankenship,CPF,-,-,-,1
 Marion,2580,President,,Don Blankenship,CPF,0,0,0,0
 Marion,2590,President,,Don Blankenship,CPF,0,0,0,0
-Marion,2600,President,,Don Blankenship,CPF,,,,1
+Marion,2600,President,,Don Blankenship,CPF,-,-,-,1
 Marion,2610,President,,Don Blankenship,CPF,0,0,0,0
 Marion,2620,President,,Don Blankenship,CPF,0,0,0,0
 Marion,2621,President,,Don Blankenship,CPF,0,0,0,0
-Marion,2630,President,,Don Blankenship,CPF,,,,1
-Marion,3510,President,,Don Blankenship,CPF,,,,1
+Marion,2630,President,,Don Blankenship,CPF,-,-,-,1
+Marion,3510,President,,Don Blankenship,CPF,-,-,-,1
 Marion,3520,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3530,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3540,President,,Don Blankenship,CPF,,,,2
-Marion,3550,President,,Don Blankenship,CPF,,,,1
+Marion,3540,President,,Don Blankenship,CPF,-,-,-,2
+Marion,3550,President,,Don Blankenship,CPF,-,-,-,1
 Marion,3560,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3570,President,,Don Blankenship,CPF,,,,1
-Marion,3580,President,,Don Blankenship,CPF,,,,3
+Marion,3570,President,,Don Blankenship,CPF,-,-,-,1
+Marion,3580,President,,Don Blankenship,CPF,-,-,-,3
 Marion,3590,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3600,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3610,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3620,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3621,President,,Don Blankenship,CPF,,,,1
+Marion,3621,President,,Don Blankenship,CPF,-,-,-,1
 Marion,3622,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3630,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3640,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3650,President,,Don Blankenship,CPF,,,,1
+Marion,3650,President,,Don Blankenship,CPF,-,-,-,1
 Marion,3660,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3670,President,,Don Blankenship,CPF,,,,3
-Marion,3680,President,,Don Blankenship,CPF,,,,2
-Marion,3690,President,,Don Blankenship,CPF,,,,2
-Marion,3700,President,,Don Blankenship,CPF,,,,2
-Marion,3710,President,,Don Blankenship,CPF,,,,1
+Marion,3670,President,,Don Blankenship,CPF,-,-,-,3
+Marion,3680,President,,Don Blankenship,CPF,-,-,-,2
+Marion,3690,President,,Don Blankenship,CPF,-,-,-,2
+Marion,3700,President,,Don Blankenship,CPF,-,-,-,2
+Marion,3710,President,,Don Blankenship,CPF,-,-,-,1
 Marion,3720,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3721,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3730,President,,Don Blankenship,CPF,,,,1
-Marion,3740,President,,Don Blankenship,CPF,,,,2
-Marion,3750,President,,Don Blankenship,CPF,,,,2
+Marion,3730,President,,Don Blankenship,CPF,-,-,-,1
+Marion,3740,President,,Don Blankenship,CPF,-,-,-,2
+Marion,3750,President,,Don Blankenship,CPF,-,-,-,2
 Marion,3760,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3770,President,,Don Blankenship,CPF,,,,3
-Marion,3780,President,,Don Blankenship,CPF,,,,1
+Marion,3770,President,,Don Blankenship,CPF,-,-,-,3
+Marion,3780,President,,Don Blankenship,CPF,-,-,-,1
 Marion,3790,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3800,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3810,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3820,President,,Don Blankenship,CPF,0,0,0,0
 Marion,3830,President,,Don Blankenship,CPF,0,0,0,0
-Marion,3840,President,,Don Blankenship,CPF,,,,2
+Marion,3840,President,,Don Blankenship,CPF,-,-,-,2
 Marion,4500,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4510,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4520,President,,Don Blankenship,CPF,,,,2
+Marion,4520,President,,Don Blankenship,CPF,-,-,-,2
 Marion,4521,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4530,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4540,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4550,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4560,President,,Don Blankenship,CPF,,,,3
-Marion,4570,President,,Don Blankenship,CPF,,,,1
+Marion,4560,President,,Don Blankenship,CPF,-,-,-,3
+Marion,4570,President,,Don Blankenship,CPF,-,-,-,1
 Marion,4580,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4590,President,,Don Blankenship,CPF,,,,1
+Marion,4590,President,,Don Blankenship,CPF,-,-,-,1
 Marion,4600,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4610,President,,Don Blankenship,CPF,,,,3
+Marion,4610,President,,Don Blankenship,CPF,-,-,-,3
 Marion,4620,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4630,President,,Don Blankenship,CPF,,,,2
+Marion,4630,President,,Don Blankenship,CPF,-,-,-,2
 Marion,4640,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4650,President,,Don Blankenship,CPF,,,,1
+Marion,4650,President,,Don Blankenship,CPF,-,-,-,1
 Marion,4651,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4652,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4653,President,,Don Blankenship,CPF,,,,1
+Marion,4653,President,,Don Blankenship,CPF,-,-,-,1
 Marion,4654,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4660,President,,Don Blankenship,CPF,,,,2
-Marion,4670,President,,Don Blankenship,CPF,,,,1
-Marion,4680,President,,Don Blankenship,CPF,,,,1
+Marion,4660,President,,Don Blankenship,CPF,-,-,-,2
+Marion,4670,President,,Don Blankenship,CPF,-,-,-,1
+Marion,4680,President,,Don Blankenship,CPF,-,-,-,1
 Marion,4690,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4700,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4710,President,,Don Blankenship,CPF,,,,2
-Marion,4720,President,,Don Blankenship,CPF,,,,1
+Marion,4710,President,,Don Blankenship,CPF,-,-,-,2
+Marion,4720,President,,Don Blankenship,CPF,-,-,-,1
 Marion,4730,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4740,President,,Don Blankenship,CPF,0,0,0,0
-Marion,4750,President,,Don Blankenship,CPF,,,,3
+Marion,4750,President,,Don Blankenship,CPF,-,-,-,3
 Marion,4760,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4770,President,,Don Blankenship,CPF,0,0,0,0
 Marion,4771,President,,Don Blankenship,CPF,0,0,0,0
-Marion,0001,President,,WRITE-IN,NON,,,,1
+Marion,0001,President,,WRITE-IN,NON,-,-,-,1
 Marion,0002,President,,WRITE-IN,NON,0,0,0,0
-Marion,0003,President,,WRITE-IN,NON,,,,6
-Marion,0004,President,,WRITE-IN,NON,,,,8
-Marion,0005,President,,WRITE-IN,NON,,,,4
-Marion,0006,President,,WRITE-IN,NON,,,,4
-Marion,0007,President,,WRITE-IN,NON,,,,7
-Marion,0008,President,,WRITE-IN,NON,,,,3
-Marion,0009,President,,WRITE-IN,NON,,,,3
-Marion,0010,President,,WRITE-IN,NON,,,,1
-Marion,0011,President,,WRITE-IN,NON,,,,1
-Marion,0012,President,,WRITE-IN,NON,,,,3
+Marion,0003,President,,WRITE-IN,NON,-,-,-,6
+Marion,0004,President,,WRITE-IN,NON,-,-,-,8
+Marion,0005,President,,WRITE-IN,NON,-,-,-,4
+Marion,0006,President,,WRITE-IN,NON,-,-,-,4
+Marion,0007,President,,WRITE-IN,NON,-,-,-,7
+Marion,0008,President,,WRITE-IN,NON,-,-,-,3
+Marion,0009,President,,WRITE-IN,NON,-,-,-,3
+Marion,0010,President,,WRITE-IN,NON,-,-,-,1
+Marion,0011,President,,WRITE-IN,NON,-,-,-,1
+Marion,0012,President,,WRITE-IN,NON,-,-,-,3
 Marion,0013,President,,WRITE-IN,NON,0,0,0,0
-Marion,0014,President,,WRITE-IN,NON,,,,6
-Marion,0015,President,,WRITE-IN,NON,,,,3
-Marion,0016,President,,WRITE-IN,NON,,,,2
-Marion,0017,President,,WRITE-IN,NON,,,,3
-Marion,0018,President,,WRITE-IN,NON,,,,8
-Marion,0019,President,,WRITE-IN,NON,,,,2
-Marion,0040,President,,WRITE-IN,NON,,,,5
-Marion,0050,President,,WRITE-IN,NON,,,,3
+Marion,0014,President,,WRITE-IN,NON,-,-,-,6
+Marion,0015,President,,WRITE-IN,NON,-,-,-,3
+Marion,0016,President,,WRITE-IN,NON,-,-,-,2
+Marion,0017,President,,WRITE-IN,NON,-,-,-,3
+Marion,0018,President,,WRITE-IN,NON,-,-,-,8
+Marion,0019,President,,WRITE-IN,NON,-,-,-,2
+Marion,0040,President,,WRITE-IN,NON,-,-,-,5
+Marion,0050,President,,WRITE-IN,NON,-,-,-,3
 Marion,0060,President,,WRITE-IN,NON,0,0,0,0
 Marion,0070,President,,WRITE-IN,NON,0,0,0,0
 Marion,1500,President,,WRITE-IN,NON,0,0,0,0
-Marion,1510,President,,WRITE-IN,NON,,,,1
-Marion,1520,President,,WRITE-IN,NON,,,,3
-Marion,1530,President,,WRITE-IN,NON,,,,3
-Marion,1540,President,,WRITE-IN,NON,,,,7
-Marion,1550,President,,WRITE-IN,NON,,,,4
+Marion,1510,President,,WRITE-IN,NON,-,-,-,1
+Marion,1520,President,,WRITE-IN,NON,-,-,-,3
+Marion,1530,President,,WRITE-IN,NON,-,-,-,3
+Marion,1540,President,,WRITE-IN,NON,-,-,-,7
+Marion,1550,President,,WRITE-IN,NON,-,-,-,4
 Marion,1560,President,,WRITE-IN,NON,0,0,0,0
-Marion,1570,President,,WRITE-IN,NON,,,,1
+Marion,1570,President,,WRITE-IN,NON,-,-,-,1
 Marion,1580,President,,WRITE-IN,NON,0,0,0,0
-Marion,1590,President,,WRITE-IN,NON,,,,1
-Marion,1600,President,,WRITE-IN,NON,,,,5
-Marion,1610,President,,WRITE-IN,NON,,,,8
-Marion,2500,President,,WRITE-IN,NON,,,,6
-Marion,2510,President,,WRITE-IN,NON,,,,1
+Marion,1590,President,,WRITE-IN,NON,-,-,-,1
+Marion,1600,President,,WRITE-IN,NON,-,-,-,5
+Marion,1610,President,,WRITE-IN,NON,-,-,-,8
+Marion,2500,President,,WRITE-IN,NON,-,-,-,6
+Marion,2510,President,,WRITE-IN,NON,-,-,-,1
 Marion,2520,President,,WRITE-IN,NON,0,0,0,0
-Marion,2530,President,,WRITE-IN,NON,,,,4
-Marion,2540,President,,WRITE-IN,NON,,,,1
-Marion,2550,President,,WRITE-IN,NON,,,,1
-Marion,2551,President,,WRITE-IN,NON,,,,1
-Marion,2560,President,,WRITE-IN,NON,,,,2
-Marion,2570,President,,WRITE-IN,NON,,,,5
-Marion,2580,President,,WRITE-IN,NON,,,,2
-Marion,2590,President,,WRITE-IN,NON,,,,2
-Marion,2600,President,,WRITE-IN,NON,,,,7
-Marion,2610,President,,WRITE-IN,NON,,,,3
+Marion,2530,President,,WRITE-IN,NON,-,-,-,4
+Marion,2540,President,,WRITE-IN,NON,-,-,-,1
+Marion,2550,President,,WRITE-IN,NON,-,-,-,1
+Marion,2551,President,,WRITE-IN,NON,-,-,-,1
+Marion,2560,President,,WRITE-IN,NON,-,-,-,2
+Marion,2570,President,,WRITE-IN,NON,-,-,-,5
+Marion,2580,President,,WRITE-IN,NON,-,-,-,2
+Marion,2590,President,,WRITE-IN,NON,-,-,-,2
+Marion,2600,President,,WRITE-IN,NON,-,-,-,7
+Marion,2610,President,,WRITE-IN,NON,-,-,-,3
 Marion,2620,President,,WRITE-IN,NON,0,0,0,0
 Marion,2621,President,,WRITE-IN,NON,0,0,0,0
-Marion,2630,President,,WRITE-IN,NON,,,,3
-Marion,3510,President,,WRITE-IN,NON,,,,1
+Marion,2630,President,,WRITE-IN,NON,-,-,-,3
+Marion,3510,President,,WRITE-IN,NON,-,-,-,1
 Marion,3520,President,,WRITE-IN,NON,0,0,0,0
-Marion,3530,President,,WRITE-IN,NON,,,,2
-Marion,3540,President,,WRITE-IN,NON,,,,1
-Marion,3550,President,,WRITE-IN,NON,,,,11
-Marion,3560,President,,WRITE-IN,NON,,,,1
-Marion,3570,President,,WRITE-IN,NON,,,,4
-Marion,3580,President,,WRITE-IN,NON,,,,3
-Marion,3590,President,,WRITE-IN,NON,,,,4
-Marion,3600,President,,WRITE-IN,NON,,,,2
-Marion,3610,President,,WRITE-IN,NON,,,,1
-Marion,3620,President,,WRITE-IN,NON,,,,1
+Marion,3530,President,,WRITE-IN,NON,-,-,-,2
+Marion,3540,President,,WRITE-IN,NON,-,-,-,1
+Marion,3550,President,,WRITE-IN,NON,-,-,-,11
+Marion,3560,President,,WRITE-IN,NON,-,-,-,1
+Marion,3570,President,,WRITE-IN,NON,-,-,-,4
+Marion,3580,President,,WRITE-IN,NON,-,-,-,3
+Marion,3590,President,,WRITE-IN,NON,-,-,-,4
+Marion,3600,President,,WRITE-IN,NON,-,-,-,2
+Marion,3610,President,,WRITE-IN,NON,-,-,-,1
+Marion,3620,President,,WRITE-IN,NON,-,-,-,1
 Marion,3621,President,,WRITE-IN,NON,0,0,0,0
 Marion,3622,President,,WRITE-IN,NON,0,0,0,0
 Marion,3630,President,,WRITE-IN,NON,0,0,0,0
-Marion,3640,President,,WRITE-IN,NON,,,,2
-Marion,3650,President,,WRITE-IN,NON,,,,4
-Marion,3660,President,,WRITE-IN,NON,,,,4
-Marion,3670,President,,WRITE-IN,NON,,,,7
-Marion,3680,President,,WRITE-IN,NON,,,,4
-Marion,3690,President,,WRITE-IN,NON,,,,4
-Marion,3700,President,,WRITE-IN,NON,,,,2
-Marion,3710,President,,WRITE-IN,NON,,,,5
-Marion,3720,President,,WRITE-IN,NON,,,,1
+Marion,3640,President,,WRITE-IN,NON,-,-,-,2
+Marion,3650,President,,WRITE-IN,NON,-,-,-,4
+Marion,3660,President,,WRITE-IN,NON,-,-,-,4
+Marion,3670,President,,WRITE-IN,NON,-,-,-,7
+Marion,3680,President,,WRITE-IN,NON,-,-,-,4
+Marion,3690,President,,WRITE-IN,NON,-,-,-,4
+Marion,3700,President,,WRITE-IN,NON,-,-,-,2
+Marion,3710,President,,WRITE-IN,NON,-,-,-,5
+Marion,3720,President,,WRITE-IN,NON,-,-,-,1
 Marion,3721,President,,WRITE-IN,NON,0,0,0,0
-Marion,3730,President,,WRITE-IN,NON,,,,1
-Marion,3740,President,,WRITE-IN,NON,,,,6
-Marion,3750,President,,WRITE-IN,NON,,,,3
-Marion,3760,President,,WRITE-IN,NON,,,,3
-Marion,3770,President,,WRITE-IN,NON,,,,6
-Marion,3780,President,,WRITE-IN,NON,,,,9
+Marion,3730,President,,WRITE-IN,NON,-,-,-,1
+Marion,3740,President,,WRITE-IN,NON,-,-,-,6
+Marion,3750,President,,WRITE-IN,NON,-,-,-,3
+Marion,3760,President,,WRITE-IN,NON,-,-,-,3
+Marion,3770,President,,WRITE-IN,NON,-,-,-,6
+Marion,3780,President,,WRITE-IN,NON,-,-,-,9
 Marion,3790,President,,WRITE-IN,NON,0,0,0,0
-Marion,3800,President,,WRITE-IN,NON,,,,3
-Marion,3810,President,,WRITE-IN,NON,,,,3
+Marion,3800,President,,WRITE-IN,NON,-,-,-,3
+Marion,3810,President,,WRITE-IN,NON,-,-,-,3
 Marion,3820,President,,WRITE-IN,NON,0,0,0,0
-Marion,3830,President,,WRITE-IN,NON,,,,4
+Marion,3830,President,,WRITE-IN,NON,-,-,-,4
 Marion,3840,President,,WRITE-IN,NON,0,0,0,0
-Marion,4500,President,,WRITE-IN,NON,,,,1
-Marion,4510,President,,WRITE-IN,NON,,,,5
-Marion,4520,President,,WRITE-IN,NON,,,,12
+Marion,4500,President,,WRITE-IN,NON,-,-,-,1
+Marion,4510,President,,WRITE-IN,NON,-,-,-,5
+Marion,4520,President,,WRITE-IN,NON,-,-,-,12
 Marion,4521,President,,WRITE-IN,NON,0,0,0,0
-Marion,4530,President,,WRITE-IN,NON,,,,1
-Marion,4540,President,,WRITE-IN,NON,,,,1
-Marion,4550,President,,WRITE-IN,NON,,,,1
-Marion,4560,President,,WRITE-IN,NON,,,,5
-Marion,4570,President,,WRITE-IN,NON,,,,1
-Marion,4580,President,,WRITE-IN,NON,,,,2
-Marion,4590,President,,WRITE-IN,NON,,,,3
-Marion,4600,President,,WRITE-IN,NON,,,,1
-Marion,4610,President,,WRITE-IN,NON,,,,3
-Marion,4620,President,,WRITE-IN,NON,,,,5
-Marion,4630,President,,WRITE-IN,NON,,,,3
-Marion,4640,President,,WRITE-IN,NON,,,,7
-Marion,4650,President,,WRITE-IN,NON,,,,2
-Marion,4651,President,,WRITE-IN,NON,,,,7
-Marion,4652,President,,WRITE-IN,NON,,,,3
-Marion,4653,President,,WRITE-IN,NON,,,,1
-Marion,4654,President,,WRITE-IN,NON,,,,3
-Marion,4660,President,,WRITE-IN,NON,,,,5
-Marion,4670,President,,WRITE-IN,NON,,,,7
-Marion,4680,President,,WRITE-IN,NON,,,,1
-Marion,4690,President,,WRITE-IN,NON,,,,9
+Marion,4530,President,,WRITE-IN,NON,-,-,-,1
+Marion,4540,President,,WRITE-IN,NON,-,-,-,1
+Marion,4550,President,,WRITE-IN,NON,-,-,-,1
+Marion,4560,President,,WRITE-IN,NON,-,-,-,5
+Marion,4570,President,,WRITE-IN,NON,-,-,-,1
+Marion,4580,President,,WRITE-IN,NON,-,-,-,2
+Marion,4590,President,,WRITE-IN,NON,-,-,-,3
+Marion,4600,President,,WRITE-IN,NON,-,-,-,1
+Marion,4610,President,,WRITE-IN,NON,-,-,-,3
+Marion,4620,President,,WRITE-IN,NON,-,-,-,5
+Marion,4630,President,,WRITE-IN,NON,-,-,-,3
+Marion,4640,President,,WRITE-IN,NON,-,-,-,7
+Marion,4650,President,,WRITE-IN,NON,-,-,-,2
+Marion,4651,President,,WRITE-IN,NON,-,-,-,7
+Marion,4652,President,,WRITE-IN,NON,-,-,-,3
+Marion,4653,President,,WRITE-IN,NON,-,-,-,1
+Marion,4654,President,,WRITE-IN,NON,-,-,-,3
+Marion,4660,President,,WRITE-IN,NON,-,-,-,5
+Marion,4670,President,,WRITE-IN,NON,-,-,-,7
+Marion,4680,President,,WRITE-IN,NON,-,-,-,1
+Marion,4690,President,,WRITE-IN,NON,-,-,-,9
 Marion,4700,President,,WRITE-IN,NON,0,0,0,0
-Marion,4710,President,,WRITE-IN,NON,,,,8
-Marion,4720,President,,WRITE-IN,NON,,,,2
-Marion,4730,President,,WRITE-IN,NON,,,,1
+Marion,4710,President,,WRITE-IN,NON,-,-,-,8
+Marion,4720,President,,WRITE-IN,NON,-,-,-,2
+Marion,4730,President,,WRITE-IN,NON,-,-,-,1
 Marion,4740,President,,WRITE-IN,NON,0,0,0,0
-Marion,4750,President,,WRITE-IN,NON,,,,7
+Marion,4750,President,,WRITE-IN,NON,-,-,-,7
 Marion,4760,President,,WRITE-IN,NON,0,0,0,0
 Marion,4770,President,,WRITE-IN,NON,0,0,0,0
-Marion,4771,President,,WRITE-IN,NON,,,,2
+Marion,4771,President,,WRITE-IN,NON,-,-,-,2
 Marion,0050,U.S. House,2,Neal Dunn,REP,258,409,164,831
 Marion,2551,U.S. House,2,Neal Dunn,REP,137,209,305,651
 Marion,2600,U.S. House,2,Neal Dunn,REP,785,846,761,2392
@@ -984,7 +984,7 @@ Marion,2630,U.S. House,2,Neal Dunn,REP,77,93,87,257
 Marion,4500,U.S. House,2,Neal Dunn,REP,364,609,306,1279
 Marion,4510,U.S. House,2,Neal Dunn,REP,612,862,272,1746
 Marion,4520,U.S. House,2,Neal Dunn,REP,553,936,520,2009
-Marion,4521,U.S. House,2,Neal Dunn,REP,,,,105
+Marion,4521,U.S. House,2,Neal Dunn,REP,-,-,-,105
 Marion,4600,U.S. House,2,Neal Dunn,REP,296,339,105,740
 Marion,4650,U.S. House,2,Neal Dunn,REP,577,373,163,1113
 Marion,4651,U.S. House,2,Neal Dunn,REP,1509,1346,588,3443
@@ -996,29 +996,29 @@ Marion,4700,U.S. House,2,Neal Dunn,REP,156,211,88,455
 Marion,4710,U.S. House,2,Neal Dunn,REP,534,947,660,2141
 Marion,4720,U.S. House,2,Neal Dunn,REP,179,241,156,576
 Marion,4730,U.S. House,2,Neal Dunn,REP,215,281,167,663
-Marion,0050,U.S. House,2,WRITE-IN,NON,,,,41
-Marion,2551,U.S. House,2,WRITE-IN,NON,,,,18
-Marion,2600,U.S. House,2,WRITE-IN,NON,,,,138
-Marion,2610,U.S. House,2,WRITE-IN,NON,,,,37
-Marion,2620,U.S. House,2,WRITE-IN,NON,,,,18
-Marion,2630,U.S. House,2,WRITE-IN,NON,,,,46
-Marion,4500,U.S. House,2,WRITE-IN,NON,,,,68
-Marion,4510,U.S. House,2,WRITE-IN,NON,,,,95
-Marion,4520,U.S. House,2,WRITE-IN,NON,,,,106
-Marion,4521,U.S. House,2,WRITE-IN,NON,,,,5
-Marion,4600,U.S. House,2,WRITE-IN,NON,,,,43
-Marion,4650,U.S. House,2,WRITE-IN,NON,,,,66
-Marion,4651,U.S. House,2,WRITE-IN,NON,,,,210
-Marion,4652,U.S. House,2,WRITE-IN,NON,,,,37
-Marion,4653,U.S. House,2,WRITE-IN,NON,,,,26
-Marion,4654,U.S. House,2,WRITE-IN,NON,,,,97
-Marion,4690,U.S. House,2,WRITE-IN,NON,,,,102
-Marion,4700,U.S. House,2,WRITE-IN,NON,,,,20
-Marion,4710,U.S. House,2,WRITE-IN,NON,,,,124
-Marion,4720,U.S. House,2,WRITE-IN,NON,,,,45
-Marion,4730,U.S. House,2,WRITE-IN,NON,,,,51
+Marion,0050,U.S. House,2,WRITE-IN,NON,-,-,-,41
+Marion,2551,U.S. House,2,WRITE-IN,NON,-,-,-,18
+Marion,2600,U.S. House,2,WRITE-IN,NON,-,-,-,138
+Marion,2610,U.S. House,2,WRITE-IN,NON,-,-,-,37
+Marion,2620,U.S. House,2,WRITE-IN,NON,-,-,-,18
+Marion,2630,U.S. House,2,WRITE-IN,NON,-,-,-,46
+Marion,4500,U.S. House,2,WRITE-IN,NON,-,-,-,68
+Marion,4510,U.S. House,2,WRITE-IN,NON,-,-,-,95
+Marion,4520,U.S. House,2,WRITE-IN,NON,-,-,-,106
+Marion,4521,U.S. House,2,WRITE-IN,NON,-,-,-,5
+Marion,4600,U.S. House,2,WRITE-IN,NON,-,-,-,43
+Marion,4650,U.S. House,2,WRITE-IN,NON,-,-,-,66
+Marion,4651,U.S. House,2,WRITE-IN,NON,-,-,-,210
+Marion,4652,U.S. House,2,WRITE-IN,NON,-,-,-,37
+Marion,4653,U.S. House,2,WRITE-IN,NON,-,-,-,26
+Marion,4654,U.S. House,2,WRITE-IN,NON,-,-,-,97
+Marion,4690,U.S. House,2,WRITE-IN,NON,-,-,-,102
+Marion,4700,U.S. House,2,WRITE-IN,NON,-,-,-,20
+Marion,4710,U.S. House,2,WRITE-IN,NON,-,-,-,124
+Marion,4720,U.S. House,2,WRITE-IN,NON,-,-,-,45
+Marion,4730,U.S. House,2,WRITE-IN,NON,-,-,-,51
 Marion,0001,U.S. House,3,Kat Cammack,REP,132,183,208,523
-Marion,0002,U.S. House,3,Kat Cammack,REP,,,,53
+Marion,0002,U.S. House,3,Kat Cammack,REP,-,-,-,53
 Marion,0003,U.S. House,3,Kat Cammack,REP,336,509,347,1192
 Marion,0004,U.S. House,3,Kat Cammack,REP,601,748,520,1869
 Marion,0005,U.S. House,3,Kat Cammack,REP,291,448,398,1137
@@ -1037,7 +1037,7 @@ Marion,0017,U.S. House,3,Kat Cammack,REP,261,358,293,912
 Marion,0018,U.S. House,3,Kat Cammack,REP,487,747,497,1731
 Marion,0019,U.S. House,3,Kat Cammack,REP,116,253,322,691
 Marion,0060,U.S. House,3,Kat Cammack,REP,38,60,99,197
-Marion,0070,U.S. House,3,Kat Cammack,REP,,,,97
+Marion,0070,U.S. House,3,Kat Cammack,REP,-,-,-,97
 Marion,1500,U.S. House,3,Kat Cammack,REP,59,40,267,366
 Marion,1510,U.S. House,3,Kat Cammack,REP,140,103,384,627
 Marion,1520,U.S. House,3,Kat Cammack,REP,216,349,523,1088
@@ -1060,7 +1060,7 @@ Marion,2560,U.S. House,3,Kat Cammack,REP,116,250,159,525
 Marion,2570,U.S. House,3,Kat Cammack,REP,266,410,450,1126
 Marion,2580,U.S. House,3,Kat Cammack,REP,349,396,164,909
 Marion,2590,U.S. House,3,Kat Cammack,REP,79,131,136,346
-Marion,2621,U.S. House,3,Kat Cammack,REP,,,,3
+Marion,2621,U.S. House,3,Kat Cammack,REP,-,-,-,3
 Marion,3760,U.S. House,3,Kat Cammack,REP,271,502,309,1082
 Marion,3780,U.S. House,3,Kat Cammack,REP,511,972,733,2216
 Marion,3810,U.S. House,3,Kat Cammack,REP,242,405,387,1034
@@ -1080,17 +1080,17 @@ Marion,0009,U.S. House,3,Adam Christensen,DEM,468,368,356,1192
 Marion,0010,U.S. House,3,Adam Christensen,DEM,306,217,203,726
 Marion,0011,U.S. House,3,Adam Christensen,DEM,159,170,123,452
 Marion,0012,U.S. House,3,Adam Christensen,DEM,310,260,152,722
-Marion,0013,U.S. House,3,Adam Christensen,DEM,,,,115
+Marion,0013,U.S. House,3,Adam Christensen,DEM,-,-,-,115
 Marion,0014,U.S. House,3,Adam Christensen,DEM,573,240,130,943
 Marion,0015,U.S. House,3,Adam Christensen,DEM,354,177,99,630
 Marion,0016,U.S. House,3,Adam Christensen,DEM,263,136,99,498
 Marion,0017,U.S. House,3,Adam Christensen,DEM,250,126,75,451
 Marion,0018,U.S. House,3,Adam Christensen,DEM,705,445,229,1379
 Marion,0019,U.S. House,3,Adam Christensen,DEM,232,226,165,623
-Marion,0060,U.S. House,3,Adam Christensen,DEM,,,,99
-Marion,0070,U.S. House,3,Adam Christensen,DEM,,,,137
-Marion,1500,U.S. House,3,Adam Christensen,DEM,,,,79
-Marion,1510,U.S. House,3,Adam Christensen,DEM,,,,192
+Marion,0060,U.S. House,3,Adam Christensen,DEM,-,-,-,99
+Marion,0070,U.S. House,3,Adam Christensen,DEM,-,-,-,137
+Marion,1500,U.S. House,3,Adam Christensen,DEM,-,-,-,79
+Marion,1510,U.S. House,3,Adam Christensen,DEM,-,-,-,192
 Marion,1520,U.S. House,3,Adam Christensen,DEM,147,73,77,297
 Marion,1530,U.S. House,3,Adam Christensen,DEM,189,59,78,326
 Marion,1540,U.S. House,3,Adam Christensen,DEM,172,72,71,315
@@ -1111,14 +1111,14 @@ Marion,2560,U.S. House,3,Adam Christensen,DEM,118,148,60,326
 Marion,2570,U.S. House,3,Adam Christensen,DEM,459,332,225,1016
 Marion,2580,U.S. House,3,Adam Christensen,DEM,398,131,45,574
 Marion,2590,U.S. House,3,Adam Christensen,DEM,137,142,105,384
-Marion,2621,U.S. House,3,Adam Christensen,DEM,,,,8
+Marion,2621,U.S. House,3,Adam Christensen,DEM,-,-,-,8
 Marion,3760,U.S. House,3,Adam Christensen,DEM,266,130,75,471
 Marion,3780,U.S. House,3,Adam Christensen,DEM,440,244,159,843
 Marion,3810,U.S. House,3,Adam Christensen,DEM,252,174,142,568
 Marion,3840,U.S. House,3,Adam Christensen,DEM,288,171,78,537
 Marion,4760,U.S. House,3,Adam Christensen,DEM,162,42,49,253
 Marion,4770,U.S. House,3,Adam Christensen,DEM,182,121,32,335
-Marion,4771,U.S. House,3,Adam Christensen,DEM,,,,112
+Marion,4771,U.S. House,3,Adam Christensen,DEM,-,-,-,112
 Marion,0040,U.S. House,11,Daniel Webster,REP,404,813,457,1674
 Marion,3510,U.S. House,11,Daniel Webster,REP,202,252,523,977
 Marion,3520,U.S. House,11,Daniel Webster,REP,261,539,506,1306
@@ -1144,7 +1144,7 @@ Marion,3690,U.S. House,11,Daniel Webster,REP,387,742,598,1727
 Marion,3700,U.S. House,11,Daniel Webster,REP,179,423,304,906
 Marion,3710,U.S. House,11,Daniel Webster,REP,427,906,502,1835
 Marion,3720,U.S. House,11,Daniel Webster,REP,140,341,131,612
-Marion,3721,U.S. House,11,Daniel Webster,REP,,,,52
+Marion,3721,U.S. House,11,Daniel Webster,REP,-,-,-,52
 Marion,3730,U.S. House,11,Daniel Webster,REP,201,692,376,1269
 Marion,3740,U.S. House,11,Daniel Webster,REP,296,538,262,1096
 Marion,3750,U.S. House,11,Daniel Webster,REP,343,653,397,1393
@@ -1194,16 +1194,16 @@ Marion,3690,U.S. House,11,Dana Marie Cottrell,DEM,518,428,286,1232
 Marion,3700,U.S. House,11,Dana Marie Cottrell,DEM,459,494,258,1211
 Marion,3710,U.S. House,11,Dana Marie Cottrell,DEM,520,445,229,1194
 Marion,3720,U.S. House,11,Dana Marie Cottrell,DEM,120,66,43,229
-Marion,3721,U.S. House,11,Dana Marie Cottrell,DEM,,,,49
+Marion,3721,U.S. House,11,Dana Marie Cottrell,DEM,-,-,-,49
 Marion,3730,U.S. House,11,Dana Marie Cottrell,DEM,251,177,113,541
 Marion,3740,U.S. House,11,Dana Marie Cottrell,DEM,224,152,77,453
 Marion,3750,U.S. House,11,Dana Marie Cottrell,DEM,285,162,99,546
 Marion,3770,U.S. House,11,Dana Marie Cottrell,DEM,234,119,58,411
-Marion,3790,U.S. House,11,Dana Marie Cottrell,DEM,,,,141
+Marion,3790,U.S. House,11,Dana Marie Cottrell,DEM,-,-,-,141
 Marion,3800,U.S. House,11,Dana Marie Cottrell,DEM,252,191,138,581
 Marion,3820,U.S. House,11,Dana Marie Cottrell,DEM,236,79,75,390
 Marion,3830,U.S. House,11,Dana Marie Cottrell,DEM,156,83,74,313
-Marion,4530,U.S. House,11,Dana Marie Cottrell,DEM,,,,298
+Marion,4530,U.S. House,11,Dana Marie Cottrell,DEM,-,-,-,298
 Marion,4540,U.S. House,11,Dana Marie Cottrell,DEM,97,49,60,206
 Marion,4550,U.S. House,11,Dana Marie Cottrell,DEM,414,298,194,906
 Marion,4560,U.S. House,11,Dana Marie Cottrell,DEM,535,446,215,1196
@@ -1222,16 +1222,16 @@ Marion,4750,U.S. House,11,Dana Marie Cottrell,DEM,358,234,79,671
 Marion,0050,State Senate,5,Jennifer Bradley,REP,188,368,155,711
 Marion,4500,State Senate,5,Jennifer Bradley,REP,290,542,289,1121
 Marion,4510,State Senate,5,Jennifer Bradley,REP,489,819,253,1561
-Marion,4521,State Senate,5,Jennifer Bradley,REP,,,,96
+Marion,4521,State Senate,5,Jennifer Bradley,REP,-,-,-,96
 Marion,4690,State Senate,5,Jennifer Bradley,REP,351,604,492,1447
 Marion,4700,State Senate,5,Jennifer Bradley,REP,140,208,83,431
 Marion,4710,State Senate,5,Jennifer Bradley,REP,430,868,616,1914
 Marion,0050,State Senate,5,Melina Rayna Barratt,DEM,188,123,33,344
 Marion,4500,State Senate,5,Melina Rayna Barratt,DEM,274,204,56,534
 Marion,4510,State Senate,5,Melina Rayna Barratt,DEM,485,229,37,751
-Marion,4521,State Senate,5,Melina Rayna Barratt,DEM,,,,21
+Marion,4521,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,21
 Marion,4690,State Senate,5,Melina Rayna Barratt,DEM,351,235,116,702
-Marion,4700,State Senate,5,Melina Rayna Barratt,DEM,,,,121
+Marion,4700,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,121
 Marion,4710,State Senate,5,Melina Rayna Barratt,DEM,364,236,126,726
 Marion,0007,State House,22,Joe Harding,REP,408,438,322,1168
 Marion,0008,State House,22,Joe Harding,REP,161,198,212,571
@@ -1242,14 +1242,14 @@ Marion,2551,State House,22,Joe Harding,REP,101,183,268,552
 Marion,2600,State House,22,Joe Harding,REP,611,762,656,2029
 Marion,2610,State House,22,Joe Harding,REP,353,318,130,801
 Marion,2620,State House,22,Joe Harding,REP,61,65,30,156
-Marion,2621,State House,22,Joe Harding,REP,,,,2
+Marion,2621,State House,22,Joe Harding,REP,-,-,-,2
 Marion,3570,State House,22,Joe Harding,REP,284,805,458,1547
 Marion,3740,State House,22,Joe Harding,REP,311,539,257,1107
 Marion,3750,State House,22,Joe Harding,REP,351,658,399,1408
 Marion,4500,State House,22,Joe Harding,REP,288,541,285,1114
 Marion,4510,State House,22,Joe Harding,REP,489,816,259,1564
 Marion,4520,State House,22,Joe Harding,REP,452,849,493,1794
-Marion,4521,State House,22,Joe Harding,REP,,,,95
+Marion,4521,State House,22,Joe Harding,REP,-,-,-,95
 Marion,4530,State House,22,Joe Harding,REP,126,94,302,522
 Marion,4540,State House,22,Joe Harding,REP,109,204,264,577
 Marion,4550,State House,22,Joe Harding,REP,143,259,199,601
@@ -1287,38 +1287,38 @@ Marion,0019,State House,22,Barbara Byram,DEM,228,225,155,608
 Marion,0050,State House,22,Barbara Byram,DEM,191,126,32,349
 Marion,2551,State House,22,Barbara Byram,DEM,114,68,73,255
 Marion,2600,State House,22,Barbara Byram,DEM,553,297,213,1063
-Marion,2610,State House,22,Barbara Byram,DEM,,,,507
-Marion,2620,State House,22,Barbara Byram,DEM,,,,143
-Marion,2621,State House,22,Barbara Byram,DEM,,,,9
+Marion,2610,State House,22,Barbara Byram,DEM,-,-,-,507
+Marion,2620,State House,22,Barbara Byram,DEM,-,-,-,143
+Marion,2621,State House,22,Barbara Byram,DEM,-,-,-,9
 Marion,3570,State House,22,Barbara Byram,DEM,267,204,61,532
 Marion,3740,State House,22,Barbara Byram,DEM,211,151,80,442
 Marion,3750,State House,22,Barbara Byram,DEM,276,154,98,528
 Marion,4500,State House,22,Barbara Byram,DEM,281,205,61,547
 Marion,4510,State House,22,Barbara Byram,DEM,485,238,34,757
 Marion,4520,State House,22,Barbara Byram,DEM,334,236,67,637
-Marion,4521,State House,22,Barbara Byram,DEM,,,,22
-Marion,4530,State House,22,Barbara Byram,DEM,,,,300
+Marion,4521,State House,22,Barbara Byram,DEM,-,-,-,22
+Marion,4530,State House,22,Barbara Byram,DEM,-,-,-,300
 Marion,4540,State House,22,Barbara Byram,DEM,96,45,57,198
 Marion,4550,State House,22,Barbara Byram,DEM,415,287,184,886
 Marion,4560,State House,22,Barbara Byram,DEM,518,435,210,1163
 Marion,4570,State House,22,Barbara Byram,DEM,360,71,113,544
 Marion,4580,State House,22,Barbara Byram,DEM,615,610,240,1465
 Marion,4590,State House,22,Barbara Byram,DEM,649,515,295,1459
-Marion,4600,State House,22,Barbara Byram,DEM,,,,332
+Marion,4600,State House,22,Barbara Byram,DEM,-,-,-,332
 Marion,4610,State House,22,Barbara Byram,DEM,543,171,103,817
 Marion,4620,State House,22,Barbara Byram,DEM,607,132,83,822
 Marion,4630,State House,22,Barbara Byram,DEM,171,56,72,299
 Marion,4640,State House,22,Barbara Byram,DEM,643,464,89,1196
 Marion,4650,State House,22,Barbara Byram,DEM,451,114,40,605
 Marion,4651,State House,22,Barbara Byram,DEM,1307,347,101,1755
-Marion,4652,State House,22,Barbara Byram,DEM,,,,321
-Marion,4653,State House,22,Barbara Byram,DEM,,,,308
+Marion,4652,State House,22,Barbara Byram,DEM,-,-,-,321
+Marion,4653,State House,22,Barbara Byram,DEM,-,-,-,308
 Marion,4654,State House,22,Barbara Byram,DEM,882,202,98,1182
 Marion,4660,State House,22,Barbara Byram,DEM,495,205,58,758
 Marion,4670,State House,22,Barbara Byram,DEM,647,558,92,1297
 Marion,4680,State House,22,Barbara Byram,DEM,267,137,100,504
 Marion,4690,State House,22,Barbara Byram,DEM,360,238,108,706
-Marion,4700,State House,22,Barbara Byram,DEM,,,,126
+Marion,4700,State House,22,Barbara Byram,DEM,-,-,-,126
 Marion,4710,State House,22,Barbara Byram,DEM,364,224,124,712
 Marion,4720,State House,22,Barbara Byram,DEM,153,80,55,288
 Marion,4730,State House,22,Barbara Byram,DEM,181,79,50,310
@@ -1326,7 +1326,7 @@ Marion,4740,State House,22,Barbara Byram,DEM,132,38,67,237
 Marion,4750,State House,22,Barbara Byram,DEM,351,230,75,656
 Marion,4760,State House,22,Barbara Byram,DEM,162,43,42,247
 Marion,4770,State House,22,Barbara Byram,DEM,165,117,37,319
-Marion,4771,State House,22,Barbara Byram,DEM,,,,109
+Marion,4771,State House,22,Barbara Byram,DEM,-,-,-,109
 Marion,0001,State House,23,Stan McClain,REP,144,191,213,548
 Marion,0003,State House,23,Stan McClain,REP,345,513,328,1186
 Marion,0004,State House,23,Stan McClain,REP,627,730,505,1862
@@ -1368,7 +1368,7 @@ Marion,3690,State House,23,Stan McClain,REP,377,725,593,1695
 Marion,3700,State House,23,Stan McClain,REP,181,428,291,900
 Marion,3710,State House,23,Stan McClain,REP,424,901,488,1813
 Marion,3720,State House,23,Stan McClain,REP,143,333,126,602
-Marion,3721,State House,23,Stan McClain,REP,,,,50
+Marion,3721,State House,23,Stan McClain,REP,-,-,-,50
 Marion,3730,State House,23,Stan McClain,REP,195,680,363,1238
 Marion,3760,State House,23,Stan McClain,REP,279,496,308,1083
 Marion,3770,State House,23,Stan McClain,REP,220,628,340,1188
@@ -1385,14 +1385,14 @@ Marion,0004,State House,23,Cynthia Dela Rosa,DEM,751,398,299,1448
 Marion,0005,State House,23,Cynthia Dela Rosa,DEM,238,160,73,471
 Marion,0006,State House,23,Cynthia Dela Rosa,DEM,458,206,121,785
 Marion,0012,State House,23,Cynthia Dela Rosa,DEM,310,253,158,721
-Marion,0013,State House,23,Cynthia Dela Rosa,DEM,,,,108
+Marion,0013,State House,23,Cynthia Dela Rosa,DEM,-,-,-,108
 Marion,0014,State House,23,Cynthia Dela Rosa,DEM,556,230,123,909
 Marion,0015,State House,23,Cynthia Dela Rosa,DEM,341,171,86,598
 Marion,0016,State House,23,Cynthia Dela Rosa,DEM,251,127,100,478
 Marion,0017,State House,23,Cynthia Dela Rosa,DEM,222,122,74,418
 Marion,0040,State House,23,Cynthia Dela Rosa,DEM,364,278,156,798
-Marion,1500,State House,23,Cynthia Dela Rosa,DEM,,,,74
-Marion,1510,State House,23,Cynthia Dela Rosa,DEM,,,,185
+Marion,1500,State House,23,Cynthia Dela Rosa,DEM,-,-,-,74
+Marion,1510,State House,23,Cynthia Dela Rosa,DEM,-,-,-,185
 Marion,1520,State House,23,Cynthia Dela Rosa,DEM,140,74,81,295
 Marion,1530,State House,23,Cynthia Dela Rosa,DEM,183,55,79,317
 Marion,1540,State House,23,Cynthia Dela Rosa,DEM,163,69,74,306
@@ -1420,12 +1420,12 @@ Marion,3690,State House,23,Cynthia Dela Rosa,DEM,526,436,286,1248
 Marion,3700,State House,23,Cynthia Dela Rosa,DEM,457,485,264,1206
 Marion,3710,State House,23,Cynthia Dela Rosa,DEM,519,447,238,1204
 Marion,3720,State House,23,Cynthia Dela Rosa,DEM,116,72,47,235
-Marion,3721,State House,23,Cynthia Dela Rosa,DEM,,,,51
+Marion,3721,State House,23,Cynthia Dela Rosa,DEM,-,-,-,51
 Marion,3730,State House,23,Cynthia Dela Rosa,DEM,255,184,116,555
 Marion,3760,State House,23,Cynthia Dela Rosa,DEM,260,130,79,469
 Marion,3770,State House,23,Cynthia Dela Rosa,DEM,237,119,60,416
 Marion,3780,State House,23,Cynthia Dela Rosa,DEM,422,229,161,812
-Marion,3790,State House,23,Cynthia Dela Rosa,DEM,,,,138
+Marion,3790,State House,23,Cynthia Dela Rosa,DEM,-,-,-,138
 Marion,3800,State House,23,Cynthia Dela Rosa,DEM,248,201,140,589
 Marion,3810,State House,23,Cynthia Dela Rosa,DEM,246,177,147,570
 Marion,3820,State House,23,Cynthia Dela Rosa,DEM,242,82,79,403

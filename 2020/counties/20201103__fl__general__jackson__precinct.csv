@@ -1,141 +1,141 @@
 county,precinct,office,district,candidate,party,provisional,mail,early_voting,election_day,votes
-Jackson,Malone City Hall,President,,Donald J. Trump,REP,,,,,859
+Jackson,Malone City Hall,President,,Donald J. Trump,REP,-,-,-,-,859
 Jackson,Campbellton Comm Center,President,,Donald J. Trump,REP,0,73,137,81,291
 Jackson,Citizens Lodge,President,,Donald J. Trump,REP,0,492,1103,290,1885
-Jackson,Alford Comm Center,President,,Donald J. Trump,REP,,,,,2258
-Jackson,Cypress Park,President,,Donald J. Trump,REP,,,,,422
-Jackson,Co Comm Admin Bldg,President,,Donald J. Trump,REP,,,,,940
-Jackson,Eastside Baptist Church,President,,Donald J. Trump,REP,,,,,1854
+Jackson,Alford Comm Center,President,,Donald J. Trump,REP,-,-,-,-,2258
+Jackson,Cypress Park,President,,Donald J. Trump,REP,-,-,-,-,422
+Jackson,Co Comm Admin Bldg,President,,Donald J. Trump,REP,-,-,-,-,940
+Jackson,Eastside Baptist Church,President,,Donald J. Trump,REP,-,-,-,-,1854
 Jackson,Shady Grove Methodist Ch,President,,Donald J. Trump,REP,0,137,344,221,702
 Jackson,Grand Ridge Comm Ctr,President,,Donald J. Trump,REP,0,194,460,320,974
 Jackson,Welcome Assembly of God CH,President,,Donald J. Trump,REP,0,221,379,255,855
 Jackson,Sneads City Hall,President,,Donald J. Trump,REP,0,203,935,309,1447
-Jackson,Cottondale Comm Center,President,,Donald J. Trump,REP,,,,,1080
-Jackson,Greenwood Town Hall,President,,Donald J. Trump,REP,,,,,335
-Jackson,Graceville Civic Ctr,President,,Donald J. Trump,REP,,,,,1586
+Jackson,Cottondale Comm Center,President,,Donald J. Trump,REP,-,-,-,-,1080
+Jackson,Greenwood Town Hall,President,,Donald J. Trump,REP,-,-,-,-,335
+Jackson,Graceville Civic Ctr,President,,Donald J. Trump,REP,-,-,-,-,1586
 Jackson,Malone City Hall,President,,Joseph R. Biden,DEM,0,201,136,114,451
-Jackson,Campbellton Comm Center,President,,Joseph R. Biden,DEM,,,,,654
+Jackson,Campbellton Comm Center,President,,Joseph R. Biden,DEM,-,-,-,-,654
 Jackson,Citizens Lodge,President,,Joseph R. Biden,DEM,0,365,338,102,805
 Jackson,Alford Comm Center,President,,Joseph R. Biden,DEM,0,252,165,85,502
-Jackson,Cypress Park,President,,Joseph R. Biden,DEM,,,,,124
-Jackson,Co Comm Admin Bldg,President,,Joseph R. Biden,DEM,,,,,1026
+Jackson,Cypress Park,President,,Joseph R. Biden,DEM,-,-,-,-,124
+Jackson,Co Comm Admin Bldg,President,,Joseph R. Biden,DEM,-,-,-,-,1026
 Jackson,Eastside Baptist Church,President,,Joseph R. Biden,DEM,0,199,216,51,466
-Jackson,Shady Grove Methodist Ch,President,,Joseph R. Biden,DEM,,,,,93
+Jackson,Shady Grove Methodist Ch,President,,Joseph R. Biden,DEM,-,-,-,-,93
 Jackson,Grand Ridge Comm Ctr,President,,Joseph R. Biden,DEM,0,91,90,62,243
-Jackson,Welcome Assembly of God CH,President,,Joseph R. Biden,DEM,,,,,675
-Jackson,Sneads City Hall,President,,Joseph R. Biden,DEM,,,,,393
+Jackson,Welcome Assembly of God CH,President,,Joseph R. Biden,DEM,-,-,-,-,675
+Jackson,Sneads City Hall,President,,Joseph R. Biden,DEM,-,-,-,-,393
 Jackson,Cottondale Comm Center,President,,Joseph R. Biden,DEM,0,184,223,99,506
 Jackson,Greenwood Town Hall,President,,Joseph R. Biden,DEM,0,157,150,92,399
-Jackson,Graceville Civic Ctr,President,,Joseph R. Biden,DEM,,,,,429
-Jackson,Malone City Hall,President,,Jo Jorgensen,LPF,,,,,9
-Jackson,Campbellton Comm Center,President,,Jo Jorgensen,LPF,,,,,5
-Jackson,Citizens Lodge,President,,Jo Jorgensen,LPF,,,,,19
-Jackson,Alford Comm Center,President,,Jo Jorgensen,LPF,,,,,11
+Jackson,Graceville Civic Ctr,President,,Joseph R. Biden,DEM,-,-,-,-,429
+Jackson,Malone City Hall,President,,Jo Jorgensen,LPF,-,-,-,-,9
+Jackson,Campbellton Comm Center,President,,Jo Jorgensen,LPF,-,-,-,-,5
+Jackson,Citizens Lodge,President,,Jo Jorgensen,LPF,-,-,-,-,19
+Jackson,Alford Comm Center,President,,Jo Jorgensen,LPF,-,-,-,-,11
 Jackson,Cypress Park,President,,Jo Jorgensen,LPF,0,0,0,0,0
-Jackson,Co Comm Admin Bldg,President,,Jo Jorgensen,LPF,,,,,11
-Jackson,Eastside Baptist Church,President,,Jo Jorgensen,LPF,,,,,11
-Jackson,Shady Grove Methodist Ch,President,,Jo Jorgensen,LPF,,,,,3
-Jackson,Grand Ridge Comm Ctr,President,,Jo Jorgensen,LPF,,,,,8
-Jackson,Welcome Assembly of God CH,President,,Jo Jorgensen,LPF,,,,,8
-Jackson,Sneads City Hall,President,,Jo Jorgensen,LPF,,,,,3
-Jackson,Cottondale Comm Center,President,,Jo Jorgensen,LPF,,,,,8
-Jackson,Greenwood Town Hall,President,,Jo Jorgensen,LPF,,,,,2
-Jackson,Graceville Civic Ctr,President,,Jo Jorgensen,LPF,,,,,18
+Jackson,Co Comm Admin Bldg,President,,Jo Jorgensen,LPF,-,-,-,-,11
+Jackson,Eastside Baptist Church,President,,Jo Jorgensen,LPF,-,-,-,-,11
+Jackson,Shady Grove Methodist Ch,President,,Jo Jorgensen,LPF,-,-,-,-,3
+Jackson,Grand Ridge Comm Ctr,President,,Jo Jorgensen,LPF,-,-,-,-,8
+Jackson,Welcome Assembly of God CH,President,,Jo Jorgensen,LPF,-,-,-,-,8
+Jackson,Sneads City Hall,President,,Jo Jorgensen,LPF,-,-,-,-,3
+Jackson,Cottondale Comm Center,President,,Jo Jorgensen,LPF,-,-,-,-,8
+Jackson,Greenwood Town Hall,President,,Jo Jorgensen,LPF,-,-,-,-,2
+Jackson,Graceville Civic Ctr,President,,Jo Jorgensen,LPF,-,-,-,-,18
 Jackson,Malone City Hall,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
 Jackson,Campbellton Comm Center,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
 Jackson,Citizens Lodge,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
 Jackson,Alford Comm Center,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
 Jackson,Cypress Park,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
-Jackson,Co Comm Admin Bldg,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
-Jackson,Eastside Baptist Church,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
-Jackson,Shady Grove Methodist Ch,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
-Jackson,Grand Ridge Comm Ctr,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
-Jackson,Welcome Assembly of God CH,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
-Jackson,Sneads City Hall,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
-Jackson,Cottondale Comm Center,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,4
+Jackson,Co Comm Admin Bldg,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
+Jackson,Eastside Baptist Church,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
+Jackson,Shady Grove Methodist Ch,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
+Jackson,Grand Ridge Comm Ctr,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
+Jackson,Welcome Assembly of God CH,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
+Jackson,Sneads City Hall,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,2
+Jackson,Cottondale Comm Center,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,4
 Jackson,Greenwood Town Hall,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
-Jackson,Graceville Civic Ctr,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,2
+Jackson,Graceville Civic Ctr,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,2
 Jackson,Malone City Hall,President,,Gloria La Riva,PSL,0,0,0,0,0
 Jackson,Campbellton Comm Center,President,,Gloria La Riva,PSL,0,0,0,0,0
-Jackson,Citizens Lodge,President,,Gloria La Riva,PSL,,,,,1
-Jackson,Alford Comm Center,President,,Gloria La Riva,PSL,,,,,1
+Jackson,Citizens Lodge,President,,Gloria La Riva,PSL,-,-,-,-,1
+Jackson,Alford Comm Center,President,,Gloria La Riva,PSL,-,-,-,-,1
 Jackson,Cypress Park,President,,Gloria La Riva,PSL,0,0,0,0,0
-Jackson,Co Comm Admin Bldg,President,,Gloria La Riva,PSL,,,,,1
-Jackson,Eastside Baptist Church,President,,Gloria La Riva,PSL,,,,,3
+Jackson,Co Comm Admin Bldg,President,,Gloria La Riva,PSL,-,-,-,-,1
+Jackson,Eastside Baptist Church,President,,Gloria La Riva,PSL,-,-,-,-,3
 Jackson,Shady Grove Methodist Ch,President,,Gloria La Riva,PSL,0,0,0,0,0
-Jackson,Grand Ridge Comm Ctr,President,,Gloria La Riva,PSL,,,,,1
-Jackson,Welcome Assembly of God CH,President,,Gloria La Riva,PSL,,,,,1
-Jackson,Sneads City Hall,President,,Gloria La Riva,PSL,,,,,3
-Jackson,Cottondale Comm Center,President,,Gloria La Riva,PSL,,,,,1
+Jackson,Grand Ridge Comm Ctr,President,,Gloria La Riva,PSL,-,-,-,-,1
+Jackson,Welcome Assembly of God CH,President,,Gloria La Riva,PSL,-,-,-,-,1
+Jackson,Sneads City Hall,President,,Gloria La Riva,PSL,-,-,-,-,3
+Jackson,Cottondale Comm Center,President,,Gloria La Riva,PSL,-,-,-,-,1
 Jackson,Greenwood Town Hall,President,,Gloria La Riva,PSL,0,0,0,0,0
-Jackson,Graceville Civic Ctr,President,,Gloria La Riva,PSL,,,,,1
-Jackson,Malone City Hall,President,,Howie Hawkins,GRE,,,,,1
+Jackson,Graceville Civic Ctr,President,,Gloria La Riva,PSL,-,-,-,-,1
+Jackson,Malone City Hall,President,,Howie Hawkins,GRE,-,-,-,-,1
 Jackson,Campbellton Comm Center,President,,Howie Hawkins,GRE,0,0,0,0,0
-Jackson,Citizens Lodge,President,,Howie Hawkins,GRE,,,,,1
-Jackson,Alford Comm Center,President,,Howie Hawkins,GRE,,,,,1
+Jackson,Citizens Lodge,President,,Howie Hawkins,GRE,-,-,-,-,1
+Jackson,Alford Comm Center,President,,Howie Hawkins,GRE,-,-,-,-,1
 Jackson,Cypress Park,President,,Howie Hawkins,GRE,0,0,0,0,0
 Jackson,Co Comm Admin Bldg,President,,Howie Hawkins,GRE,0,0,0,0,0
-Jackson,Eastside Baptist Church,President,,Howie Hawkins,GRE,,,,,1
+Jackson,Eastside Baptist Church,President,,Howie Hawkins,GRE,-,-,-,-,1
 Jackson,Shady Grove Methodist Ch,President,,Howie Hawkins,GRE,0,0,0,0,0
-Jackson,Grand Ridge Comm Ctr,President,,Howie Hawkins,GRE,,,,,2
+Jackson,Grand Ridge Comm Ctr,President,,Howie Hawkins,GRE,-,-,-,-,2
 Jackson,Welcome Assembly of God CH,President,,Howie Hawkins,GRE,0,0,0,0,0
-Jackson,Sneads City Hall,President,,Howie Hawkins,GRE,,,,,2
+Jackson,Sneads City Hall,President,,Howie Hawkins,GRE,-,-,-,-,2
 Jackson,Cottondale Comm Center,President,,Howie Hawkins,GRE,0,0,0,0,0
 Jackson,Greenwood Town Hall,President,,Howie Hawkins,GRE,0,0,0,0,0
-Jackson,Graceville Civic Ctr,President,,Howie Hawkins,GRE,,,,,5
+Jackson,Graceville Civic Ctr,President,,Howie Hawkins,GRE,-,-,-,-,5
 Jackson,Malone City Hall,President,,Don Blankenship,CPF,0,0,0,0,0
 Jackson,Campbellton Comm Center,President,,Don Blankenship,CPF,0,0,0,0,0
 Jackson,Citizens Lodge,President,,Don Blankenship,CPF,0,0,0,0,0
-Jackson,Alford Comm Center,President,,Don Blankenship,CPF,,,,,1
+Jackson,Alford Comm Center,President,,Don Blankenship,CPF,-,-,-,-,1
 Jackson,Cypress Park,President,,Don Blankenship,CPF,0,0,0,0,0
-Jackson,Co Comm Admin Bldg,President,,Don Blankenship,CPF,,,,,1
+Jackson,Co Comm Admin Bldg,President,,Don Blankenship,CPF,-,-,-,-,1
 Jackson,Eastside Baptist Church,President,,Don Blankenship,CPF,0,0,0,0,0
 Jackson,Shady Grove Methodist Ch,President,,Don Blankenship,CPF,0,0,0,0,0
 Jackson,Grand Ridge Comm Ctr,President,,Don Blankenship,CPF,0,0,0,0,0
-Jackson,Welcome Assembly of God CH,President,,Don Blankenship,CPF,,,,,1
-Jackson,Sneads City Hall,President,,Don Blankenship,CPF,,,,,1
+Jackson,Welcome Assembly of God CH,President,,Don Blankenship,CPF,-,-,-,-,1
+Jackson,Sneads City Hall,President,,Don Blankenship,CPF,-,-,-,-,1
 Jackson,Cottondale Comm Center,President,,Don Blankenship,CPF,0,0,0,0,0
-Jackson,Greenwood Town Hall,President,,Don Blankenship,CPF,,,,,1
+Jackson,Greenwood Town Hall,President,,Don Blankenship,CPF,-,-,-,-,1
 Jackson,Graceville Civic Ctr,President,,Don Blankenship,CPF,0,0,0,0,0
-Jackson,Malone City Hall,President,,WRITE-IN,NON,,,,,7
-Jackson,Campbellton Comm Center,President,,WRITE-IN,NON,,,,,1
-Jackson,Citizens Lodge,President,,WRITE-IN,NON,,,,,5
-Jackson,Alford Comm Center,President,,WRITE-IN,NON,,,,,8
-Jackson,Cypress Park,President,,WRITE-IN,NON,,,,,1
-Jackson,Co Comm Admin Bldg,President,,WRITE-IN,NON,,,,,2
-Jackson,Eastside Baptist Church,President,,WRITE-IN,NON,,,,,9
-Jackson,Shady Grove Methodist Ch,President,,WRITE-IN,NON,,,,,1
-Jackson,Grand Ridge Comm Ctr,President,,WRITE-IN,NON,,,,,3
+Jackson,Malone City Hall,President,,WRITE-IN,NON,-,-,-,-,7
+Jackson,Campbellton Comm Center,President,,WRITE-IN,NON,-,-,-,-,1
+Jackson,Citizens Lodge,President,,WRITE-IN,NON,-,-,-,-,5
+Jackson,Alford Comm Center,President,,WRITE-IN,NON,-,-,-,-,8
+Jackson,Cypress Park,President,,WRITE-IN,NON,-,-,-,-,1
+Jackson,Co Comm Admin Bldg,President,,WRITE-IN,NON,-,-,-,-,2
+Jackson,Eastside Baptist Church,President,,WRITE-IN,NON,-,-,-,-,9
+Jackson,Shady Grove Methodist Ch,President,,WRITE-IN,NON,-,-,-,-,1
+Jackson,Grand Ridge Comm Ctr,President,,WRITE-IN,NON,-,-,-,-,3
 Jackson,Welcome Assembly of God CH,President,,WRITE-IN,NON,0,0,0,0,0
-Jackson,Sneads City Hall,President,,WRITE-IN,NON,,,,,1
-Jackson,Cottondale Comm Center,President,,WRITE-IN,NON,,,,,3
+Jackson,Sneads City Hall,President,,WRITE-IN,NON,-,-,-,-,1
+Jackson,Cottondale Comm Center,President,,WRITE-IN,NON,-,-,-,-,3
 Jackson,Greenwood Town Hall,President,,WRITE-IN,NON,0,0,0,0,0
-Jackson,Graceville Civic Ctr,President,,WRITE-IN,NON,,,,,1
-Jackson,Malone City Hall,U.S. House,2,Neal Dunn,REP,,,,,1068
+Jackson,Graceville Civic Ctr,President,,WRITE-IN,NON,-,-,-,-,1
+Jackson,Malone City Hall,U.S. House,2,Neal Dunn,REP,-,-,-,-,1068
 Jackson,Campbellton Comm Center,U.S. House,2,Neal Dunn,REP,0,208,256,153,617
 Jackson,Citizens Lodge,U.S. House,2,Neal Dunn,REP,0,637,1234,347,2218
-Jackson,Alford Comm Center,U.S. House,2,Neal Dunn,REP,,,,,2416
-Jackson,Cypress Park,U.S. House,2,Neal Dunn,REP,,,,,449
-Jackson,Co Comm Admin Bldg,U.S. House,2,Neal Dunn,REP,,,,,1406
-Jackson,Eastside Baptist Church,U.S. House,2,Neal Dunn,REP,,,,,2035
+Jackson,Alford Comm Center,U.S. House,2,Neal Dunn,REP,-,-,-,-,2416
+Jackson,Cypress Park,U.S. House,2,Neal Dunn,REP,-,-,-,-,449
+Jackson,Co Comm Admin Bldg,U.S. House,2,Neal Dunn,REP,-,-,-,-,1406
+Jackson,Eastside Baptist Church,U.S. House,2,Neal Dunn,REP,-,-,-,-,2035
 Jackson,Shady Grove Methodist Ch,U.S. House,2,Neal Dunn,REP,0,150,342,225,717
 Jackson,Grand Ridge Comm Ctr,U.S. House,2,Neal Dunn,REP,0,221,483,353,1057
-Jackson,Welcome Assembly of God CH,U.S. House,2,Neal Dunn,REP,,,,,1080
-Jackson,Sneads City Hall,U.S. House,2,Neal Dunn,REP,,,,,1586
-Jackson,Cottondale Comm Center,U.S. House,2,Neal Dunn,REP,,,,,1331
-Jackson,Greenwood Town Hall,U.S. House,2,Neal Dunn,REP,,,,,476
-Jackson,Graceville Civic Ctr,U.S. House,2,Neal Dunn,REP,,,,,1806
-Jackson,Malone City Hall,U.S. House,2,WRITE-IN,NON,,,,,45
-Jackson,Campbellton Comm Center,U.S. House,2,WRITE-IN,NON,,,,,77
-Jackson,Citizens Lodge,U.S. House,2,WRITE-IN,NON,,,,,122
-Jackson,Alford Comm Center,U.S. House,2,WRITE-IN,NON,,,,,83
-Jackson,Cypress Park,U.S. House,2,WRITE-IN,NON,,,,,13
-Jackson,Co Comm Admin Bldg,U.S. House,2,WRITE-IN,NON,,,,,137
-Jackson,Eastside Baptist Church,U.S. House,2,WRITE-IN,NON,,,,,67
-Jackson,Shady Grove Methodist Ch,U.S. House,2,WRITE-IN,NON,,,,,13
-Jackson,Grand Ridge Comm Ctr,U.S. House,2,WRITE-IN,NON,,,,,40
-Jackson,Welcome Assembly of God CH,U.S. House,2,WRITE-IN,NON,,,,,108
-Jackson,Sneads City Hall,U.S. House,2,WRITE-IN,NON,,,,,62
-Jackson,Cottondale Comm Center,U.S. House,2,WRITE-IN,NON,,,,,66
-Jackson,Greenwood Town Hall,U.S. House,2,WRITE-IN,NON,,,,,44
-Jackson,Graceville Civic Ctr,U.S. House,2,WRITE-IN,NON,,,,,45
+Jackson,Welcome Assembly of God CH,U.S. House,2,Neal Dunn,REP,-,-,-,-,1080
+Jackson,Sneads City Hall,U.S. House,2,Neal Dunn,REP,-,-,-,-,1586
+Jackson,Cottondale Comm Center,U.S. House,2,Neal Dunn,REP,-,-,-,-,1331
+Jackson,Greenwood Town Hall,U.S. House,2,Neal Dunn,REP,-,-,-,-,476
+Jackson,Graceville Civic Ctr,U.S. House,2,Neal Dunn,REP,-,-,-,-,1806
+Jackson,Malone City Hall,U.S. House,2,WRITE-IN,NON,-,-,-,-,45
+Jackson,Campbellton Comm Center,U.S. House,2,WRITE-IN,NON,-,-,-,-,77
+Jackson,Citizens Lodge,U.S. House,2,WRITE-IN,NON,-,-,-,-,122
+Jackson,Alford Comm Center,U.S. House,2,WRITE-IN,NON,-,-,-,-,83
+Jackson,Cypress Park,U.S. House,2,WRITE-IN,NON,-,-,-,-,13
+Jackson,Co Comm Admin Bldg,U.S. House,2,WRITE-IN,NON,-,-,-,-,137
+Jackson,Eastside Baptist Church,U.S. House,2,WRITE-IN,NON,-,-,-,-,67
+Jackson,Shady Grove Methodist Ch,U.S. House,2,WRITE-IN,NON,-,-,-,-,13
+Jackson,Grand Ridge Comm Ctr,U.S. House,2,WRITE-IN,NON,-,-,-,-,40
+Jackson,Welcome Assembly of God CH,U.S. House,2,WRITE-IN,NON,-,-,-,-,108
+Jackson,Sneads City Hall,U.S. House,2,WRITE-IN,NON,-,-,-,-,62
+Jackson,Cottondale Comm Center,U.S. House,2,WRITE-IN,NON,-,-,-,-,66
+Jackson,Greenwood Town Hall,U.S. House,2,WRITE-IN,NON,-,-,-,-,44
+Jackson,Graceville Civic Ctr,U.S. House,2,WRITE-IN,NON,-,-,-,-,45

@@ -18,7 +18,7 @@ Manatee,139,President,,Donald J. Trump,REP,1711,2551,833,5095
 Manatee,141,President,,Donald J. Trump,REP,142,132,223,497
 Manatee,201,President,,Donald J. Trump,REP,426,399,213,1038
 Manatee,203,President,,Donald J. Trump,REP,269,342,167,778
-Manatee,205,President,,Donald J. Trump,REP,,,,76
+Manatee,205,President,,Donald J. Trump,REP,-,-,-,76
 Manatee,207,President,,Donald J. Trump,REP,515,513,198,1226
 Manatee,209,President,,Donald J. Trump,REP,161,210,91,462
 Manatee,211,President,,Donald J. Trump,REP,337,537,171,1045
@@ -37,7 +37,7 @@ Manatee,311,President,,Donald J. Trump,REP,1031,899,739,2669
 Manatee,313,President,,Donald J. Trump,REP,791,545,441,1777
 Manatee,315,President,,Donald J. Trump,REP,791,715,425,1931
 Manatee,317,President,,Donald J. Trump,REP,781,714,728,2223
-Manatee,321,President,,Donald J. Trump,REP,,,,219
+Manatee,321,President,,Donald J. Trump,REP,-,-,-,219
 Manatee,323,President,,Donald J. Trump,REP,859,751,469,2079
 Manatee,325,President,,Donald J. Trump,REP,784,576,331,1691
 Manatee,327,President,,Donald J. Trump,REP,931,827,652,2410
@@ -70,14 +70,14 @@ Manatee,523,President,,Donald J. Trump,REP,790,1072,450,2312
 Manatee,525,President,,Donald J. Trump,REP,859,1008,677,2544
 Manatee,527,President,,Donald J. Trump,REP,316,334,839,1489
 Manatee,101,President,,Joseph R. Biden,DEM,919,534,183,1636
-Manatee,103,President,,Joseph R. Biden,DEM,,,,350
+Manatee,103,President,,Joseph R. Biden,DEM,-,-,-,350
 Manatee,107,President,,Joseph R. Biden,DEM,217,144,72,433
 Manatee,111,President,,Joseph R. Biden,DEM,283,186,39,508
 Manatee,117,President,,Joseph R. Biden,DEM,1496,801,356,2653
 Manatee,119,President,,Joseph R. Biden,DEM,322,153,81,556
 Manatee,121,President,,Joseph R. Biden,DEM,1005,469,98,1572
 Manatee,123,President,,Joseph R. Biden,DEM,873,559,123,1555
-Manatee,125,President,,Joseph R. Biden,DEM,,,,729
+Manatee,125,President,,Joseph R. Biden,DEM,-,-,-,729
 Manatee,127,President,,Joseph R. Biden,DEM,1193,555,175,1923
 Manatee,129,President,,Joseph R. Biden,DEM,271,101,64,436
 Manatee,131,President,,Joseph R. Biden,DEM,1117,448,171,1736
@@ -85,7 +85,7 @@ Manatee,133,President,,Joseph R. Biden,DEM,210,64,57,331
 Manatee,135,President,,Joseph R. Biden,DEM,1287,463,122,1872
 Manatee,137,President,,Joseph R. Biden,DEM,832,499,117,1448
 Manatee,139,President,,Joseph R. Biden,DEM,1341,754,180,2275
-Manatee,141,President,,Joseph R. Biden,DEM,,,,91
+Manatee,141,President,,Joseph R. Biden,DEM,-,-,-,91
 Manatee,201,President,,Joseph R. Biden,DEM,428,180,90,698
 Manatee,203,President,,Joseph R. Biden,DEM,226,154,53,433
 Manatee,205,President,,Joseph R. Biden,DEM,353,296,209,858
@@ -107,7 +107,7 @@ Manatee,311,President,,Joseph R. Biden,DEM,1095,388,215,1698
 Manatee,313,President,,Joseph R. Biden,DEM,761,180,121,1062
 Manatee,315,President,,Joseph R. Biden,DEM,981,342,150,1473
 Manatee,317,President,,Joseph R. Biden,DEM,778,251,219,1248
-Manatee,321,President,,Joseph R. Biden,DEM,,,,222
+Manatee,321,President,,Joseph R. Biden,DEM,-,-,-,222
 Manatee,323,President,,Joseph R. Biden,DEM,1151,336,154,1641
 Manatee,325,President,,Joseph R. Biden,DEM,837,216,86,1139
 Manatee,327,President,,Joseph R. Biden,DEM,964,389,207,1560
@@ -116,7 +116,7 @@ Manatee,331,President,,Joseph R. Biden,DEM,663,206,144,1013
 Manatee,333,President,,Joseph R. Biden,DEM,1280,390,247,1917
 Manatee,401,President,,Joseph R. Biden,DEM,596,311,253,1160
 Manatee,403,President,,Joseph R. Biden,DEM,932,324,167,1423
-Manatee,405,President,,Joseph R. Biden,DEM,,,,259
+Manatee,405,President,,Joseph R. Biden,DEM,-,-,-,259
 Manatee,407,President,,Joseph R. Biden,DEM,255,75,33,363
 Manatee,409,President,,Joseph R. Biden,DEM,702,163,123,988
 Manatee,411,President,,Joseph R. Biden,DEM,737,271,143,1151
@@ -135,430 +135,430 @@ Manatee,513,President,,Joseph R. Biden,DEM,1025,182,134,1341
 Manatee,515,President,,Joseph R. Biden,DEM,1641,722,140,2503
 Manatee,517,President,,Joseph R. Biden,DEM,1685,696,80,2461
 Manatee,519,President,,Joseph R. Biden,DEM,2043,857,190,3090
-Manatee,521,President,,Joseph R. Biden,DEM,,,,2314
+Manatee,521,President,,Joseph R. Biden,DEM,-,-,-,2314
 Manatee,523,President,,Joseph R. Biden,DEM,1086,502,126,1714
 Manatee,525,President,,Joseph R. Biden,DEM,490,214,87,791
 Manatee,527,President,,Joseph R. Biden,DEM,191,64,65,320
-Manatee,101,President,,Jo Jorgensen,LPF,,,,42
-Manatee,103,President,,Jo Jorgensen,LPF,,,,3
-Manatee,107,President,,Jo Jorgensen,LPF,,,,12
-Manatee,111,President,,Jo Jorgensen,LPF,,,,6
-Manatee,117,President,,Jo Jorgensen,LPF,,,,58
-Manatee,119,President,,Jo Jorgensen,LPF,,,,6
-Manatee,121,President,,Jo Jorgensen,LPF,,,,24
-Manatee,123,President,,Jo Jorgensen,LPF,,,,17
-Manatee,125,President,,Jo Jorgensen,LPF,,,,4
-Manatee,127,President,,Jo Jorgensen,LPF,,,,43
-Manatee,129,President,,Jo Jorgensen,LPF,,,,5
-Manatee,131,President,,Jo Jorgensen,LPF,,,,22
-Manatee,133,President,,Jo Jorgensen,LPF,,,,4
-Manatee,135,President,,Jo Jorgensen,LPF,,,,30
-Manatee,137,President,,Jo Jorgensen,LPF,,,,33
-Manatee,139,President,,Jo Jorgensen,LPF,,,,57
-Manatee,141,President,,Jo Jorgensen,LPF,,,,8
-Manatee,201,President,,Jo Jorgensen,LPF,,,,8
-Manatee,203,President,,Jo Jorgensen,LPF,,,,5
-Manatee,205,President,,Jo Jorgensen,LPF,,,,3
-Manatee,207,President,,Jo Jorgensen,LPF,,,,9
-Manatee,209,President,,Jo Jorgensen,LPF,,,,12
-Manatee,211,President,,Jo Jorgensen,LPF,,,,5
-Manatee,213,President,,Jo Jorgensen,LPF,,,,22
-Manatee,215,President,,Jo Jorgensen,LPF,,,,9
-Manatee,217,President,,Jo Jorgensen,LPF,,,,20
-Manatee,219,President,,Jo Jorgensen,LPF,,,,18
-Manatee,221,President,,Jo Jorgensen,LPF,,,,13
-Manatee,223,President,,Jo Jorgensen,LPF,,,,16
-Manatee,301,President,,Jo Jorgensen,LPF,,,,1
-Manatee,303,President,,Jo Jorgensen,LPF,,,,4
-Manatee,305,President,,Jo Jorgensen,LPF,,,,5
-Manatee,307,President,,Jo Jorgensen,LPF,,,,2
-Manatee,309,President,,Jo Jorgensen,LPF,,,,12
-Manatee,311,President,,Jo Jorgensen,LPF,,,,43
-Manatee,313,President,,Jo Jorgensen,LPF,,,,8
-Manatee,315,President,,Jo Jorgensen,LPF,,,,16
-Manatee,317,President,,Jo Jorgensen,LPF,,,,33
-Manatee,321,President,,Jo Jorgensen,LPF,,,,1
-Manatee,323,President,,Jo Jorgensen,LPF,,,,17
-Manatee,325,President,,Jo Jorgensen,LPF,,,,11
-Manatee,327,President,,Jo Jorgensen,LPF,,,,35
-Manatee,329,President,,Jo Jorgensen,LPF,,,,27
-Manatee,331,President,,Jo Jorgensen,LPF,,,,11
-Manatee,333,President,,Jo Jorgensen,LPF,,,,24
-Manatee,401,President,,Jo Jorgensen,LPF,,,,19
-Manatee,403,President,,Jo Jorgensen,LPF,,,,18
-Manatee,405,President,,Jo Jorgensen,LPF,,,,6
-Manatee,407,President,,Jo Jorgensen,LPF,,,,7
-Manatee,409,President,,Jo Jorgensen,LPF,,,,5
-Manatee,411,President,,Jo Jorgensen,LPF,,,,20
-Manatee,413,President,,Jo Jorgensen,LPF,,,,17
-Manatee,415,President,,Jo Jorgensen,LPF,,,,28
-Manatee,417,President,,Jo Jorgensen,LPF,,,,28
-Manatee,419,President,,Jo Jorgensen,LPF,,,,25
-Manatee,421,President,,Jo Jorgensen,LPF,,,,14
-Manatee,501,President,,Jo Jorgensen,LPF,,,,54
-Manatee,503,President,,Jo Jorgensen,LPF,,,,22
-Manatee,505,President,,Jo Jorgensen,LPF,,,,16
-Manatee,507,President,,Jo Jorgensen,LPF,,,,27
-Manatee,509,President,,Jo Jorgensen,LPF,,,,15
-Manatee,511,President,,Jo Jorgensen,LPF,,,,18
-Manatee,513,President,,Jo Jorgensen,LPF,,,,7
-Manatee,515,President,,Jo Jorgensen,LPF,,,,38
-Manatee,517,President,,Jo Jorgensen,LPF,,,,28
-Manatee,519,President,,Jo Jorgensen,LPF,,,,36
-Manatee,521,President,,Jo Jorgensen,LPF,,,,17
-Manatee,523,President,,Jo Jorgensen,LPF,,,,28
-Manatee,525,President,,Jo Jorgensen,LPF,,,,20
-Manatee,527,President,,Jo Jorgensen,LPF,,,,10
-Manatee,101,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Manatee,101,President,,Jo Jorgensen,LPF,-,-,-,42
+Manatee,103,President,,Jo Jorgensen,LPF,-,-,-,3
+Manatee,107,President,,Jo Jorgensen,LPF,-,-,-,12
+Manatee,111,President,,Jo Jorgensen,LPF,-,-,-,6
+Manatee,117,President,,Jo Jorgensen,LPF,-,-,-,58
+Manatee,119,President,,Jo Jorgensen,LPF,-,-,-,6
+Manatee,121,President,,Jo Jorgensen,LPF,-,-,-,24
+Manatee,123,President,,Jo Jorgensen,LPF,-,-,-,17
+Manatee,125,President,,Jo Jorgensen,LPF,-,-,-,4
+Manatee,127,President,,Jo Jorgensen,LPF,-,-,-,43
+Manatee,129,President,,Jo Jorgensen,LPF,-,-,-,5
+Manatee,131,President,,Jo Jorgensen,LPF,-,-,-,22
+Manatee,133,President,,Jo Jorgensen,LPF,-,-,-,4
+Manatee,135,President,,Jo Jorgensen,LPF,-,-,-,30
+Manatee,137,President,,Jo Jorgensen,LPF,-,-,-,33
+Manatee,139,President,,Jo Jorgensen,LPF,-,-,-,57
+Manatee,141,President,,Jo Jorgensen,LPF,-,-,-,8
+Manatee,201,President,,Jo Jorgensen,LPF,-,-,-,8
+Manatee,203,President,,Jo Jorgensen,LPF,-,-,-,5
+Manatee,205,President,,Jo Jorgensen,LPF,-,-,-,3
+Manatee,207,President,,Jo Jorgensen,LPF,-,-,-,9
+Manatee,209,President,,Jo Jorgensen,LPF,-,-,-,12
+Manatee,211,President,,Jo Jorgensen,LPF,-,-,-,5
+Manatee,213,President,,Jo Jorgensen,LPF,-,-,-,22
+Manatee,215,President,,Jo Jorgensen,LPF,-,-,-,9
+Manatee,217,President,,Jo Jorgensen,LPF,-,-,-,20
+Manatee,219,President,,Jo Jorgensen,LPF,-,-,-,18
+Manatee,221,President,,Jo Jorgensen,LPF,-,-,-,13
+Manatee,223,President,,Jo Jorgensen,LPF,-,-,-,16
+Manatee,301,President,,Jo Jorgensen,LPF,-,-,-,1
+Manatee,303,President,,Jo Jorgensen,LPF,-,-,-,4
+Manatee,305,President,,Jo Jorgensen,LPF,-,-,-,5
+Manatee,307,President,,Jo Jorgensen,LPF,-,-,-,2
+Manatee,309,President,,Jo Jorgensen,LPF,-,-,-,12
+Manatee,311,President,,Jo Jorgensen,LPF,-,-,-,43
+Manatee,313,President,,Jo Jorgensen,LPF,-,-,-,8
+Manatee,315,President,,Jo Jorgensen,LPF,-,-,-,16
+Manatee,317,President,,Jo Jorgensen,LPF,-,-,-,33
+Manatee,321,President,,Jo Jorgensen,LPF,-,-,-,1
+Manatee,323,President,,Jo Jorgensen,LPF,-,-,-,17
+Manatee,325,President,,Jo Jorgensen,LPF,-,-,-,11
+Manatee,327,President,,Jo Jorgensen,LPF,-,-,-,35
+Manatee,329,President,,Jo Jorgensen,LPF,-,-,-,27
+Manatee,331,President,,Jo Jorgensen,LPF,-,-,-,11
+Manatee,333,President,,Jo Jorgensen,LPF,-,-,-,24
+Manatee,401,President,,Jo Jorgensen,LPF,-,-,-,19
+Manatee,403,President,,Jo Jorgensen,LPF,-,-,-,18
+Manatee,405,President,,Jo Jorgensen,LPF,-,-,-,6
+Manatee,407,President,,Jo Jorgensen,LPF,-,-,-,7
+Manatee,409,President,,Jo Jorgensen,LPF,-,-,-,5
+Manatee,411,President,,Jo Jorgensen,LPF,-,-,-,20
+Manatee,413,President,,Jo Jorgensen,LPF,-,-,-,17
+Manatee,415,President,,Jo Jorgensen,LPF,-,-,-,28
+Manatee,417,President,,Jo Jorgensen,LPF,-,-,-,28
+Manatee,419,President,,Jo Jorgensen,LPF,-,-,-,25
+Manatee,421,President,,Jo Jorgensen,LPF,-,-,-,14
+Manatee,501,President,,Jo Jorgensen,LPF,-,-,-,54
+Manatee,503,President,,Jo Jorgensen,LPF,-,-,-,22
+Manatee,505,President,,Jo Jorgensen,LPF,-,-,-,16
+Manatee,507,President,,Jo Jorgensen,LPF,-,-,-,27
+Manatee,509,President,,Jo Jorgensen,LPF,-,-,-,15
+Manatee,511,President,,Jo Jorgensen,LPF,-,-,-,18
+Manatee,513,President,,Jo Jorgensen,LPF,-,-,-,7
+Manatee,515,President,,Jo Jorgensen,LPF,-,-,-,38
+Manatee,517,President,,Jo Jorgensen,LPF,-,-,-,28
+Manatee,519,President,,Jo Jorgensen,LPF,-,-,-,36
+Manatee,521,President,,Jo Jorgensen,LPF,-,-,-,17
+Manatee,523,President,,Jo Jorgensen,LPF,-,-,-,28
+Manatee,525,President,,Jo Jorgensen,LPF,-,-,-,20
+Manatee,527,President,,Jo Jorgensen,LPF,-,-,-,10
+Manatee,101,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Manatee,103,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,107,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,111,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,117,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
-Manatee,119,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,121,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Manatee,117,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
+Manatee,119,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,121,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Manatee,123,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,125,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,127,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Manatee,127,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
 Manatee,129,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,131,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,133,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,135,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,137,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
-Manatee,139,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Manatee,135,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,137,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Manatee,139,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
 Manatee,141,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,201,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Manatee,201,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Manatee,203,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,205,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,207,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,209,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
+Manatee,209,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
 Manatee,211,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,213,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Manatee,213,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Manatee,215,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,217,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,219,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,221,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,223,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Manatee,221,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,223,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Manatee,301,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,303,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,305,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Manatee,303,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,305,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Manatee,307,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,309,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,311,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
-Manatee,313,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,315,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,317,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,321,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,323,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,325,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,327,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
-Manatee,329,President,,"Roque ""Rocky"" De La Fuente",REF,,,,5
+Manatee,309,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,311,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Manatee,313,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,315,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,317,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,321,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,323,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,325,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,327,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Manatee,329,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,5
 Manatee,331,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,333,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,401,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,403,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
+Manatee,333,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,401,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,403,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
 Manatee,405,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,407,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,409,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
-Manatee,411,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,413,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,415,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
-Manatee,417,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
+Manatee,409,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Manatee,411,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,413,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,415,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Manatee,417,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
 Manatee,419,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
 Manatee,421,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,501,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,503,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,505,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,507,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,509,President,,"Roque ""Rocky"" De La Fuente",REF,,,,4
-Manatee,511,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,513,President,,"Roque ""Rocky"" De La Fuente",REF,,,,3
-Manatee,515,President,,"Roque ""Rocky"" De La Fuente",REF,,,,5
+Manatee,501,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,503,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,505,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,507,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,509,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,4
+Manatee,511,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,513,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,3
+Manatee,515,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,5
 Manatee,517,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,519,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Manatee,519,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Manatee,521,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0
-Manatee,523,President,,"Roque ""Rocky"" De La Fuente",REF,,,,2
-Manatee,525,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
-Manatee,527,President,,"Roque ""Rocky"" De La Fuente",REF,,,,1
+Manatee,523,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,2
+Manatee,525,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
+Manatee,527,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,1
 Manatee,101,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,103,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,107,President,,Gloria La Riva,PSL,,,,1
+Manatee,107,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,111,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,117,President,,Gloria La Riva,PSL,,,,2
-Manatee,119,President,,Gloria La Riva,PSL,,,,1
-Manatee,121,President,,Gloria La Riva,PSL,,,,1
-Manatee,123,President,,Gloria La Riva,PSL,,,,2
-Manatee,125,President,,Gloria La Riva,PSL,,,,2
-Manatee,127,President,,Gloria La Riva,PSL,,,,2
-Manatee,129,President,,Gloria La Riva,PSL,,,,2
-Manatee,131,President,,Gloria La Riva,PSL,,,,1
-Manatee,133,President,,Gloria La Riva,PSL,,,,1
-Manatee,135,President,,Gloria La Riva,PSL,,,,1
+Manatee,117,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,119,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,121,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,123,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,125,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,127,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,129,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,131,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,133,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,135,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,137,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,139,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,141,President,,Gloria La Riva,PSL,,,,1
-Manatee,201,President,,Gloria La Riva,PSL,,,,2
+Manatee,141,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,201,President,,Gloria La Riva,PSL,-,-,-,2
 Manatee,203,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,205,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,207,President,,Gloria La Riva,PSL,,,,1
+Manatee,207,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,209,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,211,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,213,President,,Gloria La Riva,PSL,,,,6
+Manatee,213,President,,Gloria La Riva,PSL,-,-,-,6
 Manatee,215,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,217,President,,Gloria La Riva,PSL,,,,2
-Manatee,219,President,,Gloria La Riva,PSL,,,,1
-Manatee,221,President,,Gloria La Riva,PSL,,,,1
-Manatee,223,President,,Gloria La Riva,PSL,,,,2
+Manatee,217,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,219,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,221,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,223,President,,Gloria La Riva,PSL,-,-,-,2
 Manatee,301,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,303,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,305,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,307,President,,Gloria La Riva,PSL,,,,1
-Manatee,309,President,,Gloria La Riva,PSL,,,,1
+Manatee,307,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,309,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,311,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,313,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,315,President,,Gloria La Riva,PSL,,,,1
+Manatee,315,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,317,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,321,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,323,President,,Gloria La Riva,PSL,,,,1
+Manatee,323,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,325,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,327,President,,Gloria La Riva,PSL,,,,1
-Manatee,329,President,,Gloria La Riva,PSL,,,,1
-Manatee,331,President,,Gloria La Riva,PSL,,,,1
-Manatee,333,President,,Gloria La Riva,PSL,,,,2
-Manatee,401,President,,Gloria La Riva,PSL,,,,3
+Manatee,327,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,329,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,331,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,333,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,401,President,,Gloria La Riva,PSL,-,-,-,3
 Manatee,403,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,405,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,407,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,409,President,,Gloria La Riva,PSL,,,,6
-Manatee,411,President,,Gloria La Riva,PSL,,,,6
+Manatee,409,President,,Gloria La Riva,PSL,-,-,-,6
+Manatee,411,President,,Gloria La Riva,PSL,-,-,-,6
 Manatee,413,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,415,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,417,President,,Gloria La Riva,PSL,,,,3
+Manatee,417,President,,Gloria La Riva,PSL,-,-,-,3
 Manatee,419,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,421,President,,Gloria La Riva,PSL,,,,2
-Manatee,501,President,,Gloria La Riva,PSL,,,,2
-Manatee,503,President,,Gloria La Riva,PSL,,,,3
-Manatee,505,President,,Gloria La Riva,PSL,,,,1
-Manatee,507,President,,Gloria La Riva,PSL,,,,2
-Manatee,509,President,,Gloria La Riva,PSL,,,,3
-Manatee,511,President,,Gloria La Riva,PSL,,,,1
+Manatee,421,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,501,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,503,President,,Gloria La Riva,PSL,-,-,-,3
+Manatee,505,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,507,President,,Gloria La Riva,PSL,-,-,-,2
+Manatee,509,President,,Gloria La Riva,PSL,-,-,-,3
+Manatee,511,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,513,President,,Gloria La Riva,PSL,0,0,0,0
 Manatee,515,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,517,President,,Gloria La Riva,PSL,,,,1
-Manatee,519,President,,Gloria La Riva,PSL,,,,2
+Manatee,517,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,519,President,,Gloria La Riva,PSL,-,-,-,2
 Manatee,521,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,523,President,,Gloria La Riva,PSL,,,,1
-Manatee,525,President,,Gloria La Riva,PSL,,,,1
+Manatee,523,President,,Gloria La Riva,PSL,-,-,-,1
+Manatee,525,President,,Gloria La Riva,PSL,-,-,-,1
 Manatee,527,President,,Gloria La Riva,PSL,0,0,0,0
-Manatee,101,President,,Howie Hawkins,GRE,,,,6
-Manatee,103,President,,Howie Hawkins,GRE,,,,1
-Manatee,107,President,,Howie Hawkins,GRE,,,,1
-Manatee,111,President,,Howie Hawkins,GRE,,,,1
-Manatee,117,President,,Howie Hawkins,GRE,,,,3
-Manatee,119,President,,Howie Hawkins,GRE,,,,2
-Manatee,121,President,,Howie Hawkins,GRE,,,,2
-Manatee,123,President,,Howie Hawkins,GRE,,,,4
-Manatee,125,President,,Howie Hawkins,GRE,,,,1
-Manatee,127,President,,Howie Hawkins,GRE,,,,13
-Manatee,129,President,,Howie Hawkins,GRE,,,,1
-Manatee,131,President,,Howie Hawkins,GRE,,,,6
-Manatee,133,President,,Howie Hawkins,GRE,,,,1
-Manatee,135,President,,Howie Hawkins,GRE,,,,4
-Manatee,137,President,,Howie Hawkins,GRE,,,,2
-Manatee,139,President,,Howie Hawkins,GRE,,,,9
+Manatee,101,President,,Howie Hawkins,GRE,-,-,-,6
+Manatee,103,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,107,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,111,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,117,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,119,President,,Howie Hawkins,GRE,-,-,-,2
+Manatee,121,President,,Howie Hawkins,GRE,-,-,-,2
+Manatee,123,President,,Howie Hawkins,GRE,-,-,-,4
+Manatee,125,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,127,President,,Howie Hawkins,GRE,-,-,-,13
+Manatee,129,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,131,President,,Howie Hawkins,GRE,-,-,-,6
+Manatee,133,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,135,President,,Howie Hawkins,GRE,-,-,-,4
+Manatee,137,President,,Howie Hawkins,GRE,-,-,-,2
+Manatee,139,President,,Howie Hawkins,GRE,-,-,-,9
 Manatee,141,President,,Howie Hawkins,GRE,0,0,0,0
 Manatee,201,President,,Howie Hawkins,GRE,0,0,0,0
-Manatee,203,President,,Howie Hawkins,GRE,,,,3
-Manatee,205,President,,Howie Hawkins,GRE,,,,1
+Manatee,203,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,205,President,,Howie Hawkins,GRE,-,-,-,1
 Manatee,207,President,,Howie Hawkins,GRE,0,0,0,0
-Manatee,209,President,,Howie Hawkins,GRE,,,,3
-Manatee,211,President,,Howie Hawkins,GRE,,,,3
-Manatee,213,President,,Howie Hawkins,GRE,,,,5
-Manatee,215,President,,Howie Hawkins,GRE,,,,1
-Manatee,217,President,,Howie Hawkins,GRE,,,,5
-Manatee,219,President,,Howie Hawkins,GRE,,,,5
-Manatee,221,President,,Howie Hawkins,GRE,,,,5
-Manatee,223,President,,Howie Hawkins,GRE,,,,4
+Manatee,209,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,211,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,213,President,,Howie Hawkins,GRE,-,-,-,5
+Manatee,215,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,217,President,,Howie Hawkins,GRE,-,-,-,5
+Manatee,219,President,,Howie Hawkins,GRE,-,-,-,5
+Manatee,221,President,,Howie Hawkins,GRE,-,-,-,5
+Manatee,223,President,,Howie Hawkins,GRE,-,-,-,4
 Manatee,301,President,,Howie Hawkins,GRE,0,0,0,0
-Manatee,303,President,,Howie Hawkins,GRE,,,,3
+Manatee,303,President,,Howie Hawkins,GRE,-,-,-,3
 Manatee,305,President,,Howie Hawkins,GRE,0,0,0,0
 Manatee,307,President,,Howie Hawkins,GRE,0,0,0,0
-Manatee,309,President,,Howie Hawkins,GRE,,,,1
-Manatee,311,President,,Howie Hawkins,GRE,,,,7
+Manatee,309,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,311,President,,Howie Hawkins,GRE,-,-,-,7
 Manatee,313,President,,Howie Hawkins,GRE,0,0,0,0
-Manatee,315,President,,Howie Hawkins,GRE,,,,7
-Manatee,317,President,,Howie Hawkins,GRE,,,,5
+Manatee,315,President,,Howie Hawkins,GRE,-,-,-,7
+Manatee,317,President,,Howie Hawkins,GRE,-,-,-,5
 Manatee,321,President,,Howie Hawkins,GRE,0,0,0,0
-Manatee,323,President,,Howie Hawkins,GRE,,,,4
-Manatee,325,President,,Howie Hawkins,GRE,,,,5
-Manatee,327,President,,Howie Hawkins,GRE,,,,7
-Manatee,329,President,,Howie Hawkins,GRE,,,,7
-Manatee,331,President,,Howie Hawkins,GRE,,,,3
-Manatee,333,President,,Howie Hawkins,GRE,,,,8
-Manatee,401,President,,Howie Hawkins,GRE,,,,7
-Manatee,403,President,,Howie Hawkins,GRE,,,,8
-Manatee,405,President,,Howie Hawkins,GRE,,,,1
-Manatee,407,President,,Howie Hawkins,GRE,,,,2
-Manatee,409,President,,Howie Hawkins,GRE,,,,4
-Manatee,411,President,,Howie Hawkins,GRE,,,,7
-Manatee,413,President,,Howie Hawkins,GRE,,,,3
-Manatee,415,President,,Howie Hawkins,GRE,,,,5
-Manatee,417,President,,Howie Hawkins,GRE,,,,4
-Manatee,419,President,,Howie Hawkins,GRE,,,,3
-Manatee,421,President,,Howie Hawkins,GRE,,,,8
-Manatee,501,President,,Howie Hawkins,GRE,,,,7
-Manatee,503,President,,Howie Hawkins,GRE,,,,6
-Manatee,505,President,,Howie Hawkins,GRE,,,,2
-Manatee,507,President,,Howie Hawkins,GRE,,,,2
-Manatee,509,President,,Howie Hawkins,GRE,,,,3
-Manatee,511,President,,Howie Hawkins,GRE,,,,3
-Manatee,513,President,,Howie Hawkins,GRE,,,,1
-Manatee,515,President,,Howie Hawkins,GRE,,,,4
-Manatee,517,President,,Howie Hawkins,GRE,,,,10
-Manatee,519,President,,Howie Hawkins,GRE,,,,5
-Manatee,521,President,,Howie Hawkins,GRE,,,,4
-Manatee,523,President,,Howie Hawkins,GRE,,,,7
-Manatee,525,President,,Howie Hawkins,GRE,,,,3
+Manatee,323,President,,Howie Hawkins,GRE,-,-,-,4
+Manatee,325,President,,Howie Hawkins,GRE,-,-,-,5
+Manatee,327,President,,Howie Hawkins,GRE,-,-,-,7
+Manatee,329,President,,Howie Hawkins,GRE,-,-,-,7
+Manatee,331,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,333,President,,Howie Hawkins,GRE,-,-,-,8
+Manatee,401,President,,Howie Hawkins,GRE,-,-,-,7
+Manatee,403,President,,Howie Hawkins,GRE,-,-,-,8
+Manatee,405,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,407,President,,Howie Hawkins,GRE,-,-,-,2
+Manatee,409,President,,Howie Hawkins,GRE,-,-,-,4
+Manatee,411,President,,Howie Hawkins,GRE,-,-,-,7
+Manatee,413,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,415,President,,Howie Hawkins,GRE,-,-,-,5
+Manatee,417,President,,Howie Hawkins,GRE,-,-,-,4
+Manatee,419,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,421,President,,Howie Hawkins,GRE,-,-,-,8
+Manatee,501,President,,Howie Hawkins,GRE,-,-,-,7
+Manatee,503,President,,Howie Hawkins,GRE,-,-,-,6
+Manatee,505,President,,Howie Hawkins,GRE,-,-,-,2
+Manatee,507,President,,Howie Hawkins,GRE,-,-,-,2
+Manatee,509,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,511,President,,Howie Hawkins,GRE,-,-,-,3
+Manatee,513,President,,Howie Hawkins,GRE,-,-,-,1
+Manatee,515,President,,Howie Hawkins,GRE,-,-,-,4
+Manatee,517,President,,Howie Hawkins,GRE,-,-,-,10
+Manatee,519,President,,Howie Hawkins,GRE,-,-,-,5
+Manatee,521,President,,Howie Hawkins,GRE,-,-,-,4
+Manatee,523,President,,Howie Hawkins,GRE,-,-,-,7
+Manatee,525,President,,Howie Hawkins,GRE,-,-,-,3
 Manatee,527,President,,Howie Hawkins,GRE,0,0,0,0
 Manatee,101,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,103,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,107,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,111,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,117,President,,Don Blankenship,CPF,,,,3
+Manatee,117,President,,Don Blankenship,CPF,-,-,-,3
 Manatee,119,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,121,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,123,President,,Don Blankenship,CPF,,,,2
+Manatee,123,President,,Don Blankenship,CPF,-,-,-,2
 Manatee,125,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,127,President,,Don Blankenship,CPF,,,,2
-Manatee,129,President,,Don Blankenship,CPF,,,,1
-Manatee,131,President,,Don Blankenship,CPF,,,,1
+Manatee,127,President,,Don Blankenship,CPF,-,-,-,2
+Manatee,129,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,131,President,,Don Blankenship,CPF,-,-,-,1
 Manatee,133,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,135,President,,Don Blankenship,CPF,,,,1
+Manatee,135,President,,Don Blankenship,CPF,-,-,-,1
 Manatee,137,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,139,President,,Don Blankenship,CPF,,,,4
+Manatee,139,President,,Don Blankenship,CPF,-,-,-,4
 Manatee,141,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,201,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,203,President,,Don Blankenship,CPF,,,,1
-Manatee,205,President,,Don Blankenship,CPF,,,,1
-Manatee,207,President,,Don Blankenship,CPF,,,,1
+Manatee,203,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,205,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,207,President,,Don Blankenship,CPF,-,-,-,1
 Manatee,209,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,211,President,,Don Blankenship,CPF,,,,1
-Manatee,213,President,,Don Blankenship,CPF,,,,4
-Manatee,215,President,,Don Blankenship,CPF,,,,1
-Manatee,217,President,,Don Blankenship,CPF,,,,3
-Manatee,219,President,,Don Blankenship,CPF,,,,1
-Manatee,221,President,,Don Blankenship,CPF,,,,2
+Manatee,211,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,213,President,,Don Blankenship,CPF,-,-,-,4
+Manatee,215,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,217,President,,Don Blankenship,CPF,-,-,-,3
+Manatee,219,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,221,President,,Don Blankenship,CPF,-,-,-,2
 Manatee,223,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,301,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,303,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,305,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,307,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,309,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,311,President,,Don Blankenship,CPF,,,,2
+Manatee,311,President,,Don Blankenship,CPF,-,-,-,2
 Manatee,313,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,315,President,,Don Blankenship,CPF,,,,2
+Manatee,315,President,,Don Blankenship,CPF,-,-,-,2
 Manatee,317,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,321,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,323,President,,Don Blankenship,CPF,,,,6
-Manatee,325,President,,Don Blankenship,CPF,,,,2
-Manatee,327,President,,Don Blankenship,CPF,,,,2
-Manatee,329,President,,Don Blankenship,CPF,,,,2
+Manatee,323,President,,Don Blankenship,CPF,-,-,-,6
+Manatee,325,President,,Don Blankenship,CPF,-,-,-,2
+Manatee,327,President,,Don Blankenship,CPF,-,-,-,2
+Manatee,329,President,,Don Blankenship,CPF,-,-,-,2
 Manatee,331,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,333,President,,Don Blankenship,CPF,,,,1
-Manatee,401,President,,Don Blankenship,CPF,,,,3
-Manatee,403,President,,Don Blankenship,CPF,,,,2
+Manatee,333,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,401,President,,Don Blankenship,CPF,-,-,-,3
+Manatee,403,President,,Don Blankenship,CPF,-,-,-,2
 Manatee,405,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,407,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,409,President,,Don Blankenship,CPF,,,,1
-Manatee,411,President,,Don Blankenship,CPF,,,,1
+Manatee,409,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,411,President,,Don Blankenship,CPF,-,-,-,1
 Manatee,413,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,415,President,,Don Blankenship,CPF,,,,1
-Manatee,417,President,,Don Blankenship,CPF,,,,1
-Manatee,419,President,,Don Blankenship,CPF,,,,4
-Manatee,421,President,,Don Blankenship,CPF,,,,1
-Manatee,501,President,,Don Blankenship,CPF,,,,1
-Manatee,503,President,,Don Blankenship,CPF,,,,1
-Manatee,505,President,,Don Blankenship,CPF,,,,1
-Manatee,507,President,,Don Blankenship,CPF,,,,1
+Manatee,415,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,417,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,419,President,,Don Blankenship,CPF,-,-,-,4
+Manatee,421,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,501,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,503,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,505,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,507,President,,Don Blankenship,CPF,-,-,-,1
 Manatee,509,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,511,President,,Don Blankenship,CPF,,,,1
-Manatee,513,President,,Don Blankenship,CPF,,,,1
+Manatee,511,President,,Don Blankenship,CPF,-,-,-,1
+Manatee,513,President,,Don Blankenship,CPF,-,-,-,1
 Manatee,515,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,517,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,519,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,521,President,,Don Blankenship,CPF,,,,1
+Manatee,521,President,,Don Blankenship,CPF,-,-,-,1
 Manatee,523,President,,Don Blankenship,CPF,0,0,0,0
 Manatee,525,President,,Don Blankenship,CPF,0,0,0,0
-Manatee,527,President,,Don Blankenship,CPF,,,,2
-Manatee,101,President,,WRITE-IN,NPA,,,,10
-Manatee,103,President,,WRITE-IN,NPA,,,,4
-Manatee,107,President,,WRITE-IN,NPA,,,,1
-Manatee,111,President,,WRITE-IN,NPA,,,,1
-Manatee,117,President,,WRITE-IN,NPA,,,,20
-Manatee,119,President,,WRITE-IN,NPA,,,,4
-Manatee,121,President,,WRITE-IN,NPA,,,,10
-Manatee,123,President,,WRITE-IN,NPA,,,,10
-Manatee,125,President,,WRITE-IN,NPA,,,,2
-Manatee,127,President,,WRITE-IN,NPA,,,,14
-Manatee,129,President,,WRITE-IN,NPA,,,,7
-Manatee,131,President,,WRITE-IN,NPA,,,,12
-Manatee,133,President,,WRITE-IN,NPA,,,,2
-Manatee,135,President,,WRITE-IN,NPA,,,,20
-Manatee,137,President,,WRITE-IN,NPA,,,,13
-Manatee,139,President,,WRITE-IN,NPA,,,,16
-Manatee,141,President,,WRITE-IN,NPA,,,,2
-Manatee,201,President,,WRITE-IN,NPA,,,,1
-Manatee,203,President,,WRITE-IN,NPA,,,,1
-Manatee,205,President,,WRITE-IN,NPA,,,,3
-Manatee,207,President,,WRITE-IN,NPA,,,,12
-Manatee,209,President,,WRITE-IN,NPA,,,,5
-Manatee,211,President,,WRITE-IN,NPA,,,,4
-Manatee,213,President,,WRITE-IN,NPA,,,,11
-Manatee,215,President,,WRITE-IN,NPA,,,,3
-Manatee,217,President,,WRITE-IN,NPA,,,,9
-Manatee,219,President,,WRITE-IN,NPA,,,,7
-Manatee,221,President,,WRITE-IN,NPA,,,,7
-Manatee,223,President,,WRITE-IN,NPA,,,,7
-Manatee,301,President,,WRITE-IN,NPA,,,,1
-Manatee,303,President,,WRITE-IN,NPA,,,,3
-Manatee,305,President,,WRITE-IN,NPA,,,,1
-Manatee,307,President,,WRITE-IN,NPA,,,,3
-Manatee,309,President,,WRITE-IN,NPA,,,,6
-Manatee,311,President,,WRITE-IN,NPA,,,,12
-Manatee,313,President,,WRITE-IN,NPA,,,,7
-Manatee,315,President,,WRITE-IN,NPA,,,,9
-Manatee,317,President,,WRITE-IN,NPA,,,,11
+Manatee,527,President,,Don Blankenship,CPF,-,-,-,2
+Manatee,101,President,,WRITE-IN,NPA,-,-,-,10
+Manatee,103,President,,WRITE-IN,NPA,-,-,-,4
+Manatee,107,President,,WRITE-IN,NPA,-,-,-,1
+Manatee,111,President,,WRITE-IN,NPA,-,-,-,1
+Manatee,117,President,,WRITE-IN,NPA,-,-,-,20
+Manatee,119,President,,WRITE-IN,NPA,-,-,-,4
+Manatee,121,President,,WRITE-IN,NPA,-,-,-,10
+Manatee,123,President,,WRITE-IN,NPA,-,-,-,10
+Manatee,125,President,,WRITE-IN,NPA,-,-,-,2
+Manatee,127,President,,WRITE-IN,NPA,-,-,-,14
+Manatee,129,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,131,President,,WRITE-IN,NPA,-,-,-,12
+Manatee,133,President,,WRITE-IN,NPA,-,-,-,2
+Manatee,135,President,,WRITE-IN,NPA,-,-,-,20
+Manatee,137,President,,WRITE-IN,NPA,-,-,-,13
+Manatee,139,President,,WRITE-IN,NPA,-,-,-,16
+Manatee,141,President,,WRITE-IN,NPA,-,-,-,2
+Manatee,201,President,,WRITE-IN,NPA,-,-,-,1
+Manatee,203,President,,WRITE-IN,NPA,-,-,-,1
+Manatee,205,President,,WRITE-IN,NPA,-,-,-,3
+Manatee,207,President,,WRITE-IN,NPA,-,-,-,12
+Manatee,209,President,,WRITE-IN,NPA,-,-,-,5
+Manatee,211,President,,WRITE-IN,NPA,-,-,-,4
+Manatee,213,President,,WRITE-IN,NPA,-,-,-,11
+Manatee,215,President,,WRITE-IN,NPA,-,-,-,3
+Manatee,217,President,,WRITE-IN,NPA,-,-,-,9
+Manatee,219,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,221,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,223,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,301,President,,WRITE-IN,NPA,-,-,-,1
+Manatee,303,President,,WRITE-IN,NPA,-,-,-,3
+Manatee,305,President,,WRITE-IN,NPA,-,-,-,1
+Manatee,307,President,,WRITE-IN,NPA,-,-,-,3
+Manatee,309,President,,WRITE-IN,NPA,-,-,-,6
+Manatee,311,President,,WRITE-IN,NPA,-,-,-,12
+Manatee,313,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,315,President,,WRITE-IN,NPA,-,-,-,9
+Manatee,317,President,,WRITE-IN,NPA,-,-,-,11
 Manatee,321,President,,WRITE-IN,NPA,0,0,0,0
-Manatee,323,President,,WRITE-IN,NPA,,,,7
-Manatee,325,President,,WRITE-IN,NPA,,,,6
-Manatee,327,President,,WRITE-IN,NPA,,,,11
-Manatee,329,President,,WRITE-IN,NPA,,,,3
-Manatee,331,President,,WRITE-IN,NPA,,,,7
-Manatee,333,President,,WRITE-IN,NPA,,,,15
-Manatee,401,President,,WRITE-IN,NPA,,,,8
-Manatee,403,President,,WRITE-IN,NPA,,,,5
-Manatee,405,President,,WRITE-IN,NPA,,,,2
+Manatee,323,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,325,President,,WRITE-IN,NPA,-,-,-,6
+Manatee,327,President,,WRITE-IN,NPA,-,-,-,11
+Manatee,329,President,,WRITE-IN,NPA,-,-,-,3
+Manatee,331,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,333,President,,WRITE-IN,NPA,-,-,-,15
+Manatee,401,President,,WRITE-IN,NPA,-,-,-,8
+Manatee,403,President,,WRITE-IN,NPA,-,-,-,5
+Manatee,405,President,,WRITE-IN,NPA,-,-,-,2
 Manatee,407,President,,WRITE-IN,NPA,0,0,0,0
-Manatee,409,President,,WRITE-IN,NPA,,,,4
-Manatee,411,President,,WRITE-IN,NPA,,,,4
-Manatee,413,President,,WRITE-IN,NPA,,,,6
-Manatee,415,President,,WRITE-IN,NPA,,,,9
-Manatee,417,President,,WRITE-IN,NPA,,,,12
-Manatee,419,President,,WRITE-IN,NPA,,,,8
-Manatee,421,President,,WRITE-IN,NPA,,,,6
-Manatee,501,President,,WRITE-IN,NPA,,,,19
-Manatee,503,President,,WRITE-IN,NPA,,,,11
-Manatee,505,President,,WRITE-IN,NPA,,,,9
-Manatee,507,President,,WRITE-IN,NPA,,,,5
-Manatee,509,President,,WRITE-IN,NPA,,,,5
-Manatee,511,President,,WRITE-IN,NPA,,,,6
-Manatee,513,President,,WRITE-IN,NPA,,,,4
-Manatee,515,President,,WRITE-IN,NPA,,,,12
-Manatee,517,President,,WRITE-IN,NPA,,,,21
-Manatee,519,President,,WRITE-IN,NPA,,,,12
-Manatee,521,President,,WRITE-IN,NPA,,,,19
-Manatee,523,President,,WRITE-IN,NPA,,,,15
-Manatee,525,President,,WRITE-IN,NPA,,,,7
-Manatee,527,President,,WRITE-IN,NPA,,,,2
+Manatee,409,President,,WRITE-IN,NPA,-,-,-,4
+Manatee,411,President,,WRITE-IN,NPA,-,-,-,4
+Manatee,413,President,,WRITE-IN,NPA,-,-,-,6
+Manatee,415,President,,WRITE-IN,NPA,-,-,-,9
+Manatee,417,President,,WRITE-IN,NPA,-,-,-,12
+Manatee,419,President,,WRITE-IN,NPA,-,-,-,8
+Manatee,421,President,,WRITE-IN,NPA,-,-,-,6
+Manatee,501,President,,WRITE-IN,NPA,-,-,-,19
+Manatee,503,President,,WRITE-IN,NPA,-,-,-,11
+Manatee,505,President,,WRITE-IN,NPA,-,-,-,9
+Manatee,507,President,,WRITE-IN,NPA,-,-,-,5
+Manatee,509,President,,WRITE-IN,NPA,-,-,-,5
+Manatee,511,President,,WRITE-IN,NPA,-,-,-,6
+Manatee,513,President,,WRITE-IN,NPA,-,-,-,4
+Manatee,515,President,,WRITE-IN,NPA,-,-,-,12
+Manatee,517,President,,WRITE-IN,NPA,-,-,-,21
+Manatee,519,President,,WRITE-IN,NPA,-,-,-,12
+Manatee,521,President,,WRITE-IN,NPA,-,-,-,19
+Manatee,523,President,,WRITE-IN,NPA,-,-,-,15
+Manatee,525,President,,WRITE-IN,NPA,-,-,-,7
+Manatee,527,President,,WRITE-IN,NPA,-,-,-,2
 Manatee,101,U.S. House,16,Vern Buchanan,REP,1003,1286,639,2928
 Manatee,103,U.S. House,16,Vern Buchanan,REP,204,277,103,584
 Manatee,107,U.S. House,16,Vern Buchanan,REP,249,331,353,933
@@ -578,7 +578,7 @@ Manatee,139,U.S. House,16,Vern Buchanan,REP,1761,2555,847,5163
 Manatee,141,U.S. House,16,Vern Buchanan,REP,141,132,222,495
 Manatee,201,U.S. House,16,Vern Buchanan,REP,435,406,213,1054
 Manatee,203,U.S. House,16,Vern Buchanan,REP,271,341,156,768
-Manatee,205,U.S. House,16,Vern Buchanan,REP,,,,88
+Manatee,205,U.S. House,16,Vern Buchanan,REP,-,-,-,88
 Manatee,207,U.S. House,16,Vern Buchanan,REP,543,518,189,1250
 Manatee,209,U.S. House,16,Vern Buchanan,REP,179,220,101,500
 Manatee,211,U.S. House,16,Vern Buchanan,REP,345,528,170,1043
@@ -597,7 +597,7 @@ Manatee,311,U.S. House,16,Vern Buchanan,REP,1109,912,759,2780
 Manatee,313,U.S. House,16,Vern Buchanan,REP,839,549,456,1844
 Manatee,315,U.S. House,16,Vern Buchanan,REP,841,717,428,1986
 Manatee,317,U.S. House,16,Vern Buchanan,REP,829,717,725,2271
-Manatee,321,U.S. House,16,Vern Buchanan,REP,,,,236
+Manatee,321,U.S. House,16,Vern Buchanan,REP,-,-,-,236
 Manatee,323,U.S. House,16,Vern Buchanan,REP,889,752,462,2103
 Manatee,325,U.S. House,16,Vern Buchanan,REP,835,567,329,1731
 Manatee,327,U.S. House,16,Vern Buchanan,REP,941,825,628,2394
@@ -630,14 +630,14 @@ Manatee,523,U.S. House,16,Vern Buchanan,REP,847,1111,444,2402
 Manatee,525,U.S. House,16,Vern Buchanan,REP,887,1016,665,2568
 Manatee,527,U.S. House,16,Vern Buchanan,REP,323,331,819,1473
 Manatee,101,U.S. House,16,Margaret Good,DEM,879,525,173,1577
-Manatee,103,U.S. House,16,Margaret Good,DEM,,,,349
+Manatee,103,U.S. House,16,Margaret Good,DEM,-,-,-,349
 Manatee,107,U.S. House,16,Margaret Good,DEM,207,148,82,437
 Manatee,111,U.S. House,16,Margaret Good,DEM,272,186,35,493
 Manatee,117,U.S. House,16,Margaret Good,DEM,1480,775,360,2615
 Manatee,119,U.S. House,16,Margaret Good,DEM,295,151,80,526
 Manatee,121,U.S. House,16,Margaret Good,DEM,965,455,102,1522
 Manatee,123,U.S. House,16,Margaret Good,DEM,829,553,120,1502
-Manatee,125,U.S. House,16,Margaret Good,DEM,,,,698
+Manatee,125,U.S. House,16,Margaret Good,DEM,-,-,-,698
 Manatee,127,U.S. House,16,Margaret Good,DEM,1163,533,165,1861
 Manatee,129,U.S. House,16,Margaret Good,DEM,256,99,50,405
 Manatee,131,U.S. House,16,Margaret Good,DEM,1026,434,173,1633
@@ -645,7 +645,7 @@ Manatee,133,U.S. House,16,Margaret Good,DEM,188,53,47,288
 Manatee,135,U.S. House,16,Margaret Good,DEM,1193,447,119,1759
 Manatee,137,U.S. House,16,Margaret Good,DEM,815,457,124,1396
 Manatee,139,U.S. House,16,Margaret Good,DEM,1290,734,175,2199
-Manatee,141,U.S. House,16,Margaret Good,DEM,,,,92
+Manatee,141,U.S. House,16,Margaret Good,DEM,-,-,-,92
 Manatee,201,U.S. House,16,Margaret Good,DEM,413,172,88,673
 Manatee,203,U.S. House,16,Margaret Good,DEM,229,149,59,437
 Manatee,205,U.S. House,16,Margaret Good,DEM,351,290,202,843
@@ -667,7 +667,7 @@ Manatee,311,U.S. House,16,Margaret Good,DEM,1033,365,205,1603
 Manatee,313,U.S. House,16,Margaret Good,DEM,707,164,104,975
 Manatee,315,U.S. House,16,Margaret Good,DEM,932,333,151,1416
 Manatee,317,U.S. House,16,Margaret Good,DEM,741,252,220,1213
-Manatee,321,U.S. House,16,Margaret Good,DEM,,,,193
+Manatee,321,U.S. House,16,Margaret Good,DEM,-,-,-,193
 Manatee,323,U.S. House,16,Margaret Good,DEM,1124,335,148,1607
 Manatee,325,U.S. House,16,Margaret Good,DEM,796,221,81,1098
 Manatee,327,U.S. House,16,Margaret Good,DEM,966,384,214,1564
@@ -676,7 +676,7 @@ Manatee,331,U.S. House,16,Margaret Good,DEM,630,209,139,978
 Manatee,333,U.S. House,16,Margaret Good,DEM,1263,396,231,1890
 Manatee,401,U.S. House,16,Margaret Good,DEM,605,308,272,1185
 Manatee,403,U.S. House,16,Margaret Good,DEM,901,334,169,1404
-Manatee,405,U.S. House,16,Margaret Good,DEM,,,,260
+Manatee,405,U.S. House,16,Margaret Good,DEM,-,-,-,260
 Manatee,407,U.S. House,16,Margaret Good,DEM,247,71,31,349
 Manatee,409,U.S. House,16,Margaret Good,DEM,666,164,128,958
 Manatee,411,U.S. House,16,Margaret Good,DEM,717,269,148,1134
@@ -695,7 +695,7 @@ Manatee,513,U.S. House,16,Margaret Good,DEM,944,175,109,1228
 Manatee,515,U.S. House,16,Margaret Good,DEM,1502,663,131,2296
 Manatee,517,U.S. House,16,Margaret Good,DEM,1549,629,74,2252
 Manatee,519,U.S. House,16,Margaret Good,DEM,1906,797,174,2877
-Manatee,521,U.S. House,16,Margaret Good,DEM,,,,2056
+Manatee,521,U.S. House,16,Margaret Good,DEM,-,-,-,2056
 Manatee,523,U.S. House,16,Margaret Good,DEM,1034,462,126,1622
 Manatee,525,U.S. House,16,Margaret Good,DEM,462,202,95,759
 Manatee,527,U.S. House,16,Margaret Good,DEM,189,68,77,334
@@ -718,7 +718,7 @@ Manatee,139,State Senate,21,Jim Boyd,REP,1821,2592,849,5262
 Manatee,141,State Senate,21,Jim Boyd,REP,148,133,220,501
 Manatee,201,State Senate,21,Jim Boyd,REP,443,407,208,1058
 Manatee,203,State Senate,21,Jim Boyd,REP,274,349,154,777
-Manatee,205,State Senate,21,Jim Boyd,REP,,,,85
+Manatee,205,State Senate,21,Jim Boyd,REP,-,-,-,85
 Manatee,207,State Senate,21,Jim Boyd,REP,551,519,196,1266
 Manatee,209,State Senate,21,Jim Boyd,REP,192,231,101,524
 Manatee,211,State Senate,21,Jim Boyd,REP,362,531,172,1065
@@ -737,7 +737,7 @@ Manatee,311,State Senate,21,Jim Boyd,REP,1213,944,776,2933
 Manatee,313,State Senate,21,Jim Boyd,REP,861,561,455,1877
 Manatee,315,State Senate,21,Jim Boyd,REP,892,736,443,2071
 Manatee,317,State Senate,21,Jim Boyd,REP,908,743,749,2400
-Manatee,321,State Senate,21,Jim Boyd,REP,,,,243
+Manatee,321,State Senate,21,Jim Boyd,REP,-,-,-,243
 Manatee,323,State Senate,21,Jim Boyd,REP,941,773,474,2188
 Manatee,325,State Senate,21,Jim Boyd,REP,886,579,339,1804
 Manatee,327,State Senate,21,Jim Boyd,REP,1002,842,641,2485
@@ -770,14 +770,14 @@ Manatee,523,State Senate,21,Jim Boyd,REP,891,1106,454,2451
 Manatee,525,State Senate,21,Jim Boyd,REP,898,1010,663,2571
 Manatee,527,State Senate,21,Jim Boyd,REP,330,323,816,1469
 Manatee,101,State Senate,21,"Anthony ""Tony"" Eldon",DEM,786,451,166,1403
-Manatee,103,State Senate,21,"Anthony ""Tony"" Eldon",DEM,,,,319
+Manatee,103,State Senate,21,"Anthony ""Tony"" Eldon",DEM,-,-,-,319
 Manatee,107,State Senate,21,"Anthony ""Tony"" Eldon",DEM,199,137,63,399
 Manatee,111,State Senate,21,"Anthony ""Tony"" Eldon",DEM,262,171,35,468
 Manatee,117,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1404,735,330,2469
 Manatee,119,State Senate,21,"Anthony ""Tony"" Eldon",DEM,268,134,67,469
 Manatee,121,State Senate,21,"Anthony ""Tony"" Eldon",DEM,900,429,94,1423
 Manatee,123,State Senate,21,"Anthony ""Tony"" Eldon",DEM,780,530,111,1421
-Manatee,125,State Senate,21,"Anthony ""Tony"" Eldon",DEM,,,,666
+Manatee,125,State Senate,21,"Anthony ""Tony"" Eldon",DEM,-,-,-,666
 Manatee,127,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1098,503,158,1759
 Manatee,129,State Senate,21,"Anthony ""Tony"" Eldon",DEM,241,92,45,378
 Manatee,131,State Senate,21,"Anthony ""Tony"" Eldon",DEM,969,408,145,1522
@@ -785,7 +785,7 @@ Manatee,133,State Senate,21,"Anthony ""Tony"" Eldon",DEM,177,49,40,266
 Manatee,135,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1112,403,104,1619
 Manatee,137,State Senate,21,"Anthony ""Tony"" Eldon",DEM,738,425,116,1279
 Manatee,139,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1198,671,156,2025
-Manatee,141,State Senate,21,"Anthony ""Tony"" Eldon",DEM,,,,82
+Manatee,141,State Senate,21,"Anthony ""Tony"" Eldon",DEM,-,-,-,82
 Manatee,201,State Senate,21,"Anthony ""Tony"" Eldon",DEM,392,167,85,644
 Manatee,203,State Senate,21,"Anthony ""Tony"" Eldon",DEM,216,135,54,405
 Manatee,205,State Senate,21,"Anthony ""Tony"" Eldon",DEM,348,287,201,836
@@ -807,7 +807,7 @@ Manatee,311,State Senate,21,"Anthony ""Tony"" Eldon",DEM,894,322,171,1387
 Manatee,313,State Senate,21,"Anthony ""Tony"" Eldon",DEM,666,151,93,910
 Manatee,315,State Senate,21,"Anthony ""Tony"" Eldon",DEM,856,303,128,1287
 Manatee,317,State Senate,21,"Anthony ""Tony"" Eldon",DEM,652,218,188,1058
-Manatee,321,State Senate,21,"Anthony ""Tony"" Eldon",DEM,,,,169
+Manatee,321,State Senate,21,"Anthony ""Tony"" Eldon",DEM,-,-,-,169
 Manatee,323,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1046,302,126,1474
 Manatee,325,State Senate,21,"Anthony ""Tony"" Eldon",DEM,720,201,69,990
 Manatee,327,State Senate,21,"Anthony ""Tony"" Eldon",DEM,885,350,177,1412
@@ -816,7 +816,7 @@ Manatee,331,State Senate,21,"Anthony ""Tony"" Eldon",DEM,591,193,118,902
 Manatee,333,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1138,352,202,1692
 Manatee,401,State Senate,21,"Anthony ""Tony"" Eldon",DEM,576,292,257,1125
 Manatee,403,State Senate,21,"Anthony ""Tony"" Eldon",DEM,860,311,158,1329
-Manatee,405,State Senate,21,"Anthony ""Tony"" Eldon",DEM,,,,238
+Manatee,405,State Senate,21,"Anthony ""Tony"" Eldon",DEM,-,-,-,238
 Manatee,407,State Senate,21,"Anthony ""Tony"" Eldon",DEM,230,70,30,330
 Manatee,409,State Senate,21,"Anthony ""Tony"" Eldon",DEM,639,154,119,912
 Manatee,411,State Senate,21,"Anthony ""Tony"" Eldon",DEM,692,260,134,1086
@@ -835,7 +835,7 @@ Manatee,513,State Senate,21,"Anthony ""Tony"" Eldon",DEM,902,168,106,1176
 Manatee,515,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1410,625,122,2157
 Manatee,517,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1489,596,68,2153
 Manatee,519,State Senate,21,"Anthony ""Tony"" Eldon",DEM,1802,739,153,2694
-Manatee,521,State Senate,21,"Anthony ""Tony"" Eldon",DEM,,,,1908
+Manatee,521,State Senate,21,"Anthony ""Tony"" Eldon",DEM,-,-,-,1908
 Manatee,523,State Senate,21,"Anthony ""Tony"" Eldon",DEM,963,448,106,1517
 Manatee,525,State Senate,21,"Anthony ""Tony"" Eldon",DEM,436,198,80,714
 Manatee,527,State Senate,21,"Anthony ""Tony"" Eldon",DEM,178,66,68,312
@@ -856,7 +856,7 @@ Manatee,311,State House,71,Will Robinson,REP,1200,934,770,2904
 Manatee,313,State House,71,Will Robinson,REP,844,551,447,1842
 Manatee,315,State House,71,Will Robinson,REP,859,718,444,2021
 Manatee,317,State House,71,Will Robinson,REP,887,736,738,2361
-Manatee,321,State House,71,Will Robinson,REP,,,,233
+Manatee,321,State House,71,Will Robinson,REP,-,-,-,233
 Manatee,323,State House,71,Will Robinson,REP,912,761,466,2139
 Manatee,325,State House,71,Will Robinson,REP,873,574,332,1779
 Manatee,327,State House,71,Will Robinson,REP,985,814,626,2425
@@ -873,10 +873,10 @@ Manatee,413,State House,71,Will Robinson,REP,532,494,548,1574
 Manatee,415,State House,71,Will Robinson,REP,0,0,0,0
 Manatee,421,State House,71,Will Robinson,REP,389,294,436,1119
 Manatee,101,State House,71,Andy Mele,DEM,816,496,169,1481
-Manatee,103,State House,71,Andy Mele,DEM,,,,225
+Manatee,103,State House,71,Andy Mele,DEM,-,-,-,225
 Manatee,107,State House,71,Andy Mele,DEM,197,141,68,406
 Manatee,201,State House,71,Andy Mele,DEM,406,165,89,660
-Manatee,207,State House,71,Andy Mele,DEM,,,,99
+Manatee,207,State House,71,Andy Mele,DEM,-,-,-,99
 Manatee,213,State House,71,Andy Mele,DEM,706,316,180,1202
 Manatee,219,State House,71,Andy Mele,DEM,767,252,164,1183
 Manatee,221,State House,71,Andy Mele,DEM,813,330,259,1402
@@ -889,7 +889,7 @@ Manatee,311,State House,71,Andy Mele,DEM,916,337,181,1434
 Manatee,313,State House,71,Andy Mele,DEM,687,152,98,937
 Manatee,315,State House,71,Andy Mele,DEM,889,316,128,1333
 Manatee,317,State House,71,Andy Mele,DEM,675,226,196,1097
-Manatee,321,State House,71,Andy Mele,DEM,,,,183
+Manatee,321,State House,71,Andy Mele,DEM,-,-,-,183
 Manatee,323,State House,71,Andy Mele,DEM,1075,305,136,1516
 Manatee,325,State House,71,Andy Mele,DEM,737,205,71,1013
 Manatee,327,State House,71,Andy Mele,DEM,903,376,186,1465
@@ -898,7 +898,7 @@ Manatee,331,State House,71,Andy Mele,DEM,598,196,123,917
 Manatee,333,State House,71,Andy Mele,DEM,1159,374,218,1751
 Manatee,401,State House,71,Andy Mele,DEM,584,296,273,1153
 Manatee,403,State House,71,Andy Mele,DEM,868,316,160,1344
-Manatee,405,State House,71,Andy Mele,DEM,,,,242
+Manatee,405,State House,71,Andy Mele,DEM,-,-,-,242
 Manatee,407,State House,71,Andy Mele,DEM,234,72,32,338
 Manatee,409,State House,71,Andy Mele,DEM,641,156,129,926
 Manatee,411,State House,71,Andy Mele,DEM,700,257,136,1093
@@ -941,7 +941,7 @@ Manatee,117,State House,73,David Reeves Fairey,DEM,1424,750,329,2503
 Manatee,119,State House,73,David Reeves Fairey,DEM,277,138,73,488
 Manatee,121,State House,73,David Reeves Fairey,DEM,911,424,94,1429
 Manatee,123,State House,73,David Reeves Fairey,DEM,785,532,120,1437
-Manatee,125,State House,73,David Reeves Fairey,DEM,,,,674
+Manatee,125,State House,73,David Reeves Fairey,DEM,-,-,-,674
 Manatee,127,State House,73,David Reeves Fairey,DEM,1089,511,157,1757
 Manatee,129,State House,73,David Reeves Fairey,DEM,248,93,43,384
 Manatee,131,State House,73,David Reeves Fairey,DEM,993,420,149,1562
@@ -949,8 +949,8 @@ Manatee,133,State House,73,David Reeves Fairey,DEM,180,45,45,270
 Manatee,135,State House,73,David Reeves Fairey,DEM,1128,432,104,1664
 Manatee,137,State House,73,David Reeves Fairey,DEM,741,440,101,1282
 Manatee,139,State House,73,David Reeves Fairey,DEM,1210,687,162,2059
-Manatee,141,State House,73,David Reeves Fairey,DEM,,,,82
-Manatee,207,State House,73,David Reeves Fairey,DEM,,,,133
+Manatee,141,State House,73,David Reeves Fairey,DEM,-,-,-,82
+Manatee,207,State House,73,David Reeves Fairey,DEM,-,-,-,133
 Manatee,211,State House,73,David Reeves Fairey,DEM,282,140,42,464
 Manatee,217,State House,73,David Reeves Fairey,DEM,359,176,90,625
 Manatee,417,State House,73,David Reeves Fairey,DEM,1156,458,242,1856
@@ -965,7 +965,7 @@ Manatee,513,State House,73,David Reeves Fairey,DEM,919,167,108,1194
 Manatee,515,State House,73,David Reeves Fairey,DEM,1452,638,118,2208
 Manatee,517,State House,73,David Reeves Fairey,DEM,1498,601,70,2169
 Manatee,519,State House,73,David Reeves Fairey,DEM,1828,743,151,2722
-Manatee,521,State House,73,David Reeves Fairey,DEM,,,,1961
+Manatee,521,State House,73,David Reeves Fairey,DEM,-,-,-,1961
 Manatee,523,State House,73,David Reeves Fairey,DEM,965,448,109,1522
 Manatee,525,State House,73,David Reeves Fairey,DEM,439,189,85,713
 Manatee,527,State House,73,David Reeves Fairey,DEM,180,64,68,312
