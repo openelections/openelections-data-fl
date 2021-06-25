@@ -2,41 +2,41 @@ county,precinct,office,district,candidate,party,provisional,mail,early_voting,el
 Baker,Sanderson 1A,President,,Donald J. Trump,REP,0,220,707,377,1304
 Baker,South Macclenny 2A,President,,Donald J. Trump,REP,0,422,1177,517,2116
 Baker,North Macclenny 3A,President,,Donald J. Trump,REP,0,412,1372,602,2386
-Baker,Baxter 4A,President,,Donald J. Trump,REP,,,,,173
+Baker,Baxter 4A,President,,Donald J. Trump,REP,-,-,-,-,173
 Baker,Taylor 4B,President,,Donald J. Trump,REP,0,82,129,275,486
 Baker,Macedonia 4C,President,,Donald J. Trump,REP,0,294,1017,371,1682
 Baker,Cuyler 4D,President,,Donald J. Trump,REP,0,123,324,359,806
 Baker,Glen St. Mary 5A,President,,Donald J. Trump,REP,0,480,1621,706,2807
-Baker,Olustee 6A,President,,Donald J. Trump,REP,,,,,151
+Baker,Olustee 6A,President,,Donald J. Trump,REP,-,-,-,-,151
 Baker,Sanderson 1A,President,,Joseph R. Biden,DEM,0,165,188,214,567
 Baker,South Macclenny 2A,President,,Joseph R. Biden,DEM,0,170,191,147,508
 Baker,North Macclenny 3A,President,,Joseph R. Biden,DEM,0,138,187,72,397
-Baker,Baxter 4A,President,,Joseph R. Biden,DEM,,,,,8
-Baker,Taylor 4B,President,,Joseph R. Biden,DEM,,,,,35
-Baker,Macedonia 4C,President,,Joseph R. Biden,DEM,,,,,170
-Baker,Cuyler 4D,President,,Joseph R. Biden,DEM,,,,,61
+Baker,Baxter 4A,President,,Joseph R. Biden,DEM,-,-,-,-,8
+Baker,Taylor 4B,President,,Joseph R. Biden,DEM,-,-,-,-,35
+Baker,Macedonia 4C,President,,Joseph R. Biden,DEM,-,-,-,-,170
+Baker,Cuyler 4D,President,,Joseph R. Biden,DEM,-,-,-,-,61
 Baker,Glen St. Mary 5A,President,,Joseph R. Biden,DEM,0,114,70,37,221
-Baker,Olustee 6A,President,,Joseph R. Biden,DEM,,,,,70
-Baker,Sanderson 1A,President,,Jo Jorgensen,LPF,,,,,14
-Baker,South Macclenny 2A,President,,Jo Jorgensen,LPF,,,,,15
-Baker,North Macclenny 3A,President,,Jo Jorgensen,LPF,,,,,19
-Baker,Baxter 4A,President,,Jo Jorgensen,LPF,,,,,1
-Baker,Taylor 4B,President,,Jo Jorgensen,LPF,,,,,5
-Baker,Macedonia 4C,President,,Jo Jorgensen,LPF,,,,,10
-Baker,Cuyler 4D,President,,Jo Jorgensen,LPF,,,,,5
-Baker,Glen St. Mary 5A,President,,Jo Jorgensen,LPF,,,,,23
-Baker,Olustee 6A,President,,Jo Jorgensen,LPF,,,,,1
+Baker,Olustee 6A,President,,Joseph R. Biden,DEM,-,-,-,-,70
+Baker,Sanderson 1A,President,,Jo Jorgensen,LPF,-,-,-,-,14
+Baker,South Macclenny 2A,President,,Jo Jorgensen,LPF,-,-,-,-,15
+Baker,North Macclenny 3A,President,,Jo Jorgensen,LPF,-,-,-,-,19
+Baker,Baxter 4A,President,,Jo Jorgensen,LPF,-,-,-,-,1
+Baker,Taylor 4B,President,,Jo Jorgensen,LPF,-,-,-,-,5
+Baker,Macedonia 4C,President,,Jo Jorgensen,LPF,-,-,-,-,10
+Baker,Cuyler 4D,President,,Jo Jorgensen,LPF,-,-,-,-,5
+Baker,Glen St. Mary 5A,President,,Jo Jorgensen,LPF,-,-,-,-,23
+Baker,Olustee 6A,President,,Jo Jorgensen,LPF,-,-,-,-,1
 Baker,Sanderson 1A,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
-Baker,South Macclenny 2A,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
-Baker,North Macclenny 3A,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
-Baker,Baxter 4A,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Baker,South Macclenny 2A,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
+Baker,North Macclenny 3A,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
+Baker,Baxter 4A,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
 Baker,Taylor 4B,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
 Baker,Macedonia 4C,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
 Baker,Cuyler 4D,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
-Baker,Glen St. Mary 5A,President,,"Roque ""Rocky"" De La Fuente",REF,,,,,1
+Baker,Glen St. Mary 5A,President,,"Roque ""Rocky"" De La Fuente",REF,-,-,-,-,1
 Baker,Olustee 6A,President,,"Roque ""Rocky"" De La Fuente",REF,0,0,0,0,0
-Baker,Sanderson 1A,President,,Gloria La Riva,PSL,,,,,1
-Baker,South Macclenny 2A,President,,Gloria La Riva,PSL,,,,,2
+Baker,Sanderson 1A,President,,Gloria La Riva,PSL,-,-,-,-,1
+Baker,South Macclenny 2A,President,,Gloria La Riva,PSL,-,-,-,-,2
 Baker,North Macclenny 3A,President,,Gloria La Riva,PSL,0,0,0,0,0
 Baker,Baxter 4A,President,,Gloria La Riva,PSL,0,0,0,0,0
 Baker,Taylor 4B,President,,Gloria La Riva,PSL,0,0,0,0,0
@@ -44,17 +44,17 @@ Baker,Macedonia 4C,President,,Gloria La Riva,PSL,0,0,0,0,0
 Baker,Cuyler 4D,President,,Gloria La Riva,PSL,0,0,0,0,0
 Baker,Glen St. Mary 5A,President,,Gloria La Riva,PSL,0,0,0,0,0
 Baker,Olustee 6A,President,,Gloria La Riva,PSL,0,0,0,0,0
-Baker,Sanderson 1A,President,,Howie Hawkins,GRE,,,,,1
-Baker,South Macclenny 2A,President,,Howie Hawkins,GRE,,,,,4
+Baker,Sanderson 1A,President,,Howie Hawkins,GRE,-,-,-,-,1
+Baker,South Macclenny 2A,President,,Howie Hawkins,GRE,-,-,-,-,4
 Baker,North Macclenny 3A,President,,Howie Hawkins,GRE,0,0,0,0,0
 Baker,Baxter 4A,President,,Howie Hawkins,GRE,0,0,0,0,0
 Baker,Taylor 4B,President,,Howie Hawkins,GRE,0,0,0,0,0
 Baker,Macedonia 4C,President,,Howie Hawkins,GRE,0,0,0,0,0
 Baker,Cuyler 4D,President,,Howie Hawkins,GRE,0,0,0,0,0
-Baker,Glen St. Mary 5A,President,,Howie Hawkins,GRE,,,,,5
+Baker,Glen St. Mary 5A,President,,Howie Hawkins,GRE,-,-,-,-,5
 Baker,Olustee 6A,President,,Howie Hawkins,GRE,0,0,0,0,0
 Baker,Sanderson 1A,President,,Don Blankenship,CPF,0,0,0,0,0
-Baker,South Macclenny 2A,President,,Don Blankenship,CPF,,,,,1
+Baker,South Macclenny 2A,President,,Don Blankenship,CPF,-,-,-,-,1
 Baker,North Macclenny 3A,President,,Don Blankenship,CPF,0,0,0,0,0
 Baker,Baxter 4A,President,,Don Blankenship,CPF,0,0,0,0,0
 Baker,Taylor 4B,President,,Don Blankenship,CPF,0,0,0,0,0
@@ -62,52 +62,52 @@ Baker,Macedonia 4C,President,,Don Blankenship,CPF,0,0,0,0,0
 Baker,Cuyler 4D,President,,Don Blankenship,CPF,0,0,0,0,0
 Baker,Glen St. Mary 5A,President,,Don Blankenship,CPF,0,0,0,0,0
 Baker,Olustee 6A,President,,Don Blankenship,CPF,0,0,0,0,0
-Baker,Sanderson 1A,President,,Write-in,,,,,,5
-Baker,South Macclenny 2A,President,,Write-in,,,,,,2
-Baker,North Macclenny 3A,President,,Write-in,,,,,,3
+Baker,Sanderson 1A,President,,Write-in,,-,-,-,-,5
+Baker,South Macclenny 2A,President,,Write-in,,-,-,-,-,2
+Baker,North Macclenny 3A,President,,Write-in,,-,-,-,-,3
 Baker,Baxter 4A,President,,Write-in,,0,0,0,0,0
 Baker,Taylor 4B,President,,Write-in,,0,0,0,0,0
-Baker,Macedonia 4C,President,,Write-in,,,,,,3
-Baker,Cuyler 4D,President,,Write-in,,,,,,2
-Baker,Glen St. Mary 5A,President,,Write-in,,,,,,7
-Baker,Olustee 6A,President,,Write-in,,,,,,1
-Baker,Sanderson 1A,President,,OVER VOTES,STATS,,,,,8
-Baker,South Macclenny 2A,President,,OVER VOTES,STATS,,,,,4
+Baker,Macedonia 4C,President,,Write-in,,-,-,-,-,3
+Baker,Cuyler 4D,President,,Write-in,,-,-,-,-,2
+Baker,Glen St. Mary 5A,President,,Write-in,,-,-,-,-,7
+Baker,Olustee 6A,President,,Write-in,,-,-,-,-,1
+Baker,Sanderson 1A,President,,OVER VOTES,STATS,-,-,-,-,8
+Baker,South Macclenny 2A,President,,OVER VOTES,STATS,-,-,-,-,4
 Baker,North Macclenny 3A,President,,OVER VOTES,STATS,0,0,0,0,0
 Baker,Baxter 4A,President,,OVER VOTES,STATS,0,0,0,0,0
 Baker,Taylor 4B,President,,OVER VOTES,STATS,0,0,0,0,0
-Baker,Macedonia 4C,President,,OVER VOTES,STATS,,,,,2
-Baker,Cuyler 4D,President,,OVER VOTES,STATS,,,,,1
-Baker,Glen St. Mary 5A,President,,OVER VOTES,STATS,,,,,2
+Baker,Macedonia 4C,President,,OVER VOTES,STATS,-,-,-,-,2
+Baker,Cuyler 4D,President,,OVER VOTES,STATS,-,-,-,-,1
+Baker,Glen St. Mary 5A,President,,OVER VOTES,STATS,-,-,-,-,2
 Baker,Olustee 6A,President,,OVER VOTES,STATS,0,0,0,0,0
-Baker,Sanderson 1A,President,,UNDER VOTES,STATS,,,,,11
-Baker,South Macclenny 2A,President,,UNDER VOTES,STATS,,,,,6
-Baker,North Macclenny 3A,President,,UNDER VOTES,STATS,,,,,6
+Baker,Sanderson 1A,President,,UNDER VOTES,STATS,-,-,-,-,11
+Baker,South Macclenny 2A,President,,UNDER VOTES,STATS,-,-,-,-,6
+Baker,North Macclenny 3A,President,,UNDER VOTES,STATS,-,-,-,-,6
 Baker,Baxter 4A,President,,UNDER VOTES,STATS,0,0,0,0,0
 Baker,Taylor 4B,President,,UNDER VOTES,STATS,0,0,0,0,0
-Baker,Macedonia 4C,President,,UNDER VOTES,STATS,,,,,4
-Baker,Cuyler 4D,President,,UNDER VOTES,STATS,,,,,1
-Baker,Glen St. Mary 5A,President,,UNDER VOTES,STATS,,,,,7
+Baker,Macedonia 4C,President,,UNDER VOTES,STATS,-,-,-,-,4
+Baker,Cuyler 4D,President,,UNDER VOTES,STATS,-,-,-,-,1
+Baker,Glen St. Mary 5A,President,,UNDER VOTES,STATS,-,-,-,-,7
 Baker,Olustee 6A,President,,UNDER VOTES,STATS,0,0,0,0,0
 Baker,Sanderson 1A,U.S. House,5,Gary Adler,REP,0,200,672,342,1214
 Baker,South Macclenny 2A,U.S. House,5,Gary Adler,REP,0,391,1131,486,2008
 Baker,North Macclenny 3A,U.S. House,5,Gary Adler,REP,0,374,1317,559,2250
-Baker,Baxter 4A,U.S. House,5,Gary Adler,REP,,,,,161
+Baker,Baxter 4A,U.S. House,5,Gary Adler,REP,-,-,-,-,161
 Baker,Taylor 4B,U.S. House,5,Gary Adler,REP,0,80,126,265,471
 Baker,Macedonia 4C,U.S. House,5,Gary Adler,REP,0,288,986,345,1619
 Baker,Cuyler 4D,U.S. House,5,Gary Adler,REP,0,115,318,342,775
 Baker,Glen St. Mary 5A,U.S. House,5,Gary Adler,REP,0,458,1547,678,2683
-Baker,Olustee 6A,U.S. House,5,Gary Adler,REP,,,,,148
+Baker,Olustee 6A,U.S. House,5,Gary Adler,REP,-,-,-,-,148
 Baker,Sanderson 1A,U.S. House,5,Al Lawson,DEM,0,198,219,241,658
 Baker,South Macclenny 2A,U.S. House,5,Al Lawson,DEM,0,195,217,171,583
 Baker,North Macclenny 3A,U.S. House,5,Al Lawson,DEM,0,169,217,98,484
-Baker,Baxter 4A,U.S. House,5,Al Lawson,DEM,,,,,16
-Baker,Taylor 4B,U.S. House,5,Al Lawson,DEM,,,,,50
+Baker,Baxter 4A,U.S. House,5,Al Lawson,DEM,-,-,-,-,16
+Baker,Taylor 4B,U.S. House,5,Al Lawson,DEM,-,-,-,-,50
 Baker,Macedonia 4C,U.S. House,5,Al Lawson,DEM,0,87,82,38,207
-Baker,Cuyler 4D,U.S. House,5,Al Lawson,DEM,,,,,83
+Baker,Cuyler 4D,U.S. House,5,Al Lawson,DEM,-,-,-,-,83
 Baker,Glen St. Mary 5A,U.S. House,5,Al Lawson,DEM,0,130,130,65,325
-Baker,Olustee 6A,U.S. House,5,Al Lawson,DEM,,,,,70
-Baker,Sanderson 1A,U.S. House,5,OVER VOTES,STATS,,,,,2
+Baker,Olustee 6A,U.S. House,5,Al Lawson,DEM,-,-,-,-,70
+Baker,Sanderson 1A,U.S. House,5,OVER VOTES,STATS,-,-,-,-,2
 Baker,South Macclenny 2A,U.S. House,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,North Macclenny 3A,U.S. House,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Baxter 4A,U.S. House,5,OVER VOTES,STATS,0,0,0,0,0
@@ -116,34 +116,34 @@ Baker,Macedonia 4C,U.S. House,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Cuyler 4D,U.S. House,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Glen St. Mary 5A,U.S. House,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Olustee 6A,U.S. House,5,OVER VOTES,STATS,0,0,0,0,0
-Baker,Sanderson 1A,U.S. House,5,UNDER VOTES,STATS,,,,,37
-Baker,South Macclenny 2A,U.S. House,5,UNDER VOTES,STATS,,,,,68
-Baker,North Macclenny 3A,U.S. House,5,UNDER VOTES,STATS,,,,,78
-Baker,Baxter 4A,U.S. House,5,UNDER VOTES,STATS,,,,,6
-Baker,Taylor 4B,U.S. House,5,UNDER VOTES,STATS,,,,,5
-Baker,Macedonia 4C,U.S. House,5,UNDER VOTES,STATS,,,,,45
-Baker,Cuyler 4D,U.S. House,5,UNDER VOTES,STATS,,,,,18
-Baker,Glen St. Mary 5A,U.S. House,5,UNDER VOTES,STATS,,,,,65
-Baker,Olustee 6A,U.S. House,5,UNDER VOTES,STATS,,,,,5
+Baker,Sanderson 1A,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,37
+Baker,South Macclenny 2A,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,68
+Baker,North Macclenny 3A,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,78
+Baker,Baxter 4A,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,6
+Baker,Taylor 4B,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,5
+Baker,Macedonia 4C,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,45
+Baker,Cuyler 4D,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,18
+Baker,Glen St. Mary 5A,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,65
+Baker,Olustee 6A,U.S. House,5,UNDER VOTES,STATS,-,-,-,-,5
 Baker,Sanderson 1A,State Senate,5,Jennifer Bradley,REP,0,225,697,368,1290
 Baker,South Macclenny 2A,State Senate,5,Jennifer Bradley,REP,0,403,1154,501,2058
 Baker,North Macclenny 3A,State Senate,5,Jennifer Bradley,REP,0,410,1333,576,2319
-Baker,Baxter 4A,State Senate,5,Jennifer Bradley,REP,,,,,169
+Baker,Baxter 4A,State Senate,5,Jennifer Bradley,REP,-,-,-,-,169
 Baker,Taylor 4B,State Senate,5,Jennifer Bradley,REP,0,82,125,267,474
 Baker,Macedonia 4C,State Senate,5,Jennifer Bradley,REP,0,297,993,362,1652
 Baker,Cuyler 4D,State Senate,5,Jennifer Bradley,REP,0,122,318,354,794
 Baker,Glen St. Mary 5A,State Senate,5,Jennifer Bradley,REP,0,472,1592,685,2749
-Baker,Olustee 6A,State Senate,5,Jennifer Bradley,REP,,,,,141
+Baker,Olustee 6A,State Senate,5,Jennifer Bradley,REP,-,-,-,-,141
 Baker,Sanderson 1A,State Senate,5,Melina Rayna Barratt,DEM,0,164,182,206,552
 Baker,South Macclenny 2A,State Senate,5,Melina Rayna Barratt,DEM,0,173,185,146,504
 Baker,North Macclenny 3A,State Senate,5,Melina Rayna Barratt,DEM,0,128,186,78,392
-Baker,Baxter 4A,State Senate,5,Melina Rayna Barratt,DEM,,,,,9
-Baker,Taylor 4B,State Senate,5,Melina Rayna Barratt,DEM,,,,,41
-Baker,Macedonia 4C,State Senate,5,Melina Rayna Barratt,DEM,,,,,158
-Baker,Cuyler 4D,State Senate,5,Melina Rayna Barratt,DEM,,,,,57
+Baker,Baxter 4A,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,9
+Baker,Taylor 4B,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,41
+Baker,Macedonia 4C,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,158
+Baker,Cuyler 4D,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,57
 Baker,Glen St. Mary 5A,State Senate,5,Melina Rayna Barratt,DEM,0,110,71,52,233
-Baker,Olustee 6A,State Senate,5,Melina Rayna Barratt,DEM,,,,,71
-Baker,Sanderson 1A,State Senate,5,OVER VOTES,STATS,,,,,1
+Baker,Olustee 6A,State Senate,5,Melina Rayna Barratt,DEM,-,-,-,-,71
+Baker,Sanderson 1A,State Senate,5,OVER VOTES,STATS,-,-,-,-,1
 Baker,South Macclenny 2A,State Senate,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,North Macclenny 3A,State Senate,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Baxter 4A,State Senate,5,OVER VOTES,STATS,0,0,0,0,0
@@ -152,34 +152,34 @@ Baker,Macedonia 4C,State Senate,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Cuyler 4D,State Senate,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Glen St. Mary 5A,State Senate,5,OVER VOTES,STATS,0,0,0,0,0
 Baker,Olustee 6A,State Senate,5,OVER VOTES,STATS,0,0,0,0,0
-Baker,Sanderson 1A,State Senate,5,UNDER VOTES,STATS,,,,,68
-Baker,South Macclenny 2A,State Senate,5,UNDER VOTES,STATS,,,,,97
-Baker,North Macclenny 3A,State Senate,5,UNDER VOTES,STATS,,,,,101
-Baker,Baxter 4A,State Senate,5,UNDER VOTES,STATS,,,,,5
-Baker,Taylor 4B,State Senate,5,UNDER VOTES,STATS,,,,,11
-Baker,Macedonia 4C,State Senate,5,UNDER VOTES,STATS,,,,,61
-Baker,Cuyler 4D,State Senate,5,UNDER VOTES,STATS,,,,,25
-Baker,Glen St. Mary 5A,State Senate,5,UNDER VOTES,STATS,,,,,91
-Baker,Olustee 6A,State Senate,5,UNDER VOTES,STATS,,,,,11
+Baker,Sanderson 1A,State Senate,5,UNDER VOTES,STATS,-,-,-,-,68
+Baker,South Macclenny 2A,State Senate,5,UNDER VOTES,STATS,-,-,-,-,97
+Baker,North Macclenny 3A,State Senate,5,UNDER VOTES,STATS,-,-,-,-,101
+Baker,Baxter 4A,State Senate,5,UNDER VOTES,STATS,-,-,-,-,5
+Baker,Taylor 4B,State Senate,5,UNDER VOTES,STATS,-,-,-,-,11
+Baker,Macedonia 4C,State Senate,5,UNDER VOTES,STATS,-,-,-,-,61
+Baker,Cuyler 4D,State Senate,5,UNDER VOTES,STATS,-,-,-,-,25
+Baker,Glen St. Mary 5A,State Senate,5,UNDER VOTES,STATS,-,-,-,-,91
+Baker,Olustee 6A,State Senate,5,UNDER VOTES,STATS,-,-,-,-,11
 Baker,Sanderson 1A,State House,10,Chuck Brannan,REP,0,243,715,382,1340
 Baker,South Macclenny 2A,State House,10,Chuck Brannan,REP,0,431,1170,535,2136
 Baker,North Macclenny 3A,State House,10,Chuck Brannan,REP,0,433,1392,610,2435
-Baker,Baxter 4A,State House,10,Chuck Brannan,REP,,,,,163
+Baker,Baxter 4A,State House,10,Chuck Brannan,REP,-,-,-,-,163
 Baker,Taylor 4B,State House,10,Chuck Brannan,REP,0,85,125,268,478
 Baker,Macedonia 4C,State House,10,Chuck Brannan,REP,0,304,1006,368,1678
 Baker,Cuyler 4D,State House,10,Chuck Brannan,REP,0,121,320,359,800
 Baker,Glen St. Mary 5A,State House,10,Chuck Brannan,REP,0,517,1602,697,2816
-Baker,Olustee 6A,State House,10,Chuck Brannan,REP,,,,,155
+Baker,Olustee 6A,State House,10,Chuck Brannan,REP,-,-,-,-,155
 Baker,Sanderson 1A,State House,10,Rock Aboujaoude Jr,DEM,0,154,171,201,526
 Baker,South Macclenny 2A,State House,10,Rock Aboujaoude Jr,DEM,0,155,171,124,450
 Baker,North Macclenny 3A,State House,10,Rock Aboujaoude Jr,DEM,0,105,156,62,323
-Baker,Baxter 4A,State House,10,Rock Aboujaoude Jr,DEM,,,,,16
-Baker,Taylor 4B,State House,10,Rock Aboujaoude Jr,DEM,,,,,43
-Baker,Macedonia 4C,State House,10,Rock Aboujaoude Jr,DEM,,,,,152
-Baker,Cuyler 4D,State House,10,Rock Aboujaoude Jr,DEM,,,,,57
+Baker,Baxter 4A,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,-,16
+Baker,Taylor 4B,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,-,43
+Baker,Macedonia 4C,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,-,152
+Baker,Cuyler 4D,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,-,57
 Baker,Glen St. Mary 5A,State House,10,Rock Aboujaoude Jr,DEM,0,76,80,49,205
-Baker,Olustee 6A,State House,10,Rock Aboujaoude Jr,DEM,,,,,58
-Baker,Sanderson 1A,State House,10,OVER VOTES,STATS,,,,,1
+Baker,Olustee 6A,State House,10,Rock Aboujaoude Jr,DEM,-,-,-,-,58
+Baker,Sanderson 1A,State House,10,OVER VOTES,STATS,-,-,-,-,1
 Baker,South Macclenny 2A,State House,10,OVER VOTES,STATS,0,0,0,0,0
 Baker,North Macclenny 3A,State House,10,OVER VOTES,STATS,0,0,0,0,0
 Baker,Baxter 4A,State House,10,OVER VOTES,STATS,0,0,0,0,0
@@ -188,12 +188,12 @@ Baker,Macedonia 4C,State House,10,OVER VOTES,STATS,0,0,0,0,0
 Baker,Cuyler 4D,State House,10,OVER VOTES,STATS,0,0,0,0,0
 Baker,Glen St. Mary 5A,State House,10,OVER VOTES,STATS,0,0,0,0,0
 Baker,Olustee 6A,State House,10,OVER VOTES,STATS,0,0,0,0,0
-Baker,Sanderson 1A,State House,10,UNDER VOTES,STATS,,,,,44
-Baker,South Macclenny 2A,State House,10,UNDER VOTES,STATS,,,,,73
-Baker,North Macclenny 3A,State House,10,UNDER VOTES,STATS,,,,,54
-Baker,Baxter 4A,State House,10,UNDER VOTES,STATS,,,,,4
-Baker,Taylor 4B,State House,10,UNDER VOTES,STATS,,,,,5
-Baker,Macedonia 4C,State House,10,UNDER VOTES,STATS,,,,,41
-Baker,Cuyler 4D,State House,10,UNDER VOTES,STATS,,,,,19
-Baker,Glen St. Mary 5A,State House,10,UNDER VOTES,STATS,,,,,52
-Baker,Olustee 6A,State House,10,UNDER VOTES,STATS,,,,,10
+Baker,Sanderson 1A,State House,10,UNDER VOTES,STATS,-,-,-,-,44
+Baker,South Macclenny 2A,State House,10,UNDER VOTES,STATS,-,-,-,-,73
+Baker,North Macclenny 3A,State House,10,UNDER VOTES,STATS,-,-,-,-,54
+Baker,Baxter 4A,State House,10,UNDER VOTES,STATS,-,-,-,-,4
+Baker,Taylor 4B,State House,10,UNDER VOTES,STATS,-,-,-,-,5
+Baker,Macedonia 4C,State House,10,UNDER VOTES,STATS,-,-,-,-,41
+Baker,Cuyler 4D,State House,10,UNDER VOTES,STATS,-,-,-,-,19
+Baker,Glen St. Mary 5A,State House,10,UNDER VOTES,STATS,-,-,-,-,52
+Baker,Olustee 6A,State House,10,UNDER VOTES,STATS,-,-,-,-,10
