@@ -1,0 +1,442 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
+Baker,Sanderson 1A,U.S. Senate,"",REP,Marco Rubio,1047,416,488,143
+Baker,South Macclenny 2A,U.S. Senate,"",REP,Marco Rubio,1679,718,712,249
+Baker,North Macclenny 3A,U.S. Senate,"",REP,Marco Rubio,1761,834,713,214
+Baker,Baxter 4A,U.S. Senate,"",REP,Marco Rubio,127,,,
+Baker,Taylor 4B,U.S. Senate,"",REP,Marco Rubio,384,73,258,53
+Baker,Macedonia 4C,U.S. Senate,"",REP,Marco Rubio,1443,730,530,183
+Baker,Cuyler 4D,U.S. Senate,"",REP,Marco Rubio,634,234,319,81
+Baker,Glen St. Mary 5A,U.S. Senate,"",REP,Marco Rubio,2228,990,925,313
+Baker,Olustee 6A,U.S. Senate,"",REP,Marco Rubio,128,,,
+Baker,Sanderson 1A,U.S. Senate,"",DEM,Val Demings,322,70,185,67
+Baker,South Macclenny 2A,U.S. Senate,"",DEM,Val Demings,270,75,127,68
+Baker,North Macclenny 3A,U.S. Senate,"",DEM,Val Demings,217,86,69,62
+Baker,Baxter 4A,U.S. Senate,"",DEM,Val Demings,9,,,
+Baker,Taylor 4B,U.S. Senate,"",DEM,Val Demings,23,,,
+Baker,Macedonia 4C,U.S. Senate,"",DEM,Val Demings,96,,,
+Baker,Cuyler 4D,U.S. Senate,"",DEM,Val Demings,42,,,
+Baker,Glen St. Mary 5A,U.S. Senate,"",DEM,Val Demings,159,50,55,54
+Baker,Olustee 6A,U.S. Senate,"",DEM,Val Demings,43,,,
+Baker,Sanderson 1A,U.S. Senate,"",LPF,Dennis Misigoy,9,,,
+Baker,South Macclenny 2A,U.S. Senate,"",LPF,Dennis Misigoy,6,,,
+Baker,North Macclenny 3A,U.S. Senate,"",LPF,Dennis Misigoy,12,,,
+Baker,Baxter 4A,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Baker,Taylor 4B,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Baker,Macedonia 4C,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
+Baker,Cuyler 4D,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Baker,Glen St. Mary 5A,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
+Baker,Olustee 6A,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Baker,Sanderson 1A,U.S. Senate,"",NPA,Steven B. Grant,9,,,
+Baker,South Macclenny 2A,U.S. Senate,"",NPA,Steven B. Grant,7,,,
+Baker,North Macclenny 3A,U.S. Senate,"",NPA,Steven B. Grant,8,,,
+Baker,Baxter 4A,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Baker,Taylor 4B,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Baker,Macedonia 4C,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Baker,Cuyler 4D,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Baker,Glen St. Mary 5A,U.S. Senate,"",NPA,Steven B. Grant,4,,,
+Baker,Olustee 6A,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Baker,Sanderson 1A,U.S. Senate,"",NPA,Tuan TQ Nquyen,1,,,
+Baker,South Macclenny 2A,U.S. Senate,"",NPA,Tuan TQ Nquyen,1,,,
+Baker,North Macclenny 3A,U.S. Senate,"",NPA,Tuan TQ Nquyen,2,,,
+Baker,Baxter 4A,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
+Baker,Taylor 4B,U.S. Senate,"",NPA,Tuan TQ Nquyen,2,,,
+Baker,Macedonia 4C,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
+Baker,Cuyler 4D,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
+Baker,Glen St. Mary 5A,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
+Baker,Olustee 6A,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
+Baker,Sanderson 1A,U.S. Senate,"","",Write-in,2,,,
+Baker,South Macclenny 2A,U.S. Senate,"","",Write-in,0,0,0,0
+Baker,North Macclenny 3A,U.S. Senate,"","",Write-in,0,0,0,0
+Baker,Baxter 4A,U.S. Senate,"","",Write-in,0,0,0,0
+Baker,Taylor 4B,U.S. Senate,"","",Write-in,0,0,0,0
+Baker,Macedonia 4C,U.S. Senate,"","",Write-in,0,0,0,0
+Baker,Cuyler 4D,U.S. Senate,"","",Write-in,0,0,0,0
+Baker,Glen St. Mary 5A,U.S. Senate,"","",Write-in,2,,,
+Baker,Olustee 6A,U.S. Senate,"","",Write-in,1,,,
+Baker,Sanderson 1A,U.S. House,3,REP,Kat Cammack,1040,418,484,138
+Baker,South Macclenny 2A,U.S. House,3,REP,Kat Cammack,1664,707,714,243
+Baker,North Macclenny 3A,U.S. House,3,REP,Kat Cammack,1766,831,722,213
+Baker,Baxter 4A,U.S. House,3,REP,Kat Cammack,129,,,
+Baker,Taylor 4B,U.S. House,3,REP,Kat Cammack,384,72,259,53
+Baker,Macedonia 4C,U.S. House,3,REP,Kat Cammack,1430,728,529,173
+Baker,Cuyler 4D,U.S. House,3,REP,Kat Cammack,625,232,315,78
+Baker,Glen St. Mary 5A,U.S. House,3,REP,Kat Cammack,2213,979,921,313
+Baker,Olustee 6A,U.S. House,3,REP,Kat Cammack,128,,,
+Baker,Sanderson 1A,U.S. House,3,DEM,Danielle Hawk,322,64,190,68
+Baker,South Macclenny 2A,U.S. House,3,DEM,Danielle Hawk,262,76,120,66
+Baker,North Macclenny 3A,U.S. House,3,DEM,Danielle Hawk,202,86,61,55
+Baker,Baxter 4A,U.S. House,3,DEM,Danielle Hawk,7,,,
+Baker,Taylor 4B,U.S. House,3,DEM,Danielle Hawk,24,,,
+Baker,Macedonia 4C,U.S. House,3,DEM,Danielle Hawk,86,,,
+Baker,Cuyler 4D,U.S. House,3,DEM,Danielle Hawk,42,,,
+Baker,Glen St. Mary 5A,U.S. House,3,DEM,Danielle Hawk,164,53,58,53
+Baker,Olustee 6A,U.S. House,3,DEM,Danielle Hawk,43,,,
+Baker,Sanderson 1A,U.S. House,3,NPA,Linda S. Brooks,18,,,
+Baker,South Macclenny 2A,U.S. House,3,NPA,Linda S. Brooks,15,,,
+Baker,North Macclenny 3A,U.S. House,3,NPA,Linda S. Brooks,18,,,
+Baker,Baxter 4A,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
+Baker,Taylor 4B,U.S. House,3,NPA,Linda S. Brooks,6,,,
+Baker,Macedonia 4C,U.S. House,3,NPA,Linda S. Brooks,7,,,
+Baker,Cuyler 4D,U.S. House,3,NPA,Linda S. Brooks,5,,,
+Baker,Glen St. Mary 5A,U.S. House,3,NPA,Linda S. Brooks,11,,,
+Baker,Olustee 6A,U.S. House,3,NPA,Linda S. Brooks,1,,,
+Baker,Sanderson 1A,Governor and Lieutenant Governor,"",REP,Ron DeSantis,1086,423,514,149
+Baker,South Macclenny 2A,Governor and Lieutenant Governor,"",REP,Ron DeSantis,1701,721,728,252
+Baker,North Macclenny 3A,Governor and Lieutenant Governor,"",REP,Ron DeSantis,1795,845,732,218
+Baker,Baxter 4A,Governor and Lieutenant Governor,"",REP,Ron DeSantis,130,,,
+Baker,Taylor 4B,Governor and Lieutenant Governor,"",REP,Ron DeSantis,390,76,259,55
+Baker,Macedonia 4C,Governor and Lieutenant Governor,"",REP,Ron DeSantis,1460,736,539,185
+Baker,Cuyler 4D,Governor and Lieutenant Governor,"",REP,Ron DeSantis,650,236,331,83
+Baker,Glen St. Mary 5A,Governor and Lieutenant Governor,"",REP,Ron DeSantis,2252,997,937,318
+Baker,Olustee 6A,Governor and Lieutenant Governor,"",REP,Ron DeSantis,130,,,
+Baker,Sanderson 1A,Governor and Lieutenant Governor,"",DEM,Charlie Crist,300,62,172,66
+Baker,South Macclenny 2A,Governor and Lieutenant Governor,"",DEM,Charlie Crist,256,73,117,66
+Baker,North Macclenny 3A,Governor and Lieutenant Governor,"",DEM,Charlie Crist,205,82,62,61
+Baker,Baxter 4A,Governor and Lieutenant Governor,"",DEM,Charlie Crist,7,,,
+Baker,Taylor 4B,Governor and Lieutenant Governor,"",DEM,Charlie Crist,22,,,
+Baker,Macedonia 4C,Governor and Lieutenant Governor,"",DEM,Charlie Crist,83,,,
+Baker,Cuyler 4D,Governor and Lieutenant Governor,"",DEM,Charlie Crist,32,,,
+Baker,Glen St. Mary 5A,Governor and Lieutenant Governor,"",DEM,Charlie Crist,145,45,49,51
+Baker,Olustee 6A,Governor and Lieutenant Governor,"",DEM,Charlie Crist,42,,,
+Baker,Sanderson 1A,Governor and Lieutenant Governor,"",LPF,Hector Roos,7,,,
+Baker,South Macclenny 2A,Governor and Lieutenant Governor,"",LPF,Hector Roos,5,,,
+Baker,North Macclenny 3A,Governor and Lieutenant Governor,"",LPF,Hector Roos,3,,,
+Baker,Baxter 4A,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Baker,Taylor 4B,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Baker,Macedonia 4C,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
+Baker,Cuyler 4D,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Baker,Glen St. Mary 5A,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Baker,Olustee 6A,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Baker,Sanderson 1A,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,6,,,
+Baker,South Macclenny 2A,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,7,,,
+Baker,North Macclenny 3A,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Baker,Baxter 4A,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Baker,Taylor 4B,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Baker,Macedonia 4C,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Baker,Cuyler 4D,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Baker,Glen St. Mary 5A,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,4,,,
+Baker,Olustee 6A,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Baker,Sanderson 1A,Attorney General,"",REP,Ashley Moody,1078,426,502,150
+Baker,South Macclenny 2A,Attorney General,"",REP,Ashley Moody,1679,714,714,251
+Baker,North Macclenny 3A,Attorney General,"",REP,Ashley Moody,1787,841,725,221
+Baker,Baxter 4A,Attorney General,"",REP,Ashley Moody,130,,,
+Baker,Taylor 4B,Attorney General,"",REP,Ashley Moody,390,76,261,53
+Baker,Macedonia 4C,Attorney General,"",REP,Ashley Moody,1448,732,535,181
+Baker,Cuyler 4D,Attorney General,"",REP,Ashley Moody,639,232,324,83
+Baker,Glen St. Mary 5A,Attorney General,"",REP,Ashley Moody,2237,990,932,315
+Baker,Olustee 6A,Attorney General,"",REP,Ashley Moody,135,,,
+Baker,Sanderson 1A,Attorney General,"",DEM,Aramis Ayala,309,65,178,66
+Baker,South Macclenny 2A,Attorney General,"",DEM,Aramis Ayala,261,71,123,67
+Baker,North Macclenny 3A,Attorney General,"",DEM,Aramis Ayala,192,81,59,52
+Baker,Baxter 4A,Attorney General,"",DEM,Aramis Ayala,5,,,
+Baker,Taylor 4B,Attorney General,"",DEM,Aramis Ayala,21,,,
+Baker,Macedonia 4C,Attorney General,"",DEM,Aramis Ayala,80,,,
+Baker,Cuyler 4D,Attorney General,"",DEM,Aramis Ayala,32,,,
+Baker,Glen St. Mary 5A,Attorney General,"",DEM,Aramis Ayala,144,42,48,54
+Baker,Olustee 6A,Attorney General,"",DEM,Aramis Ayala,37,,,
+Baker,Sanderson 1A,Chief Financial Officer,"",REP,Jimmy Patronis,1027,411,472,144
+Baker,South Macclenny 2A,Chief Financial Officer,"",REP,Jimmy Patronis,1630,686,698,246
+Baker,North Macclenny 3A,Chief Financial Officer,"",REP,Jimmy Patronis,1731,819,706,206
+Baker,Baxter 4A,Chief Financial Officer,"",REP,Jimmy Patronis,125,,,
+Baker,Taylor 4B,Chief Financial Officer,"",REP,Jimmy Patronis,382,76,254,52
+Baker,Macedonia 4C,Chief Financial Officer,"",REP,Jimmy Patronis,1400,708,519,173
+Baker,Cuyler 4D,Chief Financial Officer,"",REP,Jimmy Patronis,621,227,313,81
+Baker,Glen St. Mary 5A,Chief Financial Officer,"",REP,Jimmy Patronis,2172,950,916,306
+Baker,Olustee 6A,Chief Financial Officer,"",REP,Jimmy Patronis,131,,,
+Baker,Sanderson 1A,Chief Financial Officer,"",DEM,Adam Hattersley,320,69,183,68
+Baker,South Macclenny 2A,Chief Financial Officer,"",DEM,Adam Hattersley,263,73,124,66
+Baker,North Macclenny 3A,Chief Financial Officer,"",DEM,Adam Hattersley,211,83,65,63
+Baker,Baxter 4A,Chief Financial Officer,"",DEM,Adam Hattersley,8,,,
+Baker,Taylor 4B,Chief Financial Officer,"",DEM,Adam Hattersley,23,,,
+Baker,Macedonia 4C,Chief Financial Officer,"",DEM,Adam Hattersley,89,,,
+Baker,Cuyler 4D,Chief Financial Officer,"",DEM,Adam Hattersley,38,,,
+Baker,Glen St. Mary 5A,Chief Financial Officer,"",DEM,Adam Hattersley,164,55,53,56
+Baker,Olustee 6A,Chief Financial Officer,"",DEM,Adam Hattersley,39,,,
+Baker,Sanderson 1A,Commissioner of Agriculture,"",REP,Wilton Simpson,1036,416,481,139
+Baker,South Macclenny 2A,Commissioner of Agriculture,"",REP,Wilton Simpson,1645,706,699,240
+Baker,North Macclenny 3A,Commissioner of Agriculture,"",REP,Wilton Simpson,1751,831,710,210
+Baker,Baxter 4A,Commissioner of Agriculture,"",REP,Wilton Simpson,127,,,
+Baker,Taylor 4B,Commissioner of Agriculture,"",REP,Wilton Simpson,384,76,254,54
+Baker,Macedonia 4C,Commissioner of Agriculture,"",REP,Wilton Simpson,1422,724,521,177
+Baker,Cuyler 4D,Commissioner of Agriculture,"",REP,Wilton Simpson,629,232,316,81
+Baker,Glen St. Mary 5A,Commissioner of Agriculture,"",REP,Wilton Simpson,2208,979,917,312
+Baker,Olustee 6A,Commissioner of Agriculture,"",REP,Wilton Simpson,126,,,
+Baker,Sanderson 1A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,326,67,190,69
+Baker,South Macclenny 2A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,273,73,127,73
+Baker,North Macclenny 3A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,213,83,69,61
+Baker,Baxter 4A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,8,,,
+Baker,Taylor 4B,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,23,,,
+Baker,Macedonia 4C,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,90,,,
+Baker,Cuyler 4D,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,34,,,
+Baker,Glen St. Mary 5A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,154,47,56,51
+Baker,Olustee 6A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,41,,,
+Baker,Sanderson 1A,Ricky Polston,"","",YES,719,278,352,89
+Baker,South Macclenny 2A,Ricky Polston,"","",YES,1135,457,510,168
+Baker,North Macclenny 3A,Ricky Polston,"","",YES,1161,547,466,148
+Baker,Baxter 4A,Ricky Polston,"","",YES,78,,,
+Baker,Taylor 4B,Ricky Polston,"","",YES,261,48,171,42
+Baker,Macedonia 4C,Ricky Polston,"","",YES,894,447,331,116
+Baker,Cuyler 4D,Ricky Polston,"","",YES,369,131,186,52
+Baker,Glen St. Mary 5A,Ricky Polston,"","",YES,1327,561,558,208
+Baker,Olustee 6A,Ricky Polston,"","",YES,99,,,
+Baker,Sanderson 1A,Ricky Polston,"","",NO,512,156,261,95
+Baker,South Macclenny 2A,Ricky Polston,"","",NO,582,229,250,103
+Baker,North Macclenny 3A,Ricky Polston,"","",NO,623,280,255,88
+Baker,Baxter 4A,Ricky Polston,"","",NO,42,,,
+Baker,Taylor 4B,Ricky Polston,"","",NO,101,,,
+Baker,Macedonia 4C,Ricky Polston,"","",NO,454,223,175,56
+Baker,Cuyler 4D,Ricky Polston,"","",NO,224,,,
+Baker,Glen St. Mary 5A,Ricky Polston,"","",NO,776,336,324,116
+Baker,Olustee 6A,Ricky Polston,"","",NO,48,,,
+Baker,Sanderson 1A,Charles T. Canaday,"","",YES,800,306,391,103
+Baker,South Macclenny 2A,Charles T. Canaday,"","",YES,1229,515,531,183
+Baker,North Macclenny 3A,Charles T. Canaday,"","",YES,1255,586,504,165
+Baker,Baxter 4A,Charles T. Canaday,"","",YES,91,,,
+Baker,Taylor 4B,Charles T. Canaday,"","",YES,288,55,195,38
+Baker,Macedonia 4C,Charles T. Canaday,"","",YES,978,490,364,124
+Baker,Cuyler 4D,Charles T. Canaday,"","",YES,395,141,199,55
+Baker,Glen St. Mary 5A,Charles T. Canaday,"","",YES,1438,602,615,221
+Baker,Olustee 6A,Charles T. Canaday,"","",YES,109,,,
+Baker,Sanderson 1A,Charles T. Canaday,"","",NO,466,144,238,84
+Baker,South Macclenny 2A,Charles T. Canaday,"","",NO,532,197,240,95
+Baker,North Macclenny 3A,Charles T. Canaday,"","",NO,559,258,222,79
+Baker,Baxter 4A,Charles T. Canaday,"","",NO,32,,,
+Baker,Taylor 4B,Charles T. Canaday,"","",NO,89,,,
+Baker,Macedonia 4C,Charles T. Canaday,"","",NO,393,192,150,51
+Baker,Cuyler 4D,Charles T. Canaday,"","",NO,207,,,
+Baker,Glen St. Mary 5A,Charles T. Canaday,"","",NO,710,325,275,110
+Baker,Olustee 6A,Charles T. Canaday,"","",NO,42,,,
+Baker,Sanderson 1A,John D. Couriel,"","",YES,807,312,386,109
+Baker,South Macclenny 2A,John D. Couriel,"","",YES,1260,519,551,190
+Baker,North Macclenny 3A,John D. Couriel,"","",YES,1306,612,533,161
+Baker,Baxter 4A,John D. Couriel,"","",YES,85,,,
+Baker,Taylor 4B,John D. Couriel,"","",YES,279,50,188,41
+Baker,Macedonia 4C,John D. Couriel,"","",YES,1030,509,385,136
+Baker,Cuyler 4D,John D. Couriel,"","",YES,411,144,209,58
+Baker,Glen St. Mary 5A,John D. Couriel,"","",YES,1476,637,611,228
+Baker,Olustee 6A,John D. Couriel,"","",YES,109,,,
+Baker,Sanderson 1A,John D. Couriel,"","",NO,441,132,233,76
+Baker,South Macclenny 2A,John D. Couriel,"","",NO,478,176,216,86
+Baker,North Macclenny 3A,John D. Couriel,"","",NO,500,224,193,83
+Baker,Baxter 4A,John D. Couriel,"","",NO,38,,,
+Baker,Taylor 4B,John D. Couriel,"","",NO,91,,,
+Baker,Macedonia 4C,John D. Couriel,"","",NO,338,172,128,38
+Baker,Cuyler 4D,John D. Couriel,"","",NO,187,,,
+Baker,Glen St. Mary 5A,John D. Couriel,"","",NO,666,287,278,101
+Baker,Olustee 6A,John D. Couriel,"","",NO,43,,,
+Baker,Sanderson 1A,Jorge Labarga,"","",YES,604,220,298,86
+Baker,South Macclenny 2A,Jorge Labarga,"","",YES,945,381,425,139
+Baker,North Macclenny 3A,Jorge Labarga,"","",YES,1025,480,417,128
+Baker,Baxter 4A,Jorge Labarga,"","",YES,62,,,
+Baker,Taylor 4B,Jorge Labarga,"","",YES,212,36,140,36
+Baker,Macedonia 4C,Jorge Labarga,"","",YES,690,362,235,93
+Baker,Cuyler 4D,Jorge Labarga,"","",YES,293,105,138,50
+Baker,Glen St. Mary 5A,Jorge Labarga,"","",YES,1118,466,452,200
+Baker,Olustee 6A,Jorge Labarga,"","",YES,86,,,
+Baker,Sanderson 1A,Jorge Labarga,"","",NO,630,215,317,98
+Baker,South Macclenny 2A,Jorge Labarga,"","",NO,775,307,335,133
+Baker,North Macclenny 3A,Jorge Labarga,"","",NO,759,346,304,109
+Baker,Baxter 4A,Jorge Labarga,"","",NO,60,,,
+Baker,Taylor 4B,Jorge Labarga,"","",NO,152,,,
+Baker,Macedonia 4C,Jorge Labarga,"","",NO,661,309,272,80
+Baker,Cuyler 4D,Jorge Labarga,"","",NO,297,,,
+Baker,Glen St. Mary 5A,Jorge Labarga,"","",NO,988,434,431,123
+Baker,Olustee 6A,Jorge Labarga,"","",NO,61,,,
+Baker,Sanderson 1A,Jamie Grosshans,"","",YES,802,313,385,104
+Baker,South Macclenny 2A,Jamie Grosshans,"","",YES,1246,524,533,189
+Baker,North Macclenny 3A,Jamie Grosshans,"","",YES,1308,611,531,166
+Baker,Baxter 4A,Jamie Grosshans,"","",YES,88,,,
+Baker,Taylor 4B,Jamie Grosshans,"","",YES,284,54,188,42
+Baker,Macedonia 4C,Jamie Grosshans,"","",YES,1024,515,377,132
+Baker,Cuyler 4D,Jamie Grosshans,"","",YES,404,145,202,57
+Baker,Glen St. Mary 5A,Jamie Grosshans,"","",YES,1464,631,605,228
+Baker,Olustee 6A,Jamie Grosshans,"","",YES,103,,,
+Baker,Sanderson 1A,Jamie Grosshans,"","",NO,449,133,232,84
+Baker,South Macclenny 2A,Jamie Grosshans,"","",NO,495,173,235,87
+Baker,North Macclenny 3A,Jamie Grosshans,"","",NO,501,227,196,78
+Baker,Baxter 4A,Jamie Grosshans,"","",NO,36,,,
+Baker,Taylor 4B,Jamie Grosshans,"","",NO,88,,,
+Baker,Macedonia 4C,Jamie Grosshans,"","",NO,340,164,134,42
+Baker,Cuyler 4D,Jamie Grosshans,"","",NO,193,,,
+Baker,Glen St. Mary 5A,Jamie Grosshans,"","",NO,679,294,283,102
+Baker,Olustee 6A,Jamie Grosshans,"","",NO,48,,,
+Baker,Sanderson 1A,Ross L. Bilbrey,"","",YES,769,294,367,108
+Baker,South Macclenny 2A,Ross L. Bilbrey,"","",YES,1165,481,511,173
+Baker,North Macclenny 3A,Ross L. Bilbrey,"","",YES,1212,573,477,162
+Baker,Baxter 4A,Ross L. Bilbrey,"","",YES,80,,,
+Baker,Taylor 4B,Ross L. Bilbrey,"","",YES,277,56,180,41
+Baker,Macedonia 4C,Ross L. Bilbrey,"","",YES,961,495,344,122
+Baker,Cuyler 4D,Ross L. Bilbrey,"","",YES,378,134,190,54
+Baker,Glen St. Mary 5A,Ross L. Bilbrey,"","",YES,1390,601,569,220
+Baker,Olustee 6A,Ross L. Bilbrey,"","",YES,106,,,
+Baker,Sanderson 1A,Ross L. Bilbrey,"","",NO,478,150,249,79
+Baker,South Macclenny 2A,Ross L. Bilbrey,"","",NO,532,201,238,93
+Baker,North Macclenny 3A,Ross L. Bilbrey,"","",NO,570,252,241,77
+Baker,Baxter 4A,Ross L. Bilbrey,"","",NO,41,,,
+Baker,Taylor 4B,Ross L. Bilbrey,"","",NO,89,,,
+Baker,Macedonia 4C,Ross L. Bilbrey,"","",NO,377,175,154,48
+Baker,Cuyler 4D,Ross L. Bilbrey,"","",NO,211,,,
+Baker,Glen St. Mary 5A,Ross L. Bilbrey,"","",NO,719,305,312,102
+Baker,Olustee 6A,Ross L. Bilbrey,"","",NO,43,,,
+Baker,Sanderson 1A,Susan Kelsey,"","",YES,792,294,388,110
+Baker,South Macclenny 2A,Susan Kelsey,"","",YES,1192,500,508,184
+Baker,North Macclenny 3A,Susan Kelsey,"","",YES,1222,567,496,159
+Baker,Baxter 4A,Susan Kelsey,"","",YES,82,,,
+Baker,Taylor 4B,Susan Kelsey,"","",YES,265,54,174,37
+Baker,Macedonia 4C,Susan Kelsey,"","",YES,960,477,359,124
+Baker,Cuyler 4D,Susan Kelsey,"","",YES,388,137,196,55
+Baker,Glen St. Mary 5A,Susan Kelsey,"","",YES,1374,579,574,221
+Baker,Olustee 6A,Susan Kelsey,"","",YES,109,,,
+Baker,Sanderson 1A,Susan Kelsey,"","",NO,447,147,224,76
+Baker,South Macclenny 2A,Susan Kelsey,"","",NO,491,176,236,79
+Baker,North Macclenny 3A,Susan Kelsey,"","",NO,550,249,221,80
+Baker,Baxter 4A,Susan Kelsey,"","",NO,38,,,
+Baker,Taylor 4B,Susan Kelsey,"","",NO,97,,,
+Baker,Macedonia 4C,Susan Kelsey,"","",NO,372,190,136,46
+Baker,Cuyler 4D,Susan Kelsey,"","",NO,200,,,
+Baker,Glen St. Mary 5A,Susan Kelsey,"","",NO,717,320,299,98
+Baker,Olustee 6A,Susan Kelsey,"","",NO,38,,,
+Baker,Sanderson 1A,Bobby Long,"","",YES,791,304,373,114
+Baker,South Macclenny 2A,Bobby Long,"","",YES,1219,510,529,180
+Baker,North Macclenny 3A,Bobby Long,"","",YES,1278,596,519,163
+Baker,Baxter 4A,Bobby Long,"","",YES,87,,,
+Baker,Taylor 4B,Bobby Long,"","",YES,289,55,192,42
+Baker,Macedonia 4C,Bobby Long,"","",YES,1012,504,378,130
+Baker,Cuyler 4D,Bobby Long,"","",YES,413,146,211,56
+Baker,Glen St. Mary 5A,Bobby Long,"","",YES,1449,618,606,225
+Baker,Olustee 6A,Bobby Long,"","",YES,102,,,
+Baker,Sanderson 1A,Bobby Long,"","",NO,452,142,238,72
+Baker,South Macclenny 2A,Bobby Long,"","",NO,471,163,222,86
+Baker,North Macclenny 3A,Bobby Long,"","",NO,501,226,200,75
+Baker,Baxter 4A,Bobby Long,"","",NO,33,,,
+Baker,Taylor 4B,Bobby Long,"","",NO,74,,,
+Baker,Macedonia 4C,Bobby Long,"","",NO,327,165,123,39
+Baker,Cuyler 4D,Bobby Long,"","",NO,172,,,
+Baker,Glen St. Mary 5A,Bobby Long,"","",NO,644,282,268,94
+Baker,Olustee 6A,Bobby Long,"","",NO,44,,,
+Baker,Sanderson 1A,Lori S. Rowe,"","",YES,736,268,362,106
+Baker,South Macclenny 2A,Lori S. Rowe,"","",YES,1136,465,498,173
+Baker,North Macclenny 3A,Lori S. Rowe,"","",YES,1160,533,480,147
+Baker,Baxter 4A,Lori S. Rowe,"","",YES,75,,,
+Baker,Taylor 4B,Lori S. Rowe,"","",YES,250,47,164,39
+Baker,Macedonia 4C,Lori S. Rowe,"","",YES,877,445,322,110
+Baker,Cuyler 4D,Lori S. Rowe,"","",YES,361,128,180,53
+Baker,Glen St. Mary 5A,Lori S. Rowe,"","",YES,1310,559,550,201
+Baker,Olustee 6A,Lori S. Rowe,"","",YES,101,,,
+Baker,Sanderson 1A,Lori S. Rowe,"","",NO,504,178,247,79
+Baker,South Macclenny 2A,Lori S. Rowe,"","",NO,556,209,253,94
+Baker,North Macclenny 3A,Lori S. Rowe,"","",NO,614,287,239,88
+Baker,Baxter 4A,Lori S. Rowe,"","",NO,43,,,
+Baker,Taylor 4B,Lori S. Rowe,"","",NO,115,,,
+Baker,Macedonia 4C,Lori S. Rowe,"","",NO,449,214,177,58
+Baker,Cuyler 4D,Lori S. Rowe,"","",NO,227,,,
+Baker,Glen St. Mary 5A,Lori S. Rowe,"","",NO,774,337,323,114
+Baker,Olustee 6A,Lori S. Rowe,"","",NO,47,,,
+Baker,Sanderson 1A,Bo Winokur,"","",YES,770,298,369,103
+Baker,South Macclenny 2A,Bo Winokur,"","",YES,1169,495,503,171
+Baker,North Macclenny 3A,Bo Winokur,"","",YES,1210,569,483,158
+Baker,Baxter 4A,Bo Winokur,"","",YES,81,,,
+Baker,Taylor 4B,Bo Winokur,"","",YES,280,56,182,42
+Baker,Macedonia 4C,Bo Winokur,"","",YES,983,496,364,123
+Baker,Cuyler 4D,Bo Winokur,"","",YES,389,144,193,52
+Baker,Glen St. Mary 5A,Bo Winokur,"","",YES,1392,602,577,213
+Baker,Olustee 6A,Bo Winokur,"","",YES,110,,,
+Baker,Sanderson 1A,Bo Winokur,"","",NO,473,148,243,82
+Baker,South Macclenny 2A,Bo Winokur,"","",NO,523,181,245,97
+Baker,North Macclenny 3A,Bo Winokur,"","",NO,565,250,238,77
+Baker,Baxter 4A,Bo Winokur,"","",NO,41,,,
+Baker,Taylor 4B,Bo Winokur,"","",NO,83,,,
+Baker,Macedonia 4C,Bo Winokur,"","",NO,356,175,135,46
+Baker,Cuyler 4D,Bo Winokur,"","",NO,198,,,
+Baker,Glen St. Mary 5A,Bo Winokur,"","",NO,709,300,302,107
+Baker,Olustee 6A,Bo Winokur,"","",NO,39,,,
+Baker,Sanderson 1A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1044,401,496,147
+Baker,South Macclenny 2A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1566,664,670,232
+Baker,North Macclenny 3A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1644,770,656,218
+Baker,Baxter 4A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,112,,,
+Baker,Taylor 4B,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,348,69,228,51
+Baker,Macedonia 4C,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1252,618,479,155
+Baker,Cuyler 4D,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,562,200,293,69
+Baker,Glen St. Mary 5A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1968,853,828,287
+Baker,Olustee 6A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,131,,,
+Baker,Sanderson 1A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,210,51,112,47
+Baker,South Macclenny 2A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,194,56,94,44
+Baker,North Macclenny 3A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,190,90,68,32
+Baker,Baxter 4A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,12,,,
+Baker,Taylor 4B,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,25,,,
+Baker,Macedonia 4C,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,106,,,
+Baker,Cuyler 4D,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,42,,,
+Baker,Glen St. Mary 5A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,155,73,45,37
+Baker,Olustee 6A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,24,,,
+Baker,Sanderson 1A,"School Board,",4,"",Mandi Canaday,739,245,375,119
+Baker,South Macclenny 2A,"School Board,",4,"",Mandi Canaday,1053,428,460,165
+Baker,North Macclenny 3A,"School Board,",4,"",Mandi Canaday,960,417,431,112
+Baker,Baxter 4A,"School Board,",4,"",Mandi Canaday,67,,,
+Baker,Taylor 4B,"School Board,",4,"",Mandi Canaday,235,46,156,33
+Baker,Macedonia 4C,"School Board,",4,"",Mandi Canaday,857,432,323,102
+Baker,Cuyler 4D,"School Board,",4,"",Mandi Canaday,372,114,223,35
+Baker,Glen St. Mary 5A,"School Board,",4,"",Mandi Canaday,1250,537,532,181
+Baker,Olustee 6A,"School Board,",4,"",Mandi Canaday,94,,,
+Baker,Sanderson 1A,"School Board,",4,"",Michele Hodges,615,233,292,90
+Baker,South Macclenny 2A,"School Board,",4,"",Michele Hodges,832,336,360,136
+Baker,North Macclenny 3A,"School Board,",4,"",Michele Hodges,964,477,334,153
+Baker,Baxter 4A,"School Board,",4,"",Michele Hodges,65,,,
+Baker,Taylor 4B,"School Board,",4,"",Michele Hodges,160,,,
+Baker,Macedonia 4C,"School Board,",4,"",Michele Hodges,614,298,225,91
+Baker,Cuyler 4D,"School Board,",4,"",Michele Hodges,277,119,115,43
+Baker,Glen St. Mary 5A,"School Board,",4,"",Michele Hodges,1049,470,413,166
+Baker,Olustee 6A,"School Board,",4,"",Michele Hodges,67,,,
+Baker,Sanderson 1A,Amendment 1,"","",YES,691,264,336,91
+Baker,South Macclenny 2A,Amendment 1,"","",YES,993,407,434,152
+Baker,North Macclenny 3A,Amendment 1,"","",YES,1077,499,430,148
+Baker,Baxter 4A,Amendment 1,"","",YES,66,,,
+Baker,Taylor 4B,Amendment 1,"","",YES,214,,,
+Baker,Macedonia 4C,Amendment 1,"","",YES,762,381,273,108
+Baker,Cuyler 4D,Amendment 1,"","",YES,314,109,163,42
+Baker,Glen St. Mary 5A,Amendment 1,"","",YES,1230,520,513,197
+Baker,Olustee 6A,Amendment 1,"","",YES,88,,,
+Baker,Sanderson 1A,Amendment 1,"","",NO,593,194,299,100
+Baker,South Macclenny 2A,Amendment 1,"","",NO,808,314,362,132
+Baker,North Macclenny 3A,Amendment 1,"","",NO,776,366,310,100
+Baker,Baxter 4A,Amendment 1,"","",NO,60,,,
+Baker,Taylor 4B,Amendment 1,"","",NO,170,,,
+Baker,Macedonia 4C,Amendment 1,"","",NO,629,317,244,68
+Baker,Cuyler 4D,Amendment 1,"","",NO,310,124,150,36
+Baker,Glen St. Mary 5A,Amendment 1,"","",NO,956,440,380,136
+Baker,Olustee 6A,Amendment 1,"","",NO,70,,,
+Baker,Sanderson 1A,Amendment 2,"","",YES,662,246,317,99
+Baker,South Macclenny 2A,Amendment 2,"","",YES,1003,415,433,155
+Baker,North Macclenny 3A,Amendment 2,"","",YES,1021,498,393,130
+Baker,Baxter 4A,Amendment 2,"","",YES,59,,,
+Baker,Taylor 4B,Amendment 2,"","",YES,216,47,137,32
+Baker,Macedonia 4C,Amendment 2,"","",YES,760,390,275,95
+Baker,Cuyler 4D,Amendment 2,"","",YES,317,103,159,55
+Baker,Glen St. Mary 5A,Amendment 2,"","",YES,1210,524,494,192
+Baker,Olustee 6A,Amendment 2,"","",YES,97,,,
+Baker,Sanderson 1A,Amendment 2,"","",NO,614,211,311,92
+Baker,South Macclenny 2A,Amendment 2,"","",NO,780,297,358,125
+Baker,North Macclenny 3A,Amendment 2,"","",NO,831,370,343,118
+Baker,Baxter 4A,Amendment 2,"","",NO,69,,,
+Baker,Taylor 4B,Amendment 2,"","",NO,167,,,
+Baker,Macedonia 4C,Amendment 2,"","",NO,622,303,241,78
+Baker,Cuyler 4D,Amendment 2,"","",NO,298,,,
+Baker,Glen St. Mary 5A,Amendment 2,"","",NO,980,437,403,140
+Baker,Olustee 6A,Amendment 2,"","",NO,64,,,
+Baker,Sanderson 1A,Amendment 3,"","",YES,722,238,378,106
+Baker,South Macclenny 2A,Amendment 3,"","",YES,1140,451,529,160
+Baker,North Macclenny 3A,Amendment 3,"","",YES,1173,562,465,146
+Baker,Baxter 4A,Amendment 3,"","",YES,65,,,
+Baker,Taylor 4B,Amendment 3,"","",YES,231,51,148,32
+Baker,Macedonia 4C,Amendment 3,"","",YES,822,427,307,88
+Baker,Cuyler 4D,Amendment 3,"","",YES,372,138,189,45
+Baker,Glen St. Mary 5A,Amendment 3,"","",YES,1266,546,555,165
+Baker,Olustee 6A,Amendment 3,"","",YES,92,,,
+Baker,Sanderson 1A,Amendment 3,"","",NO,587,226,271,90
+Baker,South Macclenny 2A,Amendment 3,"","",NO,723,296,293,134
+Baker,North Macclenny 3A,Amendment 3,"","",NO,729,328,298,103
+Baker,Baxter 4A,Amendment 3,"","",NO,65,,,
+Baker,Taylor 4B,Amendment 3,"","",NO,163,,,
+Baker,Macedonia 4C,Amendment 3,"","",NO,632,305,230,97
+Baker,Cuyler 4D,Amendment 3,"","",NO,262,98,132,32
+Baker,Glen St. Mary 5A,Amendment 3,"","",NO,999,445,376,178
+Baker,Olustee 6A,Amendment 3,"","",NO,69,,,
