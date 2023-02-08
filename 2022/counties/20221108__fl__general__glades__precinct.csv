@@ -1,0 +1,692 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
+Glades,1 Doyle Conner Bldg,U.S. Senate,"",REP,Marco Rubio,222,73,84,65
+Glades,6 Muse Community Center,U.S. Senate,"",REP,Marco Rubio,191,43,94,54
+Glades,7 Lakeport Community Center,U.S. Senate,"",REP,Marco Rubio,365,68,207,90
+Glades,8 BHR Community Center,U.S. Senate,"",REP,Marco Rubio,569,35,427,107
+Glades,9 Lakeport Community Center,U.S. Senate,"",REP,Marco Rubio,88,,,
+Glades,10 Lakeport Community Center,U.S. Senate,"",REP,Marco Rubio,58,,,
+Glades,11 Doyle Conner Bldg,U.S. Senate,"",REP,Marco Rubio,155,,,
+Glades,12 Washington Park Comm Center,U.S. Senate,"",REP,Marco Rubio,4,,,
+Glades,13 Indian Hills Fire Dept,U.S. Senate,"",REP,Marco Rubio,386,53,236,97
+Glades,2 Ortona Community Center,U.S. Senate,"",REP,Marco Rubio,244,42,140,62
+Glades,3 Doyle Conner Bldg,U.S. Senate,"",REP,Marco Rubio,218,62,101,55
+Glades,4 Palmdale Community Center,U.S. Senate,"",REP,Marco Rubio,120,,,
+Glades,5 Muse Community Center,U.S. Senate,"",REP,Marco Rubio,406,,,
+Glades,1 Doyle Conner Bldg,U.S. Senate,"",DEM,Val Demings,28,,,
+Glades,6 Muse Community Center,U.S. Senate,"",DEM,Val Demings,21,,,
+Glades,7 Lakeport Community Center,U.S. Senate,"",DEM,Val Demings,61,,,
+Glades,8 BHR Community Center,U.S. Senate,"",DEM,Val Demings,161,,,
+Glades,9 Lakeport Community Center,U.S. Senate,"",DEM,Val Demings,10,,,
+Glades,10 Lakeport Community Center,U.S. Senate,"",DEM,Val Demings,30,,,
+Glades,11 Doyle Conner Bldg,U.S. Senate,"",DEM,Val Demings,18,,,
+Glades,12 Washington Park Comm Center,U.S. Senate,"",DEM,Val Demings,52,,,
+Glades,13 Indian Hills Fire Dept,U.S. Senate,"",DEM,Val Demings,95,,,
+Glades,2 Ortona Community Center,U.S. Senate,"",DEM,Val Demings,53,,,
+Glades,3 Doyle Conner Bldg,U.S. Senate,"",DEM,Val Demings,161,,,
+Glades,4 Palmdale Community Center,U.S. Senate,"",DEM,Val Demings,13,,,
+Glades,5 Muse Community Center,U.S. Senate,"",DEM,Val Demings,61,,,
+Glades,1 Doyle Conner Bldg,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Glades,6 Muse Community Center,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Glades,7 Lakeport Community Center,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Glades,8 BHR Community Center,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Glades,9 Lakeport Community Center,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Glades,10 Lakeport Community Center,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Glades,11 Doyle Conner Bldg,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Glades,12 Washington Park Comm Center,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Glades,13 Indian Hills Fire Dept,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Glades,2 Ortona Community Center,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Glades,3 Doyle Conner Bldg,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Glades,4 Palmdale Community Center,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Glades,5 Muse Community Center,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Glades,1 Doyle Conner Bldg,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Glades,6 Muse Community Center,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Glades,7 Lakeport Community Center,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Glades,8 BHR Community Center,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Glades,9 Lakeport Community Center,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Glades,10 Lakeport Community Center,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Glades,11 Doyle Conner Bldg,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Glades,12 Washington Park Comm Center,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Glades,13 Indian Hills Fire Dept,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Glades,2 Ortona Community Center,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Glades,3 Doyle Conner Bldg,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Glades,4 Palmdale Community Center,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Glades,5 Muse Community Center,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Glades,1 Doyle Conner Bldg,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,6 Muse Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,7 Lakeport Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,8 BHR Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Glades,9 Lakeport Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,10 Lakeport Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,11 Doyle Conner Bldg,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,12 Washington Park Comm Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,13 Indian Hills Fire Dept,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,2 Ortona Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,3 Doyle Conner Bldg,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,4 Palmdale Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Glades,5 Muse Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Glades,1 Doyle Conner Bldg,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,6 Muse Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,7 Lakeport Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,8 BHR Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,9 Lakeport Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,10 Lakeport Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,11 Doyle Conner Bldg,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,12 Washington Park Comm Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,13 Indian Hills Fire Dept,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,2 Ortona Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,3 Doyle Conner Bldg,U.S. Senate,"","",Write-in,1,,,
+Glades,4 Palmdale Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Glades,5 Muse Community Center,U.S. Senate,"","",Write-in,1,,,
+Glades,1 Doyle Conner Bldg,U.S. House,18,REP,Scott Franklin,220,72,86,62
+Glades,6 Muse Community Center,U.S. House,18,REP,Scott Franklin,180,40,95,45
+Glades,7 Lakeport Community Center,U.S. House,18,REP,Scott Franklin,359,64,210,85
+Glades,8 BHR Community Center,U.S. House,18,REP,Scott Franklin,572,35,422,115
+Glades,9 Lakeport Community Center,U.S. House,18,REP,Scott Franklin,87,,,
+Glades,10 Lakeport Community Center,U.S. House,18,REP,Scott Franklin,56,,,
+Glades,11 Doyle Conner Bldg,U.S. House,18,REP,Scott Franklin,154,,,
+Glades,12 Washington Park Comm Center,U.S. House,18,REP,Scott Franklin,5,,,
+Glades,13 Indian Hills Fire Dept,U.S. House,18,REP,Scott Franklin,386,53,236,97
+Glades,2 Ortona Community Center,U.S. House,18,REP,Scott Franklin,241,42,140,59
+Glades,3 Doyle Conner Bldg,U.S. House,18,REP,Scott Franklin,224,65,104,55
+Glades,4 Palmdale Community Center,U.S. House,18,REP,Scott Franklin,114,,,
+Glades,5 Muse Community Center,U.S. House,18,REP,Scott Franklin,402,,,
+Glades,1 Doyle Conner Bldg,U.S. House,18,NPA,Keith R. Hayden Jr,24,,,
+Glades,6 Muse Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,22,,,
+Glades,7 Lakeport Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,55,,,
+Glades,8 BHR Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,138,,,
+Glades,9 Lakeport Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,9,,,
+Glades,10 Lakeport Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,26,,,
+Glades,11 Doyle Conner Bldg,U.S. House,18,NPA,Keith R. Hayden Jr,11,,,
+Glades,12 Washington Park Comm Center,U.S. House,18,NPA,Keith R. Hayden Jr,39,,,
+Glades,13 Indian Hills Fire Dept,U.S. House,18,NPA,Keith R. Hayden Jr,81,,,
+Glades,2 Ortona Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,44,,,
+Glades,3 Doyle Conner Bldg,U.S. House,18,NPA,Keith R. Hayden Jr,126,,,
+Glades,4 Palmdale Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,14,,,
+Glades,5 Muse Community Center,U.S. House,18,NPA,Keith R. Hayden Jr,54,,,
+Glades,1 Doyle Conner Bldg,U.S. House,18,"",Write-in,0,0,0,0
+Glades,6 Muse Community Center,U.S. House,18,"",Write-in,0,0,0,0
+Glades,7 Lakeport Community Center,U.S. House,18,"",Write-in,1,,,
+Glades,8 BHR Community Center,U.S. House,18,"",Write-in,0,0,0,0
+Glades,9 Lakeport Community Center,U.S. House,18,"",Write-in,0,0,0,0
+Glades,10 Lakeport Community Center,U.S. House,18,"",Write-in,1,,,
+Glades,11 Doyle Conner Bldg,U.S. House,18,"",Write-in,0,0,0,0
+Glades,12 Washington Park Comm Center,U.S. House,18,"",Write-in,3,,,
+Glades,13 Indian Hills Fire Dept,U.S. House,18,"",Write-in,3,,,
+Glades,2 Ortona Community Center,U.S. House,18,"",Write-in,0,0,0,0
+Glades,3 Doyle Conner Bldg,U.S. House,18,"",Write-in,2,,,
+Glades,4 Palmdale Community Center,U.S. House,18,"",Write-in,0,0,0,0
+Glades,5 Muse Community Center,U.S. House,18,"",Write-in,1,,,
+Glades,1 Doyle Conner Bldg,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,224,72,87,65
+Glades,6 Muse Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,190,44,96,50
+Glades,7 Lakeport Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,368,67,209,92
+Glades,8 BHR Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,595,37,446,112
+Glades,9 Lakeport Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,90,,,
+Glades,10 Lakeport Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,59,,,
+Glades,11 Doyle Conner Bldg,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,156,,,
+Glades,12 Washington Park Comm Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,5,,,
+Glades,13 Indian Hills Fire Dept,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,391,52,242,97
+Glades,2 Ortona Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,253,44,145,64
+Glades,3 Doyle Conner Bldg,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,229,60,114,55
+Glades,4 Palmdale Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,120,,,
+Glades,5 Muse Community Center,Governor and Lt. Governor,"",REP,Ron DeSantis/Jeanette Nuñez,411,,,
+Glades,1 Doyle Conner Bldg,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,24,,,
+Glades,6 Muse Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,23,,,
+Glades,7 Lakeport Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,59,,,
+Glades,8 BHR Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,144,,,
+Glades,9 Lakeport Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,9,,,
+Glades,10 Lakeport Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,26,,,
+Glades,11 Doyle Conner Bldg,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,17,,,
+Glades,12 Washington Park Comm Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,49,,,
+Glades,13 Indian Hills Fire Dept,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,92,,,
+Glades,2 Ortona Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,47,,,
+Glades,3 Doyle Conner Bldg,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,154,,,
+Glades,4 Palmdale Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,13,,,
+Glades,5 Muse Community Center,Governor and Lt. Governor,"",DEM,Charlie Crist/Karla Hernandez,64,,,
+Glades,1 Doyle Conner Bldg,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,6 Muse Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,7 Lakeport Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,8 BHR Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,9 Lakeport Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,10 Lakeport Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,11 Doyle Conner Bldg,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,12 Washington Park Comm Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,13 Indian Hills Fire Dept,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,2,,,
+Glades,2 Ortona Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,2,,,
+Glades,3 Doyle Conner Bldg,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,4 Palmdale Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,5 Muse Community Center,Governor and Lt. Governor,"",LPF,Hector Roos/Jerry ''Tub'' Rorabaugh,0,0,0,0
+Glades,1 Doyle Conner Bldg,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,3,,,
+Glades,6 Muse Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,0,0,0,0
+Glades,7 Lakeport Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,1,,,
+Glades,8 BHR Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,2,,,
+Glades,9 Lakeport Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,1,,,
+Glades,10 Lakeport Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,1,,,
+Glades,11 Doyle Conner Bldg,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,1,,,
+Glades,12 Washington Park Comm Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,2,,,
+Glades,13 Indian Hills Fire Dept,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,1,,,
+Glades,2 Ortona Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,0,0,0,0
+Glades,3 Doyle Conner Bldg,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,1,,,
+Glades,4 Palmdale Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,0,0,0,0
+Glades,5 Muse Community Center,Governor and Lt. Governor,"",NPA,Carmen Jackie Gimenez/Kyle “KC” Gibson,0,0,0,0
+Glades,1 Doyle Conner Bldg,Attorney General,"",REP,Ashley Moody,221,73,84,64
+Glades,6 Muse Community Center,Attorney General,"",REP,Ashley Moody,187,41,95,51
+Glades,7 Lakeport Community Center,Attorney General,"",REP,Ashley Moody,365,68,207,90
+Glades,8 BHR Community Center,Attorney General,"",REP,Ashley Moody,584,36,432,116
+Glades,9 Lakeport Community Center,Attorney General,"",REP,Ashley Moody,91,,,
+Glades,10 Lakeport Community Center,Attorney General,"",REP,Ashley Moody,63,,,
+Glades,11 Doyle Conner Bldg,Attorney General,"",REP,Ashley Moody,153,,,
+Glades,12 Washington Park Comm Center,Attorney General,"",REP,Ashley Moody,4,,,
+Glades,13 Indian Hills Fire Dept,Attorney General,"",REP,Ashley Moody,386,51,239,96
+Glades,2 Ortona Community Center,Attorney General,"",REP,Ashley Moody,250,44,143,63
+Glades,3 Doyle Conner Bldg,Attorney General,"",REP,Ashley Moody,211,64,98,49
+Glades,4 Palmdale Community Center,Attorney General,"",REP,Ashley Moody,121,,,
+Glades,5 Muse Community Center,Attorney General,"",REP,Ashley Moody,405,,,
+Glades,1 Doyle Conner Bldg,Attorney General,"",DEM,Aramis Ayala,26,,,
+Glades,6 Muse Community Center,Attorney General,"",DEM,Aramis Ayala,21,,,
+Glades,7 Lakeport Community Center,Attorney General,"",DEM,Aramis Ayala,60,,,
+Glades,8 BHR Community Center,Attorney General,"",DEM,Aramis Ayala,149,,,
+Glades,9 Lakeport Community Center,Attorney General,"",DEM,Aramis Ayala,8,,,
+Glades,10 Lakeport Community Center,Attorney General,"",DEM,Aramis Ayala,24,,,
+Glades,11 Doyle Conner Bldg,Attorney General,"",DEM,Aramis Ayala,18,,,
+Glades,12 Washington Park Comm Center,Attorney General,"",DEM,Aramis Ayala,52,,,
+Glades,13 Indian Hills Fire Dept,Attorney General,"",DEM,Aramis Ayala,97,,,
+Glades,2 Ortona Community Center,Attorney General,"",DEM,Aramis Ayala,49,,,
+Glades,3 Doyle Conner Bldg,Attorney General,"",DEM,Aramis Ayala,164,,,
+Glades,4 Palmdale Community Center,Attorney General,"",DEM,Aramis Ayala,9,,,
+Glades,5 Muse Community Center,Attorney General,"",DEM,Aramis Ayala,65,,,
+Glades,1 Doyle Conner Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,215,70,81,64
+Glades,6 Muse Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,181,41,95,45
+Glades,7 Lakeport Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,361,67,204,90
+Glades,8 BHR Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,565,35,419,111
+Glades,9 Lakeport Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,89,,,
+Glades,10 Lakeport Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,55,,,
+Glades,11 Doyle Conner Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,152,,,
+Glades,12 Washington Park Comm Center,Chief Financial Officer,"",REP,Jimmy Patronis,3,,,
+Glades,13 Indian Hills Fire Dept,Chief Financial Officer,"",REP,Jimmy Patronis,389,53,239,97
+Glades,2 Ortona Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,242,42,142,58
+Glades,3 Doyle Conner Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,204,62,97,45
+Glades,4 Palmdale Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,112,,,
+Glades,5 Muse Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,395,,,
+Glades,1 Doyle Conner Bldg,Chief Financial Officer,"",DEM,Adam Hattersley,30,,,
+Glades,6 Muse Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,27,,,
+Glades,7 Lakeport Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,63,,,
+Glades,8 BHR Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,156,,,
+Glades,9 Lakeport Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,10,,,
+Glades,10 Lakeport Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,30,,,
+Glades,11 Doyle Conner Bldg,Chief Financial Officer,"",DEM,Adam Hattersley,18,,,
+Glades,12 Washington Park Comm Center,Chief Financial Officer,"",DEM,Adam Hattersley,49,,,
+Glades,13 Indian Hills Fire Dept,Chief Financial Officer,"",DEM,Adam Hattersley,92,,,
+Glades,2 Ortona Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,53,,,
+Glades,3 Doyle Conner Bldg,Chief Financial Officer,"",DEM,Adam Hattersley,168,,,
+Glades,4 Palmdale Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,16,,,
+Glades,5 Muse Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,67,,,
+Glades,1 Doyle Conner Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,220,73,83,64
+Glades,6 Muse Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,185,41,94,50
+Glades,7 Lakeport Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,362,66,208,88
+Glades,8 BHR Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,579,36,428,115
+Glades,9 Lakeport Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,93,,,
+Glades,10 Lakeport Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,62,,,
+Glades,11 Doyle Conner Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,152,,,
+Glades,12 Washington Park Comm Center,Commissioner of Agriculture,"",REP,Wilton Simpson,1,,,
+Glades,13 Indian Hills Fire Dept,Commissioner of Agriculture,"",REP,Wilton Simpson,391,52,239,100
+Glades,2 Ortona Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,245,42,141,62
+Glades,3 Doyle Conner Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,211,61,100,50
+Glades,4 Palmdale Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,119,,,
+Glades,5 Muse Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,403,,,
+Glades,1 Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,28,,,
+Glades,6 Muse Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23,,,
+Glades,7 Lakeport Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,60,,,
+Glades,8 BHR Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,148,,,
+Glades,9 Lakeport Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7,,,
+Glades,10 Lakeport Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,24,,,
+Glades,11 Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,20,,,
+Glades,12 Washington Park Comm Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,54,,,
+Glades,13 Indian Hills Fire Dept,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,88,,,
+Glades,2 Ortona Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,50,,,
+Glades,3 Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,161,,,
+Glades,4 Palmdale Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11,,,
+Glades,5 Muse Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,66,,,
+Glades,1 Doyle Conner Bldg,County Commissioner,4,REP,Hattie Taylor,203,68,75,60
+Glades,6 Muse Community Center,County Commissioner,4,REP,Hattie Taylor,176,38,95,43
+Glades,7 Lakeport Community Center,County Commissioner,4,REP,Hattie Taylor,344,59,198,87
+Glades,8 BHR Community Center,County Commissioner,4,REP,Hattie Taylor,588,38,432,118
+Glades,9 Lakeport Community Center,County Commissioner,4,REP,Hattie Taylor,84,,,
+Glades,10 Lakeport Community Center,County Commissioner,4,REP,Hattie Taylor,67,,,
+Glades,11 Doyle Conner Bldg,County Commissioner,4,REP,Hattie Taylor,141,,,
+Glades,12 Washington Park Comm Center,County Commissioner,4,REP,Hattie Taylor,6,,,
+Glades,13 Indian Hills Fire Dept,County Commissioner,4,REP,Hattie Taylor,393,50,241,102
+Glades,2 Ortona Community Center,County Commissioner,4,REP,Hattie Taylor,227,37,133,57
+Glades,3 Doyle Conner Bldg,County Commissioner,4,REP,Hattie Taylor,205,63,97,45
+Glades,4 Palmdale Community Center,County Commissioner,4,REP,Hattie Taylor,116,,,
+Glades,5 Muse Community Center,County Commissioner,4,REP,Hattie Taylor,397,,,
+Glades,1 Doyle Conner Bldg,County Commissioner,4,DEM,RaShondra Croskey,47,,,
+Glades,6 Muse Community Center,County Commissioner,4,DEM,RaShondra Croskey,28,,,
+Glades,7 Lakeport Community Center,County Commissioner,4,DEM,RaShondra Croskey,72,,,
+Glades,8 BHR Community Center,County Commissioner,4,DEM,RaShondra Croskey,145,,,
+Glades,9 Lakeport Community Center,County Commissioner,4,DEM,RaShondra Croskey,13,,,
+Glades,10 Lakeport Community Center,County Commissioner,4,DEM,RaShondra Croskey,21,,,
+Glades,11 Doyle Conner Bldg,County Commissioner,4,DEM,RaShondra Croskey,28,,,
+Glades,12 Washington Park Comm Center,County Commissioner,4,DEM,RaShondra Croskey,50,,,
+Glades,13 Indian Hills Fire Dept,County Commissioner,4,DEM,RaShondra Croskey,90,,,
+Glades,2 Ortona Community Center,County Commissioner,4,DEM,RaShondra Croskey,70,,,
+Glades,3 Doyle Conner Bldg,County Commissioner,4,DEM,RaShondra Croskey,176,,,
+Glades,4 Palmdale Community Center,County Commissioner,4,DEM,RaShondra Croskey,15,,,
+Glades,5 Muse Community Center,County Commissioner,4,DEM,RaShondra Croskey,71,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Charles T. Canady,"","",Yes,170,55,63,52
+Glades,6 Muse Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,150,37,71,42
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,289,44,165,80
+Glades,8 BHR Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,438,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,53,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,51,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Charles T. Canady,"","",Yes,118,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,26,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Charles T. Canady,"","",Yes,319,42,194,83
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,175,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Charles T. Canady,"","",Yes,199,47,102,50
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,76,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Charles T. Canady,"","",Yes,323,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Charles T. Canady,"","",No,42,,,
+Glades,6 Muse Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,34,,,
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,79,,,
+Glades,8 BHR Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,163,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,35,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,32,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Charles T. Canady,"","",No,40,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Charles T. Canady,"","",No,27,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Charles T. Canady,"","",No,124,,,
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,75,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Charles T. Canady,"","",No,135,,,
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,36,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Charles T. Canady,"","",No,93,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-John D. Couriel,"","",Yes,158,50,59,49
+Glades,6 Muse Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,147,35,69,43
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,281,40,159,82
+Glades,8 BHR Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,428,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,60,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,55,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-John D. Couriel,"","",Yes,118,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,24,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-John D. Couriel,"","",Yes,312,40,191,81
+Glades,2 Ortona Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,178,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-John D. Couriel,"","",Yes,192,44,98,50
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,81,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-John D. Couriel,"","",Yes,313,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-John D. Couriel,"","",No,47,,,
+Glades,6 Muse Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,30,,,
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,85,,,
+Glades,8 BHR Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,164,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,28,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,27,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-John D. Couriel,"","",No,41,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-John D. Couriel,"","",No,28,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-John D. Couriel,"","",No,126,,,
+Glades,2 Ortona Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,67,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-John D. Couriel,"","",No,140,,,
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,31,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-John D. Couriel,"","",No,101,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,160,53,58,49
+Glades,6 Muse Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,156,36,73,47
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,280,39,161,80
+Glades,8 BHR Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,426,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,58,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,56,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,117,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,20,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,319,42,193,84
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,180,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,201,46,105,50
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,83,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",Yes,311,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Jamie Grosshans,"","",No,45,,,
+Glades,6 Muse Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,23,,,
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,84,,,
+Glades,8 BHR Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,159,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,30,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,25,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Jamie Grosshans,"","",No,40,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,32,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Jamie Grosshans,"","",No,118,,,
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,66,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Jamie Grosshans,"","",No,131,31,70,30
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,28,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Jamie Grosshans,"","",No,105,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Jorge Labarga,"","",Yes,134,42,49,43
+Glades,6 Muse Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,116,33,53,30
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,248,37,142,69
+Glades,8 BHR Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,382,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,57,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,55,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Jorge Labarga,"","",Yes,95,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,27,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Jorge Labarga,"","",Yes,257,,,
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,142,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Jorge Labarga,"","",Yes,184,38,102,44
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,61,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Jorge Labarga,"","",Yes,262,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Jorge Labarga,"","",No,72,,,
+Glades,6 Muse Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,64,,,
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,112,,,
+Glades,8 BHR Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,201,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,32,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,28,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Jorge Labarga,"","",No,65,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Jorge Labarga,"","",No,25,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Jorge Labarga,"","",No,180,,,
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,103,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Jorge Labarga,"","",No,146,39,73,34
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,49,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Jorge Labarga,"","",No,151,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Ricky Polston,"","",Yes,153,51,57,45
+Glades,6 Muse Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,139,35,63,41
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,268,42,155,71
+Glades,8 BHR Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,410,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,59,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,51,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Ricky Polston,"","",Yes,112,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,24,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Ricky Polston,"","",Yes,303,38,189,76
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,161,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Ricky Polston,"","",Yes,216,44,121,51
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,73,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Ricky Polston,"","",Yes,308,,,
+Glades,1 Doyle Conner Bldg,Justice of the Supreme Court-Ricky Polston,"","",No,53,,,
+Glades,6 Muse Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,40,,,
+Glades,7 Lakeport Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,97,,,
+Glades,8 BHR Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,168,,,
+Glades,9 Lakeport Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,29,,,
+Glades,10 Lakeport Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,31,,,
+Glades,11 Doyle Conner Bldg,Justice of the Supreme Court-Ricky Polston,"","",No,46,,,
+Glades,12 Washington Park Comm Center,Justice of the Supreme Court-Ricky Polston,"","",No,28,,,
+Glades,13 Indian Hills Fire Dept,Justice of the Supreme Court-Ricky Polston,"","",No,137,,,
+Glades,2 Ortona Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,82,,,
+Glades,3 Doyle Conner Bldg,Justice of the Supreme Court-Ricky Polston,"","",No,111,,,
+Glades,4 Palmdale Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,37,,,
+Glades,5 Muse Community Center,Justice of the Supreme Court-Ricky Polston,"","",No,106,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,148,46,54,48
+Glades,6 Muse Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,142,33,67,42
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,264,41,153,70
+Glades,8 BHR Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,420,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,58,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,55,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,112,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,27,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,294,35,179,80
+Glades,2 Ortona Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,176,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,192,42,100,50
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,69,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",Yes,298,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Patricia Joan Kelly,"","",No,59,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,38,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,103,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,162,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,30,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,25,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Patricia Joan Kelly,"","",No,46,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,26,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Patricia Joan Kelly,"","",No,138,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,72,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Patricia Joan Kelly,"","",No,143,37,76,30
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,41,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Patricia Joan Kelly,"","",No,120,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,149,50,55,44
+Glades,6 Muse Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,140,31,66,43
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,253,39,146,68
+Glades,8 BHR Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,399,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,54,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,50,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,107,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,25,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,278,35,175,68
+Glades,2 Ortona Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,163,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,217,48,119,50
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,76,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",Yes,295,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Nelly N. Khouzam,"","",No,59,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,37,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,110,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,169,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,34,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,30,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Nelly N. Khouzam,"","",No,48,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,27,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Nelly N. Khouzam,"","",No,150,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,82,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Nelly N. Khouzam,"","",No,114,,,
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,34,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Nelly N. Khouzam,"","",No,120,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,160,53,57,50
+Glades,6 Muse Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,146,31,69,46
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,275,40,158,77
+Glades,8 BHR Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,413,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,55,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,54,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,110,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,23,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,297,38,176,83
+Glades,2 Ortona Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,181,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,192,40,99,53
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,75,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",Yes,303,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,46,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,30,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,90,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,151,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,33,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,26,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,46,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,29,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,131,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,64,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,140,,,
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,34,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Suzanne Y. Labrit,"","",No,113,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Matt Lucas,"","",Yes,161,50,61,50
+Glades,6 Muse Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,132,33,63,36
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,279,44,162,73
+Glades,8 BHR Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,405,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,57,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,54,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Matt Lucas,"","",Yes,105,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Matt Lucas,"","",Yes,25,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Matt Lucas,"","",Yes,299,37,180,82
+Glades,2 Ortona Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,176,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Matt Lucas,"","",Yes,224,44,125,55
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,86,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Matt Lucas,"","",Yes,308,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Matt Lucas,"","",No,43,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-Matt Lucas,"","",No,44,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Matt Lucas,"","",No,87,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-Matt Lucas,"","",No,156,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Matt Lucas,"","",No,30,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Matt Lucas,"","",No,26,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Matt Lucas,"","",No,52,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Matt Lucas,"","",No,27,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Matt Lucas,"","",No,127,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Matt Lucas,"","",No,66,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Matt Lucas,"","",No,105,,,
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Matt Lucas,"","",No,23,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Matt Lucas,"","",No,106,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Robert Morris,"","",Yes,140,43,52,45
+Glades,6 Muse Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,123,31,52,40
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,256,43,149,64
+Glades,8 BHR Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,393,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,54,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,45,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Robert Morris,"","",Yes,101,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Robert Morris,"","",Yes,20,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Robert Morris,"","",Yes,260,31,162,67
+Glades,2 Ortona Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,151,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Robert Morris,"","",Yes,211,41,118,52
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,73,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Robert Morris,"","",Yes,282,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Robert Morris,"","",No,65,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-Robert Morris,"","",No,52,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Robert Morris,"","",No,107,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-Robert Morris,"","",No,168,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Robert Morris,"","",No,34,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Robert Morris,"","",No,34,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Robert Morris,"","",No,54,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Robert Morris,"","",No,32,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Robert Morris,"","",No,166,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Robert Morris,"","",No,91,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Robert Morris,"","",No,121,,,
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Robert Morris,"","",No,36,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Robert Morris,"","",No,132,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,137,40,54,43
+Glades,6 Muse Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,127,31,55,41
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,258,39,152,67
+Glades,8 BHR Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,376,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,55,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,52,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,89,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,25,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,252,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,149,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,198,37,115,46
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,62,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",Yes,286,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,66,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,50,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,105,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,181,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,33,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,27,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,68,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,27,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,174,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,94,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,126,38,58,30
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,47,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Stevan Travis Northcutt,"","",No,128,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-John K. Stargel,"","",Yes,153,50,53,50
+Glades,6 Muse Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,148,32,70,46
+Glades,7 Lakeport Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,284,44,165,75
+Glades,8 BHR Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,414,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,55,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,52,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-John K. Stargel,"","",Yes,110,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-John K. Stargel,"","",Yes,18,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-John K. Stargel,"","",Yes,294,37,178,79
+Glades,2 Ortona Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,179,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-John K. Stargel,"","",Yes,195,43,100,52
+Glades,4 Palmdale Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,86,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-John K. Stargel,"","",Yes,303,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-John K. Stargel,"","",No,50,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-John K. Stargel,"","",No,30,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-John K. Stargel,"","",No,81,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-John K. Stargel,"","",No,150,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-John K. Stargel,"","",No,32,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-John K. Stargel,"","",No,27,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-John K. Stargel,"","",No,47,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-John K. Stargel,"","",No,34,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-John K. Stargel,"","",No,130,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-John K. Stargel,"","",No,65,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-John K. Stargel,"","",No,131,,,
+Glades,4 Palmdale Community Center,Second District Court of Appeal-John K. Stargel,"","",No,23,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-John K. Stargel,"","",No,109,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Craig C. Villant,"","",Yes,139,43,53,43
+Glades,6 Muse Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,132,31,57,44
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,255,40,148,67
+Glades,8 BHR Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,389,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,54,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,55,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Craig C. Villant,"","",Yes,99,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,23,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Craig C. Villant,"","",Yes,267,34,159,74
+Glades,2 Ortona Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,158,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Craig C. Villant,"","",Yes,182,37,100,45
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,65,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Craig C. Villant,"","",Yes,285,,,
+Glades,1 Doyle Conner Bldg,Second District Court of Appeal-Craig C. Villant,"","",No,66,,,
+Glades,6 Muse Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,44,,,
+Glades,7 Lakeport Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,109,,,
+Glades,8 BHR Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,176,,,
+Glades,9 Lakeport Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,34,,,
+Glades,10 Lakeport Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,25,,,
+Glades,11 Doyle Conner Bldg,Second District Court of Appeal-Craig C. Villant,"","",No,56,,,
+Glades,12 Washington Park Comm Center,Second District Court of Appeal-Craig C. Villant,"","",No,29,,,
+Glades,13 Indian Hills Fire Dept,Second District Court of Appeal-Craig C. Villant,"","",No,159,,,
+Glades,2 Ortona Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,85,,,
+Glades,3 Doyle Conner Bldg,Second District Court of Appeal-Craig C. Villant,"","",No,146,38,76,32
+Glades,4 Palmdale Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,44,,,
+Glades,5 Muse Community Center,Second District Court of Appeal-Craig C. Villant,"","",No,132,,,
+Glades,13 Indian Hills Fire Dept,"Port Labelle Community Development District, Seat 1","","",Liz Garcia,83,,,
+Glades,13 Indian Hills Fire Dept,"Port Labelle Community Development District, Seat 1","","",Nancy V. Imhoff,162,,,
+Glades,1 Doyle Conner Bldg,Constitutional Amendment Number 1,"","",Yes,142,41,51,50
+Glades,6 Muse Community Center,Constitutional Amendment Number 1,"","",Yes,130,,,
+Glades,7 Lakeport Community Center,Constitutional Amendment Number 1,"","",Yes,230,32,132,66
+Glades,8 BHR Community Center,Constitutional Amendment Number 1,"","",Yes,381,,,
+Glades,9 Lakeport Community Center,Constitutional Amendment Number 1,"","",Yes,53,,,
+Glades,10 Lakeport Community Center,Constitutional Amendment Number 1,"","",Yes,42,,,
+Glades,11 Doyle Conner Bldg,Constitutional Amendment Number 1,"","",Yes,85,,,
+Glades,12 Washington Park Comm Center,Constitutional Amendment Number 1,"","",Yes,34,,,
+Glades,13 Indian Hills Fire Dept,Constitutional Amendment Number 1,"","",Yes,271,32,152,87
+Glades,2 Ortona Community Center,Constitutional Amendment Number 1,"","",Yes,171,,,
+Glades,3 Doyle Conner Bldg,Constitutional Amendment Number 1,"","",Yes,215,44,110,61
+Glades,4 Palmdale Community Center,Constitutional Amendment Number 1,"","",Yes,63,,,
+Glades,5 Muse Community Center,Constitutional Amendment Number 1,"","",Yes,264,,,
+Glades,1 Doyle Conner Bldg,Constitutional Amendment Number 1,"","",No,86,,,
+Glades,6 Muse Community Center,Constitutional Amendment Number 1,"","",No,64,,,
+Glades,7 Lakeport Community Center,Constitutional Amendment Number 1,"","",No,160,33,84,43
+Glades,8 BHR Community Center,Constitutional Amendment Number 1,"","",No,282,,,
+Glades,9 Lakeport Community Center,Constitutional Amendment Number 1,"","",No,43,,,
+Glades,10 Lakeport Community Center,Constitutional Amendment Number 1,"","",No,41,,,
+Glades,11 Doyle Conner Bldg,Constitutional Amendment Number 1,"","",No,81,,,
+Glades,12 Washington Park Comm Center,Constitutional Amendment Number 1,"","",No,20,,,
+Glades,13 Indian Hills Fire Dept,Constitutional Amendment Number 1,"","",No,181,,,
+Glades,2 Ortona Community Center,Constitutional Amendment Number 1,"","",No,103,,,
+Glades,3 Doyle Conner Bldg,Constitutional Amendment Number 1,"","",No,139,,,
+Glades,4 Palmdale Community Center,Constitutional Amendment Number 1,"","",No,54,,,
+Glades,5 Muse Community Center,Constitutional Amendment Number 1,"","",No,187,,,
+Glades,1 Doyle Conner Bldg,Constitutional Amendment Number 2,"","",Yes,139,45,44,50
+Glades,6 Muse Community Center,Constitutional Amendment Number 2,"","",Yes,127,,,
+Glades,7 Lakeport Community Center,Constitutional Amendment Number 2,"","",Yes,226,36,124,66
+Glades,8 BHR Community Center,Constitutional Amendment Number 2,"","",Yes,360,,,
+Glades,9 Lakeport Community Center,Constitutional Amendment Number 2,"","",Yes,58,,,
+Glades,10 Lakeport Community Center,Constitutional Amendment Number 2,"","",Yes,45,,,
+Glades,11 Doyle Conner Bldg,Constitutional Amendment Number 2,"","",Yes,78,,,
+Glades,12 Washington Park Comm Center,Constitutional Amendment Number 2,"","",Yes,18,,,
+Glades,13 Indian Hills Fire Dept,Constitutional Amendment Number 2,"","",Yes,238,31,124,83
+Glades,2 Ortona Community Center,Constitutional Amendment Number 2,"","",Yes,168,32,87,49
+Glades,3 Doyle Conner Bldg,Constitutional Amendment Number 2,"","",Yes,167,40,75,52
+Glades,4 Palmdale Community Center,Constitutional Amendment Number 2,"","",Yes,67,,,
+Glades,5 Muse Community Center,Constitutional Amendment Number 2,"","",Yes,270,,,
+Glades,1 Doyle Conner Bldg,Constitutional Amendment Number 2,"","",No,89,,,
+Glades,6 Muse Community Center,Constitutional Amendment Number 2,"","",No,66,,,
+Glades,7 Lakeport Community Center,Constitutional Amendment Number 2,"","",No,166,,,
+Glades,8 BHR Community Center,Constitutional Amendment Number 2,"","",No,289,,,
+Glades,9 Lakeport Community Center,Constitutional Amendment Number 2,"","",No,35,,,
+Glades,10 Lakeport Community Center,Constitutional Amendment Number 2,"","",No,39,,,
+Glades,11 Doyle Conner Bldg,Constitutional Amendment Number 2,"","",No,85,,,
+Glades,12 Washington Park Comm Center,Constitutional Amendment Number 2,"","",No,34,,,
+Glades,13 Indian Hills Fire Dept,Constitutional Amendment Number 2,"","",No,213,,,
+Glades,2 Ortona Community Center,Constitutional Amendment Number 2,"","",No,106,,,
+Glades,3 Doyle Conner Bldg,Constitutional Amendment Number 2,"","",No,182,44,105,33
+Glades,4 Palmdale Community Center,Constitutional Amendment Number 2,"","",No,47,,,
+Glades,5 Muse Community Center,Constitutional Amendment Number 2,"","",No,177,,,
+Glades,1 Doyle Conner Bldg,Constitutional Amendment Number 3,"","",Yes,142,44,54,44
+Glades,6 Muse Community Center,Constitutional Amendment Number 3,"","",Yes,128,,,
+Glades,7 Lakeport Community Center,Constitutional Amendment Number 3,"","",Yes,274,43,152,79
+Glades,8 BHR Community Center,Constitutional Amendment Number 3,"","",Yes,417,,,
+Glades,9 Lakeport Community Center,Constitutional Amendment Number 3,"","",Yes,66,,,
+Glades,10 Lakeport Community Center,Constitutional Amendment Number 3,"","",Yes,54,,,
+Glades,11 Doyle Conner Bldg,Constitutional Amendment Number 3,"","",Yes,101,,,
+Glades,12 Washington Park Comm Center,Constitutional Amendment Number 3,"","",Yes,39,,,
+Glades,13 Indian Hills Fire Dept,Constitutional Amendment Number 3,"","",Yes,261,34,139,88
+Glades,2 Ortona Community Center,Constitutional Amendment Number 3,"","",Yes,180,,,
+Glades,3 Doyle Conner Bldg,Constitutional Amendment Number 3,"","",Yes,225,50,123,52
+Glades,4 Palmdale Community Center,Constitutional Amendment Number 3,"","",Yes,69,,,
+Glades,5 Muse Community Center,Constitutional Amendment Number 3,"","",Yes,290,,,
+Glades,1 Doyle Conner Bldg,Constitutional Amendment Number 3,"","",No,95,,,
+Glades,6 Muse Community Center,Constitutional Amendment Number 3,"","",No,75,,,
+Glades,7 Lakeport Community Center,Constitutional Amendment Number 3,"","",No,133,,,
+Glades,8 BHR Community Center,Constitutional Amendment Number 3,"","",No,270,,,
+Glades,9 Lakeport Community Center,Constitutional Amendment Number 3,"","",No,31,,,
+Glades,10 Lakeport Community Center,Constitutional Amendment Number 3,"","",No,32,,,
+Glades,11 Doyle Conner Bldg,Constitutional Amendment Number 3,"","",No,67,,,
+Glades,12 Washington Park Comm Center,Constitutional Amendment Number 3,"","",No,15,,,
+Glades,13 Indian Hills Fire Dept,Constitutional Amendment Number 3,"","",No,199,,,
+Glades,2 Ortona Community Center,Constitutional Amendment Number 3,"","",No,107,,,
+Glades,3 Doyle Conner Bldg,Constitutional Amendment Number 3,"","",No,137,36,64,37
+Glades,4 Palmdale Community Center,Constitutional Amendment Number 3,"","",No,49,,,
+Glades,5 Muse Community Center,Constitutional Amendment Number 3,"","",No,165,,,
