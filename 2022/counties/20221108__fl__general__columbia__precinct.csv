@@ -1,0 +1,1378 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
+Columbia,110.0 Richardson Comm Center,U.S. Senate,"",REP,Marco Rubio,137,57,50,30
+Columbia,22.0 Fort White Community Ctr,U.S. Senate,"",REP,Marco Rubio,2418,1008,1087,323
+Columbia,23.0 Columbia City,U.S. Senate,"",REP,Marco Rubio,1054,442,396,216
+Columbia,31.0 Westside Community Ctr,U.S. Senate,"",REP,Marco Rubio,1814,792,702,320
+Columbia,33.0 Southside Rec Complex,U.S. Senate,"",REP,Marco Rubio,2657,1194,905,558
+Columbia,41.0 Watertown,U.S. Senate,"",REP,Marco Rubio,943,391,323,229
+Columbia,42.0 Lulu Comm Center,U.S. Senate,"",REP,Marco Rubio,214,,,
+Columbia,43.0 Mason City Community Ctr,U.S. Senate,"",REP,Marco Rubio,1300,413,692,195
+Columbia,444.0 Watertown,U.S. Senate,"",REP,Marco Rubio,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. Senate,"",REP,Marco Rubio,28,,,
+Columbia,46.0 Columbia City,U.S. Senate,"",REP,Marco Rubio,209,96,69,44
+Columbia,112.0 Supv Elections,U.S. Senate,"",REP,Marco Rubio,39,,,
+Columbia,47.0 Fort White Community Ctr,U.S. Senate,"",REP,Marco Rubio,369,170,147,52
+Columbia,48.0 Fort White Community Ctr,U.S. Senate,"",REP,Marco Rubio,958,326,450,182
+Columbia,50.0 Watertown,U.S. Senate,"",REP,Marco Rubio,77,,,
+Columbia,51.0 Southside Rec Complex,U.S. Senate,"",REP,Marco Rubio,1176,530,408,238
+Columbia,52.0 Columbia City,U.S. Senate,"",REP,Marco Rubio,1356,560,570,226
+Columbia,53.0 Supv Elections,U.S. Senate,"",REP,Marco Rubio,18,,,
+Columbia,132.0 Supv Elections,U.S. Senate,"",REP,Marco Rubio,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. Senate,"",REP,Marco Rubio,35,,,
+Columbia,553.0 Supv Elections,U.S. Senate,"",REP,Marco Rubio,510,220,178,112
+Columbia,554.0 Supv Elections,U.S. Senate,"",REP,Marco Rubio,402,156,134,112
+Columbia,114 .0 Supv Elections,U.S. Senate,"",REP,Marco Rubio,98,,,
+Columbia,15.0 Deep Creek Community Ctr,U.S. Senate,"",REP,Marco Rubio,292,109,149,34
+Columbia,16.0 Winfield Com Center,U.S. Senate,"",REP,Marco Rubio,873,304,399,170
+Columbia,17.0  Richardson Comm Center,U.S. Senate,"",REP,Marco Rubio,399,164,133,102
+Columbia,18.0 Winfield Community Center,U.S. Senate,"",REP,Marco Rubio,108,,,
+Columbia,19.0  Watertown,U.S. Senate,"",REP,Marco Rubio,39,,,
+Columbia,21.0 Westside Community Ctr,U.S. Senate,"",REP,Marco Rubio,821,275,420,126
+Columbia,110.0 Richardson Comm Center,U.S. Senate,"",DEM,Val Demings,349,94,137,118
+Columbia,22.0 Fort White Community Ctr,U.S. Senate,"",DEM,Val Demings,588,170,181,237
+Columbia,23.0 Columbia City,U.S. Senate,"",DEM,Val Demings,208,56,45,107
+Columbia,31.0 Westside Community Ctr,U.S. Senate,"",DEM,Val Demings,378,107,115,156
+Columbia,33.0 Southside Rec Complex,U.S. Senate,"",DEM,Val Demings,687,232,183,272
+Columbia,41.0 Watertown,U.S. Senate,"",DEM,Val Demings,204,64,51,89
+Columbia,42.0 Lulu Comm Center,U.S. Senate,"",DEM,Val Demings,10,,,
+Columbia,43.0 Mason City Community Ctr,U.S. Senate,"",DEM,Val Demings,229,63,77,89
+Columbia,444.0 Watertown,U.S. Senate,"",DEM,Val Demings,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. Senate,"",DEM,Val Demings,11,,,
+Columbia,46.0 Columbia City,U.S. Senate,"",DEM,Val Demings,35,,,
+Columbia,112.0 Supv Elections,U.S. Senate,"",DEM,Val Demings,174,60,61,53
+Columbia,47.0 Fort White Community Ctr,U.S. Senate,"",DEM,Val Demings,74,,,
+Columbia,48.0 Fort White Community Ctr,U.S. Senate,"",DEM,Val Demings,253,72,70,111
+Columbia,50.0 Watertown,U.S. Senate,"",DEM,Val Demings,33,,,
+Columbia,51.0 Southside Rec Complex,U.S. Senate,"",DEM,Val Demings,300,133,71,96
+Columbia,52.0 Columbia City,U.S. Senate,"",DEM,Val Demings,219,53,91,75
+Columbia,53.0 Supv Elections,U.S. Senate,"",DEM,Val Demings,4,,,
+Columbia,132.0 Supv Elections,U.S. Senate,"",DEM,Val Demings,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. Senate,"",DEM,Val Demings,7,,,
+Columbia,553.0 Supv Elections,U.S. Senate,"",DEM,Val Demings,243,79,77,87
+Columbia,554.0 Supv Elections,U.S. Senate,"",DEM,Val Demings,159,56,33,70
+Columbia,114 .0 Supv Elections,U.S. Senate,"",DEM,Val Demings,56,,,
+Columbia,15.0 Deep Creek Community Ctr,U.S. Senate,"",DEM,Val Demings,66,,,
+Columbia,16.0 Winfield Com Center,U.S. Senate,"",DEM,Val Demings,353,77,158,118
+Columbia,17.0  Richardson Comm Center,U.S. Senate,"",DEM,Val Demings,203,64,58,81
+Columbia,18.0 Winfield Community Center,U.S. Senate,"",DEM,Val Demings,33,,,
+Columbia,19.0  Watertown,U.S. Senate,"",DEM,Val Demings,31,,,
+Columbia,21.0 Westside Community Ctr,U.S. Senate,"",DEM,Val Demings,163,44,50,69
+Columbia,110.0 Richardson Comm Center,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,22.0 Fort White Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,23,,,
+Columbia,23.0 Columbia City,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Columbia,31.0 Westside Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,6,,,
+Columbia,33.0 Southside Rec Complex,U.S. Senate,"",LPF,Dennis Misigoy,12,,,
+Columbia,41.0 Watertown,U.S. Senate,"",LPF,Dennis Misigoy,5,,,
+Columbia,42.0 Lulu Comm Center,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,43.0 Mason City Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,5,,,
+Columbia,444.0 Watertown,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,46.0 Columbia City,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Columbia,112.0 Supv Elections,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,47.0 Fort White Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,48.0 Fort White Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
+Columbia,50.0 Watertown,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,51.0 Southside Rec Complex,U.S. Senate,"",LPF,Dennis Misigoy,8,,,
+Columbia,52.0 Columbia City,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
+Columbia,53.0 Supv Elections,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,132.0 Supv Elections,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,553.0 Supv Elections,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
+Columbia,554.0 Supv Elections,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Columbia,114 .0 Supv Elections,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,15.0 Deep Creek Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,16.0 Winfield Com Center,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Columbia,17.0  Richardson Comm Center,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Columbia,18.0 Winfield Community Center,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Columbia,19.0  Watertown,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Columbia,21.0 Westside Community Ctr,U.S. Senate,"",LPF,Dennis Misigoy,5,,,
+Columbia,110.0 Richardson Comm Center,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Columbia,22.0 Fort White Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,16,,,
+Columbia,23.0 Columbia City,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Columbia,31.0 Westside Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,10,,,
+Columbia,33.0 Southside Rec Complex,U.S. Senate,"",NPA,Steven B. Grant,18,,,
+Columbia,41.0 Watertown,U.S. Senate,"",NPA,Steven B. Grant,7,,,
+Columbia,42.0 Lulu Comm Center,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Columbia,43.0 Mason City Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,5,,,
+Columbia,444.0 Watertown,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Columbia,46.0 Columbia City,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Columbia,112.0 Supv Elections,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Columbia,47.0 Fort White Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Columbia,48.0 Fort White Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,4,,,
+Columbia,50.0 Watertown,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Columbia,51.0 Southside Rec Complex,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Columbia,52.0 Columbia City,U.S. Senate,"",NPA,Steven B. Grant,8,,,
+Columbia,53.0 Supv Elections,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Columbia,132.0 Supv Elections,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Columbia,553.0 Supv Elections,U.S. Senate,"",NPA,Steven B. Grant,6,,,
+Columbia,554.0 Supv Elections,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Columbia,114 .0 Supv Elections,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Columbia,15.0 Deep Creek Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Columbia,16.0 Winfield Com Center,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Columbia,17.0  Richardson Comm Center,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Columbia,18.0 Winfield Community Center,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Columbia,19.0  Watertown,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Columbia,21.0 Westside Community Ctr,U.S. Senate,"",NPA,Steven B. Grant,5,,,
+Columbia,110.0 Richardson Comm Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
+Columbia,22.0 Fort White Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,8,,,
+Columbia,23.0 Columbia City,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Columbia,31.0 Westside Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
+Columbia,33.0 Southside Rec Complex,U.S. Senate,"",NPA,Tuan TQ Nguyen,11,,,
+Columbia,41.0 Watertown,U.S. Senate,"",NPA,Tuan TQ Nguyen,7,,,
+Columbia,42.0 Lulu Comm Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,43.0 Mason City Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Columbia,444.0 Watertown,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,46.0 Columbia City,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Columbia,112.0 Supv Elections,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,47.0 Fort White Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,48.0 Fort White Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Columbia,50.0 Watertown,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,51.0 Southside Rec Complex,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Columbia,52.0 Columbia City,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Columbia,53.0 Supv Elections,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,132.0 Supv Elections,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,553.0 Supv Elections,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Columbia,554.0 Supv Elections,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,114 .0 Supv Elections,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,15.0 Deep Creek Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,16.0 Winfield Com Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Columbia,17.0  Richardson Comm Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Columbia,18.0 Winfield Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,19.0  Watertown,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,21.0 Westside Community Ctr,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Columbia,110.0 Richardson Comm Center,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,22.0 Fort White Community Ctr,U.S. Senate,"","",Write-in,1,,,
+Columbia,23.0 Columbia City,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,31.0 Westside Community Ctr,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,33.0 Southside Rec Complex,U.S. Senate,"","",Write-in,1,,,
+Columbia,41.0 Watertown,U.S. Senate,"","",Write-in,1,,,
+Columbia,42.0 Lulu Comm Center,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,43.0 Mason City Community Ctr,U.S. Senate,"","",Write-in,1,,,
+Columbia,444.0 Watertown,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,46.0 Columbia City,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,112.0 Supv Elections,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,47.0 Fort White Community Ctr,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,48.0 Fort White Community Ctr,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,50.0 Watertown,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,51.0 Southside Rec Complex,U.S. Senate,"","",Write-in,1,,,
+Columbia,52.0 Columbia City,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,53.0 Supv Elections,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,132.0 Supv Elections,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,553.0 Supv Elections,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,554.0 Supv Elections,U.S. Senate,"","",Write-in,1,,,
+Columbia,114 .0 Supv Elections,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,15.0 Deep Creek Community Ctr,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,16.0 Winfield Com Center,U.S. Senate,"","",Write-in,2,,,
+Columbia,17.0  Richardson Comm Center,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,18.0 Winfield Community Center,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,19.0  Watertown,U.S. Senate,"","",Write-in,0,0,0,0
+Columbia,21.0 Westside Community Ctr,U.S. Senate,"","",Write-in,2,,,
+Columbia,110.0 Richardson Comm Center,U.S. House,3,REP,Kat Cammack,139,56,52,31
+Columbia,22.0 Fort White Community Ctr,U.S. House,3,REP,Kat Cammack,2439,1007,1094,338
+Columbia,23.0 Columbia City,U.S. House,3,REP,Kat Cammack,1047,444,392,211
+Columbia,31.0 Westside Community Ctr,U.S. House,3,REP,Kat Cammack,1806,782,704,320
+Columbia,33.0 Southside Rec Complex,U.S. House,3,REP,Kat Cammack,2656,1183,910,563
+Columbia,41.0 Watertown,U.S. House,3,REP,Kat Cammack,947,392,324,231
+Columbia,42.0 Lulu Comm Center,U.S. House,3,REP,Kat Cammack,209,,,
+Columbia,43.0 Mason City Community Ctr,U.S. House,3,REP,Kat Cammack,1294,416,687,191
+Columbia,444.0 Watertown,U.S. House,3,REP,Kat Cammack,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. House,3,REP,Kat Cammack,28,,,
+Columbia,46.0 Columbia City,U.S. House,3,REP,Kat Cammack,212,99,70,43
+Columbia,112.0 Supv Elections,U.S. House,3,REP,Kat Cammack,41,,,
+Columbia,47.0 Fort White Community Ctr,U.S. House,3,REP,Kat Cammack,364,167,146,51
+Columbia,48.0 Fort White Community Ctr,U.S. House,3,REP,Kat Cammack,956,324,449,183
+Columbia,50.0 Watertown,U.S. House,3,REP,Kat Cammack,75,,,
+Columbia,51.0 Southside Rec Complex,U.S. House,3,REP,Kat Cammack,1167,528,406,233
+Columbia,52.0 Columbia City,U.S. House,3,REP,Kat Cammack,1344,559,567,218
+Columbia,53.0 Supv Elections,U.S. House,3,REP,Kat Cammack,18,,,
+Columbia,132.0 Supv Elections,U.S. House,3,REP,Kat Cammack,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. House,3,REP,Kat Cammack,35,,,
+Columbia,553.0 Supv Elections,U.S. House,3,REP,Kat Cammack,513,226,177,110
+Columbia,554.0 Supv Elections,U.S. House,3,REP,Kat Cammack,401,155,135,111
+Columbia,114 .0 Supv Elections,U.S. House,3,REP,Kat Cammack,94,,,
+Columbia,15.0 Deep Creek Community Ctr,U.S. House,3,REP,Kat Cammack,295,109,152,34
+Columbia,16.0 Winfield Com Center,U.S. House,3,REP,Kat Cammack,887,308,406,173
+Columbia,17.0  Richardson Comm Center,U.S. House,3,REP,Kat Cammack,394,164,130,100
+Columbia,18.0 Winfield Community Center,U.S. House,3,REP,Kat Cammack,106,,,
+Columbia,19.0  Watertown,U.S. House,3,REP,Kat Cammack,37,,,
+Columbia,21.0 Westside Community Ctr,U.S. House,3,REP,Kat Cammack,828,278,421,129
+Columbia,110.0 Richardson Comm Center,U.S. House,3,DEM,Danielle Hawk,343,93,131,119
+Columbia,22.0 Fort White Community Ctr,U.S. House,3,DEM,Danielle Hawk,575,174,178,223
+Columbia,23.0 Columbia City,U.S. House,3,DEM,Danielle Hawk,205,53,46,106
+Columbia,31.0 Westside Community Ctr,U.S. House,3,DEM,Danielle Hawk,366,108,105,153
+Columbia,33.0 Southside Rec Complex,U.S. House,3,DEM,Danielle Hawk,673,228,185,260
+Columbia,41.0 Watertown,U.S. House,3,DEM,Danielle Hawk,200,61,55,84
+Columbia,42.0 Lulu Comm Center,U.S. House,3,DEM,Danielle Hawk,12,,,
+Columbia,43.0 Mason City Community Ctr,U.S. House,3,DEM,Danielle Hawk,225,60,74,91
+Columbia,444.0 Watertown,U.S. House,3,DEM,Danielle Hawk,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. House,3,DEM,Danielle Hawk,11,,,
+Columbia,46.0 Columbia City,U.S. House,3,DEM,Danielle Hawk,33,,,
+Columbia,112.0 Supv Elections,U.S. House,3,DEM,Danielle Hawk,165,58,58,49
+Columbia,47.0 Fort White Community Ctr,U.S. House,3,DEM,Danielle Hawk,78,,,
+Columbia,48.0 Fort White Community Ctr,U.S. House,3,DEM,Danielle Hawk,254,72,71,111
+Columbia,50.0 Watertown,U.S. House,3,DEM,Danielle Hawk,32,,,
+Columbia,51.0 Southside Rec Complex,U.S. House,3,DEM,Danielle Hawk,294,133,68,93
+Columbia,52.0 Columbia City,U.S. House,3,DEM,Danielle Hawk,220,52,88,80
+Columbia,53.0 Supv Elections,U.S. House,3,DEM,Danielle Hawk,4,,,
+Columbia,132.0 Supv Elections,U.S. House,3,DEM,Danielle Hawk,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. House,3,DEM,Danielle Hawk,7,,,
+Columbia,553.0 Supv Elections,U.S. House,3,DEM,Danielle Hawk,237,71,78,88
+Columbia,554.0 Supv Elections,U.S. House,3,DEM,Danielle Hawk,149,,,
+Columbia,114 .0 Supv Elections,U.S. House,3,DEM,Danielle Hawk,58,,,
+Columbia,15.0 Deep Creek Community Ctr,U.S. House,3,DEM,Danielle Hawk,58,,,
+Columbia,16.0 Winfield Com Center,U.S. House,3,DEM,Danielle Hawk,331,72,147,112
+Columbia,17.0  Richardson Comm Center,U.S. House,3,DEM,Danielle Hawk,203,64,60,79
+Columbia,18.0 Winfield Community Center,U.S. House,3,DEM,Danielle Hawk,35,,,
+Columbia,19.0  Watertown,U.S. House,3,DEM,Danielle Hawk,33,,,
+Columbia,21.0 Westside Community Ctr,U.S. House,3,DEM,Danielle Hawk,160,44,49,67
+Columbia,110.0 Richardson Comm Center,U.S. House,3,NPA,Linda S. Brooks,6,,,
+Columbia,22.0 Fort White Community Ctr,U.S. House,3,NPA,Linda S. Brooks,32,,,
+Columbia,23.0 Columbia City,U.S. House,3,NPA,Linda S. Brooks,12,,,
+Columbia,31.0 Westside Community Ctr,U.S. House,3,NPA,Linda S. Brooks,23,,,
+Columbia,33.0 Southside Rec Complex,U.S. House,3,NPA,Linda S. Brooks,41,,,
+Columbia,41.0 Watertown,U.S. House,3,NPA,Linda S. Brooks,14,,,
+Columbia,42.0 Lulu Comm Center,U.S. House,3,NPA,Linda S. Brooks,3,,,
+Columbia,43.0 Mason City Community Ctr,U.S. House,3,NPA,Linda S. Brooks,11,,,
+Columbia,444.0 Watertown,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
+Columbia,46.0 Columbia City,U.S. House,3,NPA,Linda S. Brooks,5,,,
+Columbia,112.0 Supv Elections,U.S. House,3,NPA,Linda S. Brooks,3,,,
+Columbia,47.0 Fort White Community Ctr,U.S. House,3,NPA,Linda S. Brooks,2,,,
+Columbia,48.0 Fort White Community Ctr,U.S. House,3,NPA,Linda S. Brooks,12,,,
+Columbia,50.0 Watertown,U.S. House,3,NPA,Linda S. Brooks,2,,,
+Columbia,51.0 Southside Rec Complex,U.S. House,3,NPA,Linda S. Brooks,19,,,
+Columbia,52.0 Columbia City,U.S. House,3,NPA,Linda S. Brooks,21,,,
+Columbia,53.0 Supv Elections,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
+Columbia,132.0 Supv Elections,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
+Columbia,513.0 Supv Elections,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
+Columbia,553.0 Supv Elections,U.S. House,3,NPA,Linda S. Brooks,14,,,
+Columbia,554.0 Supv Elections,U.S. House,3,NPA,Linda S. Brooks,13,,,
+Columbia,114 .0 Supv Elections,U.S. House,3,NPA,Linda S. Brooks,2,,,
+Columbia,15.0 Deep Creek Community Ctr,U.S. House,3,NPA,Linda S. Brooks,5,,,
+Columbia,16.0 Winfield Com Center,U.S. House,3,NPA,Linda S. Brooks,10,,,
+Columbia,17.0  Richardson Comm Center,U.S. House,3,NPA,Linda S. Brooks,7,,,
+Columbia,18.0 Winfield Community Center,U.S. House,3,NPA,Linda S. Brooks,2,,,
+Columbia,19.0  Watertown,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
+Columbia,21.0 Westside Community Ctr,U.S. House,3,NPA,Linda S. Brooks,3,,,
+Columbia,110.0 Richardson Comm Center,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,147,60,54,33
+Columbia,22.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,2497,1023,1118,356
+Columbia,23.0 Columbia City,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,1072,447,399,226
+Columbia,31.0 Westside Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,1846,795,720,331
+Columbia,33.0 Southside Rec Complex,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,2718,1213,931,574
+Columbia,41.0 Watertown,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,978,406,330,242
+Columbia,42.0 Lulu Comm Center,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,217,,,
+Columbia,43.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,1319,420,699,200
+Columbia,444.0 Watertown,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,28,,,
+Columbia,46.0 Columbia City,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,217,100,73,44
+Columbia,112.0 Supv Elections,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,45,,,
+Columbia,47.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,376,170,151,55
+Columbia,48.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,971,326,456,189
+Columbia,50.0 Watertown,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,82,,,
+Columbia,51.0 Southside Rec Complex,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,1199,541,416,242
+Columbia,52.0 Columbia City,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,1378,569,583,226
+Columbia,53.0 Supv Elections,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,18,,,
+Columbia,132.0 Supv Elections,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,0,0,0,0
+Columbia,513.0 Supv Elections,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,35,,,
+Columbia,553.0 Supv Elections,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,530,226,187,117
+Columbia,554.0 Supv Elections,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,409,158,138,113
+Columbia,114 .0 Supv Elections,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,102,,,
+Columbia,15.0 Deep Creek Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,302,111,154,37
+Columbia,16.0 Winfield Com Center,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,910,312,420,178
+Columbia,17.0  Richardson Comm Center,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,415,168,141,106
+Columbia,18.0 Winfield Community Center,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,107,,,
+Columbia,19.0  Watertown,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,40,,,
+Columbia,21.0 Westside Community Ctr,Governor and Lieutenant Governor,"",REP,Ron DeSantis/Jeanette Nuñez,832,277,428,127
+Columbia,110.0 Richardson Comm Center,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,333,90,130,113
+Columbia,22.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,545,169,160,216
+Columbia,23.0 Columbia City,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,197,55,45,97
+Columbia,31.0 Westside Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,361,108,101,152
+Columbia,33.0 Southside Rec Complex,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,649,214,173,262
+Columbia,41.0 Watertown,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,182,52,48,82
+Columbia,42.0 Lulu Comm Center,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,8,,,
+Columbia,43.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,219,60,74,85
+Columbia,444.0 Watertown,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,11,,,
+Columbia,46.0 Columbia City,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,30,,,
+Columbia,112.0 Supv Elections,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,168,59,58,51
+Columbia,47.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,70,,,
+Columbia,48.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,249,73,71,105
+Columbia,50.0 Watertown,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,28,,,
+Columbia,51.0 Southside Rec Complex,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,285,123,66,96
+Columbia,52.0 Columbia City,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,210,51,85,74
+Columbia,53.0 Supv Elections,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,4,,,
+Columbia,132.0 Supv Elections,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,0,0,0,0
+Columbia,513.0 Supv Elections,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,7,,,
+Columbia,553.0 Supv Elections,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,233,77,73,83
+Columbia,554.0 Supv Elections,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,153,55,30,68
+Columbia,114 .0 Supv Elections,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,52,,,
+Columbia,15.0 Deep Creek Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,59,,,
+Columbia,16.0 Winfield Com Center,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,323,70,142,111
+Columbia,17.0  Richardson Comm Center,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,189,61,51,77
+Columbia,18.0 Winfield Community Center,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,34,,,
+Columbia,19.0  Watertown,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,30,,,
+Columbia,21.0 Westside Community Ctr,Governor and Lieutenant Governor,"",DEM,Charlie Crist/Karla Hernandez,160,43,47,70
+Columbia,110.0 Richardson Comm Center,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",2,,,
+Columbia,22.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",11,,,
+Columbia,23.0 Columbia City,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",4,,,
+Columbia,31.0 Westside Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",1,,,
+Columbia,33.0 Southside Rec Complex,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",11,,,
+Columbia,41.0 Watertown,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",1,,,
+Columbia,42.0 Lulu Comm Center,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,43.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",2,,,
+Columbia,444.0 Watertown,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,46.0 Columbia City,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",1,,,
+Columbia,112.0 Supv Elections,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,47.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",1,,,
+Columbia,48.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",4,,,
+Columbia,50.0 Watertown,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,51.0 Southside Rec Complex,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",6,,,
+Columbia,52.0 Columbia City,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",2,,,
+Columbia,53.0 Supv Elections,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,132.0 Supv Elections,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,513.0 Supv Elections,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,553.0 Supv Elections,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",3,,,
+Columbia,554.0 Supv Elections,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",3,,,
+Columbia,114 .0 Supv Elections,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,15.0 Deep Creek Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,16.0 Winfield Com Center,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",4,,,
+Columbia,17.0  Richardson Comm Center,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,18.0 Winfield Community Center,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,19.0  Watertown,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",0,0,0,0
+Columbia,21.0 Westside Community Ctr,Governor and Lieutenant Governor,"",LPF,"Hector Roos/Jerry ""Tub"" Rorabaugh",3,,,
+Columbia,110.0 Richardson Comm Center,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",5,,,
+Columbia,22.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",14,,,
+Columbia,23.0 Columbia City,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",1,,,
+Columbia,31.0 Westside Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",7,,,
+Columbia,33.0 Southside Rec Complex,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",12,,,
+Columbia,41.0 Watertown,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",8,,,
+Columbia,42.0 Lulu Comm Center,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,43.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",2,,,
+Columbia,444.0 Watertown,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,46.0 Columbia City,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",4,,,
+Columbia,112.0 Supv Elections,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",1,,,
+Columbia,47.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",2,,,
+Columbia,48.0 Fort White Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",3,,,
+Columbia,50.0 Watertown,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",1,,,
+Columbia,51.0 Southside Rec Complex,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,52.0 Columbia City,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",6,,,
+Columbia,53.0 Supv Elections,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,132.0 Supv Elections,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,513.0 Supv Elections,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,553.0 Supv Elections,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",4,,,
+Columbia,554.0 Supv Elections,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",2,,,
+Columbia,114 .0 Supv Elections,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",1,,,
+Columbia,15.0 Deep Creek Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",0,0,0,0
+Columbia,16.0 Winfield Com Center,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",4,,,
+Columbia,17.0  Richardson Comm Center,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",5,,,
+Columbia,18.0 Winfield Community Center,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",2,,,
+Columbia,19.0  Watertown,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",1,,,
+Columbia,21.0 Westside Community Ctr,Governor and Lieutenant Governor,"",NPA,"Carmen Jackie Gimenez/Kyle ""KC"" Gibson",4,,,
+Columbia,110.0 Richardson Comm Center,Attorney General,"",REP,Ashley Moody,152,61,55,36
+Columbia,22.0 Fort White Community Ctr,Attorney General,"",REP,Ashley Moody,2495,1030,1115,350
+Columbia,23.0 Columbia City,Attorney General,"",REP,Ashley Moody,1058,445,400,213
+Columbia,31.0 Westside Community Ctr,Attorney General,"",REP,Ashley Moody,1834,799,711,324
+Columbia,33.0 Southside Rec Complex,Attorney General,"",REP,Ashley Moody,2711,1216,914,581
+Columbia,41.0 Watertown,Attorney General,"",REP,Ashley Moody,959,400,323,236
+Columbia,42.0 Lulu Comm Center,Attorney General,"",REP,Ashley Moody,214,,,
+Columbia,43.0 Mason City Community Ctr,Attorney General,"",REP,Ashley Moody,1318,418,707,193
+Columbia,444.0 Watertown,Attorney General,"",REP,Ashley Moody,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Attorney General,"",REP,Ashley Moody,28,,,
+Columbia,46.0 Columbia City,Attorney General,"",REP,Ashley Moody,215,100,71,44
+Columbia,112.0 Supv Elections,Attorney General,"",REP,Ashley Moody,49,,,
+Columbia,47.0 Fort White Community Ctr,Attorney General,"",REP,Ashley Moody,373,170,149,54
+Columbia,48.0 Fort White Community Ctr,Attorney General,"",REP,Ashley Moody,972,334,453,185
+Columbia,50.0 Watertown,Attorney General,"",REP,Ashley Moody,84,,,
+Columbia,51.0 Southside Rec Complex,Attorney General,"",REP,Ashley Moody,1206,545,411,250
+Columbia,52.0 Columbia City,Attorney General,"",REP,Ashley Moody,1371,565,579,227
+Columbia,53.0 Supv Elections,Attorney General,"",REP,Ashley Moody,18,,,
+Columbia,132.0 Supv Elections,Attorney General,"",REP,Ashley Moody,0,0,0,0
+Columbia,513.0 Supv Elections,Attorney General,"",REP,Ashley Moody,34,,,
+Columbia,553.0 Supv Elections,Attorney General,"",REP,Ashley Moody,535,236,186,113
+Columbia,554.0 Supv Elections,Attorney General,"",REP,Ashley Moody,421,167,137,117
+Columbia,114 .0 Supv Elections,Attorney General,"",REP,Ashley Moody,102,,,
+Columbia,15.0 Deep Creek Community Ctr,Attorney General,"",REP,Ashley Moody,306,110,158,38
+Columbia,16.0 Winfield Com Center,Attorney General,"",REP,Ashley Moody,916,314,422,180
+Columbia,17.0  Richardson Comm Center,Attorney General,"",REP,Ashley Moody,402,164,136,102
+Columbia,18.0 Winfield Community Center,Attorney General,"",REP,Ashley Moody,109,,,
+Columbia,19.0  Watertown,Attorney General,"",REP,Ashley Moody,42,,,
+Columbia,21.0 Westside Community Ctr,Attorney General,"",REP,Ashley Moody,838,282,427,129
+Columbia,110.0 Richardson Comm Center,Attorney General,"",DEM,Aramis Ayala,329,89,132,108
+Columbia,22.0 Fort White Community Ctr,Attorney General,"",DEM,Aramis Ayala,540,158,167,215
+Columbia,23.0 Columbia City,Attorney General,"",DEM,Aramis Ayala,196,55,42,99
+Columbia,31.0 Westside Community Ctr,Attorney General,"",DEM,Aramis Ayala,356,101,106,149
+Columbia,33.0 Southside Rec Complex,Attorney General,"",DEM,Aramis Ayala,644,211,188,245
+Columbia,41.0 Watertown,Attorney General,"",DEM,Aramis Ayala,188,56,56,76
+Columbia,42.0 Lulu Comm Center,Attorney General,"",DEM,Aramis Ayala,9,,,
+Columbia,43.0 Mason City Community Ctr,Attorney General,"",DEM,Aramis Ayala,212,58,64,90
+Columbia,444.0 Watertown,Attorney General,"",DEM,Aramis Ayala,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Attorney General,"",DEM,Aramis Ayala,11,,,
+Columbia,46.0 Columbia City,Attorney General,"",DEM,Aramis Ayala,33,,,
+Columbia,112.0 Supv Elections,Attorney General,"",DEM,Aramis Ayala,162,59,56,47
+Columbia,47.0 Fort White Community Ctr,Attorney General,"",DEM,Aramis Ayala,74,,,
+Columbia,48.0 Fort White Community Ctr,Attorney General,"",DEM,Aramis Ayala,241,65,72,104
+Columbia,50.0 Watertown,Attorney General,"",DEM,Aramis Ayala,26,,,
+Columbia,51.0 Southside Rec Complex,Attorney General,"",DEM,Aramis Ayala,276,122,72,82
+Columbia,52.0 Columbia City,Attorney General,"",DEM,Aramis Ayala,210,56,77,77
+Columbia,53.0 Supv Elections,Attorney General,"",DEM,Aramis Ayala,4,,,
+Columbia,132.0 Supv Elections,Attorney General,"",DEM,Aramis Ayala,0,0,0,0
+Columbia,513.0 Supv Elections,Attorney General,"",DEM,Aramis Ayala,8,,,
+Columbia,553.0 Supv Elections,Attorney General,"",DEM,Aramis Ayala,224,68,74,82
+Columbia,554.0 Supv Elections,Attorney General,"",DEM,Aramis Ayala,140,47,30,63
+Columbia,114 .0 Supv Elections,Attorney General,"",DEM,Aramis Ayala,51,,,
+Columbia,15.0 Deep Creek Community Ctr,Attorney General,"",DEM,Aramis Ayala,51,,,
+Columbia,16.0 Winfield Com Center,Attorney General,"",DEM,Aramis Ayala,313,68,137,108
+Columbia,17.0  Richardson Comm Center,Attorney General,"",DEM,Aramis Ayala,197,64,57,76
+Columbia,18.0 Winfield Community Center,Attorney General,"",DEM,Aramis Ayala,33,,,
+Columbia,19.0  Watertown,Attorney General,"",DEM,Aramis Ayala,29,,,
+Columbia,21.0 Westside Community Ctr,Attorney General,"",DEM,Aramis Ayala,149,39,47,63
+Columbia,110.0 Richardson Comm Center,Chief Financial Officer,"",REP,Jimmy Patronis,133,,,
+Columbia,22.0 Fort White Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,2443,1010,1099,334
+Columbia,23.0 Columbia City,Chief Financial Officer,"",REP,Jimmy Patronis,1043,435,393,215
+Columbia,31.0 Westside Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,1802,793,696,313
+Columbia,33.0 Southside Rec Complex,Chief Financial Officer,"",REP,Jimmy Patronis,2672,1200,908,564
+Columbia,41.0 Watertown,Chief Financial Officer,"",REP,Jimmy Patronis,944,395,321,228
+Columbia,42.0 Lulu Comm Center,Chief Financial Officer,"",REP,Jimmy Patronis,210,,,
+Columbia,43.0 Mason City Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,1299,414,695,190
+Columbia,444.0 Watertown,Chief Financial Officer,"",REP,Jimmy Patronis,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,28,,,
+Columbia,46.0 Columbia City,Chief Financial Officer,"",REP,Jimmy Patronis,213,100,72,41
+Columbia,112.0 Supv Elections,Chief Financial Officer,"",REP,Jimmy Patronis,43,,,
+Columbia,47.0 Fort White Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,364,168,147,49
+Columbia,48.0 Fort White Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,954,323,451,180
+Columbia,50.0 Watertown,Chief Financial Officer,"",REP,Jimmy Patronis,76,,,
+Columbia,51.0 Southside Rec Complex,Chief Financial Officer,"",REP,Jimmy Patronis,1177,535,408,234
+Columbia,52.0 Columbia City,Chief Financial Officer,"",REP,Jimmy Patronis,1350,563,562,225
+Columbia,53.0 Supv Elections,Chief Financial Officer,"",REP,Jimmy Patronis,18,,,
+Columbia,132.0 Supv Elections,Chief Financial Officer,"",REP,Jimmy Patronis,0,0,0,0
+Columbia,513.0 Supv Elections,Chief Financial Officer,"",REP,Jimmy Patronis,34,,,
+Columbia,553.0 Supv Elections,Chief Financial Officer,"",REP,Jimmy Patronis,514,227,175,112
+Columbia,554.0 Supv Elections,Chief Financial Officer,"",REP,Jimmy Patronis,408,160,133,115
+Columbia,114 .0 Supv Elections,Chief Financial Officer,"",REP,Jimmy Patronis,96,,,
+Columbia,15.0 Deep Creek Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,293,105,153,35
+Columbia,16.0 Winfield Com Center,Chief Financial Officer,"",REP,Jimmy Patronis,888,305,407,176
+Columbia,17.0  Richardson Comm Center,Chief Financial Officer,"",REP,Jimmy Patronis,389,162,132,95
+Columbia,18.0 Winfield Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,107,,,
+Columbia,19.0  Watertown,Chief Financial Officer,"",REP,Jimmy Patronis,38,,,
+Columbia,21.0 Westside Community Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,813,278,414,121
+Columbia,110.0 Richardson Comm Center,Chief Financial Officer,"",DEM,Adam Hattersley,349,92,139,118
+Columbia,22.0 Fort White Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,576,174,174,228
+Columbia,23.0 Columbia City,Chief Financial Officer,"",DEM,Adam Hattersley,211,59,49,103
+Columbia,31.0 Westside Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,377,104,116,157
+Columbia,33.0 Southside Rec Complex,Chief Financial Officer,"",DEM,Adam Hattersley,667,223,187,257
+Columbia,41.0 Watertown,Chief Financial Officer,"",DEM,Adam Hattersley,203,60,58,85
+Columbia,42.0 Lulu Comm Center,Chief Financial Officer,"",DEM,Adam Hattersley,12,,,
+Columbia,43.0 Mason City Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,224,60,74,90
+Columbia,444.0 Watertown,Chief Financial Officer,"",DEM,Adam Hattersley,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,11,,,
+Columbia,46.0 Columbia City,Chief Financial Officer,"",DEM,Adam Hattersley,34,,,
+Columbia,112.0 Supv Elections,Chief Financial Officer,"",DEM,Adam Hattersley,164,57,59,48
+Columbia,47.0 Fort White Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,76,,,
+Columbia,48.0 Fort White Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,258,74,73,111
+Columbia,50.0 Watertown,Chief Financial Officer,"",DEM,Adam Hattersley,31,,,
+Columbia,51.0 Southside Rec Complex,Chief Financial Officer,"",DEM,Adam Hattersley,293,129,70,94
+Columbia,52.0 Columbia City,Chief Financial Officer,"",DEM,Adam Hattersley,224,54,93,77
+Columbia,53.0 Supv Elections,Chief Financial Officer,"",DEM,Adam Hattersley,4,,,
+Columbia,132.0 Supv Elections,Chief Financial Officer,"",DEM,Adam Hattersley,0,0,0,0
+Columbia,513.0 Supv Elections,Chief Financial Officer,"",DEM,Adam Hattersley,8,,,
+Columbia,553.0 Supv Elections,Chief Financial Officer,"",DEM,Adam Hattersley,239,73,84,82
+Columbia,554.0 Supv Elections,Chief Financial Officer,"",DEM,Adam Hattersley,149,53,32,64
+Columbia,114 .0 Supv Elections,Chief Financial Officer,"",DEM,Adam Hattersley,55,,,
+Columbia,15.0 Deep Creek Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,63,,,
+Columbia,16.0 Winfield Com Center,Chief Financial Officer,"",DEM,Adam Hattersley,339,75,150,114
+Columbia,17.0  Richardson Comm Center,Chief Financial Officer,"",DEM,Adam Hattersley,203,65,60,78
+Columbia,18.0 Winfield Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,34,,,
+Columbia,19.0  Watertown,Chief Financial Officer,"",DEM,Adam Hattersley,31,,,
+Columbia,21.0 Westside Community Ctr,Chief Financial Officer,"",DEM,Adam Hattersley,167,42,56,69
+Columbia,110.0 Richardson Comm Center,Commissioner of Agriculture,"",REP,Wilton Simpson,130,50,49,31
+Columbia,22.0 Fort White Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,2453,1008,1095,350
+Columbia,23.0 Columbia City,Commissioner of Agriculture,"",REP,Wilton Simpson,1045,434,395,216
+Columbia,31.0 Westside Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,1807,793,692,322
+Columbia,33.0 Southside Rec Complex,Commissioner of Agriculture,"",REP,Wilton Simpson,2662,1195,902,565
+Columbia,41.0 Watertown,Commissioner of Agriculture,"",REP,Wilton Simpson,941,391,319,231
+Columbia,42.0 Lulu Comm Center,Commissioner of Agriculture,"",REP,Wilton Simpson,212,,,
+Columbia,43.0 Mason City Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,1298,413,691,194
+Columbia,444.0 Watertown,Commissioner of Agriculture,"",REP,Wilton Simpson,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,28,,,
+Columbia,46.0 Columbia City,Commissioner of Agriculture,"",REP,Wilton Simpson,212,100,69,43
+Columbia,112.0 Supv Elections,Commissioner of Agriculture,"",REP,Wilton Simpson,39,,,
+Columbia,47.0 Fort White Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,366,169,148,49
+Columbia,48.0 Fort White Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,966,326,450,190
+Columbia,50.0 Watertown,Commissioner of Agriculture,"",REP,Wilton Simpson,80,,,
+Columbia,51.0 Southside Rec Complex,Commissioner of Agriculture,"",REP,Wilton Simpson,1184,539,412,233
+Columbia,52.0 Columbia City,Commissioner of Agriculture,"",REP,Wilton Simpson,1357,565,569,223
+Columbia,53.0 Supv Elections,Commissioner of Agriculture,"",REP,Wilton Simpson,18,,,
+Columbia,132.0 Supv Elections,Commissioner of Agriculture,"",REP,Wilton Simpson,0,0,0,0
+Columbia,513.0 Supv Elections,Commissioner of Agriculture,"",REP,Wilton Simpson,36,,,
+Columbia,553.0 Supv Elections,Commissioner of Agriculture,"",REP,Wilton Simpson,507,223,176,108
+Columbia,554.0 Supv Elections,Commissioner of Agriculture,"",REP,Wilton Simpson,405,159,133,113
+Columbia,114 .0 Supv Elections,Commissioner of Agriculture,"",REP,Wilton Simpson,97,,,
+Columbia,15.0 Deep Creek Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,295,107,153,35
+Columbia,16.0 Winfield Com Center,Commissioner of Agriculture,"",REP,Wilton Simpson,890,304,409,177
+Columbia,17.0  Richardson Comm Center,Commissioner of Agriculture,"",REP,Wilton Simpson,397,163,134,100
+Columbia,18.0 Winfield Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,107,,,
+Columbia,19.0  Watertown,Commissioner of Agriculture,"",REP,Wilton Simpson,40,,,
+Columbia,21.0 Westside Community Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,827,280,418,129
+Columbia,110.0 Richardson Comm Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,353,99,138,116
+Columbia,22.0 Fort White Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,574,171,185,218
+Columbia,23.0 Columbia City,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,208,61,47,100
+Columbia,31.0 Westside Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,375,101,121,153
+Columbia,33.0 Southside Rec Complex,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,676,224,196,256
+Columbia,41.0 Watertown,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,206,65,59,82
+Columbia,42.0 Lulu Comm Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11,,,
+Columbia,43.0 Mason City Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,223,59,78,86
+Columbia,444.0 Watertown,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11,,,
+Columbia,46.0 Columbia City,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,35,,,
+Columbia,112.0 Supv Elections,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,169,59,62,48
+Columbia,47.0 Fort White Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,73,,,
+Columbia,48.0 Fort White Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,245,69,73,103
+Columbia,50.0 Watertown,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,28,,,
+Columbia,51.0 Southside Rec Complex,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,287,125,68,94
+Columbia,52.0 Columbia City,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,213,52,84,77
+Columbia,53.0 Supv Elections,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,4,,,
+Columbia,132.0 Supv Elections,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,0,0,0,0
+Columbia,513.0 Supv Elections,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7,,,
+Columbia,553.0 Supv Elections,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,246,78,82,86
+Columbia,554.0 Supv Elections,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,152,55,31,66
+Columbia,114 .0 Supv Elections,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,56,,,
+Columbia,15.0 Deep Creek Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,60,,,
+Columbia,16.0 Winfield Com Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,341,78,151,112
+Columbia,17.0  Richardson Comm Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,203,66,58,79
+Columbia,18.0 Winfield Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,34,,,
+Columbia,19.0  Watertown,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,29,,,
+Columbia,21.0 Westside Community Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,155,42,50,63
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Canady,"","",Yes/Si,207,74,68,65
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,1768,739,713,316
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Canady,"","",Yes/Si,707,289,245,173
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,1270,536,468,266
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Canady,"","",Yes/Si,2010,851,666,493
+Columbia,41.0 Watertown,Justice of the Supreme Court-Canady,"","",Yes/Si,638,253,207,178
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Canady,"","",Yes/Si,127,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,861,263,446,152
+Columbia,444.0 Watertown,Justice of the Supreme Court-Canady,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,13,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Canady,"","",Yes/Si,158,68,51,39
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Canady,"","",Yes/Si,92,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,275,127,100,48
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,737,225,338,174
+Columbia,50.0 Watertown,Justice of the Supreme Court-Canady,"","",Yes/Si,63,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Canady,"","",Yes/Si,847,387,283,177
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Canady,"","",Yes/Si,916,371,377,168
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Canady,"","",Yes/Si,12,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Canady,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Canady,"","",Yes/Si,31,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Canady,"","",Yes/Si,444,174,165,105
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Canady,"","",Yes/Si,315,108,108,99
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Canady,"","",Yes/Si,96,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,181,,,
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Canady,"","",Yes/Si,712,214,321,177
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Canady,"","",Yes/Si,326,127,114,85
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Canady,"","",Yes/Si,74,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Canady,"","",Yes/Si,39,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Canady,"","",Yes/Si,590,191,277,122
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Canady,"","",No/No,251,69,106,76
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,1009,351,447,211
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Canady,"","",No/No,431,167,150,114
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,712,286,260,166
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Canady,"","",No/No,1040,447,330,263
+Columbia,41.0 Watertown,Justice of the Supreme Court-Canady,"","",No/No,399,163,134,102
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Canady,"","",No/No,76,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,514,166,234,114
+Columbia,444.0 Watertown,Justice of the Supreme Court-Canady,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,20,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Canady,"","",No/No,72,,,
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Canady,"","",No/No,103,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,117,41,46,30
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,368,129,148,91
+Columbia,50.0 Watertown,Justice of the Supreme Court-Canady,"","",No/No,39,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Canady,"","",No/No,483,213,157,113
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Canady,"","",No/No,473,178,197,98
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Canady,"","",No/No,8,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Canady,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Canady,"","",No/No,7,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Canady,"","",No/No,260,112,69,79
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Canady,"","",No/No,196,90,40,66
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Canady,"","",No/No,44,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,150,54,66,30
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Canady,"","",No/No,431,140,203,88
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Canady,"","",No/No,230,86,66,78
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Canady,"","",No/No,56,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Canady,"","",No/No,26,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Canady,"","",No/No,304,108,125,71
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Couriel,"","",Yes/Si,199,75,66,58
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,1867,784,768,315
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Couriel,"","",Yes/Si,727,305,262,160
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,1330,567,492,271
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Couriel,"","",Yes/Si,2070,896,688,486
+Columbia,41.0 Watertown,Justice of the Supreme Court-Couriel,"","",Yes/Si,666,268,224,174
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Couriel,"","",Yes/Si,137,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,892,274,462,156
+Columbia,444.0 Watertown,Justice of the Supreme Court-Couriel,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,20,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Couriel,"","",Yes/Si,153,67,50,36
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",Yes/Si,95,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,272,131,102,39
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,772,238,360,174
+Columbia,50.0 Watertown,Justice of the Supreme Court-Couriel,"","",Yes/Si,65,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Couriel,"","",Yes/Si,894,409,302,183
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Couriel,"","",Yes/Si,977,391,417,169
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",Yes/Si,12,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",Yes/Si,30,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",Yes/Si,435,177,160,98
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",Yes/Si,301,109,100,92
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Couriel,"","",Yes/Si,92,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,202,,,
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Couriel,"","",Yes/Si,745,231,344,170
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Couriel,"","",Yes/Si,324,125,113,86
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Couriel,"","",Yes/Si,85,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Couriel,"","",Yes/Si,33,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Couriel,"","",Yes/Si,616,198,298,120
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Couriel,"","",No/No,255,67,109,79
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,897,302,387,208
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Couriel,"","",No/No,399,147,132,120
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,647,252,235,160
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Couriel,"","",No/No,971,400,301,270
+Columbia,41.0 Watertown,Justice of the Supreme Court-Couriel,"","",No/No,360,143,113,104
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Couriel,"","",No/No,65,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,470,151,213,106
+Columbia,444.0 Watertown,Justice of the Supreme Court-Couriel,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,14,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Couriel,"","",No/No,76,,,
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",No/No,99,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,119,37,44,38
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,335,115,126,94
+Columbia,50.0 Watertown,Justice of the Supreme Court-Couriel,"","",No/No,37,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Couriel,"","",No/No,428,190,133,105
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Couriel,"","",No/No,406,157,152,97
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",No/No,8,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",No/No,7,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",No/No,265,108,72,85
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Couriel,"","",No/No,206,89,45,72
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Couriel,"","",No/No,45,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,127,,,
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Couriel,"","",No/No,386,119,177,90
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Couriel,"","",No/No,227,86,66,75
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Couriel,"","",No/No,46,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Couriel,"","",No/No,30,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Couriel,"","",No/No,275,100,104,71
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Grosshans,"","",Yes/Si,203,71,73,59
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,1872,785,769,318
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Grosshans,"","",Yes/Si,712,302,244,166
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,1309,559,475,275
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Grosshans,"","",Yes/Si,2064,893,679,492
+Columbia,41.0 Watertown,Justice of the Supreme Court-Grosshans,"","",Yes/Si,662,266,221,175
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Grosshans,"","",Yes/Si,135,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,881,266,459,156
+Columbia,444.0 Watertown,Justice of the Supreme Court-Grosshans,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,18,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Grosshans,"","",Yes/Si,161,66,55,40
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",Yes/Si,90,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,277,131,104,42
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,753,227,359,167
+Columbia,50.0 Watertown,Justice of the Supreme Court-Grosshans,"","",Yes/Si,63,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Grosshans,"","",Yes/Si,900,410,308,182
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Grosshans,"","",Yes/Si,972,394,413,165
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",Yes/Si,12,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",Yes/Si,29,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",Yes/Si,428,168,161,99
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",Yes/Si,299,102,102,95
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",Yes/Si,93,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,202,58,112,32
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Grosshans,"","",Yes/Si,735,224,336,175
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Grosshans,"","",Yes/Si,334,134,107,93
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Grosshans,"","",Yes/Si,82,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Grosshans,"","",Yes/Si,35,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Grosshans,"","",Yes/Si,612,200,295,117
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Grosshans,"","",No/No,245,70,100,75
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,881,292,383,206
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Grosshans,"","",No/No,410,147,147,116
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,659,257,246,156
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Grosshans,"","",No/No,957,393,305,259
+Columbia,41.0 Watertown,Justice of the Supreme Court-Grosshans,"","",No/No,365,147,118,100
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Grosshans,"","",No/No,67,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,478,157,217,104
+Columbia,444.0 Watertown,Justice of the Supreme Court-Grosshans,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,16,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Grosshans,"","",No/No,67,,,
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",No/No,100,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,111,36,41,34
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,349,122,127,100
+Columbia,50.0 Watertown,Justice of the Supreme Court-Grosshans,"","",No/No,38,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Grosshans,"","",No/No,414,188,124,102
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Grosshans,"","",No/No,407,153,155,99
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",No/No,8,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",No/No,8,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",No/No,265,114,68,83
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",No/No,207,94,44,69
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Grosshans,"","",No/No,46,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,125,,,
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Grosshans,"","",No/No,400,127,184,89
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Grosshans,"","",No/No,220,78,71,71
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Grosshans,"","",No/No,46,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Grosshans,"","",No/No,28,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Grosshans,"","",No/No,275,96,106,73
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Labarga,"","",Yes/Si,223,73,74,76
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,1523,608,588,327
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Labarga,"","",Yes/Si,545,219,184,142
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,1079,443,373,263
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Labarga,"","",Yes/Si,1703,701,531,471
+Columbia,41.0 Watertown,Justice of the Supreme Court-Labarga,"","",Yes/Si,514,200,174,140
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Labarga,"","",Yes/Si,97,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,684,202,341,141
+Columbia,444.0 Watertown,Justice of the Supreme Court-Labarga,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,15,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Labarga,"","",Yes/Si,135,57,44,34
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",Yes/Si,99,36,31,32
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,215,89,73,53
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,600,182,280,138
+Columbia,50.0 Watertown,Justice of the Supreme Court-Labarga,"","",Yes/Si,49,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Labarga,"","",Yes/Si,702,307,236,159
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Labarga,"","",Yes/Si,709,268,296,145
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",Yes/Si,10,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",Yes/Si,21,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",Yes/Si,401,158,138,105
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",Yes/Si,268,90,88,90
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Labarga,"","",Yes/Si,86,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,152,,,
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Labarga,"","",Yes/Si,596,174,266,156
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Labarga,"","",Yes/Si,302,115,105,82
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Labarga,"","",Yes/Si,62,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Labarga,"","",Yes/Si,24,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Labarga,"","",Yes/Si,473,167,202,104
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Labarga,"","",No/No,227,68,98,61
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,1217,466,557,194
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Labarga,"","",No/No,579,231,207,141
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,886,370,349,167
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Labarga,"","",No/No,1314,589,450,275
+Columbia,41.0 Watertown,Justice of the Supreme Court-Labarga,"","",No/No,509,211,165,133
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Labarga,"","",No/No,103,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,679,223,337,119
+Columbia,444.0 Watertown,Justice of the Supreme Court-Labarga,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,19,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Labarga,"","",No/No,93,,,
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",No/No,95,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,175,,,
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,503,168,207,128
+Columbia,50.0 Watertown,Justice of the Supreme Court-Labarga,"","",No/No,53,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Labarga,"","",No/No,614,287,199,128
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Labarga,"","",No/No,663,277,270,116
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",No/No,10,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",No/No,17,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",No/No,298,127,94,77
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Labarga,"","",No/No,236,104,58,74
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Labarga,"","",No/No,51,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,178,57,88,33
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Labarga,"","",No/No,535,174,255,106
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Labarga,"","",No/No,248,94,74,80
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Labarga,"","",No/No,68,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Labarga,"","",No/No,39,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Labarga,"","",No/No,415,129,198,88
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Polston,"","",Yes/Si,203,76,67,60
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,1728,714,689,325
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Polston,"","",Yes/Si,679,277,245,157
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,1226,508,444,274
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Polston,"","",Yes/Si,1949,832,637,480
+Columbia,41.0 Watertown,Justice of the Supreme Court-Polston,"","",Yes/Si,586,229,197,160
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Polston,"","",Yes/Si,129,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,826,248,426,152
+Columbia,444.0 Watertown,Justice of the Supreme Court-Polston,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,15,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Polston,"","",Yes/Si,157,65,56,36
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Polston,"","",Yes/Si,92,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,252,108,90,54
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,688,217,309,162
+Columbia,50.0 Watertown,Justice of the Supreme Court-Polston,"","",Yes/Si,59,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Polston,"","",Yes/Si,820,379,270,171
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Polston,"","",Yes/Si,895,355,376,164
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Polston,"","",Yes/Si,10,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Polston,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Polston,"","",Yes/Si,29,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Polston,"","",Yes/Si,425,168,150,107
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Polston,"","",Yes/Si,293,102,101,90
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Polston,"","",Yes/Si,92,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,172,,,
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Polston,"","",Yes/Si,683,198,318,167
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Polston,"","",Yes/Si,309,120,107,82
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Polston,"","",Yes/Si,74,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Polston,"","",Yes/Si,32,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Polston,"","",Yes/Si,566,188,265,113
+Columbia,110.0 Richardson Comm Center,Justice of the Supreme Court-Polston,"","",No/No,251,66,107,78
+Columbia,22.0 Fort White Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,1014,361,458,195
+Columbia,23.0 Columbia City,Justice of the Supreme Court-Polston,"","",No/No,436,169,147,120
+Columbia,31.0 Westside Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,734,306,277,151
+Columbia,33.0 Southside Rec Complex,Justice of the Supreme Court-Polston,"","",No/No,1064,457,346,261
+Columbia,41.0 Watertown,Justice of the Supreme Court-Polston,"","",No/No,436,182,144,110
+Columbia,42.0 Lulu Comm Center,Justice of the Supreme Court-Polston,"","",No/No,71,,,
+Columbia,43.0 Mason City Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,525,174,246,105
+Columbia,444.0 Watertown,Justice of the Supreme Court-Polston,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,18,,,
+Columbia,46.0 Columbia City,Justice of the Supreme Court-Polston,"","",No/No,72,,,
+Columbia,112.0 Supv Elections,Justice of the Supreme Court-Polston,"","",No/No,100,,,
+Columbia,47.0 Fort White Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,138,,,
+Columbia,48.0 Fort White Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,407,132,175,100
+Columbia,50.0 Watertown,Justice of the Supreme Court-Polston,"","",No/No,40,,,
+Columbia,51.0 Southside Rec Complex,Justice of the Supreme Court-Polston,"","",No/No,501,218,165,118
+Columbia,52.0 Columbia City,Justice of the Supreme Court-Polston,"","",No/No,480,191,192,97
+Columbia,53.0 Supv Elections,Justice of the Supreme Court-Polston,"","",No/No,10,,,
+Columbia,132.0 Supv Elections,Justice of the Supreme Court-Polston,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Justice of the Supreme Court-Polston,"","",No/No,8,,,
+Columbia,553.0 Supv Elections,Justice of the Supreme Court-Polston,"","",No/No,273,119,81,73
+Columbia,554.0 Supv Elections,Justice of the Supreme Court-Polston,"","",No/No,213,96,44,73
+Columbia,114 .0 Supv Elections,Justice of the Supreme Court-Polston,"","",No/No,48,,,
+Columbia,15.0 Deep Creek Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,157,51,74,32
+Columbia,16.0 Winfield Com Center,Justice of the Supreme Court-Polston,"","",No/No,449,150,202,97
+Columbia,17.0  Richardson Comm Center,Justice of the Supreme Court-Polston,"","",No/No,244,92,73,79
+Columbia,18.0 Winfield Community Center,Justice of the Supreme Court-Polston,"","",No/No,57,,,
+Columbia,19.0  Watertown,Justice of the Supreme Court-Polston,"","",No/No,31,,,
+Columbia,21.0 Westside Community Ctr,Justice of the Supreme Court-Polston,"","",No/No,323,110,136,77
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Bilbrey,"","",Yes/Si,221,72,74,75
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,1814,739,744,331
+Columbia,23.0 Columbia City,District Court of Appeal-Bilbrey,"","",Yes/Si,702,287,256,159
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,1283,544,465,274
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Bilbrey,"","",Yes/Si,2037,883,656,498
+Columbia,41.0 Watertown,District Court of Appeal-Bilbrey,"","",Yes/Si,630,249,208,173
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Bilbrey,"","",Yes/Si,125,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,862,258,442,162
+Columbia,444.0 Watertown,District Court of Appeal-Bilbrey,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,18,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Bilbrey,"","",Yes/Si,149,62,50,37
+Columbia,112.0 Supv Elections,District Court of Appeal-Bilbrey,"","",Yes/Si,94,31,31,32
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,269,125,97,47
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,735,228,339,168
+Columbia,50.0 Watertown,District Court of Appeal-Bilbrey,"","",Yes/Si,60,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Bilbrey,"","",Yes/Si,853,381,291,181
+Columbia,52.0 Columbia City,District Court of Appeal-Bilbrey,"","",Yes/Si,935,363,396,176
+Columbia,53.0 Supv Elections,District Court of Appeal-Bilbrey,"","",Yes/Si,11,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Bilbrey,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Bilbrey,"","",Yes/Si,28,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Bilbrey,"","",Yes/Si,442,176,160,106
+Columbia,554.0 Supv Elections,District Court of Appeal-Bilbrey,"","",Yes/Si,301,110,95,96
+Columbia,114 .0 Supv Elections,District Court of Appeal-Bilbrey,"","",Yes/Si,91,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,187,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Bilbrey,"","",Yes/Si,703,218,318,167
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Bilbrey,"","",Yes/Si,316,125,112,79
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Bilbrey,"","",Yes/Si,80,,,
+Columbia,19.0  Watertown,District Court of Appeal-Bilbrey,"","",Yes/Si,33,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Bilbrey,"","",Yes/Si,589,197,279,113
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Bilbrey,"","",No/No,231,69,100,62
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,915,330,397,188
+Columbia,23.0 Columbia City,District Court of Appeal-Bilbrey,"","",No/No,415,161,136,118
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,681,271,257,153
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Bilbrey,"","",No/No,987,410,325,252
+Columbia,41.0 Watertown,District Court of Appeal-Bilbrey,"","",No/No,393,160,133,100
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Bilbrey,"","",No/No,75,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,493,164,230,99
+Columbia,444.0 Watertown,District Court of Appeal-Bilbrey,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,16,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Bilbrey,"","",No/No,75,,,
+Columbia,112.0 Supv Elections,District Court of Appeal-Bilbrey,"","",No/No,97,,,
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,120,44,46,30
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,356,116,143,97
+Columbia,50.0 Watertown,District Court of Appeal-Bilbrey,"","",No/No,41,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Bilbrey,"","",No/No,459,211,143,105
+Columbia,52.0 Columbia City,District Court of Appeal-Bilbrey,"","",No/No,429,178,167,84
+Columbia,53.0 Supv Elections,District Court of Appeal-Bilbrey,"","",No/No,9,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Bilbrey,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Bilbrey,"","",No/No,9,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Bilbrey,"","",No/No,254,110,71,73
+Columbia,554.0 Supv Elections,District Court of Appeal-Bilbrey,"","",No/No,200,86,48,66
+Columbia,114 .0 Supv Elections,District Court of Appeal-Bilbrey,"","",No/No,47,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,139,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Bilbrey,"","",No/No,430,132,201,97
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Bilbrey,"","",No/No,237,88,67,82
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Bilbrey,"","",No/No,51,,,
+Columbia,19.0  Watertown,District Court of Appeal-Bilbrey,"","",No/No,31,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Bilbrey,"","",No/No,294,102,118,74
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Kelsey,"","",Yes/Si,238,75,78,85
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,1875,748,762,365
+Columbia,23.0 Columbia City,District Court of Appeal-Kelsey,"","",Yes/Si,708,294,249,165
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,1318,559,477,282
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Kelsey,"","",Yes/Si,2098,895,679,524
+Columbia,41.0 Watertown,District Court of Appeal-Kelsey,"","",Yes/Si,654,261,219,174
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Kelsey,"","",Yes/Si,130,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,879,260,450,169
+Columbia,444.0 Watertown,District Court of Appeal-Kelsey,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,20,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Kelsey,"","",Yes/Si,165,71,57,37
+Columbia,112.0 Supv Elections,District Court of Appeal-Kelsey,"","",Yes/Si,100,33,33,34
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,263,122,96,45
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,741,223,350,168
+Columbia,50.0 Watertown,District Court of Appeal-Kelsey,"","",Yes/Si,65,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Kelsey,"","",Yes/Si,877,398,295,184
+Columbia,52.0 Columbia City,District Court of Appeal-Kelsey,"","",Yes/Si,916,366,387,163
+Columbia,53.0 Supv Elections,District Court of Appeal-Kelsey,"","",Yes/Si,11,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Kelsey,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Kelsey,"","",Yes/Si,29,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Kelsey,"","",Yes/Si,464,177,169,118
+Columbia,554.0 Supv Elections,District Court of Appeal-Kelsey,"","",Yes/Si,311,111,99,101
+Columbia,114 .0 Supv Elections,District Court of Appeal-Kelsey,"","",Yes/Si,100,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,200,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Kelsey,"","",Yes/Si,732,219,338,175
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Kelsey,"","",Yes/Si,331,132,103,96
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Kelsey,"","",Yes/Si,81,,,
+Columbia,19.0  Watertown,District Court of Appeal-Kelsey,"","",Yes/Si,39,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Kelsey,"","",Yes/Si,591,193,279,119
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Kelsey,"","",No/No,217,68,96,53
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Kelsey,"","",No/No,859,323,383,153
+Columbia,23.0 Columbia City,District Court of Appeal-Kelsey,"","",No/No,412,158,142,112
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Kelsey,"","",No/No,653,256,249,148
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Kelsey,"","",No/No,910,397,297,216
+Columbia,41.0 Watertown,District Court of Appeal-Kelsey,"","",No/No,372,151,122,99
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Kelsey,"","",No/No,73,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Kelsey,"","",No/No,474,159,221,94
+Columbia,444.0 Watertown,District Court of Appeal-Kelsey,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Kelsey,"","",No/No,14,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Kelsey,"","",No/No,60,,,
+Columbia,112.0 Supv Elections,District Court of Appeal-Kelsey,"","",No/No,92,,,
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Kelsey,"","",No/No,128,47,49,32
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Kelsey,"","",No/No,352,123,131,98
+Columbia,50.0 Watertown,District Court of Appeal-Kelsey,"","",No/No,37,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Kelsey,"","",No/No,435,195,137,103
+Columbia,52.0 Columbia City,District Court of Appeal-Kelsey,"","",No/No,446,171,177,98
+Columbia,53.0 Supv Elections,District Court of Appeal-Kelsey,"","",No/No,9,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Kelsey,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Kelsey,"","",No/No,8,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Kelsey,"","",No/No,226,103,62,61
+Columbia,554.0 Supv Elections,District Court of Appeal-Kelsey,"","",No/No,189,83,45,61
+Columbia,114 .0 Supv Elections,District Court of Appeal-Kelsey,"","",No/No,39,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Kelsey,"","",No/No,126,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Kelsey,"","",No/No,400,128,184,88
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Kelsey,"","",No/No,221,79,75,67
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Kelsey,"","",No/No,49,,,
+Columbia,19.0  Watertown,District Court of Appeal-Kelsey,"","",No/No,25,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Kelsey,"","",No/No,282,100,116,66
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Long,"","",Yes/Si,216,72,71,73
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Long,"","",Yes/Si,1884,779,782,323
+Columbia,23.0 Columbia City,District Court of Appeal-Long,"","",Yes/Si,728,308,258,162
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Long,"","",Yes/Si,1323,559,490,274
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Long,"","",Yes/Si,2076,901,677,498
+Columbia,41.0 Watertown,District Court of Appeal-Long,"","",Yes/Si,670,267,229,174
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Long,"","",Yes/Si,136,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Long,"","",Yes/Si,897,272,461,164
+Columbia,444.0 Watertown,District Court of Appeal-Long,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Long,"","",Yes/Si,19,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Long,"","",Yes/Si,154,65,53,36
+Columbia,112.0 Supv Elections,District Court of Appeal-Long,"","",Yes/Si,95,,,
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Long,"","",Yes/Si,279,135,100,44
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Long,"","",Yes/Si,751,239,344,168
+Columbia,50.0 Watertown,District Court of Appeal-Long,"","",Yes/Si,66,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Long,"","",Yes/Si,885,401,298,186
+Columbia,52.0 Columbia City,District Court of Appeal-Long,"","",Yes/Si,941,377,398,166
+Columbia,53.0 Supv Elections,District Court of Appeal-Long,"","",Yes/Si,12,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Long,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Long,"","",Yes/Si,29,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Long,"","",Yes/Si,447,174,172,101
+Columbia,554.0 Supv Elections,District Court of Appeal-Long,"","",Yes/Si,305,107,104,94
+Columbia,114 .0 Supv Elections,District Court of Appeal-Long,"","",Yes/Si,90,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Long,"","",Yes/Si,195,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Long,"","",Yes/Si,742,226,343,173
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Long,"","",Yes/Si,333,133,107,93
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Long,"","",Yes/Si,82,,,
+Columbia,19.0  Watertown,District Court of Appeal-Long,"","",Yes/Si,33,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Long,"","",Yes/Si,610,202,291,117
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Long,"","",No/No,237,71,102,64
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Long,"","",No/No,841,291,357,193
+Columbia,23.0 Columbia City,District Court of Appeal-Long,"","",No/No,391,143,132,116
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Long,"","",No/No,633,249,231,153
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Long,"","",No/No,930,390,292,248
+Columbia,41.0 Watertown,District Court of Appeal-Long,"","",No/No,354,142,112,100
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Long,"","",No/No,66,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Long,"","",No/No,447,146,204,97
+Columbia,444.0 Watertown,District Court of Appeal-Long,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Long,"","",No/No,15,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Long,"","",No/No,71,,,
+Columbia,112.0 Supv Elections,District Court of Appeal-Long,"","",No/No,98,,,
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Long,"","",No/No,112,33,46,33
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Long,"","",No/No,341,107,136,98
+Columbia,50.0 Watertown,District Court of Appeal-Long,"","",No/No,36,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Long,"","",No/No,419,190,131,98
+Columbia,52.0 Columbia City,District Court of Appeal-Long,"","",No/No,420,163,162,95
+Columbia,53.0 Supv Elections,District Court of Appeal-Long,"","",No/No,8,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Long,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Long,"","",No/No,8,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Long,"","",No/No,242,106,59,77
+Columbia,554.0 Supv Elections,District Court of Appeal-Long,"","",No/No,197,88,40,69
+Columbia,114 .0 Supv Elections,District Court of Appeal-Long,"","",No/No,48,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Long,"","",No/No,129,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Long,"","",No/No,386,121,178,87
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Long,"","",No/No,217,78,71,68
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Long,"","",No/No,47,,,
+Columbia,19.0  Watertown,District Court of Appeal-Long,"","",No/No,30,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Long,"","",No/No,264,93,104,67
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Rowe,"","",Yes/Si,227,73,75,79
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,1737,695,706,336
+Columbia,23.0 Columbia City,District Court of Appeal-Rowe,"","",Yes/Si,676,283,233,160
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,1226,512,444,270
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Rowe,"","",Yes/Si,1978,860,629,489
+Columbia,41.0 Watertown,District Court of Appeal-Rowe,"","",Yes/Si,605,243,202,160
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Rowe,"","",Yes/Si,125,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,814,241,423,150
+Columbia,444.0 Watertown,District Court of Appeal-Rowe,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,17,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Rowe,"","",Yes/Si,160,68,55,37
+Columbia,112.0 Supv Elections,District Court of Appeal-Rowe,"","",Yes/Si,104,36,31,37
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,258,122,85,51
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,698,224,310,164
+Columbia,50.0 Watertown,District Court of Appeal-Rowe,"","",Yes/Si,64,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Rowe,"","",Yes/Si,804,370,262,172
+Columbia,52.0 Columbia City,District Court of Appeal-Rowe,"","",Yes/Si,848,334,357,157
+Columbia,53.0 Supv Elections,District Court of Appeal-Rowe,"","",Yes/Si,11,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Rowe,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Rowe,"","",Yes/Si,24,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Rowe,"","",Yes/Si,438,165,161,112
+Columbia,554.0 Supv Elections,District Court of Appeal-Rowe,"","",Yes/Si,296,103,97,96
+Columbia,114 .0 Supv Elections,District Court of Appeal-Rowe,"","",Yes/Si,86,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,177,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Rowe,"","",Yes/Si,681,191,322,168
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Rowe,"","",Yes/Si,324,126,106,92
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Rowe,"","",Yes/Si,79,,,
+Columbia,19.0  Watertown,District Court of Appeal-Rowe,"","",Yes/Si,32,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Rowe,"","",Yes/Si,562,190,258,114
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Rowe,"","",No/No,221,68,97,56
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Rowe,"","",No/No,983,373,434,176
+Columbia,23.0 Columbia City,District Court of Appeal-Rowe,"","",No/No,443,168,158,117
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Rowe,"","",No/No,732,299,276,157
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Rowe,"","",No/No,1035,437,344,254
+Columbia,41.0 Watertown,District Court of Appeal-Rowe,"","",No/No,419,168,139,112
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Rowe,"","",No/No,78,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Rowe,"","",No/No,539,181,247,111
+Columbia,444.0 Watertown,District Court of Appeal-Rowe,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Rowe,"","",No/No,17,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Rowe,"","",No/No,67,,,
+Columbia,112.0 Supv Elections,District Court of Appeal-Rowe,"","",No/No,91,,,
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Rowe,"","",No/No,131,,,
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Rowe,"","",No/No,392,122,171,99
+Columbia,50.0 Watertown,District Court of Appeal-Rowe,"","",No/No,37,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Rowe,"","",No/No,500,216,169,115
+Columbia,52.0 Columbia City,District Court of Appeal-Rowe,"","",No/No,506,202,204,100
+Columbia,53.0 Supv Elections,District Court of Appeal-Rowe,"","",No/No,9,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Rowe,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Rowe,"","",No/No,13,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Rowe,"","",No/No,250,115,69,66
+Columbia,554.0 Supv Elections,District Court of Appeal-Rowe,"","",No/No,204,91,47,66
+Columbia,114 .0 Supv Elections,District Court of Appeal-Rowe,"","",No/No,52,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Rowe,"","",No/No,149,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Rowe,"","",No/No,447,153,200,94
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Rowe,"","",No/No,221,82,71,68
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Rowe,"","",No/No,50,,,
+Columbia,19.0  Watertown,District Court of Appeal-Rowe,"","",No/No,30,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Rowe,"","",No/No,311,102,137,72
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Winokur,"","",Yes/Si,220,78,69,73
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,1827,753,754,320
+Columbia,23.0 Columbia City,District Court of Appeal-Winokur,"","",Yes/Si,694,284,248,162
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,1284,538,471,275
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Winokur,"","",Yes/Si,2014,883,648,483
+Columbia,41.0 Watertown,District Court of Appeal-Winokur,"","",Yes/Si,632,257,212,163
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Winokur,"","",Yes/Si,137,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,865,258,449,158
+Columbia,444.0 Watertown,District Court of Appeal-Winokur,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,17,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Winokur,"","",Yes/Si,155,67,54,34
+Columbia,112.0 Supv Elections,District Court of Appeal-Winokur,"","",Yes/Si,90,,,
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,257,123,89,45
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,738,235,337,166
+Columbia,50.0 Watertown,District Court of Appeal-Winokur,"","",Yes/Si,61,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Winokur,"","",Yes/Si,845,388,290,167
+Columbia,52.0 Columbia City,District Court of Appeal-Winokur,"","",Yes/Si,908,365,386,157
+Columbia,53.0 Supv Elections,District Court of Appeal-Winokur,"","",Yes/Si,11,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Winokur,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Winokur,"","",Yes/Si,26,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Winokur,"","",Yes/Si,436,168,158,110
+Columbia,554.0 Supv Elections,District Court of Appeal-Winokur,"","",Yes/Si,295,102,95,98
+Columbia,114 .0 Supv Elections,District Court of Appeal-Winokur,"","",Yes/Si,88,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,182,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Winokur,"","",Yes/Si,711,210,325,176
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Winokur,"","",Yes/Si,314,123,106,85
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Winokur,"","",Yes/Si,75,,,
+Columbia,19.0  Watertown,District Court of Appeal-Winokur,"","",Yes/Si,33,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Winokur,"","",Yes/Si,592,188,284,120
+Columbia,110.0 Richardson Comm Center,District Court of Appeal-Winokur,"","",No/No,233,65,105,63
+Columbia,22.0 Fort White Community Ctr,District Court of Appeal-Winokur,"","",No/No,894,311,390,193
+Columbia,23.0 Columbia City,District Court of Appeal-Winokur,"","",No/No,423,166,142,115
+Columbia,31.0 Westside Community Ctr,District Court of Appeal-Winokur,"","",No/No,675,269,252,154
+Columbia,33.0 Southside Rec Complex,District Court of Appeal-Winokur,"","",No/No,995,403,327,265
+Columbia,41.0 Watertown,District Court of Appeal-Winokur,"","",No/No,392,153,129,110
+Columbia,42.0 Lulu Comm Center,District Court of Appeal-Winokur,"","",No/No,65,,,
+Columbia,43.0 Mason City Community Ctr,District Court of Appeal-Winokur,"","",No/No,487,162,220,105
+Columbia,444.0 Watertown,District Court of Appeal-Winokur,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,District Court of Appeal-Winokur,"","",No/No,17,,,
+Columbia,46.0 Columbia City,District Court of Appeal-Winokur,"","",No/No,72,,,
+Columbia,112.0 Supv Elections,District Court of Appeal-Winokur,"","",No/No,101,,,
+Columbia,47.0 Fort White Community Ctr,District Court of Appeal-Winokur,"","",No/No,131,45,54,32
+Columbia,48.0 Fort White Community Ctr,District Court of Appeal-Winokur,"","",No/No,352,111,142,99
+Columbia,50.0 Watertown,District Court of Appeal-Winokur,"","",No/No,38,,,
+Columbia,51.0 Southside Rec Complex,District Court of Appeal-Winokur,"","",No/No,456,200,140,116
+Columbia,52.0 Columbia City,District Court of Appeal-Winokur,"","",No/No,439,168,172,99
+Columbia,53.0 Supv Elections,District Court of Appeal-Winokur,"","",No/No,9,,,
+Columbia,132.0 Supv Elections,District Court of Appeal-Winokur,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,District Court of Appeal-Winokur,"","",No/No,11,,,
+Columbia,553.0 Supv Elections,District Court of Appeal-Winokur,"","",No/No,252,111,72,69
+Columbia,554.0 Supv Elections,District Court of Appeal-Winokur,"","",No/No,199,91,45,63
+Columbia,114 .0 Supv Elections,District Court of Appeal-Winokur,"","",No/No,50,,,
+Columbia,15.0 Deep Creek Community Ctr,District Court of Appeal-Winokur,"","",No/No,144,,,
+Columbia,16.0 Winfield Com Center,District Court of Appeal-Winokur,"","",No/No,422,137,197,88
+Columbia,17.0  Richardson Comm Center,District Court of Appeal-Winokur,"","",No/No,236,87,72,77
+Columbia,18.0 Winfield Community Center,District Court of Appeal-Winokur,"","",No/No,54,,,
+Columbia,19.0  Watertown,District Court of Appeal-Winokur,"","",No/No,30,,,
+Columbia,21.0 Westside Community Ctr,District Court of Appeal-Winokur,"","",No/No,279,106,109,64
+Columbia,45.0 Mason City Community Ctr,School Board,5,"",Hunter Peeler,14,,,
+Columbia,46.0 Columbia City,School Board,5,"",Hunter Peeler,118,,,
+Columbia,50.0 Watertown,School Board,5,"",Hunter Peeler,58,,,
+Columbia,51.0 Southside Rec Complex,School Board,5,"",Hunter Peeler,760,342,259,159
+Columbia,52.0 Columbia City,School Board,5,"",Hunter Peeler,862,361,363,138
+Columbia,553.0 Supv Elections,School Board,5,"",Hunter Peeler,338,137,127,74
+Columbia,554.0 Supv Elections,School Board,5,"",Hunter Peeler,248,101,75,72
+Columbia,45.0 Mason City Community Ctr,School Board,5,"",Elizabeth Porter,23,,,
+Columbia,46.0 Columbia City,School Board,5,"",Elizabeth Porter,120,,,
+Columbia,50.0 Watertown,School Board,5,"",Elizabeth Porter,48,,,
+Columbia,51.0 Southside Rec Complex,School Board,5,"",Elizabeth Porter,665,306,197,162
+Columbia,52.0 Columbia City,School Board,5,"",Elizabeth Porter,663,241,274,148
+Columbia,553.0 Supv Elections,School Board,5,"",Elizabeth Porter,391,154,123,114
+Columbia,554.0 Supv Elections,School Board,5,"",Elizabeth Porter,289,110,85,94
+Columbia,110.0 Richardson Comm Center,Constitutional Amendment No. 1,"","",Yes/Si,186,64,69,53
+Columbia,22.0 Fort White Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,1551,612,627,312
+Columbia,23.0 Columbia City,Constitutional Amendment No. 1,"","",Yes/Si,590,222,198,170
+Columbia,31.0 Westside Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,1151,468,411,272
+Columbia,33.0 Southside Rec Complex,Constitutional Amendment No. 1,"","",Yes/Si,1732,753,548,431
+Columbia,41.0 Watertown,Constitutional Amendment No. 1,"","",Yes/Si,566,242,173,151
+Columbia,42.0 Lulu Comm Center,Constitutional Amendment No. 1,"","",Yes/Si,90,,,
+Columbia,43.0 Mason City Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,707,207,369,131
+Columbia,444.0 Watertown,Constitutional Amendment No. 1,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,17,,,
+Columbia,46.0 Columbia City,Constitutional Amendment No. 1,"","",Yes/Si,131,,,
+Columbia,112.0 Supv Elections,Constitutional Amendment No. 1,"","",Yes/Si,97,,,
+Columbia,47.0 Fort White Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,227,102,71,54
+Columbia,48.0 Fort White Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,639,210,276,153
+Columbia,50.0 Watertown,Constitutional Amendment No. 1,"","",Yes/Si,42,,,
+Columbia,51.0 Southside Rec Complex,Constitutional Amendment No. 1,"","",Yes/Si,748,335,245,168
+Columbia,52.0 Columbia City,Constitutional Amendment No. 1,"","",Yes/Si,746,297,317,132
+Columbia,53.0 Supv Elections,Constitutional Amendment No. 1,"","",Yes/Si,10,,,
+Columbia,132.0 Supv Elections,Constitutional Amendment No. 1,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Constitutional Amendment No. 1,"","",Yes/Si,19,,,
+Columbia,553.0 Supv Elections,Constitutional Amendment No. 1,"","",Yes/Si,370,143,134,93
+Columbia,554.0 Supv Elections,Constitutional Amendment No. 1,"","",Yes/Si,297,103,100,94
+Columbia,114 .0 Supv Elections,Constitutional Amendment No. 1,"","",Yes/Si,72,,,
+Columbia,15.0 Deep Creek Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,161,,,
+Columbia,16.0 Winfield Com Center,Constitutional Amendment No. 1,"","",Yes/Si,639,181,291,167
+Columbia,17.0  Richardson Comm Center,Constitutional Amendment No. 1,"","",Yes/Si,280,102,88,90
+Columbia,18.0 Winfield Community Center,Constitutional Amendment No. 1,"","",Yes/Si,70,,,
+Columbia,19.0  Watertown,Constitutional Amendment No. 1,"","",Yes/Si,32,,,
+Columbia,21.0 Westside Community Ctr,Constitutional Amendment No. 1,"","",Yes/Si,521,162,250,109
+Columbia,110.0 Richardson Comm Center,Constitutional Amendment No. 1,"","",No/No,267,82,100,85
+Columbia,22.0 Fort White Community Ctr,Constitutional Amendment No. 1,"","",No/No,1295,518,561,216
+Columbia,23.0 Columbia City,Constitutional Amendment No. 1,"","",No/No,601,254,217,130
+Columbia,31.0 Westside Community Ctr,Constitutional Amendment No. 1,"","",No/No,883,374,335,174
+Columbia,33.0 Southside Rec Complex,Constitutional Amendment No. 1,"","",No/No,1365,575,457,333
+Columbia,41.0 Watertown,Constitutional Amendment No. 1,"","",No/No,516,188,187,141
+Columbia,42.0 Lulu Comm Center,Constitutional Amendment No. 1,"","",No/No,107,,,
+Columbia,43.0 Mason City Community Ctr,Constitutional Amendment No. 1,"","",No/No,707,234,339,134
+Columbia,444.0 Watertown,Constitutional Amendment No. 1,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Constitutional Amendment No. 1,"","",No/No,18,,,
+Columbia,46.0 Columbia City,Constitutional Amendment No. 1,"","",No/No,101,,,
+Columbia,112.0 Supv Elections,Constitutional Amendment No. 1,"","",No/No,97,,,
+Columbia,47.0 Fort White Community Ctr,Constitutional Amendment No. 1,"","",No/No,198,82,86,30
+Columbia,48.0 Fort White Community Ctr,Constitutional Amendment No. 1,"","",No/No,510,162,229,119
+Columbia,50.0 Watertown,Constitutional Amendment No. 1,"","",No/No,61,,,
+Columbia,51.0 Southside Rec Complex,Constitutional Amendment No. 1,"","",No/No,605,286,196,123
+Columbia,52.0 Columbia City,Constitutional Amendment No. 1,"","",No/No,676,259,285,132
+Columbia,53.0 Supv Elections,Constitutional Amendment No. 1,"","",No/No,13,,,
+Columbia,132.0 Supv Elections,Constitutional Amendment No. 1,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Constitutional Amendment No. 1,"","",No/No,22,,,
+Columbia,553.0 Supv Elections,Constitutional Amendment No. 1,"","",No/No,322,137,108,77
+Columbia,554.0 Supv Elections,Constitutional Amendment No. 1,"","",No/No,227,100,59,68
+Columbia,114 .0 Supv Elections,Constitutional Amendment No. 1,"","",No/No,72,,,
+Columbia,15.0 Deep Creek Community Ctr,Constitutional Amendment No. 1,"","",No/No,168,,,
+Columbia,16.0 Winfield Com Center,Constitutional Amendment No. 1,"","",No/No,535,178,245,112
+Columbia,17.0  Richardson Comm Center,Constitutional Amendment No. 1,"","",No/No,293,119,92,82
+Columbia,18.0 Winfield Community Center,Constitutional Amendment No. 1,"","",No/No,61,,,
+Columbia,19.0  Watertown,Constitutional Amendment No. 1,"","",No/No,38,,,
+Columbia,21.0 Westside Community Ctr,Constitutional Amendment No. 1,"","",No/No,398,143,188,67
+Columbia,110.0 Richardson Comm Center,Constitutional Amendment No. 2,"","",Yes/Si,183,64,61,58
+Columbia,22.0 Fort White Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,1552,647,604,301
+Columbia,23.0 Columbia City,Constitutional Amendment No. 2,"","",Yes/Si,611,237,207,167
+Columbia,31.0 Westside Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,1127,470,411,246
+Columbia,33.0 Southside Rec Complex,Constitutional Amendment No. 2,"","",Yes/Si,1706,723,561,422
+Columbia,41.0 Watertown,Constitutional Amendment No. 2,"","",Yes/Si,622,233,208,181
+Columbia,42.0 Lulu Comm Center,Constitutional Amendment No. 2,"","",Yes/Si,101,,,
+Columbia,43.0 Mason City Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,709,212,363,134
+Columbia,444.0 Watertown,Constitutional Amendment No. 2,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,18,,,
+Columbia,46.0 Columbia City,Constitutional Amendment No. 2,"","",Yes/Si,130,,,
+Columbia,112.0 Supv Elections,Constitutional Amendment No. 2,"","",Yes/Si,86,,,
+Columbia,47.0 Fort White Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,229,94,83,52
+Columbia,48.0 Fort White Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,573,180,255,138
+Columbia,50.0 Watertown,Constitutional Amendment No. 2,"","",Yes/Si,45,,,
+Columbia,51.0 Southside Rec Complex,Constitutional Amendment No. 2,"","",Yes/Si,705,310,231,164
+Columbia,52.0 Columbia City,Constitutional Amendment No. 2,"","",Yes/Si,752,305,311,136
+Columbia,53.0 Supv Elections,Constitutional Amendment No. 2,"","",Yes/Si,15,,,
+Columbia,132.0 Supv Elections,Constitutional Amendment No. 2,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Constitutional Amendment No. 2,"","",Yes/Si,24,,,
+Columbia,553.0 Supv Elections,Constitutional Amendment No. 2,"","",Yes/Si,375,147,136,92
+Columbia,554.0 Supv Elections,Constitutional Amendment No. 2,"","",Yes/Si,285,100,88,97
+Columbia,114 .0 Supv Elections,Constitutional Amendment No. 2,"","",Yes/Si,67,,,
+Columbia,15.0 Deep Creek Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,160,,,
+Columbia,16.0 Winfield Com Center,Constitutional Amendment No. 2,"","",Yes/Si,629,186,280,163
+Columbia,17.0  Richardson Comm Center,Constitutional Amendment No. 2,"","",Yes/Si,264,103,75,86
+Columbia,18.0 Winfield Community Center,Constitutional Amendment No. 2,"","",Yes/Si,69,,,
+Columbia,19.0  Watertown,Constitutional Amendment No. 2,"","",Yes/Si,27,,,
+Columbia,21.0 Westside Community Ctr,Constitutional Amendment No. 2,"","",Yes/Si,514,148,266,100
+Columbia,110.0 Richardson Comm Center,Constitutional Amendment No. 2,"","",No/No,268,80,111,77
+Columbia,22.0 Fort White Community Ctr,Constitutional Amendment No. 2,"","",No/No,1285,480,576,229
+Columbia,23.0 Columbia City,Constitutional Amendment No. 2,"","",No/No,574,232,210,132
+Columbia,31.0 Westside Community Ctr,Constitutional Amendment No. 2,"","",No/No,901,371,322,208
+Columbia,33.0 Southside Rec Complex,Constitutional Amendment No. 2,"","",No/No,1375,606,436,333
+Columbia,41.0 Watertown,Constitutional Amendment No. 2,"","",No/No,460,196,149,115
+Columbia,42.0 Lulu Comm Center,Constitutional Amendment No. 2,"","",No/No,94,,,
+Columbia,43.0 Mason City Community Ctr,Constitutional Amendment No. 2,"","",No/No,689,227,336,126
+Columbia,444.0 Watertown,Constitutional Amendment No. 2,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Constitutional Amendment No. 2,"","",No/No,16,,,
+Columbia,46.0 Columbia City,Constitutional Amendment No. 2,"","",No/No,104,,,
+Columbia,112.0 Supv Elections,Constitutional Amendment No. 2,"","",No/No,110,,,
+Columbia,47.0 Fort White Community Ctr,Constitutional Amendment No. 2,"","",No/No,193,,,
+Columbia,48.0 Fort White Community Ctr,Constitutional Amendment No. 2,"","",No/No,568,191,246,131
+Columbia,50.0 Watertown,Constitutional Amendment No. 2,"","",No/No,58,,,
+Columbia,51.0 Southside Rec Complex,Constitutional Amendment No. 2,"","",No/No,636,306,206,124
+Columbia,52.0 Columbia City,Constitutional Amendment No. 2,"","",No/No,648,244,279,125
+Columbia,53.0 Supv Elections,Constitutional Amendment No. 2,"","",No/No,8,,,
+Columbia,132.0 Supv Elections,Constitutional Amendment No. 2,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Constitutional Amendment No. 2,"","",No/No,15,,,
+Columbia,553.0 Supv Elections,Constitutional Amendment No. 2,"","",No/No,324,135,111,78
+Columbia,554.0 Supv Elections,Constitutional Amendment No. 2,"","",No/No,235,101,68,66
+Columbia,114 .0 Supv Elections,Constitutional Amendment No. 2,"","",No/No,77,,,
+Columbia,15.0 Deep Creek Community Ctr,Constitutional Amendment No. 2,"","",No/No,171,,,
+Columbia,16.0 Winfield Com Center,Constitutional Amendment No. 2,"","",No/No,536,175,248,113
+Columbia,17.0  Richardson Comm Center,Constitutional Amendment No. 2,"","",No/No,307,121,103,83
+Columbia,18.0 Winfield Community Center,Constitutional Amendment No. 2,"","",No/No,63,,,
+Columbia,19.0  Watertown,Constitutional Amendment No. 2,"","",No/No,42,,,
+Columbia,21.0 Westside Community Ctr,Constitutional Amendment No. 2,"","",No/No,403,155,171,77
+Columbia,110.0 Richardson Comm Center,Constitutional Amendment No. 3,"","",Yes/Si,264,86,95,83
+Columbia,22.0 Fort White Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,1571,632,662,277
+Columbia,23.0 Columbia City,Constitutional Amendment No. 3,"","",Yes/Si,626,258,238,130
+Columbia,31.0 Westside Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,1219,481,476,262
+Columbia,33.0 Southside Rec Complex,Constitutional Amendment No. 3,"","",Yes/Si,1878,791,661,426
+Columbia,41.0 Watertown,Constitutional Amendment No. 3,"","",Yes/Si,614,236,218,160
+Columbia,42.0 Lulu Comm Center,Constitutional Amendment No. 3,"","",Yes/Si,120,,,
+Columbia,43.0 Mason City Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,741,230,376,135
+Columbia,444.0 Watertown,Constitutional Amendment No. 3,"","",Yes/Si,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,19,,,
+Columbia,46.0 Columbia City,Constitutional Amendment No. 3,"","",Yes/Si,126,,,
+Columbia,112.0 Supv Elections,Constitutional Amendment No. 3,"","",Yes/Si,137,48,51,38
+Columbia,47.0 Fort White Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,228,100,86,42
+Columbia,48.0 Fort White Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,632,217,277,138
+Columbia,50.0 Watertown,Constitutional Amendment No. 3,"","",Yes/Si,67,,,
+Columbia,51.0 Southside Rec Complex,Constitutional Amendment No. 3,"","",Yes/Si,769,337,266,166
+Columbia,52.0 Columbia City,Constitutional Amendment No. 3,"","",Yes/Si,794,314,351,129
+Columbia,53.0 Supv Elections,Constitutional Amendment No. 3,"","",Yes/Si,12,,,
+Columbia,132.0 Supv Elections,Constitutional Amendment No. 3,"","",Yes/Si,0,0,0,0
+Columbia,513.0 Supv Elections,Constitutional Amendment No. 3,"","",Yes/Si,22,,,
+Columbia,553.0 Supv Elections,Constitutional Amendment No. 3,"","",Yes/Si,461,177,179,105
+Columbia,554.0 Supv Elections,Constitutional Amendment No. 3,"","",Yes/Si,286,107,101,78
+Columbia,114 .0 Supv Elections,Constitutional Amendment No. 3,"","",Yes/Si,106,36,39,31
+Columbia,15.0 Deep Creek Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,186,,,
+Columbia,16.0 Winfield Com Center,Constitutional Amendment No. 3,"","",Yes/Si,691,198,332,161
+Columbia,17.0  Richardson Comm Center,Constitutional Amendment No. 3,"","",Yes/Si,331,130,107,94
+Columbia,18.0 Winfield Community Center,Constitutional Amendment No. 3,"","",Yes/Si,75,,,
+Columbia,19.0  Watertown,Constitutional Amendment No. 3,"","",Yes/Si,34,,,
+Columbia,21.0 Westside Community Ctr,Constitutional Amendment No. 3,"","",Yes/Si,517,178,246,93
+Columbia,110.0 Richardson Comm Center,Constitutional Amendment No. 3,"","",No/No,194,60,77,57
+Columbia,22.0 Fort White Community Ctr,Constitutional Amendment No. 3,"","",No/No,1354,530,565,259
+Columbia,23.0 Columbia City,Constitutional Amendment No. 3,"","",No/No,591,228,187,176
+Columbia,31.0 Westside Community Ctr,Constitutional Amendment No. 3,"","",No/No,878,387,292,199
+Columbia,33.0 Southside Rec Complex,Constitutional Amendment No. 3,"","",No/No,1307,582,371,354
+Columbia,41.0 Watertown,Constitutional Amendment No. 3,"","",No/No,499,204,149,146
+Columbia,42.0 Lulu Comm Center,Constitutional Amendment No. 3,"","",No/No,83,,,
+Columbia,43.0 Mason City Community Ctr,Constitutional Amendment No. 3,"","",No/No,693,225,337,131
+Columbia,444.0 Watertown,Constitutional Amendment No. 3,"","",No/No,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,Constitutional Amendment No. 3,"","",No/No,17,,,
+Columbia,46.0 Columbia City,Constitutional Amendment No. 3,"","",No/No,111,,,
+Columbia,112.0 Supv Elections,Constitutional Amendment No. 3,"","",No/No,66,,,
+Columbia,47.0 Fort White Community Ctr,Constitutional Amendment No. 3,"","",No/No,203,87,73,43
+Columbia,48.0 Fort White Community Ctr,Constitutional Amendment No. 3,"","",No/No,548,166,240,142
+Columbia,50.0 Watertown,Constitutional Amendment No. 3,"","",No/No,39,,,
+Columbia,51.0 Southside Rec Complex,Constitutional Amendment No. 3,"","",No/No,623,304,183,136
+Columbia,52.0 Columbia City,Constitutional Amendment No. 3,"","",No/No,691,268,276,147
+Columbia,53.0 Supv Elections,Constitutional Amendment No. 3,"","",No/No,10,,,
+Columbia,132.0 Supv Elections,Constitutional Amendment No. 3,"","",No/No,0,0,0,0
+Columbia,513.0 Supv Elections,Constitutional Amendment No. 3,"","",No/No,19,,,
+Columbia,553.0 Supv Elections,Constitutional Amendment No. 3,"","",No/No,259,113,71,75
+Columbia,554.0 Supv Elections,Constitutional Amendment No. 3,"","",No/No,250,98,65,87
+Columbia,114 .0 Supv Elections,Constitutional Amendment No. 3,"","",No/No,43,,,
+Columbia,15.0 Deep Creek Community Ctr,Constitutional Amendment No. 3,"","",No/No,157,,,
+Columbia,16.0 Winfield Com Center,Constitutional Amendment No. 3,"","",No/No,507,175,210,122
+Columbia,17.0  Richardson Comm Center,Constitutional Amendment No. 3,"","",No/No,251,95,77,79
+Columbia,18.0 Winfield Community Center,Constitutional Amendment No. 3,"","",No/No,61,,,
+Columbia,19.0  Watertown,Constitutional Amendment No. 3,"","",No/No,36,,,
+Columbia,21.0 Westside Community Ctr,Constitutional Amendment No. 3,"","",No/No,412,131,197,84
+Columbia,110.0 Richardson Comm Center,School Board Referendum - Sales Tax,"","",For/Para,312,92,122,98
+Columbia,22.0 Fort White Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,1339,513,555,271
+Columbia,23.0 Columbia City,School Board Referendum - Sales Tax,"","",For/Para,515,183,197,135
+Columbia,31.0 Westside Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,1142,498,392,252
+Columbia,33.0 Southside Rec Complex,School Board Referendum - Sales Tax,"","",For/Para,1790,731,591,468
+Columbia,41.0 Watertown,School Board Referendum - Sales Tax,"","",For/Para,525,194,185,146
+Columbia,42.0 Lulu Comm Center,School Board Referendum - Sales Tax,"","",For/Para,83,,,
+Columbia,43.0 Mason City Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,675,204,338,133
+Columbia,444.0 Watertown,School Board Referendum - Sales Tax,"","",For/Para,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,17,,,
+Columbia,46.0 Columbia City,School Board Referendum - Sales Tax,"","",For/Para,93,,,
+Columbia,112.0 Supv Elections,School Board Referendum - Sales Tax,"","",For/Para,163,57,61,45
+Columbia,47.0 Fort White Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,186,71,76,39
+Columbia,48.0 Fort White Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,588,198,246,144
+Columbia,50.0 Watertown,School Board Referendum - Sales Tax,"","",For/Para,52,,,
+Columbia,51.0 Southside Rec Complex,School Board Referendum - Sales Tax,"","",For/Para,730,332,234,164
+Columbia,52.0 Columbia City,School Board Referendum - Sales Tax,"","",For/Para,758,297,315,146
+Columbia,53.0 Supv Elections,School Board Referendum - Sales Tax,"","",For/Para,14,,,
+Columbia,132.0 Supv Elections,School Board Referendum - Sales Tax,"","",For/Para,0,0,0,0
+Columbia,513.0 Supv Elections,School Board Referendum - Sales Tax,"","",For/Para,24,,,
+Columbia,553.0 Supv Elections,School Board Referendum - Sales Tax,"","",For/Para,449,179,164,106
+Columbia,554.0 Supv Elections,School Board Referendum - Sales Tax,"","",For/Para,278,100,95,83
+Columbia,114 .0 Supv Elections,School Board Referendum - Sales Tax,"","",For/Para,89,,,
+Columbia,15.0 Deep Creek Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,155,,,
+Columbia,16.0 Winfield Com Center,School Board Referendum - Sales Tax,"","",For/Para,607,179,271,157
+Columbia,17.0  Richardson Comm Center,School Board Referendum - Sales Tax,"","",For/Para,318,112,111,95
+Columbia,18.0 Winfield Community Center,School Board Referendum - Sales Tax,"","",For/Para,69,,,
+Columbia,19.0  Watertown,School Board Referendum - Sales Tax,"","",For/Para,36,,,
+Columbia,21.0 Westside Community Ctr,School Board Referendum - Sales Tax,"","",For/Para,437,145,196,96
+Columbia,110.0 Richardson Comm Center,School Board Referendum - Sales Tax,"","",Against/Contra,152,57,51,44
+Columbia,22.0 Fort White Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,1609,649,688,272
+Columbia,23.0 Columbia City,School Board Referendum - Sales Tax,"","",Against/Contra,713,306,236,171
+Columbia,31.0 Westside Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,986,378,396,212
+Columbia,33.0 Southside Rec Complex,School Board Referendum - Sales Tax,"","",Against/Contra,1454,673,459,322
+Columbia,41.0 Watertown,School Board Referendum - Sales Tax,"","",Against/Contra,594,252,187,155
+Columbia,42.0 Lulu Comm Center,School Board Referendum - Sales Tax,"","",Against/Contra,123,,,
+Columbia,43.0 Mason City Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,789,263,391,135
+Columbia,444.0 Watertown,School Board Referendum - Sales Tax,"","",Against/Contra,0,0,0,0
+Columbia,45.0 Mason City Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,19,,,
+Columbia,46.0 Columbia City,School Board Referendum - Sales Tax,"","",Against/Contra,142,62,50,30
+Columbia,112.0 Supv Elections,School Board Referendum - Sales Tax,"","",Against/Contra,42,,,
+Columbia,47.0 Fort White Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,249,117,85,47
+Columbia,48.0 Fort White Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,583,184,267,132
+Columbia,50.0 Watertown,School Board Referendum - Sales Tax,"","",Against/Contra,55,,,
+Columbia,51.0 Southside Rec Complex,School Board Referendum - Sales Tax,"","",Against/Contra,686,318,223,145
+Columbia,52.0 Columbia City,School Board Referendum - Sales Tax,"","",Against/Contra,753,301,319,133
+Columbia,53.0 Supv Elections,School Board Referendum - Sales Tax,"","",Against/Contra,9,,,
+Columbia,132.0 Supv Elections,School Board Referendum - Sales Tax,"","",Against/Contra,0,0,0,0
+Columbia,513.0 Supv Elections,School Board Referendum - Sales Tax,"","",Against/Contra,18,,,
+Columbia,553.0 Supv Elections,School Board Referendum - Sales Tax,"","",Against/Contra,282,112,91,79
+Columbia,554.0 Supv Elections,School Board Referendum - Sales Tax,"","",Against/Contra,262,106,71,85
+Columbia,114 .0 Supv Elections,School Board Referendum - Sales Tax,"","",Against/Contra,60,,,
+Columbia,15.0 Deep Creek Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,188,,,
+Columbia,16.0 Winfield Com Center,School Board Referendum - Sales Tax,"","",Against/Contra,598,196,275,127
+Columbia,17.0  Richardson Comm Center,School Board Referendum - Sales Tax,"","",Against/Contra,264,115,71,78
+Columbia,18.0 Winfield Community Center,School Board Referendum - Sales Tax,"","",Against/Contra,67,,,
+Columbia,19.0  Watertown,School Board Referendum - Sales Tax,"","",Against/Contra,34,,,
+Columbia,21.0 Westside Community Ctr,School Board Referendum - Sales Tax,"","",Against/Contra,509,173,252,84
