@@ -1,0 +1,659 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
+Bradford,1,U.S. Senate,"",REP,Marco Rubio,979,243,519,217
+Bradford,10,U.S. Senate,"",REP,Marco Rubio,578,141,326,111
+Bradford,11,U.S. Senate,"",REP,Marco Rubio,619,151,351,117
+Bradford,12,U.S. Senate,"",REP,Marco Rubio,1200,245,683,272
+Bradford,13,U.S. Senate,"",REP,Marco Rubio,274,57,163,54
+Bradford,14,U.S. Senate,"",REP,Marco Rubio,425,82,260,83
+Bradford,2,U.S. Senate,"",REP,Marco Rubio,215,66,97,52
+Bradford,3,U.S. Senate,"",REP,Marco Rubio,357,133,148,76
+Bradford,4,U.S. Senate,"",REP,Marco Rubio,724,220,370,134
+Bradford,5,U.S. Senate,"",REP,Marco Rubio,687,185,353,149
+Bradford,6,U.S. Senate,"",REP,Marco Rubio,479,129,252,98
+Bradford,7,U.S. Senate,"",REP,Marco Rubio,243,63,108,72
+Bradford,8,U.S. Senate,"",REP,Marco Rubio,867,,,
+Bradford,9,U.S. Senate,"",REP,Marco Rubio,509,171,212,126
+Bradford,1,U.S. Senate,"",DEM,Val Demings,106,34,33,39
+Bradford,10,U.S. Senate,"",DEM,Val Demings,57,,,
+Bradford,11,U.S. Senate,"",DEM,Val Demings,116,,,
+Bradford,12,U.S. Senate,"",DEM,Val Demings,306,48,120,138
+Bradford,13,U.S. Senate,"",DEM,Val Demings,23,,,
+Bradford,14,U.S. Senate,"",DEM,Val Demings,84,,,
+Bradford,2,U.S. Senate,"",DEM,Val Demings,192,34,105,53
+Bradford,3,U.S. Senate,"",DEM,Val Demings,29,,,
+Bradford,4,U.S. Senate,"",DEM,Val Demings,122,44,40,38
+Bradford,5,U.S. Senate,"",DEM,Val Demings,271,85,95,91
+Bradford,6,U.S. Senate,"",DEM,Val Demings,49,,,
+Bradford,7,U.S. Senate,"",DEM,Val Demings,257,46,129,82
+Bradford,8,U.S. Senate,"",DEM,Val Demings,173,32,77,64
+Bradford,9,U.S. Senate,"",DEM,Val Demings,157,,,
+Bradford,1,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Bradford,10,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Bradford,11,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
+Bradford,12,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
+Bradford,13,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Bradford,14,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Bradford,2,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Bradford,3,U.S. Senate,"",LPF,Dennis Misigoy,5,,,
+Bradford,4,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Bradford,5,U.S. Senate,"",LPF,Dennis Misigoy,6,,,
+Bradford,6,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Bradford,7,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Bradford,8,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
+Bradford,9,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Bradford,1,U.S. Senate,"",NPA,Steven B. Grant,4,,,
+Bradford,10,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Bradford,11,U.S. Senate,"",NPA,Steven B. Grant,11,,,
+Bradford,12,U.S. Senate,"",NPA,Steven B. Grant,6,,,
+Bradford,13,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Bradford,14,U.S. Senate,"",NPA,Steven B. Grant,6,,,
+Bradford,2,U.S. Senate,"",NPA,Steven B. Grant,5,,,
+Bradford,3,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Bradford,4,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Bradford,5,U.S. Senate,"",NPA,Steven B. Grant,4,,,
+Bradford,6,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Bradford,7,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Bradford,8,U.S. Senate,"",NPA,Steven B. Grant,5,,,
+Bradford,9,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Bradford,1,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Bradford,10,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,11,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Bradford,12,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,13,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Bradford,14,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,2,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,3,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,4,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,5,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
+Bradford,6,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Bradford,7,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,8,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Bradford,9,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Bradford,1,U.S. Senate,"",NON,WRITE-IN,1,,,
+Bradford,10,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,11,U.S. Senate,"",NON,WRITE-IN,1,,,
+Bradford,12,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,13,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,14,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,2,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,3,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,4,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,5,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,6,U.S. Senate,"",NON,WRITE-IN,1,,,
+Bradford,7,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,8,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Bradford,9,U.S. Senate,"",NON,WRITE-IN,1,,,
+Bradford,1,U.S. House,3,REP,Kat Cammack,976,243,517,216
+Bradford,10,U.S. House,3,REP,Kat Cammack,583,142,330,111
+Bradford,11,U.S. House,3,REP,Kat Cammack,621,153,348,120
+Bradford,12,U.S. House,3,REP,Kat Cammack,1187,243,680,264
+Bradford,13,U.S. House,3,REP,Kat Cammack,275,56,165,54
+Bradford,14,U.S. House,3,REP,Kat Cammack,435,81,266,88
+Bradford,2,U.S. House,3,REP,Kat Cammack,223,69,100,54
+Bradford,3,U.S. House,3,REP,Kat Cammack,362,133,148,81
+Bradford,4,U.S. House,3,REP,Kat Cammack,716,214,370,132
+Bradford,5,U.S. House,3,REP,Kat Cammack,696,191,352,153
+Bradford,6,U.S. House,3,REP,Kat Cammack,484,131,256,97
+Bradford,7,U.S. House,3,REP,Kat Cammack,248,65,108,75
+Bradford,8,U.S. House,3,REP,Kat Cammack,865,,,
+Bradford,9,U.S. House,3,REP,Kat Cammack,508,171,212,125
+Bradford,1,U.S. House,3,DEM,Danielle Hawk,103,33,33,37
+Bradford,10,U.S. House,3,DEM,Danielle Hawk,56,,,
+Bradford,11,U.S. House,3,DEM,Danielle Hawk,108,,,
+Bradford,12,U.S. House,3,DEM,Danielle Hawk,301,45,116,140
+Bradford,13,U.S. House,3,DEM,Danielle Hawk,21,,,
+Bradford,14,U.S. House,3,DEM,Danielle Hawk,78,,,
+Bradford,2,U.S. House,3,DEM,Danielle Hawk,188,33,103,52
+Bradford,3,U.S. House,3,DEM,Danielle Hawk,23,,,
+Bradford,4,U.S. House,3,DEM,Danielle Hawk,119,42,37,40
+Bradford,5,U.S. House,3,DEM,Danielle Hawk,256,77,94,85
+Bradford,6,U.S. House,3,DEM,Danielle Hawk,46,,,
+Bradford,7,U.S. House,3,DEM,Danielle Hawk,245,41,129,75
+Bradford,8,U.S. House,3,DEM,Danielle Hawk,161,30,66,65
+Bradford,9,U.S. House,3,DEM,Danielle Hawk,154,,,
+Bradford,1,U.S. House,3,NPA,Linda S. Brooks,8,,,
+Bradford,10,U.S. House,3,NPA,Linda S. Brooks,2,,,
+Bradford,11,U.S. House,3,NPA,Linda S. Brooks,15,,,
+Bradford,12,U.S. House,3,NPA,Linda S. Brooks,23,,,
+Bradford,13,U.S. House,3,NPA,Linda S. Brooks,4,,,
+Bradford,14,U.S. House,3,NPA,Linda S. Brooks,4,,,
+Bradford,2,U.S. House,3,NPA,Linda S. Brooks,3,,,
+Bradford,3,U.S. House,3,NPA,Linda S. Brooks,9,,,
+Bradford,4,U.S. House,3,NPA,Linda S. Brooks,7,,,
+Bradford,5,U.S. House,3,NPA,Linda S. Brooks,17,,,
+Bradford,6,U.S. House,3,NPA,Linda S. Brooks,2,,,
+Bradford,7,U.S. House,3,NPA,Linda S. Brooks,7,,,
+Bradford,8,U.S. House,3,NPA,Linda S. Brooks,21,,,
+Bradford,9,U.S. House,3,NPA,Linda S. Brooks,8,,,
+Bradford,1,Governor and Lt. Governor,"",REP,DeSantis / Nunez,995,246,527,222
+Bradford,10,Governor and Lt. Governor,"",REP,DeSantis / Nunez,591,140,333,118
+Bradford,11,Governor and Lt. Governor,"",REP,DeSantis / Nunez,632,152,359,121
+Bradford,12,Governor and Lt. Governor,"",REP,DeSantis / Nunez,1217,249,691,277
+Bradford,13,Governor and Lt. Governor,"",REP,DeSantis / Nunez,280,57,168,55
+Bradford,14,Governor and Lt. Governor,"",REP,DeSantis / Nunez,445,82,269,94
+Bradford,2,Governor and Lt. Governor,"",REP,DeSantis / Nunez,223,69,102,52
+Bradford,3,Governor and Lt. Governor,"",REP,DeSantis / Nunez,365,135,150,80
+Bradford,4,Governor and Lt. Governor,"",REP,DeSantis / Nunez,740,228,375,137
+Bradford,5,Governor and Lt. Governor,"",REP,DeSantis / Nunez,716,191,365,160
+Bradford,6,Governor and Lt. Governor,"",REP,DeSantis / Nunez,493,133,260,100
+Bradford,7,Governor and Lt. Governor,"",REP,DeSantis / Nunez,252,63,112,77
+Bradford,8,Governor and Lt. Governor,"",REP,DeSantis / Nunez,879,,,
+Bradford,9,Governor and Lt. Governor,"",REP,DeSantis / Nunez,518,172,218,128
+Bradford,1,Governor and Lt. Governor,"",DEM,Crist / Hernandez,98,32,31,35
+Bradford,10,Governor and Lt. Governor,"",DEM,Crist / Hernandez,54,,,
+Bradford,11,Governor and Lt. Governor,"",DEM,Crist / Hernandez,113,,,
+Bradford,12,Governor and Lt. Governor,"",DEM,Crist / Hernandez,300,45,118,137
+Bradford,13,Governor and Lt. Governor,"",DEM,Crist / Hernandez,20,,,
+Bradford,14,Governor and Lt. Governor,"",DEM,Crist / Hernandez,75,,,
+Bradford,2,Governor and Lt. Governor,"",DEM,Crist / Hernandez,189,34,102,53
+Bradford,3,Governor and Lt. Governor,"",DEM,Crist / Hernandez,31,,,
+Bradford,4,Governor and Lt. Governor,"",DEM,Crist / Hernandez,113,40,40,33
+Bradford,5,Governor and Lt. Governor,"",DEM,Crist / Hernandez,255,80,90,85
+Bradford,6,Governor and Lt. Governor,"",DEM,Crist / Hernandez,42,,,
+Bradford,7,Governor and Lt. Governor,"",DEM,Crist / Hernandez,242,46,123,73
+Bradford,8,Governor and Lt. Governor,"",DEM,Crist / Hernandez,168,33,68,67
+Bradford,9,Governor and Lt. Governor,"",DEM,Crist / Hernandez,152,,,
+Bradford,1,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
+Bradford,10,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,1,,,
+Bradford,11,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,7,,,
+Bradford,12,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,3,,,
+Bradford,13,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
+Bradford,14,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,1,,,
+Bradford,2,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,2,,,
+Bradford,3,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
+Bradford,4,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,2,,,
+Bradford,5,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,1,,,
+Bradford,6,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,1,,,
+Bradford,7,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,4,,,
+Bradford,8,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,1,,,
+Bradford,9,Governor and Lt. Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
+Bradford,1,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,3,,,
+Bradford,10,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,0,0,0,0
+Bradford,11,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,4,,,
+Bradford,12,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,5,,,
+Bradford,13,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,1,,,
+Bradford,14,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,0,0,0,0
+Bradford,2,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,5,,,
+Bradford,3,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,0,0,0,0
+Bradford,4,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,5,,,
+Bradford,5,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,3,,,
+Bradford,6,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,1,,,
+Bradford,7,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,8,,,
+Bradford,8,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,7,,,
+Bradford,9,Governor and Lt. Governor,"",NPA,Gimenez / Gibson,4,,,
+Bradford,1,Attorney General,"",REP,Ashley Moody,979,248,514,217
+Bradford,10,Attorney General,"",REP,Ashley Moody,593,144,332,117
+Bradford,11,Attorney General,"",REP,Ashley Moody,630,155,353,122
+Bradford,12,Attorney General,"",REP,Ashley Moody,1231,249,698,284
+Bradford,13,Attorney General,"",REP,Ashley Moody,278,55,166,57
+Bradford,14,Attorney General,"",REP,Ashley Moody,440,81,267,92
+Bradford,2,Attorney General,"",REP,Ashley Moody,229,69,105,55
+Bradford,3,Attorney General,"",REP,Ashley Moody,365,130,150,85
+Bradford,4,Attorney General,"",REP,Ashley Moody,724,221,369,134
+Bradford,5,Attorney General,"",REP,Ashley Moody,718,198,362,158
+Bradford,6,Attorney General,"",REP,Ashley Moody,489,134,255,100
+Bradford,7,Attorney General,"",REP,Ashley Moody,255,66,110,79
+Bradford,8,Attorney General,"",REP,Ashley Moody,883,,,
+Bradford,9,Attorney General,"",REP,Ashley Moody,515,170,216,129
+Bradford,1,Attorney General,"",DEM,Aramis Ayala,97,,,
+Bradford,10,Attorney General,"",DEM,Aramis Ayala,43,,,
+Bradford,11,Attorney General,"",DEM,Aramis Ayala,107,,,
+Bradford,12,Attorney General,"",DEM,Aramis Ayala,279,45,105,129
+Bradford,13,Attorney General,"",DEM,Aramis Ayala,19,,,
+Bradford,14,Attorney General,"",DEM,Aramis Ayala,75,,,
+Bradford,2,Attorney General,"",DEM,Aramis Ayala,185,33,99,53
+Bradford,3,Attorney General,"",DEM,Aramis Ayala,24,,,
+Bradford,4,Attorney General,"",DEM,Aramis Ayala,119,42,38,39
+Bradford,5,Attorney General,"",DEM,Aramis Ayala,249,72,91,86
+Bradford,6,Attorney General,"",DEM,Aramis Ayala,42,,,
+Bradford,7,Attorney General,"",DEM,Aramis Ayala,242,44,125,73
+Bradford,8,Attorney General,"",DEM,Aramis Ayala,155,30,62,63
+Bradford,9,Attorney General,"",DEM,Aramis Ayala,154,,,
+Bradford,1,Chief Financial Officer,"",REP,Jimmy Patronis,961,241,508,212
+Bradford,10,Chief Financial Officer,"",REP,Jimmy Patronis,574,142,323,109
+Bradford,11,Chief Financial Officer,"",REP,Jimmy Patronis,613,154,340,119
+Bradford,12,Chief Financial Officer,"",REP,Jimmy Patronis,1215,248,689,278
+Bradford,13,Chief Financial Officer,"",REP,Jimmy Patronis,275,56,164,55
+Bradford,14,Chief Financial Officer,"",REP,Jimmy Patronis,422,79,256,87
+Bradford,2,Chief Financial Officer,"",REP,Jimmy Patronis,221,71,99,51
+Bradford,3,Chief Financial Officer,"",REP,Jimmy Patronis,359,128,147,84
+Bradford,4,Chief Financial Officer,"",REP,Jimmy Patronis,707,213,364,130
+Bradford,5,Chief Financial Officer,"",REP,Jimmy Patronis,701,192,356,153
+Bradford,6,Chief Financial Officer,"",REP,Jimmy Patronis,481,131,252,98
+Bradford,7,Chief Financial Officer,"",REP,Jimmy Patronis,241,63,107,71
+Bradford,8,Chief Financial Officer,"",REP,Jimmy Patronis,869,,,
+Bradford,9,Chief Financial Officer,"",REP,Jimmy Patronis,502,173,208,121
+Bradford,1,Chief Financial Officer,"",DEM,Adam Hattersley,109,33,33,43
+Bradford,10,Chief Financial Officer,"",DEM,Adam Hattersley,57,,,
+Bradford,11,Chief Financial Officer,"",DEM,Adam Hattersley,107,,,
+Bradford,12,Chief Financial Officer,"",DEM,Adam Hattersley,294,45,114,135
+Bradford,13,Chief Financial Officer,"",DEM,Adam Hattersley,20,,,
+Bradford,14,Chief Financial Officer,"",DEM,Adam Hattersley,80,,,
+Bradford,2,Chief Financial Officer,"",DEM,Adam Hattersley,189,32,100,57
+Bradford,3,Chief Financial Officer,"",DEM,Adam Hattersley,27,,,
+Bradford,4,Chief Financial Officer,"",DEM,Adam Hattersley,127,45,41,41
+Bradford,5,Chief Financial Officer,"",DEM,Adam Hattersley,260,73,98,89
+Bradford,6,Chief Financial Officer,"",DEM,Adam Hattersley,46,,,
+Bradford,7,Chief Financial Officer,"",DEM,Adam Hattersley,255,46,127,82
+Bradford,8,Chief Financial Officer,"",DEM,Adam Hattersley,167,31,68,68
+Bradford,9,Chief Financial Officer,"",DEM,Adam Hattersley,154,,,
+Bradford,1,Commissioner of Agriculture,"",REP,Wilton Simpson,956,240,500,216
+Bradford,10,Commissioner of Agriculture,"",REP,Wilton Simpson,575,143,322,110
+Bradford,11,Commissioner of Agriculture,"",REP,Wilton Simpson,608,153,336,119
+Bradford,12,Commissioner of Agriculture,"",REP,Wilton Simpson,1203,245,682,276
+Bradford,13,Commissioner of Agriculture,"",REP,Wilton Simpson,270,53,163,54
+Bradford,14,Commissioner of Agriculture,"",REP,Wilton Simpson,425,82,259,84
+Bradford,2,Commissioner of Agriculture,"",REP,Wilton Simpson,220,70,99,51
+Bradford,3,Commissioner of Agriculture,"",REP,Wilton Simpson,361,129,147,85
+Bradford,4,Commissioner of Agriculture,"",REP,Wilton Simpson,704,214,362,128
+Bradford,5,Commissioner of Agriculture,"",REP,Wilton Simpson,688,184,355,149
+Bradford,6,Commissioner of Agriculture,"",REP,Wilton Simpson,471,130,245,96
+Bradford,7,Commissioner of Agriculture,"",REP,Wilton Simpson,242,60,106,76
+Bradford,8,Commissioner of Agriculture,"",REP,Wilton Simpson,862,,,
+Bradford,9,Commissioner of Agriculture,"",REP,Wilton Simpson,504,173,207,124
+Bradford,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,107,32,35,40
+Bradford,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,51,,,
+Bradford,11,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,107,,,
+Bradford,12,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,293,45,115,133
+Bradford,13,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,22,,,
+Bradford,14,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,80,,,
+Bradford,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,189,32,101,56
+Bradford,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,26,,,
+Bradford,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,129,46,39,44
+Bradford,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,260,75,94,91
+Bradford,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,49,,,
+Bradford,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,253,45,130,78
+Bradford,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,169,34,70,65
+Bradford,9,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,151,,,
+Bradford,1,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,845,208,427,210
+Bradford,10,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,488,114,259,115
+Bradford,11,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,575,143,300,132
+Bradford,12,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,1082,199,593,290
+Bradford,13,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,229,44,133,52
+Bradford,14,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,398,70,238,90
+Bradford,2,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,247,68,109,70
+Bradford,3,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,340,118,138,84
+Bradford,4,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,628,183,311,134
+Bradford,5,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,656,173,321,162
+Bradford,6,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,413,108,217,88
+Bradford,7,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,262,65,105,92
+Bradford,8,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,819,,,
+Bradford,9,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,Sean Brewer,466,150,190,126
+Bradford,1,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,84,,,
+Bradford,10,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,38,,,
+Bradford,11,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,65,,,
+Bradford,12,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,193,34,76,83
+Bradford,13,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,14,,,
+Bradford,14,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,47,,,
+Bradford,2,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,126,,,
+Bradford,3,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,16,,,
+Bradford,4,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,104,35,38,31
+Bradford,5,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,182,52,69,61
+Bradford,6,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,42,,,
+Bradford,7,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,185,,,
+Bradford,8,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,118,,,
+Bradford,9,"Circuit Judge, 8th Judicial Circuit, Group 12","",NON,AuBroncee Martin,97,,,
+Bradford,1,Retain Justice Charles T. Canady,"",NON,Yes,553,142,268,143
+Bradford,10,Retain Justice Charles T. Canady,"",NON,Yes,363,95,194,74
+Bradford,11,Retain Justice Charles T. Canady,"",NON,Yes,376,103,189,84
+Bradford,12,Retain Justice Charles T. Canady,"",NON,Yes,890,176,474,240
+Bradford,13,Retain Justice Charles T. Canady,"",NON,Yes,154,34,77,43
+Bradford,14,Retain Justice Charles T. Canady,"",NON,Yes,266,51,157,58
+Bradford,2,Retain Justice Charles T. Canady,"",NON,Yes,228,49,111,68
+Bradford,3,Retain Justice Charles T. Canady,"",NON,Yes,205,71,87,47
+Bradford,4,Retain Justice Charles T. Canady,"",NON,Yes,441,134,207,100
+Bradford,5,Retain Justice Charles T. Canady,"",NON,Yes,512,136,243,133
+Bradford,6,Retain Justice Charles T. Canady,"",NON,Yes,269,61,145,63
+Bradford,7,Retain Justice Charles T. Canady,"",NON,Yes,256,60,111,85
+Bradford,8,Retain Justice Charles T. Canady,"",NON,Yes,622,170,272,180
+Bradford,9,Retain Justice Charles T. Canady,"",NON,Yes,344,108,133,103
+Bradford,1,Retain Justice Charles T. Canady,"",NON,No,326,92,148,86
+Bradford,10,Retain Justice Charles T. Canady,"",NON,No,151,36,73,42
+Bradford,11,Retain Justice Charles T. Canady,"",NON,No,212,47,104,61
+Bradford,12,Retain Justice Charles T. Canady,"",NON,No,403,67,204,132
+Bradford,13,Retain Justice Charles T. Canady,"",NON,No,90,,,
+Bradford,14,Retain Justice Charles T. Canady,"",NON,No,148,,,
+Bradford,2,Retain Justice Charles T. Canady,"",NON,No,139,41,66,32
+Bradford,3,Retain Justice Charles T. Canady,"",NON,No,124,41,42,41
+Bradford,4,Retain Justice Charles T. Canady,"",NON,No,240,83,105,52
+Bradford,5,Retain Justice Charles T. Canady,"",NON,No,327,90,150,87
+Bradford,6,Retain Justice Charles T. Canady,"",NON,No,165,49,77,39
+Bradford,7,Retain Justice Charles T. Canady,"",NON,No,184,34,94,56
+Bradford,8,Retain Justice Charles T. Canady,"",NON,No,283,,,
+Bradford,9,Retain Justice Charles T. Canady,"",NON,No,204,48,96,60
+Bradford,1,Retain Justice John D. Couriel,"",NON,Yes,573,146,275,152
+Bradford,10,Retain Justice John D. Couriel,"",NON,Yes,370,95,195,80
+Bradford,11,Retain Justice John D. Couriel,"",NON,Yes,377,98,188,91
+Bradford,12,Retain Justice John D. Couriel,"",NON,Yes,897,179,482,236
+Bradford,13,Retain Justice John D. Couriel,"",NON,Yes,172,33,94,45
+Bradford,14,Retain Justice John D. Couriel,"",NON,Yes,270,54,159,57
+Bradford,2,Retain Justice John D. Couriel,"",NON,Yes,211,49,101,61
+Bradford,3,Retain Justice John D. Couriel,"",NON,Yes,223,80,91,52
+Bradford,4,Retain Justice John D. Couriel,"",NON,Yes,459,140,214,105
+Bradford,5,Retain Justice John D. Couriel,"",NON,Yes,534,140,250,144
+Bradford,6,Retain Justice John D. Couriel,"",NON,Yes,278,64,143,71
+Bradford,7,Retain Justice John D. Couriel,"",NON,Yes,247,51,113,83
+Bradford,8,Retain Justice John D. Couriel,"",NON,Yes,625,168,274,183
+Bradford,9,Retain Justice John D. Couriel,"",NON,Yes,337,106,124,107
+Bradford,1,Retain Justice John D. Couriel,"",NON,No,288,82,133,73
+Bradford,10,Retain Justice John D. Couriel,"",NON,No,133,33,63,37
+Bradford,11,Retain Justice John D. Couriel,"",NON,No,198,47,99,52
+Bradford,12,Retain Justice John D. Couriel,"",NON,No,376,61,188,127
+Bradford,13,Retain Justice John D. Couriel,"",NON,No,66,,,
+Bradford,14,Retain Justice John D. Couriel,"",NON,No,135,,,
+Bradford,2,Retain Justice John D. Couriel,"",NON,No,152,41,75,36
+Bradford,3,Retain Justice John D. Couriel,"",NON,No,103,32,37,34
+Bradford,4,Retain Justice John D. Couriel,"",NON,No,210,76,87,47
+Bradford,5,Retain Justice John D. Couriel,"",NON,No,296,86,137,73
+Bradford,6,Retain Justice John D. Couriel,"",NON,No,152,46,76,30
+Bradford,7,Retain Justice John D. Couriel,"",NON,No,184,42,88,54
+Bradford,8,Retain Justice John D. Couriel,"",NON,No,270,,,
+Bradford,9,Retain Justice John D. Couriel,"",NON,No,200,47,98,55
+Bradford,1,Retain Justice Jamie Grosshans,"",NON,Yes,575,149,272,154
+Bradford,10,Retain Justice Jamie Grosshans,"",NON,Yes,369,95,192,82
+Bradford,11,Retain Justice Jamie Grosshans,"",NON,Yes,394,103,197,94
+Bradford,12,Retain Justice Jamie Grosshans,"",NON,Yes,902,180,479,243
+Bradford,13,Retain Justice Jamie Grosshans,"",NON,Yes,175,34,96,45
+Bradford,14,Retain Justice Jamie Grosshans,"",NON,Yes,271,53,155,63
+Bradford,2,Retain Justice Jamie Grosshans,"",NON,Yes,216,48,102,66
+Bradford,3,Retain Justice Jamie Grosshans,"",NON,Yes,219,80,86,53
+Bradford,4,Retain Justice Jamie Grosshans,"",NON,Yes,465,139,219,107
+Bradford,5,Retain Justice Jamie Grosshans,"",NON,Yes,530,139,249,142
+Bradford,6,Retain Justice Jamie Grosshans,"",NON,Yes,287,68,148,71
+Bradford,7,Retain Justice Jamie Grosshans,"",NON,Yes,250,53,114,83
+Bradford,8,Retain Justice Jamie Grosshans,"",NON,Yes,632,167,278,187
+Bradford,9,Retain Justice Jamie Grosshans,"",NON,Yes,342,106,127,109
+Bradford,1,Retain Justice Jamie Grosshans,"",NON,No,292,84,134,74
+Bradford,10,Retain Justice Jamie Grosshans,"",NON,No,139,36,68,35
+Bradford,11,Retain Justice Jamie Grosshans,"",NON,No,193,47,93,53
+Bradford,12,Retain Justice Jamie Grosshans,"",NON,No,378,63,192,123
+Bradford,13,Retain Justice Jamie Grosshans,"",NON,No,65,,,
+Bradford,14,Retain Justice Jamie Grosshans,"",NON,No,137,,,
+Bradford,2,Retain Justice Jamie Grosshans,"",NON,No,149,42,74,33
+Bradford,3,Retain Justice Jamie Grosshans,"",NON,No,108,32,42,34
+Bradford,4,Retain Justice Jamie Grosshans,"",NON,No,211,76,88,47
+Bradford,5,Retain Justice Jamie Grosshans,"",NON,No,298,85,138,75
+Bradford,6,Retain Justice Jamie Grosshans,"",NON,No,145,42,72,31
+Bradford,7,Retain Justice Jamie Grosshans,"",NON,No,189,40,91,58
+Bradford,8,Retain Justice Jamie Grosshans,"",NON,No,273,,,
+Bradford,9,Retain Justice Jamie Grosshans,"",NON,No,204,47,103,54
+Bradford,1,Retain Justice Jorge Labarga,"",NON,Yes,429,121,186,122
+Bradford,10,Retain Justice Jorge Labarga,"",NON,Yes,269,73,131,65
+Bradford,11,Retain Justice Jorge Labarga,"",NON,Yes,306,90,144,72
+Bradford,12,Retain Justice Jorge Labarga,"",NON,Yes,718,135,372,211
+Bradford,13,Retain Justice Jorge Labarga,"",NON,Yes,140,33,73,34
+Bradford,14,Retain Justice Jorge Labarga,"",NON,Yes,225,46,133,46
+Bradford,2,Retain Justice Jorge Labarga,"",NON,Yes,223,46,110,67
+Bradford,3,Retain Justice Jorge Labarga,"",NON,Yes,155,54,59,42
+Bradford,4,Retain Justice Jorge Labarga,"",NON,Yes,363,108,159,96
+Bradford,5,Retain Justice Jorge Labarga,"",NON,Yes,459,114,216,129
+Bradford,6,Retain Justice Jorge Labarga,"",NON,Yes,205,49,105,51
+Bradford,7,Retain Justice Jorge Labarga,"",NON,Yes,271,52,129,90
+Bradford,8,Retain Justice Jorge Labarga,"",NON,Yes,527,145,221,161
+Bradford,9,Retain Justice Jorge Labarga,"",NON,Yes,289,84,115,90
+Bradford,1,Retain Justice Jorge Labarga,"",NON,No,431,112,218,101
+Bradford,10,Retain Justice Jorge Labarga,"",NON,No,241,57,132,52
+Bradford,11,Retain Justice Jorge Labarga,"",NON,No,276,60,143,73
+Bradford,12,Retain Justice Jorge Labarga,"",NON,No,556,106,296,154
+Bradford,13,Retain Justice Jorge Labarga,"",NON,No,98,,,
+Bradford,14,Retain Justice Jorge Labarga,"",NON,No,184,30,102,52
+Bradford,2,Retain Justice Jorge Labarga,"",NON,No,136,44,60,32
+Bradford,3,Retain Justice Jorge Labarga,"",NON,No,171,57,70,44
+Bradford,4,Retain Justice Jorge Labarga,"",NON,No,313,110,145,58
+Bradford,5,Retain Justice Jorge Labarga,"",NON,No,375,109,175,91
+Bradford,6,Retain Justice Jorge Labarga,"",NON,No,226,61,114,51
+Bradford,7,Retain Justice Jorge Labarga,"",NON,No,169,42,76,51
+Bradford,8,Retain Justice Jorge Labarga,"",NON,No,377,,,
+Bradford,9,Retain Justice Jorge Labarga,"",NON,No,251,68,113,70
+Bradford,1,Retain Justice Ricky Polston,"",NON,Yes,504,132,241,131
+Bradford,10,Retain Justice Ricky Polston,"",NON,Yes,342,86,181,75
+Bradford,11,Retain Justice Ricky Polston,"",NON,Yes,362,97,182,83
+Bradford,12,Retain Justice Ricky Polston,"",NON,Yes,836,161,451,224
+Bradford,13,Retain Justice Ricky Polston,"",NON,Yes,147,,,
+Bradford,14,Retain Justice Ricky Polston,"",NON,Yes,240,46,144,50
+Bradford,2,Retain Justice Ricky Polston,"",NON,Yes,218,53,101,64
+Bradford,3,Retain Justice Ricky Polston,"",NON,Yes,202,75,81,46
+Bradford,4,Retain Justice Ricky Polston,"",NON,Yes,433,130,200,103
+Bradford,5,Retain Justice Ricky Polston,"",NON,Yes,489,133,230,126
+Bradford,6,Retain Justice Ricky Polston,"",NON,Yes,246,62,129,55
+Bradford,7,Retain Justice Ricky Polston,"",NON,Yes,249,50,114,85
+Bradford,8,Retain Justice Ricky Polston,"",NON,Yes,586,158,263,165
+Bradford,9,Retain Justice Ricky Polston,"",NON,Yes,322,100,131,91
+Bradford,1,Retain Justice Ricky Polston,"",NON,No,354,100,160,94
+Bradford,10,Retain Justice Ricky Polston,"",NON,No,156,39,76,41
+Bradford,11,Retain Justice Ricky Polston,"",NON,No,220,53,105,62
+Bradford,12,Retain Justice Ricky Polston,"",NON,No,441,80,216,145
+Bradford,13,Retain Justice Ricky Polston,"",NON,No,91,,,
+Bradford,14,Retain Justice Ricky Polston,"",NON,No,161,,,
+Bradford,2,Retain Justice Ricky Polston,"",NON,No,143,38,71,34
+Bradford,3,Retain Justice Ricky Polston,"",NON,No,123,36,47,40
+Bradford,4,Retain Justice Ricky Polston,"",NON,No,238,85,103,50
+Bradford,5,Retain Justice Ricky Polston,"",NON,No,334,89,154,91
+Bradford,6,Retain Justice Ricky Polston,"",NON,No,182,48,89,45
+Bradford,7,Retain Justice Ricky Polston,"",NON,No,184,42,86,56
+Bradford,8,Retain Justice Ricky Polston,"",NON,No,309,,,
+Bradford,9,Retain Justice Ricky Polston,"",NON,No,215,53,94,68
+Bradford,1,Retain Judge Ross L. Bilbrey,"",NON,Yes,539,143,258,138
+Bradford,10,Retain Judge Ross L. Bilbrey,"",NON,Yes,355,92,188,75
+Bradford,11,Retain Judge Ross L. Bilbrey,"",NON,Yes,355,101,172,82
+Bradford,12,Retain Judge Ross L. Bilbrey,"",NON,Yes,895,180,471,244
+Bradford,13,Retain Judge Ross L. Bilbrey,"",NON,Yes,169,35,92,42
+Bradford,14,Retain Judge Ross L. Bilbrey,"",NON,Yes,249,49,148,52
+Bradford,2,Retain Judge Ross L. Bilbrey,"",NON,Yes,196,42,95,59
+Bradford,3,Retain Judge Ross L. Bilbrey,"",NON,Yes,207,79,81,47
+Bradford,4,Retain Judge Ross L. Bilbrey,"",NON,Yes,445,130,209,106
+Bradford,5,Retain Judge Ross L. Bilbrey,"",NON,Yes,498,132,227,139
+Bradford,6,Retain Judge Ross L. Bilbrey,"",NON,Yes,256,63,134,59
+Bradford,7,Retain Judge Ross L. Bilbrey,"",NON,Yes,259,52,112,95
+Bradford,8,Retain Judge Ross L. Bilbrey,"",NON,Yes,605,162,264,179
+Bradford,9,Retain Judge Ross L. Bilbrey,"",NON,Yes,323,98,126,99
+Bradford,1,Retain Judge Ross L. Bilbrey,"",NON,No,312,86,144,82
+Bradford,10,Retain Judge Ross L. Bilbrey,"",NON,No,144,36,66,42
+Bradford,11,Retain Judge Ross L. Bilbrey,"",NON,No,216,48,106,62
+Bradford,12,Retain Judge Ross L. Bilbrey,"",NON,No,372,56,192,124
+Bradford,13,Retain Judge Ross L. Bilbrey,"",NON,No,70,,,
+Bradford,14,Retain Judge Ross L. Bilbrey,"",NON,No,155,,,
+Bradford,2,Retain Judge Ross L. Bilbrey,"",NON,No,165,47,77,41
+Bradford,3,Retain Judge Ross L. Bilbrey,"",NON,No,118,31,47,40
+Bradford,4,Retain Judge Ross L. Bilbrey,"",NON,No,224,84,92,48
+Bradford,5,Retain Judge Ross L. Bilbrey,"",NON,No,318,86,153,79
+Bradford,6,Retain Judge Ross L. Bilbrey,"",NON,No,170,45,83,42
+Bradford,7,Retain Judge Ross L. Bilbrey,"",NON,No,173,40,87,46
+Bradford,8,Retain Judge Ross L. Bilbrey,"",NON,No,285,,,
+Bradford,9,Retain Judge Ross L. Bilbrey,"",NON,No,205,49,97,59
+Bradford,1,Retain Judge Susan Kelsey,"",NON,Yes,528,134,255,139
+Bradford,10,Retain Judge Susan Kelsey,"",NON,Yes,363,94,187,82
+Bradford,11,Retain Judge Susan Kelsey,"",NON,Yes,374,106,181,87
+Bradford,12,Retain Judge Susan Kelsey,"",NON,Yes,883,170,462,251
+Bradford,13,Retain Judge Susan Kelsey,"",NON,Yes,151,33,75,43
+Bradford,14,Retain Judge Susan Kelsey,"",NON,Yes,267,53,156,58
+Bradford,2,Retain Judge Susan Kelsey,"",NON,Yes,208,51,94,63
+Bradford,3,Retain Judge Susan Kelsey,"",NON,Yes,225,80,90,55
+Bradford,4,Retain Judge Susan Kelsey,"",NON,Yes,434,134,194,106
+Bradford,5,Retain Judge Susan Kelsey,"",NON,Yes,519,140,236,143
+Bradford,6,Retain Judge Susan Kelsey,"",NON,Yes,264,67,129,68
+Bradford,7,Retain Judge Susan Kelsey,"",NON,Yes,271,55,120,96
+Bradford,8,Retain Judge Susan Kelsey,"",NON,Yes,619,169,269,181
+Bradford,9,Retain Judge Susan Kelsey,"",NON,Yes,337,100,132,105
+Bradford,1,Retain Judge Susan Kelsey,"",NON,No,318,92,147,79
+Bradford,10,Retain Judge Susan Kelsey,"",NON,No,136,33,68,35
+Bradford,11,Retain Judge Susan Kelsey,"",NON,No,196,41,97,58
+Bradford,12,Retain Judge Susan Kelsey,"",NON,No,378,68,195,115
+Bradford,13,Retain Judge Susan Kelsey,"",NON,No,83,,,
+Bradford,14,Retain Judge Susan Kelsey,"",NON,No,133,,,
+Bradford,2,Retain Judge Susan Kelsey,"",NON,No,152,37,78,37
+Bradford,3,Retain Judge Susan Kelsey,"",NON,No,101,,,
+Bradford,4,Retain Judge Susan Kelsey,"",NON,No,232,79,106,47
+Bradford,5,Retain Judge Susan Kelsey,"",NON,No,296,80,141,75
+Bradford,6,Retain Judge Susan Kelsey,"",NON,No,159,41,85,33
+Bradford,7,Retain Judge Susan Kelsey,"",NON,No,161,38,79,44
+Bradford,8,Retain Judge Susan Kelsey,"",NON,No,264,,,
+Bradford,9,Retain Judge Susan Kelsey,"",NON,No,187,48,89,50
+Bradford,1,Retain Judge Bobby Long,"",NON,Yes,568,148,273,147
+Bradford,10,Retain Judge Bobby Long,"",NON,Yes,370,95,199,76
+Bradford,11,Retain Judge Bobby Long,"",NON,Yes,393,108,194,91
+Bradford,12,Retain Judge Bobby Long,"",NON,Yes,903,175,482,246
+Bradford,13,Retain Judge Bobby Long,"",NON,Yes,171,35,91,45
+Bradford,14,Retain Judge Bobby Long,"",NON,Yes,267,55,156,56
+Bradford,2,Retain Judge Bobby Long,"",NON,Yes,218,53,102,63
+Bradford,3,Retain Judge Bobby Long,"",NON,Yes,228,82,91,55
+Bradford,4,Retain Judge Bobby Long,"",NON,Yes,447,132,209,106
+Bradford,5,Retain Judge Bobby Long,"",NON,Yes,530,142,242,146
+Bradford,6,Retain Judge Bobby Long,"",NON,Yes,281,67,144,70
+Bradford,7,Retain Judge Bobby Long,"",NON,Yes,267,52,119,96
+Bradford,8,Retain Judge Bobby Long,"",NON,Yes,638,169,279,190
+Bradford,9,Retain Judge Bobby Long,"",NON,Yes,356,106,142,108
+Bradford,1,Retain Judge Bobby Long,"",NON,No,283,81,130,72
+Bradford,10,Retain Judge Bobby Long,"",NON,No,131,32,57,42
+Bradford,11,Retain Judge Bobby Long,"",NON,No,179,41,84,54
+Bradford,12,Retain Judge Bobby Long,"",NON,No,357,60,178,119
+Bradford,13,Retain Judge Bobby Long,"",NON,No,67,,,
+Bradford,14,Retain Judge Bobby Long,"",NON,No,137,,,
+Bradford,2,Retain Judge Bobby Long,"",NON,No,145,37,71,37
+Bradford,3,Retain Judge Bobby Long,"",NON,No,100,,,
+Bradford,4,Retain Judge Bobby Long,"",NON,No,223,81,94,48
+Bradford,5,Retain Judge Bobby Long,"",NON,No,291,77,141,73
+Bradford,6,Retain Judge Bobby Long,"",NON,No,144,41,71,32
+Bradford,7,Retain Judge Bobby Long,"",NON,No,168,41,82,45
+Bradford,8,Retain Judge Bobby Long,"",NON,No,256,,,
+Bradford,9,Retain Judge Bobby Long,"",NON,No,175,43,81,51
+Bradford,1,Retain Judge Lori S. Rowe,"",NON,Yes,507,135,246,126
+Bradford,10,Retain Judge Lori S. Rowe,"",NON,Yes,339,84,177,78
+Bradford,11,Retain Judge Lori S. Rowe,"",NON,Yes,360,101,180,79
+Bradford,12,Retain Judge Lori S. Rowe,"",NON,Yes,856,169,449,238
+Bradford,13,Retain Judge Lori S. Rowe,"",NON,Yes,146,33,70,43
+Bradford,14,Retain Judge Lori S. Rowe,"",NON,Yes,257,48,149,60
+Bradford,2,Retain Judge Lori S. Rowe,"",NON,Yes,229,54,109,66
+Bradford,3,Retain Judge Lori S. Rowe,"",NON,Yes,198,73,75,50
+Bradford,4,Retain Judge Lori S. Rowe,"",NON,Yes,426,127,192,107
+Bradford,5,Retain Judge Lori S. Rowe,"",NON,Yes,506,139,228,139
+Bradford,6,Retain Judge Lori S. Rowe,"",NON,Yes,250,62,126,62
+Bradford,7,Retain Judge Lori S. Rowe,"",NON,Yes,278,59,128,91
+Bradford,8,Retain Judge Lori S. Rowe,"",NON,Yes,610,165,271,174
+Bradford,9,Retain Judge Lori S. Rowe,"",NON,Yes,335,97,138,100
+Bradford,1,Retain Judge Lori S. Rowe,"",NON,No,332,89,154,89
+Bradford,10,Retain Judge Lori S. Rowe,"",NON,No,158,41,78,39
+Bradford,11,Retain Judge Lori S. Rowe,"",NON,No,208,46,102,60
+Bradford,12,Retain Judge Lori S. Rowe,"",NON,No,391,64,205,122
+Bradford,13,Retain Judge Lori S. Rowe,"",NON,No,88,,,
+Bradford,14,Retain Judge Lori S. Rowe,"",NON,No,151,30,87,34
+Bradford,2,Retain Judge Lori S. Rowe,"",NON,No,128,35,60,33
+Bradford,3,Retain Judge Lori S. Rowe,"",NON,No,127,37,53,37
+Bradford,4,Retain Judge Lori S. Rowe,"",NON,No,231,79,107,45
+Bradford,5,Retain Judge Lori S. Rowe,"",NON,No,302,77,150,75
+Bradford,6,Retain Judge Lori S. Rowe,"",NON,No,171,46,86,39
+Bradford,7,Retain Judge Lori S. Rowe,"",NON,No,151,33,71,47
+Bradford,8,Retain Judge Lori S. Rowe,"",NON,No,275,,,
+Bradford,9,Retain Judge Lori S. Rowe,"",NON,No,195,50,88,57
+Bradford,1,Retain Judge Bo Winokur,"",NON,Yes,525,134,255,136
+Bradford,10,Retain Judge Bo Winokur,"",NON,Yes,350,87,188,75
+Bradford,11,Retain Judge Bo Winokur,"",NON,Yes,363,97,178,88
+Bradford,12,Retain Judge Bo Winokur,"",NON,Yes,863,174,464,225
+Bradford,13,Retain Judge Bo Winokur,"",NON,Yes,154,,,
+Bradford,14,Retain Judge Bo Winokur,"",NON,Yes,252,55,144,53
+Bradford,2,Retain Judge Bo Winokur,"",NON,Yes,198,50,92,56
+Bradford,3,Retain Judge Bo Winokur,"",NON,Yes,214,78,83,53
+Bradford,4,Retain Judge Bo Winokur,"",NON,Yes,426,128,201,97
+Bradford,5,Retain Judge Bo Winokur,"",NON,Yes,474,125,215,134
+Bradford,6,Retain Judge Bo Winokur,"",NON,Yes,264,64,134,66
+Bradford,7,Retain Judge Bo Winokur,"",NON,Yes,247,51,114,82
+Bradford,8,Retain Judge Bo Winokur,"",NON,Yes,604,161,266,177
+Bradford,9,Retain Judge Bo Winokur,"",NON,Yes,326,96,132,98
+Bradford,1,Retain Judge Bo Winokur,"",NON,No,314,90,146,78
+Bradford,10,Retain Judge Bo Winokur,"",NON,No,139,36,63,40
+Bradford,11,Retain Judge Bo Winokur,"",NON,No,197,47,101,49
+Bradford,12,Retain Judge Bo Winokur,"",NON,No,377,59,186,132
+Bradford,13,Retain Judge Bo Winokur,"",NON,No,75,,,
+Bradford,14,Retain Judge Bo Winokur,"",NON,No,143,,,
+Bradford,2,Retain Judge Bo Winokur,"",NON,No,153,37,75,41
+Bradford,3,Retain Judge Bo Winokur,"",NON,No,108,31,44,33
+Bradford,4,Retain Judge Bo Winokur,"",NON,No,226,79,98,49
+Bradford,5,Retain Judge Bo Winokur,"",NON,No,321,86,159,76
+Bradford,6,Retain Judge Bo Winokur,"",NON,No,147,42,73,32
+Bradford,7,Retain Judge Bo Winokur,"",NON,No,183,42,86,55
+Bradford,8,Retain Judge Bo Winokur,"",NON,No,274,,,
+Bradford,9,Retain Judge Bo Winokur,"",NON,No,197,48,91,58
+Bradford,1,No. 1 Constitutional Amendment,"",NON,Yes,496,143,229,124
+Bradford,10,No. 1 Constitutional Amendment,"",NON,Yes,315,77,171,67
+Bradford,11,No. 1 Constitutional Amendment,"",NON,Yes,329,91,161,77
+Bradford,12,No. 1 Constitutional Amendment,"",NON,Yes,806,151,419,236
+Bradford,13,No. 1 Constitutional Amendment,"",NON,Yes,148,,,
+Bradford,14,No. 1 Constitutional Amendment,"",NON,Yes,228,42,136,50
+Bradford,2,No. 1 Constitutional Amendment,"",NON,Yes,204,58,89,57
+Bradford,3,No. 1 Constitutional Amendment,"",NON,Yes,190,58,74,58
+Bradford,4,No. 1 Constitutional Amendment,"",NON,Yes,419,127,198,94
+Bradford,5,No. 1 Constitutional Amendment,"",NON,Yes,478,138,211,129
+Bradford,6,No. 1 Constitutional Amendment,"",NON,Yes,238,64,119,55
+Bradford,7,No. 1 Constitutional Amendment,"",NON,Yes,208,41,92,75
+Bradford,8,No. 1 Constitutional Amendment,"",NON,Yes,560,,,
+Bradford,9,No. 1 Constitutional Amendment,"",NON,Yes,312,102,120,90
+Bradford,1,No. 1 Constitutional Amendment,"",NON,No,425,104,211,110
+Bradford,10,No. 1 Constitutional Amendment,"",NON,No,236,64,125,47
+Bradford,11,No. 1 Constitutional Amendment,"",NON,No,306,69,164,73
+Bradford,12,No. 1 Constitutional Amendment,"",NON,No,578,104,314,160
+Bradford,13,No. 1 Constitutional Amendment,"",NON,No,106,,,
+Bradford,14,No. 1 Constitutional Amendment,"",NON,No,207,40,118,49
+Bradford,2,No. 1 Constitutional Amendment,"",NON,No,160,31,88,41
+Bradford,3,No. 1 Constitutional Amendment,"",NON,No,161,64,64,33
+Bradford,4,No. 1 Constitutional Amendment,"",NON,No,333,111,157,65
+Bradford,5,No. 1 Constitutional Amendment,"",NON,No,378,96,192,90
+Bradford,6,No. 1 Constitutional Amendment,"",NON,No,222,63,110,49
+Bradford,7,No. 1 Constitutional Amendment,"",NON,No,257,55,132,70
+Bradford,8,No. 1 Constitutional Amendment,"",NON,No,403,100,208,95
+Bradford,9,No. 1 Constitutional Amendment,"",NON,No,255,64,116,75
+Bradford,1,No. 2 Constitutional Amendment,"",NON,Yes,484,141,223,120
+Bradford,10,No. 2 Constitutional Amendment,"",NON,Yes,312,78,165,69
+Bradford,11,No. 2 Constitutional Amendment,"",NON,Yes,355,94,181,80
+Bradford,12,No. 2 Constitutional Amendment,"",NON,Yes,795,153,417,225
+Bradford,13,No. 2 Constitutional Amendment,"",NON,Yes,130,,,
+Bradford,14,No. 2 Constitutional Amendment,"",NON,Yes,223,41,128,54
+Bradford,2,No. 2 Constitutional Amendment,"",NON,Yes,218,56,96,66
+Bradford,3,No. 2 Constitutional Amendment,"",NON,Yes,173,48,70,55
+Bradford,4,No. 2 Constitutional Amendment,"",NON,Yes,416,126,196,94
+Bradford,5,No. 2 Constitutional Amendment,"",NON,Yes,476,119,237,120
+Bradford,6,No. 2 Constitutional Amendment,"",NON,Yes,244,73,122,49
+Bradford,7,No. 2 Constitutional Amendment,"",NON,Yes,234,39,115,80
+Bradford,8,No. 2 Constitutional Amendment,"",NON,Yes,532,,,
+Bradford,9,No. 2 Constitutional Amendment,"",NON,Yes,304,91,117,96
+Bradford,1,No. 2 Constitutional Amendment,"",NON,No,436,102,221,113
+Bradford,10,No. 2 Constitutional Amendment,"",NON,No,239,65,125,49
+Bradford,11,No. 2 Constitutional Amendment,"",NON,No,272,65,139,68
+Bradford,12,No. 2 Constitutional Amendment,"",NON,No,585,109,301,175
+Bradford,13,No. 2 Constitutional Amendment,"",NON,No,119,,,
+Bradford,14,No. 2 Constitutional Amendment,"",NON,No,205,36,123,46
+Bradford,2,No. 2 Constitutional Amendment,"",NON,No,146,35,81,30
+Bradford,3,No. 2 Constitutional Amendment,"",NON,No,170,68,68,34
+Bradford,4,No. 2 Constitutional Amendment,"",NON,No,315,105,145,65
+Bradford,5,No. 2 Constitutional Amendment,"",NON,No,373,113,162,98
+Bradford,6,No. 2 Constitutional Amendment,"",NON,No,210,52,103,55
+Bradford,7,No. 2 Constitutional Amendment,"",NON,No,222,58,101,63
+Bradford,8,No. 2 Constitutional Amendment,"",NON,No,431,112,205,114
+Bradford,9,No. 2 Constitutional Amendment,"",NON,No,271,75,125,71
+Bradford,1,No. 3 Constitutional Amendment,"",NON,Yes,568,149,278,141
+Bradford,10,No. 3 Constitutional Amendment,"",NON,Yes,337,86,187,64
+Bradford,11,No. 3 Constitutional Amendment,"",NON,Yes,367,104,197,66
+Bradford,12,No. 3 Constitutional Amendment,"",NON,Yes,854,160,463,231
+Bradford,13,No. 3 Constitutional Amendment,"",NON,Yes,161,33,94,34
+Bradford,14,No. 3 Constitutional Amendment,"",NON,Yes,247,51,153,43
+Bradford,2,No. 3 Constitutional Amendment,"",NON,Yes,246,59,119,68
+Bradford,3,No. 3 Constitutional Amendment,"",NON,Yes,201,55,83,63
+Bradford,4,No. 3 Constitutional Amendment,"",NON,Yes,466,131,230,105
+Bradford,5,No. 3 Constitutional Amendment,"",NON,Yes,572,159,277,136
+Bradford,6,No. 3 Constitutional Amendment,"",NON,Yes,248,76,121,51
+Bradford,7,No. 3 Constitutional Amendment,"",NON,Yes,294,68,145,81
+Bradford,8,No. 3 Constitutional Amendment,"",NON,Yes,621,,,
+Bradford,9,No. 3 Constitutional Amendment,"",NON,Yes,346,101,155,90
+Bradford,1,No. 3 Constitutional Amendment,"",NON,No,421,108,212,101
+Bradford,10,No. 3 Constitutional Amendment,"",NON,No,249,60,128,61
+Bradford,11,No. 3 Constitutional Amendment,"",NON,No,324,71,161,92
+Bradford,12,No. 3 Constitutional Amendment,"",NON,No,600,121,303,176
+Bradford,13,No. 3 Constitutional Amendment,"",NON,No,112,,,
+Bradford,14,No. 3 Constitutional Amendment,"",NON,No,212,37,115,60
+Bradford,2,No. 3 Constitutional Amendment,"",NON,No,136,34,70,32
+Bradford,3,No. 3 Constitutional Amendment,"",NON,No,165,72,63,30
+Bradford,4,No. 3 Constitutional Amendment,"",NON,No,313,113,143,57
+Bradford,5,No. 3 Constitutional Amendment,"",NON,No,321,89,145,87
+Bradford,6,No. 3 Constitutional Amendment,"",NON,No,241,60,126,55
+Bradford,7,No. 3 Constitutional Amendment,"",NON,No,181,35,83,63
+Bradford,8,No. 3 Constitutional Amendment,"",NON,No,377,113,152,112
+Bradford,9,No. 3 Constitutional Amendment,"",NON,No,272,86,100,86
