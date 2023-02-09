@@ -1,0 +1,248 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
+Lafayette,Day Community Center,U.S. Senate,"",REP,Marco Rubio,562,,,
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",REP,Marco Rubio,395,182,169,44
+Lafayette,Airline Community Center,U.S. Senate,"",REP,Marco Rubio,644,219,356,69
+Lafayette,4th District Community Center,U.S. Senate,"",REP,Marco Rubio,703,131,447,125
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",REP,Marco Rubio,217,84,94,39
+Lafayette,Day Community Center,U.S. Senate,"",DEM,Val Demings,57,,,
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",DEM,Val Demings,53,,,
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,Val Demings,66,,,
+Lafayette,4th District Community Center,U.S. Senate,"",DEM,Val Demings,69,,,
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",DEM,Val Demings,103,,,
+Lafayette,Day Community Center,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Lafayette,Airline Community Center,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Lafayette,4th District Community Center,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Lafayette,Day Community Center,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",NPA,Steven B. Grant,6,,,
+Lafayette,Airline Community Center,U.S. Senate,"",NPA,Steven B. Grant,10,,,
+Lafayette,4th District Community Center,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Lafayette,Day Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Lafayette,Airline Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Lafayette,4th District Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Lafayette,Day Community Center,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",NON,WRITE-IN,1,,,
+Lafayette,Airline Community Center,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Lafayette,4th District Community Center,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
+Lafayette,Day Community Center,U.S. House,2,REP,Neal Dunn,115,,,
+Lafayette,Day Community Center,U.S. House,2,DEM,Al Lawson,10,,,
+Lafayette,Day Community Center,U.S. House,3,REP,Kat Cammack,456,,,
+Lafayette,Mayo Community Center - D2,U.S. House,3,REP,Kat Cammack,403,184,174,45
+Lafayette,Airline Community Center,U.S. House,3,REP,Kat Cammack,655,226,359,70
+Lafayette,4th District Community Center,U.S. House,3,REP,Kat Cammack,711,131,449,131
+Lafayette,Mayo Community Center - D5,U.S. House,3,REP,Kat Cammack,231,89,100,42
+Lafayette,Day Community Center,U.S. House,3,DEM,Danielle Hawk,31,,,
+Lafayette,Mayo Community Center - D2,U.S. House,3,DEM,Danielle Hawk,45,,,
+Lafayette,Airline Community Center,U.S. House,3,DEM,Danielle Hawk,61,,,
+Lafayette,4th District Community Center,U.S. House,3,DEM,Danielle Hawk,62,,,
+Lafayette,Mayo Community Center - D5,U.S. House,3,DEM,Danielle Hawk,88,,,
+Lafayette,Day Community Center,U.S. House,3,NPA,Linda S. Brooks,6,,,
+Lafayette,Mayo Community Center - D2,U.S. House,3,NPA,Linda S. Brooks,6,,,
+Lafayette,Airline Community Center,U.S. House,3,NPA,Linda S. Brooks,7,,,
+Lafayette,4th District Community Center,U.S. House,3,NPA,Linda S. Brooks,7,,,
+Lafayette,Mayo Community Center - D5,U.S. House,3,NPA,Linda S. Brooks,2,,,
+Lafayette,Day Community Center,Governor and Lieutenant Governor,"",REP,DeSantis / Nunez,576,,,
+Lafayette,Mayo Community Center - D2,Governor and Lieutenant Governor,"",REP,DeSantis / Nunez,409,187,176,46
+Lafayette,Airline Community Center,Governor and Lieutenant Governor,"",REP,DeSantis / Nunez,673,229,370,74
+Lafayette,4th District Community Center,Governor and Lieutenant Governor,"",REP,DeSantis / Nunez,720,133,456,131
+Lafayette,Mayo Community Center - D5,Governor and Lieutenant Governor,"",REP,DeSantis / Nunez,239,89,106,44
+Lafayette,Day Community Center,Governor and Lieutenant Governor,"",DEM,Crist / Hernandez,49,,,
+Lafayette,Mayo Community Center - D2,Governor and Lieutenant Governor,"",DEM,Crist / Hernandez,45,,,
+Lafayette,Airline Community Center,Governor and Lieutenant Governor,"",DEM,Crist / Hernandez,52,,,
+Lafayette,4th District Community Center,Governor and Lieutenant Governor,"",DEM,Crist / Hernandez,64,,,
+Lafayette,Mayo Community Center - D5,Governor and Lieutenant Governor,"",DEM,Crist / Hernandez,84,,,
+Lafayette,Day Community Center,Governor and Lieutenant Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
+Lafayette,Mayo Community Center - D2,Governor and Lieutenant Governor,"",LPF,Roos / Rorabaugh,1,,,
+Lafayette,Airline Community Center,Governor and Lieutenant Governor,"",LPF,Roos / Rorabaugh,1,,,
+Lafayette,4th District Community Center,Governor and Lieutenant Governor,"",LPF,Roos / Rorabaugh,1,,,
+Lafayette,Mayo Community Center - D5,Governor and Lieutenant Governor,"",LPF,Roos / Rorabaugh,1,,,
+Lafayette,Day Community Center,Governor and Lieutenant Governor,"",NPA,Gimenez / Gibson,1,,,
+Lafayette,Mayo Community Center - D2,Governor and Lieutenant Governor,"",NPA,Gimenez / Gibson,0,0,0,0
+Lafayette,Airline Community Center,Governor and Lieutenant Governor,"",NPA,Gimenez / Gibson,1,,,
+Lafayette,4th District Community Center,Governor and Lieutenant Governor,"",NPA,Gimenez / Gibson,0,0,0,0
+Lafayette,Mayo Community Center - D5,Governor and Lieutenant Governor,"",NPA,Gimenez / Gibson,1,,,
+Lafayette,Day Community Center,Attorney General,"",REP,Ashley Moody,577,,,
+Lafayette,Mayo Community Center - D2,Attorney General,"",REP,Ashley Moody,415,188,180,47
+Lafayette,Airline Community Center,Attorney General,"",REP,Ashley Moody,673,232,366,75
+Lafayette,4th District Community Center,Attorney General,"",REP,Ashley Moody,712,133,446,133
+Lafayette,Mayo Community Center - D5,Attorney General,"",REP,Ashley Moody,241,87,107,47
+Lafayette,Day Community Center,Attorney General,"",DEM,Aramis Ayala,39,,,
+Lafayette,Mayo Community Center - D2,Attorney General,"",DEM,Aramis Ayala,41,,,
+Lafayette,Airline Community Center,Attorney General,"",DEM,Aramis Ayala,50,,,
+Lafayette,4th District Community Center,Attorney General,"",DEM,Aramis Ayala,63,,,
+Lafayette,Mayo Community Center - D5,Attorney General,"",DEM,Aramis Ayala,80,,,
+Lafayette,Day Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,565,,,
+Lafayette,Mayo Community Center - D2,Chief Financial Officer,"",REP,Jimmy Patronis,400,181,174,45
+Lafayette,Airline Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,658,226,359,73
+Lafayette,4th District Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,702,131,441,130
+Lafayette,Mayo Community Center - D5,Chief Financial Officer,"",REP,Jimmy Patronis,230,83,105,42
+Lafayette,Day Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,48,,,
+Lafayette,Mayo Community Center - D2,Chief Financial Officer,"",DEM,Adam Hattersley,53,,,
+Lafayette,Airline Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,60,,,
+Lafayette,4th District Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,69,,,
+Lafayette,Mayo Community Center - D5,Chief Financial Officer,"",DEM,Adam Hattersley,90,,,
+Lafayette,Day Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,573,,,
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",REP,Wilton Simpson,405,183,175,47
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,666,232,360,74
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,710,133,446,131
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",REP,Wilton Simpson,230,86,102,42
+Lafayette,Day Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,43,,,
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,47,,,
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,52,,,
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,66,,,
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,91,,,
+Lafayette,Day Community Center,State Senate,3,REP,Corey Simon,566,,,
+Lafayette,Mayo Community Center - D2,State Senate,3,REP,Corey Simon,394,183,166,45
+Lafayette,Airline Community Center,State Senate,3,REP,Corey Simon,643,219,356,68
+Lafayette,4th District Community Center,State Senate,3,REP,Corey Simon,696,132,438,126
+Lafayette,Mayo Community Center - D5,State Senate,3,REP,Corey Simon,234,88,108,38
+Lafayette,Day Community Center,State Senate,3,DEM,Loranne Ausley,50,,,
+Lafayette,Mayo Community Center - D2,State Senate,3,DEM,Loranne Ausley,57,,,
+Lafayette,Airline Community Center,State Senate,3,DEM,Loranne Ausley,68,,,
+Lafayette,4th District Community Center,State Senate,3,DEM,Loranne Ausley,72,,,
+Lafayette,Mayo Community Center - D5,State Senate,3,DEM,Loranne Ausley,83,,,
+Lafayette,Day Community Center,Retain Charles T. Canady,"",NON,Yes,366,,,
+Lafayette,Mayo Community Center - D2,Retain Charles T. Canady,"",NON,Yes,257,111,115,31
+Lafayette,Airline Community Center,Retain Charles T. Canady,"",NON,Yes,394,133,218,43
+Lafayette,4th District Community Center,Retain Charles T. Canady,"",NON,Yes,443,81,267,95
+Lafayette,Mayo Community Center - D5,Retain Charles T. Canady,"",NON,Yes,182,57,94,31
+Lafayette,Day Community Center,Retain Charles T. Canady,"",NON,No,193,50,106,37
+Lafayette,Mayo Community Center - D2,Retain Charles T. Canady,"",NON,No,155,,,
+Lafayette,Airline Community Center,Retain Charles T. Canady,"",NON,No,262,,,
+Lafayette,4th District Community Center,Retain Charles T. Canady,"",NON,No,282,49,185,48
+Lafayette,Mayo Community Center - D5,Retain Charles T. Canady,"",NON,No,112,,,
+Lafayette,Day Community Center,Retain John D. Couriel,"",NON,Yes,386,,,
+Lafayette,Mayo Community Center - D2,Retain John D. Couriel,"",NON,Yes,278,123,120,35
+Lafayette,Airline Community Center,Retain John D. Couriel,"",NON,Yes,423,146,228,49
+Lafayette,4th District Community Center,Retain John D. Couriel,"",NON,Yes,493,93,304,96
+Lafayette,Mayo Community Center - D5,Retain John D. Couriel,"",NON,Yes,182,55,96,31
+Lafayette,Day Community Center,Retain John D. Couriel,"",NON,No,174,42,97,35
+Lafayette,Mayo Community Center - D2,Retain John D. Couriel,"",NON,No,135,,,
+Lafayette,Airline Community Center,Retain John D. Couriel,"",NON,No,229,,,
+Lafayette,4th District Community Center,Retain John D. Couriel,"",NON,No,229,37,144,48
+Lafayette,Mayo Community Center - D5,Retain John D. Couriel,"",NON,No,108,,,
+Lafayette,Day Community Center,Retain Jamie Grosshans,"",NON,Yes,376,,,
+Lafayette,Mayo Community Center - D2,Retain Jamie Grosshans,"",NON,Yes,271,118,118,35
+Lafayette,Airline Community Center,Retain Jamie Grosshans,"",NON,Yes,423,148,226,49
+Lafayette,4th District Community Center,Retain Jamie Grosshans,"",NON,Yes,476,90,292,94
+Lafayette,Mayo Community Center - D5,Retain Jamie Grosshans,"",NON,Yes,190,60,99,31
+Lafayette,Day Community Center,Retain Jamie Grosshans,"",NON,No,183,46,100,37
+Lafayette,Mayo Community Center - D2,Retain Jamie Grosshans,"",NON,No,140,,,
+Lafayette,Airline Community Center,Retain Jamie Grosshans,"",NON,No,227,,,
+Lafayette,4th District Community Center,Retain Jamie Grosshans,"",NON,No,246,40,157,49
+Lafayette,Mayo Community Center - D5,Retain Jamie Grosshans,"",NON,No,104,,,
+Lafayette,Day Community Center,Retain Jorge Labarga,"",NON,Yes,267,,,
+Lafayette,Mayo Community Center - D2,Retain Jorge Labarga,"",NON,Yes,223,,,
+Lafayette,Airline Community Center,Retain Jorge Labarga,"",NON,Yes,298,97,171,30
+Lafayette,4th District Community Center,Retain Jorge Labarga,"",NON,Yes,346,52,213,81
+Lafayette,Mayo Community Center - D5,Retain Jorge Labarga,"",NON,Yes,165,,,
+Lafayette,Day Community Center,Retain Jorge Labarga,"",NON,No,292,74,164,54
+Lafayette,Mayo Community Center - D2,Retain Jorge Labarga,"",NON,No,186,,,
+Lafayette,Airline Community Center,Retain Jorge Labarga,"",NON,No,354,130,182,42
+Lafayette,4th District Community Center,Retain Jorge Labarga,"",NON,No,370,76,232,62
+Lafayette,Mayo Community Center - D5,Retain Jorge Labarga,"",NON,No,128,,,
+Lafayette,Day Community Center,Retain Ricky Polston,"",NON,Yes,337,,,
+Lafayette,Mayo Community Center - D2,Retain Ricky Polston,"",NON,Yes,248,106,111,31
+Lafayette,Airline Community Center,Retain Ricky Polston,"",NON,Yes,388,134,212,42
+Lafayette,4th District Community Center,Retain Ricky Polston,"",NON,Yes,426,79,262,85
+Lafayette,Mayo Community Center - D5,Retain Ricky Polston,"",NON,Yes,172,56,86,30
+Lafayette,Day Community Center,Retain Ricky Polston,"",NON,No,221,56,123,42
+Lafayette,Mayo Community Center - D2,Retain Ricky Polston,"",NON,No,162,,,
+Lafayette,Airline Community Center,Retain Ricky Polston,"",NON,No,266,,,
+Lafayette,4th District Community Center,Retain Ricky Polston,"",NON,No,298,52,187,59
+Lafayette,Mayo Community Center - D5,Retain Ricky Polston,"",NON,No,120,,,
+Lafayette,Day Community Center,Retain Ross L. Bilbrey,"",NON,Yes,358,,,
+Lafayette,Mayo Community Center - D2,Retain Ross L. Bilbrey,"",NON,Yes,266,114,120,32
+Lafayette,Airline Community Center,Retain Ross L. Bilbrey,"",NON,Yes,412,145,224,43
+Lafayette,4th District Community Center,Retain Ross L. Bilbrey,"",NON,Yes,470,93,287,90
+Lafayette,Mayo Community Center - D5,Retain Ross L. Bilbrey,"",NON,Yes,176,,,
+Lafayette,Day Community Center,Retain Ross L. Bilbrey,"",NON,No,196,49,108,39
+Lafayette,Mayo Community Center - D2,Retain Ross L. Bilbrey,"",NON,No,145,,,
+Lafayette,Airline Community Center,Retain Ross L. Bilbrey,"",NON,No,248,,,
+Lafayette,4th District Community Center,Retain Ross L. Bilbrey,"",NON,No,248,38,157,53
+Lafayette,Mayo Community Center - D5,Retain Ross L. Bilbrey,"",NON,No,116,,,
+Lafayette,Day Community Center,Retain Susan Kelsey,"",NON,Yes,355,,,
+Lafayette,Mayo Community Center - D2,Retain Susan Kelsey,"",NON,Yes,269,118,119,32
+Lafayette,Airline Community Center,Retain Susan Kelsey,"",NON,Yes,398,139,217,42
+Lafayette,4th District Community Center,Retain Susan Kelsey,"",NON,Yes,454,87,281,86
+Lafayette,Mayo Community Center - D5,Retain Susan Kelsey,"",NON,Yes,186,57,99,30
+Lafayette,Day Community Center,Retain Susan Kelsey,"",NON,No,200,57,106,37
+Lafayette,Mayo Community Center - D2,Retain Susan Kelsey,"",NON,No,143,,,
+Lafayette,Airline Community Center,Retain Susan Kelsey,"",NON,No,252,,,
+Lafayette,4th District Community Center,Retain Susan Kelsey,"",NON,No,259,45,158,56
+Lafayette,Mayo Community Center - D5,Retain Susan Kelsey,"",NON,No,108,,,
+Lafayette,Day Community Center,Retain Bobby Long,"",NON,Yes,378,,,
+Lafayette,Mayo Community Center - D2,Retain Bobby Long,"",NON,Yes,278,121,125,32
+Lafayette,Airline Community Center,Retain Bobby Long,"",NON,Yes,417,147,223,47
+Lafayette,4th District Community Center,Retain Bobby Long,"",NON,Yes,486,94,302,90
+Lafayette,Mayo Community Center - D5,Retain Bobby Long,"",NON,Yes,181,60,90,31
+Lafayette,Day Community Center,Retain Bobby Long,"",NON,No,175,42,98,35
+Lafayette,Mayo Community Center - D2,Retain Bobby Long,"",NON,No,134,,,
+Lafayette,Airline Community Center,Retain Bobby Long,"",NON,No,236,,,
+Lafayette,4th District Community Center,Retain Bobby Long,"",NON,No,233,36,144,53
+Lafayette,Mayo Community Center - D5,Retain Bobby Long,"",NON,No,109,,,
+Lafayette,Day Community Center,Retain Lori S. Rowe,"",NON,Yes,322,,,
+Lafayette,Mayo Community Center - D2,Retain Lori S. Rowe,"",NON,Yes,255,,,
+Lafayette,Airline Community Center,Retain Lori S. Rowe,"",NON,Yes,383,138,209,36
+Lafayette,4th District Community Center,Retain Lori S. Rowe,"",NON,Yes,413,77,250,86
+Lafayette,Mayo Community Center - D5,Retain Lori S. Rowe,"",NON,Yes,185,56,97,32
+Lafayette,Day Community Center,Retain Lori S. Rowe,"",NON,No,230,60,127,43
+Lafayette,Mayo Community Center - D2,Retain Lori S. Rowe,"",NON,No,156,,,
+Lafayette,Airline Community Center,Retain Lori S. Rowe,"",NON,No,268,87,146,35
+Lafayette,4th District Community Center,Retain Lori S. Rowe,"",NON,No,302,54,192,56
+Lafayette,Mayo Community Center - D5,Retain Lori S. Rowe,"",NON,No,106,,,
+Lafayette,Day Community Center,Retain Bo Winokur,"",NON,Yes,357,,,
+Lafayette,Mayo Community Center - D2,Retain Bo Winokur,"",NON,Yes,276,,,
+Lafayette,Airline Community Center,Retain Bo Winokur,"",NON,Yes,402,143,219,40
+Lafayette,4th District Community Center,Retain Bo Winokur,"",NON,Yes,459,89,285,85
+Lafayette,Mayo Community Center - D5,Retain Bo Winokur,"",NON,Yes,175,56,89,30
+Lafayette,Day Community Center,Retain Bo Winokur,"",NON,No,194,48,104,42
+Lafayette,Mayo Community Center - D2,Retain Bo Winokur,"",NON,No,134,,,
+Lafayette,Airline Community Center,Retain Bo Winokur,"",NON,No,250,83,137,30
+Lafayette,4th District Community Center,Retain Bo Winokur,"",NON,No,260,43,159,58
+Lafayette,Mayo Community Center - D5,Retain Bo Winokur,"",NON,No,114,,,
+Lafayette,Day Community Center,School Board,3,NON,Marion McCray,343,,,
+Lafayette,Mayo Community Center - D2,School Board,3,NON,Marion McCray,259,125,99,35
+Lafayette,Airline Community Center,School Board,3,NON,Marion McCray,398,140,209,49
+Lafayette,4th District Community Center,School Board,3,NON,Marion McCray,431,85,245,101
+Lafayette,Mayo Community Center - D5,School Board,3,NON,Marion McCray,170,54,81,35
+Lafayette,Day Community Center,School Board,3,NON,Mary Ann Koon McCray,260,65,164,31
+Lafayette,Mayo Community Center - D2,School Board,3,NON,Mary Ann Koon McCray,189,,,
+Lafayette,Airline Community Center,School Board,3,NON,Mary Ann Koon McCray,306,101,173,32
+Lafayette,4th District Community Center,School Board,3,NON,Mary Ann Koon McCray,335,52,236,47
+Lafayette,Mayo Community Center - D5,School Board,3,NON,Mary Ann Koon McCray,147,,,
+Lafayette,Day Community Center,Amendment 1,"",NON,Yes,277,76,154,47
+Lafayette,Mayo Community Center - D2,Amendment 1,"",NON,Yes,214,,,
+Lafayette,Airline Community Center,Amendment 1,"",NON,Yes,315,102,181,32
+Lafayette,4th District Community Center,Amendment 1,"",NON,Yes,324,75,203,46
+Lafayette,Mayo Community Center - D5,Amendment 1,"",NON,Yes,165,,,
+Lafayette,Day Community Center,Amendment 1,"",NON,No,299,,,
+Lafayette,Mayo Community Center - D2,Amendment 1,"",NON,No,204,,,
+Lafayette,Airline Community Center,Amendment 1,"",NON,No,365,134,192,39
+Lafayette,4th District Community Center,Amendment 1,"",NON,No,399,59,252,88
+Lafayette,Mayo Community Center - D5,Amendment 1,"",NON,No,133,39,64,30
+Lafayette,Day Community Center,Amendment 2,"",NON,Yes,278,76,163,39
+Lafayette,Mayo Community Center - D2,Amendment 2,"",NON,Yes,215,99,85,31
+Lafayette,Airline Community Center,Amendment 2,"",NON,Yes,327,114,177,36
+Lafayette,4th District Community Center,Amendment 2,"",NON,Yes,360,72,225,63
+Lafayette,Mayo Community Center - D5,Amendment 2,"",NON,Yes,147,,,
+Lafayette,Day Community Center,Amendment 2,"",NON,No,294,,,
+Lafayette,Mayo Community Center - D2,Amendment 2,"",NON,No,201,,,
+Lafayette,Airline Community Center,Amendment 2,"",NON,No,337,115,190,32
+Lafayette,4th District Community Center,Amendment 2,"",NON,No,365,63,230,72
+Lafayette,Mayo Community Center - D5,Amendment 2,"",NON,No,150,42,78,30
+Lafayette,Day Community Center,Amendment 3,"",NON,Yes,265,,,
+Lafayette,Mayo Community Center - D2,Amendment 3,"",NON,Yes,230,106,93,31
+Lafayette,Airline Community Center,Amendment 3,"",NON,Yes,383,110,228,45
+Lafayette,4th District Community Center,Amendment 3,"",NON,Yes,382,66,251,65
+Lafayette,Mayo Community Center - D5,Amendment 3,"",NON,Yes,161,,,
+Lafayette,Day Community Center,Amendment 3,"",NON,No,332,96,185,51
+Lafayette,Mayo Community Center - D2,Amendment 3,"",NON,No,192,,,
+Lafayette,Airline Community Center,Amendment 3,"",NON,No,300,,,
+Lafayette,4th District Community Center,Amendment 3,"",NON,No,357,70,215,72
+Lafayette,Mayo Community Center - D5,Amendment 3,"",NON,No,147,49,67,31
