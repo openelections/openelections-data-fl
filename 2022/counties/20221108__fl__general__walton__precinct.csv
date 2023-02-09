@@ -1,0 +1,1915 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
+Walton,110,U.S. Senate,"",REP,Marco Rubio,658,64,503,91
+Walton,120,U.S. Senate,"",REP,Marco Rubio,475,51,377,47
+Walton,130,U.S. Senate,"",REP,Marco Rubio,917,155,671,91
+Walton,210,U.S. Senate,"",REP,Marco Rubio,241,,,
+Walton,220,U.S. Senate,"",REP,Marco Rubio,356,61,248,47
+Walton,230,U.S. Senate,"",REP,Marco Rubio,616,144,367,105
+Walton,240,U.S. Senate,"",REP,Marco Rubio,205,,,
+Walton,310,U.S. Senate,"",REP,Marco Rubio,2290,750,1189,351
+Walton,320,U.S. Senate,"",REP,Marco Rubio,903,323,380,200
+Walton,330,U.S. Senate,"",REP,Marco Rubio,742,227,349,166
+Walton,340,U.S. Senate,"",REP,Marco Rubio,428,133,235,60
+Walton,350,U.S. Senate,"",REP,Marco Rubio,428,94,297,37
+Walton,360,U.S. Senate,"",REP,Marco Rubio,397,81,254,62
+Walton,410,U.S. Senate,"",REP,Marco Rubio,621,96,457,68
+Walton,420,U.S. Senate,"",REP,Marco Rubio,407,137,240,30
+Walton,430,U.S. Senate,"",REP,Marco Rubio,4031,1935,1727,369
+Walton,440,U.S. Senate,"",REP,Marco Rubio,674,277,324,73
+Walton,510,U.S. Senate,"",REP,Marco Rubio,5074,2124,2054,896
+Walton,520,U.S. Senate,"",REP,Marco Rubio,4637,1746,2206,685
+Walton,530,U.S. Senate,"",REP,Marco Rubio,2308,833,1104,371
+Walton,540,U.S. Senate,"",REP,Marco Rubio,1795,550,934,311
+Walton,110,U.S. Senate,"",DEM,Val Demings,66,,,
+Walton,120,U.S. Senate,"",DEM,Val Demings,44,,,
+Walton,130,U.S. Senate,"",DEM,Val Demings,122,,,
+Walton,210,U.S. Senate,"",DEM,Val Demings,20,,,
+Walton,220,U.S. Senate,"",DEM,Val Demings,29,,,
+Walton,230,U.S. Senate,"",DEM,Val Demings,56,,,
+Walton,240,U.S. Senate,"",DEM,Val Demings,16,,,
+Walton,310,U.S. Senate,"",DEM,Val Demings,485,133,196,156
+Walton,320,U.S. Senate,"",DEM,Val Demings,240,66,86,88
+Walton,330,U.S. Senate,"",DEM,Val Demings,104,38,36,30
+Walton,340,U.S. Senate,"",DEM,Val Demings,130,44,55,31
+Walton,350,U.S. Senate,"",DEM,Val Demings,68,,,
+Walton,360,U.S. Senate,"",DEM,Val Demings,57,,,
+Walton,410,U.S. Senate,"",DEM,Val Demings,115,,,
+Walton,420,U.S. Senate,"",DEM,Val Demings,63,,,
+Walton,430,U.S. Senate,"",DEM,Val Demings,869,334,278,257
+Walton,440,U.S. Senate,"",DEM,Val Demings,103,35,35,33
+Walton,510,U.S. Senate,"",DEM,Val Demings,1075,387,248,440
+Walton,520,U.S. Senate,"",DEM,Val Demings,1270,351,439,480
+Walton,530,U.S. Senate,"",DEM,Val Demings,874,284,286,304
+Walton,540,U.S. Senate,"",DEM,Val Demings,520,130,217,173
+Walton,110,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Walton,120,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Walton,130,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
+Walton,210,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Walton,220,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Walton,230,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Walton,240,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Walton,310,U.S. Senate,"",LPF,Dennis Misigoy,19,,,
+Walton,320,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Walton,330,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Walton,340,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Walton,350,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Walton,360,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Walton,410,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Walton,420,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Walton,430,U.S. Senate,"",LPF,Dennis Misigoy,18,,,
+Walton,440,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Walton,510,U.S. Senate,"",LPF,Dennis Misigoy,19,,,
+Walton,520,U.S. Senate,"",LPF,Dennis Misigoy,23,,,
+Walton,530,U.S. Senate,"",LPF,Dennis Misigoy,11,,,
+Walton,540,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
+Walton,110,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Walton,120,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Walton,130,U.S. Senate,"",NPA,Steven B. Grant,4,,,
+Walton,210,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Walton,220,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Walton,230,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Walton,240,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Walton,310,U.S. Senate,"",NPA,Steven B. Grant,17,,,
+Walton,320,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Walton,330,U.S. Senate,"",NPA,Steven B. Grant,5,,,
+Walton,340,U.S. Senate,"",NPA,Steven B. Grant,4,,,
+Walton,350,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Walton,360,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Walton,410,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Walton,420,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Walton,430,U.S. Senate,"",NPA,Steven B. Grant,16,,,
+Walton,440,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Walton,510,U.S. Senate,"",NPA,Steven B. Grant,7,,,
+Walton,520,U.S. Senate,"",NPA,Steven B. Grant,14,,,
+Walton,530,U.S. Senate,"",NPA,Steven B. Grant,5,,,
+Walton,540,U.S. Senate,"",NPA,Steven B. Grant,8,,,
+Walton,110,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Walton,120,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Walton,130,U.S. Senate,"",NPA,Tuan TQ Nguyen,4,,,
+Walton,210,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Walton,220,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Walton,230,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Walton,240,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Walton,310,U.S. Senate,"",NPA,Tuan TQ Nguyen,4,,,
+Walton,320,U.S. Senate,"",NPA,Tuan TQ Nguyen,4,,,
+Walton,330,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Walton,340,U.S. Senate,"",NPA,Tuan TQ Nguyen,4,,,
+Walton,350,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Walton,360,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Walton,410,U.S. Senate,"",NPA,Tuan TQ Nguyen,5,,,
+Walton,420,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Walton,430,U.S. Senate,"",NPA,Tuan TQ Nguyen,7,,,
+Walton,440,U.S. Senate,"",NPA,Tuan TQ Nguyen,6,,,
+Walton,510,U.S. Senate,"",NPA,Tuan TQ Nguyen,11,,,
+Walton,520,U.S. Senate,"",NPA,Tuan TQ Nguyen,6,,,
+Walton,530,U.S. Senate,"",NPA,Tuan TQ Nguyen,6,,,
+Walton,540,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Walton,110,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,120,U.S. Senate,"","",Unverified Write-In Votes,1,,,
+Walton,130,U.S. Senate,"","",Unverified Write-In Votes,1,,,
+Walton,210,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,220,U.S. Senate,"","",Unverified Write-In Votes,1,,,
+Walton,230,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,240,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,310,U.S. Senate,"","",Unverified Write-In Votes,3,,,
+Walton,320,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,330,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,340,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,350,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,360,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,410,U.S. Senate,"","",Unverified Write-In Votes,1,,,
+Walton,420,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,430,U.S. Senate,"","",Unverified Write-In Votes,4,,,
+Walton,440,U.S. Senate,"","",Unverified Write-In Votes,1,,,
+Walton,510,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,520,U.S. Senate,"","",Unverified Write-In Votes,0,0,0,0
+Walton,530,U.S. Senate,"","",Unverified Write-In Votes,2,,,
+Walton,540,U.S. Senate,"","",Unverified Write-In Votes,1,,,
+Walton,110,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,U.S. Senate,"",STATS,OVER VOTES,1,,,
+Walton,440,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,520,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,530,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,U.S. Senate,"",STATS,UNDER VOTES,1,,,
+Walton,120,U.S. Senate,"",STATS,UNDER VOTES,2,,,
+Walton,130,U.S. Senate,"",STATS,UNDER VOTES,4,,,
+Walton,210,U.S. Senate,"",STATS,UNDER VOTES,0,0,0,0
+Walton,220,U.S. Senate,"",STATS,UNDER VOTES,0,0,0,0
+Walton,230,U.S. Senate,"",STATS,UNDER VOTES,3,,,
+Walton,240,U.S. Senate,"",STATS,UNDER VOTES,2,,,
+Walton,310,U.S. Senate,"",STATS,UNDER VOTES,9,,,
+Walton,320,U.S. Senate,"",STATS,UNDER VOTES,4,,,
+Walton,330,U.S. Senate,"",STATS,UNDER VOTES,3,,,
+Walton,340,U.S. Senate,"",STATS,UNDER VOTES,1,,,
+Walton,350,U.S. Senate,"",STATS,UNDER VOTES,3,,,
+Walton,360,U.S. Senate,"",STATS,UNDER VOTES,2,,,
+Walton,410,U.S. Senate,"",STATS,UNDER VOTES,8,,,
+Walton,420,U.S. Senate,"",STATS,UNDER VOTES,2,,,
+Walton,430,U.S. Senate,"",STATS,UNDER VOTES,26,,,
+Walton,440,U.S. Senate,"",STATS,UNDER VOTES,1,,,
+Walton,510,U.S. Senate,"",STATS,UNDER VOTES,22,,,
+Walton,520,U.S. Senate,"",STATS,UNDER VOTES,25,,,
+Walton,530,U.S. Senate,"",STATS,UNDER VOTES,14,,,
+Walton,540,U.S. Senate,"",STATS,UNDER VOTES,10,,,
+Walton,110,U.S. House,1,REP,Matt Gaetz,647,61,495,91
+Walton,120,U.S. House,1,REP,Matt Gaetz,465,50,372,43
+Walton,130,U.S. House,1,REP,Matt Gaetz,896,153,653,90
+Walton,210,U.S. House,1,REP,Matt Gaetz,162,,,
+Walton,220,U.S. House,1,REP,Matt Gaetz,344,60,244,40
+Walton,230,U.S. House,1,REP,Matt Gaetz,117,,,
+Walton,310,U.S. House,1,REP,Matt Gaetz,1184,411,603,170
+Walton,320,U.S. House,1,REP,Matt Gaetz,269,90,116,63
+Walton,330,U.S. House,1,REP,Matt Gaetz,460,144,209,107
+Walton,410,U.S. House,1,REP,Matt Gaetz,596,92,446,58
+Walton,420,U.S. House,1,REP,Matt Gaetz,397,,,
+Walton,430,U.S. House,1,REP,Matt Gaetz,3342,1614,1422,306
+Walton,510,U.S. House,1,REP,Matt Gaetz,4766,2002,1962,802
+Walton,520,U.S. House,1,REP,Matt Gaetz,4387,1658,2097,632
+Walton,110,U.S. House,1,DEM,Rebekah Jones,80,,,
+Walton,120,U.S. House,1,DEM,Rebekah Jones,55,,,
+Walton,130,U.S. House,1,DEM,Rebekah Jones,146,,,
+Walton,210,U.S. House,1,DEM,Rebekah Jones,19,,,
+Walton,220,U.S. House,1,DEM,Rebekah Jones,39,,,
+Walton,230,U.S. House,1,DEM,Rebekah Jones,6,,,
+Walton,310,U.S. House,1,DEM,Rebekah Jones,232,75,92,65
+Walton,320,U.S. House,1,DEM,Rebekah Jones,46,,,
+Walton,330,U.S. House,1,DEM,Rebekah Jones,65,,,
+Walton,410,U.S. House,1,DEM,Rebekah Jones,145,,,
+Walton,420,U.S. House,1,DEM,Rebekah Jones,75,,,
+Walton,430,U.S. House,1,DEM,Rebekah Jones,890,340,307,243
+Walton,510,U.S. House,1,DEM,Rebekah Jones,1294,463,327,504
+Walton,520,U.S. House,1,DEM,Rebekah Jones,1485,416,538,531
+Walton,110,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,120,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,130,U.S. House,1,STATS,OVER VOTES,1,,,
+Walton,210,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,220,U.S. House,1,STATS,OVER VOTES,1,,,
+Walton,230,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,310,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,320,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,330,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,410,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,420,U.S. House,1,STATS,OVER VOTES,0,0,0,0
+Walton,430,U.S. House,1,STATS,OVER VOTES,1,,,
+Walton,510,U.S. House,1,STATS,OVER VOTES,1,,,
+Walton,520,U.S. House,1,STATS,OVER VOTES,1,,,
+Walton,110,U.S. House,1,STATS,UNDER VOTES,4,,,
+Walton,120,U.S. House,1,STATS,UNDER VOTES,9,,,
+Walton,130,U.S. House,1,STATS,UNDER VOTES,16,,,
+Walton,210,U.S. House,1,STATS,UNDER VOTES,1,,,
+Walton,220,U.S. House,1,STATS,UNDER VOTES,5,,,
+Walton,230,U.S. House,1,STATS,UNDER VOTES,3,,,
+Walton,310,U.S. House,1,STATS,UNDER VOTES,7,,,
+Walton,320,U.S. House,1,STATS,UNDER VOTES,5,,,
+Walton,330,U.S. House,1,STATS,UNDER VOTES,8,,,
+Walton,410,U.S. House,1,STATS,UNDER VOTES,11,,,
+Walton,420,U.S. House,1,STATS,UNDER VOTES,2,,,
+Walton,430,U.S. House,1,STATS,UNDER VOTES,64,,,
+Walton,510,U.S. House,1,STATS,UNDER VOTES,147,59,38,50
+Walton,520,U.S. House,1,STATS,UNDER VOTES,102,,,
+Walton,210,U.S. House,2,REP,Neal Dunn,77,,,
+Walton,230,U.S. House,2,REP,Neal Dunn,492,108,302,82
+Walton,240,U.S. House,2,REP,Neal Dunn,207,,,
+Walton,310,U.S. House,2,REP,Neal Dunn,1079,328,575,176
+Walton,320,U.S. House,2,REP,Neal Dunn,605,226,247,132
+Walton,330,U.S. House,2,REP,Neal Dunn,260,78,130,52
+Walton,340,U.S. House,2,REP,Neal Dunn,416,126,231,59
+Walton,350,U.S. House,2,REP,Neal Dunn,431,94,300,37
+Walton,360,U.S. House,2,REP,Neal Dunn,392,82,249,61
+Walton,430,U.S. House,2,REP,Neal Dunn,540,250,250,40
+Walton,440,U.S. House,2,REP,Neal Dunn,675,275,325,75
+Walton,530,U.S. House,2,REP,Neal Dunn,2287,817,1097,373
+Walton,540,U.S. House,2,REP,Neal Dunn,1788,546,933,309
+Walton,210,U.S. House,2,DEM,Al Lawson,4,,,
+Walton,230,U.S. House,2,DEM,Al Lawson,54,,,
+Walton,240,U.S. House,2,DEM,Al Lawson,16,,,
+Walton,310,U.S. House,2,DEM,Al Lawson,310,75,128,107
+Walton,320,U.S. House,2,DEM,Al Lawson,217,62,76,79
+Walton,330,U.S. House,2,DEM,Al Lawson,61,,,
+Walton,340,U.S. House,2,DEM,Al Lawson,142,47,62,33
+Walton,350,U.S. House,2,DEM,Al Lawson,67,,,
+Walton,360,U.S. House,2,DEM,Al Lawson,66,,,
+Walton,430,U.S. House,2,DEM,Al Lawson,126,56,35,35
+Walton,440,U.S. House,2,DEM,Al Lawson,108,36,40,32
+Walton,530,U.S. House,2,DEM,Al Lawson,892,288,301,303
+Walton,540,U.S. House,2,DEM,Al Lawson,527,132,221,174
+Walton,210,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,230,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,240,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,310,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,320,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,330,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,340,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,350,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,360,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,430,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,440,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,530,U.S. House,2,STATS,OVER VOTES,0,0,0,0
+Walton,540,U.S. House,2,STATS,OVER VOTES,1,,,
+Walton,210,U.S. House,2,STATS,UNDER VOTES,0,0,0,0
+Walton,230,U.S. House,2,STATS,UNDER VOTES,7,,,
+Walton,240,U.S. House,2,STATS,UNDER VOTES,1,,,
+Walton,310,U.S. House,2,STATS,UNDER VOTES,15,,,
+Walton,320,U.S. House,2,STATS,UNDER VOTES,15,,,
+Walton,330,U.S. House,2,STATS,UNDER VOTES,3,,,
+Walton,340,U.S. House,2,STATS,UNDER VOTES,10,,,
+Walton,350,U.S. House,2,STATS,UNDER VOTES,5,,,
+Walton,360,U.S. House,2,STATS,UNDER VOTES,4,,,
+Walton,430,U.S. House,2,STATS,UNDER VOTES,9,,,
+Walton,440,U.S. House,2,STATS,UNDER VOTES,5,,,
+Walton,530,U.S. House,2,STATS,UNDER VOTES,41,,,
+Walton,540,U.S. House,2,STATS,UNDER VOTES,22,,,
+Walton,110,Governor and Lieutenant Governor,"",REP,Ron DeSantis,664,64,508,92
+Walton,120,Governor and Lieutenant Governor,"",REP,Ron DeSantis,479,51,382,46
+Walton,130,Governor and Lieutenant Governor,"",REP,Ron DeSantis,930,156,679,95
+Walton,210,Governor and Lieutenant Governor,"",REP,Ron DeSantis,243,,,
+Walton,220,Governor and Lieutenant Governor,"",REP,Ron DeSantis,361,62,252,47
+Walton,230,Governor and Lieutenant Governor,"",REP,Ron DeSantis,617,144,366,107
+Walton,240,Governor and Lieutenant Governor,"",REP,Ron DeSantis,209,,,
+Walton,310,Governor and Lieutenant Governor,"",REP,Ron DeSantis,2339,758,1227,354
+Walton,320,Governor and Lieutenant Governor,"",REP,Ron DeSantis,916,326,387,203
+Walton,330,Governor and Lieutenant Governor,"",REP,Ron DeSantis,749,232,350,167
+Walton,340,Governor and Lieutenant Governor,"",REP,Ron DeSantis,435,131,244,60
+Walton,350,Governor and Lieutenant Governor,"",REP,Ron DeSantis,441,95,309,37
+Walton,360,Governor and Lieutenant Governor,"",REP,Ron DeSantis,405,82,261,62
+Walton,410,Governor and Lieutenant Governor,"",REP,Ron DeSantis,638,98,469,71
+Walton,420,Governor and Lieutenant Governor,"",REP,Ron DeSantis,410,,,
+Walton,430,Governor and Lieutenant Governor,"",REP,Ron DeSantis,4104,1955,1767,382
+Walton,440,Governor and Lieutenant Governor,"",REP,Ron DeSantis,684,280,330,74
+Walton,510,Governor and Lieutenant Governor,"",REP,Ron DeSantis,5140,2129,2095,916
+Walton,520,Governor and Lieutenant Governor,"",REP,Ron DeSantis,4713,1750,2271,692
+Walton,530,Governor and Lieutenant Governor,"",REP,Ron DeSantis,2353,837,1137,379
+Walton,540,Governor and Lieutenant Governor,"",REP,Ron DeSantis,1817,549,954,314
+Walton,110,Governor and Lieutenant Governor,"",DEM,Charlie Crist,62,,,
+Walton,120,Governor and Lieutenant Governor,"",DEM,Charlie Crist,45,,,
+Walton,130,Governor and Lieutenant Governor,"",DEM,Charlie Crist,118,,,
+Walton,210,Governor and Lieutenant Governor,"",DEM,Charlie Crist,18,,,
+Walton,220,Governor and Lieutenant Governor,"",DEM,Charlie Crist,25,,,
+Walton,230,Governor and Lieutenant Governor,"",DEM,Charlie Crist,57,,,
+Walton,240,Governor and Lieutenant Governor,"",DEM,Charlie Crist,14,,,
+Walton,310,Governor and Lieutenant Governor,"",DEM,Charlie Crist,463,131,174,158
+Walton,320,Governor and Lieutenant Governor,"",DEM,Charlie Crist,232,64,83,85
+Walton,330,Governor and Lieutenant Governor,"",DEM,Charlie Crist,97,,,
+Walton,340,Governor and Lieutenant Governor,"",DEM,Charlie Crist,128,45,53,30
+Walton,350,Governor and Lieutenant Governor,"",DEM,Charlie Crist,60,,,
+Walton,360,Governor and Lieutenant Governor,"",DEM,Charlie Crist,55,,,
+Walton,410,Governor and Lieutenant Governor,"",DEM,Charlie Crist,112,,,
+Walton,420,Governor and Lieutenant Governor,"",DEM,Charlie Crist,61,,,
+Walton,430,Governor and Lieutenant Governor,"",DEM,Charlie Crist,837,331,261,245
+Walton,440,Governor and Lieutenant Governor,"",DEM,Charlie Crist,100,33,35,32
+Walton,510,Governor and Lieutenant Governor,"",DEM,Charlie Crist,1039,382,228,429
+Walton,520,Governor and Lieutenant Governor,"",DEM,Charlie Crist,1232,351,404,477
+Walton,530,Governor and Lieutenant Governor,"",DEM,Charlie Crist,844,278,266,300
+Walton,540,Governor and Lieutenant Governor,"",DEM,Charlie Crist,513,133,206,174
+Walton,110,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Walton,120,Governor and Lieutenant Governor,"",LPF,Hector Roos,3,,,
+Walton,130,Governor and Lieutenant Governor,"",LPF,Hector Roos,6,,,
+Walton,210,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Walton,220,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Walton,230,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Walton,240,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Walton,310,Governor and Lieutenant Governor,"",LPF,Hector Roos,3,,,
+Walton,320,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
+Walton,330,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
+Walton,340,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Walton,350,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Walton,360,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Walton,410,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Walton,420,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Walton,430,Governor and Lieutenant Governor,"",LPF,Hector Roos,11,,,
+Walton,440,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Walton,510,Governor and Lieutenant Governor,"",LPF,Hector Roos,9,,,
+Walton,520,Governor and Lieutenant Governor,"",LPF,Hector Roos,10,,,
+Walton,530,Governor and Lieutenant Governor,"",LPF,Hector Roos,5,,,
+Walton,540,Governor and Lieutenant Governor,"",LPF,Hector Roos,3,,,
+Walton,110,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,2,,,
+Walton,120,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Walton,130,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,3,,,
+Walton,210,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Walton,220,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Walton,230,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,2,,,
+Walton,240,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Walton,310,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,17,,,
+Walton,320,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,5,,,
+Walton,330,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,6,,,
+Walton,340,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Walton,350,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Walton,360,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,2,,,
+Walton,410,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,2,,,
+Walton,420,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Walton,430,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,9,,,
+Walton,440,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,3,,,
+Walton,510,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,8,,,
+Walton,520,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,11,,,
+Walton,530,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,6,,,
+Walton,540,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,2,,,
+Walton,110,Governor and Lieutenant Governor,"",STATS,OVER VOTES,2,,,
+Walton,120,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Governor and Lieutenant Governor,"",STATS,OVER VOTES,1,,,
+Walton,210,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Governor and Lieutenant Governor,"",STATS,OVER VOTES,1,,,
+Walton,230,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Governor and Lieutenant Governor,"",STATS,OVER VOTES,3,,,
+Walton,350,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Governor and Lieutenant Governor,"",STATS,OVER VOTES,2,,,
+Walton,440,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Governor and Lieutenant Governor,"",STATS,OVER VOTES,1,,,
+Walton,520,Governor and Lieutenant Governor,"",STATS,OVER VOTES,0,0,0,0
+Walton,530,Governor and Lieutenant Governor,"",STATS,OVER VOTES,2,,,
+Walton,540,Governor and Lieutenant Governor,"",STATS,OVER VOTES,1,,,
+Walton,110,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,0,0,0,0
+Walton,120,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,1,,,
+Walton,130,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,1,,,
+Walton,210,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,0,0,0,0
+Walton,220,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,0,0,0,0
+Walton,230,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,3,,,
+Walton,240,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,1,,,
+Walton,310,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,5,,,
+Walton,320,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,2,,,
+Walton,330,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,3,,,
+Walton,340,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,1,,,
+Walton,350,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,2,,,
+Walton,360,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,0,0,0,0
+Walton,410,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,0,0,0,0
+Walton,420,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,1,,,
+Walton,430,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,9,,,
+Walton,440,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,0,0,0,0
+Walton,510,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,11,,,
+Walton,520,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,9,,,
+Walton,530,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,10,,,
+Walton,540,Governor and Lieutenant Governor,"",STATS,UNDER VOTES,2,,,
+Walton,110,Attorney General,"",REP,Ashley Moody,669,66,510,93
+Walton,120,Attorney General,"",REP,Ashley Moody,481,52,380,49
+Walton,130,Attorney General,"",REP,Ashley Moody,930,155,682,93
+Walton,210,Attorney General,"",REP,Ashley Moody,245,,,
+Walton,220,Attorney General,"",REP,Ashley Moody,360,60,255,45
+Walton,230,Attorney General,"",REP,Ashley Moody,621,143,370,108
+Walton,240,Attorney General,"",REP,Ashley Moody,207,,,
+Walton,310,Attorney General,"",REP,Ashley Moody,2344,759,1217,368
+Walton,320,Attorney General,"",REP,Ashley Moody,923,327,382,214
+Walton,330,Attorney General,"",REP,Ashley Moody,756,232,354,170
+Walton,340,Attorney General,"",REP,Ashley Moody,439,138,241,60
+Walton,350,Attorney General,"",REP,Ashley Moody,439,96,305,38
+Walton,360,Attorney General,"",REP,Ashley Moody,402,82,259,61
+Walton,410,Attorney General,"",REP,Ashley Moody,640,97,470,73
+Walton,420,Attorney General,"",REP,Ashley Moody,412,139,242,31
+Walton,430,Attorney General,"",REP,Ashley Moody,4102,1971,1754,377
+Walton,440,Attorney General,"",REP,Ashley Moody,686,281,331,74
+Walton,510,Attorney General,"",REP,Ashley Moody,5133,2144,2080,909
+Walton,520,Attorney General,"",REP,Ashley Moody,4707,1757,2238,712
+Walton,530,Attorney General,"",REP,Ashley Moody,2343,844,1115,384
+Walton,540,Attorney General,"",REP,Ashley Moody,1824,556,954,314
+Walton,110,Attorney General,"",DEM,Aramis Ayala,59,,,
+Walton,120,Attorney General,"",DEM,Aramis Ayala,44,,,
+Walton,130,Attorney General,"",DEM,Aramis Ayala,122,,,
+Walton,210,Attorney General,"",DEM,Aramis Ayala,17,,,
+Walton,220,Attorney General,"",DEM,Aramis Ayala,28,,,
+Walton,230,Attorney General,"",DEM,Aramis Ayala,53,,,
+Walton,240,Attorney General,"",DEM,Aramis Ayala,16,,,
+Walton,310,Attorney General,"",DEM,Aramis Ayala,461,132,182,147
+Walton,320,Attorney General,"",DEM,Aramis Ayala,221,62,83,76
+Walton,330,Attorney General,"",DEM,Aramis Ayala,99,,,
+Walton,340,Attorney General,"",DEM,Aramis Ayala,127,39,56,32
+Walton,350,Attorney General,"",DEM,Aramis Ayala,59,,,
+Walton,360,Attorney General,"",DEM,Aramis Ayala,55,,,
+Walton,410,Attorney General,"",DEM,Aramis Ayala,103,,,
+Walton,420,Attorney General,"",DEM,Aramis Ayala,59,,,
+Walton,430,Attorney General,"",DEM,Aramis Ayala,814,305,264,245
+Walton,440,Attorney General,"",DEM,Aramis Ayala,101,32,36,33
+Walton,510,Attorney General,"",DEM,Aramis Ayala,1011,364,226,421
+Walton,520,Attorney General,"",DEM,Aramis Ayala,1210,333,419,458
+Walton,530,Attorney General,"",DEM,Aramis Ayala,834,268,276,290
+Walton,540,Attorney General,"",DEM,Aramis Ayala,499,124,202,173
+Walton,110,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,Attorney General,"",STATS,OVER VOTES,1,,,
+Walton,330,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,440,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Attorney General,"",STATS,OVER VOTES,1,,,
+Walton,520,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,530,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,Attorney General,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,Attorney General,"",STATS,UNDER VOTES,3,,,
+Walton,120,Attorney General,"",STATS,UNDER VOTES,4,,,
+Walton,130,Attorney General,"",STATS,UNDER VOTES,7,,,
+Walton,210,Attorney General,"",STATS,UNDER VOTES,1,,,
+Walton,220,Attorney General,"",STATS,UNDER VOTES,1,,,
+Walton,230,Attorney General,"",STATS,UNDER VOTES,5,,,
+Walton,240,Attorney General,"",STATS,UNDER VOTES,1,,,
+Walton,310,Attorney General,"",STATS,UNDER VOTES,22,,,
+Walton,320,Attorney General,"",STATS,UNDER VOTES,12,,,
+Walton,330,Attorney General,"",STATS,UNDER VOTES,2,,,
+Walton,340,Attorney General,"",STATS,UNDER VOTES,2,,,
+Walton,350,Attorney General,"",STATS,UNDER VOTES,5,,,
+Walton,360,Attorney General,"",STATS,UNDER VOTES,5,,,
+Walton,410,Attorney General,"",STATS,UNDER VOTES,9,,,
+Walton,420,Attorney General,"",STATS,UNDER VOTES,3,,,
+Walton,430,Attorney General,"",STATS,UNDER VOTES,56,,,
+Walton,440,Attorney General,"",STATS,UNDER VOTES,1,,,
+Walton,510,Attorney General,"",STATS,UNDER VOTES,63,,,
+Walton,520,Attorney General,"",STATS,UNDER VOTES,58,,,
+Walton,530,Attorney General,"",STATS,UNDER VOTES,43,,,
+Walton,540,Attorney General,"",STATS,UNDER VOTES,15,,,
+Walton,110,Chief Financial Officer,"",REP,Jimmy Patronis,656,64,499,93
+Walton,120,Chief Financial Officer,"",REP,Jimmy Patronis,483,51,381,51
+Walton,130,Chief Financial Officer,"",REP,Jimmy Patronis,923,154,674,95
+Walton,210,Chief Financial Officer,"",REP,Jimmy Patronis,242,,,
+Walton,220,Chief Financial Officer,"",REP,Jimmy Patronis,361,61,254,46
+Walton,230,Chief Financial Officer,"",REP,Jimmy Patronis,613,142,364,107
+Walton,240,Chief Financial Officer,"",REP,Jimmy Patronis,206,,,
+Walton,310,Chief Financial Officer,"",REP,Jimmy Patronis,2310,754,1201,355
+Walton,320,Chief Financial Officer,"",REP,Jimmy Patronis,915,328,375,212
+Walton,330,Chief Financial Officer,"",REP,Jimmy Patronis,748,231,351,166
+Walton,340,Chief Financial Officer,"",REP,Jimmy Patronis,428,135,235,58
+Walton,350,Chief Financial Officer,"",REP,Jimmy Patronis,435,95,302,38
+Walton,360,Chief Financial Officer,"",REP,Jimmy Patronis,398,81,257,60
+Walton,410,Chief Financial Officer,"",REP,Jimmy Patronis,624,95,462,67
+Walton,420,Chief Financial Officer,"",REP,Jimmy Patronis,411,,,
+Walton,430,Chief Financial Officer,"",REP,Jimmy Patronis,4104,1966,1750,388
+Walton,440,Chief Financial Officer,"",REP,Jimmy Patronis,679,276,330,73
+Walton,510,Chief Financial Officer,"",REP,Jimmy Patronis,5110,2131,2071,908
+Walton,520,Chief Financial Officer,"",REP,Jimmy Patronis,4723,1750,2245,728
+Walton,530,Chief Financial Officer,"",REP,Jimmy Patronis,2362,849,1132,381
+Walton,540,Chief Financial Officer,"",REP,Jimmy Patronis,1841,559,962,320
+Walton,110,Chief Financial Officer,"",DEM,Adam Hattersley,69,,,
+Walton,120,Chief Financial Officer,"",DEM,Adam Hattersley,39,,,
+Walton,130,Chief Financial Officer,"",DEM,Adam Hattersley,125,,,
+Walton,210,Chief Financial Officer,"",DEM,Adam Hattersley,17,,,
+Walton,220,Chief Financial Officer,"",DEM,Adam Hattersley,25,,,
+Walton,230,Chief Financial Officer,"",DEM,Adam Hattersley,58,,,
+Walton,240,Chief Financial Officer,"",DEM,Adam Hattersley,17,,,
+Walton,310,Chief Financial Officer,"",DEM,Adam Hattersley,487,131,199,157
+Walton,320,Chief Financial Officer,"",DEM,Adam Hattersley,220,57,87,76
+Walton,330,Chief Financial Officer,"",DEM,Adam Hattersley,101,,,
+Walton,340,Chief Financial Officer,"",DEM,Adam Hattersley,136,42,61,33
+Walton,350,Chief Financial Officer,"",DEM,Adam Hattersley,59,,,
+Walton,360,Chief Financial Officer,"",DEM,Adam Hattersley,58,,,
+Walton,410,Chief Financial Officer,"",DEM,Adam Hattersley,111,,,
+Walton,420,Chief Financial Officer,"",DEM,Adam Hattersley,61,,,
+Walton,430,Chief Financial Officer,"",DEM,Adam Hattersley,796,302,259,235
+Walton,440,Chief Financial Officer,"",DEM,Adam Hattersley,103,35,35,33
+Walton,510,Chief Financial Officer,"",DEM,Adam Hattersley,1008,370,227,411
+Walton,520,Chief Financial Officer,"",DEM,Adam Hattersley,1150,327,394,429
+Walton,530,Chief Financial Officer,"",DEM,Adam Hattersley,815,262,264,289
+Walton,540,Chief Financial Officer,"",DEM,Adam Hattersley,476,120,192,164
+Walton,110,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Chief Financial Officer,"",STATS,OVER VOTES,1,,,
+Walton,440,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,520,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,530,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,Chief Financial Officer,"",STATS,UNDER VOTES,6,,,
+Walton,120,Chief Financial Officer,"",STATS,UNDER VOTES,7,,,
+Walton,130,Chief Financial Officer,"",STATS,UNDER VOTES,11,,,
+Walton,210,Chief Financial Officer,"",STATS,UNDER VOTES,4,,,
+Walton,220,Chief Financial Officer,"",STATS,UNDER VOTES,3,,,
+Walton,230,Chief Financial Officer,"",STATS,UNDER VOTES,8,,,
+Walton,240,Chief Financial Officer,"",STATS,UNDER VOTES,1,,,
+Walton,310,Chief Financial Officer,"",STATS,UNDER VOTES,30,,,
+Walton,320,Chief Financial Officer,"",STATS,UNDER VOTES,22,,,
+Walton,330,Chief Financial Officer,"",STATS,UNDER VOTES,8,,,
+Walton,340,Chief Financial Officer,"",STATS,UNDER VOTES,4,,,
+Walton,350,Chief Financial Officer,"",STATS,UNDER VOTES,9,,,
+Walton,360,Chief Financial Officer,"",STATS,UNDER VOTES,6,,,
+Walton,410,Chief Financial Officer,"",STATS,UNDER VOTES,17,,,
+Walton,420,Chief Financial Officer,"",STATS,UNDER VOTES,2,,,
+Walton,430,Chief Financial Officer,"",STATS,UNDER VOTES,71,,,
+Walton,440,Chief Financial Officer,"",STATS,UNDER VOTES,6,,,
+Walton,510,Chief Financial Officer,"",STATS,UNDER VOTES,90,,,
+Walton,520,Chief Financial Officer,"",STATS,UNDER VOTES,102,,,
+Walton,530,Chief Financial Officer,"",STATS,UNDER VOTES,43,,,
+Walton,540,Chief Financial Officer,"",STATS,UNDER VOTES,21,,,
+Walton,110,Commissioner of Agriculture,"",REP,Wilton Simpson,657,64,501,92
+Walton,120,Commissioner of Agriculture,"",REP,Wilton Simpson,474,51,376,47
+Walton,130,Commissioner of Agriculture,"",REP,Wilton Simpson,909,152,666,91
+Walton,210,Commissioner of Agriculture,"",REP,Wilton Simpson,237,,,
+Walton,220,Commissioner of Agriculture,"",REP,Wilton Simpson,358,58,254,46
+Walton,230,Commissioner of Agriculture,"",REP,Wilton Simpson,612,143,363,106
+Walton,240,Commissioner of Agriculture,"",REP,Wilton Simpson,203,,,
+Walton,310,Commissioner of Agriculture,"",REP,Wilton Simpson,2281,745,1190,346
+Walton,320,Commissioner of Agriculture,"",REP,Wilton Simpson,887,325,370,192
+Walton,330,Commissioner of Agriculture,"",REP,Wilton Simpson,738,232,344,162
+Walton,340,Commissioner of Agriculture,"",REP,Wilton Simpson,426,132,232,62
+Walton,350,Commissioner of Agriculture,"",REP,Wilton Simpson,435,96,301,38
+Walton,360,Commissioner of Agriculture,"",REP,Wilton Simpson,387,80,248,59
+Walton,410,Commissioner of Agriculture,"",REP,Wilton Simpson,627,97,459,71
+Walton,420,Commissioner of Agriculture,"",REP,Wilton Simpson,397,,,
+Walton,430,Commissioner of Agriculture,"",REP,Wilton Simpson,4013,1928,1725,360
+Walton,440,Commissioner of Agriculture,"",REP,Wilton Simpson,670,274,321,75
+Walton,510,Commissioner of Agriculture,"",REP,Wilton Simpson,5049,2122,2038,889
+Walton,520,Commissioner of Agriculture,"",REP,Wilton Simpson,4588,1717,2174,697
+Walton,530,Commissioner of Agriculture,"",REP,Wilton Simpson,2281,822,1091,368
+Walton,540,Commissioner of Agriculture,"",REP,Wilton Simpson,1795,553,934,308
+Walton,110,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,65,,,
+Walton,120,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,49,,,
+Walton,130,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,132,,,
+Walton,210,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23,,,
+Walton,220,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,25,,,
+Walton,230,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,61,,,
+Walton,240,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,18,,,
+Walton,310,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,504,136,205,163
+Walton,320,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,239,61,90,88
+Walton,330,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,102,,,
+Walton,340,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,130,,,
+Walton,350,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,60,,,
+Walton,360,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,68,,,
+Walton,410,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,109,,,
+Walton,420,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,68,,,
+Walton,430,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,859,333,279,247
+Walton,440,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,107,36,40,31
+Walton,510,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1043,380,252,411
+Walton,520,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1234,348,442,444
+Walton,530,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,866,280,295,291
+Walton,540,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,505,124,212,169
+Walton,110,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,440,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,520,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,530,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,Commissioner of Agriculture,"",STATS,UNDER VOTES,9,,,
+Walton,120,Commissioner of Agriculture,"",STATS,UNDER VOTES,6,,,
+Walton,130,Commissioner of Agriculture,"",STATS,UNDER VOTES,18,,,
+Walton,210,Commissioner of Agriculture,"",STATS,UNDER VOTES,3,,,
+Walton,220,Commissioner of Agriculture,"",STATS,UNDER VOTES,6,,,
+Walton,230,Commissioner of Agriculture,"",STATS,UNDER VOTES,6,,,
+Walton,240,Commissioner of Agriculture,"",STATS,UNDER VOTES,3,,,
+Walton,310,Commissioner of Agriculture,"",STATS,UNDER VOTES,42,,,
+Walton,320,Commissioner of Agriculture,"",STATS,UNDER VOTES,31,,,
+Walton,330,Commissioner of Agriculture,"",STATS,UNDER VOTES,17,,,
+Walton,340,Commissioner of Agriculture,"",STATS,UNDER VOTES,12,,,
+Walton,350,Commissioner of Agriculture,"",STATS,UNDER VOTES,8,,,
+Walton,360,Commissioner of Agriculture,"",STATS,UNDER VOTES,7,,,
+Walton,410,Commissioner of Agriculture,"",STATS,UNDER VOTES,16,,,
+Walton,420,Commissioner of Agriculture,"",STATS,UNDER VOTES,9,,,
+Walton,430,Commissioner of Agriculture,"",STATS,UNDER VOTES,100,,,
+Walton,440,Commissioner of Agriculture,"",STATS,UNDER VOTES,11,,,
+Walton,510,Commissioner of Agriculture,"",STATS,UNDER VOTES,116,,,
+Walton,520,Commissioner of Agriculture,"",STATS,UNDER VOTES,153,43,69,41
+Walton,530,Commissioner of Agriculture,"",STATS,UNDER VOTES,73,,,
+Walton,540,Commissioner of Agriculture,"",STATS,UNDER VOTES,38,,,
+Walton,110,State Senate,2,REP,Jay Trumbull,655,63,500,92
+Walton,120,State Senate,2,REP,Jay Trumbull,475,51,375,49
+Walton,130,State Senate,2,REP,Jay Trumbull,908,147,670,91
+Walton,210,State Senate,2,REP,Jay Trumbull,242,,,
+Walton,220,State Senate,2,REP,Jay Trumbull,360,61,253,46
+Walton,230,State Senate,2,REP,Jay Trumbull,612,142,366,104
+Walton,240,State Senate,2,REP,Jay Trumbull,205,,,
+Walton,310,State Senate,2,REP,Jay Trumbull,2275,741,1188,346
+Walton,320,State Senate,2,REP,Jay Trumbull,900,325,371,204
+Walton,330,State Senate,2,REP,Jay Trumbull,740,228,348,164
+Walton,340,State Senate,2,REP,Jay Trumbull,422,132,232,58
+Walton,350,State Senate,2,REP,Jay Trumbull,440,95,306,39
+Walton,360,State Senate,2,REP,Jay Trumbull,395,81,255,59
+Walton,410,State Senate,2,REP,Jay Trumbull,625,95,458,72
+Walton,420,State Senate,2,REP,Jay Trumbull,404,,,
+Walton,430,State Senate,2,REP,Jay Trumbull,4018,1927,1719,372
+Walton,440,State Senate,2,REP,Jay Trumbull,673,275,325,73
+Walton,510,State Senate,2,REP,Jay Trumbull,5038,2116,2046,876
+Walton,520,State Senate,2,REP,Jay Trumbull,4573,1713,2175,685
+Walton,530,State Senate,2,REP,Jay Trumbull,2301,830,1106,365
+Walton,540,State Senate,2,REP,Jay Trumbull,1799,555,933,311
+Walton,110,State Senate,2,DEM,Carolynn Zonia,68,,,
+Walton,120,State Senate,2,DEM,Carolynn Zonia,46,,,
+Walton,130,State Senate,2,DEM,Carolynn Zonia,136,,,
+Walton,210,State Senate,2,DEM,Carolynn Zonia,18,,,
+Walton,220,State Senate,2,DEM,Carolynn Zonia,27,,,
+Walton,230,State Senate,2,DEM,Carolynn Zonia,63,,,
+Walton,240,State Senate,2,DEM,Carolynn Zonia,18,,,
+Walton,310,State Senate,2,DEM,Carolynn Zonia,521,144,210,167
+Walton,320,State Senate,2,DEM,Carolynn Zonia,242,62,95,85
+Walton,330,State Senate,2,DEM,Carolynn Zonia,107,37,40,30
+Walton,340,State Senate,2,DEM,Carolynn Zonia,139,44,61,34
+Walton,350,State Senate,2,DEM,Carolynn Zonia,58,,,
+Walton,360,State Senate,2,DEM,Carolynn Zonia,63,,,
+Walton,410,State Senate,2,DEM,Carolynn Zonia,110,,,
+Walton,420,State Senate,2,DEM,Carolynn Zonia,64,,,
+Walton,430,State Senate,2,DEM,Carolynn Zonia,870,336,288,246
+Walton,440,State Senate,2,DEM,Carolynn Zonia,111,37,40,34
+Walton,510,State Senate,2,DEM,Carolynn Zonia,1069,379,255,435
+Walton,520,State Senate,2,DEM,Carolynn Zonia,1295,361,463,471
+Walton,530,State Senate,2,DEM,Carolynn Zonia,869,277,288,304
+Walton,540,State Senate,2,DEM,Carolynn Zonia,515,123,219,173
+Walton,110,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,120,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,130,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,210,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,220,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,230,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,240,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,310,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,320,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,330,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,340,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,350,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,360,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,410,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,420,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,430,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,440,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,510,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,520,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,530,State Senate,2,STATS,OVER VOTES,1,,,
+Walton,540,State Senate,2,STATS,OVER VOTES,0,0,0,0
+Walton,110,State Senate,2,STATS,UNDER VOTES,8,,,
+Walton,120,State Senate,2,STATS,UNDER VOTES,8,,,
+Walton,130,State Senate,2,STATS,UNDER VOTES,15,,,
+Walton,210,State Senate,2,STATS,UNDER VOTES,3,,,
+Walton,220,State Senate,2,STATS,UNDER VOTES,2,,,
+Walton,230,State Senate,2,STATS,UNDER VOTES,4,,,
+Walton,240,State Senate,2,STATS,UNDER VOTES,1,,,
+Walton,310,State Senate,2,STATS,UNDER VOTES,31,,,
+Walton,320,State Senate,2,STATS,UNDER VOTES,15,,,
+Walton,330,State Senate,2,STATS,UNDER VOTES,10,,,
+Walton,340,State Senate,2,STATS,UNDER VOTES,7,,,
+Walton,350,State Senate,2,STATS,UNDER VOTES,5,,,
+Walton,360,State Senate,2,STATS,UNDER VOTES,4,,,
+Walton,410,State Senate,2,STATS,UNDER VOTES,17,,,
+Walton,420,State Senate,2,STATS,UNDER VOTES,6,,,
+Walton,430,State Senate,2,STATS,UNDER VOTES,84,,,
+Walton,440,State Senate,2,STATS,UNDER VOTES,4,,,
+Walton,510,State Senate,2,STATS,UNDER VOTES,101,,,
+Walton,520,State Senate,2,STATS,UNDER VOTES,107,,,
+Walton,530,State Senate,2,STATS,UNDER VOTES,49,,,
+Walton,540,State Senate,2,STATS,UNDER VOTES,24,,,
+Walton,110,Supreme Court Justice-Canady,"","",Yes,460,48,340,72
+Walton,120,Supreme Court Justice-Canady,"","",Yes,323,37,253,33
+Walton,130,Supreme Court Justice-Canady,"","",Yes,683,117,476,90
+Walton,210,Supreme Court Justice-Canady,"","",Yes,149,,,
+Walton,220,Supreme Court Justice-Canady,"","",Yes,217,39,145,33
+Walton,230,Supreme Court Justice-Canady,"","",Yes,426,102,243,81
+Walton,240,Supreme Court Justice-Canady,"","",Yes,132,,,
+Walton,310,Supreme Court Justice-Canady,"","",Yes,1825,620,903,302
+Walton,320,Supreme Court Justice-Canady,"","",Yes,695,245,264,186
+Walton,330,Supreme Court Justice-Canady,"","",Yes,524,152,247,125
+Walton,340,Supreme Court Justice-Canady,"","",Yes,326,112,173,41
+Walton,350,Supreme Court Justice-Canady,"","",Yes,303,,,
+Walton,360,Supreme Court Justice-Canady,"","",Yes,254,45,167,42
+Walton,410,Supreme Court Justice-Canady,"","",Yes,470,80,333,57
+Walton,420,Supreme Court Justice-Canady,"","",Yes,281,,,
+Walton,430,Supreme Court Justice-Canady,"","",Yes,3166,1499,1297,370
+Walton,440,Supreme Court Justice-Canady,"","",Yes,536,231,231,74
+Walton,510,Supreme Court Justice-Canady,"","",Yes,4223,1775,1599,849
+Walton,520,Supreme Court Justice-Canady,"","",Yes,3753,1404,1678,671
+Walton,530,Supreme Court Justice-Canady,"","",Yes,1945,667,922,356
+Walton,540,Supreme Court Justice-Canady,"","",Yes,1475,448,738,289
+Walton,110,Supreme Court Justice-Canady,"","",No,215,,,
+Walton,120,Supreme Court Justice-Canady,"","",No,135,,,
+Walton,130,Supreme Court Justice-Canady,"","",No,299,46,198,55
+Walton,210,Supreme Court Justice-Canady,"","",No,88,,,
+Walton,220,Supreme Court Justice-Canady,"","",No,135,,,
+Walton,230,Supreme Court Justice-Canady,"","",No,180,43,92,45
+Walton,240,Supreme Court Justice-Canady,"","",No,63,,,
+Walton,310,Supreme Court Justice-Canady,"","",No,762,213,386,163
+Walton,320,Supreme Court Justice-Canady,"","",No,356,110,163,83
+Walton,330,Supreme Court Justice-Canady,"","",No,246,86,104,56
+Walton,340,Supreme Court Justice-Canady,"","",No,205,54,108,43
+Walton,350,Supreme Court Justice-Canady,"","",No,165,,,
+Walton,360,Supreme Court Justice-Canady,"","",No,176,41,104,31
+Walton,410,Supreme Court Justice-Canady,"","",No,218,,,
+Walton,420,Supreme Court Justice-Canady,"","",No,144,,,
+Walton,430,Supreme Court Justice-Canady,"","",No,1259,552,499,208
+Walton,440,Supreme Court Justice-Canady,"","",No,198,,,
+Walton,510,Supreme Court Justice-Canady,"","",No,1227,459,458,310
+Walton,520,Supreme Court Justice-Canady,"","",No,1368,437,562,369
+Walton,530,Supreme Court Justice-Canady,"","",No,825,279,314,232
+Walton,540,Supreme Court Justice-Canady,"","",No,526,127,253,146
+Walton,110,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Supreme Court Justice-Canady,"",STATS,OVER VOTES,1,,,
+Walton,130,Supreme Court Justice-Canady,"",STATS,OVER VOTES,1,,,
+Walton,210,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Supreme Court Justice-Canady,"",STATS,OVER VOTES,1,,,
+Walton,230,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Supreme Court Justice-Canady,"",STATS,OVER VOTES,1,,,
+Walton,320,Supreme Court Justice-Canady,"",STATS,OVER VOTES,1,,,
+Walton,330,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,440,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Supreme Court Justice-Canady,"",STATS,OVER VOTES,2,,,
+Walton,520,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,530,Supreme Court Justice-Canady,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,Supreme Court Justice-Canady,"",STATS,OVER VOTES,3,,,
+Walton,110,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,56,,,
+Walton,120,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,70,,,
+Walton,130,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,76,,,
+Walton,210,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,26,,,
+Walton,220,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,36,,,
+Walton,230,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,73,,,
+Walton,240,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,29,,,
+Walton,310,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,239,62,122,55
+Walton,320,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,105,,,
+Walton,330,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,87,,,
+Walton,340,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,37,,,
+Walton,350,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,35,,,
+Walton,360,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,32,,,
+Walton,410,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,64,,,
+Walton,420,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,49,,,
+Walton,430,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,547,246,247,54
+Walton,440,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,54,,,
+Walton,510,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,756,290,269,197
+Walton,520,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,854,267,445,142
+Walton,530,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,450,179,177,94
+Walton,540,Supreme Court Justice-Canady,"",STATS,UNDER VOTES,334,108,171,55
+Walton,110,Supreme Court Justice-Couriel,"","",Yes,460,48,344,68
+Walton,120,Supreme Court Justice-Couriel,"","",Yes,327,38,254,35
+Walton,130,Supreme Court Justice-Couriel,"","",Yes,708,117,499,92
+Walton,210,Supreme Court Justice-Couriel,"","",Yes,147,,,
+Walton,220,Supreme Court Justice-Couriel,"","",Yes,220,42,146,32
+Walton,230,Supreme Court Justice-Couriel,"","",Yes,440,110,251,79
+Walton,240,Supreme Court Justice-Couriel,"","",Yes,137,,,
+Walton,310,Supreme Court Justice-Couriel,"","",Yes,1821,607,916,298
+Walton,320,Supreme Court Justice-Couriel,"","",Yes,719,247,284,188
+Walton,330,Supreme Court Justice-Couriel,"","",Yes,527,153,247,127
+Walton,340,Supreme Court Justice-Couriel,"","",Yes,330,110,179,41
+Walton,350,Supreme Court Justice-Couriel,"","",Yes,312,70,212,30
+Walton,360,Supreme Court Justice-Couriel,"","",Yes,258,55,161,42
+Walton,410,Supreme Court Justice-Couriel,"","",Yes,472,77,341,54
+Walton,420,Supreme Court Justice-Couriel,"","",Yes,288,,,
+Walton,430,Supreme Court Justice-Couriel,"","",Yes,3307,1583,1354,370
+Walton,440,Supreme Court Justice-Couriel,"","",Yes,558,243,245,70
+Walton,510,Supreme Court Justice-Couriel,"","",Yes,4312,1840,1670,802
+Walton,520,Supreme Court Justice-Couriel,"","",Yes,3856,1456,1756,644
+Walton,530,Supreme Court Justice-Couriel,"","",Yes,2016,707,962,347
+Walton,540,Supreme Court Justice-Couriel,"","",Yes,1499,450,760,289
+Walton,110,Supreme Court Justice-Couriel,"","",No,204,,,
+Walton,120,Supreme Court Justice-Couriel,"","",No,129,,,
+Walton,130,Supreme Court Justice-Couriel,"","",No,268,43,172,53
+Walton,210,Supreme Court Justice-Couriel,"","",No,87,,,
+Walton,220,Supreme Court Justice-Couriel,"","",No,134,,,
+Walton,230,Supreme Court Justice-Couriel,"","",No,163,35,82,46
+Walton,240,Supreme Court Justice-Couriel,"","",No,58,,,
+Walton,310,Supreme Court Justice-Couriel,"","",No,759,224,371,164
+Walton,320,Supreme Court Justice-Couriel,"","",No,330,105,144,81
+Walton,330,Supreme Court Justice-Couriel,"","",No,240,83,103,54
+Walton,340,Supreme Court Justice-Couriel,"","",No,200,55,102,43
+Walton,350,Supreme Court Justice-Couriel,"","",No,147,,,
+Walton,360,Supreme Court Justice-Couriel,"","",No,173,31,111,31
+Walton,410,Supreme Court Justice-Couriel,"","",No,206,,,
+Walton,420,Supreme Court Justice-Couriel,"","",No,140,,,
+Walton,430,Supreme Court Justice-Couriel,"","",No,1099,456,435,208
+Walton,440,Supreme Court Justice-Couriel,"","",No,177,51,95,31
+Walton,510,Supreme Court Justice-Couriel,"","",No,1112,384,378,350
+Walton,520,Supreme Court Justice-Couriel,"","",No,1227,369,463,395
+Walton,530,Supreme Court Justice-Couriel,"","",No,754,246,270,238
+Walton,540,Supreme Court Justice-Couriel,"","",No,486,122,220,144
+Walton,110,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,130,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,230,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,360,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,420,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,430,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,440,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,520,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,530,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,Supreme Court Justice-Couriel,"",STATS,OVER VOTES,1,,,
+Walton,110,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,67,,,
+Walton,120,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,72,,,
+Walton,130,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,83,,,
+Walton,210,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,29,,,
+Walton,220,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,34,,,
+Walton,230,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,76,,,
+Walton,240,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,29,,,
+Walton,310,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,247,64,125,58
+Walton,320,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,108,,,
+Walton,330,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,90,,,
+Walton,340,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,38,,,
+Walton,350,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,43,,,
+Walton,360,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,31,,,
+Walton,410,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,73,,,
+Walton,420,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,45,,,
+Walton,430,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,566,258,254,54
+Walton,440,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,53,,,
+Walton,510,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,783,301,279,203
+Walton,520,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,891,282,466,143
+Walton,530,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,450,172,181,97
+Walton,540,Supreme Court Justice-Couriel,"",STATS,UNDER VOTES,352,112,183,57
+Walton,110,Supreme Court Justice-Grosshans,"","",Yes,459,47,343,69
+Walton,120,Supreme Court Justice-Grosshans,"","",Yes,334,39,256,39
+Walton,130,Supreme Court Justice-Grosshans,"","",Yes,700,118,492,90
+Walton,210,Supreme Court Justice-Grosshans,"","",Yes,154,,,
+Walton,220,Supreme Court Justice-Grosshans,"","",Yes,221,44,143,34
+Walton,230,Supreme Court Justice-Grosshans,"","",Yes,439,106,248,85
+Walton,240,Supreme Court Justice-Grosshans,"","",Yes,132,,,
+Walton,310,Supreme Court Justice-Grosshans,"","",Yes,1822,615,903,304
+Walton,320,Supreme Court Justice-Grosshans,"","",Yes,698,245,269,184
+Walton,330,Supreme Court Justice-Grosshans,"","",Yes,522,153,247,122
+Walton,340,Supreme Court Justice-Grosshans,"","",Yes,338,115,182,41
+Walton,350,Supreme Court Justice-Grosshans,"","",Yes,321,70,219,32
+Walton,360,Supreme Court Justice-Grosshans,"","",Yes,250,52,156,42
+Walton,410,Supreme Court Justice-Grosshans,"","",Yes,479,78,343,58
+Walton,420,Supreme Court Justice-Grosshans,"","",Yes,287,,,
+Walton,430,Supreme Court Justice-Grosshans,"","",Yes,3279,1563,1349,367
+Walton,440,Supreme Court Justice-Grosshans,"","",Yes,558,238,249,71
+Walton,510,Supreme Court Justice-Grosshans,"","",Yes,4310,1835,1666,809
+Walton,520,Supreme Court Justice-Grosshans,"","",Yes,3832,1435,1742,655
+Walton,530,Supreme Court Justice-Grosshans,"","",Yes,2015,700,962,353
+Walton,540,Supreme Court Justice-Grosshans,"","",Yes,1508,458,763,287
+Walton,110,Supreme Court Justice-Grosshans,"","",No,201,,,
+Walton,120,Supreme Court Justice-Grosshans,"","",No,126,,,
+Walton,130,Supreme Court Justice-Grosshans,"","",No,274,42,178,54
+Walton,210,Supreme Court Justice-Grosshans,"","",No,83,,,
+Walton,220,Supreme Court Justice-Grosshans,"","",No,132,,,
+Walton,230,Supreme Court Justice-Grosshans,"","",No,164,38,85,41
+Walton,240,Supreme Court Justice-Grosshans,"","",No,61,,,
+Walton,310,Supreme Court Justice-Grosshans,"","",No,753,215,381,157
+Walton,320,Supreme Court Justice-Grosshans,"","",No,345,109,153,83
+Walton,330,Supreme Court Justice-Grosshans,"","",No,249,84,105,60
+Walton,340,Supreme Court Justice-Grosshans,"","",No,188,50,96,42
+Walton,350,Supreme Court Justice-Grosshans,"","",No,138,,,
+Walton,360,Supreme Court Justice-Grosshans,"","",No,179,34,114,31
+Walton,410,Supreme Court Justice-Grosshans,"","",No,201,,,
+Walton,420,Supreme Court Justice-Grosshans,"","",No,140,,,
+Walton,430,Supreme Court Justice-Grosshans,"","",No,1112,469,436,207
+Walton,440,Supreme Court Justice-Grosshans,"","",No,171,53,88,30
+Walton,510,Supreme Court Justice-Grosshans,"","",No,1098,388,367,343
+Walton,520,Supreme Court Justice-Grosshans,"","",No,1226,385,461,380
+Walton,530,Supreme Court Justice-Grosshans,"","",No,744,242,268,234
+Walton,540,Supreme Court Justice-Grosshans,"","",No,479,114,215,150
+Walton,110,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,1,,,
+Walton,120,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,1,,,
+Walton,320,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,2,,,
+Walton,350,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,1,,,
+Walton,410,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,1,,,
+Walton,440,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,1,,,
+Walton,510,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,3,,,
+Walton,520,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,2,,,
+Walton,530,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,Supreme Court Justice-Grosshans,"",STATS,OVER VOTES,1,,,
+Walton,110,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,70,,,
+Walton,120,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,69,,,
+Walton,130,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,85,,,
+Walton,210,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,26,,,
+Walton,220,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,36,,,
+Walton,230,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,76,,,
+Walton,240,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,31,,,
+Walton,310,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,251,65,127,59
+Walton,320,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,114,,,
+Walton,330,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,86,,,
+Walton,340,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,40,,,
+Walton,350,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,44,,,
+Walton,360,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,32,,,
+Walton,410,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,72,,,
+Walton,420,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,47,,,
+Walton,430,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,580,265,257,58
+Walton,440,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,58,,,
+Walton,510,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,797,301,293,203
+Walton,520,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,915,287,482,146
+Walton,530,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,461,183,183,95
+Walton,540,Supreme Court Justice-Grosshans,"",STATS,UNDER VOTES,350,112,185,53
+Walton,110,Supreme Court Justice-Labarga,"","",Yes,379,42,290,47
+Walton,120,Supreme Court Justice-Labarga,"","",Yes,257,,,
+Walton,130,Supreme Court Justice-Labarga,"","",Yes,577,85,402,90
+Walton,210,Supreme Court Justice-Labarga,"","",Yes,105,,,
+Walton,220,Supreme Court Justice-Labarga,"","",Yes,177,,,
+Walton,230,Supreme Court Justice-Labarga,"","",Yes,318,83,178,57
+Walton,240,Supreme Court Justice-Labarga,"","",Yes,92,,,
+Walton,310,Supreme Court Justice-Labarga,"","",Yes,1544,513,760,271
+Walton,320,Supreme Court Justice-Labarga,"","",Yes,585,197,222,166
+Walton,330,Supreme Court Justice-Labarga,"","",Yes,418,115,199,104
+Walton,340,Supreme Court Justice-Labarga,"","",Yes,297,94,149,54
+Walton,350,Supreme Court Justice-Labarga,"","",Yes,240,,,
+Walton,360,Supreme Court Justice-Labarga,"","",Yes,210,43,134,33
+Walton,410,Supreme Court Justice-Labarga,"","",Yes,391,50,287,54
+Walton,420,Supreme Court Justice-Labarga,"","",Yes,238,85,121,32
+Walton,430,Supreme Court Justice-Labarga,"","",Yes,2618,1205,1034,379
+Walton,440,Supreme Court Justice-Labarga,"","",Yes,447,192,186,69
+Walton,510,Supreme Court Justice-Labarga,"","",Yes,3571,1494,1284,793
+Walton,520,Supreme Court Justice-Labarga,"","",Yes,3191,1169,1378,644
+Walton,530,Supreme Court Justice-Labarga,"","",Yes,1799,621,777,401
+Walton,540,Supreme Court Justice-Labarga,"","",Yes,1317,385,644,288
+Walton,110,Supreme Court Justice-Labarga,"","",No,281,,,
+Walton,120,Supreme Court Justice-Labarga,"","",No,202,,,
+Walton,130,Supreme Court Justice-Labarga,"","",No,393,73,266,54
+Walton,210,Supreme Court Justice-Labarga,"","",No,129,,,
+Walton,220,Supreme Court Justice-Labarga,"","",No,176,,,
+Walton,230,Supreme Court Justice-Labarga,"","",No,283,60,154,69
+Walton,240,Supreme Court Justice-Labarga,"","",No,104,,,
+Walton,310,Supreme Court Justice-Labarga,"","",No,1032,317,528,187
+Walton,320,Supreme Court Justice-Labarga,"","",No,464,158,206,100
+Walton,330,Supreme Court Justice-Labarga,"","",No,352,123,151,78
+Walton,340,Supreme Court Justice-Labarga,"","",No,228,,,
+Walton,350,Supreme Court Justice-Labarga,"","",No,219,43,144,32
+Walton,360,Supreme Court Justice-Labarga,"","",No,218,43,135,40
+Walton,410,Supreme Court Justice-Labarga,"","",No,289,48,195,46
+Walton,420,Supreme Court Justice-Labarga,"","",No,183,,,
+Walton,430,Supreme Court Justice-Labarga,"","",No,1759,821,741,197
+Walton,440,Supreme Court Justice-Labarga,"","",No,283,99,152,32
+Walton,510,Supreme Court Justice-Labarga,"","",No,1823,717,750,356
+Walton,520,Supreme Court Justice-Labarga,"","",No,1837,650,801,386
+Walton,530,Supreme Court Justice-Labarga,"","",No,943,319,447,177
+Walton,540,Supreme Court Justice-Labarga,"","",No,656,183,326,147
+Walton,110,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,1,,,
+Walton,210,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,1,,,
+Walton,230,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,1,,,
+Walton,310,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,2,,,
+Walton,350,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,1,,,
+Walton,360,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,6,,,
+Walton,440,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,4,,,
+Walton,520,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,6,,,
+Walton,530,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,2,,,
+Walton,540,Supreme Court Justice-Labarga,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,71,,,
+Walton,120,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,70,,,
+Walton,130,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,88,,,
+Walton,210,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,29,,,
+Walton,220,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,35,,,
+Walton,230,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,78,,,
+Walton,240,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,27,,,
+Walton,310,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,251,65,124,62
+Walton,320,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,108,,,
+Walton,330,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,87,,,
+Walton,340,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,41,,,
+Walton,350,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,43,,,
+Walton,360,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,34,,,
+Walton,410,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,72,,,
+Walton,420,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,53,,,
+Walton,430,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,589,270,263,56
+Walton,440,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,58,,,
+Walton,510,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,810,313,290,207
+Walton,520,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,941,288,501,152
+Walton,530,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,476,185,187,104
+Walton,540,Supreme Court Justice-Labarga,"",STATS,UNDER VOTES,365,116,194,55
+Walton,110,Supreme Court Justice-Polston,"","",Yes,429,47,321,61
+Walton,120,Supreme Court Justice-Polston,"","",Yes,299,34,231,34
+Walton,130,Supreme Court Justice-Polston,"","",Yes,656,109,453,94
+Walton,210,Supreme Court Justice-Polston,"","",Yes,138,,,
+Walton,220,Supreme Court Justice-Polston,"","",Yes,203,39,134,30
+Walton,230,Supreme Court Justice-Polston,"","",Yes,407,104,224,79
+Walton,240,Supreme Court Justice-Polston,"","",Yes,123,,,
+Walton,310,Supreme Court Justice-Polston,"","",Yes,1718,586,835,297
+Walton,320,Supreme Court Justice-Polston,"","",Yes,670,233,257,180
+Walton,330,Supreme Court Justice-Polston,"","",Yes,497,141,239,117
+Walton,340,Supreme Court Justice-Polston,"","",Yes,320,111,167,42
+Walton,350,Supreme Court Justice-Polston,"","",Yes,298,67,199,32
+Walton,360,Supreme Court Justice-Polston,"","",Yes,240,51,153,36
+Walton,410,Supreme Court Justice-Polston,"","",Yes,451,77,314,60
+Walton,420,Supreme Court Justice-Polston,"","",Yes,267,,,
+Walton,430,Supreme Court Justice-Polston,"","",Yes,2997,1420,1204,373
+Walton,440,Supreme Court Justice-Polston,"","",Yes,526,226,229,71
+Walton,510,Supreme Court Justice-Polston,"","",Yes,3917,1658,1446,813
+Walton,520,Supreme Court Justice-Polston,"","",Yes,3475,1317,1526,632
+Walton,530,Supreme Court Justice-Polston,"","",Yes,1903,668,874,361
+Walton,540,Supreme Court Justice-Polston,"","",Yes,1403,419,700,284
+Walton,110,Supreme Court Justice-Polston,"","",No,237,,,
+Walton,120,Supreme Court Justice-Polston,"","",No,161,,,
+Walton,130,Supreme Court Justice-Polston,"","",No,316,51,215,50
+Walton,210,Supreme Court Justice-Polston,"","",No,99,,,
+Walton,220,Supreme Court Justice-Polston,"","",No,152,,,
+Walton,230,Supreme Court Justice-Polston,"","",No,196,40,109,47
+Walton,240,Supreme Court Justice-Polston,"","",No,71,,,
+Walton,310,Supreme Court Justice-Polston,"","",No,855,244,449,162
+Walton,320,Supreme Court Justice-Polston,"","",No,376,122,167,87
+Walton,330,Supreme Court Justice-Polston,"","",No,273,96,112,65
+Walton,340,Supreme Court Justice-Polston,"","",No,207,54,113,40
+Walton,350,Supreme Court Justice-Polston,"","",No,159,,,
+Walton,360,Supreme Court Justice-Polston,"","",No,191,35,119,37
+Walton,410,Supreme Court Justice-Polston,"","",No,228,,,
+Walton,420,Supreme Court Justice-Polston,"","",No,156,,,
+Walton,430,Supreme Court Justice-Polston,"","",No,1391,610,579,202
+Walton,440,Supreme Court Justice-Polston,"","",No,203,65,108,30
+Walton,510,Supreme Court Justice-Polston,"","",No,1460,546,583,331
+Walton,520,Supreme Court Justice-Polston,"","",No,1558,497,659,402
+Walton,530,Supreme Court Justice-Polston,"","",No,845,275,351,219
+Walton,540,Supreme Court Justice-Polston,"","",No,574,150,273,151
+Walton,110,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Supreme Court Justice-Polston,"",STATS,OVER VOTES,2,,,
+Walton,440,Supreme Court Justice-Polston,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Supreme Court Justice-Polston,"",STATS,OVER VOTES,2,,,
+Walton,520,Supreme Court Justice-Polston,"",STATS,OVER VOTES,2,,,
+Walton,530,Supreme Court Justice-Polston,"",STATS,OVER VOTES,1,,,
+Walton,540,Supreme Court Justice-Polston,"",STATS,OVER VOTES,1,,,
+Walton,110,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,65,,,
+Walton,120,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,69,,,
+Walton,130,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,87,,,
+Walton,210,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,26,,,
+Walton,220,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,34,,,
+Walton,230,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,76,,,
+Walton,240,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,30,,,
+Walton,310,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,254,65,128,61
+Walton,320,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,111,,,
+Walton,330,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,87,,,
+Walton,340,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,41,,,
+Walton,350,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,46,,,
+Walton,360,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,31,,,
+Walton,410,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,73,,,
+Walton,420,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,51,,,
+Walton,430,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,582,267,258,57
+Walton,440,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,59,,,
+Walton,510,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,829,320,298,211
+Walton,520,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,940,293,499,148
+Walton,530,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,471,182,187,102
+Walton,540,Supreme Court Justice-Polston,"",STATS,UNDER VOTES,360,114,191,55
+Walton,110,District Court of Appeal-Bilbrey,"","",Yes,453,53,333,67
+Walton,120,District Court of Appeal-Bilbrey,"","",Yes,313,33,239,41
+Walton,130,District Court of Appeal-Bilbrey,"","",Yes,687,117,477,93
+Walton,210,District Court of Appeal-Bilbrey,"","",Yes,142,,,
+Walton,220,District Court of Appeal-Bilbrey,"","",Yes,213,42,138,33
+Walton,230,District Court of Appeal-Bilbrey,"","",Yes,423,108,227,88
+Walton,240,District Court of Appeal-Bilbrey,"","",Yes,125,,,
+Walton,310,District Court of Appeal-Bilbrey,"","",Yes,1767,599,860,308
+Walton,320,District Court of Appeal-Bilbrey,"","",Yes,690,234,282,174
+Walton,330,District Court of Appeal-Bilbrey,"","",Yes,512,149,242,121
+Walton,340,District Court of Appeal-Bilbrey,"","",Yes,315,105,168,42
+Walton,350,District Court of Appeal-Bilbrey,"","",Yes,287,,,
+Walton,360,District Court of Appeal-Bilbrey,"","",Yes,239,48,156,35
+Walton,410,District Court of Appeal-Bilbrey,"","",Yes,467,76,327,64
+Walton,420,District Court of Appeal-Bilbrey,"","",Yes,274,,,
+Walton,430,District Court of Appeal-Bilbrey,"","",Yes,3131,1481,1263,387
+Walton,440,District Court of Appeal-Bilbrey,"","",Yes,541,233,236,72
+Walton,510,District Court of Appeal-Bilbrey,"","",Yes,4092,1746,1537,809
+Walton,520,District Court of Appeal-Bilbrey,"","",Yes,3640,1398,1599,643
+Walton,530,District Court of Appeal-Bilbrey,"","",Yes,1943,691,872,380
+Walton,540,District Court of Appeal-Bilbrey,"","",Yes,1466,447,724,295
+Walton,110,District Court of Appeal-Bilbrey,"","",No,213,,,
+Walton,120,District Court of Appeal-Bilbrey,"","",No,145,,,
+Walton,130,District Court of Appeal-Bilbrey,"","",No,283,43,191,49
+Walton,210,District Court of Appeal-Bilbrey,"","",No,93,,,
+Walton,220,District Court of Appeal-Bilbrey,"","",No,139,,,
+Walton,230,District Court of Appeal-Bilbrey,"","",No,180,37,106,37
+Walton,240,District Court of Appeal-Bilbrey,"","",No,67,,,
+Walton,310,District Court of Appeal-Bilbrey,"","",No,797,224,424,149
+Walton,320,District Court of Appeal-Bilbrey,"","",No,356,120,143,93
+Walton,330,District Court of Appeal-Bilbrey,"","",No,249,84,106,59
+Walton,340,District Court of Appeal-Bilbrey,"","",No,214,59,113,42
+Walton,350,District Court of Appeal-Bilbrey,"","",No,169,,,
+Walton,360,District Court of Appeal-Bilbrey,"","",No,191,38,116,37
+Walton,410,District Court of Appeal-Bilbrey,"","",No,208,,,
+Walton,420,District Court of Appeal-Bilbrey,"","",No,147,,,
+Walton,430,District Court of Appeal-Bilbrey,"","",No,1237,542,515,180
+Walton,440,District Court of Appeal-Bilbrey,"","",No,189,,,
+Walton,510,District Court of Appeal-Bilbrey,"","",No,1257,458,478,321
+Walton,520,District Court of Appeal-Bilbrey,"","",No,1352,414,565,373
+Walton,530,District Court of Appeal-Bilbrey,"","",No,774,243,340,191
+Walton,540,District Court of Appeal-Bilbrey,"","",No,493,118,243,132
+Walton,110,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,1,,,
+Walton,210,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,1,,,
+Walton,440,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,1,,,
+Walton,520,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,1,,,
+Walton,530,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,District Court of Appeal-Bilbrey,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,65,,,
+Walton,120,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,71,,,
+Walton,130,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,88,,,
+Walton,210,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,28,,,
+Walton,220,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,37,,,
+Walton,230,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,76,,,
+Walton,240,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,32,,,
+Walton,310,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,263,72,128,63
+Walton,320,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,111,,,
+Walton,330,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,96,,,
+Walton,340,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,39,,,
+Walton,350,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,47,,,
+Walton,360,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,32,,,
+Walton,410,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,77,,,
+Walton,420,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,53,,,
+Walton,430,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,603,274,264,65
+Walton,440,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,58,,,
+Walton,510,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,858,321,311,226
+Walton,520,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,982,296,521,165
+Walton,530,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,503,191,201,111
+Walton,540,District Court of Appeal-Bilbrey,"",STATS,UNDER VOTES,379,119,197,63
+Walton,110,District Court of Appeal-Kelsey,"","",Yes,452,49,331,72
+Walton,120,District Court of Appeal-Kelsey,"","",Yes,320,35,244,41
+Walton,130,District Court of Appeal-Kelsey,"","",Yes,686,109,474,103
+Walton,210,District Court of Appeal-Kelsey,"","",Yes,138,,,
+Walton,220,District Court of Appeal-Kelsey,"","",Yes,206,38,137,31
+Walton,230,District Court of Appeal-Kelsey,"","",Yes,426,110,226,90
+Walton,240,District Court of Appeal-Kelsey,"","",Yes,126,,,
+Walton,310,District Court of Appeal-Kelsey,"","",Yes,1791,593,873,325
+Walton,320,District Court of Appeal-Kelsey,"","",Yes,691,237,273,181
+Walton,330,District Court of Appeal-Kelsey,"","",Yes,513,145,245,123
+Walton,340,District Court of Appeal-Kelsey,"","",Yes,332,114,173,45
+Walton,350,District Court of Appeal-Kelsey,"","",Yes,303,,,
+Walton,360,District Court of Appeal-Kelsey,"","",Yes,242,46,158,38
+Walton,410,District Court of Appeal-Kelsey,"","",Yes,465,72,332,61
+Walton,420,District Court of Appeal-Kelsey,"","",Yes,274,,,
+Walton,430,District Court of Appeal-Kelsey,"","",Yes,3082,1457,1239,386
+Walton,440,District Court of Appeal-Kelsey,"","",Yes,526,226,227,73
+Walton,510,District Court of Appeal-Kelsey,"","",Yes,4116,1762,1513,841
+Walton,520,District Court of Appeal-Kelsey,"","",Yes,3657,1375,1596,686
+Walton,530,District Court of Appeal-Kelsey,"","",Yes,1967,697,893,377
+Walton,540,District Court of Appeal-Kelsey,"","",Yes,1478,454,722,302
+Walton,110,District Court of Appeal-Kelsey,"","",No,210,,,
+Walton,120,District Court of Appeal-Kelsey,"","",No,139,,,
+Walton,130,District Court of Appeal-Kelsey,"","",No,280,51,187,42
+Walton,210,District Court of Appeal-Kelsey,"","",No,97,,,
+Walton,220,District Court of Appeal-Kelsey,"","",No,148,,,
+Walton,230,District Court of Appeal-Kelsey,"","",No,180,35,107,38
+Walton,240,District Court of Appeal-Kelsey,"","",No,68,,,
+Walton,310,District Court of Appeal-Kelsey,"","",No,766,231,400,135
+Walton,320,District Court of Appeal-Kelsey,"","",No,354,117,150,87
+Walton,330,District Court of Appeal-Kelsey,"","",No,251,89,103,59
+Walton,340,District Court of Appeal-Kelsey,"","",No,195,50,108,37
+Walton,350,District Court of Appeal-Kelsey,"","",No,155,,,
+Walton,360,District Court of Appeal-Kelsey,"","",No,187,40,112,35
+Walton,410,District Court of Appeal-Kelsey,"","",No,216,,,
+Walton,420,District Court of Appeal-Kelsey,"","",No,146,,,
+Walton,430,District Court of Appeal-Kelsey,"","",No,1282,562,537,183
+Walton,440,District Court of Appeal-Kelsey,"","",No,198,,,
+Walton,510,District Court of Appeal-Kelsey,"","",No,1229,438,494,297
+Walton,520,District Court of Appeal-Kelsey,"","",No,1309,421,562,326
+Walton,530,District Court of Appeal-Kelsey,"","",No,730,232,309,189
+Walton,540,District Court of Appeal-Kelsey,"","",No,467,108,240,119
+Walton,110,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,1,,,
+Walton,210,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,1,,,
+Walton,320,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,1,,,
+Walton,420,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,2,,,
+Walton,440,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,1,,,
+Walton,510,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,5,,,
+Walton,520,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,6,,,
+Walton,530,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,3,,,
+Walton,540,District Court of Appeal-Kelsey,"",STATS,OVER VOTES,1,,,
+Walton,110,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,69,,,
+Walton,120,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,70,,,
+Walton,130,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,92,,,
+Walton,210,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,28,,,
+Walton,220,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,35,,,
+Walton,230,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,73,,,
+Walton,240,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,30,,,
+Walton,310,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,269,71,138,60
+Walton,320,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,112,,,
+Walton,330,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,93,,,
+Walton,340,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,41,,,
+Walton,350,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,45,,,
+Walton,360,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,33,,,
+Walton,410,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,70,,,
+Walton,420,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,54,,,
+Walton,430,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,606,276,267,63
+Walton,440,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,63,,,
+Walton,510,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,858,324,317,217
+Walton,520,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,1003,310,524,169
+Walton,530,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,520,196,209,115
+Walton,540,District Court of Appeal-Kelsey,"",STATS,UNDER VOTES,392,121,202,69
+Walton,110,District Court of Appeal-Long,"","",Yes,457,49,337,71
+Walton,120,District Court of Appeal-Long,"","",Yes,333,35,257,41
+Walton,130,District Court of Appeal-Long,"","",Yes,707,119,493,95
+Walton,210,District Court of Appeal-Long,"","",Yes,156,,,
+Walton,220,District Court of Appeal-Long,"","",Yes,222,43,145,34
+Walton,230,District Court of Appeal-Long,"","",Yes,447,108,249,90
+Walton,240,District Court of Appeal-Long,"","",Yes,138,,,
+Walton,310,District Court of Appeal-Long,"","",Yes,1821,617,902,302
+Walton,320,District Court of Appeal-Long,"","",Yes,723,250,289,184
+Walton,330,District Court of Appeal-Long,"","",Yes,531,154,250,127
+Walton,340,District Court of Appeal-Long,"","",Yes,334,111,181,42
+Walton,350,District Court of Appeal-Long,"","",Yes,314,71,213,30
+Walton,360,District Court of Appeal-Long,"","",Yes,263,58,164,41
+Walton,410,District Court of Appeal-Long,"","",Yes,484,81,346,57
+Walton,420,District Court of Appeal-Long,"","",Yes,289,,,
+Walton,430,District Court of Appeal-Long,"","",Yes,3290,1578,1333,379
+Walton,440,District Court of Appeal-Long,"","",Yes,560,239,251,70
+Walton,510,District Court of Appeal-Long,"","",Yes,4251,1816,1638,797
+Walton,520,District Court of Appeal-Long,"","",Yes,3801,1441,1704,656
+Walton,530,District Court of Appeal-Long,"","",Yes,1985,700,926,359
+Walton,540,District Court of Appeal-Long,"","",Yes,1479,443,749,287
+Walton,110,District Court of Appeal-Long,"","",No,204,,,
+Walton,120,District Court of Appeal-Long,"","",No,124,,,
+Walton,130,District Court of Appeal-Long,"","",No,260,39,171,50
+Walton,210,District Court of Appeal-Long,"","",No,80,,,
+Walton,220,District Court of Appeal-Long,"","",No,132,,,
+Walton,230,District Court of Appeal-Long,"","",No,157,37,84,36
+Walton,240,District Court of Appeal-Long,"","",No,56,,,
+Walton,310,District Court of Appeal-Long,"","",No,731,204,372,155
+Walton,320,District Court of Appeal-Long,"","",No,320,104,135,81
+Walton,330,District Court of Appeal-Long,"","",No,229,79,94,56
+Walton,340,District Court of Appeal-Long,"","",No,191,52,99,40
+Walton,350,District Court of Appeal-Long,"","",No,141,,,
+Walton,360,District Court of Appeal-Long,"","",No,166,,,
+Walton,410,District Court of Appeal-Long,"","",No,194,,,
+Walton,420,District Court of Appeal-Long,"","",No,131,,,
+Walton,430,District Court of Appeal-Long,"","",No,1072,442,440,190
+Walton,440,District Court of Appeal-Long,"","",No,166,49,86,31
+Walton,510,District Court of Appeal-Long,"","",No,1078,373,366,339
+Walton,520,District Court of Appeal-Long,"","",No,1168,356,458,354
+Walton,530,District Court of Appeal-Long,"","",No,716,229,273,214
+Walton,540,District Court of Appeal-Long,"","",No,463,120,205,138
+Walton,110,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,District Court of Appeal-Long,"",STATS,OVER VOTES,1,,,
+Walton,210,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,320,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,District Court of Appeal-Long,"",STATS,OVER VOTES,1,,,
+Walton,440,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,District Court of Appeal-Long,"",STATS,OVER VOTES,2,,,
+Walton,520,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,530,District Court of Appeal-Long,"",STATS,OVER VOTES,1,,,
+Walton,540,District Court of Appeal-Long,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,District Court of Appeal-Long,"",STATS,UNDER VOTES,70,,,
+Walton,120,District Court of Appeal-Long,"",STATS,UNDER VOTES,72,,,
+Walton,130,District Court of Appeal-Long,"",STATS,UNDER VOTES,91,,,
+Walton,210,District Court of Appeal-Long,"",STATS,UNDER VOTES,27,,,
+Walton,220,District Court of Appeal-Long,"",STATS,UNDER VOTES,35,,,
+Walton,230,District Court of Appeal-Long,"",STATS,UNDER VOTES,75,,,
+Walton,240,District Court of Appeal-Long,"",STATS,UNDER VOTES,30,,,
+Walton,310,District Court of Appeal-Long,"",STATS,UNDER VOTES,275,74,138,63
+Walton,320,District Court of Appeal-Long,"",STATS,UNDER VOTES,114,,,
+Walton,330,District Court of Appeal-Long,"",STATS,UNDER VOTES,97,,,
+Walton,340,District Court of Appeal-Long,"",STATS,UNDER VOTES,43,,,
+Walton,350,District Court of Appeal-Long,"",STATS,UNDER VOTES,48,,,
+Walton,360,District Court of Appeal-Long,"",STATS,UNDER VOTES,33,,,
+Walton,410,District Court of Appeal-Long,"",STATS,UNDER VOTES,74,,,
+Walton,420,District Court of Appeal-Long,"",STATS,UNDER VOTES,54,,,
+Walton,430,District Court of Appeal-Long,"",STATS,UNDER VOTES,609,277,269,63
+Walton,440,District Court of Appeal-Long,"",STATS,UNDER VOTES,62,,,
+Walton,510,District Court of Appeal-Long,"",STATS,UNDER VOTES,877,335,322,220
+Walton,520,District Court of Appeal-Long,"",STATS,UNDER VOTES,1006,311,523,172
+Walton,530,District Court of Appeal-Long,"",STATS,UNDER VOTES,518,196,213,109
+Walton,540,District Court of Appeal-Long,"",STATS,UNDER VOTES,396,121,210,65
+Walton,110,District Court of Appeal-Rowe,"","",Yes,422,51,313,58
+Walton,120,District Court of Appeal-Rowe,"","",Yes,315,32,244,39
+Walton,130,District Court of Appeal-Rowe,"","",Yes,647,100,457,90
+Walton,210,District Court of Appeal-Rowe,"","",Yes,134,,,
+Walton,220,District Court of Appeal-Rowe,"","",Yes,196,,,
+Walton,230,District Court of Appeal-Rowe,"","",Yes,397,104,215,78
+Walton,240,District Court of Appeal-Rowe,"","",Yes,112,,,
+Walton,310,District Court of Appeal-Rowe,"","",Yes,1728,598,843,287
+Walton,320,District Court of Appeal-Rowe,"","",Yes,671,236,255,180
+Walton,330,District Court of Appeal-Rowe,"","",Yes,501,147,241,113
+Walton,340,District Court of Appeal-Rowe,"","",Yes,323,111,169,43
+Walton,350,District Court of Appeal-Rowe,"","",Yes,285,63,192,30
+Walton,360,District Court of Appeal-Rowe,"","",Yes,234,46,154,34
+Walton,410,District Court of Appeal-Rowe,"","",Yes,460,80,323,57
+Walton,420,District Court of Appeal-Rowe,"","",Yes,261,,,
+Walton,430,District Court of Appeal-Rowe,"","",Yes,3047,1439,1228,380
+Walton,440,District Court of Appeal-Rowe,"","",Yes,528,234,226,68
+Walton,510,District Court of Appeal-Rowe,"","",Yes,3986,1671,1474,841
+Walton,520,District Court of Appeal-Rowe,"","",Yes,3565,1324,1571,670
+Walton,530,District Court of Appeal-Rowe,"","",Yes,1908,676,872,360
+Walton,540,District Court of Appeal-Rowe,"","",Yes,1420,424,721,275
+Walton,110,District Court of Appeal-Rowe,"","",No,237,,,
+Walton,120,District Court of Appeal-Rowe,"","",No,143,,,
+Walton,130,District Court of Appeal-Rowe,"","",No,322,59,208,55
+Walton,210,District Court of Appeal-Rowe,"","",No,104,,,
+Walton,220,District Court of Appeal-Rowe,"","",No,158,,,
+Walton,230,District Court of Appeal-Rowe,"","",No,208,41,118,49
+Walton,240,District Court of Appeal-Rowe,"","",No,82,,,
+Walton,310,District Court of Appeal-Rowe,"","",No,825,222,433,170
+Walton,320,District Court of Appeal-Rowe,"","",No,370,116,168,86
+Walton,330,District Court of Appeal-Rowe,"","",No,261,85,107,69
+Walton,340,District Court of Appeal-Rowe,"","",No,203,53,110,40
+Walton,350,District Court of Appeal-Rowe,"","",No,171,,,
+Walton,360,District Court of Appeal-Rowe,"","",No,195,40,116,39
+Walton,410,District Court of Appeal-Rowe,"","",No,219,,,
+Walton,420,District Court of Appeal-Rowe,"","",No,158,,,
+Walton,430,District Court of Appeal-Rowe,"","",No,1308,576,545,187
+Walton,440,District Court of Appeal-Rowe,"","",No,197,55,110,32
+Walton,510,District Court of Appeal-Rowe,"","",No,1344,518,525,301
+Walton,520,District Court of Appeal-Rowe,"","",No,1394,469,587,338
+Walton,530,District Court of Appeal-Rowe,"","",No,793,249,334,210
+Walton,540,District Court of Appeal-Rowe,"","",No,519,140,233,146
+Walton,110,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,District Court of Appeal-Rowe,"",STATS,OVER VOTES,2,,,
+Walton,210,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,District Court of Appeal-Rowe,"",STATS,OVER VOTES,1,,,
+Walton,320,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,District Court of Appeal-Rowe,"",STATS,OVER VOTES,1,,,
+Walton,340,District Court of Appeal-Rowe,"",STATS,OVER VOTES,1,,,
+Walton,350,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,District Court of Appeal-Rowe,"",STATS,OVER VOTES,1,,,
+Walton,440,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,District Court of Appeal-Rowe,"",STATS,OVER VOTES,4,,,
+Walton,520,District Court of Appeal-Rowe,"",STATS,OVER VOTES,4,,,
+Walton,530,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,540,District Court of Appeal-Rowe,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,72,,,
+Walton,120,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,71,,,
+Walton,130,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,88,,,
+Walton,210,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,25,,,
+Walton,220,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,35,,,
+Walton,230,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,74,,,
+Walton,240,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,30,,,
+Walton,310,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,273,75,135,63
+Walton,320,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,116,,,
+Walton,330,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,94,,,
+Walton,340,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,41,,,
+Walton,350,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,47,,,
+Walton,360,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,33,,,
+Walton,410,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,73,,,
+Walton,420,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,55,,,
+Walton,430,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,616,281,270,65
+Walton,440,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,63,,,
+Walton,510,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,874,333,327,214
+Walton,520,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,1012,313,525,174
+Walton,530,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,519,200,207,112
+Walton,540,District Court of Appeal-Rowe,"",STATS,UNDER VOTES,399,120,210,69
+Walton,110,District Court of Appeal-Winokur,"","",Yes,429,49,317,63
+Walton,120,District Court of Appeal-Winokur,"","",Yes,320,37,243,40
+Walton,130,District Court of Appeal-Winokur,"","",Yes,666,109,465,92
+Walton,210,District Court of Appeal-Winokur,"","",Yes,142,,,
+Walton,220,District Court of Appeal-Winokur,"","",Yes,215,43,137,35
+Walton,230,District Court of Appeal-Winokur,"","",Yes,427,106,233,88
+Walton,240,District Court of Appeal-Winokur,"","",Yes,126,,,
+Walton,310,District Court of Appeal-Winokur,"","",Yes,1764,600,869,295
+Walton,320,District Court of Appeal-Winokur,"","",Yes,693,235,281,177
+Walton,330,District Court of Appeal-Winokur,"","",Yes,498,146,237,115
+Walton,340,District Court of Appeal-Winokur,"","",Yes,316,114,164,38
+Walton,350,District Court of Appeal-Winokur,"","",Yes,302,,,
+Walton,360,District Court of Appeal-Winokur,"","",Yes,247,50,158,39
+Walton,410,District Court of Appeal-Winokur,"","",Yes,476,79,338,59
+Walton,420,District Court of Appeal-Winokur,"","",Yes,279,,,
+Walton,430,District Court of Appeal-Winokur,"","",Yes,3180,1529,1278,373
+Walton,440,District Court of Appeal-Winokur,"","",Yes,541,236,235,70
+Walton,510,District Court of Appeal-Winokur,"","",Yes,4131,1770,1570,791
+Walton,520,District Court of Appeal-Winokur,"","",Yes,3657,1393,1625,639
+Walton,530,District Court of Appeal-Winokur,"","",Yes,1934,684,899,351
+Walton,540,District Court of Appeal-Winokur,"","",Yes,1458,446,729,283
+Walton,110,District Court of Appeal-Winokur,"","",No,234,,,
+Walton,120,District Court of Appeal-Winokur,"","",No,138,,,
+Walton,130,District Court of Appeal-Winokur,"","",No,298,49,196,53
+Walton,210,District Court of Appeal-Winokur,"","",No,94,,,
+Walton,220,District Court of Appeal-Winokur,"","",No,138,,,
+Walton,230,District Court of Appeal-Winokur,"","",No,178,39,100,39
+Walton,240,District Court of Appeal-Winokur,"","",No,67,,,
+Walton,310,District Court of Appeal-Winokur,"","",No,786,218,405,163
+Walton,320,District Court of Appeal-Winokur,"","",No,347,116,143,88
+Walton,330,District Court of Appeal-Winokur,"","",No,262,87,109,66
+Walton,340,District Court of Appeal-Winokur,"","",No,209,50,113,46
+Walton,350,District Court of Appeal-Winokur,"","",No,154,,,
+Walton,360,District Court of Appeal-Winokur,"","",No,182,36,112,34
+Walton,410,District Court of Appeal-Winokur,"","",No,202,,,
+Walton,420,District Court of Appeal-Winokur,"","",No,139,,,
+Walton,430,District Court of Appeal-Winokur,"","",No,1178,492,490,196
+Walton,440,District Court of Appeal-Winokur,"","",No,187,54,102,31
+Walton,510,District Court of Appeal-Winokur,"","",No,1196,424,429,343
+Walton,520,District Court of Appeal-Winokur,"","",No,1302,398,533,371
+Walton,530,District Court of Appeal-Winokur,"","",No,765,239,304,222
+Walton,540,District Court of Appeal-Winokur,"","",No,477,115,223,139
+Walton,110,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,District Court of Appeal-Winokur,"",STATS,OVER VOTES,1,,,
+Walton,210,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,District Court of Appeal-Winokur,"",STATS,OVER VOTES,1,,,
+Walton,320,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,District Court of Appeal-Winokur,"",STATS,OVER VOTES,1,,,
+Walton,340,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,District Court of Appeal-Winokur,"",STATS,OVER VOTES,1,,,
+Walton,440,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,District Court of Appeal-Winokur,"",STATS,OVER VOTES,1,,,
+Walton,520,District Court of Appeal-Winokur,"",STATS,OVER VOTES,2,,,
+Walton,530,District Court of Appeal-Winokur,"",STATS,OVER VOTES,1,,,
+Walton,540,District Court of Appeal-Winokur,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,68,,,
+Walton,120,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,71,,,
+Walton,130,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,94,,,
+Walton,210,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,27,,,
+Walton,220,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,36,,,
+Walton,230,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,74,,,
+Walton,240,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,31,,,
+Walton,310,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,276,77,137,62
+Walton,320,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,117,,,
+Walton,330,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,96,,,
+Walton,340,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,43,,,
+Walton,350,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,47,,,
+Walton,360,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,33,,,
+Walton,410,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,74,,,
+Walton,420,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,56,,,
+Walton,430,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,613,276,274,63
+Walton,440,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,60,,,
+Walton,510,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,880,331,327,222
+Walton,520,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,1014,315,527,172
+Walton,530,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,520,201,210,109
+Walton,540,District Court of Appeal-Winokur,"",STATS,UNDER VOTES,403,123,212,68
+Walton,110,Amendment 1,"","",Yes,351,44,245,62
+Walton,120,Amendment 1,"","",Yes,241,,,
+Walton,130,Amendment 1,"","",Yes,491,87,345,59
+Walton,210,Amendment 1,"","",Yes,129,,,
+Walton,220,Amendment 1,"","",Yes,174,,,
+Walton,230,Amendment 1,"","",Yes,306,78,152,76
+Walton,240,Amendment 1,"","",Yes,95,,,
+Walton,310,Amendment 1,"","",Yes,1366,444,656,266
+Walton,320,Amendment 1,"","",Yes,539,179,198,162
+Walton,330,Amendment 1,"","",Yes,368,107,152,109
+Walton,340,Amendment 1,"","",Yes,252,80,122,50
+Walton,350,Amendment 1,"","",Yes,242,41,165,36
+Walton,360,Amendment 1,"","",Yes,215,42,134,39
+Walton,410,Amendment 1,"","",Yes,395,69,265,61
+Walton,420,Amendment 1,"","",Yes,249,,,
+Walton,430,Amendment 1,"","",Yes,2833,1364,1102,367
+Walton,440,Amendment 1,"","",Yes,424,189,169,66
+Walton,510,Amendment 1,"","",Yes,3726,1553,1301,872
+Walton,520,Amendment 1,"","",Yes,3399,1260,1414,725
+Walton,530,Amendment 1,"","",Yes,1874,655,799,420
+Walton,540,Amendment 1,"","",Yes,1413,424,681,308
+Walton,110,Amendment 1,"","",No,330,,,
+Walton,120,Amendment 1,"","",No,248,33,185,30
+Walton,130,Amendment 1,"","",No,518,79,359,80
+Walton,210,Amendment 1,"","",No,118,,,
+Walton,220,Amendment 1,"","",No,192,,,
+Walton,230,Amendment 1,"","",No,325,68,207,50
+Walton,240,Amendment 1,"","",No,109,,,
+Walton,310,Amendment 1,"","",No,1302,413,676,213
+Walton,320,Amendment 1,"","",No,537,191,238,108
+Walton,330,Amendment 1,"","",No,429,142,209,78
+Walton,340,Amendment 1,"","",No,282,90,156,36
+Walton,350,Amendment 1,"","",No,233,,,
+Walton,360,Amendment 1,"","",No,218,42,143,33
+Walton,410,Amendment 1,"","",No,306,35,229,42
+Walton,420,Amendment 1,"","",No,194,,,
+Walton,430,Amendment 1,"","",No,1815,782,805,228
+Walton,440,Amendment 1,"","",No,310,107,165,38
+Walton,510,Amendment 1,"","",No,2029,815,846,368
+Walton,520,Amendment 1,"","",No,2054,697,999,358
+Walton,530,Amendment 1,"","",No,1108,391,516,201
+Walton,540,Amendment 1,"","",No,733,205,374,154
+Walton,110,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Amendment 1,"",STATS,OVER VOTES,1,,,
+Walton,130,Amendment 1,"",STATS,OVER VOTES,2,,,
+Walton,210,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,Amendment 1,"",STATS,OVER VOTES,1,,,
+Walton,240,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Amendment 1,"",STATS,OVER VOTES,1,,,
+Walton,320,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Amendment 1,"",STATS,OVER VOTES,1,,,
+Walton,360,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Amendment 1,"",STATS,OVER VOTES,2,,,
+Walton,430,Amendment 1,"",STATS,OVER VOTES,2,,,
+Walton,440,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,Amendment 1,"",STATS,OVER VOTES,2,,,
+Walton,520,Amendment 1,"",STATS,OVER VOTES,2,,,
+Walton,530,Amendment 1,"",STATS,OVER VOTES,2,,,
+Walton,540,Amendment 1,"",STATS,OVER VOTES,3,,,
+Walton,110,Amendment 1,"",STATS,UNDER VOTES,50,,,
+Walton,120,Amendment 1,"",STATS,UNDER VOTES,39,,,
+Walton,130,Amendment 1,"",STATS,UNDER VOTES,48,,,
+Walton,210,Amendment 1,"",STATS,UNDER VOTES,16,,,
+Walton,220,Amendment 1,"",STATS,UNDER VOTES,23,,,
+Walton,230,Amendment 1,"",STATS,UNDER VOTES,47,,,
+Walton,240,Amendment 1,"",STATS,UNDER VOTES,20,,,
+Walton,310,Amendment 1,"",STATS,UNDER VOTES,158,38,79,41
+Walton,320,Amendment 1,"",STATS,UNDER VOTES,81,,,
+Walton,330,Amendment 1,"",STATS,UNDER VOTES,60,,,
+Walton,340,Amendment 1,"",STATS,UNDER VOTES,34,,,
+Walton,350,Amendment 1,"",STATS,UNDER VOTES,27,,,
+Walton,360,Amendment 1,"",STATS,UNDER VOTES,29,,,
+Walton,410,Amendment 1,"",STATS,UNDER VOTES,51,,,
+Walton,420,Amendment 1,"",STATS,UNDER VOTES,29,,,
+Walton,430,Amendment 1,"",STATS,UNDER VOTES,322,150,135,37
+Walton,440,Amendment 1,"",STATS,UNDER VOTES,54,,,
+Walton,510,Amendment 1,"",STATS,UNDER VOTES,451,156,179,116
+Walton,520,Amendment 1,"",STATS,UNDER VOTES,520,150,271,99
+Walton,530,Amendment 1,"",STATS,UNDER VOTES,236,77,98,61
+Walton,540,Amendment 1,"",STATS,UNDER VOTES,189,,,
+Walton,110,Amendment 2,"","",Yes,367,46,260,61
+Walton,120,Amendment 2,"","",Yes,271,30,205,36
+Walton,130,Amendment 2,"","",Yes,542,99,369,74
+Walton,210,Amendment 2,"","",Yes,130,,,
+Walton,220,Amendment 2,"","",Yes,172,,,
+Walton,230,Amendment 2,"","",Yes,329,87,166,76
+Walton,240,Amendment 2,"","",Yes,80,,,
+Walton,310,Amendment 2,"","",Yes,1403,455,696,252
+Walton,320,Amendment 2,"","",Yes,575,214,208,153
+Walton,330,Amendment 2,"","",Yes,423,127,191,105
+Walton,340,Amendment 2,"","",Yes,259,79,133,47
+Walton,350,Amendment 2,"","",Yes,248,,,
+Walton,360,Amendment 2,"","",Yes,230,47,140,43
+Walton,410,Amendment 2,"","",Yes,414,65,280,69
+Walton,420,Amendment 2,"","",Yes,236,,,
+Walton,430,Amendment 2,"","",Yes,2752,1315,1092,345
+Walton,440,Amendment 2,"","",Yes,447,192,193,62
+Walton,510,Amendment 2,"","",Yes,3589,1514,1308,767
+Walton,520,Amendment 2,"","",Yes,3211,1198,1382,631
+Walton,530,Amendment 2,"","",Yes,1727,603,785,339
+Walton,540,Amendment 2,"","",Yes,1320,391,647,282
+Walton,110,Amendment 2,"","",No,312,,,
+Walton,120,Amendment 2,"","",No,213,,,
+Walton,130,Amendment 2,"","",No,463,69,330,64
+Walton,210,Amendment 2,"","",No,115,,,
+Walton,220,Amendment 2,"","",No,188,,,
+Walton,230,Amendment 2,"","",No,293,59,186,48
+Walton,240,Amendment 2,"","",No,120,,,
+Walton,310,Amendment 2,"","",No,1249,395,631,223
+Walton,320,Amendment 2,"","",No,486,157,215,114
+Walton,330,Amendment 2,"","",No,374,124,167,83
+Walton,340,Amendment 2,"","",No,276,92,144,40
+Walton,350,Amendment 2,"","",No,219,40,149,30
+Walton,360,Amendment 2,"","",No,201,38,132,31
+Walton,410,Amendment 2,"","",No,284,39,209,36
+Walton,420,Amendment 2,"","",No,200,,,
+Walton,430,Amendment 2,"","",No,1833,804,777,252
+Walton,440,Amendment 2,"","",No,286,103,141,42
+Walton,510,Amendment 2,"","",No,2057,814,792,451
+Walton,520,Amendment 2,"","",No,2184,732,998,454
+Walton,530,Amendment 2,"","",No,1186,424,487,275
+Walton,540,Amendment 2,"","",No,783,229,382,172
+Walton,110,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,210,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Amendment 2,"",STATS,OVER VOTES,1,,,
+Walton,230,Amendment 2,"",STATS,OVER VOTES,1,,,
+Walton,240,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Amendment 2,"",STATS,OVER VOTES,2,,,
+Walton,320,Amendment 2,"",STATS,OVER VOTES,1,,,
+Walton,330,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,360,Amendment 2,"",STATS,OVER VOTES,1,,,
+Walton,410,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Amendment 2,"",STATS,OVER VOTES,6,,,
+Walton,440,Amendment 2,"",STATS,OVER VOTES,1,,,
+Walton,510,Amendment 2,"",STATS,OVER VOTES,3,,,
+Walton,520,Amendment 2,"",STATS,OVER VOTES,2,,,
+Walton,530,Amendment 2,"",STATS,OVER VOTES,2,,,
+Walton,540,Amendment 2,"",STATS,OVER VOTES,3,,,
+Walton,110,Amendment 2,"",STATS,UNDER VOTES,52,,,
+Walton,120,Amendment 2,"",STATS,UNDER VOTES,45,,,
+Walton,130,Amendment 2,"",STATS,UNDER VOTES,54,,,
+Walton,210,Amendment 2,"",STATS,UNDER VOTES,18,,,
+Walton,220,Amendment 2,"",STATS,UNDER VOTES,28,,,
+Walton,230,Amendment 2,"",STATS,UNDER VOTES,56,,,
+Walton,240,Amendment 2,"",STATS,UNDER VOTES,24,,,
+Walton,310,Amendment 2,"",STATS,UNDER VOTES,173,45,83,45
+Walton,320,Amendment 2,"",STATS,UNDER VOTES,95,,,
+Walton,330,Amendment 2,"",STATS,UNDER VOTES,60,,,
+Walton,340,Amendment 2,"",STATS,UNDER VOTES,33,,,
+Walton,350,Amendment 2,"",STATS,UNDER VOTES,36,,,
+Walton,360,Amendment 2,"",STATS,UNDER VOTES,30,,,
+Walton,410,Amendment 2,"",STATS,UNDER VOTES,54,,,
+Walton,420,Amendment 2,"",STATS,UNDER VOTES,38,,,
+Walton,430,Amendment 2,"",STATS,UNDER VOTES,381,176,170,35
+Walton,440,Amendment 2,"",STATS,UNDER VOTES,54,,,
+Walton,510,Amendment 2,"",STATS,UNDER VOTES,559,195,226,138
+Walton,520,Amendment 2,"",STATS,UNDER VOTES,578,176,305,97
+Walton,530,Amendment 2,"",STATS,UNDER VOTES,305,96,141,68
+Walton,540,Amendment 2,"",STATS,UNDER VOTES,232,63,133,36
+Walton,110,Amendment 3,"","",Yes,363,37,278,48
+Walton,120,Amendment 3,"","",Yes,250,,,
+Walton,130,Amendment 3,"","",Yes,588,96,413,79
+Walton,210,Amendment 3,"","",Yes,125,,,
+Walton,220,Amendment 3,"","",Yes,185,,,
+Walton,230,Amendment 3,"","",Yes,326,81,191,54
+Walton,240,Amendment 3,"","",Yes,92,,,
+Walton,310,Amendment 3,"","",Yes,1606,491,827,288
+Walton,320,Amendment 3,"","",Yes,613,199,248,166
+Walton,330,Amendment 3,"","",Yes,449,138,204,107
+Walton,340,Amendment 3,"","",Yes,284,99,141,44
+Walton,350,Amendment 3,"","",Yes,252,52,167,33
+Walton,360,Amendment 3,"","",Yes,244,58,142,44
+Walton,410,Amendment 3,"","",Yes,420,57,302,61
+Walton,420,Amendment 3,"","",Yes,256,,,
+Walton,430,Amendment 3,"","",Yes,3033,1425,1258,350
+Walton,440,Amendment 3,"","",Yes,472,196,215,61
+Walton,510,Amendment 3,"","",Yes,3796,1542,1434,820
+Walton,520,Amendment 3,"","",Yes,3690,1304,1680,706
+Walton,530,Amendment 3,"","",Yes,2006,690,901,415
+Walton,540,Amendment 3,"","",Yes,1414,405,709,300
+Walton,110,Amendment 3,"","",No,333,34,243,56
+Walton,120,Amendment 3,"","",No,253,33,187,33
+Walton,130,Amendment 3,"","",No,431,72,297,62
+Walton,210,Amendment 3,"","",No,129,,,
+Walton,220,Amendment 3,"","",No,189,,,
+Walton,230,Amendment 3,"","",No,319,69,178,72
+Walton,240,Amendment 3,"","",No,114,,,
+Walton,310,Amendment 3,"","",No,1118,375,539,204
+Walton,320,Amendment 3,"","",No,494,177,203,114
+Walton,330,Amendment 3,"","",No,362,117,163,82
+Walton,340,Amendment 3,"","",No,254,72,139,43
+Walton,350,Amendment 3,"","",No,230,,,
+Walton,360,Amendment 3,"","",No,199,,,
+Walton,410,Amendment 3,"","",No,294,50,198,46
+Walton,420,Amendment 3,"","",No,198,,,
+Walton,430,Amendment 3,"","",No,1728,776,699,253
+Walton,440,Amendment 3,"","",No,277,110,122,45
+Walton,510,Amendment 3,"","",No,2098,893,758,447
+Walton,520,Amendment 3,"","",No,1960,705,835,420
+Walton,530,Amendment 3,"","",No,1029,367,437,225
+Walton,540,Amendment 3,"","",No,791,241,382,168
+Walton,110,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,Amendment 3,"",STATS,OVER VOTES,1,,,
+Walton,210,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,Amendment 3,"",STATS,OVER VOTES,1,,,
+Walton,240,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,Amendment 3,"",STATS,OVER VOTES,2,,,
+Walton,320,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,330,Amendment 3,"",STATS,OVER VOTES,1,,,
+Walton,340,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,Amendment 3,"",STATS,OVER VOTES,1,,,
+Walton,360,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,410,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,420,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
+Walton,440,Amendment 3,"",STATS,OVER VOTES,2,,,
+Walton,510,Amendment 3,"",STATS,OVER VOTES,4,,,
+Walton,520,Amendment 3,"",STATS,OVER VOTES,5,,,
+Walton,530,Amendment 3,"",STATS,OVER VOTES,5,,,
+Walton,540,Amendment 3,"",STATS,OVER VOTES,4,,,
+Walton,110,Amendment 3,"",STATS,UNDER VOTES,35,,,
+Walton,120,Amendment 3,"",STATS,UNDER VOTES,26,,,
+Walton,130,Amendment 3,"",STATS,UNDER VOTES,39,,,
+Walton,210,Amendment 3,"",STATS,UNDER VOTES,9,,,
+Walton,220,Amendment 3,"",STATS,UNDER VOTES,15,,,
+Walton,230,Amendment 3,"",STATS,UNDER VOTES,33,,,
+Walton,240,Amendment 3,"",STATS,UNDER VOTES,18,,,
+Walton,310,Amendment 3,"",STATS,UNDER VOTES,101,,,
+Walton,320,Amendment 3,"",STATS,UNDER VOTES,50,,,
+Walton,330,Amendment 3,"",STATS,UNDER VOTES,45,,,
+Walton,340,Amendment 3,"",STATS,UNDER VOTES,30,,,
+Walton,350,Amendment 3,"",STATS,UNDER VOTES,20,,,
+Walton,360,Amendment 3,"",STATS,UNDER VOTES,19,,,
+Walton,410,Amendment 3,"",STATS,UNDER VOTES,38,,,
+Walton,420,Amendment 3,"",STATS,UNDER VOTES,20,,,
+Walton,430,Amendment 3,"",STATS,UNDER VOTES,211,,,
+Walton,440,Amendment 3,"",STATS,UNDER VOTES,37,,,
+Walton,510,Amendment 3,"",STATS,UNDER VOTES,310,89,132,89
+Walton,520,Amendment 3,"",STATS,UNDER VOTES,320,99,165,56
+Walton,530,Amendment 3,"",STATS,UNDER VOTES,180,64,74,42
+Walton,540,Amendment 3,"",STATS,UNDER VOTES,129,,,
+Walton,110,County Referendum,"","",FOR the one-cent sales surtax,177,,,
+Walton,120,County Referendum,"","",FOR the one-cent sales surtax,89,,,
+Walton,130,County Referendum,"","",FOR the one-cent sales surtax,270,33,180,57
+Walton,210,County Referendum,"","",FOR the one-cent sales surtax,32,,,
+Walton,220,County Referendum,"","",FOR the one-cent sales surtax,64,,,
+Walton,230,County Referendum,"","",FOR the one-cent sales surtax,136,34,69,33
+Walton,240,County Referendum,"","",FOR the one-cent sales surtax,31,,,
+Walton,310,County Referendum,"","",FOR the one-cent sales surtax,732,210,363,159
+Walton,320,County Referendum,"","",FOR the one-cent sales surtax,311,96,116,99
+Walton,330,County Referendum,"","",FOR the one-cent sales surtax,236,67,107,62
+Walton,340,County Referendum,"","",FOR the one-cent sales surtax,145,47,68,30
+Walton,350,County Referendum,"","",FOR the one-cent sales surtax,96,,,
+Walton,360,County Referendum,"","",FOR the one-cent sales surtax,107,,,
+Walton,410,County Referendum,"","",FOR the one-cent sales surtax,309,36,213,60
+Walton,420,County Referendum,"","",FOR the one-cent sales surtax,164,,,
+Walton,430,County Referendum,"","",FOR the one-cent sales surtax,1625,701,665,259
+Walton,440,County Referendum,"","",FOR the one-cent sales surtax,276,129,99,48
+Walton,510,County Referendum,"","",FOR the one-cent sales surtax,2042,723,735,584
+Walton,520,County Referendum,"","",FOR the one-cent sales surtax,1782,540,778,464
+Walton,530,County Referendum,"","",FOR the one-cent sales surtax,998,300,450,248
+Walton,540,County Referendum,"","",FOR the one-cent sales surtax,841,226,408,207
+Walton,110,County Referendum,"","",AGAINST the one-cent sales surtax,523,48,400,75
+Walton,120,County Referendum,"","",AGAINST the one-cent sales surtax,426,45,339,42
+Walton,130,County Referendum,"","",AGAINST the one-cent sales surtax,761,140,536,85
+Walton,210,County Referendum,"","",AGAINST the one-cent sales surtax,229,39,160,30
+Walton,220,County Referendum,"","",AGAINST the one-cent sales surtax,317,53,227,37
+Walton,230,County Referendum,"","",AGAINST the one-cent sales surtax,522,118,310,94
+Walton,240,County Referendum,"","",AGAINST the one-cent sales surtax,181,,,
+Walton,310,County Referendum,"","",AGAINST the one-cent sales surtax,2028,664,1021,343
+Walton,320,County Referendum,"","",AGAINST the one-cent sales surtax,812,286,340,186
+Walton,330,County Referendum,"","",AGAINST the one-cent sales surtax,593,196,270,127
+Walton,340,County Referendum,"","",AGAINST the one-cent sales surtax,398,124,219,55
+Walton,350,County Referendum,"","",AGAINST the one-cent sales surtax,395,84,268,43
+Walton,360,County Referendum,"","",AGAINST the one-cent sales surtax,338,67,215,56
+Walton,410,County Referendum,"","",AGAINST the one-cent sales surtax,413,71,295,47
+Walton,420,County Referendum,"","",AGAINST the one-cent sales surtax,297,,,
+Walton,430,County Referendum,"","",AGAINST the one-cent sales surtax,3204,1539,1321,344
+Walton,440,County Referendum,"","",AGAINST the one-cent sales surtax,481,180,243,58
+Walton,510,County Referendum,"","",AGAINST the one-cent sales surtax,3966,1743,1520,703
+Walton,520,County Referendum,"","",AGAINST the one-cent sales surtax,4028,1527,1823,678
+Walton,530,County Referendum,"","",AGAINST the one-cent sales surtax,2116,793,927,396
+Walton,540,County Referendum,"","",AGAINST the one-cent sales surtax,1416,440,716,260
+Walton,110,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,120,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,130,County Referendum,"",STATS,OVER VOTES,2,,,
+Walton,210,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,220,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,230,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,240,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,310,County Referendum,"",STATS,OVER VOTES,1,,,
+Walton,320,County Referendum,"",STATS,OVER VOTES,1,,,
+Walton,330,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,340,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,350,County Referendum,"",STATS,OVER VOTES,1,,,
+Walton,360,County Referendum,"",STATS,OVER VOTES,1,,,
+Walton,410,County Referendum,"",STATS,OVER VOTES,1,,,
+Walton,420,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,430,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,440,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,510,County Referendum,"",STATS,OVER VOTES,1,,,
+Walton,520,County Referendum,"",STATS,OVER VOTES,2,,,
+Walton,530,County Referendum,"",STATS,OVER VOTES,2,,,
+Walton,540,County Referendum,"",STATS,OVER VOTES,0,0,0,0
+Walton,110,County Referendum,"",STATS,UNDER VOTES,31,,,
+Walton,120,County Referendum,"",STATS,UNDER VOTES,14,,,
+Walton,130,County Referendum,"",STATS,UNDER VOTES,26,,,
+Walton,210,County Referendum,"",STATS,UNDER VOTES,2,,,
+Walton,220,County Referendum,"",STATS,UNDER VOTES,8,,,
+Walton,230,County Referendum,"",STATS,UNDER VOTES,21,,,
+Walton,240,County Referendum,"",STATS,UNDER VOTES,12,,,
+Walton,310,County Referendum,"",STATS,UNDER VOTES,66,,,
+Walton,320,County Referendum,"",STATS,UNDER VOTES,33,,,
+Walton,330,County Referendum,"",STATS,UNDER VOTES,28,,,
+Walton,340,County Referendum,"",STATS,UNDER VOTES,25,,,
+Walton,350,County Referendum,"",STATS,UNDER VOTES,11,,,
+Walton,360,County Referendum,"",STATS,UNDER VOTES,16,,,
+Walton,410,County Referendum,"",STATS,UNDER VOTES,29,,,
+Walton,420,County Referendum,"",STATS,UNDER VOTES,13,,,
+Walton,430,County Referendum,"",STATS,UNDER VOTES,143,,,
+Walton,440,County Referendum,"",STATS,UNDER VOTES,31,,,
+Walton,510,County Referendum,"",STATS,UNDER VOTES,199,59,71,69
+Walton,520,County Referendum,"",STATS,UNDER VOTES,163,41,82,40
+Walton,530,County Referendum,"",STATS,UNDER VOTES,104,32,34,38
+Walton,540,County Referendum,"",STATS,UNDER VOTES,81,,,
