@@ -1,0 +1,515 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
+Madison,1,U.S. Senate,"",REP,Marco Rubio,743,396,246,101
+Madison,8,U.S. Senate,"",REP,Marco Rubio,555,288,227,40
+Madison,9,U.S. Senate,"",REP,Marco Rubio,106,,,
+Madison,10,U.S. Senate,"",REP,Marco Rubio,401,186,152,63
+Madison,11,U.S. Senate,"",REP,Marco Rubio,219,,,
+Madison,2,U.S. Senate,"",REP,Marco Rubio,47,,,
+Madison,3,U.S. Senate,"",REP,Marco Rubio,1163,564,484,115
+Madison,4,U.S. Senate,"",REP,Marco Rubio,204,,,
+Madison,5,U.S. Senate,"",REP,Marco Rubio,263,85,141,37
+Madison,6,U.S. Senate,"",REP,Marco Rubio,179,,,
+Madison,7,U.S. Senate,"",REP,Marco Rubio,596,308,212,76
+Madison,1,U.S. Senate,"",DEM,Val Demings,485,196,204,85
+Madison,8,U.S. Senate,"",DEM,Val Demings,154,,,
+Madison,9,U.S. Senate,"",DEM,Val Demings,58,,,
+Madison,10,U.S. Senate,"",DEM,Val Demings,390,148,144,98
+Madison,11,U.S. Senate,"",DEM,Val Demings,323,123,148,52
+Madison,2,U.S. Senate,"",DEM,Val Demings,132,49,41,42
+Madison,3,U.S. Senate,"",DEM,Val Demings,253,100,92,61
+Madison,4,U.S. Senate,"",DEM,Val Demings,51,,,
+Madison,5,U.S. Senate,"",DEM,Val Demings,357,88,207,62
+Madison,6,U.S. Senate,"",DEM,Val Demings,39,,,
+Madison,7,U.S. Senate,"",DEM,Val Demings,200,89,56,55
+Madison,1,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Madison,8,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
+Madison,9,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Madison,10,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Madison,11,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Madison,2,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Madison,3,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
+Madison,4,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
+Madison,5,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Madison,6,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
+Madison,7,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
+Madison,1,U.S. Senate,"",NPA,Steven B. Grant,5,,,
+Madison,8,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Madison,9,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Madison,10,U.S. Senate,"",NPA,Steven B. Grant,2,,,
+Madison,11,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Madison,2,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Madison,3,U.S. Senate,"",NPA,Steven B. Grant,6,,,
+Madison,4,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Madison,5,U.S. Senate,"",NPA,Steven B. Grant,3,,,
+Madison,6,U.S. Senate,"",NPA,Steven B. Grant,1,,,
+Madison,7,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
+Madison,1,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
+Madison,8,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Madison,9,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Madison,10,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Madison,11,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Madison,2,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Madison,3,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
+Madison,4,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Madison,5,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
+Madison,6,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Madison,7,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
+Madison,1,U.S. Senate,"","",Write-in,1,,,
+Madison,8,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,9,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,10,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,11,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,2,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,3,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,4,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,5,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,6,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,7,U.S. Senate,"","",Write-in,0,0,0,0
+Madison,1,U.S. House,2,REP,Neal Dunn,744,396,247,101
+Madison,8,U.S. House,2,REP,Neal Dunn,557,291,226,40
+Madison,9,U.S. House,2,REP,Neal Dunn,107,,,
+Madison,10,U.S. House,2,REP,Neal Dunn,393,184,146,63
+Madison,11,U.S. House,2,REP,Neal Dunn,214,,,
+Madison,2,U.S. House,2,REP,Neal Dunn,47,,,
+Madison,3,U.S. House,2,REP,Neal Dunn,1183,573,489,121
+Madison,4,U.S. House,2,REP,Neal Dunn,203,,,
+Madison,5,U.S. House,2,REP,Neal Dunn,269,87,145,37
+Madison,6,U.S. House,2,REP,Neal Dunn,179,,,
+Madison,7,U.S. House,2,REP,Neal Dunn,598,311,216,71
+Madison,1,U.S. House,2,DEM,Al Lawson,493,204,202,87
+Madison,8,U.S. House,2,DEM,Al Lawson,159,,,
+Madison,9,U.S. House,2,DEM,Al Lawson,62,,,
+Madison,10,U.S. House,2,DEM,Al Lawson,403,151,153,99
+Madison,11,U.S. House,2,DEM,Al Lawson,332,128,149,55
+Madison,2,U.S. House,2,DEM,Al Lawson,133,49,42,42
+Madison,3,U.S. House,2,DEM,Al Lawson,242,92,94,56
+Madison,4,U.S. House,2,DEM,Al Lawson,52,,,
+Madison,5,U.S. House,2,DEM,Al Lawson,355,89,203,63
+Madison,6,U.S. House,2,DEM,Al Lawson,40,,,
+Madison,7,U.S. House,2,DEM,Al Lawson,196,86,50,60
+Madison,1,Governor and Lieutenant Governor,"",REP,Ron DeSantis,784,412,263,109
+Madison,8,Governor and Lieutenant Governor,"",REP,Ron DeSantis,573,294,237,42
+Madison,9,Governor and Lieutenant Governor,"",REP,Ron DeSantis,115,,,
+Madison,10,Governor and Lieutenant Governor,"",REP,Ron DeSantis,408,187,158,63
+Madison,11,Governor and Lieutenant Governor,"",REP,Ron DeSantis,228,,,
+Madison,2,Governor and Lieutenant Governor,"",REP,Ron DeSantis,49,,,
+Madison,3,Governor and Lieutenant Governor,"",REP,Ron DeSantis,1210,580,509,121
+Madison,4,Governor and Lieutenant Governor,"",REP,Ron DeSantis,207,,,
+Madison,5,Governor and Lieutenant Governor,"",REP,Ron DeSantis,292,96,158,38
+Madison,6,Governor and Lieutenant Governor,"",REP,Ron DeSantis,180,,,
+Madison,7,Governor and Lieutenant Governor,"",REP,Ron DeSantis,615,317,218,80
+Madison,1,Governor and Lieutenant Governor,"",DEM,Charlie Crist,456,187,189,80
+Madison,8,Governor and Lieutenant Governor,"",DEM,Charlie Crist,143,,,
+Madison,9,Governor and Lieutenant Governor,"",DEM,Charlie Crist,55,,,
+Madison,10,Governor and Lieutenant Governor,"",DEM,Charlie Crist,378,146,135,97
+Madison,11,Governor and Lieutenant Governor,"",DEM,Charlie Crist,315,119,143,53
+Madison,2,Governor and Lieutenant Governor,"",DEM,Charlie Crist,132,50,41,41
+Madison,3,Governor and Lieutenant Governor,"",DEM,Charlie Crist,218,86,78,54
+Madison,4,Governor and Lieutenant Governor,"",DEM,Charlie Crist,49,,,
+Madison,5,Governor and Lieutenant Governor,"",DEM,Charlie Crist,329,81,188,60
+Madison,6,Governor and Lieutenant Governor,"",DEM,Charlie Crist,38,,,
+Madison,7,Governor and Lieutenant Governor,"",DEM,Charlie Crist,180,80,48,52
+Madison,1,Governor and Lieutenant Governor,"",LPF,Hector Roos,3,,,
+Madison,8,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,9,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,10,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
+Madison,11,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
+Madison,2,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Madison,3,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,4,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,5,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
+Madison,6,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
+Madison,7,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,1,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,2,,,
+Madison,8,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Madison,9,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,10,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,4,,,
+Madison,11,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,3,,,
+Madison,2,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,3,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Madison,4,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,5,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,5,,,
+Madison,6,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,7,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,1,Attorney General,"",REP,Ashley Moody,809,428,272,109
+Madison,8,Attorney General,"",REP,Ashley Moody,585,298,239,48
+Madison,9,Attorney General,"",REP,Ashley Moody,116,,,
+Madison,10,Attorney General,"",REP,Ashley Moody,417,193,159,65
+Madison,11,Attorney General,"",REP,Ashley Moody,248,,,
+Madison,2,Attorney General,"",REP,Ashley Moody,51,,,
+Madison,3,Attorney General,"",REP,Ashley Moody,1223,587,507,129
+Madison,4,Attorney General,"",REP,Ashley Moody,207,,,
+Madison,5,Attorney General,"",REP,Ashley Moody,316,106,166,44
+Madison,6,Attorney General,"",REP,Ashley Moody,184,,,
+Madison,7,Attorney General,"",REP,Ashley Moody,627,318,230,79
+Madison,1,Attorney General,"",DEM,Aramis Ayala,423,169,177,77
+Madison,8,Attorney General,"",DEM,Aramis Ayala,128,,,
+Madison,9,Attorney General,"",DEM,Aramis Ayala,51,,,
+Madison,10,Attorney General,"",DEM,Aramis Ayala,374,141,139,94
+Madison,11,Attorney General,"",DEM,Aramis Ayala,298,116,133,49
+Madison,2,Attorney General,"",DEM,Aramis Ayala,129,43,43,43
+Madison,3,Attorney General,"",DEM,Aramis Ayala,204,79,76,49
+Madison,4,Attorney General,"",DEM,Aramis Ayala,48,,,
+Madison,5,Attorney General,"",DEM,Aramis Ayala,310,71,183,56
+Madison,6,Attorney General,"",DEM,Aramis Ayala,35,,,
+Madison,7,Attorney General,"",DEM,Aramis Ayala,169,78,38,53
+Madison,1,Chief Financial Officer,"",REP,Jimmy Patronis,773,413,256,104
+Madison,8,Chief Financial Officer,"",REP,Jimmy Patronis,565,292,231,42
+Madison,9,Chief Financial Officer,"",REP,Jimmy Patronis,111,,,
+Madison,10,Chief Financial Officer,"",REP,Jimmy Patronis,401,187,151,63
+Madison,11,Chief Financial Officer,"",REP,Jimmy Patronis,227,,,
+Madison,2,Chief Financial Officer,"",REP,Jimmy Patronis,47,,,
+Madison,3,Chief Financial Officer,"",REP,Jimmy Patronis,1194,571,497,126
+Madison,4,Chief Financial Officer,"",REP,Jimmy Patronis,200,,,
+Madison,5,Chief Financial Officer,"",REP,Jimmy Patronis,297,96,157,44
+Madison,6,Chief Financial Officer,"",REP,Jimmy Patronis,179,,,
+Madison,7,Chief Financial Officer,"",REP,Jimmy Patronis,614,317,222,75
+Madison,1,Chief Financial Officer,"",DEM,Adam Hattersley,444,174,188,82
+Madison,8,Chief Financial Officer,"",DEM,Adam Hattersley,147,,,
+Madison,9,Chief Financial Officer,"",DEM,Adam Hattersley,56,,,
+Madison,10,Chief Financial Officer,"",DEM,Adam Hattersley,385,143,147,95
+Madison,11,Chief Financial Officer,"",DEM,Adam Hattersley,315,120,143,52
+Madison,2,Chief Financial Officer,"",DEM,Adam Hattersley,130,47,42,41
+Madison,3,Chief Financial Officer,"",DEM,Adam Hattersley,225,89,85,51
+Madison,4,Chief Financial Officer,"",DEM,Adam Hattersley,50,,,
+Madison,5,Chief Financial Officer,"",DEM,Adam Hattersley,318,78,186,54
+Madison,6,Chief Financial Officer,"",DEM,Adam Hattersley,40,,,
+Madison,7,Chief Financial Officer,"",DEM,Adam Hattersley,178,78,44,56
+Madison,1,Commissioner of Agriculture,"",REP,Wilton Simpson,775,408,262,105
+Madison,8,Commissioner of Agriculture,"",REP,Wilton Simpson,568,294,231,43
+Madison,9,Commissioner of Agriculture,"",REP,Wilton Simpson,113,,,
+Madison,10,Commissioner of Agriculture,"",REP,Wilton Simpson,396,182,151,63
+Madison,11,Commissioner of Agriculture,"",REP,Wilton Simpson,230,,,
+Madison,2,Commissioner of Agriculture,"",REP,Wilton Simpson,52,,,
+Madison,3,Commissioner of Agriculture,"",REP,Wilton Simpson,1209,576,504,129
+Madison,4,Commissioner of Agriculture,"",REP,Wilton Simpson,203,,,
+Madison,5,Commissioner of Agriculture,"",REP,Wilton Simpson,298,98,156,44
+Madison,6,Commissioner of Agriculture,"",REP,Wilton Simpson,182,,,
+Madison,7,Commissioner of Agriculture,"",REP,Wilton Simpson,614,316,222,76
+Madison,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,450,186,183,81
+Madison,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,144,,,
+Madison,9,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,54,,,
+Madison,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,389,149,145,95
+Madison,11,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,315,123,141,51
+Madison,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,126,45,40,41
+Madison,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,214,86,79,49
+Madison,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,48,,,
+Madison,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,326,81,189,56
+Madison,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,37,,,
+Madison,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,180,79,46,55
+Madison,1,State Senate,3,REP,Corey Simon,766,397,265,104
+Madison,8,State Senate,3,REP,Corey Simon,565,291,234,40
+Madison,9,State Senate,3,REP,Corey Simon,111,,,
+Madison,10,State Senate,3,REP,Corey Simon,405,192,150,63
+Madison,11,State Senate,3,REP,Corey Simon,230,,,
+Madison,2,State Senate,3,REP,Corey Simon,47,,,
+Madison,3,State Senate,3,REP,Corey Simon,1178,569,491,118
+Madison,4,State Senate,3,REP,Corey Simon,200,,,
+Madison,5,State Senate,3,REP,Corey Simon,285,89,156,40
+Madison,6,State Senate,3,REP,Corey Simon,181,,,
+Madison,7,State Senate,3,REP,Corey Simon,606,314,215,77
+Madison,1,State Senate,3,DEM,Loranne Ausley,472,201,186,85
+Madison,8,State Senate,3,DEM,Loranne Ausley,144,,,
+Madison,9,State Senate,3,DEM,Loranne Ausley,59,,,
+Madison,10,State Senate,3,DEM,Loranne Ausley,381,137,146,98
+Madison,11,State Senate,3,DEM,Loranne Ausley,315,119,143,53
+Madison,2,State Senate,3,DEM,Loranne Ausley,131,47,41,43
+Madison,3,State Senate,3,DEM,Loranne Ausley,240,93,91,56
+Madison,4,State Senate,3,DEM,Loranne Ausley,53,,,
+Madison,5,State Senate,3,DEM,Loranne Ausley,336,89,191,56
+Madison,6,State Senate,3,DEM,Loranne Ausley,38,,,
+Madison,7,State Senate,3,DEM,Loranne Ausley,188,82,52,54
+Madison,1,Justice of the Supreme Court-Canady,"","",Yes,737,372,261,104
+Madison,8,Justice of the Supreme Court-Canady,"","",Yes,487,259,190,38
+Madison,9,Justice of the Supreme Court-Canady,"","",Yes,95,,,
+Madison,10,Justice of the Supreme Court-Canady,"","",Yes,495,203,200,92
+Madison,11,Justice of the Supreme Court-Canady,"","",Yes,283,130,122,31
+Madison,2,Justice of the Supreme Court-Canady,"","",Yes,96,,,
+Madison,3,Justice of the Supreme Court-Canady,"","",Yes,935,447,396,92
+Madison,4,Justice of the Supreme Court-Canady,"","",Yes,161,,,
+Madison,5,Justice of the Supreme Court-Canady,"","",Yes,377,107,221,49
+Madison,6,Justice of the Supreme Court-Canady,"","",Yes,129,,,
+Madison,7,Justice of the Supreme Court-Canady,"","",Yes,507,250,191,66
+Madison,1,Justice of the Supreme Court-Canady,"","",No,413,190,158,65
+Madison,8,Justice of the Supreme Court-Canady,"","",No,175,,,
+Madison,9,Justice of the Supreme Court-Canady,"","",No,55,,,
+Madison,10,Justice of the Supreme Court-Canady,"","",No,253,112,79,62
+Madison,11,Justice of the Supreme Court-Canady,"","",No,236,103,100,33
+Madison,2,Justice of the Supreme Court-Canady,"","",No,75,,,
+Madison,3,Justice of the Supreme Court-Canady,"","",No,402,178,165,59
+Madison,4,Justice of the Supreme Court-Canady,"","",No,78,,,
+Madison,5,Justice of the Supreme Court-Canady,"","",No,209,62,110,37
+Madison,6,Justice of the Supreme Court-Canady,"","",No,74,,,
+Madison,7,Justice of the Supreme Court-Canady,"","",No,225,114,64,47
+Madison,1,Justice of the Supreme Court-Couriel,"","",Yes,745,381,257,107
+Madison,8,Justice of the Supreme Court-Couriel,"","",Yes,472,251,185,36
+Madison,9,Justice of the Supreme Court-Couriel,"","",Yes,101,,,
+Madison,10,Justice of the Supreme Court-Couriel,"","",Yes,479,196,190,93
+Madison,11,Justice of the Supreme Court-Couriel,"","",Yes,265,,,
+Madison,2,Justice of the Supreme Court-Couriel,"","",Yes,94,,,
+Madison,3,Justice of the Supreme Court-Couriel,"","",Yes,946,452,400,94
+Madison,4,Justice of the Supreme Court-Couriel,"","",Yes,183,,,
+Madison,5,Justice of the Supreme Court-Couriel,"","",Yes,370,100,221,49
+Madison,6,Justice of the Supreme Court-Couriel,"","",Yes,130,,,
+Madison,7,Justice of the Supreme Court-Couriel,"","",Yes,511,253,186,72
+Madison,1,Justice of the Supreme Court-Couriel,"","",No,401,177,162,62
+Madison,8,Justice of the Supreme Court-Couriel,"","",No,184,,,
+Madison,9,Justice of the Supreme Court-Couriel,"","",No,46,,,
+Madison,10,Justice of the Supreme Court-Couriel,"","",No,262,117,87,58
+Madison,11,Justice of the Supreme Court-Couriel,"","",No,246,106,104,36
+Madison,2,Justice of the Supreme Court-Couriel,"","",No,76,,,
+Madison,3,Justice of the Supreme Court-Couriel,"","",No,377,167,153,57
+Madison,4,Justice of the Supreme Court-Couriel,"","",No,53,,,
+Madison,5,Justice of the Supreme Court-Couriel,"","",No,208,66,107,35
+Madison,6,Justice of the Supreme Court-Couriel,"","",No,76,,,
+Madison,7,Justice of the Supreme Court-Couriel,"","",No,213,106,66,41
+Madison,1,Justice of the Supreme Court-Grosshans,"","",Yes,755,387,263,105
+Madison,8,Justice of the Supreme Court-Grosshans,"","",Yes,465,250,179,36
+Madison,9,Justice of the Supreme Court-Grosshans,"","",Yes,95,,,
+Madison,10,Justice of the Supreme Court-Grosshans,"","",Yes,493,206,198,89
+Madison,11,Justice of the Supreme Court-Grosshans,"","",Yes,285,,,
+Madison,2,Justice of the Supreme Court-Grosshans,"","",Yes,97,,,
+Madison,3,Justice of the Supreme Court-Grosshans,"","",Yes,941,452,397,92
+Madison,4,Justice of the Supreme Court-Grosshans,"","",Yes,178,,,
+Madison,5,Justice of the Supreme Court-Grosshans,"","",Yes,358,103,206,49
+Madison,6,Justice of the Supreme Court-Grosshans,"","",Yes,126,,,
+Madison,7,Justice of the Supreme Court-Grosshans,"","",Yes,506,252,185,69
+Madison,1,Justice of the Supreme Court-Grosshans,"","",No,386,168,155,63
+Madison,8,Justice of the Supreme Court-Grosshans,"","",No,194,,,
+Madison,9,Justice of the Supreme Court-Grosshans,"","",No,53,,,
+Madison,10,Justice of the Supreme Court-Grosshans,"","",No,241,103,78,60
+Madison,11,Justice of the Supreme Court-Grosshans,"","",No,228,100,93,35
+Madison,2,Justice of the Supreme Court-Grosshans,"","",No,71,,,
+Madison,3,Justice of the Supreme Court-Grosshans,"","",No,384,166,160,58
+Madison,4,Justice of the Supreme Court-Grosshans,"","",No,61,,,
+Madison,5,Justice of the Supreme Court-Grosshans,"","",No,227,66,124,37
+Madison,6,Justice of the Supreme Court-Grosshans,"","",No,79,,,
+Madison,7,Justice of the Supreme Court-Grosshans,"","",No,220,107,69,44
+Madison,1,Justice of the Supreme Court-Labarga,"","",Yes,515,234,199,82
+Madison,8,Justice of the Supreme Court-Labarga,"","",Yes,300,130,130,40
+Madison,9,Justice of the Supreme Court-Labarga,"","",Yes,68,,,
+Madison,10,Justice of the Supreme Court-Labarga,"","",Yes,392,152,149,91
+Madison,11,Justice of the Supreme Court-Labarga,"","",Yes,206,82,93,31
+Madison,2,Justice of the Supreme Court-Labarga,"","",Yes,80,,,
+Madison,3,Justice of the Supreme Court-Labarga,"","",Yes,548,250,226,72
+Madison,4,Justice of the Supreme Court-Labarga,"","",Yes,104,,,
+Madison,5,Justice of the Supreme Court-Labarga,"","",Yes,300,79,176,45
+Madison,6,Justice of the Supreme Court-Labarga,"","",Yes,92,,,
+Madison,7,Justice of the Supreme Court-Labarga,"","",Yes,316,130,128,58
+Madison,1,Justice of the Supreme Court-Labarga,"","",No,632,329,216,87
+Madison,8,Justice of the Supreme Court-Labarga,"","",No,356,,,
+Madison,9,Justice of the Supreme Court-Labarga,"","",No,81,,,
+Madison,10,Justice of the Supreme Court-Labarga,"","",No,347,159,127,61
+Madison,11,Justice of the Supreme Court-Labarga,"","",No,308,150,125,33
+Madison,2,Justice of the Supreme Court-Labarga,"","",No,91,,,
+Madison,3,Justice of the Supreme Court-Labarga,"","",No,770,366,327,77
+Madison,4,Justice of the Supreme Court-Labarga,"","",No,132,,,
+Madison,5,Justice of the Supreme Court-Labarga,"","",No,276,86,149,41
+Madison,6,Justice of the Supreme Court-Labarga,"","",No,110,,,
+Madison,7,Justice of the Supreme Court-Labarga,"","",No,412,231,125,56
+Madison,1,Justice of the Supreme Court-Polston,"","",Yes,725,365,256,104
+Madison,8,Justice of the Supreme Court-Polston,"","",Yes,465,238,184,43
+Madison,9,Justice of the Supreme Court-Polston,"","",Yes,94,,,
+Madison,10,Justice of the Supreme Court-Polston,"","",Yes,478,203,187,88
+Madison,11,Justice of the Supreme Court-Polston,"","",Yes,266,,,
+Madison,2,Justice of the Supreme Court-Polston,"","",Yes,99,,,
+Madison,3,Justice of the Supreme Court-Polston,"","",Yes,895,424,376,95
+Madison,4,Justice of the Supreme Court-Polston,"","",Yes,157,,,
+Madison,5,Justice of the Supreme Court-Polston,"","",Yes,345,95,206,44
+Madison,6,Justice of the Supreme Court-Polston,"","",Yes,124,,,
+Madison,7,Justice of the Supreme Court-Polston,"","",Yes,487,240,181,66
+Madison,1,Justice of the Supreme Court-Polston,"","",No,420,192,164,64
+Madison,8,Justice of the Supreme Court-Polston,"","",No,191,,,
+Madison,9,Justice of the Supreme Court-Polston,"","",No,56,,,
+Madison,10,Justice of the Supreme Court-Polston,"","",No,261,109,89,63
+Madison,11,Justice of the Supreme Court-Polston,"","",No,245,110,100,35
+Madison,2,Justice of the Supreme Court-Polston,"","",No,74,,,
+Madison,3,Justice of the Supreme Court-Polston,"","",No,425,193,179,53
+Madison,4,Justice of the Supreme Court-Polston,"","",No,81,,,
+Madison,5,Justice of the Supreme Court-Polston,"","",No,228,68,119,41
+Madison,6,Justice of the Supreme Court-Polston,"","",No,79,,,
+Madison,7,Justice of the Supreme Court-Polston,"","",No,235,115,72,48
+Madison,1,First District Court of Appeal-Bilbrey,"","",Yes,736,366,266,104
+Madison,8,First District Court of Appeal-Bilbrey,"","",Yes,466,248,180,38
+Madison,9,First District Court of Appeal-Bilbrey,"","",Yes,96,,,
+Madison,10,First District Court of Appeal-Bilbrey,"","",Yes,491,200,197,94
+Madison,11,First District Court of Appeal-Bilbrey,"","",Yes,279,,,
+Madison,2,First District Court of Appeal-Bilbrey,"","",Yes,97,,,
+Madison,3,First District Court of Appeal-Bilbrey,"","",Yes,889,427,371,91
+Madison,4,First District Court of Appeal-Bilbrey,"","",Yes,170,,,
+Madison,5,First District Court of Appeal-Bilbrey,"","",Yes,366,101,213,52
+Madison,6,First District Court of Appeal-Bilbrey,"","",Yes,125,,,
+Madison,7,First District Court of Appeal-Bilbrey,"","",Yes,502,245,188,69
+Madison,1,First District Court of Appeal-Bilbrey,"","",No,409,190,153,66
+Madison,8,First District Court of Appeal-Bilbrey,"","",No,194,,,
+Madison,9,First District Court of Appeal-Bilbrey,"","",No,48,,,
+Madison,10,First District Court of Appeal-Bilbrey,"","",No,252,113,81,58
+Madison,11,First District Court of Appeal-Bilbrey,"","",No,237,104,94,39
+Madison,2,First District Court of Appeal-Bilbrey,"","",No,75,,,
+Madison,3,First District Court of Appeal-Bilbrey,"","",No,437,192,185,60
+Madison,4,First District Court of Appeal-Bilbrey,"","",No,68,,,
+Madison,5,First District Court of Appeal-Bilbrey,"","",No,214,67,114,33
+Madison,6,First District Court of Appeal-Bilbrey,"","",No,79,,,
+Madison,7,First District Court of Appeal-Bilbrey,"","",No,224,114,65,45
+Madison,1,First District Court of Appeal-Kelsey,"","",Yes,752,373,268,111
+Madison,8,First District Court of Appeal-Kelsey,"","",Yes,470,249,180,41
+Madison,9,First District Court of Appeal-Kelsey,"","",Yes,101,,,
+Madison,10,First District Court of Appeal-Kelsey,"","",Yes,488,200,192,96
+Madison,11,First District Court of Appeal-Kelsey,"","",Yes,289,131,127,31
+Madison,2,First District Court of Appeal-Kelsey,"","",Yes,107,42,33,32
+Madison,3,First District Court of Appeal-Kelsey,"","",Yes,922,443,384,95
+Madison,4,First District Court of Appeal-Kelsey,"","",Yes,168,,,
+Madison,5,First District Court of Appeal-Kelsey,"","",Yes,365,105,212,48
+Madison,6,First District Court of Appeal-Kelsey,"","",Yes,127,,,
+Madison,7,First District Court of Appeal-Kelsey,"","",Yes,508,244,186,78
+Madison,1,First District Court of Appeal-Kelsey,"","",No,388,178,151,59
+Madison,8,First District Court of Appeal-Kelsey,"","",No,189,,,
+Madison,9,First District Court of Appeal-Kelsey,"","",No,46,,,
+Madison,10,First District Court of Appeal-Kelsey,"","",No,255,113,84,58
+Madison,11,First District Court of Appeal-Kelsey,"","",No,227,100,92,35
+Madison,2,First District Court of Appeal-Kelsey,"","",No,64,,,
+Madison,3,First District Court of Appeal-Kelsey,"","",No,399,176,167,56
+Madison,4,First District Court of Appeal-Kelsey,"","",No,73,,,
+Madison,5,First District Court of Appeal-Kelsey,"","",No,215,64,114,37
+Madison,6,First District Court of Appeal-Kelsey,"","",No,78,,,
+Madison,7,First District Court of Appeal-Kelsey,"","",No,219,115,68,36
+Madison,1,First District Court of Appeal-Long,"","",Yes,726,369,255,102
+Madison,8,First District Court of Appeal-Long,"","",Yes,466,251,180,35
+Madison,9,First District Court of Appeal-Long,"","",Yes,102,,,
+Madison,10,First District Court of Appeal-Long,"","",Yes,502,203,203,96
+Madison,11,First District Court of Appeal-Long,"","",Yes,265,,,
+Madison,2,First District Court of Appeal-Long,"","",Yes,104,40,34,30
+Madison,3,First District Court of Appeal-Long,"","",Yes,940,454,393,93
+Madison,4,First District Court of Appeal-Long,"","",Yes,180,,,
+Madison,5,First District Court of Appeal-Long,"","",Yes,370,105,215,50
+Madison,6,First District Court of Appeal-Long,"","",Yes,127,,,
+Madison,7,First District Court of Appeal-Long,"","",Yes,507,252,182,73
+Madison,1,First District Court of Appeal-Long,"","",No,417,190,160,67
+Madison,8,First District Court of Appeal-Long,"","",No,194,,,
+Madison,9,First District Court of Appeal-Long,"","",No,44,,,
+Madison,10,First District Court of Appeal-Long,"","",No,241,111,75,55
+Madison,11,First District Court of Appeal-Long,"","",No,248,110,101,37
+Madison,2,First District Court of Appeal-Long,"","",No,67,,,
+Madison,3,First District Court of Appeal-Long,"","",No,377,165,156,56
+Madison,4,First District Court of Appeal-Long,"","",No,59,,,
+Madison,5,First District Court of Appeal-Long,"","",No,208,63,110,35
+Madison,6,First District Court of Appeal-Long,"","",No,75,,,
+Madison,7,First District Court of Appeal-Long,"","",No,218,107,72,39
+Madison,1,First District Court of Appeal-Rowe,"","",Yes,750,377,262,111
+Madison,8,First District Court of Appeal-Rowe,"","",Yes,465,244,182,39
+Madison,9,First District Court of Appeal-Rowe,"","",Yes,99,,,
+Madison,10,First District Court of Appeal-Rowe,"","",Yes,482,195,198,89
+Madison,11,First District Court of Appeal-Rowe,"","",Yes,282,,,
+Madison,2,First District Court of Appeal-Rowe,"","",Yes,106,40,34,32
+Madison,3,First District Court of Appeal-Rowe,"","",Yes,889,422,377,90
+Madison,4,First District Court of Appeal-Rowe,"","",Yes,155,,,
+Madison,5,First District Court of Appeal-Rowe,"","",Yes,371,103,212,56
+Madison,6,First District Court of Appeal-Rowe,"","",Yes,126,,,
+Madison,7,First District Court of Appeal-Rowe,"","",Yes,482,233,181,68
+Madison,1,First District Court of Appeal-Rowe,"","",No,389,178,151,60
+Madison,8,First District Court of Appeal-Rowe,"","",No,191,,,
+Madison,9,First District Court of Appeal-Rowe,"","",No,47,,,
+Madison,10,First District Court of Appeal-Rowe,"","",No,252,114,78,60
+Madison,11,First District Court of Appeal-Rowe,"","",No,225,104,88,33
+Madison,2,First District Court of Appeal-Rowe,"","",No,65,,,
+Madison,3,First District Court of Appeal-Rowe,"","",No,418,192,167,59
+Madison,4,First District Court of Appeal-Rowe,"","",No,83,,,
+Madison,5,First District Court of Appeal-Rowe,"","",No,202,,,
+Madison,6,First District Court of Appeal-Rowe,"","",No,77,,,
+Madison,7,First District Court of Appeal-Rowe,"","",No,238,122,72,44
+Madison,1,First District Court of Appeal-Winokur,"","",Yes,696,351,244,101
+Madison,8,First District Court of Appeal-Winokur,"","",Yes,469,249,182,38
+Madison,9,First District Court of Appeal-Winokur,"","",Yes,97,,,
+Madison,10,First District Court of Appeal-Winokur,"","",Yes,467,183,193,91
+Madison,11,First District Court of Appeal-Winokur,"","",Yes,255,,,
+Madison,2,First District Court of Appeal-Winokur,"","",Yes,99,,,
+Madison,3,First District Court of Appeal-Winokur,"","",Yes,897,427,378,92
+Madison,4,First District Court of Appeal-Winokur,"","",Yes,170,,,
+Madison,5,First District Court of Appeal-Winokur,"","",Yes,359,104,207,48
+Madison,6,First District Court of Appeal-Winokur,"","",Yes,117,,,
+Madison,7,First District Court of Appeal-Winokur,"","",Yes,479,229,181,69
+Madison,1,First District Court of Appeal-Winokur,"","",No,440,206,168,66
+Madison,8,First District Court of Appeal-Winokur,"","",No,190,,,
+Madison,9,First District Court of Appeal-Winokur,"","",No,48,,,
+Madison,10,First District Court of Appeal-Winokur,"","",No,267,127,80,60
+Madison,11,First District Court of Appeal-Winokur,"","",No,250,107,105,38
+Madison,2,First District Court of Appeal-Winokur,"","",No,72,,,
+Madison,3,First District Court of Appeal-Winokur,"","",No,414,187,170,57
+Madison,4,First District Court of Appeal-Winokur,"","",No,69,,,
+Madison,5,First District Court of Appeal-Winokur,"","",No,211,62,116,33
+Madison,6,First District Court of Appeal-Winokur,"","",No,85,,,
+Madison,7,First District Court of Appeal-Winokur,"","",No,239,125,69,45
+Madison,1,School Board,1,NOP,Katie Knight,657,351,212,94
+Madison,1,School Board,1,NOP,"Marvin ""Merv"" Mattair",543,229,229,85
+Madison,11,School Board,5,NOP,Donnell L. Davis,312,121,146,45
+Madison,3,School Board,5,NOP,Donnell L. Davis,324,145,129,50
+Madison,11,School Board,5,NOP,Devin K. Thompson,206,,,
+Madison,3,School Board,5,NOP,Devin K. Thompson,992,476,411,105
+Madison,1,No. 1 Constitutional Amendment,"","",Yes,549,245,213,91
+Madison,8,No. 1 Constitutional Amendment,"","",Yes,329,163,133,33
+Madison,9,No. 1 Constitutional Amendment,"","",Yes,81,,,
+Madison,10,No. 1 Constitutional Amendment,"","",Yes,352,135,148,69
+Madison,11,No. 1 Constitutional Amendment,"","",Yes,257,118,109,30
+Madison,2,No. 1 Constitutional Amendment,"","",Yes,84,,,
+Madison,3,No. 1 Constitutional Amendment,"","",Yes,698,296,316,86
+Madison,4,No. 1 Constitutional Amendment,"","",Yes,120,,,
+Madison,5,No. 1 Constitutional Amendment,"","",Yes,291,77,167,47
+Madison,6,No. 1 Constitutional Amendment,"","",Yes,97,,,
+Madison,7,No. 1 Constitutional Amendment,"","",Yes,335,148,122,65
+Madison,1,No. 1 Constitutional Amendment,"","",No,623,329,209,85
+Madison,8,No. 1 Constitutional Amendment,"","",No,347,179,137,31
+Madison,9,No. 1 Constitutional Amendment,"","",No,77,,,
+Madison,10,No. 1 Constitutional Amendment,"","",No,400,184,134,82
+Madison,11,No. 1 Constitutional Amendment,"","",No,249,103,109,37
+Madison,2,No. 1 Constitutional Amendment,"","",No,91,,,
+Madison,3,No. 1 Constitutional Amendment,"","",No,665,341,249,75
+Madison,4,No. 1 Constitutional Amendment,"","",No,124,,,
+Madison,5,No. 1 Constitutional Amendment,"","",No,297,93,162,42
+Madison,6,No. 1 Constitutional Amendment,"","",No,109,,,
+Madison,7,No. 1 Constitutional Amendment,"","",No,421,229,134,58
+Madison,1,No. 2 Constitutional Amendment,"","",Yes,526,246,183,97
+Madison,8,No. 2 Constitutional Amendment,"","",Yes,340,167,133,40
+Madison,9,No. 2 Constitutional Amendment,"","",Yes,86,,,
+Madison,10,No. 2 Constitutional Amendment,"","",Yes,338,144,131,63
+Madison,11,No. 2 Constitutional Amendment,"","",Yes,230,,,
+Madison,2,No. 2 Constitutional Amendment,"","",Yes,78,,,
+Madison,3,No. 2 Constitutional Amendment,"","",Yes,694,299,303,92
+Madison,4,No. 2 Constitutional Amendment,"","",Yes,115,,,
+Madison,5,No. 2 Constitutional Amendment,"","",Yes,268,73,157,38
+Madison,6,No. 2 Constitutional Amendment,"","",Yes,98,,,
+Madison,7,No. 2 Constitutional Amendment,"","",Yes,334,141,134,59
+Madison,1,No. 2 Constitutional Amendment,"","",No,635,317,241,77
+Madison,8,No. 2 Constitutional Amendment,"","",No,323,,,
+Madison,9,No. 2 Constitutional Amendment,"","",No,66,,,
+Madison,10,No. 2 Constitutional Amendment,"","",No,395,172,141,82
+Madison,11,No. 2 Constitutional Amendment,"","",No,265,121,109,35
+Madison,2,No. 2 Constitutional Amendment,"","",No,93,,,
+Madison,3,No. 2 Constitutional Amendment,"","",No,639,325,250,64
+Madison,4,No. 2 Constitutional Amendment,"","",No,125,,,
+Madison,5,No. 2 Constitutional Amendment,"","",No,310,97,165,48
+Madison,6,No. 2 Constitutional Amendment,"","",No,105,,,
+Madison,7,No. 2 Constitutional Amendment,"","",No,408,234,112,62
+Madison,1,No. 3 Constitutional Amendment,"","",Yes,619,255,274,90
+Madison,8,No. 3 Constitutional Amendment,"","",Yes,346,152,157,37
+Madison,9,No. 3 Constitutional Amendment,"","",Yes,83,,,
+Madison,10,No. 3 Constitutional Amendment,"","",Yes,415,168,180,67
+Madison,11,No. 3 Constitutional Amendment,"","",Yes,263,,,
+Madison,2,No. 3 Constitutional Amendment,"","",Yes,85,,,
+Madison,3,No. 3 Constitutional Amendment,"","",Yes,701,325,301,75
+Madison,4,No. 3 Constitutional Amendment,"","",Yes,120,,,
+Madison,5,No. 3 Constitutional Amendment,"","",Yes,343,98,200,45
+Madison,6,No. 3 Constitutional Amendment,"","",Yes,91,,,
+Madison,7,No. 3 Constitutional Amendment,"","",Yes,353,160,139,54
+Madison,1,No. 3 Constitutional Amendment,"","",No,569,320,156,93
+Madison,8,No. 3 Constitutional Amendment,"","",No,333,,,
+Madison,9,No. 3 Constitutional Amendment,"","",No,75,,,
+Madison,10,No. 3 Constitutional Amendment,"","",No,332,152,102,78
+Madison,11,No. 3 Constitutional Amendment,"","",No,248,116,95,37
+Madison,2,No. 3 Constitutional Amendment,"","",No,92,,,
+Madison,3,No. 3 Constitutional Amendment,"","",No,668,317,261,90
+Madison,4,No. 3 Constitutional Amendment,"","",No,126,,,
+Madison,5,No. 3 Constitutional Amendment,"","",No,249,75,129,45
+Madison,6,No. 3 Constitutional Amendment,"","",No,115,,,
+Madison,7,No. 3 Constitutional Amendment,"","",No,406,219,116,71
+Madison,5,Town of Greenville Charter,"","",Yes,85,,,
+Madison,5,Town of Greenville Charter,"","",No,145,,,
