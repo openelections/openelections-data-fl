@@ -297,6 +297,9 @@ parsefile <- function(county, state, cfile){
                 }
             }
         }
+        else{
+            xx <- xx[1:7] # include county,precinct,office,district,party,candidate,votes
+        }
         # fix missing precincts if surrounded by same precinct - Austin County
         ipna <- which(is.na(xx$precinct))
         lpna <- length(ipna)
