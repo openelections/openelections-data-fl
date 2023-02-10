@@ -1,664 +1,664 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional,mail,absentee,limited
-Levy,01 Levy County Ag Extension Office,U.S. Senate,"",REP,Marco Rubio,924,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. Senate,"",REP,Marco Rubio,1385,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",REP,Marco Rubio,1465,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. Senate,"",REP,Marco Rubio,643,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. Senate,"",REP,Marco Rubio,1813,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. Senate,"",REP,Marco Rubio,289,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. Senate,"",REP,Marco Rubio,1025,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. Senate,"",REP,Marco Rubio,1694,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. Senate,"",REP,Marco Rubio,1382,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. Senate,"",REP,Marco Rubio,583,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",REP,Marco Rubio,579,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. Senate,"",REP,Marco Rubio,980,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. Senate,"",REP,Marco Rubio,928,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. Senate,"",DEM,Val Demings,309,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. Senate,"",DEM,Val Demings,412,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",DEM,Val Demings,485,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. Senate,"",DEM,Val Demings,272,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. Senate,"",DEM,Val Demings,321,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. Senate,"",DEM,Val Demings,45,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. Senate,"",DEM,Val Demings,604,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. Senate,"",DEM,Val Demings,370,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. Senate,"",DEM,Val Demings,336,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. Senate,"",DEM,Val Demings,90,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",DEM,Val Demings,235,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. Senate,"",DEM,Val Demings,184,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. Senate,"",DEM,Val Demings,281,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. Senate,"",LPF,Dennis Misigoy,11,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. Senate,"",LPF,Dennis Misigoy,9,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",LPF,Dennis Misigoy,12,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. Senate,"",LPF,Dennis Misigoy,1,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. Senate,"",LPF,Dennis Misigoy,2,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. Senate,"",LPF,Dennis Misigoy,1,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. Senate,"",LPF,Dennis Misigoy,6,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. Senate,"",LPF,Dennis Misigoy,9,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. Senate,"",LPF,Dennis Misigoy,9,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. Senate,"",LPF,Dennis Misigoy,2,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",LPF,Dennis Misigoy,4,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. Senate,"",LPF,Dennis Misigoy,3,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. Senate,"",LPF,Dennis Misigoy,1,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. Senate,"",NPA,Steven B. Grant,8,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. Senate,"",NPA,Steven B. Grant,15,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",NPA,Steven B. Grant,7,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. Senate,"",NPA,Steven B. Grant,6,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. Senate,"",NPA,Steven B. Grant,9,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. Senate,"",NPA,Steven B. Grant,13,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. Senate,"",NPA,Steven B. Grant,12,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. Senate,"",NPA,Steven B. Grant,10,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. Senate,"",NPA,Steven B. Grant,4,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",NPA,Steven B. Grant,5,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. Senate,"",NPA,Steven B. Grant,11,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. Senate,"",NPA,Steven B. Grant,16,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. Senate,"",NPA,Tuan TQ Nguyen,7,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. Senate,"",NPA,Tuan TQ Nguyen,5,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",NPA,Tuan TQ Nguyen,7,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. Senate,"",NPA,Tuan TQ Nguyen,4,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,4,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,5,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. Senate,"","",Write-in,1,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. Senate,"","",Write-in,1,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. Senate,"","",Write-in,3,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. Senate,"","",Write-in,1,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. Senate,"","",Write-in,0,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. Senate,"","",Write-in,4,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. House,3,REP,Kat Cammack,930,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. House,3,REP,Kat Cammack,1370,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. House,3,REP,Kat Cammack,1450,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. House,3,REP,Kat Cammack,638,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. House,3,REP,Kat Cammack,1809,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. House,3,REP,Kat Cammack,291,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. House,3,REP,Kat Cammack,1029,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. House,3,REP,Kat Cammack,1685,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. House,3,REP,Kat Cammack,1380,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. House,3,REP,Kat Cammack,590,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. House,3,REP,Kat Cammack,572,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. House,3,REP,Kat Cammack,981,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. House,3,REP,Kat Cammack,923,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. House,3,DEM,Danielle Hawk,309,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. House,3,DEM,Danielle Hawk,420,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. House,3,DEM,Danielle Hawk,496,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. House,3,DEM,Danielle Hawk,266,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. House,3,DEM,Danielle Hawk,314,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. House,3,DEM,Danielle Hawk,42,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. House,3,DEM,Danielle Hawk,596,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. House,3,DEM,Danielle Hawk,367,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. House,3,DEM,Danielle Hawk,328,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. House,3,DEM,Danielle Hawk,88,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. House,3,DEM,Danielle Hawk,239,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. House,3,DEM,Danielle Hawk,183,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. House,3,DEM,Danielle Hawk,287,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,U.S. House,3,NPA,Linda Brooks,19,0,0,0,0,0,0
-Levy,02 Williston Highlands,U.S. House,3,NPA,Linda Brooks,30,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,U.S. House,3,NPA,Linda Brooks,27,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,U.S. House,3,NPA,Linda Brooks,17,0,0,0,0,0,0
-Levy,05 Willow Sink,U.S. House,3,NPA,Linda Brooks,20,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,U.S. House,3,NPA,Linda Brooks,1,0,0,0,0,0,0
-Levy,07 Williston City Hall,U.S. House,3,NPA,Linda Brooks,25,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,U.S. House,3,NPA,Linda Brooks,28,0,0,0,0,0,0
-Levy,09 Inglis Community Center,U.S. House,3,NPA,Linda Brooks,30,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,U.S. House,3,NPA,Linda Brooks,1,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,U.S. House,3,NPA,Linda Brooks,9,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,U.S. House,3,NPA,Linda Brooks,16,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,U.S. House,3,NPA,Linda Brooks,24,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",REP,Desantis/Nuñez,956,0,0,0,0,0,0
-Levy,02 Williston Highlands,Governor/Lt Governor,"",REP,Desantis/Nuñez,1428,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",REP,Desantis/Nuñez,1503,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",REP,Desantis/Nuñez,667,0,0,0,0,0,0
-Levy,05 Willow Sink,Governor/Lt Governor,"",REP,Desantis/Nuñez,1855,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",REP,Desantis/Nuñez,294,0,0,0,0,0,0
-Levy,07 Williston City Hall,Governor/Lt Governor,"",REP,Desantis/Nuñez,1067,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",REP,Desantis/Nuñez,1723,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Governor/Lt Governor,"",REP,Desantis/Nuñez,1401,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",REP,Desantis/Nuñez,594,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",REP,Desantis/Nuñez,587,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",REP,Desantis/Nuñez,1005,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Governor/Lt Governor,"",REP,Desantis/Nuñez,969,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",DEM,Crist/Hernandez,293,0,0,0,0,0,0
-Levy,02 Williston Highlands,Governor/Lt Governor,"",DEM,Crist/Hernandez,391,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",DEM,Crist/Hernandez,461,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",DEM,Crist/Hernandez,257,0,0,0,0,0,0
-Levy,05 Willow Sink,Governor/Lt Governor,"",DEM,Crist/Hernandez,294,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",DEM,Crist/Hernandez,40,0,0,0,0,0,0
-Levy,07 Williston City Hall,Governor/Lt Governor,"",DEM,Crist/Hernandez,575,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",DEM,Crist/Hernandez,358,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Governor/Lt Governor,"",DEM,Crist/Hernandez,332,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",DEM,Crist/Hernandez,85,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",DEM,Crist/Hernandez,229,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",DEM,Crist/Hernandez,177,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Governor/Lt Governor,"",DEM,Crist/Hernandez,266,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,4,0,0,0,0,0,0
-Levy,02 Williston Highlands,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,4,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,7,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2,0,0,0,0,0,0
-Levy,05 Willow Sink,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,3,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,1,0,0,0,0,0,0
-Levy,07 Williston City Hall,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,1,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,7,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,1,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,4,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",NPA,Gimenez/Gibson,8,0,0,0,0,0,0
-Levy,02 Williston Highlands,Governor/Lt Governor,"",NPA,Gimenez/Gibson,7,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",NPA,Gimenez/Gibson,8,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",NPA,Gimenez/Gibson,3,0,0,0,0,0,0
-Levy,05 Willow Sink,Governor/Lt Governor,"",NPA,Gimenez/Gibson,3,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",NPA,Gimenez/Gibson,0,0,0,0,0,0,0
-Levy,07 Williston City Hall,Governor/Lt Governor,"",NPA,Gimenez/Gibson,8,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",NPA,Gimenez/Gibson,11,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Governor/Lt Governor,"",NPA,Gimenez/Gibson,7,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",NPA,Gimenez/Gibson,0,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",NPA,Gimenez/Gibson,4,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",NPA,Gimenez/Gibson,1,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Governor/Lt Governor,"",NPA,Gimenez/Gibson,7,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Attorney General,"",REP,Ashley Moody,953,0,0,0,0,0,0
-Levy,02 Williston Highlands,Attorney General,"",REP,Ashley Moody,1431,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Attorney General,"",REP,Ashley Moody,1500,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Attorney General,"",REP,Ashley Moody,671,0,0,0,0,0,0
-Levy,05 Willow Sink,Attorney General,"",REP,Ashley Moody,1857,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Attorney General,"",REP,Ashley Moody,290,0,0,0,0,0,0
-Levy,07 Williston City Hall,Attorney General,"",REP,Ashley Moody,1074,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Attorney General,"",REP,Ashley Moody,1731,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Attorney General,"",REP,Ashley Moody,1412,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Attorney General,"",REP,Ashley Moody,596,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Attorney General,"",REP,Ashley Moody,592,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Attorney General,"",REP,Ashley Moody,1005,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Attorney General,"",REP,Ashley Moody,967,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Attorney General,"",DEM,Aramis Ayala,298,0,0,0,0,0,0
-Levy,02 Williston Highlands,Attorney General,"",DEM,Aramis Ayala,388,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Attorney General,"",DEM,Aramis Ayala,471,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Attorney General,"",DEM,Aramis Ayala,253,0,0,0,0,0,0
-Levy,05 Willow Sink,Attorney General,"",DEM,Aramis Ayala,284,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Attorney General,"",DEM,Aramis Ayala,42,0,0,0,0,0,0
-Levy,07 Williston City Hall,Attorney General,"",DEM,Aramis Ayala,569,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Attorney General,"",DEM,Aramis Ayala,350,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Attorney General,"",DEM,Aramis Ayala,327,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Attorney General,"",DEM,Aramis Ayala,81,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Attorney General,"",DEM,Aramis Ayala,228,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Attorney General,"",DEM,Aramis Ayala,174,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Attorney General,"",DEM,Aramis Ayala,270,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Chief Financial Officer,"",REP,Jimmy Patronis,935,0,0,0,0,0,0
-Levy,02 Williston Highlands,Chief Financial Officer,"",REP,Jimmy Patronis,1383,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Chief Financial Officer,"",REP,Jimmy Patronis,1473,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,652,0,0,0,0,0,0
-Levy,05 Willow Sink,Chief Financial Officer,"",REP,Jimmy Patronis,1816,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Chief Financial Officer,"",REP,Jimmy Patronis,284,0,0,0,0,0,0
-Levy,07 Williston City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,1032,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Chief Financial Officer,"",REP,Jimmy Patronis,1703,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,1381,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Chief Financial Officer,"",REP,Jimmy Patronis,580,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Chief Financial Officer,"",REP,Jimmy Patronis,578,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,983,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Chief Financial Officer,"",REP,Jimmy Patronis,938,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Chief Financial Officer,"",DEM,Adam Hattersley,309,0,0,0,0,0,0
-Levy,02 Williston Highlands,Chief Financial Officer,"",DEM,Adam Hattersley,425,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Chief Financial Officer,"",DEM,Adam Hattersley,485,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,258,0,0,0,0,0,0
-Levy,05 Willow Sink,Chief Financial Officer,"",DEM,Adam Hattersley,307,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Chief Financial Officer,"",DEM,Adam Hattersley,44,0,0,0,0,0,0
-Levy,07 Williston City Hall,Chief Financial Officer,"",DEM,Adam Hattersley,588,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Chief Financial Officer,"",DEM,Adam Hattersley,369,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,345,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Chief Financial Officer,"",DEM,Adam Hattersley,91,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Chief Financial Officer,"",DEM,Adam Hattersley,234,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Chief Financial Officer,"",DEM,Adam Hattersley,187,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Chief Financial Officer,"",DEM,Adam Hattersley,284,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Commissioner of Agriculture,"",REP,Wilton Simpson,950,0,0,0,0,0,0
-Levy,02 Williston Highlands,Commissioner of Agriculture,"",REP,Wilton Simpson,1401,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Commissioner of Agriculture,"",REP,Wilton Simpson,1470,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,657,0,0,0,0,0,0
-Levy,05 Willow Sink,Commissioner of Agriculture,"",REP,Wilton Simpson,1828,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Commissioner of Agriculture,"",REP,Wilton Simpson,291,0,0,0,0,0,0
-Levy,07 Williston City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,1044,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,1713,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,1401,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,597,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Commissioner of Agriculture,"",REP,Wilton Simpson,580,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,990,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Commissioner of Agriculture,"",REP,Wilton Simpson,942,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,300,0,0,0,0,0,0
-Levy,02 Williston Highlands,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,411,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,489,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,257,0,0,0,0,0,0
-Levy,05 Willow Sink,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,310,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41,0,0,0,0,0,0
-Levy,07 Williston City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,597,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,363,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,330,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,81,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,235,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,182,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,286,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,State Senate,9,REP,Keith Perry,945,0,0,0,0,0,0
-Levy,02 Williston Highlands,State Senate,9,REP,Keith Perry,1402,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,State Senate,9,REP,Keith Perry,1458,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,State Senate,9,REP,Keith Perry,648,0,0,0,0,0,0
-Levy,05 Willow Sink,State Senate,9,REP,Keith Perry,1820,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,State Senate,9,REP,Keith Perry,287,0,0,0,0,0,0
-Levy,07 Williston City Hall,State Senate,9,REP,Keith Perry,1050,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,State Senate,9,REP,Keith Perry,1709,0,0,0,0,0,0
-Levy,09 Inglis Community Center,State Senate,9,REP,Keith Perry,1389,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,State Senate,9,REP,Keith Perry,589,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,State Senate,9,REP,Keith Perry,582,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,State Senate,9,REP,Keith Perry,993,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,State Senate,9,REP,Keith Perry,927,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,State Senate,9,DEM,Rodney Long,298,0,0,0,0,0,0
-Levy,02 Williston Highlands,State Senate,9,DEM,Rodney Long,410,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,State Senate,9,DEM,Rodney Long,498,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,State Senate,9,DEM,Rodney Long,265,0,0,0,0,0,0
-Levy,05 Willow Sink,State Senate,9,DEM,Rodney Long,309,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,State Senate,9,DEM,Rodney Long,43,0,0,0,0,0,0
-Levy,07 Williston City Hall,State Senate,9,DEM,Rodney Long,589,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,State Senate,9,DEM,Rodney Long,364,0,0,0,0,0,0
-Levy,09 Inglis Community Center,State Senate,9,DEM,Rodney Long,332,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,State Senate,9,DEM,Rodney Long,83,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,State Senate,9,DEM,Rodney Long,234,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,State Senate,9,DEM,Rodney Long,185,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,State Senate,9,DEM,Rodney Long,299,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,State House,22,REP,Chuck Clemons,927,0,0,0,0,0,0
-Levy,02 Williston Highlands,State House,22,REP,Chuck Clemons,1369,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,State House,22,REP,Chuck Clemons,1443,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,State House,22,REP,Chuck Clemons,639,0,0,0,0,0,0
-Levy,05 Willow Sink,State House,22,REP,Chuck Clemons,1822,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,State House,22,REP,Chuck Clemons,287,0,0,0,0,0,0
-Levy,07 Williston City Hall,State House,22,REP,Chuck Clemons,1026,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,State House,22,REP,Chuck Clemons,1682,0,0,0,0,0,0
-Levy,09 Inglis Community Center,State House,22,REP,Chuck Clemons,1357,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,State House,22,REP,Chuck Clemons,581,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,State House,22,REP,Chuck Clemons,576,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,State House,22,REP,Chuck Clemons,977,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,State House,22,REP,Chuck Clemons,930,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,State House,22,DEM,Brandon Peters,321,0,0,0,0,0,0
-Levy,02 Williston Highlands,State House,22,DEM,Brandon Peters,449,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,State House,22,DEM,Brandon Peters,518,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,State House,22,DEM,Brandon Peters,279,0,0,0,0,0,0
-Levy,05 Willow Sink,State House,22,DEM,Brandon Peters,316,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,State House,22,DEM,Brandon Peters,45,0,0,0,0,0,0
-Levy,07 Williston City Hall,State House,22,DEM,Brandon Peters,615,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,State House,22,DEM,Brandon Peters,397,0,0,0,0,0,0
-Levy,09 Inglis Community Center,State House,22,DEM,Brandon Peters,364,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,State House,22,DEM,Brandon Peters,95,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,State House,22,DEM,Brandon Peters,243,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,State House,22,DEM,Brandon Peters,200,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,State House,22,DEM,Brandon Peters,300,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Charles T. Canady,"","",Yes,772,0,0,0,0,0,0
-Levy,02 Williston Highlands,Charles T. Canady,"","",Yes,1091,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Charles T. Canady,"","",Yes,1156,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Charles T. Canady,"","",Yes,531,0,0,0,0,0,0
-Levy,05 Willow Sink,Charles T. Canady,"","",Yes,1293,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Charles T. Canady,"","",Yes,202,0,0,0,0,0,0
-Levy,07 Williston City Hall,Charles T. Canady,"","",Yes,924,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Charles T. Canady,"","",Yes,1299,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Charles T. Canady,"","",Yes,1006,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Charles T. Canady,"","",Yes,402,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Charles T. Canady,"","",Yes,446,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Charles T. Canady,"","",Yes,720,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Charles T. Canady,"","",Yes,703,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Charles T. Canady,"","",No,371,0,0,0,0,0,0
-Levy,02 Williston Highlands,Charles T. Canady,"","",No,550,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Charles T. Canady,"","",No,629,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Charles T. Canady,"","",No,259,0,0,0,0,0,0
-Levy,05 Willow Sink,Charles T. Canady,"","",No,621,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Charles T. Canady,"","",No,102,0,0,0,0,0,0
-Levy,07 Williston City Hall,Charles T. Canady,"","",No,553,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Charles T. Canady,"","",No,554,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Charles T. Canady,"","",No,533,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Charles T. Canady,"","",No,212,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Charles T. Canady,"","",No,279,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Charles T. Canady,"","",No,352,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Charles T. Canady,"","",No,409,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,John D. Couriel,"","",Yes,772,0,0,0,0,0,0
-Levy,02 Williston Highlands,John D. Couriel,"","",Yes,1102,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,John D. Couriel,"","",Yes,1177,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,John D. Couriel,"","",Yes,526,0,0,0,0,0,0
-Levy,05 Willow Sink,John D. Couriel,"","",Yes,1321,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,John D. Couriel,"","",Yes,214,0,0,0,0,0,0
-Levy,07 Williston City Hall,John D. Couriel,"","",Yes,962,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,John D. Couriel,"","",Yes,1339,0,0,0,0,0,0
-Levy,09 Inglis Community Center,John D. Couriel,"","",Yes,1074,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,John D. Couriel,"","",Yes,432,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,John D. Couriel,"","",Yes,472,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,John D. Couriel,"","",Yes,729,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,John D. Couriel,"","",Yes,732,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,John D. Couriel,"","",No,359,0,0,0,0,0,0
-Levy,02 Williston Highlands,John D. Couriel,"","",No,530,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,John D. Couriel,"","",No,595,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,John D. Couriel,"","",No,258,0,0,0,0,0,0
-Levy,05 Willow Sink,John D. Couriel,"","",No,583,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,John D. Couriel,"","",No,87,0,0,0,0,0,0
-Levy,07 Williston City Hall,John D. Couriel,"","",No,516,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,John D. Couriel,"","",No,505,0,0,0,0,0,0
-Levy,09 Inglis Community Center,John D. Couriel,"","",No,447,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,John D. Couriel,"","",No,183,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,John D. Couriel,"","",No,250,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,John D. Couriel,"","",No,339,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,John D. Couriel,"","",No,375,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Jaime Grosshans,"","",Yes,780,0,0,0,0,0,0
-Levy,02 Williston Highlands,Jaime Grosshans,"","",Yes,1105,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Jaime Grosshans,"","",Yes,1192,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Jaime Grosshans,"","",Yes,501,0,0,0,0,0,0
-Levy,05 Willow Sink,Jaime Grosshans,"","",Yes,1326,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Jaime Grosshans,"","",Yes,212,0,0,0,0,0,0
-Levy,07 Williston City Hall,Jaime Grosshans,"","",Yes,943,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Jaime Grosshans,"","",Yes,1322,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Jaime Grosshans,"","",Yes,1064,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Jaime Grosshans,"","",Yes,433,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Jaime Grosshans,"","",Yes,471,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Jaime Grosshans,"","",Yes,735,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Jaime Grosshans,"","",Yes,736,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Jaime Grosshans,"","",No,357,0,0,0,0,0,0
-Levy,02 Williston Highlands,Jaime Grosshans,"","",No,518,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Jaime Grosshans,"","",No,581,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Jaime Grosshans,"","",No,283,0,0,0,0,0,0
-Levy,05 Willow Sink,Jaime Grosshans,"","",No,577,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Jaime Grosshans,"","",No,87,0,0,0,0,0,0
-Levy,07 Williston City Hall,Jaime Grosshans,"","",No,534,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Jaime Grosshans,"","",No,518,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Jaime Grosshans,"","",No,456,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Jaime Grosshans,"","",No,183,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Jaime Grosshans,"","",No,251,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Jaime Grosshans,"","",No,333,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Jaime Grosshans,"","",No,362,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Jorge Labarga,"","",Yes,673,0,0,0,0,0,0
-Levy,02 Williston Highlands,Jorge Labarga,"","",Yes,900,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Jorge Labarga,"","",Yes,1008,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Jorge Labarga,"","",Yes,463,0,0,0,0,0,0
-Levy,05 Willow Sink,Jorge Labarga,"","",Yes,1038,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Jorge Labarga,"","",Yes,154,0,0,0,0,0,0
-Levy,07 Williston City Hall,Jorge Labarga,"","",Yes,836,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Jorge Labarga,"","",Yes,1029,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Jorge Labarga,"","",Yes,886,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Jorge Labarga,"","",Yes,315,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Jorge Labarga,"","",Yes,383,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Jorge Labarga,"","",Yes,584,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Jorge Labarga,"","",Yes,581,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Jorge Labarga,"","",No,463,0,0,0,0,0,0
-Levy,02 Williston Highlands,Jorge Labarga,"","",No,732,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Jorge Labarga,"","",No,772,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Jorge Labarga,"","",No,320,0,0,0,0,0,0
-Levy,05 Willow Sink,Jorge Labarga,"","",No,863,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Jorge Labarga,"","",No,148,0,0,0,0,0,0
-Levy,07 Williston City Hall,Jorge Labarga,"","",No,641,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Jorge Labarga,"","",No,816,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Jorge Labarga,"","",No,634,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Jorge Labarga,"","",No,299,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Jorge Labarga,"","",No,343,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Jorge Labarga,"","",No,486,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Jorge Labarga,"","",No,524,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Ricky Polston,"","",Yes,744,0,0,0,0,0,0
-Levy,02 Williston Highlands,Ricky Polston,"","",Yes,1049,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Ricky Polston,"","",Yes,1109,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Ricky Polston,"","",Yes,500,0,0,0,0,0,0
-Levy,05 Willow Sink,Ricky Polston,"","",Yes,1219,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Ricky Polston,"","",Yes,193,0,0,0,0,0,0
-Levy,07 Williston City Hall,Ricky Polston,"","",Yes,921,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Ricky Polston,"","",Yes,1213,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Ricky Polston,"","",Yes,956,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Ricky Polston,"","",Yes,366,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Ricky Polston,"","",Yes,437,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Ricky Polston,"","",Yes,684,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Ricky Polston,"","",Yes,668,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Ricky Polston,"","",No,387,0,0,0,0,0,0
-Levy,02 Williston Highlands,Ricky Polston,"","",No,578,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Ricky Polston,"","",No,661,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Ricky Polston,"","",No,279,0,0,0,0,0,0
-Levy,05 Willow Sink,Ricky Polston,"","",No,682,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Ricky Polston,"","",No,106,0,0,0,0,0,0
-Levy,07 Williston City Hall,Ricky Polston,"","",No,553,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Ricky Polston,"","",No,612,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Ricky Polston,"","",No,561,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Ricky Polston,"","",No,248,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Ricky Polston,"","",No,285,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Ricky Polston,"","",No,386,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Ricky Polston,"","",No,442,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Ross L. Bilbrey,"","",Yes,756,0,0,0,0,0,0
-Levy,02 Williston Highlands,Ross L. Bilbrey,"","",Yes,1083,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Ross L. Bilbrey,"","",Yes,1134,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Ross L. Bilbrey,"","",Yes,485,0,0,0,0,0,0
-Levy,05 Willow Sink,Ross L. Bilbrey,"","",Yes,1265,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Ross L. Bilbrey,"","",Yes,195,0,0,0,0,0,0
-Levy,07 Williston City Hall,Ross L. Bilbrey,"","",Yes,940,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Ross L. Bilbrey,"","",Yes,1233,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Ross L. Bilbrey,"","",Yes,1017,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Ross L. Bilbrey,"","",Yes,380,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Ross L. Bilbrey,"","",Yes,448,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Ross L. Bilbrey,"","",Yes,702,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Ross L. Bilbrey,"","",Yes,710,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Ross L. Bilbrey,"","",No,367,0,0,0,0,0,0
-Levy,02 Williston Highlands,Ross L. Bilbrey,"","",No,524,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Ross L. Bilbrey,"","",No,629,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Ross L. Bilbrey,"","",No,285,0,0,0,0,0,0
-Levy,05 Willow Sink,Ross L. Bilbrey,"","",No,627,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Ross L. Bilbrey,"","",No,104,0,0,0,0,0,0
-Levy,07 Williston City Hall,Ross L. Bilbrey,"","",No,526,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Ross L. Bilbrey,"","",No,584,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Ross L. Bilbrey,"","",No,487,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Ross L. Bilbrey,"","",No,231,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Ross L. Bilbrey,"","",No,268,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Ross L. Bilbrey,"","",No,367,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Ross L. Bilbrey,"","",No,391,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Susan Kelsey,"","",Yes,787,0,0,0,0,0,0
-Levy,02 Williston Highlands,Susan Kelsey,"","",Yes,1104,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Susan Kelsey,"","",Yes,1174,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Susan Kelsey,"","",Yes,507,0,0,0,0,0,0
-Levy,05 Willow Sink,Susan Kelsey,"","",Yes,1287,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Susan Kelsey,"","",Yes,199,0,0,0,0,0,0
-Levy,07 Williston City Hall,Susan Kelsey,"","",Yes,951,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Susan Kelsey,"","",Yes,1270,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Susan Kelsey,"","",Yes,1027,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Susan Kelsey,"","",Yes,406,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Susan Kelsey,"","",Yes,461,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Susan Kelsey,"","",Yes,727,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Susan Kelsey,"","",Yes,717,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Susan Kelsey,"","",No,334,0,0,0,0,0,0
-Levy,02 Williston Highlands,Susan Kelsey,"","",No,506,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Susan Kelsey,"","",No,585,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Susan Kelsey,"","",No,257,0,0,0,0,0,0
-Levy,05 Willow Sink,Susan Kelsey,"","",No,598,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Susan Kelsey,"","",No,97,0,0,0,0,0,0
-Levy,07 Williston City Hall,Susan Kelsey,"","",No,511,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Susan Kelsey,"","",No,537,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Susan Kelsey,"","",No,478,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Susan Kelsey,"","",No,204,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Susan Kelsey,"","",No,251,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Susan Kelsey,"","",No,342,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Susan Kelsey,"","",No,377,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Bobby Long,"","",Yes,786,0,0,0,0,0,0
-Levy,02 Williston Highlands,Bobby Long,"","",Yes,1126,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Bobby Long,"","",Yes,1192,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Bobby Long,"","",Yes,526,0,0,0,0,0,0
-Levy,05 Willow Sink,Bobby Long,"","",Yes,1336,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Bobby Long,"","",Yes,209,0,0,0,0,0,0
-Levy,07 Williston City Hall,Bobby Long,"","",Yes,967,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Bobby Long,"","",Yes,1313,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Bobby Long,"","",Yes,1062,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Bobby Long,"","",Yes,439,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Bobby Long,"","",Yes,482,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Bobby Long,"","",Yes,738,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Bobby Long,"","",Yes,740,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Bobby Long,"","",No,339,0,0,0,0,0,0
-Levy,02 Williston Highlands,Bobby Long,"","",No,486,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Bobby Long,"","",No,576,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Bobby Long,"","",No,238,0,0,0,0,0,0
-Levy,05 Willow Sink,Bobby Long,"","",No,553,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Bobby Long,"","",No,89,0,0,0,0,0,0
-Levy,07 Williston City Hall,Bobby Long,"","",No,499,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Bobby Long,"","",No,503,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Bobby Long,"","",No,447,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Bobby Long,"","",No,174,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Bobby Long,"","",No,234,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Bobby Long,"","",No,328,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Bobby Long,"","",No,353,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Lori S. Rowe,"","",Yes,768,0,0,0,0,0,0
-Levy,02 Williston Highlands,Lori S. Rowe,"","",Yes,1067,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Lori S. Rowe,"","",Yes,1104,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Lori S. Rowe,"","",Yes,478,0,0,0,0,0,0
-Levy,05 Willow Sink,Lori S. Rowe,"","",Yes,1249,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Lori S. Rowe,"","",Yes,186,0,0,0,0,0,0
-Levy,07 Williston City Hall,Lori S. Rowe,"","",Yes,949,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Lori S. Rowe,"","",Yes,1225,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Lori S. Rowe,"","",Yes,953,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Lori S. Rowe,"","",Yes,390,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Lori S. Rowe,"","",Yes,442,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Lori S. Rowe,"","",Yes,667,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Lori S. Rowe,"","",Yes,666,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Lori S. Rowe,"","",No,352,0,0,0,0,0,0
-Levy,02 Williston Highlands,Lori S. Rowe,"","",No,541,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Lori S. Rowe,"","",No,656,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Lori S. Rowe,"","",No,285,0,0,0,0,0,0
-Levy,05 Willow Sink,Lori S. Rowe,"","",No,629,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Lori S. Rowe,"","",No,111,0,0,0,0,0,0
-Levy,07 Williston City Hall,Lori S. Rowe,"","",No,514,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Lori S. Rowe,"","",No,587,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Lori S. Rowe,"","",No,542,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Lori S. Rowe,"","",No,221,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Lori S. Rowe,"","",No,272,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Lori S. Rowe,"","",No,397,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Lori S. Rowe,"","",No,427,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Bo Winokur,"","",Yes,752,0,0,0,0,0,0
-Levy,02 Williston Highlands,Bo Winokur,"","",Yes,1068,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Bo Winokur,"","",Yes,1134,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Bo Winokur,"","",Yes,481,0,0,0,0,0,0
-Levy,05 Willow Sink,Bo Winokur,"","",Yes,1262,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Bo Winokur,"","",Yes,198,0,0,0,0,0,0
-Levy,07 Williston City Hall,Bo Winokur,"","",Yes,939,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Bo Winokur,"","",Yes,1261,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Bo Winokur,"","",Yes,1008,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Bo Winokur,"","",Yes,403,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Bo Winokur,"","",Yes,440,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Bo Winokur,"","",Yes,705,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Bo Winokur,"","",Yes,713,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Bo Winokur,"","",No,369,0,0,0,0,0,0
-Levy,02 Williston Highlands,Bo Winokur,"","",No,537,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Bo Winokur,"","",No,627,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Bo Winokur,"","",No,281,0,0,0,0,0,0
-Levy,05 Willow Sink,Bo Winokur,"","",No,622,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Bo Winokur,"","",No,100,0,0,0,0,0,0
-Levy,07 Williston City Hall,Bo Winokur,"","",No,517,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Bo Winokur,"","",No,549,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Bo Winokur,"","",No,481,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Bo Winokur,"","",No,208,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Bo Winokur,"","",No,275,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Bo Winokur,"","",No,359,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Bo Winokur,"","",No,384,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,925,0,0,0,0,0,0
-Levy,02 Williston Highlands,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1334,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1392,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,630,0,0,0,0,0,0
-Levy,05 Willow Sink,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1671,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,269,0,0,0,0,0,0
-Levy,07 Williston City Hall,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1064,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1569,0,0,0,0,0,0
-Levy,09 Inglis Community Center,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1251,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,559,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,562,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,949,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,918,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,221,0,0,0,0,0,0
-Levy,02 Williston Highlands,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,312,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,392,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,160,0,0,0,0,0,0
-Levy,05 Willow Sink,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,277,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,35,0,0,0,0,0,0
-Levy,07 Williston City Hall,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,428,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,289,0,0,0,0,0,0
-Levy,09 Inglis Community Center,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,250,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,79,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,178,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,125,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,216,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Amendment 1,"","",Yes,653,0,0,0,0,0,0
-Levy,02 Williston Highlands,Amendment 1,"","",Yes,942,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Amendment 1,"","",Yes,1041,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Amendment 1,"","",Yes,477,0,0,0,0,0,0
-Levy,05 Willow Sink,Amendment 1,"","",Yes,1120,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Amendment 1,"","",Yes,164,0,0,0,0,0,0
-Levy,07 Williston City Hall,Amendment 1,"","",Yes,848,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Amendment 1,"","",Yes,1125,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Amendment 1,"","",Yes,946,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Amendment 1,"","",Yes,346,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Amendment 1,"","",Yes,400,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Amendment 1,"","",Yes,614,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Amendment 1,"","",Yes,634,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Amendment 1,"","",No,503,0,0,0,0,0,0
-Levy,02 Williston Highlands,Amendment 1,"","",No,786,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Amendment 1,"","",No,793,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Amendment 1,"","",No,392,0,0,0,0,0,0
-Levy,05 Willow Sink,Amendment 1,"","",No,885,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Amendment 1,"","",No,150,0,0,0,0,0,0
-Levy,07 Williston City Hall,Amendment 1,"","",No,670,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Amendment 1,"","",No,852,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Amendment 1,"","",No,682,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Amendment 1,"","",No,277,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Amendment 1,"","",No,360,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Amendment 1,"","",No,471,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Amendment 1,"","",No,507,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Amendment 2,"","",Yes,659,0,0,0,0,0,0
-Levy,02 Williston Highlands,Amendment 2,"","",Yes,938,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Amendment 2,"","",Yes,981,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Amendment 2,"","",Yes,457,0,0,0,0,0,0
-Levy,05 Willow Sink,Amendment 2,"","",Yes,1101,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Amendment 2,"","",Yes,155,0,0,0,0,0,0
-Levy,07 Williston City Hall,Amendment 2,"","",Yes,824,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Amendment 2,"","",Yes,1139,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Amendment 2,"","",Yes,929,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Amendment 2,"","",Yes,326,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Amendment 2,"","",Yes,398,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Amendment 2,"","",Yes,588,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Amendment 2,"","",Yes,614,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Amendment 2,"","",No,495,0,0,0,0,0,0
-Levy,02 Williston Highlands,Amendment 2,"","",No,778,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Amendment 2,"","",No,839,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Amendment 2,"","",No,399,0,0,0,0,0,0
-Levy,05 Willow Sink,Amendment 2,"","",No,885,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Amendment 2,"","",No,158,0,0,0,0,0,0
-Levy,07 Williston City Hall,Amendment 2,"","",No,680,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Amendment 2,"","",No,821,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Amendment 2,"","",No,680,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Amendment 2,"","",No,296,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Amendment 2,"","",No,363,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Amendment 2,"","",No,492,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Amendment 2,"","",No,520,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Amendment 3,"","",Yes,678,0,0,0,0,0,0
-Levy,02 Williston Highlands,Amendment 3,"","",Yes,984,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Amendment 3,"","",Yes,1092,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Amendment 3,"","",Yes,469,0,0,0,0,0,0
-Levy,05 Willow Sink,Amendment 3,"","",Yes,1094,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Amendment 3,"","",Yes,146,0,0,0,0,0,0
-Levy,07 Williston City Hall,Amendment 3,"","",Yes,919,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Amendment 3,"","",Yes,1089,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Amendment 3,"","",Yes,823,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Amendment 3,"","",Yes,329,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Amendment 3,"","",Yes,392,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Amendment 3,"","",Yes,610,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Amendment 3,"","",Yes,690,0,0,0,0,0,0
-Levy,01 Levy County Ag Extension Office,Amendment 3,"","",No,497,0,0,0,0,0,0
-Levy,02 Williston Highlands,Amendment 3,"","",No,782,0,0,0,0,0,0
-Levy,03 Bronson Dogan Cobb Building,Amendment 3,"","",No,780,0,0,0,0,0,0
-Levy,04 Cedar Key Community Center,Amendment 3,"","",No,419,0,0,0,0,0,0
-Levy,05 Willow Sink,Amendment 3,"","",No,951,0,0,0,0,0,0
-Levy,06 Gulf Hammock Church of God,Amendment 3,"","",No,173,0,0,0,0,0,0
-Levy,07 Williston City Hall,Amendment 3,"","",No,629,0,0,0,0,0,0
-Levy,08 Morriston Baptist Church,Amendment 3,"","",No,920,0,0,0,0,0,0
-Levy,09 Inglis Community Center,Amendment 3,"","",No,837,0,0,0,0,0,0
-Levy,10 Pine Grove Baptist Church,Amendment 3,"","",No,312,0,0,0,0,0,0
-Levy,11 Miracle Vision Tabernacle,Amendment 3,"","",No,394,0,0,0,0,0,0
-Levy,12 Fanning Springs City Hall,Amendment 3,"","",No,490,0,0,0,0,0,0
-Levy,13 Tommy Usher Center,Amendment 3,"","",No,486,0,0,0,0,0,0
+county,precinct,office,district,party,candidate,votes
+Levy,01 Levy County Ag Extension Office,U.S. Senate,"",REP,Marco Rubio,924
+Levy,02 Williston Highlands,U.S. Senate,"",REP,Marco Rubio,1385
+Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",REP,Marco Rubio,1465
+Levy,04 Cedar Key Community Center,U.S. Senate,"",REP,Marco Rubio,643
+Levy,05 Willow Sink,U.S. Senate,"",REP,Marco Rubio,1813
+Levy,06 Gulf Hammock Church of God,U.S. Senate,"",REP,Marco Rubio,289
+Levy,07 Williston City Hall,U.S. Senate,"",REP,Marco Rubio,1025
+Levy,08 Morriston Baptist Church,U.S. Senate,"",REP,Marco Rubio,1694
+Levy,09 Inglis Community Center,U.S. Senate,"",REP,Marco Rubio,1382
+Levy,10 Pine Grove Baptist Church,U.S. Senate,"",REP,Marco Rubio,583
+Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",REP,Marco Rubio,579
+Levy,12 Fanning Springs City Hall,U.S. Senate,"",REP,Marco Rubio,980
+Levy,13 Tommy Usher Center,U.S. Senate,"",REP,Marco Rubio,928
+Levy,01 Levy County Ag Extension Office,U.S. Senate,"",DEM,Val Demings,309
+Levy,02 Williston Highlands,U.S. Senate,"",DEM,Val Demings,412
+Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",DEM,Val Demings,485
+Levy,04 Cedar Key Community Center,U.S. Senate,"",DEM,Val Demings,272
+Levy,05 Willow Sink,U.S. Senate,"",DEM,Val Demings,321
+Levy,06 Gulf Hammock Church of God,U.S. Senate,"",DEM,Val Demings,45
+Levy,07 Williston City Hall,U.S. Senate,"",DEM,Val Demings,604
+Levy,08 Morriston Baptist Church,U.S. Senate,"",DEM,Val Demings,370
+Levy,09 Inglis Community Center,U.S. Senate,"",DEM,Val Demings,336
+Levy,10 Pine Grove Baptist Church,U.S. Senate,"",DEM,Val Demings,90
+Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",DEM,Val Demings,235
+Levy,12 Fanning Springs City Hall,U.S. Senate,"",DEM,Val Demings,184
+Levy,13 Tommy Usher Center,U.S. Senate,"",DEM,Val Demings,281
+Levy,01 Levy County Ag Extension Office,U.S. Senate,"",LPF,Dennis Misigoy,11
+Levy,02 Williston Highlands,U.S. Senate,"",LPF,Dennis Misigoy,9
+Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",LPF,Dennis Misigoy,12
+Levy,04 Cedar Key Community Center,U.S. Senate,"",LPF,Dennis Misigoy,1
+Levy,05 Willow Sink,U.S. Senate,"",LPF,Dennis Misigoy,2
+Levy,06 Gulf Hammock Church of God,U.S. Senate,"",LPF,Dennis Misigoy,1
+Levy,07 Williston City Hall,U.S. Senate,"",LPF,Dennis Misigoy,6
+Levy,08 Morriston Baptist Church,U.S. Senate,"",LPF,Dennis Misigoy,9
+Levy,09 Inglis Community Center,U.S. Senate,"",LPF,Dennis Misigoy,9
+Levy,10 Pine Grove Baptist Church,U.S. Senate,"",LPF,Dennis Misigoy,2
+Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",LPF,Dennis Misigoy,4
+Levy,12 Fanning Springs City Hall,U.S. Senate,"",LPF,Dennis Misigoy,3
+Levy,13 Tommy Usher Center,U.S. Senate,"",LPF,Dennis Misigoy,1
+Levy,01 Levy County Ag Extension Office,U.S. Senate,"",NPA,Steven B. Grant,8
+Levy,02 Williston Highlands,U.S. Senate,"",NPA,Steven B. Grant,15
+Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",NPA,Steven B. Grant,7
+Levy,04 Cedar Key Community Center,U.S. Senate,"",NPA,Steven B. Grant,6
+Levy,05 Willow Sink,U.S. Senate,"",NPA,Steven B. Grant,9
+Levy,06 Gulf Hammock Church of God,U.S. Senate,"",NPA,Steven B. Grant,0
+Levy,07 Williston City Hall,U.S. Senate,"",NPA,Steven B. Grant,13
+Levy,08 Morriston Baptist Church,U.S. Senate,"",NPA,Steven B. Grant,12
+Levy,09 Inglis Community Center,U.S. Senate,"",NPA,Steven B. Grant,10
+Levy,10 Pine Grove Baptist Church,U.S. Senate,"",NPA,Steven B. Grant,4
+Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",NPA,Steven B. Grant,5
+Levy,12 Fanning Springs City Hall,U.S. Senate,"",NPA,Steven B. Grant,11
+Levy,13 Tommy Usher Center,U.S. Senate,"",NPA,Steven B. Grant,16
+Levy,01 Levy County Ag Extension Office,U.S. Senate,"",NPA,Tuan TQ Nguyen,7
+Levy,02 Williston Highlands,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"",NPA,Tuan TQ Nguyen,7
+Levy,04 Cedar Key Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Levy,05 Willow Sink,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
+Levy,06 Gulf Hammock Church of God,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Levy,07 Williston City Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Levy,08 Morriston Baptist Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
+Levy,09 Inglis Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Levy,10 Pine Grove Baptist Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Levy,11 Miracle Vision Tabernacle,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Levy,12 Fanning Springs City Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Levy,13 Tommy Usher Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Levy,01 Levy County Ag Extension Office,U.S. Senate,"","",Write-in,0
+Levy,02 Williston Highlands,U.S. Senate,"","",Write-in,1
+Levy,03 Bronson Dogan Cobb Building,U.S. Senate,"","",Write-in,0
+Levy,04 Cedar Key Community Center,U.S. Senate,"","",Write-in,1
+Levy,05 Willow Sink,U.S. Senate,"","",Write-in,3
+Levy,06 Gulf Hammock Church of God,U.S. Senate,"","",Write-in,0
+Levy,07 Williston City Hall,U.S. Senate,"","",Write-in,0
+Levy,08 Morriston Baptist Church,U.S. Senate,"","",Write-in,0
+Levy,09 Inglis Community Center,U.S. Senate,"","",Write-in,1
+Levy,10 Pine Grove Baptist Church,U.S. Senate,"","",Write-in,0
+Levy,11 Miracle Vision Tabernacle,U.S. Senate,"","",Write-in,0
+Levy,12 Fanning Springs City Hall,U.S. Senate,"","",Write-in,0
+Levy,13 Tommy Usher Center,U.S. Senate,"","",Write-in,4
+Levy,01 Levy County Ag Extension Office,U.S. House,3,REP,Kat Cammack,930
+Levy,02 Williston Highlands,U.S. House,3,REP,Kat Cammack,1370
+Levy,03 Bronson Dogan Cobb Building,U.S. House,3,REP,Kat Cammack,1450
+Levy,04 Cedar Key Community Center,U.S. House,3,REP,Kat Cammack,638
+Levy,05 Willow Sink,U.S. House,3,REP,Kat Cammack,1809
+Levy,06 Gulf Hammock Church of God,U.S. House,3,REP,Kat Cammack,291
+Levy,07 Williston City Hall,U.S. House,3,REP,Kat Cammack,1029
+Levy,08 Morriston Baptist Church,U.S. House,3,REP,Kat Cammack,1685
+Levy,09 Inglis Community Center,U.S. House,3,REP,Kat Cammack,1380
+Levy,10 Pine Grove Baptist Church,U.S. House,3,REP,Kat Cammack,590
+Levy,11 Miracle Vision Tabernacle,U.S. House,3,REP,Kat Cammack,572
+Levy,12 Fanning Springs City Hall,U.S. House,3,REP,Kat Cammack,981
+Levy,13 Tommy Usher Center,U.S. House,3,REP,Kat Cammack,923
+Levy,01 Levy County Ag Extension Office,U.S. House,3,DEM,Danielle Hawk,309
+Levy,02 Williston Highlands,U.S. House,3,DEM,Danielle Hawk,420
+Levy,03 Bronson Dogan Cobb Building,U.S. House,3,DEM,Danielle Hawk,496
+Levy,04 Cedar Key Community Center,U.S. House,3,DEM,Danielle Hawk,266
+Levy,05 Willow Sink,U.S. House,3,DEM,Danielle Hawk,314
+Levy,06 Gulf Hammock Church of God,U.S. House,3,DEM,Danielle Hawk,42
+Levy,07 Williston City Hall,U.S. House,3,DEM,Danielle Hawk,596
+Levy,08 Morriston Baptist Church,U.S. House,3,DEM,Danielle Hawk,367
+Levy,09 Inglis Community Center,U.S. House,3,DEM,Danielle Hawk,328
+Levy,10 Pine Grove Baptist Church,U.S. House,3,DEM,Danielle Hawk,88
+Levy,11 Miracle Vision Tabernacle,U.S. House,3,DEM,Danielle Hawk,239
+Levy,12 Fanning Springs City Hall,U.S. House,3,DEM,Danielle Hawk,183
+Levy,13 Tommy Usher Center,U.S. House,3,DEM,Danielle Hawk,287
+Levy,01 Levy County Ag Extension Office,U.S. House,3,NPA,Linda Brooks,19
+Levy,02 Williston Highlands,U.S. House,3,NPA,Linda Brooks,30
+Levy,03 Bronson Dogan Cobb Building,U.S. House,3,NPA,Linda Brooks,27
+Levy,04 Cedar Key Community Center,U.S. House,3,NPA,Linda Brooks,17
+Levy,05 Willow Sink,U.S. House,3,NPA,Linda Brooks,20
+Levy,06 Gulf Hammock Church of God,U.S. House,3,NPA,Linda Brooks,1
+Levy,07 Williston City Hall,U.S. House,3,NPA,Linda Brooks,25
+Levy,08 Morriston Baptist Church,U.S. House,3,NPA,Linda Brooks,28
+Levy,09 Inglis Community Center,U.S. House,3,NPA,Linda Brooks,30
+Levy,10 Pine Grove Baptist Church,U.S. House,3,NPA,Linda Brooks,1
+Levy,11 Miracle Vision Tabernacle,U.S. House,3,NPA,Linda Brooks,9
+Levy,12 Fanning Springs City Hall,U.S. House,3,NPA,Linda Brooks,16
+Levy,13 Tommy Usher Center,U.S. House,3,NPA,Linda Brooks,24
+Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",REP,Desantis/Nuñez,956
+Levy,02 Williston Highlands,Governor/Lt Governor,"",REP,Desantis/Nuñez,1428
+Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",REP,Desantis/Nuñez,1503
+Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",REP,Desantis/Nuñez,667
+Levy,05 Willow Sink,Governor/Lt Governor,"",REP,Desantis/Nuñez,1855
+Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",REP,Desantis/Nuñez,294
+Levy,07 Williston City Hall,Governor/Lt Governor,"",REP,Desantis/Nuñez,1067
+Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",REP,Desantis/Nuñez,1723
+Levy,09 Inglis Community Center,Governor/Lt Governor,"",REP,Desantis/Nuñez,1401
+Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",REP,Desantis/Nuñez,594
+Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",REP,Desantis/Nuñez,587
+Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",REP,Desantis/Nuñez,1005
+Levy,13 Tommy Usher Center,Governor/Lt Governor,"",REP,Desantis/Nuñez,969
+Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",DEM,Crist/Hernandez,293
+Levy,02 Williston Highlands,Governor/Lt Governor,"",DEM,Crist/Hernandez,391
+Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",DEM,Crist/Hernandez,461
+Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",DEM,Crist/Hernandez,257
+Levy,05 Willow Sink,Governor/Lt Governor,"",DEM,Crist/Hernandez,294
+Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",DEM,Crist/Hernandez,40
+Levy,07 Williston City Hall,Governor/Lt Governor,"",DEM,Crist/Hernandez,575
+Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",DEM,Crist/Hernandez,358
+Levy,09 Inglis Community Center,Governor/Lt Governor,"",DEM,Crist/Hernandez,332
+Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",DEM,Crist/Hernandez,85
+Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",DEM,Crist/Hernandez,229
+Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",DEM,Crist/Hernandez,177
+Levy,13 Tommy Usher Center,Governor/Lt Governor,"",DEM,Crist/Hernandez,266
+Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,4
+Levy,02 Williston Highlands,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,4
+Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,7
+Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2
+Levy,05 Willow Sink,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,3
+Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,1
+Levy,07 Williston City Hall,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2
+Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,1
+Levy,09 Inglis Community Center,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,7
+Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,1
+Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2
+Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,4
+Levy,13 Tommy Usher Center,Governor/Lt Governor,"",LPF,Roos/Rorabaugh,2
+Levy,01 Levy County Ag Extension Office,Governor/Lt Governor,"",NPA,Gimenez/Gibson,8
+Levy,02 Williston Highlands,Governor/Lt Governor,"",NPA,Gimenez/Gibson,7
+Levy,03 Bronson Dogan Cobb Building,Governor/Lt Governor,"",NPA,Gimenez/Gibson,8
+Levy,04 Cedar Key Community Center,Governor/Lt Governor,"",NPA,Gimenez/Gibson,3
+Levy,05 Willow Sink,Governor/Lt Governor,"",NPA,Gimenez/Gibson,3
+Levy,06 Gulf Hammock Church of God,Governor/Lt Governor,"",NPA,Gimenez/Gibson,0
+Levy,07 Williston City Hall,Governor/Lt Governor,"",NPA,Gimenez/Gibson,8
+Levy,08 Morriston Baptist Church,Governor/Lt Governor,"",NPA,Gimenez/Gibson,11
+Levy,09 Inglis Community Center,Governor/Lt Governor,"",NPA,Gimenez/Gibson,7
+Levy,10 Pine Grove Baptist Church,Governor/Lt Governor,"",NPA,Gimenez/Gibson,0
+Levy,11 Miracle Vision Tabernacle,Governor/Lt Governor,"",NPA,Gimenez/Gibson,4
+Levy,12 Fanning Springs City Hall,Governor/Lt Governor,"",NPA,Gimenez/Gibson,1
+Levy,13 Tommy Usher Center,Governor/Lt Governor,"",NPA,Gimenez/Gibson,7
+Levy,01 Levy County Ag Extension Office,Attorney General,"",REP,Ashley Moody,953
+Levy,02 Williston Highlands,Attorney General,"",REP,Ashley Moody,1431
+Levy,03 Bronson Dogan Cobb Building,Attorney General,"",REP,Ashley Moody,1500
+Levy,04 Cedar Key Community Center,Attorney General,"",REP,Ashley Moody,671
+Levy,05 Willow Sink,Attorney General,"",REP,Ashley Moody,1857
+Levy,06 Gulf Hammock Church of God,Attorney General,"",REP,Ashley Moody,290
+Levy,07 Williston City Hall,Attorney General,"",REP,Ashley Moody,1074
+Levy,08 Morriston Baptist Church,Attorney General,"",REP,Ashley Moody,1731
+Levy,09 Inglis Community Center,Attorney General,"",REP,Ashley Moody,1412
+Levy,10 Pine Grove Baptist Church,Attorney General,"",REP,Ashley Moody,596
+Levy,11 Miracle Vision Tabernacle,Attorney General,"",REP,Ashley Moody,592
+Levy,12 Fanning Springs City Hall,Attorney General,"",REP,Ashley Moody,1005
+Levy,13 Tommy Usher Center,Attorney General,"",REP,Ashley Moody,967
+Levy,01 Levy County Ag Extension Office,Attorney General,"",DEM,Aramis Ayala,298
+Levy,02 Williston Highlands,Attorney General,"",DEM,Aramis Ayala,388
+Levy,03 Bronson Dogan Cobb Building,Attorney General,"",DEM,Aramis Ayala,471
+Levy,04 Cedar Key Community Center,Attorney General,"",DEM,Aramis Ayala,253
+Levy,05 Willow Sink,Attorney General,"",DEM,Aramis Ayala,284
+Levy,06 Gulf Hammock Church of God,Attorney General,"",DEM,Aramis Ayala,42
+Levy,07 Williston City Hall,Attorney General,"",DEM,Aramis Ayala,569
+Levy,08 Morriston Baptist Church,Attorney General,"",DEM,Aramis Ayala,350
+Levy,09 Inglis Community Center,Attorney General,"",DEM,Aramis Ayala,327
+Levy,10 Pine Grove Baptist Church,Attorney General,"",DEM,Aramis Ayala,81
+Levy,11 Miracle Vision Tabernacle,Attorney General,"",DEM,Aramis Ayala,228
+Levy,12 Fanning Springs City Hall,Attorney General,"",DEM,Aramis Ayala,174
+Levy,13 Tommy Usher Center,Attorney General,"",DEM,Aramis Ayala,270
+Levy,01 Levy County Ag Extension Office,Chief Financial Officer,"",REP,Jimmy Patronis,935
+Levy,02 Williston Highlands,Chief Financial Officer,"",REP,Jimmy Patronis,1383
+Levy,03 Bronson Dogan Cobb Building,Chief Financial Officer,"",REP,Jimmy Patronis,1473
+Levy,04 Cedar Key Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,652
+Levy,05 Willow Sink,Chief Financial Officer,"",REP,Jimmy Patronis,1816
+Levy,06 Gulf Hammock Church of God,Chief Financial Officer,"",REP,Jimmy Patronis,284
+Levy,07 Williston City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,1032
+Levy,08 Morriston Baptist Church,Chief Financial Officer,"",REP,Jimmy Patronis,1703
+Levy,09 Inglis Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,1381
+Levy,10 Pine Grove Baptist Church,Chief Financial Officer,"",REP,Jimmy Patronis,580
+Levy,11 Miracle Vision Tabernacle,Chief Financial Officer,"",REP,Jimmy Patronis,578
+Levy,12 Fanning Springs City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,983
+Levy,13 Tommy Usher Center,Chief Financial Officer,"",REP,Jimmy Patronis,938
+Levy,01 Levy County Ag Extension Office,Chief Financial Officer,"",DEM,Adam Hattersley,309
+Levy,02 Williston Highlands,Chief Financial Officer,"",DEM,Adam Hattersley,425
+Levy,03 Bronson Dogan Cobb Building,Chief Financial Officer,"",DEM,Adam Hattersley,485
+Levy,04 Cedar Key Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,258
+Levy,05 Willow Sink,Chief Financial Officer,"",DEM,Adam Hattersley,307
+Levy,06 Gulf Hammock Church of God,Chief Financial Officer,"",DEM,Adam Hattersley,44
+Levy,07 Williston City Hall,Chief Financial Officer,"",DEM,Adam Hattersley,588
+Levy,08 Morriston Baptist Church,Chief Financial Officer,"",DEM,Adam Hattersley,369
+Levy,09 Inglis Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,345
+Levy,10 Pine Grove Baptist Church,Chief Financial Officer,"",DEM,Adam Hattersley,91
+Levy,11 Miracle Vision Tabernacle,Chief Financial Officer,"",DEM,Adam Hattersley,234
+Levy,12 Fanning Springs City Hall,Chief Financial Officer,"",DEM,Adam Hattersley,187
+Levy,13 Tommy Usher Center,Chief Financial Officer,"",DEM,Adam Hattersley,284
+Levy,01 Levy County Ag Extension Office,Commissioner of Agriculture,"",REP,Wilton Simpson,950
+Levy,02 Williston Highlands,Commissioner of Agriculture,"",REP,Wilton Simpson,1401
+Levy,03 Bronson Dogan Cobb Building,Commissioner of Agriculture,"",REP,Wilton Simpson,1470
+Levy,04 Cedar Key Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,657
+Levy,05 Willow Sink,Commissioner of Agriculture,"",REP,Wilton Simpson,1828
+Levy,06 Gulf Hammock Church of God,Commissioner of Agriculture,"",REP,Wilton Simpson,291
+Levy,07 Williston City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,1044
+Levy,08 Morriston Baptist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,1713
+Levy,09 Inglis Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,1401
+Levy,10 Pine Grove Baptist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,597
+Levy,11 Miracle Vision Tabernacle,Commissioner of Agriculture,"",REP,Wilton Simpson,580
+Levy,12 Fanning Springs City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,990
+Levy,13 Tommy Usher Center,Commissioner of Agriculture,"",REP,Wilton Simpson,942
+Levy,01 Levy County Ag Extension Office,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,300
+Levy,02 Williston Highlands,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,411
+Levy,03 Bronson Dogan Cobb Building,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,489
+Levy,04 Cedar Key Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,257
+Levy,05 Willow Sink,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,310
+Levy,06 Gulf Hammock Church of God,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
+Levy,07 Williston City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,597
+Levy,08 Morriston Baptist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,363
+Levy,09 Inglis Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,330
+Levy,10 Pine Grove Baptist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,81
+Levy,11 Miracle Vision Tabernacle,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,235
+Levy,12 Fanning Springs City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,182
+Levy,13 Tommy Usher Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,286
+Levy,01 Levy County Ag Extension Office,State Senate,9,REP,Keith Perry,945
+Levy,02 Williston Highlands,State Senate,9,REP,Keith Perry,1402
+Levy,03 Bronson Dogan Cobb Building,State Senate,9,REP,Keith Perry,1458
+Levy,04 Cedar Key Community Center,State Senate,9,REP,Keith Perry,648
+Levy,05 Willow Sink,State Senate,9,REP,Keith Perry,1820
+Levy,06 Gulf Hammock Church of God,State Senate,9,REP,Keith Perry,287
+Levy,07 Williston City Hall,State Senate,9,REP,Keith Perry,1050
+Levy,08 Morriston Baptist Church,State Senate,9,REP,Keith Perry,1709
+Levy,09 Inglis Community Center,State Senate,9,REP,Keith Perry,1389
+Levy,10 Pine Grove Baptist Church,State Senate,9,REP,Keith Perry,589
+Levy,11 Miracle Vision Tabernacle,State Senate,9,REP,Keith Perry,582
+Levy,12 Fanning Springs City Hall,State Senate,9,REP,Keith Perry,993
+Levy,13 Tommy Usher Center,State Senate,9,REP,Keith Perry,927
+Levy,01 Levy County Ag Extension Office,State Senate,9,DEM,Rodney Long,298
+Levy,02 Williston Highlands,State Senate,9,DEM,Rodney Long,410
+Levy,03 Bronson Dogan Cobb Building,State Senate,9,DEM,Rodney Long,498
+Levy,04 Cedar Key Community Center,State Senate,9,DEM,Rodney Long,265
+Levy,05 Willow Sink,State Senate,9,DEM,Rodney Long,309
+Levy,06 Gulf Hammock Church of God,State Senate,9,DEM,Rodney Long,43
+Levy,07 Williston City Hall,State Senate,9,DEM,Rodney Long,589
+Levy,08 Morriston Baptist Church,State Senate,9,DEM,Rodney Long,364
+Levy,09 Inglis Community Center,State Senate,9,DEM,Rodney Long,332
+Levy,10 Pine Grove Baptist Church,State Senate,9,DEM,Rodney Long,83
+Levy,11 Miracle Vision Tabernacle,State Senate,9,DEM,Rodney Long,234
+Levy,12 Fanning Springs City Hall,State Senate,9,DEM,Rodney Long,185
+Levy,13 Tommy Usher Center,State Senate,9,DEM,Rodney Long,299
+Levy,01 Levy County Ag Extension Office,State House,22,REP,Chuck Clemons,927
+Levy,02 Williston Highlands,State House,22,REP,Chuck Clemons,1369
+Levy,03 Bronson Dogan Cobb Building,State House,22,REP,Chuck Clemons,1443
+Levy,04 Cedar Key Community Center,State House,22,REP,Chuck Clemons,639
+Levy,05 Willow Sink,State House,22,REP,Chuck Clemons,1822
+Levy,06 Gulf Hammock Church of God,State House,22,REP,Chuck Clemons,287
+Levy,07 Williston City Hall,State House,22,REP,Chuck Clemons,1026
+Levy,08 Morriston Baptist Church,State House,22,REP,Chuck Clemons,1682
+Levy,09 Inglis Community Center,State House,22,REP,Chuck Clemons,1357
+Levy,10 Pine Grove Baptist Church,State House,22,REP,Chuck Clemons,581
+Levy,11 Miracle Vision Tabernacle,State House,22,REP,Chuck Clemons,576
+Levy,12 Fanning Springs City Hall,State House,22,REP,Chuck Clemons,977
+Levy,13 Tommy Usher Center,State House,22,REP,Chuck Clemons,930
+Levy,01 Levy County Ag Extension Office,State House,22,DEM,Brandon Peters,321
+Levy,02 Williston Highlands,State House,22,DEM,Brandon Peters,449
+Levy,03 Bronson Dogan Cobb Building,State House,22,DEM,Brandon Peters,518
+Levy,04 Cedar Key Community Center,State House,22,DEM,Brandon Peters,279
+Levy,05 Willow Sink,State House,22,DEM,Brandon Peters,316
+Levy,06 Gulf Hammock Church of God,State House,22,DEM,Brandon Peters,45
+Levy,07 Williston City Hall,State House,22,DEM,Brandon Peters,615
+Levy,08 Morriston Baptist Church,State House,22,DEM,Brandon Peters,397
+Levy,09 Inglis Community Center,State House,22,DEM,Brandon Peters,364
+Levy,10 Pine Grove Baptist Church,State House,22,DEM,Brandon Peters,95
+Levy,11 Miracle Vision Tabernacle,State House,22,DEM,Brandon Peters,243
+Levy,12 Fanning Springs City Hall,State House,22,DEM,Brandon Peters,200
+Levy,13 Tommy Usher Center,State House,22,DEM,Brandon Peters,300
+Levy,01 Levy County Ag Extension Office,Charles T. Canady,"","",Yes,772
+Levy,02 Williston Highlands,Charles T. Canady,"","",Yes,1091
+Levy,03 Bronson Dogan Cobb Building,Charles T. Canady,"","",Yes,1156
+Levy,04 Cedar Key Community Center,Charles T. Canady,"","",Yes,531
+Levy,05 Willow Sink,Charles T. Canady,"","",Yes,1293
+Levy,06 Gulf Hammock Church of God,Charles T. Canady,"","",Yes,202
+Levy,07 Williston City Hall,Charles T. Canady,"","",Yes,924
+Levy,08 Morriston Baptist Church,Charles T. Canady,"","",Yes,1299
+Levy,09 Inglis Community Center,Charles T. Canady,"","",Yes,1006
+Levy,10 Pine Grove Baptist Church,Charles T. Canady,"","",Yes,402
+Levy,11 Miracle Vision Tabernacle,Charles T. Canady,"","",Yes,446
+Levy,12 Fanning Springs City Hall,Charles T. Canady,"","",Yes,720
+Levy,13 Tommy Usher Center,Charles T. Canady,"","",Yes,703
+Levy,01 Levy County Ag Extension Office,Charles T. Canady,"","",No,371
+Levy,02 Williston Highlands,Charles T. Canady,"","",No,550
+Levy,03 Bronson Dogan Cobb Building,Charles T. Canady,"","",No,629
+Levy,04 Cedar Key Community Center,Charles T. Canady,"","",No,259
+Levy,05 Willow Sink,Charles T. Canady,"","",No,621
+Levy,06 Gulf Hammock Church of God,Charles T. Canady,"","",No,102
+Levy,07 Williston City Hall,Charles T. Canady,"","",No,553
+Levy,08 Morriston Baptist Church,Charles T. Canady,"","",No,554
+Levy,09 Inglis Community Center,Charles T. Canady,"","",No,533
+Levy,10 Pine Grove Baptist Church,Charles T. Canady,"","",No,212
+Levy,11 Miracle Vision Tabernacle,Charles T. Canady,"","",No,279
+Levy,12 Fanning Springs City Hall,Charles T. Canady,"","",No,352
+Levy,13 Tommy Usher Center,Charles T. Canady,"","",No,409
+Levy,01 Levy County Ag Extension Office,John D. Couriel,"","",Yes,772
+Levy,02 Williston Highlands,John D. Couriel,"","",Yes,1102
+Levy,03 Bronson Dogan Cobb Building,John D. Couriel,"","",Yes,1177
+Levy,04 Cedar Key Community Center,John D. Couriel,"","",Yes,526
+Levy,05 Willow Sink,John D. Couriel,"","",Yes,1321
+Levy,06 Gulf Hammock Church of God,John D. Couriel,"","",Yes,214
+Levy,07 Williston City Hall,John D. Couriel,"","",Yes,962
+Levy,08 Morriston Baptist Church,John D. Couriel,"","",Yes,1339
+Levy,09 Inglis Community Center,John D. Couriel,"","",Yes,1074
+Levy,10 Pine Grove Baptist Church,John D. Couriel,"","",Yes,432
+Levy,11 Miracle Vision Tabernacle,John D. Couriel,"","",Yes,472
+Levy,12 Fanning Springs City Hall,John D. Couriel,"","",Yes,729
+Levy,13 Tommy Usher Center,John D. Couriel,"","",Yes,732
+Levy,01 Levy County Ag Extension Office,John D. Couriel,"","",No,359
+Levy,02 Williston Highlands,John D. Couriel,"","",No,530
+Levy,03 Bronson Dogan Cobb Building,John D. Couriel,"","",No,595
+Levy,04 Cedar Key Community Center,John D. Couriel,"","",No,258
+Levy,05 Willow Sink,John D. Couriel,"","",No,583
+Levy,06 Gulf Hammock Church of God,John D. Couriel,"","",No,87
+Levy,07 Williston City Hall,John D. Couriel,"","",No,516
+Levy,08 Morriston Baptist Church,John D. Couriel,"","",No,505
+Levy,09 Inglis Community Center,John D. Couriel,"","",No,447
+Levy,10 Pine Grove Baptist Church,John D. Couriel,"","",No,183
+Levy,11 Miracle Vision Tabernacle,John D. Couriel,"","",No,250
+Levy,12 Fanning Springs City Hall,John D. Couriel,"","",No,339
+Levy,13 Tommy Usher Center,John D. Couriel,"","",No,375
+Levy,01 Levy County Ag Extension Office,Jaime Grosshans,"","",Yes,780
+Levy,02 Williston Highlands,Jaime Grosshans,"","",Yes,1105
+Levy,03 Bronson Dogan Cobb Building,Jaime Grosshans,"","",Yes,1192
+Levy,04 Cedar Key Community Center,Jaime Grosshans,"","",Yes,501
+Levy,05 Willow Sink,Jaime Grosshans,"","",Yes,1326
+Levy,06 Gulf Hammock Church of God,Jaime Grosshans,"","",Yes,212
+Levy,07 Williston City Hall,Jaime Grosshans,"","",Yes,943
+Levy,08 Morriston Baptist Church,Jaime Grosshans,"","",Yes,1322
+Levy,09 Inglis Community Center,Jaime Grosshans,"","",Yes,1064
+Levy,10 Pine Grove Baptist Church,Jaime Grosshans,"","",Yes,433
+Levy,11 Miracle Vision Tabernacle,Jaime Grosshans,"","",Yes,471
+Levy,12 Fanning Springs City Hall,Jaime Grosshans,"","",Yes,735
+Levy,13 Tommy Usher Center,Jaime Grosshans,"","",Yes,736
+Levy,01 Levy County Ag Extension Office,Jaime Grosshans,"","",No,357
+Levy,02 Williston Highlands,Jaime Grosshans,"","",No,518
+Levy,03 Bronson Dogan Cobb Building,Jaime Grosshans,"","",No,581
+Levy,04 Cedar Key Community Center,Jaime Grosshans,"","",No,283
+Levy,05 Willow Sink,Jaime Grosshans,"","",No,577
+Levy,06 Gulf Hammock Church of God,Jaime Grosshans,"","",No,87
+Levy,07 Williston City Hall,Jaime Grosshans,"","",No,534
+Levy,08 Morriston Baptist Church,Jaime Grosshans,"","",No,518
+Levy,09 Inglis Community Center,Jaime Grosshans,"","",No,456
+Levy,10 Pine Grove Baptist Church,Jaime Grosshans,"","",No,183
+Levy,11 Miracle Vision Tabernacle,Jaime Grosshans,"","",No,251
+Levy,12 Fanning Springs City Hall,Jaime Grosshans,"","",No,333
+Levy,13 Tommy Usher Center,Jaime Grosshans,"","",No,362
+Levy,01 Levy County Ag Extension Office,Jorge Labarga,"","",Yes,673
+Levy,02 Williston Highlands,Jorge Labarga,"","",Yes,900
+Levy,03 Bronson Dogan Cobb Building,Jorge Labarga,"","",Yes,1008
+Levy,04 Cedar Key Community Center,Jorge Labarga,"","",Yes,463
+Levy,05 Willow Sink,Jorge Labarga,"","",Yes,1038
+Levy,06 Gulf Hammock Church of God,Jorge Labarga,"","",Yes,154
+Levy,07 Williston City Hall,Jorge Labarga,"","",Yes,836
+Levy,08 Morriston Baptist Church,Jorge Labarga,"","",Yes,1029
+Levy,09 Inglis Community Center,Jorge Labarga,"","",Yes,886
+Levy,10 Pine Grove Baptist Church,Jorge Labarga,"","",Yes,315
+Levy,11 Miracle Vision Tabernacle,Jorge Labarga,"","",Yes,383
+Levy,12 Fanning Springs City Hall,Jorge Labarga,"","",Yes,584
+Levy,13 Tommy Usher Center,Jorge Labarga,"","",Yes,581
+Levy,01 Levy County Ag Extension Office,Jorge Labarga,"","",No,463
+Levy,02 Williston Highlands,Jorge Labarga,"","",No,732
+Levy,03 Bronson Dogan Cobb Building,Jorge Labarga,"","",No,772
+Levy,04 Cedar Key Community Center,Jorge Labarga,"","",No,320
+Levy,05 Willow Sink,Jorge Labarga,"","",No,863
+Levy,06 Gulf Hammock Church of God,Jorge Labarga,"","",No,148
+Levy,07 Williston City Hall,Jorge Labarga,"","",No,641
+Levy,08 Morriston Baptist Church,Jorge Labarga,"","",No,816
+Levy,09 Inglis Community Center,Jorge Labarga,"","",No,634
+Levy,10 Pine Grove Baptist Church,Jorge Labarga,"","",No,299
+Levy,11 Miracle Vision Tabernacle,Jorge Labarga,"","",No,343
+Levy,12 Fanning Springs City Hall,Jorge Labarga,"","",No,486
+Levy,13 Tommy Usher Center,Jorge Labarga,"","",No,524
+Levy,01 Levy County Ag Extension Office,Ricky Polston,"","",Yes,744
+Levy,02 Williston Highlands,Ricky Polston,"","",Yes,1049
+Levy,03 Bronson Dogan Cobb Building,Ricky Polston,"","",Yes,1109
+Levy,04 Cedar Key Community Center,Ricky Polston,"","",Yes,500
+Levy,05 Willow Sink,Ricky Polston,"","",Yes,1219
+Levy,06 Gulf Hammock Church of God,Ricky Polston,"","",Yes,193
+Levy,07 Williston City Hall,Ricky Polston,"","",Yes,921
+Levy,08 Morriston Baptist Church,Ricky Polston,"","",Yes,1213
+Levy,09 Inglis Community Center,Ricky Polston,"","",Yes,956
+Levy,10 Pine Grove Baptist Church,Ricky Polston,"","",Yes,366
+Levy,11 Miracle Vision Tabernacle,Ricky Polston,"","",Yes,437
+Levy,12 Fanning Springs City Hall,Ricky Polston,"","",Yes,684
+Levy,13 Tommy Usher Center,Ricky Polston,"","",Yes,668
+Levy,01 Levy County Ag Extension Office,Ricky Polston,"","",No,387
+Levy,02 Williston Highlands,Ricky Polston,"","",No,578
+Levy,03 Bronson Dogan Cobb Building,Ricky Polston,"","",No,661
+Levy,04 Cedar Key Community Center,Ricky Polston,"","",No,279
+Levy,05 Willow Sink,Ricky Polston,"","",No,682
+Levy,06 Gulf Hammock Church of God,Ricky Polston,"","",No,106
+Levy,07 Williston City Hall,Ricky Polston,"","",No,553
+Levy,08 Morriston Baptist Church,Ricky Polston,"","",No,612
+Levy,09 Inglis Community Center,Ricky Polston,"","",No,561
+Levy,10 Pine Grove Baptist Church,Ricky Polston,"","",No,248
+Levy,11 Miracle Vision Tabernacle,Ricky Polston,"","",No,285
+Levy,12 Fanning Springs City Hall,Ricky Polston,"","",No,386
+Levy,13 Tommy Usher Center,Ricky Polston,"","",No,442
+Levy,01 Levy County Ag Extension Office,Ross L. Bilbrey,"","",Yes,756
+Levy,02 Williston Highlands,Ross L. Bilbrey,"","",Yes,1083
+Levy,03 Bronson Dogan Cobb Building,Ross L. Bilbrey,"","",Yes,1134
+Levy,04 Cedar Key Community Center,Ross L. Bilbrey,"","",Yes,485
+Levy,05 Willow Sink,Ross L. Bilbrey,"","",Yes,1265
+Levy,06 Gulf Hammock Church of God,Ross L. Bilbrey,"","",Yes,195
+Levy,07 Williston City Hall,Ross L. Bilbrey,"","",Yes,940
+Levy,08 Morriston Baptist Church,Ross L. Bilbrey,"","",Yes,1233
+Levy,09 Inglis Community Center,Ross L. Bilbrey,"","",Yes,1017
+Levy,10 Pine Grove Baptist Church,Ross L. Bilbrey,"","",Yes,380
+Levy,11 Miracle Vision Tabernacle,Ross L. Bilbrey,"","",Yes,448
+Levy,12 Fanning Springs City Hall,Ross L. Bilbrey,"","",Yes,702
+Levy,13 Tommy Usher Center,Ross L. Bilbrey,"","",Yes,710
+Levy,01 Levy County Ag Extension Office,Ross L. Bilbrey,"","",No,367
+Levy,02 Williston Highlands,Ross L. Bilbrey,"","",No,524
+Levy,03 Bronson Dogan Cobb Building,Ross L. Bilbrey,"","",No,629
+Levy,04 Cedar Key Community Center,Ross L. Bilbrey,"","",No,285
+Levy,05 Willow Sink,Ross L. Bilbrey,"","",No,627
+Levy,06 Gulf Hammock Church of God,Ross L. Bilbrey,"","",No,104
+Levy,07 Williston City Hall,Ross L. Bilbrey,"","",No,526
+Levy,08 Morriston Baptist Church,Ross L. Bilbrey,"","",No,584
+Levy,09 Inglis Community Center,Ross L. Bilbrey,"","",No,487
+Levy,10 Pine Grove Baptist Church,Ross L. Bilbrey,"","",No,231
+Levy,11 Miracle Vision Tabernacle,Ross L. Bilbrey,"","",No,268
+Levy,12 Fanning Springs City Hall,Ross L. Bilbrey,"","",No,367
+Levy,13 Tommy Usher Center,Ross L. Bilbrey,"","",No,391
+Levy,01 Levy County Ag Extension Office,Susan Kelsey,"","",Yes,787
+Levy,02 Williston Highlands,Susan Kelsey,"","",Yes,1104
+Levy,03 Bronson Dogan Cobb Building,Susan Kelsey,"","",Yes,1174
+Levy,04 Cedar Key Community Center,Susan Kelsey,"","",Yes,507
+Levy,05 Willow Sink,Susan Kelsey,"","",Yes,1287
+Levy,06 Gulf Hammock Church of God,Susan Kelsey,"","",Yes,199
+Levy,07 Williston City Hall,Susan Kelsey,"","",Yes,951
+Levy,08 Morriston Baptist Church,Susan Kelsey,"","",Yes,1270
+Levy,09 Inglis Community Center,Susan Kelsey,"","",Yes,1027
+Levy,10 Pine Grove Baptist Church,Susan Kelsey,"","",Yes,406
+Levy,11 Miracle Vision Tabernacle,Susan Kelsey,"","",Yes,461
+Levy,12 Fanning Springs City Hall,Susan Kelsey,"","",Yes,727
+Levy,13 Tommy Usher Center,Susan Kelsey,"","",Yes,717
+Levy,01 Levy County Ag Extension Office,Susan Kelsey,"","",No,334
+Levy,02 Williston Highlands,Susan Kelsey,"","",No,506
+Levy,03 Bronson Dogan Cobb Building,Susan Kelsey,"","",No,585
+Levy,04 Cedar Key Community Center,Susan Kelsey,"","",No,257
+Levy,05 Willow Sink,Susan Kelsey,"","",No,598
+Levy,06 Gulf Hammock Church of God,Susan Kelsey,"","",No,97
+Levy,07 Williston City Hall,Susan Kelsey,"","",No,511
+Levy,08 Morriston Baptist Church,Susan Kelsey,"","",No,537
+Levy,09 Inglis Community Center,Susan Kelsey,"","",No,478
+Levy,10 Pine Grove Baptist Church,Susan Kelsey,"","",No,204
+Levy,11 Miracle Vision Tabernacle,Susan Kelsey,"","",No,251
+Levy,12 Fanning Springs City Hall,Susan Kelsey,"","",No,342
+Levy,13 Tommy Usher Center,Susan Kelsey,"","",No,377
+Levy,01 Levy County Ag Extension Office,Bobby Long,"","",Yes,786
+Levy,02 Williston Highlands,Bobby Long,"","",Yes,1126
+Levy,03 Bronson Dogan Cobb Building,Bobby Long,"","",Yes,1192
+Levy,04 Cedar Key Community Center,Bobby Long,"","",Yes,526
+Levy,05 Willow Sink,Bobby Long,"","",Yes,1336
+Levy,06 Gulf Hammock Church of God,Bobby Long,"","",Yes,209
+Levy,07 Williston City Hall,Bobby Long,"","",Yes,967
+Levy,08 Morriston Baptist Church,Bobby Long,"","",Yes,1313
+Levy,09 Inglis Community Center,Bobby Long,"","",Yes,1062
+Levy,10 Pine Grove Baptist Church,Bobby Long,"","",Yes,439
+Levy,11 Miracle Vision Tabernacle,Bobby Long,"","",Yes,482
+Levy,12 Fanning Springs City Hall,Bobby Long,"","",Yes,738
+Levy,13 Tommy Usher Center,Bobby Long,"","",Yes,740
+Levy,01 Levy County Ag Extension Office,Bobby Long,"","",No,339
+Levy,02 Williston Highlands,Bobby Long,"","",No,486
+Levy,03 Bronson Dogan Cobb Building,Bobby Long,"","",No,576
+Levy,04 Cedar Key Community Center,Bobby Long,"","",No,238
+Levy,05 Willow Sink,Bobby Long,"","",No,553
+Levy,06 Gulf Hammock Church of God,Bobby Long,"","",No,89
+Levy,07 Williston City Hall,Bobby Long,"","",No,499
+Levy,08 Morriston Baptist Church,Bobby Long,"","",No,503
+Levy,09 Inglis Community Center,Bobby Long,"","",No,447
+Levy,10 Pine Grove Baptist Church,Bobby Long,"","",No,174
+Levy,11 Miracle Vision Tabernacle,Bobby Long,"","",No,234
+Levy,12 Fanning Springs City Hall,Bobby Long,"","",No,328
+Levy,13 Tommy Usher Center,Bobby Long,"","",No,353
+Levy,01 Levy County Ag Extension Office,Lori S. Rowe,"","",Yes,768
+Levy,02 Williston Highlands,Lori S. Rowe,"","",Yes,1067
+Levy,03 Bronson Dogan Cobb Building,Lori S. Rowe,"","",Yes,1104
+Levy,04 Cedar Key Community Center,Lori S. Rowe,"","",Yes,478
+Levy,05 Willow Sink,Lori S. Rowe,"","",Yes,1249
+Levy,06 Gulf Hammock Church of God,Lori S. Rowe,"","",Yes,186
+Levy,07 Williston City Hall,Lori S. Rowe,"","",Yes,949
+Levy,08 Morriston Baptist Church,Lori S. Rowe,"","",Yes,1225
+Levy,09 Inglis Community Center,Lori S. Rowe,"","",Yes,953
+Levy,10 Pine Grove Baptist Church,Lori S. Rowe,"","",Yes,390
+Levy,11 Miracle Vision Tabernacle,Lori S. Rowe,"","",Yes,442
+Levy,12 Fanning Springs City Hall,Lori S. Rowe,"","",Yes,667
+Levy,13 Tommy Usher Center,Lori S. Rowe,"","",Yes,666
+Levy,01 Levy County Ag Extension Office,Lori S. Rowe,"","",No,352
+Levy,02 Williston Highlands,Lori S. Rowe,"","",No,541
+Levy,03 Bronson Dogan Cobb Building,Lori S. Rowe,"","",No,656
+Levy,04 Cedar Key Community Center,Lori S. Rowe,"","",No,285
+Levy,05 Willow Sink,Lori S. Rowe,"","",No,629
+Levy,06 Gulf Hammock Church of God,Lori S. Rowe,"","",No,111
+Levy,07 Williston City Hall,Lori S. Rowe,"","",No,514
+Levy,08 Morriston Baptist Church,Lori S. Rowe,"","",No,587
+Levy,09 Inglis Community Center,Lori S. Rowe,"","",No,542
+Levy,10 Pine Grove Baptist Church,Lori S. Rowe,"","",No,221
+Levy,11 Miracle Vision Tabernacle,Lori S. Rowe,"","",No,272
+Levy,12 Fanning Springs City Hall,Lori S. Rowe,"","",No,397
+Levy,13 Tommy Usher Center,Lori S. Rowe,"","",No,427
+Levy,01 Levy County Ag Extension Office,Bo Winokur,"","",Yes,752
+Levy,02 Williston Highlands,Bo Winokur,"","",Yes,1068
+Levy,03 Bronson Dogan Cobb Building,Bo Winokur,"","",Yes,1134
+Levy,04 Cedar Key Community Center,Bo Winokur,"","",Yes,481
+Levy,05 Willow Sink,Bo Winokur,"","",Yes,1262
+Levy,06 Gulf Hammock Church of God,Bo Winokur,"","",Yes,198
+Levy,07 Williston City Hall,Bo Winokur,"","",Yes,939
+Levy,08 Morriston Baptist Church,Bo Winokur,"","",Yes,1261
+Levy,09 Inglis Community Center,Bo Winokur,"","",Yes,1008
+Levy,10 Pine Grove Baptist Church,Bo Winokur,"","",Yes,403
+Levy,11 Miracle Vision Tabernacle,Bo Winokur,"","",Yes,440
+Levy,12 Fanning Springs City Hall,Bo Winokur,"","",Yes,705
+Levy,13 Tommy Usher Center,Bo Winokur,"","",Yes,713
+Levy,01 Levy County Ag Extension Office,Bo Winokur,"","",No,369
+Levy,02 Williston Highlands,Bo Winokur,"","",No,537
+Levy,03 Bronson Dogan Cobb Building,Bo Winokur,"","",No,627
+Levy,04 Cedar Key Community Center,Bo Winokur,"","",No,281
+Levy,05 Willow Sink,Bo Winokur,"","",No,622
+Levy,06 Gulf Hammock Church of God,Bo Winokur,"","",No,100
+Levy,07 Williston City Hall,Bo Winokur,"","",No,517
+Levy,08 Morriston Baptist Church,Bo Winokur,"","",No,549
+Levy,09 Inglis Community Center,Bo Winokur,"","",No,481
+Levy,10 Pine Grove Baptist Church,Bo Winokur,"","",No,208
+Levy,11 Miracle Vision Tabernacle,Bo Winokur,"","",No,275
+Levy,12 Fanning Springs City Hall,Bo Winokur,"","",No,359
+Levy,13 Tommy Usher Center,Bo Winokur,"","",No,384
+Levy,01 Levy County Ag Extension Office,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,925
+Levy,02 Williston Highlands,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1334
+Levy,03 Bronson Dogan Cobb Building,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1392
+Levy,04 Cedar Key Community Center,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,630
+Levy,05 Willow Sink,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1671
+Levy,06 Gulf Hammock Church of God,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,269
+Levy,07 Williston City Hall,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1064
+Levy,08 Morriston Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1569
+Levy,09 Inglis Community Center,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,1251
+Levy,10 Pine Grove Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,559
+Levy,11 Miracle Vision Tabernacle,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,562
+Levy,12 Fanning Springs City Hall,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,949
+Levy,13 Tommy Usher Center,"Circuit Judge 8th Cir, Grp 12","","",Sean Brewer,918
+Levy,01 Levy County Ag Extension Office,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,221
+Levy,02 Williston Highlands,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,312
+Levy,03 Bronson Dogan Cobb Building,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,392
+Levy,04 Cedar Key Community Center,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,160
+Levy,05 Willow Sink,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,277
+Levy,06 Gulf Hammock Church of God,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,35
+Levy,07 Williston City Hall,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,428
+Levy,08 Morriston Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,289
+Levy,09 Inglis Community Center,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,250
+Levy,10 Pine Grove Baptist Church,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,79
+Levy,11 Miracle Vision Tabernacle,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,178
+Levy,12 Fanning Springs City Hall,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,125
+Levy,13 Tommy Usher Center,"Circuit Judge 8th Cir, Grp 12","","",AuBroncee Martin,216
+Levy,01 Levy County Ag Extension Office,Amendment 1,"","",Yes,653
+Levy,02 Williston Highlands,Amendment 1,"","",Yes,942
+Levy,03 Bronson Dogan Cobb Building,Amendment 1,"","",Yes,1041
+Levy,04 Cedar Key Community Center,Amendment 1,"","",Yes,477
+Levy,05 Willow Sink,Amendment 1,"","",Yes,1120
+Levy,06 Gulf Hammock Church of God,Amendment 1,"","",Yes,164
+Levy,07 Williston City Hall,Amendment 1,"","",Yes,848
+Levy,08 Morriston Baptist Church,Amendment 1,"","",Yes,1125
+Levy,09 Inglis Community Center,Amendment 1,"","",Yes,946
+Levy,10 Pine Grove Baptist Church,Amendment 1,"","",Yes,346
+Levy,11 Miracle Vision Tabernacle,Amendment 1,"","",Yes,400
+Levy,12 Fanning Springs City Hall,Amendment 1,"","",Yes,614
+Levy,13 Tommy Usher Center,Amendment 1,"","",Yes,634
+Levy,01 Levy County Ag Extension Office,Amendment 1,"","",No,503
+Levy,02 Williston Highlands,Amendment 1,"","",No,786
+Levy,03 Bronson Dogan Cobb Building,Amendment 1,"","",No,793
+Levy,04 Cedar Key Community Center,Amendment 1,"","",No,392
+Levy,05 Willow Sink,Amendment 1,"","",No,885
+Levy,06 Gulf Hammock Church of God,Amendment 1,"","",No,150
+Levy,07 Williston City Hall,Amendment 1,"","",No,670
+Levy,08 Morriston Baptist Church,Amendment 1,"","",No,852
+Levy,09 Inglis Community Center,Amendment 1,"","",No,682
+Levy,10 Pine Grove Baptist Church,Amendment 1,"","",No,277
+Levy,11 Miracle Vision Tabernacle,Amendment 1,"","",No,360
+Levy,12 Fanning Springs City Hall,Amendment 1,"","",No,471
+Levy,13 Tommy Usher Center,Amendment 1,"","",No,507
+Levy,01 Levy County Ag Extension Office,Amendment 2,"","",Yes,659
+Levy,02 Williston Highlands,Amendment 2,"","",Yes,938
+Levy,03 Bronson Dogan Cobb Building,Amendment 2,"","",Yes,981
+Levy,04 Cedar Key Community Center,Amendment 2,"","",Yes,457
+Levy,05 Willow Sink,Amendment 2,"","",Yes,1101
+Levy,06 Gulf Hammock Church of God,Amendment 2,"","",Yes,155
+Levy,07 Williston City Hall,Amendment 2,"","",Yes,824
+Levy,08 Morriston Baptist Church,Amendment 2,"","",Yes,1139
+Levy,09 Inglis Community Center,Amendment 2,"","",Yes,929
+Levy,10 Pine Grove Baptist Church,Amendment 2,"","",Yes,326
+Levy,11 Miracle Vision Tabernacle,Amendment 2,"","",Yes,398
+Levy,12 Fanning Springs City Hall,Amendment 2,"","",Yes,588
+Levy,13 Tommy Usher Center,Amendment 2,"","",Yes,614
+Levy,01 Levy County Ag Extension Office,Amendment 2,"","",No,495
+Levy,02 Williston Highlands,Amendment 2,"","",No,778
+Levy,03 Bronson Dogan Cobb Building,Amendment 2,"","",No,839
+Levy,04 Cedar Key Community Center,Amendment 2,"","",No,399
+Levy,05 Willow Sink,Amendment 2,"","",No,885
+Levy,06 Gulf Hammock Church of God,Amendment 2,"","",No,158
+Levy,07 Williston City Hall,Amendment 2,"","",No,680
+Levy,08 Morriston Baptist Church,Amendment 2,"","",No,821
+Levy,09 Inglis Community Center,Amendment 2,"","",No,680
+Levy,10 Pine Grove Baptist Church,Amendment 2,"","",No,296
+Levy,11 Miracle Vision Tabernacle,Amendment 2,"","",No,363
+Levy,12 Fanning Springs City Hall,Amendment 2,"","",No,492
+Levy,13 Tommy Usher Center,Amendment 2,"","",No,520
+Levy,01 Levy County Ag Extension Office,Amendment 3,"","",Yes,678
+Levy,02 Williston Highlands,Amendment 3,"","",Yes,984
+Levy,03 Bronson Dogan Cobb Building,Amendment 3,"","",Yes,1092
+Levy,04 Cedar Key Community Center,Amendment 3,"","",Yes,469
+Levy,05 Willow Sink,Amendment 3,"","",Yes,1094
+Levy,06 Gulf Hammock Church of God,Amendment 3,"","",Yes,146
+Levy,07 Williston City Hall,Amendment 3,"","",Yes,919
+Levy,08 Morriston Baptist Church,Amendment 3,"","",Yes,1089
+Levy,09 Inglis Community Center,Amendment 3,"","",Yes,823
+Levy,10 Pine Grove Baptist Church,Amendment 3,"","",Yes,329
+Levy,11 Miracle Vision Tabernacle,Amendment 3,"","",Yes,392
+Levy,12 Fanning Springs City Hall,Amendment 3,"","",Yes,610
+Levy,13 Tommy Usher Center,Amendment 3,"","",Yes,690
+Levy,01 Levy County Ag Extension Office,Amendment 3,"","",No,497
+Levy,02 Williston Highlands,Amendment 3,"","",No,782
+Levy,03 Bronson Dogan Cobb Building,Amendment 3,"","",No,780
+Levy,04 Cedar Key Community Center,Amendment 3,"","",No,419
+Levy,05 Willow Sink,Amendment 3,"","",No,951
+Levy,06 Gulf Hammock Church of God,Amendment 3,"","",No,173
+Levy,07 Williston City Hall,Amendment 3,"","",No,629
+Levy,08 Morriston Baptist Church,Amendment 3,"","",No,920
+Levy,09 Inglis Community Center,Amendment 3,"","",No,837
+Levy,10 Pine Grove Baptist Church,Amendment 3,"","",No,312
+Levy,11 Miracle Vision Tabernacle,Amendment 3,"","",No,394
+Levy,12 Fanning Springs City Hall,Amendment 3,"","",No,490
+Levy,13 Tommy Usher Center,Amendment 3,"","",No,486
