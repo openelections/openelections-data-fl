@@ -118,6 +118,8 @@ parsefile <- function(county, state, cfile){
         
         xx$office[grepl("^Governor and L",xx$office,ignore.case = TRUE)] <- "Governor" # standardize by deleting Lt. Governor
         xx$office[grepl("^Governor & L",xx$office,ignore.case = TRUE)] <- "Governor"   # standardize by deleting Lt. Governor
+        xx$office[grepl("^Governor/L",xx$office,ignore.case = TRUE)] <- "Governor"     # standardize - Levy County,FL
+        xx$office[grepl("^Gov./L",xx$office,ignore.case = TRUE)] <- "Governor"         # standardize - Santa Rosa County,FL
         #xx$office[xx$office == "Ballots Cast - Blank"] <- "BALLOTS CAST - BLANK" # avoids next statement
         #xx$office[grepl("^Ballots Cast -",xx$office)] <- "Ballots Cast"
         xx$office[grepl("^Ballots Cast - Republican",xx$office)] <- "Ballots Cast"
