@@ -116,6 +116,8 @@ parsefile <- function(county, state, cfile){
         xx$candidate[grepl("^REGISTERED VOTERS",xx$candidate,ignore.case = TRUE)] <- ""
         xx$county <- str_to_title(xx$county) #Cooke County
         
+        xx$office[grepl("^Governor and L",xx$office,ignore.case = TRUE)] <- "Governor" # standardize by deleting Lt. Governor
+        xx$office[grepl("^Governor & L",xx$office,ignore.case = TRUE)] <- "Governor"   # standardize by deleting Lt. Governor
         #xx$office[xx$office == "Ballots Cast - Blank"] <- "BALLOTS CAST - BLANK" # avoids next statement
         #xx$office[grepl("^Ballots Cast -",xx$office)] <- "Ballots Cast"
         xx$office[grepl("^Ballots Cast - Republican",xx$office)] <- "Ballots Cast"
@@ -351,6 +353,10 @@ parsefile <- function(county, state, cfile){
     # Comment out following test if no Senate race in this state for this election
     if (length(which(xx$office == "U.S. Senate")) == 0){
         errmsg("Failed to find U.S. Senate")
+    }
+    which_govx <- which(grepl("Governor ",xx$office,ignore.case = TRUE))
+    if (length(which_govx > 0)){
+        errmsg(paste0("Found offices containing 'Governor ': ",unique(xx$office[which_govx])))
     }
     return(xx)
 }
