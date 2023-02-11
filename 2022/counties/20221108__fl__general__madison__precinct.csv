@@ -87,50 +87,50 @@ Madison,4,U.S. House,2,DEM,Al Lawson,52,,,
 Madison,5,U.S. House,2,DEM,Al Lawson,355,89,203,63
 Madison,6,U.S. House,2,DEM,Al Lawson,40,,,
 Madison,7,U.S. House,2,DEM,Al Lawson,196,86,50,60
-Madison,1,Governor and Lieutenant Governor,"",REP,Ron DeSantis,784,412,263,109
-Madison,8,Governor and Lieutenant Governor,"",REP,Ron DeSantis,573,294,237,42
-Madison,9,Governor and Lieutenant Governor,"",REP,Ron DeSantis,115,,,
-Madison,10,Governor and Lieutenant Governor,"",REP,Ron DeSantis,408,187,158,63
-Madison,11,Governor and Lieutenant Governor,"",REP,Ron DeSantis,228,,,
-Madison,2,Governor and Lieutenant Governor,"",REP,Ron DeSantis,49,,,
-Madison,3,Governor and Lieutenant Governor,"",REP,Ron DeSantis,1210,580,509,121
-Madison,4,Governor and Lieutenant Governor,"",REP,Ron DeSantis,207,,,
-Madison,5,Governor and Lieutenant Governor,"",REP,Ron DeSantis,292,96,158,38
-Madison,6,Governor and Lieutenant Governor,"",REP,Ron DeSantis,180,,,
-Madison,7,Governor and Lieutenant Governor,"",REP,Ron DeSantis,615,317,218,80
-Madison,1,Governor and Lieutenant Governor,"",DEM,Charlie Crist,456,187,189,80
-Madison,8,Governor and Lieutenant Governor,"",DEM,Charlie Crist,143,,,
-Madison,9,Governor and Lieutenant Governor,"",DEM,Charlie Crist,55,,,
-Madison,10,Governor and Lieutenant Governor,"",DEM,Charlie Crist,378,146,135,97
-Madison,11,Governor and Lieutenant Governor,"",DEM,Charlie Crist,315,119,143,53
-Madison,2,Governor and Lieutenant Governor,"",DEM,Charlie Crist,132,50,41,41
-Madison,3,Governor and Lieutenant Governor,"",DEM,Charlie Crist,218,86,78,54
-Madison,4,Governor and Lieutenant Governor,"",DEM,Charlie Crist,49,,,
-Madison,5,Governor and Lieutenant Governor,"",DEM,Charlie Crist,329,81,188,60
-Madison,6,Governor and Lieutenant Governor,"",DEM,Charlie Crist,38,,,
-Madison,7,Governor and Lieutenant Governor,"",DEM,Charlie Crist,180,80,48,52
-Madison,1,Governor and Lieutenant Governor,"",LPF,Hector Roos,3,,,
-Madison,8,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,9,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,10,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
-Madison,11,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
-Madison,2,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
-Madison,3,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,4,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,5,Governor and Lieutenant Governor,"",LPF,Hector Roos,2,,,
-Madison,6,Governor and Lieutenant Governor,"",LPF,Hector Roos,1,,,
-Madison,7,Governor and Lieutenant Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,1,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,2,,,
-Madison,8,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Madison,9,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,10,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,4,,,
-Madison,11,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,3,,,
-Madison,2,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,3,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Madison,4,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,5,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,5,,,
-Madison,6,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,7,Governor and Lieutenant Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,1,Governor,"",REP,Ron DeSantis,784,412,263,109
+Madison,8,Governor,"",REP,Ron DeSantis,573,294,237,42
+Madison,9,Governor,"",REP,Ron DeSantis,115,,,
+Madison,10,Governor,"",REP,Ron DeSantis,408,187,158,63
+Madison,11,Governor,"",REP,Ron DeSantis,228,,,
+Madison,2,Governor,"",REP,Ron DeSantis,49,,,
+Madison,3,Governor,"",REP,Ron DeSantis,1210,580,509,121
+Madison,4,Governor,"",REP,Ron DeSantis,207,,,
+Madison,5,Governor,"",REP,Ron DeSantis,292,96,158,38
+Madison,6,Governor,"",REP,Ron DeSantis,180,,,
+Madison,7,Governor,"",REP,Ron DeSantis,615,317,218,80
+Madison,1,Governor,"",DEM,Charlie Crist,456,187,189,80
+Madison,8,Governor,"",DEM,Charlie Crist,143,,,
+Madison,9,Governor,"",DEM,Charlie Crist,55,,,
+Madison,10,Governor,"",DEM,Charlie Crist,378,146,135,97
+Madison,11,Governor,"",DEM,Charlie Crist,315,119,143,53
+Madison,2,Governor,"",DEM,Charlie Crist,132,50,41,41
+Madison,3,Governor,"",DEM,Charlie Crist,218,86,78,54
+Madison,4,Governor,"",DEM,Charlie Crist,49,,,
+Madison,5,Governor,"",DEM,Charlie Crist,329,81,188,60
+Madison,6,Governor,"",DEM,Charlie Crist,38,,,
+Madison,7,Governor,"",DEM,Charlie Crist,180,80,48,52
+Madison,1,Governor,"",LPF,Hector Roos,3,,,
+Madison,8,Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,9,Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,10,Governor,"",LPF,Hector Roos,2,,,
+Madison,11,Governor,"",LPF,Hector Roos,2,,,
+Madison,2,Governor,"",LPF,Hector Roos,1,,,
+Madison,3,Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,4,Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,5,Governor,"",LPF,Hector Roos,2,,,
+Madison,6,Governor,"",LPF,Hector Roos,1,,,
+Madison,7,Governor,"",LPF,Hector Roos,0,0,0,0
+Madison,1,Governor,"",NPA,Carmen Jackie Gimenez,2,,,
+Madison,8,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Madison,9,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,10,Governor,"",NPA,Carmen Jackie Gimenez,4,,,
+Madison,11,Governor,"",NPA,Carmen Jackie Gimenez,3,,,
+Madison,2,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,3,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
+Madison,4,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,5,Governor,"",NPA,Carmen Jackie Gimenez,5,,,
+Madison,6,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
+Madison,7,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
 Madison,1,Attorney General,"",REP,Ashley Moody,809,428,272,109
 Madison,8,Attorney General,"",REP,Ashley Moody,585,298,239,48
 Madison,9,Attorney General,"",REP,Ashley Moody,116,,,
