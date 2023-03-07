@@ -1,869 +1,869 @@
 county,precinct,office,district,party,candidate,votes
-Gulf,Honeyville Community Center,U.S. Senate,"",REP,Marco Rubio,1026
-Gulf,Wewahitchka Public Library,U.S. Senate,"",REP,Marco Rubio,678
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"",REP,Marco Rubio,547
-Gulf,Port St. Joe Fire Station,U.S. Senate,"",REP,Marco Rubio,394
-Gulf,Centennial Building,U.S. Senate,"",REP,Marco Rubio,1076
-Gulf,White City Fire Station,U.S. Senate,"",REP,Marco Rubio,150
-Gulf,Cape San Blas Fire Station,U.S. Senate,"",REP,Marco Rubio,436
-Gulf,Howard Creek Fire Station,U.S. Senate,"",REP,Marco Rubio,141
-Gulf,Overstreet Fire Station,U.S. Senate,"",REP,Marco Rubio,361
-Gulf,Highland View Fire Station,U.S. Senate,"",REP,Marco Rubio,260
-Gulf,Honeyville Community Center,U.S. Senate,"",DEM,Val Demings,135
-Gulf,Wewahitchka Public Library,U.S. Senate,"",DEM,Val Demings,149
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"",DEM,Val Demings,163
-Gulf,Port St. Joe Fire Station,U.S. Senate,"",DEM,Val Demings,371
-Gulf,Centennial Building,U.S. Senate,"",DEM,Val Demings,145
-Gulf,White City Fire Station,U.S. Senate,"",DEM,Val Demings,17
-Gulf,Cape San Blas Fire Station,U.S. Senate,"",DEM,Val Demings,164
-Gulf,Howard Creek Fire Station,U.S. Senate,"",DEM,Val Demings,13
-Gulf,Overstreet Fire Station,U.S. Senate,"",DEM,Val Demings,79
-Gulf,Highland View Fire Station,U.S. Senate,"",DEM,Val Demings,59
-Gulf,Honeyville Community Center,U.S. Senate,"",LPF,Dennis Misigoy,5
-Gulf,Wewahitchka Public Library,U.S. Senate,"",LPF,Dennis Misigoy,2
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,2
-Gulf,Port St. Joe Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,2
-Gulf,Centennial Building,U.S. Senate,"",LPF,Dennis Misigoy,4
-Gulf,White City Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,0
-Gulf,Cape San Blas Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,2
-Gulf,Howard Creek Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,0
-Gulf,Overstreet Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,2
-Gulf,Highland View Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,0
-Gulf,Honeyville Community Center,U.S. Senate,"",NPA,Steven B. Grant,5
-Gulf,Wewahitchka Public Library,U.S. Senate,"",NPA,Steven B. Grant,2
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"",NPA,Steven B. Grant,6
-Gulf,Port St. Joe Fire Station,U.S. Senate,"",NPA,Steven B. Grant,2
-Gulf,Centennial Building,U.S. Senate,"",NPA,Steven B. Grant,4
-Gulf,White City Fire Station,U.S. Senate,"",NPA,Steven B. Grant,0
-Gulf,Cape San Blas Fire Station,U.S. Senate,"",NPA,Steven B. Grant,1
-Gulf,Howard Creek Fire Station,U.S. Senate,"",NPA,Steven B. Grant,0
-Gulf,Overstreet Fire Station,U.S. Senate,"",NPA,Steven B. Grant,2
-Gulf,Highland View Fire Station,U.S. Senate,"",NPA,Steven B. Grant,2
-Gulf,Honeyville Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
-Gulf,Wewahitchka Public Library,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gulf,Port St. Joe Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gulf,Centennial Building,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Gulf,White City Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gulf,Cape San Blas Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gulf,Howard Creek Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Gulf,Overstreet Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gulf,Highland View Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Gulf,Honeyville Community Center,U.S. Senate,"","",WriteinVotes,0
-Gulf,Wewahitchka Public Library,U.S. Senate,"","",WriteinVotes,0
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"","",WriteinVotes,0
-Gulf,Port St. Joe Fire Station,U.S. Senate,"","",WriteinVotes,0
-Gulf,Centennial Building,U.S. Senate,"","",WriteinVotes,1
-Gulf,White City Fire Station,U.S. Senate,"","",WriteinVotes,0
-Gulf,Cape San Blas Fire Station,U.S. Senate,"","",WriteinVotes,0
-Gulf,Howard Creek Fire Station,U.S. Senate,"","",WriteinVotes,0
-Gulf,Overstreet Fire Station,U.S. Senate,"","",WriteinVotes,0
-Gulf,Highland View Fire Station,U.S. Senate,"","",WriteinVotes,0
-Gulf,Honeyville Community Center,U.S. Senate,"","",OverVotes,0
-Gulf,Wewahitchka Public Library,U.S. Senate,"","",OverVotes,0
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"","",OverVotes,0
-Gulf,Port St. Joe Fire Station,U.S. Senate,"","",OverVotes,0
-Gulf,Centennial Building,U.S. Senate,"","",OverVotes,0
-Gulf,White City Fire Station,U.S. Senate,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,U.S. Senate,"","",OverVotes,0
-Gulf,Howard Creek Fire Station,U.S. Senate,"","",OverVotes,0
-Gulf,Overstreet Fire Station,U.S. Senate,"","",OverVotes,0
-Gulf,Highland View Fire Station,U.S. Senate,"","",OverVotes,0
-Gulf,Honeyville Community Center,U.S. Senate,"","",UnderVotes,3
-Gulf,Wewahitchka Public Library,U.S. Senate,"","",UnderVotes,2
-Gulf,St. Joe Beach Fire Station,U.S. Senate,"","",UnderVotes,1
-Gulf,Port St. Joe Fire Station,U.S. Senate,"","",UnderVotes,3
-Gulf,Centennial Building,U.S. Senate,"","",UnderVotes,4
-Gulf,White City Fire Station,U.S. Senate,"","",UnderVotes,1
-Gulf,Cape San Blas Fire Station,U.S. Senate,"","",UnderVotes,2
-Gulf,Howard Creek Fire Station,U.S. Senate,"","",UnderVotes,2
-Gulf,Overstreet Fire Station,U.S. Senate,"","",UnderVotes,0
-Gulf,Highland View Fire Station,U.S. Senate,"","",UnderVotes,0
-Gulf,Honeyville Community Center,U.S. House,2,REP,Neal Dunn,1024
-Gulf,Wewahitchka Public Library,U.S. House,2,REP,Neal Dunn,673
-Gulf,St. Joe Beach Fire Station,U.S. House,2,REP,Neal Dunn,548
-Gulf,Port St. Joe Fire Station,U.S. House,2,REP,Neal Dunn,389
-Gulf,Centennial Building,U.S. House,2,REP,Neal Dunn,1073
-Gulf,White City Fire Station,U.S. House,2,REP,Neal Dunn,149
-Gulf,Cape San Blas Fire Station,U.S. House,2,REP,Neal Dunn,436
-Gulf,Howard Creek Fire Station,U.S. House,2,REP,Neal Dunn,138
-Gulf,Overstreet Fire Station,U.S. House,2,REP,Neal Dunn,356
-Gulf,Highland View Fire Station,U.S. House,2,REP,Neal Dunn,258
-Gulf,Honeyville Community Center,U.S. House,2,DEM,Al Lawson,154
-Gulf,Wewahitchka Public Library,U.S. House,2,DEM,Al Lawson,158
-Gulf,St. Joe Beach Fire Station,U.S. House,2,DEM,Al Lawson,169
-Gulf,Port St. Joe Fire Station,U.S. House,2,DEM,Al Lawson,377
-Gulf,Centennial Building,U.S. House,2,DEM,Al Lawson,150
-Gulf,White City Fire Station,U.S. House,2,DEM,Al Lawson,19
-Gulf,Cape San Blas Fire Station,U.S. House,2,DEM,Al Lawson,165
-Gulf,Howard Creek Fire Station,U.S. House,2,DEM,Al Lawson,16
-Gulf,Overstreet Fire Station,U.S. House,2,DEM,Al Lawson,89
-Gulf,Highland View Fire Station,U.S. House,2,DEM,Al Lawson,61
-Gulf,Honeyville Community Center,U.S. House,2,"",OverVotes,0
-Gulf,Wewahitchka Public Library,U.S. House,2,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,U.S. House,2,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,U.S. House,2,"",OverVotes,0
-Gulf,Centennial Building,U.S. House,2,"",OverVotes,0
-Gulf,White City Fire Station,U.S. House,2,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,U.S. House,2,"",OverVotes,0
-Gulf,Howard Creek Fire Station,U.S. House,2,"",OverVotes,0
-Gulf,Overstreet Fire Station,U.S. House,2,"",OverVotes,0
-Gulf,Highland View Fire Station,U.S. House,2,"",OverVotes,0
-Gulf,Honeyville Community Center,U.S. House,2,"",UnderVotes,0
-Gulf,Wewahitchka Public Library,U.S. House,2,"",UnderVotes,5
-Gulf,St. Joe Beach Fire Station,U.S. House,2,"",UnderVotes,3
-Gulf,Port St. Joe Fire Station,U.S. House,2,"",UnderVotes,7
-Gulf,Centennial Building,U.S. House,2,"",UnderVotes,11
-Gulf,White City Fire Station,U.S. House,2,"",UnderVotes,1
-Gulf,Cape San Blas Fire Station,U.S. House,2,"",UnderVotes,5
-Gulf,Howard Creek Fire Station,U.S. House,2,"",UnderVotes,2
-Gulf,Overstreet Fire Station,U.S. House,2,"",UnderVotes,0
-Gulf,Highland View Fire Station,U.S. House,2,"",UnderVotes,2
-Gulf,Honeyville Community Center,Governor,"",REP,DeSantis / Nuñez,1032
-Gulf,Wewahitchka Public Library,Governor,"",REP,DeSantis / Nuñez,687
-Gulf,St. Joe Beach Fire Station,Governor,"",REP,DeSantis / Nuñez,565
-Gulf,Port St. Joe Fire Station,Governor,"",REP,DeSantis / Nuñez,411
-Gulf,Centennial Building,Governor,"",REP,DeSantis / Nuñez,1094
-Gulf,White City Fire Station,Governor,"",REP,DeSantis / Nuñez,151
-Gulf,Cape San Blas Fire Station,Governor,"",REP,DeSantis / Nuñez,434
-Gulf,Howard Creek Fire Station,Governor,"",REP,DeSantis / Nuñez,144
-Gulf,Overstreet Fire Station,Governor,"",REP,DeSantis / Nuñez,366
-Gulf,Highland View Fire Station,Governor,"",REP,DeSantis / Nuñez,266
-Gulf,Honeyville Community Center,Governor,"",DEM,Crist / Hernandez,141
-Gulf,Wewahitchka Public Library,Governor,"",DEM,Crist / Hernandez,140
-Gulf,St. Joe Beach Fire Station,Governor,"",DEM,Crist / Hernandez,151
-Gulf,Port St. Joe Fire Station,Governor,"",DEM,Crist / Hernandez,352
-Gulf,Centennial Building,Governor,"",DEM,Crist / Hernandez,137
-Gulf,White City Fire Station,Governor,"",DEM,Crist / Hernandez,17
-Gulf,Cape San Blas Fire Station,Governor,"",DEM,Crist / Hernandez,169
-Gulf,Howard Creek Fire Station,Governor,"",DEM,Crist / Hernandez,10
-Gulf,Overstreet Fire Station,Governor,"",DEM,Crist / Hernandez,76
-Gulf,Highland View Fire Station,Governor,"",DEM,Crist / Hernandez,54
-Gulf,Honeyville Community Center,Governor,"",LPF,Roos / Rorabaugh,2
-Gulf,Wewahitchka Public Library,Governor,"",LPF,Roos / Rorabaugh,0
-Gulf,St. Joe Beach Fire Station,Governor,"",LPF,Roos / Rorabaugh,1
-Gulf,Port St. Joe Fire Station,Governor,"",LPF,Roos / Rorabaugh,4
-Gulf,Centennial Building,Governor,"",LPF,Roos / Rorabaugh,0
-Gulf,White City Fire Station,Governor,"",LPF,Roos / Rorabaugh,0
-Gulf,Cape San Blas Fire Station,Governor,"",LPF,Roos / Rorabaugh,1
-Gulf,Howard Creek Fire Station,Governor,"",LPF,Roos / Rorabaugh,0
-Gulf,Overstreet Fire Station,Governor,"",LPF,Roos / Rorabaugh,1
-Gulf,Highland View Fire Station,Governor,"",LPF,Roos / Rorabaugh,1
-Gulf,Honeyville Community Center,Governor,"",NPA,Gimenez / Gibson,1
-Gulf,Wewahitchka Public Library,Governor,"",NPA,Gimenez / Gibson,5
-Gulf,St. Joe Beach Fire Station,Governor,"",NPA,Gimenez / Gibson,2
-Gulf,Port St. Joe Fire Station,Governor,"",NPA,Gimenez / Gibson,3
-Gulf,Centennial Building,Governor,"",NPA,Gimenez / Gibson,2
-Gulf,White City Fire Station,Governor,"",NPA,Gimenez / Gibson,1
-Gulf,Cape San Blas Fire Station,Governor,"",NPA,Gimenez / Gibson,1
-Gulf,Howard Creek Fire Station,Governor,"",NPA,Gimenez / Gibson,1
-Gulf,Overstreet Fire Station,Governor,"",NPA,Gimenez / Gibson,2
-Gulf,Highland View Fire Station,Governor,"",NPA,Gimenez / Gibson,0
-Gulf,Honeyville Community Center,Governor,"","",OverVotes,1
-Gulf,Wewahitchka Public Library,Governor,"","",OverVotes,1
-Gulf,St. Joe Beach Fire Station,Governor,"","",OverVotes,0
-Gulf,Port St. Joe Fire Station,Governor,"","",OverVotes,1
-Gulf,Centennial Building,Governor,"","",OverVotes,1
-Gulf,White City Fire Station,Governor,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,Governor,"","",OverVotes,0
-Gulf,Howard Creek Fire Station,Governor,"","",OverVotes,0
-Gulf,Overstreet Fire Station,Governor,"","",OverVotes,0
-Gulf,Highland View Fire Station,Governor,"","",OverVotes,0
-Gulf,Honeyville Community Center,Governor,"","",UnderVotes,1
-Gulf,Wewahitchka Public Library,Governor,"","",UnderVotes,3
-Gulf,St. Joe Beach Fire Station,Governor,"","",UnderVotes,1
-Gulf,Port St. Joe Fire Station,Governor,"","",UnderVotes,2
-Gulf,Centennial Building,Governor,"","",UnderVotes,0
-Gulf,White City Fire Station,Governor,"","",UnderVotes,0
-Gulf,Cape San Blas Fire Station,Governor,"","",UnderVotes,1
-Gulf,Howard Creek Fire Station,Governor,"","",UnderVotes,1
-Gulf,Overstreet Fire Station,Governor,"","",UnderVotes,0
-Gulf,Highland View Fire Station,Governor,"","",UnderVotes,0
-Gulf,Honeyville Community Center,Attorney General,"",REP,Ashley Moody,1034
-Gulf,Wewahitchka Public Library,Attorney General,"",REP,Ashley Moody,676
-Gulf,St. Joe Beach Fire Station,Attorney General,"",REP,Ashley Moody,565
-Gulf,Port St. Joe Fire Station,Attorney General,"",REP,Ashley Moody,403
-Gulf,Centennial Building,Attorney General,"",REP,Ashley Moody,1103
-Gulf,White City Fire Station,Attorney General,"",REP,Ashley Moody,150
-Gulf,Cape San Blas Fire Station,Attorney General,"",REP,Ashley Moody,445
-Gulf,Howard Creek Fire Station,Attorney General,"",REP,Ashley Moody,141
-Gulf,Overstreet Fire Station,Attorney General,"",REP,Ashley Moody,364
-Gulf,Highland View Fire Station,Attorney General,"",REP,Ashley Moody,264
-Gulf,Honeyville Community Center,Attorney General,"",DEM,Aramis Ayala,140
-Gulf,Wewahitchka Public Library,Attorney General,"",DEM,Aramis Ayala,147
-Gulf,St. Joe Beach Fire Station,Attorney General,"",DEM,Aramis Ayala,150
-Gulf,Port St. Joe Fire Station,Attorney General,"",DEM,Aramis Ayala,357
-Gulf,Centennial Building,Attorney General,"",DEM,Aramis Ayala,124
-Gulf,White City Fire Station,Attorney General,"",DEM,Aramis Ayala,18
-Gulf,Cape San Blas Fire Station,Attorney General,"",DEM,Aramis Ayala,157
-Gulf,Howard Creek Fire Station,Attorney General,"",DEM,Aramis Ayala,13
-Gulf,Overstreet Fire Station,Attorney General,"",DEM,Aramis Ayala,77
-Gulf,Highland View Fire Station,Attorney General,"",DEM,Aramis Ayala,56
-Gulf,Honeyville Community Center,Attorney General,"","",OverVotes,0
-Gulf,Wewahitchka Public Library,Attorney General,"","",OverVotes,1
-Gulf,St. Joe Beach Fire Station,Attorney General,"","",OverVotes,0
-Gulf,Port St. Joe Fire Station,Attorney General,"","",OverVotes,0
-Gulf,Centennial Building,Attorney General,"","",OverVotes,0
-Gulf,White City Fire Station,Attorney General,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,Attorney General,"","",OverVotes,0
-Gulf,Howard Creek Fire Station,Attorney General,"","",OverVotes,0
-Gulf,Overstreet Fire Station,Attorney General,"","",OverVotes,0
-Gulf,Highland View Fire Station,Attorney General,"","",OverVotes,0
-Gulf,Honeyville Community Center,Attorney General,"","",UnderVotes,4
-Gulf,Wewahitchka Public Library,Attorney General,"","",UnderVotes,12
-Gulf,St. Joe Beach Fire Station,Attorney General,"","",UnderVotes,5
-Gulf,Port St. Joe Fire Station,Attorney General,"","",UnderVotes,13
-Gulf,Centennial Building,Attorney General,"","",UnderVotes,7
-Gulf,White City Fire Station,Attorney General,"","",UnderVotes,1
-Gulf,Cape San Blas Fire Station,Attorney General,"","",UnderVotes,4
-Gulf,Howard Creek Fire Station,Attorney General,"","",UnderVotes,2
-Gulf,Overstreet Fire Station,Attorney General,"","",UnderVotes,4
-Gulf,Highland View Fire Station,Attorney General,"","",UnderVotes,1
-Gulf,Honeyville Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,1046
-Gulf,Wewahitchka Public Library,Chief Financial Officer,"",REP,Jimmy Patronis,685
-Gulf,St. Joe Beach Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,586
-Gulf,Port St. Joe Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,414
-Gulf,Centennial Building,Chief Financial Officer,"",REP,Jimmy Patronis,1097
-Gulf,White City Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,154
-Gulf,Cape San Blas Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,452
-Gulf,Howard Creek Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,143
-Gulf,Overstreet Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,372
-Gulf,Highland View Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,268
-Gulf,Honeyville Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,130
-Gulf,Wewahitchka Public Library,Chief Financial Officer,"",DEM,Adam Hattersley,144
-Gulf,St. Joe Beach Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,131
-Gulf,Port St. Joe Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,351
-Gulf,Centennial Building,Chief Financial Officer,"",DEM,Adam Hattersley,128
-Gulf,White City Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,14
-Gulf,Cape San Blas Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,148
-Gulf,Howard Creek Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,11
-Gulf,Overstreet Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,71
-Gulf,Highland View Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,51
-Gulf,Honeyville Community Center,Chief Financial Officer,"","",OverVotes,0
-Gulf,Wewahitchka Public Library,Chief Financial Officer,"","",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Chief Financial Officer,"","",OverVotes,0
-Gulf,Port St. Joe Fire Station,Chief Financial Officer,"","",OverVotes,0
-Gulf,Centennial Building,Chief Financial Officer,"","",OverVotes,0
-Gulf,White City Fire Station,Chief Financial Officer,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,Chief Financial Officer,"","",OverVotes,0
-Gulf,Howard Creek Fire Station,Chief Financial Officer,"","",OverVotes,0
-Gulf,Overstreet Fire Station,Chief Financial Officer,"","",OverVotes,0
-Gulf,Highland View Fire Station,Chief Financial Officer,"","",OverVotes,0
-Gulf,Honeyville Community Center,Chief Financial Officer,"","",UnderVotes,2
-Gulf,Wewahitchka Public Library,Chief Financial Officer,"","",UnderVotes,7
-Gulf,St. Joe Beach Fire Station,Chief Financial Officer,"","",UnderVotes,3
-Gulf,Port St. Joe Fire Station,Chief Financial Officer,"","",UnderVotes,8
-Gulf,Centennial Building,Chief Financial Officer,"","",UnderVotes,9
-Gulf,White City Fire Station,Chief Financial Officer,"","",UnderVotes,1
-Gulf,Cape San Blas Fire Station,Chief Financial Officer,"","",UnderVotes,6
-Gulf,Howard Creek Fire Station,Chief Financial Officer,"","",UnderVotes,2
-Gulf,Overstreet Fire Station,Chief Financial Officer,"","",UnderVotes,2
-Gulf,Highland View Fire Station,Chief Financial Officer,"","",UnderVotes,2
-Gulf,Honeyville Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,1008
-Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",REP,Wilton Simpson,666
-Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,546
-Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,392
-Gulf,Centennial Building,Commissioner of Agriculture,"",REP,Wilton Simpson,1067
-Gulf,White City Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,146
-Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,438
-Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,137
-Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,360
-Gulf,Highland View Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,258
-Gulf,Honeyville Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,152
-Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,156
-Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,165
-Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,374
-Gulf,Centennial Building,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,150
-Gulf,White City Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
-Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,160
-Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,17
-Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,80
-Gulf,Highland View Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,60
-Gulf,Honeyville Community Center,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"","",OverVotes,1
-Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Centennial Building,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,White City Fire Station,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Overstreet Fire Station,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Highland View Fire Station,Commissioner of Agriculture,"","",OverVotes,0
-Gulf,Honeyville Community Center,Commissioner of Agriculture,"","",UnderVotes,18
-Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"","",UnderVotes,13
-Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"","",UnderVotes,9
-Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"","",UnderVotes,7
-Gulf,Centennial Building,Commissioner of Agriculture,"","",UnderVotes,17
-Gulf,White City Fire Station,Commissioner of Agriculture,"","",UnderVotes,2
-Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"","",UnderVotes,8
-Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"","",UnderVotes,2
-Gulf,Overstreet Fire Station,Commissioner of Agriculture,"","",UnderVotes,5
-Gulf,Highland View Fire Station,Commissioner of Agriculture,"","",UnderVotes,3
-Gulf,Honeyville Community Center,State Senate,3,REP,Corey Simon,1006
-Gulf,Wewahitchka Public Library,State Senate,3,REP,Corey Simon,655
-Gulf,St. Joe Beach Fire Station,State Senate,3,REP,Corey Simon,546
-Gulf,Port St. Joe Fire Station,State Senate,3,REP,Corey Simon,389
-Gulf,Centennial Building,State Senate,3,REP,Corey Simon,1062
-Gulf,White City Fire Station,State Senate,3,REP,Corey Simon,143
-Gulf,Cape San Blas Fire Station,State Senate,3,REP,Corey Simon,420
-Gulf,Howard Creek Fire Station,State Senate,3,REP,Corey Simon,137
-Gulf,Overstreet Fire Station,State Senate,3,REP,Corey Simon,347
-Gulf,Highland View Fire Station,State Senate,3,REP,Corey Simon,255
-Gulf,Honeyville Community Center,State Senate,3,DEM,Loranne Ausley,154
-Gulf,Wewahitchka Public Library,State Senate,3,DEM,Loranne Ausley,165
-Gulf,St. Joe Beach Fire Station,State Senate,3,DEM,Loranne Ausley,166
-Gulf,Port St. Joe Fire Station,State Senate,3,DEM,Loranne Ausley,371
-Gulf,Centennial Building,State Senate,3,DEM,Loranne Ausley,162
-Gulf,White City Fire Station,State Senate,3,DEM,Loranne Ausley,21
-Gulf,Cape San Blas Fire Station,State Senate,3,DEM,Loranne Ausley,181
-Gulf,Howard Creek Fire Station,State Senate,3,DEM,Loranne Ausley,14
-Gulf,Overstreet Fire Station,State Senate,3,DEM,Loranne Ausley,91
-Gulf,Highland View Fire Station,State Senate,3,DEM,Loranne Ausley,63
-Gulf,Honeyville Community Center,State Senate,3,"",OverVotes,0
-Gulf,Wewahitchka Public Library,State Senate,3,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,State Senate,3,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,State Senate,3,"",OverVotes,0
-Gulf,Centennial Building,State Senate,3,"",OverVotes,0
-Gulf,White City Fire Station,State Senate,3,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,State Senate,3,"",OverVotes,0
-Gulf,Howard Creek Fire Station,State Senate,3,"",OverVotes,0
-Gulf,Overstreet Fire Station,State Senate,3,"",OverVotes,0
-Gulf,Highland View Fire Station,State Senate,3,"",OverVotes,1
-Gulf,Honeyville Community Center,State Senate,3,"",UnderVotes,18
-Gulf,Wewahitchka Public Library,State Senate,3,"",UnderVotes,16
-Gulf,St. Joe Beach Fire Station,State Senate,3,"",UnderVotes,8
-Gulf,Port St. Joe Fire Station,State Senate,3,"",UnderVotes,13
-Gulf,Centennial Building,State Senate,3,"",UnderVotes,10
-Gulf,White City Fire Station,State Senate,3,"",UnderVotes,5
-Gulf,Cape San Blas Fire Station,State Senate,3,"",UnderVotes,5
-Gulf,Howard Creek Fire Station,State Senate,3,"",UnderVotes,5
-Gulf,Overstreet Fire Station,State Senate,3,"",UnderVotes,7
-Gulf,Highland View Fire Station,State Senate,3,"",UnderVotes,2
-Gulf,Wewahitchka Public Library,County Commissioner,2,REP,Billy Traylor,634
-Gulf,Overstreet Fire Station,County Commissioner,2,REP,Billy Traylor,343
-Gulf,Wewahitchka Public Library,County Commissioner,2,DEM,Michael Riley Riley,196
-Gulf,Overstreet Fire Station,County Commissioner,2,DEM,Michael Riley Riley,95
-Gulf,Wewahitchka Public Library,County Commissioner,2,"",OverVotes,0
-Gulf,Overstreet Fire Station,County Commissioner,2,"",OverVotes,0
-Gulf,Wewahitchka Public Library,County Commissioner,2,"",UnderVotes,6
-Gulf,Overstreet Fire Station,County Commissioner,2,"",UnderVotes,7
-Gulf,Honeyville Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,709
-Gulf,Wewahitchka Public Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,434
-Gulf,St. Joe Beach Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,428
-Gulf,Port St. Joe Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,413
-Gulf,Centennial Building,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,778
-Gulf,White City Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,86
-Gulf,Cape San Blas Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,389
-Gulf,Howard Creek Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,79
-Gulf,Overstreet Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,252
-Gulf,Highland View Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,199
-Gulf,Honeyville Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,368
-Gulf,Wewahitchka Public Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,335
-Gulf,St. Joe Beach Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,213
-Gulf,Port St. Joe Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,292
-Gulf,Centennial Building,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,320
-Gulf,White City Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,60
-Gulf,Cape San Blas Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,129
-Gulf,Howard Creek Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,59
-Gulf,Overstreet Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,140
-Gulf,Highland View Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,84
-Gulf,Honeyville Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Gulf,St. Joe Beach Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Port St. Joe Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Centennial Building,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gulf,White City Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,101
-Gulf,Wewahitchka Public Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,66
-Gulf,St. Joe Beach Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,78
-Gulf,Port St. Joe Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,67
-Gulf,Centennial Building,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,136
-Gulf,White City Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,23
-Gulf,Cape San Blas Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,88
-Gulf,Howard Creek Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,18
-Gulf,Overstreet Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,53
-Gulf,Highland View Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,38
-Gulf,Honeyville Community Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,732
-Gulf,Wewahitchka Public Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,440
-Gulf,St. Joe Beach Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,427
-Gulf,Port St. Joe Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,409
-Gulf,Centennial Building,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,796
-Gulf,White City Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,89
-Gulf,Cape San Blas Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,380
-Gulf,Howard Creek Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,91
-Gulf,Overstreet Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,261
-Gulf,Highland View Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,203
-Gulf,Honeyville Community Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,340
-Gulf,Wewahitchka Public Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,323
-Gulf,St. Joe Beach Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,213
-Gulf,Port St. Joe Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,291
-Gulf,Centennial Building,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,305
-Gulf,White City Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,57
-Gulf,Cape San Blas Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,136
-Gulf,Howard Creek Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,47
-Gulf,Overstreet Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,130
-Gulf,Highland View Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,75
-Gulf,Honeyville Community Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,2
-Gulf,St. Joe Beach Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Centennial Building,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,White City Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,106
-Gulf,Wewahitchka Public Library,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,71
-Gulf,St. Joe Beach Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,80
-Gulf,Port St. Joe Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,73
-Gulf,Centennial Building,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,133
-Gulf,White City Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,23
-Gulf,Cape San Blas Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,90
-Gulf,Howard Creek Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,18
-Gulf,Overstreet Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,54
-Gulf,Highland View Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,43
-Gulf,Honeyville Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,726
-Gulf,Wewahitchka Public Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,454
-Gulf,St. Joe Beach Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,421
-Gulf,Port St. Joe Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,413
-Gulf,Centennial Building,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,792
-Gulf,White City Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,89
-Gulf,Cape San Blas Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,385
-Gulf,Howard Creek Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,90
-Gulf,Overstreet Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,261
-Gulf,Highland View Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,192
-Gulf,Honeyville Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,339
-Gulf,Wewahitchka Public Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,312
-Gulf,St. Joe Beach Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,219
-Gulf,Port St. Joe Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,286
-Gulf,Centennial Building,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,303
-Gulf,White City Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,57
-Gulf,Cape San Blas Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,127
-Gulf,Howard Creek Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,48
-Gulf,Overstreet Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,130
-Gulf,Highland View Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,86
-Gulf,Honeyville Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Centennial Building,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,White City Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Howard Creek Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,113
-Gulf,Wewahitchka Public Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,70
-Gulf,St. Joe Beach Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,80
-Gulf,Port St. Joe Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,73
-Gulf,Centennial Building,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,139
-Gulf,White City Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,23
-Gulf,Cape San Blas Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,93
-Gulf,Howard Creek Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,18
-Gulf,Overstreet Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,54
-Gulf,Highland View Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,43
-Gulf,Honeyville Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,592
-Gulf,Wewahitchka Public Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,372
-Gulf,St. Joe Beach Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,380
-Gulf,Port St. Joe Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,414
-Gulf,Centennial Building,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,635
-Gulf,White City Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,69
-Gulf,Cape San Blas Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,355
-Gulf,Howard Creek Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,70
-Gulf,Overstreet Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,218
-Gulf,Highland View Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,166
-Gulf,Honeyville Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,477
-Gulf,Wewahitchka Public Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,390
-Gulf,St. Joe Beach Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,254
-Gulf,Port St. Joe Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,286
-Gulf,Centennial Building,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,463
-Gulf,White City Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,77
-Gulf,Cape San Blas Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,158
-Gulf,Howard Creek Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,67
-Gulf,Overstreet Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,173
-Gulf,Highland View Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,113
-Gulf,Honeyville Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Centennial Building,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,White City Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Howard Creek Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,109
-Gulf,Wewahitchka Public Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,74
-Gulf,St. Joe Beach Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,86
-Gulf,Port St. Joe Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,72
-Gulf,Centennial Building,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,136
-Gulf,White City Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,23
-Gulf,Cape San Blas Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,92
-Gulf,Howard Creek Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,19
-Gulf,Overstreet Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,54
-Gulf,Highland View Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,42
-Gulf,Honeyville Community Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,670
-Gulf,Wewahitchka Public Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,411
-Gulf,St. Joe Beach Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,418
-Gulf,Port St. Joe Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,413
-Gulf,Centennial Building,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,750
-Gulf,White City Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,83
-Gulf,Cape San Blas Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,380
-Gulf,Howard Creek Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,86
-Gulf,Overstreet Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,248
-Gulf,Highland View Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,193
-Gulf,Honeyville Community Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,400
-Gulf,Wewahitchka Public Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,350
-Gulf,St. Joe Beach Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,220
-Gulf,Port St. Joe Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,283
-Gulf,Centennial Building,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,345
-Gulf,White City Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,63
-Gulf,Cape San Blas Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,134
-Gulf,Howard Creek Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,53
-Gulf,Overstreet Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,141
-Gulf,Highland View Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,85
-Gulf,Honeyville Community Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Wewahitchka Public Library,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Port St. Joe Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
-Gulf,Centennial Building,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,3
-Gulf,White City Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,107
-Gulf,Wewahitchka Public Library,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,75
-Gulf,St. Joe Beach Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,81
-Gulf,Port St. Joe Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,76
-Gulf,Centennial Building,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,136
-Gulf,White City Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,23
-Gulf,Cape San Blas Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,92
-Gulf,Howard Creek Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,17
-Gulf,Overstreet Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,56
-Gulf,Highland View Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,43
-Gulf,Honeyville Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,690
-Gulf,Wewahitchka Public Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,429
-Gulf,St. Joe Beach Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,438
-Gulf,Port St. Joe Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,412
-Gulf,Centennial Building,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,765
-Gulf,White City Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,87
-Gulf,Cape San Blas Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,382
-Gulf,Howard Creek Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,87
-Gulf,Overstreet Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,247
-Gulf,Highland View Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,197
-Gulf,Honeyville Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,379
-Gulf,Wewahitchka Public Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,334
-Gulf,St. Joe Beach Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,199
-Gulf,Port St. Joe Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,281
-Gulf,Centennial Building,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,329
-Gulf,White City Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,57
-Gulf,Cape San Blas Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,127
-Gulf,Howard Creek Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,52
-Gulf,Overstreet Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,142
-Gulf,Highland View Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,79
-Gulf,Honeyville Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Centennial Building,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,White City Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,109
-Gulf,Wewahitchka Public Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,73
-Gulf,St. Joe Beach Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,83
-Gulf,Port St. Joe Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,80
-Gulf,Centennial Building,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,140
-Gulf,White City Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,25
-Gulf,Cape San Blas Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,97
-Gulf,Howard Creek Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,17
-Gulf,Overstreet Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,56
-Gulf,Highland View Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,45
-Gulf,Honeyville Community Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,686
-Gulf,Wewahitchka Public Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,441
-Gulf,St. Joe Beach Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,429
-Gulf,Port St. Joe Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,427
-Gulf,Centennial Building,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,742
-Gulf,White City Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,82
-Gulf,Cape San Blas Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,392
-Gulf,Howard Creek Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,91
-Gulf,Overstreet Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,245
-Gulf,Highland View Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,188
-Gulf,Honeyville Community Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,375
-Gulf,Wewahitchka Public Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,324
-Gulf,St. Joe Beach Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,206
-Gulf,Port St. Joe Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,270
-Gulf,Centennial Building,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,347
-Gulf,White City Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,61
-Gulf,Cape San Blas Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,117
-Gulf,Howard Creek Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,47
-Gulf,Overstreet Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,144
-Gulf,Highland View Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,88
-Gulf,Honeyville Community Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Centennial Building,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
-Gulf,White City Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,117
-Gulf,Wewahitchka Public Library,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,71
-Gulf,St. Joe Beach Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,85
-Gulf,Port St. Joe Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,76
-Gulf,Centennial Building,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,143
-Gulf,White City Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,26
-Gulf,Cape San Blas Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,97
-Gulf,Howard Creek Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,18
-Gulf,Overstreet Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,56
-Gulf,Highland View Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,45
-Gulf,Honeyville Community Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,716
-Gulf,Wewahitchka Public Library,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,446
-Gulf,St. Joe Beach Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,426
-Gulf,Port St. Joe Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,408
-Gulf,Centennial Building,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,789
-Gulf,White City Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,87
-Gulf,Cape San Blas Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,387
-Gulf,Howard Creek Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,88
-Gulf,Overstreet Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,259
-Gulf,Highland View Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,194
-Gulf,Honeyville Community Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,345
-Gulf,Wewahitchka Public Library,Retention of Bobby Long,First District Court of Appeal,NOP,No,318
-Gulf,St. Joe Beach Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,209
-Gulf,Port St. Joe Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,287
-Gulf,Centennial Building,Retention of Bobby Long,First District Court of Appeal,NOP,No,302
-Gulf,White City Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,56
-Gulf,Cape San Blas Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,122
-Gulf,Howard Creek Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,48
-Gulf,Overstreet Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,131
-Gulf,Highland View Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,83
-Gulf,Honeyville Community Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Centennial Building,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
-Gulf,White City Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,117
-Gulf,Wewahitchka Public Library,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,72
-Gulf,St. Joe Beach Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,85
-Gulf,Port St. Joe Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,78
-Gulf,Centennial Building,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,142
-Gulf,White City Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,26
-Gulf,Cape San Blas Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,97
-Gulf,Howard Creek Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,20
-Gulf,Overstreet Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,55
-Gulf,Highland View Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,44
-Gulf,Honeyville Community Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,636
-Gulf,Wewahitchka Public Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,410
-Gulf,St. Joe Beach Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,420
-Gulf,Port St. Joe Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,437
-Gulf,Centennial Building,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,716
-Gulf,White City Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,76
-Gulf,Cape San Blas Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,390
-Gulf,Howard Creek Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,81
-Gulf,Overstreet Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,240
-Gulf,Highland View Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,185
-Gulf,Honeyville Community Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,430
-Gulf,Wewahitchka Public Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,341
-Gulf,St. Joe Beach Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,214
-Gulf,Port St. Joe Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,264
-Gulf,Centennial Building,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,376
-Gulf,White City Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,67
-Gulf,Cape San Blas Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,119
-Gulf,Howard Creek Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,57
-Gulf,Overstreet Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,147
-Gulf,Highland View Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,92
-Gulf,Honeyville Community Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Gulf,Centennial Building,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Gulf,White City Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,112
-Gulf,Wewahitchka Public Library,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,85
-Gulf,St. Joe Beach Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,86
-Gulf,Port St. Joe Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,71
-Gulf,Centennial Building,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,141
-Gulf,White City Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,26
-Gulf,Cape San Blas Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,97
-Gulf,Howard Creek Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,18
-Gulf,Overstreet Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,58
-Gulf,Highland View Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,44
-Gulf,Honeyville Community Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,679
-Gulf,Wewahitchka Public Library,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,414
-Gulf,St. Joe Beach Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,394
-Gulf,Port St. Joe Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,389
-Gulf,Centennial Building,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,746
-Gulf,White City Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,82
-Gulf,Cape San Blas Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,367
-Gulf,Howard Creek Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,90
-Gulf,Overstreet Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,248
-Gulf,Highland View Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,194
-Gulf,Honeyville Community Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,359
-Gulf,Wewahitchka Public Library,Retention of Bo Winokur,First District Court of Appeal,NOP,No,328
-Gulf,St. Joe Beach Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,218
-Gulf,Port St. Joe Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,281
-Gulf,Centennial Building,Retention of Bo Winokur,First District Court of Appeal,NOP,No,316
-Gulf,White City Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,56
-Gulf,Cape San Blas Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,124
-Gulf,Howard Creek Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,46
-Gulf,Overstreet Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,136
-Gulf,Highland View Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,80
-Gulf,Honeyville Community Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Wewahitchka Public Library,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Port St. Joe Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Centennial Building,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,White City Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Cape San Blas Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Howard Creek Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Overstreet Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Highland View Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gulf,Honeyville Community Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,140
-Gulf,Wewahitchka Public Library,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,94
-Gulf,St. Joe Beach Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,108
-Gulf,Port St. Joe Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,103
-Gulf,Centennial Building,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,172
-Gulf,White City Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,31
-Gulf,Cape San Blas Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,115
-Gulf,Howard Creek Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,20
-Gulf,Overstreet Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,61
-Gulf,Highland View Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,47
-Gulf,Honeyville Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,589
-Gulf,Wewahitchka Public Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,380
-Gulf,St. Joe Beach Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,404
-Gulf,Port St. Joe Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,418
-Gulf,Centennial Building,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,671
-Gulf,White City Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,83
-Gulf,Cape San Blas Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,398
-Gulf,Howard Creek Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,75
-Gulf,Overstreet Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,264
-Gulf,Highland View Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,198
-Gulf,Honeyville Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,509
-Gulf,Wewahitchka Public Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,386
-Gulf,St. Joe Beach Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,262
-Gulf,Port St. Joe Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,290
-Gulf,Centennial Building,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,481
-Gulf,White City Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,69
-Gulf,Cape San Blas Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,161
-Gulf,Howard Creek Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,69
-Gulf,Overstreet Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,157
-Gulf,Highland View Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,104
-Gulf,Honeyville Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gulf,Wewahitchka Public Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
-Gulf,St. Joe Beach Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gulf,Port St. Joe Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gulf,Centennial Building,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gulf,White City Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gulf,Howard Creek Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gulf,Overstreet Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gulf,Highland View Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gulf,Honeyville Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,80
-Gulf,Wewahitchka Public Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,68
-Gulf,St. Joe Beach Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,53
-Gulf,Port St. Joe Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,64
-Gulf,Centennial Building,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,82
-Gulf,White City Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,17
-Gulf,Cape San Blas Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,46
-Gulf,Howard Creek Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,11
-Gulf,Overstreet Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,24
-Gulf,Highland View Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,18
-Gulf,Honeyville Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,587
-Gulf,Wewahitchka Public Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,400
-Gulf,St. Joe Beach Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,392
-Gulf,Port St. Joe Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,349
-Gulf,Centennial Building,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,681
-Gulf,White City Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,79
-Gulf,Cape San Blas Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,352
-Gulf,Howard Creek Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,77
-Gulf,Overstreet Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,248
-Gulf,Highland View Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,161
-Gulf,Honeyville Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,516
-Gulf,Wewahitchka Public Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,365
-Gulf,St. Joe Beach Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,277
-Gulf,Port St. Joe Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,357
-Gulf,Centennial Building,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,468
-Gulf,White City Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,76
-Gulf,Cape San Blas Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,204
-Gulf,Howard Creek Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,69
-Gulf,Overstreet Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,168
-Gulf,Highland View Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,133
-Gulf,Honeyville Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,Wewahitchka Public Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,St. Joe Beach Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,Port St. Joe Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
-Gulf,Centennial Building,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,White City Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,Howard Creek Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,Overstreet Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,Highland View Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gulf,Honeyville Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,75
-Gulf,Wewahitchka Public Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,71
-Gulf,St. Joe Beach Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,51
-Gulf,Port St. Joe Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,66
-Gulf,Centennial Building,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,85
-Gulf,White City Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,14
-Gulf,Cape San Blas Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,50
-Gulf,Howard Creek Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,10
-Gulf,Overstreet Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,29
-Gulf,Highland View Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
-Gulf,Honeyville Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,716
-Gulf,Wewahitchka Public Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,481
-Gulf,St. Joe Beach Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,435
-Gulf,Port St. Joe Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,432
-Gulf,Centennial Building,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,684
-Gulf,White City Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,76
-Gulf,Cape San Blas Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,369
-Gulf,Howard Creek Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,91
-Gulf,Overstreet Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,251
-Gulf,Highland View Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,201
-Gulf,Honeyville Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,406
-Gulf,Wewahitchka Public Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,299
-Gulf,St. Joe Beach Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,258
-Gulf,Port St. Joe Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,293
-Gulf,Centennial Building,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,498
-Gulf,White City Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,81
-Gulf,Cape San Blas Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,204
-Gulf,Howard Creek Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,58
-Gulf,Overstreet Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,177
-Gulf,Highland View Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,107
-Gulf,Honeyville Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Gulf,Wewahitchka Public Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Gulf,St. Joe Beach Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Gulf,Port St. Joe Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Gulf,Centennial Building,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gulf,White City Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gulf,Cape San Blas Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gulf,Howard Creek Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gulf,Overstreet Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gulf,Highland View Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gulf,Honeyville Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,55
-Gulf,Wewahitchka Public Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,55
-Gulf,St. Joe Beach Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,26
-Gulf,Port St. Joe Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,47
-Gulf,Centennial Building,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,52
-Gulf,White City Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,12
-Gulf,Cape San Blas Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,33
-Gulf,Howard Creek Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
-Gulf,Overstreet Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,17
-Gulf,Highland View Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,13
+Gulf,1,U.S. Senate,"",REP,Marco Rubio,1026
+Gulf,2,U.S. Senate,"",REP,Marco Rubio,678
+Gulf,3,U.S. Senate,"",REP,Marco Rubio,547
+Gulf,4,U.S. Senate,"",REP,Marco Rubio,394
+Gulf,5,U.S. Senate,"",REP,Marco Rubio,1076
+Gulf,6,U.S. Senate,"",REP,Marco Rubio,150
+Gulf,7,U.S. Senate,"",REP,Marco Rubio,436
+Gulf,8,U.S. Senate,"",REP,Marco Rubio,141
+Gulf,9,U.S. Senate,"",REP,Marco Rubio,361
+Gulf,10,U.S. Senate,"",REP,Marco Rubio,260
+Gulf,1,U.S. Senate,"",DEM,Val Demings,135
+Gulf,2,U.S. Senate,"",DEM,Val Demings,149
+Gulf,3,U.S. Senate,"",DEM,Val Demings,163
+Gulf,4,U.S. Senate,"",DEM,Val Demings,371
+Gulf,5,U.S. Senate,"",DEM,Val Demings,145
+Gulf,6,U.S. Senate,"",DEM,Val Demings,17
+Gulf,7,U.S. Senate,"",DEM,Val Demings,164
+Gulf,8,U.S. Senate,"",DEM,Val Demings,13
+Gulf,9,U.S. Senate,"",DEM,Val Demings,79
+Gulf,10,U.S. Senate,"",DEM,Val Demings,59
+Gulf,1,U.S. Senate,"",LPF,Dennis Misigoy,5
+Gulf,2,U.S. Senate,"",LPF,Dennis Misigoy,2
+Gulf,3,U.S. Senate,"",LPF,Dennis Misigoy,2
+Gulf,4,U.S. Senate,"",LPF,Dennis Misigoy,2
+Gulf,5,U.S. Senate,"",LPF,Dennis Misigoy,4
+Gulf,6,U.S. Senate,"",LPF,Dennis Misigoy,0
+Gulf,7,U.S. Senate,"",LPF,Dennis Misigoy,2
+Gulf,8,U.S. Senate,"",LPF,Dennis Misigoy,0
+Gulf,9,U.S. Senate,"",LPF,Dennis Misigoy,2
+Gulf,10,U.S. Senate,"",LPF,Dennis Misigoy,0
+Gulf,1,U.S. Senate,"",NPA,Steven B. Grant,5
+Gulf,2,U.S. Senate,"",NPA,Steven B. Grant,2
+Gulf,3,U.S. Senate,"",NPA,Steven B. Grant,6
+Gulf,4,U.S. Senate,"",NPA,Steven B. Grant,2
+Gulf,5,U.S. Senate,"",NPA,Steven B. Grant,4
+Gulf,6,U.S. Senate,"",NPA,Steven B. Grant,0
+Gulf,7,U.S. Senate,"",NPA,Steven B. Grant,1
+Gulf,8,U.S. Senate,"",NPA,Steven B. Grant,0
+Gulf,9,U.S. Senate,"",NPA,Steven B. Grant,2
+Gulf,10,U.S. Senate,"",NPA,Steven B. Grant,2
+Gulf,1,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
+Gulf,2,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Gulf,3,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gulf,4,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gulf,5,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Gulf,6,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gulf,7,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gulf,8,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Gulf,9,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gulf,10,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Gulf,1,U.S. Senate,"","",WriteinVotes,0
+Gulf,2,U.S. Senate,"","",WriteinVotes,0
+Gulf,3,U.S. Senate,"","",WriteinVotes,0
+Gulf,4,U.S. Senate,"","",WriteinVotes,0
+Gulf,5,U.S. Senate,"","",WriteinVotes,1
+Gulf,6,U.S. Senate,"","",WriteinVotes,0
+Gulf,7,U.S. Senate,"","",WriteinVotes,0
+Gulf,8,U.S. Senate,"","",WriteinVotes,0
+Gulf,9,U.S. Senate,"","",WriteinVotes,0
+Gulf,10,U.S. Senate,"","",WriteinVotes,0
+Gulf,1,U.S. Senate,"","",OverVotes,0
+Gulf,2,U.S. Senate,"","",OverVotes,0
+Gulf,3,U.S. Senate,"","",OverVotes,0
+Gulf,4,U.S. Senate,"","",OverVotes,0
+Gulf,5,U.S. Senate,"","",OverVotes,0
+Gulf,6,U.S. Senate,"","",OverVotes,0
+Gulf,7,U.S. Senate,"","",OverVotes,0
+Gulf,8,U.S. Senate,"","",OverVotes,0
+Gulf,9,U.S. Senate,"","",OverVotes,0
+Gulf,10,U.S. Senate,"","",OverVotes,0
+Gulf,1,U.S. Senate,"","",UnderVotes,3
+Gulf,2,U.S. Senate,"","",UnderVotes,2
+Gulf,3,U.S. Senate,"","",UnderVotes,1
+Gulf,4,U.S. Senate,"","",UnderVotes,3
+Gulf,5,U.S. Senate,"","",UnderVotes,4
+Gulf,6,U.S. Senate,"","",UnderVotes,1
+Gulf,7,U.S. Senate,"","",UnderVotes,2
+Gulf,8,U.S. Senate,"","",UnderVotes,2
+Gulf,9,U.S. Senate,"","",UnderVotes,0
+Gulf,10,U.S. Senate,"","",UnderVotes,0
+Gulf,1,U.S. House,2,REP,Neal Dunn,1024
+Gulf,2,U.S. House,2,REP,Neal Dunn,673
+Gulf,3,U.S. House,2,REP,Neal Dunn,548
+Gulf,4,U.S. House,2,REP,Neal Dunn,389
+Gulf,5,U.S. House,2,REP,Neal Dunn,1073
+Gulf,6,U.S. House,2,REP,Neal Dunn,149
+Gulf,7,U.S. House,2,REP,Neal Dunn,436
+Gulf,8,U.S. House,2,REP,Neal Dunn,138
+Gulf,9,U.S. House,2,REP,Neal Dunn,356
+Gulf,10,U.S. House,2,REP,Neal Dunn,258
+Gulf,1,U.S. House,2,DEM,Al Lawson,154
+Gulf,2,U.S. House,2,DEM,Al Lawson,158
+Gulf,3,U.S. House,2,DEM,Al Lawson,169
+Gulf,4,U.S. House,2,DEM,Al Lawson,377
+Gulf,5,U.S. House,2,DEM,Al Lawson,150
+Gulf,6,U.S. House,2,DEM,Al Lawson,19
+Gulf,7,U.S. House,2,DEM,Al Lawson,165
+Gulf,8,U.S. House,2,DEM,Al Lawson,16
+Gulf,9,U.S. House,2,DEM,Al Lawson,89
+Gulf,10,U.S. House,2,DEM,Al Lawson,61
+Gulf,1,U.S. House,2,"",OverVotes,0
+Gulf,2,U.S. House,2,"",OverVotes,0
+Gulf,3,U.S. House,2,"",OverVotes,0
+Gulf,4,U.S. House,2,"",OverVotes,0
+Gulf,5,U.S. House,2,"",OverVotes,0
+Gulf,6,U.S. House,2,"",OverVotes,0
+Gulf,7,U.S. House,2,"",OverVotes,0
+Gulf,8,U.S. House,2,"",OverVotes,0
+Gulf,9,U.S. House,2,"",OverVotes,0
+Gulf,10,U.S. House,2,"",OverVotes,0
+Gulf,1,U.S. House,2,"",UnderVotes,0
+Gulf,2,U.S. House,2,"",UnderVotes,5
+Gulf,3,U.S. House,2,"",UnderVotes,3
+Gulf,4,U.S. House,2,"",UnderVotes,7
+Gulf,5,U.S. House,2,"",UnderVotes,11
+Gulf,6,U.S. House,2,"",UnderVotes,1
+Gulf,7,U.S. House,2,"",UnderVotes,5
+Gulf,8,U.S. House,2,"",UnderVotes,2
+Gulf,9,U.S. House,2,"",UnderVotes,0
+Gulf,10,U.S. House,2,"",UnderVotes,2
+Gulf,1,Governor,"",REP,DeSantis / Nuñez,1032
+Gulf,2,Governor,"",REP,DeSantis / Nuñez,687
+Gulf,3,Governor,"",REP,DeSantis / Nuñez,565
+Gulf,4,Governor,"",REP,DeSantis / Nuñez,411
+Gulf,5,Governor,"",REP,DeSantis / Nuñez,1094
+Gulf,6,Governor,"",REP,DeSantis / Nuñez,151
+Gulf,7,Governor,"",REP,DeSantis / Nuñez,434
+Gulf,8,Governor,"",REP,DeSantis / Nuñez,144
+Gulf,9,Governor,"",REP,DeSantis / Nuñez,366
+Gulf,10,Governor,"",REP,DeSantis / Nuñez,266
+Gulf,1,Governor,"",DEM,Crist / Hernandez,141
+Gulf,2,Governor,"",DEM,Crist / Hernandez,140
+Gulf,3,Governor,"",DEM,Crist / Hernandez,151
+Gulf,4,Governor,"",DEM,Crist / Hernandez,352
+Gulf,5,Governor,"",DEM,Crist / Hernandez,137
+Gulf,6,Governor,"",DEM,Crist / Hernandez,17
+Gulf,7,Governor,"",DEM,Crist / Hernandez,169
+Gulf,8,Governor,"",DEM,Crist / Hernandez,10
+Gulf,9,Governor,"",DEM,Crist / Hernandez,76
+Gulf,10,Governor,"",DEM,Crist / Hernandez,54
+Gulf,1,Governor,"",LPF,Roos / Rorabaugh,2
+Gulf,2,Governor,"",LPF,Roos / Rorabaugh,0
+Gulf,3,Governor,"",LPF,Roos / Rorabaugh,1
+Gulf,4,Governor,"",LPF,Roos / Rorabaugh,4
+Gulf,5,Governor,"",LPF,Roos / Rorabaugh,0
+Gulf,6,Governor,"",LPF,Roos / Rorabaugh,0
+Gulf,7,Governor,"",LPF,Roos / Rorabaugh,1
+Gulf,8,Governor,"",LPF,Roos / Rorabaugh,0
+Gulf,9,Governor,"",LPF,Roos / Rorabaugh,1
+Gulf,10,Governor,"",LPF,Roos / Rorabaugh,1
+Gulf,1,Governor,"",NPA,Gimenez / Gibson,1
+Gulf,2,Governor,"",NPA,Gimenez / Gibson,5
+Gulf,3,Governor,"",NPA,Gimenez / Gibson,2
+Gulf,4,Governor,"",NPA,Gimenez / Gibson,3
+Gulf,5,Governor,"",NPA,Gimenez / Gibson,2
+Gulf,6,Governor,"",NPA,Gimenez / Gibson,1
+Gulf,7,Governor,"",NPA,Gimenez / Gibson,1
+Gulf,8,Governor,"",NPA,Gimenez / Gibson,1
+Gulf,9,Governor,"",NPA,Gimenez / Gibson,2
+Gulf,10,Governor,"",NPA,Gimenez / Gibson,0
+Gulf,1,Governor,"","",OverVotes,1
+Gulf,2,Governor,"","",OverVotes,1
+Gulf,3,Governor,"","",OverVotes,0
+Gulf,4,Governor,"","",OverVotes,1
+Gulf,5,Governor,"","",OverVotes,1
+Gulf,6,Governor,"","",OverVotes,0
+Gulf,7,Governor,"","",OverVotes,0
+Gulf,8,Governor,"","",OverVotes,0
+Gulf,9,Governor,"","",OverVotes,0
+Gulf,10,Governor,"","",OverVotes,0
+Gulf,1,Governor,"","",UnderVotes,1
+Gulf,2,Governor,"","",UnderVotes,3
+Gulf,3,Governor,"","",UnderVotes,1
+Gulf,4,Governor,"","",UnderVotes,2
+Gulf,5,Governor,"","",UnderVotes,0
+Gulf,6,Governor,"","",UnderVotes,0
+Gulf,7,Governor,"","",UnderVotes,1
+Gulf,8,Governor,"","",UnderVotes,1
+Gulf,9,Governor,"","",UnderVotes,0
+Gulf,10,Governor,"","",UnderVotes,0
+Gulf,1,Attorney General,"",REP,Ashley Moody,1034
+Gulf,2,Attorney General,"",REP,Ashley Moody,676
+Gulf,3,Attorney General,"",REP,Ashley Moody,565
+Gulf,4,Attorney General,"",REP,Ashley Moody,403
+Gulf,5,Attorney General,"",REP,Ashley Moody,1103
+Gulf,6,Attorney General,"",REP,Ashley Moody,150
+Gulf,7,Attorney General,"",REP,Ashley Moody,445
+Gulf,8,Attorney General,"",REP,Ashley Moody,141
+Gulf,9,Attorney General,"",REP,Ashley Moody,364
+Gulf,10,Attorney General,"",REP,Ashley Moody,264
+Gulf,1,Attorney General,"",DEM,Aramis Ayala,140
+Gulf,2,Attorney General,"",DEM,Aramis Ayala,147
+Gulf,3,Attorney General,"",DEM,Aramis Ayala,150
+Gulf,4,Attorney General,"",DEM,Aramis Ayala,357
+Gulf,5,Attorney General,"",DEM,Aramis Ayala,124
+Gulf,6,Attorney General,"",DEM,Aramis Ayala,18
+Gulf,7,Attorney General,"",DEM,Aramis Ayala,157
+Gulf,8,Attorney General,"",DEM,Aramis Ayala,13
+Gulf,9,Attorney General,"",DEM,Aramis Ayala,77
+Gulf,10,Attorney General,"",DEM,Aramis Ayala,56
+Gulf,1,Attorney General,"","",OverVotes,0
+Gulf,2,Attorney General,"","",OverVotes,1
+Gulf,3,Attorney General,"","",OverVotes,0
+Gulf,4,Attorney General,"","",OverVotes,0
+Gulf,5,Attorney General,"","",OverVotes,0
+Gulf,6,Attorney General,"","",OverVotes,0
+Gulf,7,Attorney General,"","",OverVotes,0
+Gulf,8,Attorney General,"","",OverVotes,0
+Gulf,9,Attorney General,"","",OverVotes,0
+Gulf,10,Attorney General,"","",OverVotes,0
+Gulf,1,Attorney General,"","",UnderVotes,4
+Gulf,2,Attorney General,"","",UnderVotes,12
+Gulf,3,Attorney General,"","",UnderVotes,5
+Gulf,4,Attorney General,"","",UnderVotes,13
+Gulf,5,Attorney General,"","",UnderVotes,7
+Gulf,6,Attorney General,"","",UnderVotes,1
+Gulf,7,Attorney General,"","",UnderVotes,4
+Gulf,8,Attorney General,"","",UnderVotes,2
+Gulf,9,Attorney General,"","",UnderVotes,4
+Gulf,10,Attorney General,"","",UnderVotes,1
+Gulf,1,Chief Financial Officer,"",REP,Jimmy Patronis,1046
+Gulf,2,Chief Financial Officer,"",REP,Jimmy Patronis,685
+Gulf,3,Chief Financial Officer,"",REP,Jimmy Patronis,586
+Gulf,4,Chief Financial Officer,"",REP,Jimmy Patronis,414
+Gulf,5,Chief Financial Officer,"",REP,Jimmy Patronis,1097
+Gulf,6,Chief Financial Officer,"",REP,Jimmy Patronis,154
+Gulf,7,Chief Financial Officer,"",REP,Jimmy Patronis,452
+Gulf,8,Chief Financial Officer,"",REP,Jimmy Patronis,143
+Gulf,9,Chief Financial Officer,"",REP,Jimmy Patronis,372
+Gulf,10,Chief Financial Officer,"",REP,Jimmy Patronis,268
+Gulf,1,Chief Financial Officer,"",DEM,Adam Hattersley,130
+Gulf,2,Chief Financial Officer,"",DEM,Adam Hattersley,144
+Gulf,3,Chief Financial Officer,"",DEM,Adam Hattersley,131
+Gulf,4,Chief Financial Officer,"",DEM,Adam Hattersley,351
+Gulf,5,Chief Financial Officer,"",DEM,Adam Hattersley,128
+Gulf,6,Chief Financial Officer,"",DEM,Adam Hattersley,14
+Gulf,7,Chief Financial Officer,"",DEM,Adam Hattersley,148
+Gulf,8,Chief Financial Officer,"",DEM,Adam Hattersley,11
+Gulf,9,Chief Financial Officer,"",DEM,Adam Hattersley,71
+Gulf,10,Chief Financial Officer,"",DEM,Adam Hattersley,51
+Gulf,1,Chief Financial Officer,"","",OverVotes,0
+Gulf,2,Chief Financial Officer,"","",OverVotes,0
+Gulf,3,Chief Financial Officer,"","",OverVotes,0
+Gulf,4,Chief Financial Officer,"","",OverVotes,0
+Gulf,5,Chief Financial Officer,"","",OverVotes,0
+Gulf,6,Chief Financial Officer,"","",OverVotes,0
+Gulf,7,Chief Financial Officer,"","",OverVotes,0
+Gulf,8,Chief Financial Officer,"","",OverVotes,0
+Gulf,9,Chief Financial Officer,"","",OverVotes,0
+Gulf,10,Chief Financial Officer,"","",OverVotes,0
+Gulf,1,Chief Financial Officer,"","",UnderVotes,2
+Gulf,2,Chief Financial Officer,"","",UnderVotes,7
+Gulf,3,Chief Financial Officer,"","",UnderVotes,3
+Gulf,4,Chief Financial Officer,"","",UnderVotes,8
+Gulf,5,Chief Financial Officer,"","",UnderVotes,9
+Gulf,6,Chief Financial Officer,"","",UnderVotes,1
+Gulf,7,Chief Financial Officer,"","",UnderVotes,6
+Gulf,8,Chief Financial Officer,"","",UnderVotes,2
+Gulf,9,Chief Financial Officer,"","",UnderVotes,2
+Gulf,10,Chief Financial Officer,"","",UnderVotes,2
+Gulf,1,Commissioner of Agriculture,"",REP,Wilton Simpson,1008
+Gulf,2,Commissioner of Agriculture,"",REP,Wilton Simpson,666
+Gulf,3,Commissioner of Agriculture,"",REP,Wilton Simpson,546
+Gulf,4,Commissioner of Agriculture,"",REP,Wilton Simpson,392
+Gulf,5,Commissioner of Agriculture,"",REP,Wilton Simpson,1067
+Gulf,6,Commissioner of Agriculture,"",REP,Wilton Simpson,146
+Gulf,7,Commissioner of Agriculture,"",REP,Wilton Simpson,438
+Gulf,8,Commissioner of Agriculture,"",REP,Wilton Simpson,137
+Gulf,9,Commissioner of Agriculture,"",REP,Wilton Simpson,360
+Gulf,10,Commissioner of Agriculture,"",REP,Wilton Simpson,258
+Gulf,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,152
+Gulf,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,156
+Gulf,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,165
+Gulf,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,374
+Gulf,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,150
+Gulf,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Gulf,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,160
+Gulf,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,17
+Gulf,9,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,80
+Gulf,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,60
+Gulf,1,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,2,Commissioner of Agriculture,"","",OverVotes,1
+Gulf,3,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,4,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,5,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,6,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,7,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,8,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,9,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,10,Commissioner of Agriculture,"","",OverVotes,0
+Gulf,1,Commissioner of Agriculture,"","",UnderVotes,18
+Gulf,2,Commissioner of Agriculture,"","",UnderVotes,13
+Gulf,3,Commissioner of Agriculture,"","",UnderVotes,9
+Gulf,4,Commissioner of Agriculture,"","",UnderVotes,7
+Gulf,5,Commissioner of Agriculture,"","",UnderVotes,17
+Gulf,6,Commissioner of Agriculture,"","",UnderVotes,2
+Gulf,7,Commissioner of Agriculture,"","",UnderVotes,8
+Gulf,8,Commissioner of Agriculture,"","",UnderVotes,2
+Gulf,9,Commissioner of Agriculture,"","",UnderVotes,5
+Gulf,10,Commissioner of Agriculture,"","",UnderVotes,3
+Gulf,1,State Senate,3,REP,Corey Simon,1006
+Gulf,2,State Senate,3,REP,Corey Simon,655
+Gulf,3,State Senate,3,REP,Corey Simon,546
+Gulf,4,State Senate,3,REP,Corey Simon,389
+Gulf,5,State Senate,3,REP,Corey Simon,1062
+Gulf,6,State Senate,3,REP,Corey Simon,143
+Gulf,7,State Senate,3,REP,Corey Simon,420
+Gulf,8,State Senate,3,REP,Corey Simon,137
+Gulf,9,State Senate,3,REP,Corey Simon,347
+Gulf,10,State Senate,3,REP,Corey Simon,255
+Gulf,1,State Senate,3,DEM,Loranne Ausley,154
+Gulf,2,State Senate,3,DEM,Loranne Ausley,165
+Gulf,3,State Senate,3,DEM,Loranne Ausley,166
+Gulf,4,State Senate,3,DEM,Loranne Ausley,371
+Gulf,5,State Senate,3,DEM,Loranne Ausley,162
+Gulf,6,State Senate,3,DEM,Loranne Ausley,21
+Gulf,7,State Senate,3,DEM,Loranne Ausley,181
+Gulf,8,State Senate,3,DEM,Loranne Ausley,14
+Gulf,9,State Senate,3,DEM,Loranne Ausley,91
+Gulf,10,State Senate,3,DEM,Loranne Ausley,63
+Gulf,1,State Senate,3,"",OverVotes,0
+Gulf,2,State Senate,3,"",OverVotes,0
+Gulf,3,State Senate,3,"",OverVotes,0
+Gulf,4,State Senate,3,"",OverVotes,0
+Gulf,5,State Senate,3,"",OverVotes,0
+Gulf,6,State Senate,3,"",OverVotes,0
+Gulf,7,State Senate,3,"",OverVotes,0
+Gulf,8,State Senate,3,"",OverVotes,0
+Gulf,9,State Senate,3,"",OverVotes,0
+Gulf,10,State Senate,3,"",OverVotes,1
+Gulf,1,State Senate,3,"",UnderVotes,18
+Gulf,2,State Senate,3,"",UnderVotes,16
+Gulf,3,State Senate,3,"",UnderVotes,8
+Gulf,4,State Senate,3,"",UnderVotes,13
+Gulf,5,State Senate,3,"",UnderVotes,10
+Gulf,6,State Senate,3,"",UnderVotes,5
+Gulf,7,State Senate,3,"",UnderVotes,5
+Gulf,8,State Senate,3,"",UnderVotes,5
+Gulf,9,State Senate,3,"",UnderVotes,7
+Gulf,10,State Senate,3,"",UnderVotes,2
+Gulf,2,County Commissioner,2,REP,Billy Traylor,634
+Gulf,9,County Commissioner,2,REP,Billy Traylor,343
+Gulf,2,County Commissioner,2,DEM,Michael Riley Riley,196
+Gulf,9,County Commissioner,2,DEM,Michael Riley Riley,95
+Gulf,2,County Commissioner,2,"",OverVotes,0
+Gulf,9,County Commissioner,2,"",OverVotes,0
+Gulf,2,County Commissioner,2,"",UnderVotes,6
+Gulf,9,County Commissioner,2,"",UnderVotes,7
+Gulf,1,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,709
+Gulf,2,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,434
+Gulf,3,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,428
+Gulf,4,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,413
+Gulf,5,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,778
+Gulf,6,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,86
+Gulf,7,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,389
+Gulf,8,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,79
+Gulf,9,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,252
+Gulf,10,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,199
+Gulf,1,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,368
+Gulf,2,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,335
+Gulf,3,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,213
+Gulf,4,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,292
+Gulf,5,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,320
+Gulf,6,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,60
+Gulf,7,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,129
+Gulf,8,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,59
+Gulf,9,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,140
+Gulf,10,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,84
+Gulf,1,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gulf,2,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Gulf,3,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Gulf,4,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Gulf,5,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gulf,6,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gulf,7,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gulf,8,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gulf,9,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gulf,10,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gulf,1,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,101
+Gulf,2,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,66
+Gulf,3,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,78
+Gulf,4,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,67
+Gulf,5,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,136
+Gulf,6,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,23
+Gulf,7,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,88
+Gulf,8,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,18
+Gulf,9,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,53
+Gulf,10,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,38
+Gulf,1,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,732
+Gulf,2,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,440
+Gulf,3,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,427
+Gulf,4,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,409
+Gulf,5,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,796
+Gulf,6,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,89
+Gulf,7,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,380
+Gulf,8,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,91
+Gulf,9,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,261
+Gulf,10,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,203
+Gulf,1,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,340
+Gulf,2,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,323
+Gulf,3,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,213
+Gulf,4,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,291
+Gulf,5,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,305
+Gulf,6,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,57
+Gulf,7,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,136
+Gulf,8,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,47
+Gulf,9,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,130
+Gulf,10,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,75
+Gulf,1,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,2,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,2
+Gulf,3,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,4,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,5,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,6,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,7,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,8,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,9,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,10,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gulf,1,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,106
+Gulf,2,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,71
+Gulf,3,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,80
+Gulf,4,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,73
+Gulf,5,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,133
+Gulf,6,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,23
+Gulf,7,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,90
+Gulf,8,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,18
+Gulf,9,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,54
+Gulf,10,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,43
+Gulf,1,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,726
+Gulf,2,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,454
+Gulf,3,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,421
+Gulf,4,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,413
+Gulf,5,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,792
+Gulf,6,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,89
+Gulf,7,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,385
+Gulf,8,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,90
+Gulf,9,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,261
+Gulf,10,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,192
+Gulf,1,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,339
+Gulf,2,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,312
+Gulf,3,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,219
+Gulf,4,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,286
+Gulf,5,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,303
+Gulf,6,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,57
+Gulf,7,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,127
+Gulf,8,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,48
+Gulf,9,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,130
+Gulf,10,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,86
+Gulf,1,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,2,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,3,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,4,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Gulf,5,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,6,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,7,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Gulf,8,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,9,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,10,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gulf,1,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,113
+Gulf,2,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,70
+Gulf,3,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,80
+Gulf,4,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,73
+Gulf,5,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,139
+Gulf,6,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,23
+Gulf,7,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,93
+Gulf,8,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,18
+Gulf,9,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,54
+Gulf,10,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,43
+Gulf,1,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,592
+Gulf,2,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,372
+Gulf,3,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,380
+Gulf,4,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,414
+Gulf,5,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,635
+Gulf,6,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,69
+Gulf,7,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,355
+Gulf,8,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,70
+Gulf,9,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,218
+Gulf,10,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,166
+Gulf,1,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,477
+Gulf,2,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,390
+Gulf,3,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,254
+Gulf,4,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,286
+Gulf,5,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,463
+Gulf,6,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,77
+Gulf,7,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,158
+Gulf,8,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,67
+Gulf,9,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,173
+Gulf,10,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,113
+Gulf,1,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,2,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,3,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,4,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Gulf,5,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,6,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,7,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Gulf,8,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,9,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,10,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gulf,1,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,109
+Gulf,2,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,74
+Gulf,3,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,86
+Gulf,4,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,72
+Gulf,5,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,136
+Gulf,6,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,23
+Gulf,7,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,92
+Gulf,8,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,19
+Gulf,9,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,54
+Gulf,10,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,42
+Gulf,1,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,670
+Gulf,2,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,411
+Gulf,3,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,418
+Gulf,4,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,413
+Gulf,5,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,750
+Gulf,6,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,83
+Gulf,7,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,380
+Gulf,8,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,86
+Gulf,9,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,248
+Gulf,10,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,193
+Gulf,1,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,400
+Gulf,2,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,350
+Gulf,3,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,220
+Gulf,4,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,283
+Gulf,5,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,345
+Gulf,6,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,63
+Gulf,7,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,134
+Gulf,8,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,53
+Gulf,9,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,141
+Gulf,10,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,85
+Gulf,1,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Gulf,2,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gulf,3,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Gulf,4,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Gulf,5,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,3
+Gulf,6,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gulf,7,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gulf,8,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gulf,9,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gulf,10,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gulf,1,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,107
+Gulf,2,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,75
+Gulf,3,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,81
+Gulf,4,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,76
+Gulf,5,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,136
+Gulf,6,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,23
+Gulf,7,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,92
+Gulf,8,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,17
+Gulf,9,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,56
+Gulf,10,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,43
+Gulf,1,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,690
+Gulf,2,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,429
+Gulf,3,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,438
+Gulf,4,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,412
+Gulf,5,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,765
+Gulf,6,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,87
+Gulf,7,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,382
+Gulf,8,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,87
+Gulf,9,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,247
+Gulf,10,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,197
+Gulf,1,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,379
+Gulf,2,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,334
+Gulf,3,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,199
+Gulf,4,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,281
+Gulf,5,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,329
+Gulf,6,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,57
+Gulf,7,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,127
+Gulf,8,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,52
+Gulf,9,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,142
+Gulf,10,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,79
+Gulf,1,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,2,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,3,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,4,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,5,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,6,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,7,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,8,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,9,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,10,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gulf,1,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,109
+Gulf,2,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,73
+Gulf,3,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,83
+Gulf,4,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,80
+Gulf,5,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,140
+Gulf,6,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,25
+Gulf,7,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,97
+Gulf,8,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,17
+Gulf,9,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,56
+Gulf,10,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,45
+Gulf,1,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,686
+Gulf,2,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,441
+Gulf,3,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,429
+Gulf,4,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,427
+Gulf,5,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,742
+Gulf,6,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,82
+Gulf,7,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,392
+Gulf,8,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,91
+Gulf,9,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,245
+Gulf,10,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,188
+Gulf,1,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,375
+Gulf,2,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,324
+Gulf,3,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,206
+Gulf,4,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,270
+Gulf,5,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,347
+Gulf,6,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,61
+Gulf,7,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,117
+Gulf,8,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,47
+Gulf,9,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,144
+Gulf,10,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,88
+Gulf,1,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,2,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,3,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,4,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,5,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
+Gulf,6,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,7,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,8,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,9,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,10,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gulf,1,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,117
+Gulf,2,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,71
+Gulf,3,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,85
+Gulf,4,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,76
+Gulf,5,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,143
+Gulf,6,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,26
+Gulf,7,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,97
+Gulf,8,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,18
+Gulf,9,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,56
+Gulf,10,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,45
+Gulf,1,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,716
+Gulf,2,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,446
+Gulf,3,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,426
+Gulf,4,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,408
+Gulf,5,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,789
+Gulf,6,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,87
+Gulf,7,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,387
+Gulf,8,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,88
+Gulf,9,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,259
+Gulf,10,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,194
+Gulf,1,Retention of Bobby Long,First District Court of Appeal,NOP,No,345
+Gulf,2,Retention of Bobby Long,First District Court of Appeal,NOP,No,318
+Gulf,3,Retention of Bobby Long,First District Court of Appeal,NOP,No,209
+Gulf,4,Retention of Bobby Long,First District Court of Appeal,NOP,No,287
+Gulf,5,Retention of Bobby Long,First District Court of Appeal,NOP,No,302
+Gulf,6,Retention of Bobby Long,First District Court of Appeal,NOP,No,56
+Gulf,7,Retention of Bobby Long,First District Court of Appeal,NOP,No,122
+Gulf,8,Retention of Bobby Long,First District Court of Appeal,NOP,No,48
+Gulf,9,Retention of Bobby Long,First District Court of Appeal,NOP,No,131
+Gulf,10,Retention of Bobby Long,First District Court of Appeal,NOP,No,83
+Gulf,1,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,2,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,3,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,4,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,5,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Gulf,6,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,7,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,8,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,9,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,10,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gulf,1,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,117
+Gulf,2,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,72
+Gulf,3,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,85
+Gulf,4,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,78
+Gulf,5,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,142
+Gulf,6,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,26
+Gulf,7,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,97
+Gulf,8,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,20
+Gulf,9,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,55
+Gulf,10,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,44
+Gulf,1,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,636
+Gulf,2,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,410
+Gulf,3,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,420
+Gulf,4,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,437
+Gulf,5,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,716
+Gulf,6,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,76
+Gulf,7,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,390
+Gulf,8,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,81
+Gulf,9,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,240
+Gulf,10,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,185
+Gulf,1,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,430
+Gulf,2,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,341
+Gulf,3,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,214
+Gulf,4,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,264
+Gulf,5,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,376
+Gulf,6,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,67
+Gulf,7,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,119
+Gulf,8,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,57
+Gulf,9,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,147
+Gulf,10,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,92
+Gulf,1,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,2,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,3,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,4,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Gulf,5,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Gulf,6,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,7,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,8,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,9,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,10,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gulf,1,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,112
+Gulf,2,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,85
+Gulf,3,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,86
+Gulf,4,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,71
+Gulf,5,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,141
+Gulf,6,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,26
+Gulf,7,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,97
+Gulf,8,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,18
+Gulf,9,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,58
+Gulf,10,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,44
+Gulf,1,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,679
+Gulf,2,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,414
+Gulf,3,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,394
+Gulf,4,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,389
+Gulf,5,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,746
+Gulf,6,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,82
+Gulf,7,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,367
+Gulf,8,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,90
+Gulf,9,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,248
+Gulf,10,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,194
+Gulf,1,Retention of Bo Winokur,First District Court of Appeal,NOP,No,359
+Gulf,2,Retention of Bo Winokur,First District Court of Appeal,NOP,No,328
+Gulf,3,Retention of Bo Winokur,First District Court of Appeal,NOP,No,218
+Gulf,4,Retention of Bo Winokur,First District Court of Appeal,NOP,No,281
+Gulf,5,Retention of Bo Winokur,First District Court of Appeal,NOP,No,316
+Gulf,6,Retention of Bo Winokur,First District Court of Appeal,NOP,No,56
+Gulf,7,Retention of Bo Winokur,First District Court of Appeal,NOP,No,124
+Gulf,8,Retention of Bo Winokur,First District Court of Appeal,NOP,No,46
+Gulf,9,Retention of Bo Winokur,First District Court of Appeal,NOP,No,136
+Gulf,10,Retention of Bo Winokur,First District Court of Appeal,NOP,No,80
+Gulf,1,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,2,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,3,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,4,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,5,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,6,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,7,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,8,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,9,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,10,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gulf,1,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,140
+Gulf,2,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,94
+Gulf,3,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,108
+Gulf,4,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,103
+Gulf,5,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,172
+Gulf,6,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,31
+Gulf,7,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,115
+Gulf,8,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,20
+Gulf,9,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,61
+Gulf,10,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,47
+Gulf,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,589
+Gulf,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,380
+Gulf,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,404
+Gulf,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,418
+Gulf,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,671
+Gulf,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,83
+Gulf,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,398
+Gulf,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,75
+Gulf,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,264
+Gulf,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,198
+Gulf,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,509
+Gulf,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,386
+Gulf,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,262
+Gulf,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,290
+Gulf,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,481
+Gulf,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,69
+Gulf,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,161
+Gulf,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,69
+Gulf,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,157
+Gulf,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,104
+Gulf,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gulf,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Gulf,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gulf,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gulf,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gulf,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gulf,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gulf,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gulf,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gulf,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gulf,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,80
+Gulf,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,68
+Gulf,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,53
+Gulf,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,64
+Gulf,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,82
+Gulf,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,17
+Gulf,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,46
+Gulf,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,11
+Gulf,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,24
+Gulf,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,18
+Gulf,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,587
+Gulf,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,400
+Gulf,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,392
+Gulf,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,349
+Gulf,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,681
+Gulf,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,79
+Gulf,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,352
+Gulf,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,77
+Gulf,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,248
+Gulf,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,161
+Gulf,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,516
+Gulf,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,365
+Gulf,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,277
+Gulf,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,357
+Gulf,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,468
+Gulf,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,76
+Gulf,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,204
+Gulf,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,69
+Gulf,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,168
+Gulf,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,133
+Gulf,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Gulf,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gulf,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,75
+Gulf,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,71
+Gulf,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,51
+Gulf,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,66
+Gulf,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,85
+Gulf,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,14
+Gulf,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,50
+Gulf,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,10
+Gulf,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,29
+Gulf,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
+Gulf,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,716
+Gulf,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,481
+Gulf,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,435
+Gulf,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,432
+Gulf,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,684
+Gulf,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,76
+Gulf,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,369
+Gulf,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,91
+Gulf,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,251
+Gulf,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,201
+Gulf,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,406
+Gulf,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,299
+Gulf,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,258
+Gulf,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,293
+Gulf,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,498
+Gulf,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,81
+Gulf,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,204
+Gulf,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,58
+Gulf,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,177
+Gulf,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,107
+Gulf,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Gulf,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Gulf,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Gulf,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Gulf,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gulf,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gulf,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gulf,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gulf,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gulf,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gulf,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,55
+Gulf,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,55
+Gulf,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,26
+Gulf,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,47
+Gulf,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,52
+Gulf,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,12
+Gulf,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,33
+Gulf,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
+Gulf,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,17
+Gulf,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,13
