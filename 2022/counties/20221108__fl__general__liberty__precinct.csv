@@ -1,689 +1,689 @@
 county,precinct,office,district,party,candidate,votes
-Liberty,Rock Bluff,U.S. Senate,"",REP,Marco Rubio,53
-Liberty,Annex,U.S. Senate,"",REP,Marco Rubio,81
-Liberty,Bristol,U.S. Senate,"",REP,Marco Rubio,534
-Liberty,Lake Mystic,U.S. Senate,"",REP,Marco Rubio,604
-Liberty,Hosford,U.S. Senate,"",REP,Marco Rubio,340
-Liberty,Telogia,U.S. Senate,"",REP,Marco Rubio,333
-Liberty,Sumatra,U.S. Senate,"",REP,Marco Rubio,97
-Liberty,Orange,U.S. Senate,"",REP,Marco Rubio,122
-Liberty,Rock Bluff,U.S. Senate,"",DEM,Val Demings,129
-Liberty,Annex,U.S. Senate,"",DEM,Val Demings,38
-Liberty,Bristol,U.S. Senate,"",DEM,Val Demings,77
-Liberty,Lake Mystic,U.S. Senate,"",DEM,Val Demings,37
-Liberty,Hosford,U.S. Senate,"",DEM,Val Demings,47
-Liberty,Telogia,U.S. Senate,"",DEM,Val Demings,49
-Liberty,Sumatra,U.S. Senate,"",DEM,Val Demings,7
-Liberty,Orange,U.S. Senate,"",DEM,Val Demings,21
-Liberty,Rock Bluff,U.S. Senate,"",LPF,Dennis Misigoy,0
-Liberty,Annex,U.S. Senate,"",LPF,Dennis Misigoy,0
-Liberty,Bristol,U.S. Senate,"",LPF,Dennis Misigoy,5
-Liberty,Lake Mystic,U.S. Senate,"",LPF,Dennis Misigoy,0
-Liberty,Hosford,U.S. Senate,"",LPF,Dennis Misigoy,1
-Liberty,Telogia,U.S. Senate,"",LPF,Dennis Misigoy,2
-Liberty,Sumatra,U.S. Senate,"",LPF,Dennis Misigoy,0
-Liberty,Orange,U.S. Senate,"",LPF,Dennis Misigoy,3
-Liberty,Rock Bluff,U.S. Senate,"",NPA,Steven B. Grant,2
-Liberty,Annex,U.S. Senate,"",NPA,Steven B. Grant,0
-Liberty,Bristol,U.S. Senate,"",NPA,Steven B. Grant,5
-Liberty,Lake Mystic,U.S. Senate,"",NPA,Steven B. Grant,2
-Liberty,Hosford,U.S. Senate,"",NPA,Steven B. Grant,5
-Liberty,Telogia,U.S. Senate,"",NPA,Steven B. Grant,3
-Liberty,Sumatra,U.S. Senate,"",NPA,Steven B. Grant,1
-Liberty,Orange,U.S. Senate,"",NPA,Steven B. Grant,1
-Liberty,Rock Bluff,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Liberty,Annex,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Liberty,Bristol,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
-Liberty,Lake Mystic,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Liberty,Hosford,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Liberty,Telogia,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Liberty,Sumatra,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Liberty,Orange,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Liberty,Rock Bluff,U.S. Senate,"","",WriteinVotes,0
-Liberty,Annex,U.S. Senate,"","",WriteinVotes,0
-Liberty,Bristol,U.S. Senate,"","",WriteinVotes,0
-Liberty,Lake Mystic,U.S. Senate,"","",WriteinVotes,0
-Liberty,Hosford,U.S. Senate,"","",WriteinVotes,0
-Liberty,Telogia,U.S. Senate,"","",WriteinVotes,0
-Liberty,Sumatra,U.S. Senate,"","",WriteinVotes,0
-Liberty,Orange,U.S. Senate,"","",WriteinVotes,0
-Liberty,Rock Bluff,U.S. Senate,"","",OverVotes,0
-Liberty,Annex,U.S. Senate,"","",OverVotes,0
-Liberty,Bristol,U.S. Senate,"","",OverVotes,1
-Liberty,Lake Mystic,U.S. Senate,"","",OverVotes,0
-Liberty,Hosford,U.S. Senate,"","",OverVotes,0
-Liberty,Telogia,U.S. Senate,"","",OverVotes,0
-Liberty,Sumatra,U.S. Senate,"","",OverVotes,0
-Liberty,Orange,U.S. Senate,"","",OverVotes,0
-Liberty,Rock Bluff,U.S. Senate,"","",UnderVotes,3
-Liberty,Annex,U.S. Senate,"","",UnderVotes,0
-Liberty,Bristol,U.S. Senate,"","",UnderVotes,3
-Liberty,Lake Mystic,U.S. Senate,"","",UnderVotes,0
-Liberty,Hosford,U.S. Senate,"","",UnderVotes,3
-Liberty,Telogia,U.S. Senate,"","",UnderVotes,5
-Liberty,Sumatra,U.S. Senate,"","",UnderVotes,3
-Liberty,Orange,U.S. Senate,"","",UnderVotes,2
-Liberty,Rock Bluff,U.S. House,2,REP,Neal Dunn,49
-Liberty,Annex,U.S. House,2,REP,Neal Dunn,76
-Liberty,Bristol,U.S. House,2,REP,Neal Dunn,533
-Liberty,Lake Mystic,U.S. House,2,REP,Neal Dunn,587
-Liberty,Hosford,U.S. House,2,REP,Neal Dunn,336
-Liberty,Telogia,U.S. House,2,REP,Neal Dunn,326
-Liberty,Sumatra,U.S. House,2,REP,Neal Dunn,98
-Liberty,Orange,U.S. House,2,REP,Neal Dunn,116
-Liberty,Rock Bluff,U.S. House,2,DEM,Al Lawson,138
-Liberty,Annex,U.S. House,2,DEM,Al Lawson,43
-Liberty,Bristol,U.S. House,2,DEM,Al Lawson,91
-Liberty,Lake Mystic,U.S. House,2,DEM,Al Lawson,56
-Liberty,Hosford,U.S. House,2,DEM,Al Lawson,58
-Liberty,Telogia,U.S. House,2,DEM,Al Lawson,64
-Liberty,Sumatra,U.S. House,2,DEM,Al Lawson,8
-Liberty,Orange,U.S. House,2,DEM,Al Lawson,31
-Liberty,Rock Bluff,U.S. House,2,"",OverVotes,0
-Liberty,Annex,U.S. House,2,"",OverVotes,0
-Liberty,Bristol,U.S. House,2,"",OverVotes,0
-Liberty,Lake Mystic,U.S. House,2,"",OverVotes,0
-Liberty,Hosford,U.S. House,2,"",OverVotes,0
-Liberty,Telogia,U.S. House,2,"",OverVotes,0
-Liberty,Sumatra,U.S. House,2,"",OverVotes,0
-Liberty,Orange,U.S. House,2,"",OverVotes,0
-Liberty,Rock Bluff,U.S. House,2,"",UnderVotes,0
-Liberty,Annex,U.S. House,2,"",UnderVotes,0
-Liberty,Bristol,U.S. House,2,"",UnderVotes,3
-Liberty,Lake Mystic,U.S. House,2,"",UnderVotes,1
-Liberty,Hosford,U.S. House,2,"",UnderVotes,2
-Liberty,Telogia,U.S. House,2,"",UnderVotes,2
-Liberty,Sumatra,U.S. House,2,"",UnderVotes,2
-Liberty,Orange,U.S. House,2,"",UnderVotes,2
-Liberty,Rock Bluff,Governor,"",REP,DeSantis / Nuñez,58
-Liberty,Annex,Governor,"",REP,DeSantis / Nuñez,79
-Liberty,Bristol,Governor,"",REP,DeSantis / Nuñez,561
-Liberty,Lake Mystic,Governor,"",REP,DeSantis / Nuñez,604
-Liberty,Hosford,Governor,"",REP,DeSantis / Nuñez,351
-Liberty,Telogia,Governor,"",REP,DeSantis / Nuñez,351
-Liberty,Sumatra,Governor,"",REP,DeSantis / Nuñez,102
-Liberty,Orange,Governor,"",REP,DeSantis / Nuñez,128
-Liberty,Rock Bluff,Governor,"",DEM,Crist / Hernandez,125
-Liberty,Annex,Governor,"",DEM,Crist / Hernandez,38
-Liberty,Bristol,Governor,"",DEM,Crist / Hernandez,65
-Liberty,Lake Mystic,Governor,"",DEM,Crist / Hernandez,37
-Liberty,Hosford,Governor,"",DEM,Crist / Hernandez,43
-Liberty,Telogia,Governor,"",DEM,Crist / Hernandez,37
-Liberty,Sumatra,Governor,"",DEM,Crist / Hernandez,6
-Liberty,Orange,Governor,"",DEM,Crist / Hernandez,20
-Liberty,Rock Bluff,Governor,"",LPF,Roos / Rorabaugh,0
-Liberty,Annex,Governor,"",LPF,Roos / Rorabaugh,1
-Liberty,Bristol,Governor,"",LPF,Roos / Rorabaugh,0
-Liberty,Lake Mystic,Governor,"",LPF,Roos / Rorabaugh,0
-Liberty,Hosford,Governor,"",LPF,Roos / Rorabaugh,0
-Liberty,Telogia,Governor,"",LPF,Roos / Rorabaugh,3
-Liberty,Sumatra,Governor,"",LPF,Roos / Rorabaugh,0
-Liberty,Orange,Governor,"",LPF,Roos / Rorabaugh,1
-Liberty,Rock Bluff,Governor,"",NPA,Gimenez / Gibson,3
-Liberty,Annex,Governor,"",NPA,Gimenez / Gibson,0
-Liberty,Bristol,Governor,"",NPA,Gimenez / Gibson,1
-Liberty,Lake Mystic,Governor,"",NPA,Gimenez / Gibson,1
-Liberty,Hosford,Governor,"",NPA,Gimenez / Gibson,1
-Liberty,Telogia,Governor,"",NPA,Gimenez / Gibson,1
-Liberty,Sumatra,Governor,"",NPA,Gimenez / Gibson,0
-Liberty,Orange,Governor,"",NPA,Gimenez / Gibson,0
-Liberty,Rock Bluff,Governor,"","",OverVotes,0
-Liberty,Annex,Governor,"","",OverVotes,0
-Liberty,Bristol,Governor,"","",OverVotes,0
-Liberty,Lake Mystic,Governor,"","",OverVotes,0
-Liberty,Hosford,Governor,"","",OverVotes,0
-Liberty,Telogia,Governor,"","",OverVotes,0
-Liberty,Sumatra,Governor,"","",OverVotes,0
-Liberty,Orange,Governor,"","",OverVotes,0
-Liberty,Rock Bluff,Governor,"","",UnderVotes,1
-Liberty,Annex,Governor,"","",UnderVotes,1
-Liberty,Bristol,Governor,"","",UnderVotes,0
-Liberty,Lake Mystic,Governor,"","",UnderVotes,2
-Liberty,Hosford,Governor,"","",UnderVotes,1
-Liberty,Telogia,Governor,"","",UnderVotes,0
-Liberty,Sumatra,Governor,"","",UnderVotes,0
-Liberty,Orange,Governor,"","",UnderVotes,0
-Liberty,Rock Bluff,Attorney General,"",REP,Ashley Moody,61
-Liberty,Annex,Attorney General,"",REP,Ashley Moody,81
-Liberty,Bristol,Attorney General,"",REP,Ashley Moody,555
-Liberty,Lake Mystic,Attorney General,"",REP,Ashley Moody,605
-Liberty,Hosford,Attorney General,"",REP,Ashley Moody,352
-Liberty,Telogia,Attorney General,"",REP,Ashley Moody,348
-Liberty,Sumatra,Attorney General,"",REP,Ashley Moody,99
-Liberty,Orange,Attorney General,"",REP,Ashley Moody,130
-Liberty,Rock Bluff,Attorney General,"",DEM,Aramis Ayala,119
-Liberty,Annex,Attorney General,"",DEM,Aramis Ayala,38
-Liberty,Bristol,Attorney General,"",DEM,Aramis Ayala,68
-Liberty,Lake Mystic,Attorney General,"",DEM,Aramis Ayala,37
-Liberty,Hosford,Attorney General,"",DEM,Aramis Ayala,38
-Liberty,Telogia,Attorney General,"",DEM,Aramis Ayala,37
-Liberty,Sumatra,Attorney General,"",DEM,Aramis Ayala,8
-Liberty,Orange,Attorney General,"",DEM,Aramis Ayala,18
-Liberty,Rock Bluff,Attorney General,"","",OverVotes,0
-Liberty,Annex,Attorney General,"","",OverVotes,0
-Liberty,Bristol,Attorney General,"","",OverVotes,0
-Liberty,Lake Mystic,Attorney General,"","",OverVotes,0
-Liberty,Hosford,Attorney General,"","",OverVotes,0
-Liberty,Telogia,Attorney General,"","",OverVotes,0
-Liberty,Sumatra,Attorney General,"","",OverVotes,0
-Liberty,Orange,Attorney General,"","",OverVotes,0
-Liberty,Rock Bluff,Attorney General,"","",UnderVotes,7
-Liberty,Annex,Attorney General,"","",UnderVotes,0
-Liberty,Bristol,Attorney General,"","",UnderVotes,4
-Liberty,Lake Mystic,Attorney General,"","",UnderVotes,2
-Liberty,Hosford,Attorney General,"","",UnderVotes,6
-Liberty,Telogia,Attorney General,"","",UnderVotes,7
-Liberty,Sumatra,Attorney General,"","",UnderVotes,1
-Liberty,Orange,Attorney General,"","",UnderVotes,1
-Liberty,Rock Bluff,Chief Financial Officer,"",REP,Jimmy Patronis,61
-Liberty,Annex,Chief Financial Officer,"",REP,Jimmy Patronis,81
-Liberty,Bristol,Chief Financial Officer,"",REP,Jimmy Patronis,557
-Liberty,Lake Mystic,Chief Financial Officer,"",REP,Jimmy Patronis,604
-Liberty,Hosford,Chief Financial Officer,"",REP,Jimmy Patronis,346
-Liberty,Telogia,Chief Financial Officer,"",REP,Jimmy Patronis,345
-Liberty,Sumatra,Chief Financial Officer,"",REP,Jimmy Patronis,100
-Liberty,Orange,Chief Financial Officer,"",REP,Jimmy Patronis,126
-Liberty,Rock Bluff,Chief Financial Officer,"",DEM,Adam Hattersley,118
-Liberty,Annex,Chief Financial Officer,"",DEM,Adam Hattersley,38
-Liberty,Bristol,Chief Financial Officer,"",DEM,Adam Hattersley,65
-Liberty,Lake Mystic,Chief Financial Officer,"",DEM,Adam Hattersley,37
-Liberty,Hosford,Chief Financial Officer,"",DEM,Adam Hattersley,46
-Liberty,Telogia,Chief Financial Officer,"",DEM,Adam Hattersley,41
-Liberty,Sumatra,Chief Financial Officer,"",DEM,Adam Hattersley,7
-Liberty,Orange,Chief Financial Officer,"",DEM,Adam Hattersley,21
-Liberty,Rock Bluff,Chief Financial Officer,"","",OverVotes,0
-Liberty,Annex,Chief Financial Officer,"","",OverVotes,0
-Liberty,Bristol,Chief Financial Officer,"","",OverVotes,0
-Liberty,Lake Mystic,Chief Financial Officer,"","",OverVotes,0
-Liberty,Hosford,Chief Financial Officer,"","",OverVotes,0
-Liberty,Telogia,Chief Financial Officer,"","",OverVotes,0
-Liberty,Sumatra,Chief Financial Officer,"","",OverVotes,0
-Liberty,Orange,Chief Financial Officer,"","",OverVotes,0
-Liberty,Rock Bluff,Chief Financial Officer,"","",UnderVotes,8
-Liberty,Annex,Chief Financial Officer,"","",UnderVotes,0
-Liberty,Bristol,Chief Financial Officer,"","",UnderVotes,5
-Liberty,Lake Mystic,Chief Financial Officer,"","",UnderVotes,3
-Liberty,Hosford,Chief Financial Officer,"","",UnderVotes,4
-Liberty,Telogia,Chief Financial Officer,"","",UnderVotes,6
-Liberty,Sumatra,Chief Financial Officer,"","",UnderVotes,1
-Liberty,Orange,Chief Financial Officer,"","",UnderVotes,2
-Liberty,Rock Bluff,Commissioner of Agriculture,"",REP,Wilton Simpson,55
-Liberty,Annex,Commissioner of Agriculture,"",REP,Wilton Simpson,76
-Liberty,Bristol,Commissioner of Agriculture,"",REP,Wilton Simpson,552
-Liberty,Lake Mystic,Commissioner of Agriculture,"",REP,Wilton Simpson,596
-Liberty,Hosford,Commissioner of Agriculture,"",REP,Wilton Simpson,335
-Liberty,Telogia,Commissioner of Agriculture,"",REP,Wilton Simpson,330
-Liberty,Sumatra,Commissioner of Agriculture,"",REP,Wilton Simpson,98
-Liberty,Orange,Commissioner of Agriculture,"",REP,Wilton Simpson,126
-Liberty,Rock Bluff,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,124
-Liberty,Annex,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
-Liberty,Bristol,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,70
-Liberty,Lake Mystic,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,42
-Liberty,Hosford,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,57
-Liberty,Telogia,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,49
-Liberty,Sumatra,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7
-Liberty,Orange,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
-Liberty,Rock Bluff,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Annex,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Bristol,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Lake Mystic,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Hosford,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Telogia,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Sumatra,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Orange,Commissioner of Agriculture,"","",OverVotes,0
-Liberty,Rock Bluff,Commissioner of Agriculture,"","",UnderVotes,8
-Liberty,Annex,Commissioner of Agriculture,"","",UnderVotes,2
-Liberty,Bristol,Commissioner of Agriculture,"","",UnderVotes,5
-Liberty,Lake Mystic,Commissioner of Agriculture,"","",UnderVotes,6
-Liberty,Hosford,Commissioner of Agriculture,"","",UnderVotes,4
-Liberty,Telogia,Commissioner of Agriculture,"","",UnderVotes,13
-Liberty,Sumatra,Commissioner of Agriculture,"","",UnderVotes,3
-Liberty,Orange,Commissioner of Agriculture,"","",UnderVotes,2
-Liberty,Rock Bluff,State Senate,3,REP,Corey Simon,59
-Liberty,Annex,State Senate,3,REP,Corey Simon,75
-Liberty,Bristol,State Senate,3,REP,Corey Simon,509
-Liberty,Lake Mystic,State Senate,3,REP,Corey Simon,581
-Liberty,Hosford,State Senate,3,REP,Corey Simon,328
-Liberty,Telogia,State Senate,3,REP,Corey Simon,317
-Liberty,Sumatra,State Senate,3,REP,Corey Simon,95
-Liberty,Orange,State Senate,3,REP,Corey Simon,118
-Liberty,Rock Bluff,State Senate,3,DEM,Loranne Ausley,124
-Liberty,Annex,State Senate,3,DEM,Loranne Ausley,43
-Liberty,Bristol,State Senate,3,DEM,Loranne Ausley,109
-Liberty,Lake Mystic,State Senate,3,DEM,Loranne Ausley,57
-Liberty,Hosford,State Senate,3,DEM,Loranne Ausley,63
-Liberty,Telogia,State Senate,3,DEM,Loranne Ausley,65
-Liberty,Sumatra,State Senate,3,DEM,Loranne Ausley,8
-Liberty,Orange,State Senate,3,DEM,Loranne Ausley,27
-Liberty,Rock Bluff,State Senate,3,"",OverVotes,0
-Liberty,Annex,State Senate,3,"",OverVotes,0
-Liberty,Bristol,State Senate,3,"",OverVotes,0
-Liberty,Lake Mystic,State Senate,3,"",OverVotes,0
-Liberty,Hosford,State Senate,3,"",OverVotes,0
-Liberty,Telogia,State Senate,3,"",OverVotes,0
-Liberty,Sumatra,State Senate,3,"",OverVotes,0
-Liberty,Orange,State Senate,3,"",OverVotes,0
-Liberty,Rock Bluff,State Senate,3,"",UnderVotes,4
-Liberty,Annex,State Senate,3,"",UnderVotes,1
-Liberty,Bristol,State Senate,3,"",UnderVotes,9
-Liberty,Lake Mystic,State Senate,3,"",UnderVotes,6
-Liberty,Hosford,State Senate,3,"",UnderVotes,5
-Liberty,Telogia,State Senate,3,"",UnderVotes,10
-Liberty,Sumatra,State Senate,3,"",UnderVotes,5
-Liberty,Orange,State Senate,3,"",UnderVotes,4
-Liberty,Rock Bluff,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,79
-Liberty,Annex,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,66
-Liberty,Bristol,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,400
-Liberty,Lake Mystic,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,369
-Liberty,Hosford,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,229
-Liberty,Telogia,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,227
-Liberty,Sumatra,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,39
-Liberty,Orange,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,84
-Liberty,Rock Bluff,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,82
-Liberty,Annex,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,41
-Liberty,Bristol,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,172
-Liberty,Lake Mystic,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,197
-Liberty,Hosford,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,122
-Liberty,Telogia,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,123
-Liberty,Sumatra,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,56
-Liberty,Orange,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,50
-Liberty,Rock Bluff,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Annex,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Bristol,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Lake Mystic,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Hosford,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Telogia,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Sumatra,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Orange,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,26
-Liberty,Annex,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,12
-Liberty,Bristol,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,55
-Liberty,Lake Mystic,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,78
-Liberty,Hosford,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,45
-Liberty,Telogia,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,42
-Liberty,Sumatra,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,13
-Liberty,Orange,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,15
-Liberty,Rock Bluff,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,76
-Liberty,Annex,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,63
-Liberty,Bristol,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,393
-Liberty,Lake Mystic,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,378
-Liberty,Hosford,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,227
-Liberty,Telogia,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,219
-Liberty,Sumatra,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,40
-Liberty,Orange,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,90
-Liberty,Rock Bluff,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,83
-Liberty,Annex,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,44
-Liberty,Bristol,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,176
-Liberty,Lake Mystic,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,185
-Liberty,Hosford,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,119
-Liberty,Telogia,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,127
-Liberty,Sumatra,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,54
-Liberty,Orange,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,43
-Liberty,Rock Bluff,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Annex,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Bristol,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Lake Mystic,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Hosford,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
-Liberty,Telogia,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Sumatra,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Orange,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Rock Bluff,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,28
-Liberty,Annex,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,12
-Liberty,Bristol,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,58
-Liberty,Lake Mystic,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,81
-Liberty,Hosford,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,49
-Liberty,Telogia,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,46
-Liberty,Sumatra,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,14
-Liberty,Orange,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,16
-Liberty,Rock Bluff,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,81
-Liberty,Annex,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,66
-Liberty,Bristol,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,390
-Liberty,Lake Mystic,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,379
-Liberty,Hosford,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,225
-Liberty,Telogia,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,219
-Liberty,Sumatra,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,38
-Liberty,Orange,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,88
-Liberty,Rock Bluff,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,79
-Liberty,Annex,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,41
-Liberty,Bristol,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,177
-Liberty,Lake Mystic,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,183
-Liberty,Hosford,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,123
-Liberty,Telogia,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,126
-Liberty,Sumatra,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,56
-Liberty,Orange,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,46
-Liberty,Rock Bluff,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Annex,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Bristol,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Liberty,Lake Mystic,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Liberty,Hosford,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Telogia,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Sumatra,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Orange,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,27
-Liberty,Annex,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,12
-Liberty,Bristol,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,59
-Liberty,Lake Mystic,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,81
-Liberty,Hosford,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,48
-Liberty,Telogia,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,47
-Liberty,Sumatra,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,14
-Liberty,Orange,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,15
-Liberty,Rock Bluff,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,90
-Liberty,Annex,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,59
-Liberty,Bristol,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,323
-Liberty,Lake Mystic,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,278
-Liberty,Hosford,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,171
-Liberty,Telogia,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,195
-Liberty,Sumatra,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,37
-Liberty,Orange,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,69
-Liberty,Rock Bluff,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,69
-Liberty,Annex,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,48
-Liberty,Bristol,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,246
-Liberty,Lake Mystic,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,285
-Liberty,Hosford,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,181
-Liberty,Telogia,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,151
-Liberty,Sumatra,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,56
-Liberty,Orange,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,65
-Liberty,Rock Bluff,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Annex,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Bristol,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
-Liberty,Lake Mystic,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Hosford,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Telogia,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Sumatra,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Orange,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,28
-Liberty,Annex,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,12
-Liberty,Bristol,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,57
-Liberty,Lake Mystic,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,81
-Liberty,Hosford,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,44
-Liberty,Telogia,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,46
-Liberty,Sumatra,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,15
-Liberty,Orange,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,15
-Liberty,Rock Bluff,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,81
-Liberty,Annex,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,64
-Liberty,Bristol,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,381
-Liberty,Lake Mystic,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,366
-Liberty,Hosford,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,221
-Liberty,Telogia,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,215
-Liberty,Sumatra,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,38
-Liberty,Orange,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,84
-Liberty,Rock Bluff,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,79
-Liberty,Annex,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,43
-Liberty,Bristol,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,190
-Liberty,Lake Mystic,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,198
-Liberty,Hosford,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,127
-Liberty,Telogia,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,130
-Liberty,Sumatra,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,56
-Liberty,Orange,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,50
-Liberty,Rock Bluff,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Annex,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Bristol,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Lake Mystic,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Hosford,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Telogia,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Sumatra,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Orange,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,27
-Liberty,Annex,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,12
-Liberty,Bristol,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,56
-Liberty,Lake Mystic,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,80
-Liberty,Hosford,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,48
-Liberty,Telogia,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,47
-Liberty,Sumatra,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,14
-Liberty,Orange,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,15
-Liberty,Rock Bluff,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,80
-Liberty,Annex,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,64
-Liberty,Bristol,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,392
-Liberty,Lake Mystic,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,371
-Liberty,Hosford,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,220
-Liberty,Telogia,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,215
-Liberty,Sumatra,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,39
-Liberty,Orange,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,84
-Liberty,Rock Bluff,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,77
-Liberty,Annex,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,44
-Liberty,Bristol,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,178
-Liberty,Lake Mystic,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,189
-Liberty,Hosford,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,126
-Liberty,Telogia,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,128
-Liberty,Sumatra,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,55
-Liberty,Orange,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,47
-Liberty,Rock Bluff,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Liberty,Annex,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Liberty,Bristol,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Liberty,Lake Mystic,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Liberty,Hosford,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Liberty,Telogia,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Liberty,Sumatra,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Liberty,Orange,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Liberty,Rock Bluff,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,29
-Liberty,Annex,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,11
-Liberty,Bristol,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,57
-Liberty,Lake Mystic,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,83
-Liberty,Hosford,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,49
-Liberty,Telogia,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,49
-Liberty,Sumatra,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,14
-Liberty,Orange,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,17
-Liberty,Rock Bluff,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,83
-Liberty,Annex,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,64
-Liberty,Bristol,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,381
-Liberty,Lake Mystic,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,362
-Liberty,Hosford,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,213
-Liberty,Telogia,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,216
-Liberty,Sumatra,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,38
-Liberty,Orange,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,82
-Liberty,Rock Bluff,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,75
-Liberty,Annex,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,42
-Liberty,Bristol,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,186
-Liberty,Lake Mystic,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,203
-Liberty,Hosford,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,133
-Liberty,Telogia,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,128
-Liberty,Sumatra,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,55
-Liberty,Orange,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,52
-Liberty,Rock Bluff,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Annex,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Bristol,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Lake Mystic,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Hosford,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Telogia,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Sumatra,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Orange,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,29
-Liberty,Annex,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,13
-Liberty,Bristol,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,60
-Liberty,Lake Mystic,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,79
-Liberty,Hosford,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,50
-Liberty,Telogia,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,48
-Liberty,Sumatra,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,15
-Liberty,Orange,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,15
-Liberty,Rock Bluff,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,80
-Liberty,Annex,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,66
-Liberty,Bristol,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,391
-Liberty,Lake Mystic,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,367
-Liberty,Hosford,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,223
-Liberty,Telogia,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,221
-Liberty,Sumatra,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,38
-Liberty,Orange,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,86
-Liberty,Rock Bluff,Retention of Bobby Long,First District Court of Appeal,NOP,No,78
-Liberty,Annex,Retention of Bobby Long,First District Court of Appeal,NOP,No,39
-Liberty,Bristol,Retention of Bobby Long,First District Court of Appeal,NOP,No,175
-Liberty,Lake Mystic,Retention of Bobby Long,First District Court of Appeal,NOP,No,196
-Liberty,Hosford,Retention of Bobby Long,First District Court of Appeal,NOP,No,122
-Liberty,Telogia,Retention of Bobby Long,First District Court of Appeal,NOP,No,122
-Liberty,Sumatra,Retention of Bobby Long,First District Court of Appeal,NOP,No,56
-Liberty,Orange,Retention of Bobby Long,First District Court of Appeal,NOP,No,47
-Liberty,Rock Bluff,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Liberty,Annex,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
-Liberty,Bristol,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
-Liberty,Lake Mystic,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Liberty,Hosford,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Liberty,Telogia,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Liberty,Sumatra,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Liberty,Orange,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,29
-Liberty,Annex,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,13
-Liberty,Bristol,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,60
-Liberty,Lake Mystic,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,81
-Liberty,Hosford,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,51
-Liberty,Telogia,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,49
-Liberty,Sumatra,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,14
-Liberty,Orange,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,16
-Liberty,Rock Bluff,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,91
-Liberty,Annex,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,63
-Liberty,Bristol,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,376
-Liberty,Lake Mystic,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,345
-Liberty,Hosford,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,211
-Liberty,Telogia,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,211
-Liberty,Sumatra,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,36
-Liberty,Orange,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,83
-Liberty,Rock Bluff,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,67
-Liberty,Annex,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,43
-Liberty,Bristol,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,192
-Liberty,Lake Mystic,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,218
-Liberty,Hosford,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,134
-Liberty,Telogia,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,133
-Liberty,Sumatra,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,57
-Liberty,Orange,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,50
-Liberty,Rock Bluff,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Liberty,Annex,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Liberty,Bristol,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Liberty,Lake Mystic,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Liberty,Hosford,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Liberty,Telogia,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Liberty,Sumatra,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Liberty,Orange,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,29
-Liberty,Annex,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,13
-Liberty,Bristol,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,59
-Liberty,Lake Mystic,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,81
-Liberty,Hosford,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,51
-Liberty,Telogia,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,47
-Liberty,Sumatra,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,15
-Liberty,Orange,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,16
-Liberty,Rock Bluff,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,82
-Liberty,Annex,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,60
-Liberty,Bristol,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,386
-Liberty,Lake Mystic,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,364
-Liberty,Hosford,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,216
-Liberty,Telogia,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,211
-Liberty,Sumatra,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,40
-Liberty,Orange,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,83
-Liberty,Rock Bluff,Retention of Bo Winokur,First District Court of Appeal,NOP,No,76
-Liberty,Annex,Retention of Bo Winokur,First District Court of Appeal,NOP,No,47
-Liberty,Bristol,Retention of Bo Winokur,First District Court of Appeal,NOP,No,182
-Liberty,Lake Mystic,Retention of Bo Winokur,First District Court of Appeal,NOP,No,198
-Liberty,Hosford,Retention of Bo Winokur,First District Court of Appeal,NOP,No,129
-Liberty,Telogia,Retention of Bo Winokur,First District Court of Appeal,NOP,No,132
-Liberty,Sumatra,Retention of Bo Winokur,First District Court of Appeal,NOP,No,54
-Liberty,Orange,Retention of Bo Winokur,First District Court of Appeal,NOP,No,51
-Liberty,Rock Bluff,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Liberty,Annex,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Liberty,Bristol,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Liberty,Lake Mystic,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
-Liberty,Hosford,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Liberty,Telogia,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Liberty,Sumatra,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Liberty,Orange,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Liberty,Rock Bluff,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,29
-Liberty,Annex,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,12
-Liberty,Bristol,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,59
-Liberty,Lake Mystic,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,81
-Liberty,Hosford,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,51
-Liberty,Telogia,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,49
-Liberty,Sumatra,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,14
-Liberty,Orange,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,15
-Liberty,Rock Bluff,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,65
-Liberty,Annex,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,64
-Liberty,Bristol,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,314
-Liberty,Lake Mystic,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,340
-Liberty,Hosford,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,199
-Liberty,Telogia,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,164
-Liberty,Sumatra,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,48
-Liberty,Orange,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,78
-Liberty,Rock Bluff,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,93
-Liberty,Annex,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,47
-Liberty,Bristol,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,267
-Liberty,Lake Mystic,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,245
-Liberty,Hosford,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,168
-Liberty,Telogia,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,202
-Liberty,Sumatra,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,52
-Liberty,Orange,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,64
-Liberty,Rock Bluff,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Liberty,Annex,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Liberty,Bristol,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Liberty,Lake Mystic,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Liberty,Hosford,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Liberty,Telogia,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Liberty,Sumatra,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Liberty,Orange,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Liberty,Rock Bluff,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
-Liberty,Annex,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,8
-Liberty,Bristol,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,46
-Liberty,Lake Mystic,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,58
-Liberty,Hosford,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
-Liberty,Telogia,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,26
-Liberty,Sumatra,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,8
-Liberty,Orange,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,7
-Liberty,Rock Bluff,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,65
-Liberty,Annex,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,57
-Liberty,Bristol,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,293
-Liberty,Lake Mystic,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,303
-Liberty,Hosford,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,179
-Liberty,Telogia,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,166
-Liberty,Sumatra,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,48
-Liberty,Orange,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,69
-Liberty,Rock Bluff,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,94
-Liberty,Annex,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,49
-Liberty,Bristol,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,286
-Liberty,Lake Mystic,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,271
-Liberty,Hosford,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,188
-Liberty,Telogia,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,199
-Liberty,Sumatra,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,51
-Liberty,Orange,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,68
-Liberty,Rock Bluff,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Liberty,Annex,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
-Liberty,Bristol,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
-Liberty,Lake Mystic,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Liberty,Hosford,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Liberty,Telogia,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Liberty,Sumatra,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Liberty,Orange,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Liberty,Rock Bluff,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,28
-Liberty,Annex,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,12
-Liberty,Bristol,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,47
-Liberty,Lake Mystic,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,70
-Liberty,Hosford,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,29
-Liberty,Telogia,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
-Liberty,Sumatra,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,9
-Liberty,Orange,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,12
-Liberty,Rock Bluff,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,78
-Liberty,Annex,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,66
-Liberty,Bristol,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,337
-Liberty,Lake Mystic,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,326
-Liberty,Hosford,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,212
-Liberty,Telogia,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,192
-Liberty,Sumatra,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,42
-Liberty,Orange,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,69
-Liberty,Rock Bluff,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,88
-Liberty,Annex,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,46
-Liberty,Bristol,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,257
-Liberty,Lake Mystic,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,269
-Liberty,Hosford,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,167
-Liberty,Telogia,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,179
-Liberty,Sumatra,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,59
-Liberty,Orange,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,72
-Liberty,Rock Bluff,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Annex,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Bristol,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Lake Mystic,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Hosford,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Telogia,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Sumatra,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Orange,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Liberty,Rock Bluff,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,21
-Liberty,Annex,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
-Liberty,Bristol,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,33
-Liberty,Lake Mystic,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,49
-Liberty,Hosford,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,17
-Liberty,Telogia,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,21
-Liberty,Sumatra,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
-Liberty,Orange,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,8
+Liberty,1,U.S. Senate,"",REP,Marco Rubio,53
+Liberty,2,U.S. Senate,"",REP,Marco Rubio,81
+Liberty,3,U.S. Senate,"",REP,Marco Rubio,534
+Liberty,4,U.S. Senate,"",REP,Marco Rubio,604
+Liberty,5,U.S. Senate,"",REP,Marco Rubio,340
+Liberty,6,U.S. Senate,"",REP,Marco Rubio,333
+Liberty,7,U.S. Senate,"",REP,Marco Rubio,97
+Liberty,8,U.S. Senate,"",REP,Marco Rubio,122
+Liberty,1,U.S. Senate,"",DEM,Val Demings,129
+Liberty,2,U.S. Senate,"",DEM,Val Demings,38
+Liberty,3,U.S. Senate,"",DEM,Val Demings,77
+Liberty,4,U.S. Senate,"",DEM,Val Demings,37
+Liberty,5,U.S. Senate,"",DEM,Val Demings,47
+Liberty,6,U.S. Senate,"",DEM,Val Demings,49
+Liberty,7,U.S. Senate,"",DEM,Val Demings,7
+Liberty,8,U.S. Senate,"",DEM,Val Demings,21
+Liberty,1,U.S. Senate,"",LPF,Dennis Misigoy,0
+Liberty,2,U.S. Senate,"",LPF,Dennis Misigoy,0
+Liberty,3,U.S. Senate,"",LPF,Dennis Misigoy,5
+Liberty,4,U.S. Senate,"",LPF,Dennis Misigoy,0
+Liberty,5,U.S. Senate,"",LPF,Dennis Misigoy,1
+Liberty,6,U.S. Senate,"",LPF,Dennis Misigoy,2
+Liberty,7,U.S. Senate,"",LPF,Dennis Misigoy,0
+Liberty,8,U.S. Senate,"",LPF,Dennis Misigoy,3
+Liberty,1,U.S. Senate,"",NPA,Steven B. Grant,2
+Liberty,2,U.S. Senate,"",NPA,Steven B. Grant,0
+Liberty,3,U.S. Senate,"",NPA,Steven B. Grant,5
+Liberty,4,U.S. Senate,"",NPA,Steven B. Grant,2
+Liberty,5,U.S. Senate,"",NPA,Steven B. Grant,5
+Liberty,6,U.S. Senate,"",NPA,Steven B. Grant,3
+Liberty,7,U.S. Senate,"",NPA,Steven B. Grant,1
+Liberty,8,U.S. Senate,"",NPA,Steven B. Grant,1
+Liberty,1,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Liberty,2,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Liberty,3,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Liberty,4,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Liberty,5,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Liberty,6,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Liberty,7,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Liberty,8,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Liberty,1,U.S. Senate,"","",WriteinVotes,0
+Liberty,2,U.S. Senate,"","",WriteinVotes,0
+Liberty,3,U.S. Senate,"","",WriteinVotes,0
+Liberty,4,U.S. Senate,"","",WriteinVotes,0
+Liberty,5,U.S. Senate,"","",WriteinVotes,0
+Liberty,6,U.S. Senate,"","",WriteinVotes,0
+Liberty,7,U.S. Senate,"","",WriteinVotes,0
+Liberty,8,U.S. Senate,"","",WriteinVotes,0
+Liberty,1,U.S. Senate,"","",OverVotes,0
+Liberty,2,U.S. Senate,"","",OverVotes,0
+Liberty,3,U.S. Senate,"","",OverVotes,1
+Liberty,4,U.S. Senate,"","",OverVotes,0
+Liberty,5,U.S. Senate,"","",OverVotes,0
+Liberty,6,U.S. Senate,"","",OverVotes,0
+Liberty,7,U.S. Senate,"","",OverVotes,0
+Liberty,8,U.S. Senate,"","",OverVotes,0
+Liberty,1,U.S. Senate,"","",UnderVotes,3
+Liberty,2,U.S. Senate,"","",UnderVotes,0
+Liberty,3,U.S. Senate,"","",UnderVotes,3
+Liberty,4,U.S. Senate,"","",UnderVotes,0
+Liberty,5,U.S. Senate,"","",UnderVotes,3
+Liberty,6,U.S. Senate,"","",UnderVotes,5
+Liberty,7,U.S. Senate,"","",UnderVotes,3
+Liberty,8,U.S. Senate,"","",UnderVotes,2
+Liberty,1,U.S. House,2,REP,Neal Dunn,49
+Liberty,2,U.S. House,2,REP,Neal Dunn,76
+Liberty,3,U.S. House,2,REP,Neal Dunn,533
+Liberty,4,U.S. House,2,REP,Neal Dunn,587
+Liberty,5,U.S. House,2,REP,Neal Dunn,336
+Liberty,6,U.S. House,2,REP,Neal Dunn,326
+Liberty,7,U.S. House,2,REP,Neal Dunn,98
+Liberty,8,U.S. House,2,REP,Neal Dunn,116
+Liberty,1,U.S. House,2,DEM,Al Lawson,138
+Liberty,2,U.S. House,2,DEM,Al Lawson,43
+Liberty,3,U.S. House,2,DEM,Al Lawson,91
+Liberty,4,U.S. House,2,DEM,Al Lawson,56
+Liberty,5,U.S. House,2,DEM,Al Lawson,58
+Liberty,6,U.S. House,2,DEM,Al Lawson,64
+Liberty,7,U.S. House,2,DEM,Al Lawson,8
+Liberty,8,U.S. House,2,DEM,Al Lawson,31
+Liberty,1,U.S. House,2,"",OverVotes,0
+Liberty,2,U.S. House,2,"",OverVotes,0
+Liberty,3,U.S. House,2,"",OverVotes,0
+Liberty,4,U.S. House,2,"",OverVotes,0
+Liberty,5,U.S. House,2,"",OverVotes,0
+Liberty,6,U.S. House,2,"",OverVotes,0
+Liberty,7,U.S. House,2,"",OverVotes,0
+Liberty,8,U.S. House,2,"",OverVotes,0
+Liberty,1,U.S. House,2,"",UnderVotes,0
+Liberty,2,U.S. House,2,"",UnderVotes,0
+Liberty,3,U.S. House,2,"",UnderVotes,3
+Liberty,4,U.S. House,2,"",UnderVotes,1
+Liberty,5,U.S. House,2,"",UnderVotes,2
+Liberty,6,U.S. House,2,"",UnderVotes,2
+Liberty,7,U.S. House,2,"",UnderVotes,2
+Liberty,8,U.S. House,2,"",UnderVotes,2
+Liberty,1,Governor,"",REP,DeSantis / Nuñez,58
+Liberty,2,Governor,"",REP,DeSantis / Nuñez,79
+Liberty,3,Governor,"",REP,DeSantis / Nuñez,561
+Liberty,4,Governor,"",REP,DeSantis / Nuñez,604
+Liberty,5,Governor,"",REP,DeSantis / Nuñez,351
+Liberty,6,Governor,"",REP,DeSantis / Nuñez,351
+Liberty,7,Governor,"",REP,DeSantis / Nuñez,102
+Liberty,8,Governor,"",REP,DeSantis / Nuñez,128
+Liberty,1,Governor,"",DEM,Crist / Hernandez,125
+Liberty,2,Governor,"",DEM,Crist / Hernandez,38
+Liberty,3,Governor,"",DEM,Crist / Hernandez,65
+Liberty,4,Governor,"",DEM,Crist / Hernandez,37
+Liberty,5,Governor,"",DEM,Crist / Hernandez,43
+Liberty,6,Governor,"",DEM,Crist / Hernandez,37
+Liberty,7,Governor,"",DEM,Crist / Hernandez,6
+Liberty,8,Governor,"",DEM,Crist / Hernandez,20
+Liberty,1,Governor,"",LPF,Roos / Rorabaugh,0
+Liberty,2,Governor,"",LPF,Roos / Rorabaugh,1
+Liberty,3,Governor,"",LPF,Roos / Rorabaugh,0
+Liberty,4,Governor,"",LPF,Roos / Rorabaugh,0
+Liberty,5,Governor,"",LPF,Roos / Rorabaugh,0
+Liberty,6,Governor,"",LPF,Roos / Rorabaugh,3
+Liberty,7,Governor,"",LPF,Roos / Rorabaugh,0
+Liberty,8,Governor,"",LPF,Roos / Rorabaugh,1
+Liberty,1,Governor,"",NPA,Gimenez / Gibson,3
+Liberty,2,Governor,"",NPA,Gimenez / Gibson,0
+Liberty,3,Governor,"",NPA,Gimenez / Gibson,1
+Liberty,4,Governor,"",NPA,Gimenez / Gibson,1
+Liberty,5,Governor,"",NPA,Gimenez / Gibson,1
+Liberty,6,Governor,"",NPA,Gimenez / Gibson,1
+Liberty,7,Governor,"",NPA,Gimenez / Gibson,0
+Liberty,8,Governor,"",NPA,Gimenez / Gibson,0
+Liberty,1,Governor,"","",OverVotes,0
+Liberty,2,Governor,"","",OverVotes,0
+Liberty,3,Governor,"","",OverVotes,0
+Liberty,4,Governor,"","",OverVotes,0
+Liberty,5,Governor,"","",OverVotes,0
+Liberty,6,Governor,"","",OverVotes,0
+Liberty,7,Governor,"","",OverVotes,0
+Liberty,8,Governor,"","",OverVotes,0
+Liberty,1,Governor,"","",UnderVotes,1
+Liberty,2,Governor,"","",UnderVotes,1
+Liberty,3,Governor,"","",UnderVotes,0
+Liberty,4,Governor,"","",UnderVotes,2
+Liberty,5,Governor,"","",UnderVotes,1
+Liberty,6,Governor,"","",UnderVotes,0
+Liberty,7,Governor,"","",UnderVotes,0
+Liberty,8,Governor,"","",UnderVotes,0
+Liberty,1,Attorney General,"",REP,Ashley Moody,61
+Liberty,2,Attorney General,"",REP,Ashley Moody,81
+Liberty,3,Attorney General,"",REP,Ashley Moody,555
+Liberty,4,Attorney General,"",REP,Ashley Moody,605
+Liberty,5,Attorney General,"",REP,Ashley Moody,352
+Liberty,6,Attorney General,"",REP,Ashley Moody,348
+Liberty,7,Attorney General,"",REP,Ashley Moody,99
+Liberty,8,Attorney General,"",REP,Ashley Moody,130
+Liberty,1,Attorney General,"",DEM,Aramis Ayala,119
+Liberty,2,Attorney General,"",DEM,Aramis Ayala,38
+Liberty,3,Attorney General,"",DEM,Aramis Ayala,68
+Liberty,4,Attorney General,"",DEM,Aramis Ayala,37
+Liberty,5,Attorney General,"",DEM,Aramis Ayala,38
+Liberty,6,Attorney General,"",DEM,Aramis Ayala,37
+Liberty,7,Attorney General,"",DEM,Aramis Ayala,8
+Liberty,8,Attorney General,"",DEM,Aramis Ayala,18
+Liberty,1,Attorney General,"","",OverVotes,0
+Liberty,2,Attorney General,"","",OverVotes,0
+Liberty,3,Attorney General,"","",OverVotes,0
+Liberty,4,Attorney General,"","",OverVotes,0
+Liberty,5,Attorney General,"","",OverVotes,0
+Liberty,6,Attorney General,"","",OverVotes,0
+Liberty,7,Attorney General,"","",OverVotes,0
+Liberty,8,Attorney General,"","",OverVotes,0
+Liberty,1,Attorney General,"","",UnderVotes,7
+Liberty,2,Attorney General,"","",UnderVotes,0
+Liberty,3,Attorney General,"","",UnderVotes,4
+Liberty,4,Attorney General,"","",UnderVotes,2
+Liberty,5,Attorney General,"","",UnderVotes,6
+Liberty,6,Attorney General,"","",UnderVotes,7
+Liberty,7,Attorney General,"","",UnderVotes,1
+Liberty,8,Attorney General,"","",UnderVotes,1
+Liberty,1,Chief Financial Officer,"",REP,Jimmy Patronis,61
+Liberty,2,Chief Financial Officer,"",REP,Jimmy Patronis,81
+Liberty,3,Chief Financial Officer,"",REP,Jimmy Patronis,557
+Liberty,4,Chief Financial Officer,"",REP,Jimmy Patronis,604
+Liberty,5,Chief Financial Officer,"",REP,Jimmy Patronis,346
+Liberty,6,Chief Financial Officer,"",REP,Jimmy Patronis,345
+Liberty,7,Chief Financial Officer,"",REP,Jimmy Patronis,100
+Liberty,8,Chief Financial Officer,"",REP,Jimmy Patronis,126
+Liberty,1,Chief Financial Officer,"",DEM,Adam Hattersley,118
+Liberty,2,Chief Financial Officer,"",DEM,Adam Hattersley,38
+Liberty,3,Chief Financial Officer,"",DEM,Adam Hattersley,65
+Liberty,4,Chief Financial Officer,"",DEM,Adam Hattersley,37
+Liberty,5,Chief Financial Officer,"",DEM,Adam Hattersley,46
+Liberty,6,Chief Financial Officer,"",DEM,Adam Hattersley,41
+Liberty,7,Chief Financial Officer,"",DEM,Adam Hattersley,7
+Liberty,8,Chief Financial Officer,"",DEM,Adam Hattersley,21
+Liberty,1,Chief Financial Officer,"","",OverVotes,0
+Liberty,2,Chief Financial Officer,"","",OverVotes,0
+Liberty,3,Chief Financial Officer,"","",OverVotes,0
+Liberty,4,Chief Financial Officer,"","",OverVotes,0
+Liberty,5,Chief Financial Officer,"","",OverVotes,0
+Liberty,6,Chief Financial Officer,"","",OverVotes,0
+Liberty,7,Chief Financial Officer,"","",OverVotes,0
+Liberty,8,Chief Financial Officer,"","",OverVotes,0
+Liberty,1,Chief Financial Officer,"","",UnderVotes,8
+Liberty,2,Chief Financial Officer,"","",UnderVotes,0
+Liberty,3,Chief Financial Officer,"","",UnderVotes,5
+Liberty,4,Chief Financial Officer,"","",UnderVotes,3
+Liberty,5,Chief Financial Officer,"","",UnderVotes,4
+Liberty,6,Chief Financial Officer,"","",UnderVotes,6
+Liberty,7,Chief Financial Officer,"","",UnderVotes,1
+Liberty,8,Chief Financial Officer,"","",UnderVotes,2
+Liberty,1,Commissioner of Agriculture,"",REP,Wilton Simpson,55
+Liberty,2,Commissioner of Agriculture,"",REP,Wilton Simpson,76
+Liberty,3,Commissioner of Agriculture,"",REP,Wilton Simpson,552
+Liberty,4,Commissioner of Agriculture,"",REP,Wilton Simpson,596
+Liberty,5,Commissioner of Agriculture,"",REP,Wilton Simpson,335
+Liberty,6,Commissioner of Agriculture,"",REP,Wilton Simpson,330
+Liberty,7,Commissioner of Agriculture,"",REP,Wilton Simpson,98
+Liberty,8,Commissioner of Agriculture,"",REP,Wilton Simpson,126
+Liberty,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,124
+Liberty,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
+Liberty,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,70
+Liberty,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,42
+Liberty,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,57
+Liberty,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,49
+Liberty,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7
+Liberty,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Liberty,1,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,2,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,3,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,4,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,5,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,6,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,7,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,8,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,1,Commissioner of Agriculture,"","",UnderVotes,8
+Liberty,2,Commissioner of Agriculture,"","",UnderVotes,2
+Liberty,3,Commissioner of Agriculture,"","",UnderVotes,5
+Liberty,4,Commissioner of Agriculture,"","",UnderVotes,6
+Liberty,5,Commissioner of Agriculture,"","",UnderVotes,4
+Liberty,6,Commissioner of Agriculture,"","",UnderVotes,13
+Liberty,7,Commissioner of Agriculture,"","",UnderVotes,3
+Liberty,8,Commissioner of Agriculture,"","",UnderVotes,2
+Liberty,1,State Senate,3,REP,Corey Simon,59
+Liberty,2,State Senate,3,REP,Corey Simon,75
+Liberty,3,State Senate,3,REP,Corey Simon,509
+Liberty,4,State Senate,3,REP,Corey Simon,581
+Liberty,5,State Senate,3,REP,Corey Simon,328
+Liberty,6,State Senate,3,REP,Corey Simon,317
+Liberty,7,State Senate,3,REP,Corey Simon,95
+Liberty,8,State Senate,3,REP,Corey Simon,118
+Liberty,1,State Senate,3,DEM,Loranne Ausley,124
+Liberty,2,State Senate,3,DEM,Loranne Ausley,43
+Liberty,3,State Senate,3,DEM,Loranne Ausley,109
+Liberty,4,State Senate,3,DEM,Loranne Ausley,57
+Liberty,5,State Senate,3,DEM,Loranne Ausley,63
+Liberty,6,State Senate,3,DEM,Loranne Ausley,65
+Liberty,7,State Senate,3,DEM,Loranne Ausley,8
+Liberty,8,State Senate,3,DEM,Loranne Ausley,27
+Liberty,1,State Senate,3,"",OverVotes,0
+Liberty,2,State Senate,3,"",OverVotes,0
+Liberty,3,State Senate,3,"",OverVotes,0
+Liberty,4,State Senate,3,"",OverVotes,0
+Liberty,5,State Senate,3,"",OverVotes,0
+Liberty,6,State Senate,3,"",OverVotes,0
+Liberty,7,State Senate,3,"",OverVotes,0
+Liberty,8,State Senate,3,"",OverVotes,0
+Liberty,1,State Senate,3,"",UnderVotes,4
+Liberty,2,State Senate,3,"",UnderVotes,1
+Liberty,3,State Senate,3,"",UnderVotes,9
+Liberty,4,State Senate,3,"",UnderVotes,6
+Liberty,5,State Senate,3,"",UnderVotes,5
+Liberty,6,State Senate,3,"",UnderVotes,10
+Liberty,7,State Senate,3,"",UnderVotes,5
+Liberty,8,State Senate,3,"",UnderVotes,4
+Liberty,1,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,79
+Liberty,2,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,66
+Liberty,3,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,400
+Liberty,4,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,369
+Liberty,5,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,229
+Liberty,6,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,227
+Liberty,7,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,39
+Liberty,8,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,84
+Liberty,1,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,82
+Liberty,2,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,41
+Liberty,3,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,172
+Liberty,4,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,197
+Liberty,5,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,122
+Liberty,6,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,123
+Liberty,7,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,56
+Liberty,8,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,50
+Liberty,1,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,2,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,3,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,4,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,5,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,6,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,7,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,8,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Liberty,1,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,26
+Liberty,2,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,12
+Liberty,3,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,55
+Liberty,4,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,78
+Liberty,5,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,45
+Liberty,6,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,42
+Liberty,7,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,13
+Liberty,8,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,15
+Liberty,1,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,76
+Liberty,2,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,63
+Liberty,3,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,393
+Liberty,4,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,378
+Liberty,5,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,227
+Liberty,6,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,219
+Liberty,7,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,40
+Liberty,8,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,90
+Liberty,1,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,83
+Liberty,2,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,44
+Liberty,3,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,176
+Liberty,4,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,185
+Liberty,5,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,119
+Liberty,6,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,127
+Liberty,7,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,54
+Liberty,8,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,43
+Liberty,1,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Liberty,2,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Liberty,3,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Liberty,4,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Liberty,5,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Liberty,6,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Liberty,7,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Liberty,8,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Liberty,1,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,28
+Liberty,2,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,12
+Liberty,3,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,58
+Liberty,4,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,81
+Liberty,5,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,49
+Liberty,6,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,46
+Liberty,7,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,14
+Liberty,8,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,16
+Liberty,1,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,81
+Liberty,2,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,66
+Liberty,3,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,390
+Liberty,4,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,379
+Liberty,5,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,225
+Liberty,6,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,219
+Liberty,7,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,38
+Liberty,8,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,88
+Liberty,1,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,79
+Liberty,2,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,41
+Liberty,3,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,177
+Liberty,4,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,183
+Liberty,5,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,123
+Liberty,6,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,126
+Liberty,7,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,56
+Liberty,8,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,46
+Liberty,1,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Liberty,2,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Liberty,3,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Liberty,4,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Liberty,5,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Liberty,6,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Liberty,7,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Liberty,8,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Liberty,1,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,27
+Liberty,2,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,12
+Liberty,3,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,59
+Liberty,4,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,81
+Liberty,5,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,48
+Liberty,6,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,47
+Liberty,7,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,14
+Liberty,8,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,15
+Liberty,1,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,90
+Liberty,2,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,59
+Liberty,3,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,323
+Liberty,4,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,278
+Liberty,5,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,171
+Liberty,6,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,195
+Liberty,7,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,37
+Liberty,8,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,69
+Liberty,1,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,69
+Liberty,2,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,48
+Liberty,3,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,246
+Liberty,4,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,285
+Liberty,5,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,181
+Liberty,6,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,151
+Liberty,7,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,56
+Liberty,8,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,65
+Liberty,1,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Liberty,2,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Liberty,3,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Liberty,4,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Liberty,5,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Liberty,6,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Liberty,7,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Liberty,8,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Liberty,1,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,28
+Liberty,2,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,12
+Liberty,3,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,57
+Liberty,4,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,81
+Liberty,5,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,44
+Liberty,6,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,46
+Liberty,7,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,15
+Liberty,8,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,15
+Liberty,1,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,81
+Liberty,2,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,64
+Liberty,3,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,381
+Liberty,4,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,366
+Liberty,5,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,221
+Liberty,6,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,215
+Liberty,7,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,38
+Liberty,8,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,84
+Liberty,1,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,79
+Liberty,2,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,43
+Liberty,3,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,190
+Liberty,4,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,198
+Liberty,5,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,127
+Liberty,6,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,130
+Liberty,7,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,56
+Liberty,8,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,50
+Liberty,1,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,2,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,3,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,4,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,5,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,6,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,7,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,8,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Liberty,1,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,27
+Liberty,2,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,12
+Liberty,3,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,56
+Liberty,4,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,80
+Liberty,5,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,48
+Liberty,6,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,47
+Liberty,7,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,14
+Liberty,8,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,15
+Liberty,1,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,80
+Liberty,2,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,64
+Liberty,3,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,392
+Liberty,4,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,371
+Liberty,5,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,220
+Liberty,6,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,215
+Liberty,7,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,39
+Liberty,8,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,84
+Liberty,1,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,77
+Liberty,2,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,44
+Liberty,3,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,178
+Liberty,4,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,189
+Liberty,5,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,126
+Liberty,6,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,128
+Liberty,7,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,55
+Liberty,8,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,47
+Liberty,1,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Liberty,2,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Liberty,3,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Liberty,4,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Liberty,5,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Liberty,6,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Liberty,7,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Liberty,8,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Liberty,1,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,29
+Liberty,2,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,11
+Liberty,3,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,57
+Liberty,4,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,83
+Liberty,5,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,49
+Liberty,6,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,49
+Liberty,7,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,14
+Liberty,8,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,17
+Liberty,1,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,83
+Liberty,2,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,64
+Liberty,3,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,381
+Liberty,4,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,362
+Liberty,5,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,213
+Liberty,6,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,216
+Liberty,7,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,38
+Liberty,8,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,82
+Liberty,1,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,75
+Liberty,2,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,42
+Liberty,3,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,186
+Liberty,4,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,203
+Liberty,5,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,133
+Liberty,6,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,128
+Liberty,7,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,55
+Liberty,8,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,52
+Liberty,1,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,2,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,3,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,4,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,5,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,6,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,7,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,8,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Liberty,1,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,29
+Liberty,2,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,13
+Liberty,3,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,60
+Liberty,4,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,79
+Liberty,5,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,50
+Liberty,6,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,48
+Liberty,7,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,15
+Liberty,8,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,15
+Liberty,1,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,80
+Liberty,2,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,66
+Liberty,3,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,391
+Liberty,4,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,367
+Liberty,5,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,223
+Liberty,6,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,221
+Liberty,7,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,38
+Liberty,8,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,86
+Liberty,1,Retention of Bobby Long,First District Court of Appeal,NOP,No,78
+Liberty,2,Retention of Bobby Long,First District Court of Appeal,NOP,No,39
+Liberty,3,Retention of Bobby Long,First District Court of Appeal,NOP,No,175
+Liberty,4,Retention of Bobby Long,First District Court of Appeal,NOP,No,196
+Liberty,5,Retention of Bobby Long,First District Court of Appeal,NOP,No,122
+Liberty,6,Retention of Bobby Long,First District Court of Appeal,NOP,No,122
+Liberty,7,Retention of Bobby Long,First District Court of Appeal,NOP,No,56
+Liberty,8,Retention of Bobby Long,First District Court of Appeal,NOP,No,47
+Liberty,1,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Liberty,2,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Liberty,3,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Liberty,4,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Liberty,5,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Liberty,6,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Liberty,7,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Liberty,8,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Liberty,1,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,29
+Liberty,2,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,13
+Liberty,3,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,60
+Liberty,4,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,81
+Liberty,5,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,51
+Liberty,6,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,49
+Liberty,7,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,14
+Liberty,8,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,16
+Liberty,1,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,91
+Liberty,2,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,63
+Liberty,3,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,376
+Liberty,4,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,345
+Liberty,5,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,211
+Liberty,6,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,211
+Liberty,7,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,36
+Liberty,8,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,83
+Liberty,1,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,67
+Liberty,2,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,43
+Liberty,3,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,192
+Liberty,4,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,218
+Liberty,5,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,134
+Liberty,6,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,133
+Liberty,7,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,57
+Liberty,8,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,50
+Liberty,1,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Liberty,2,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Liberty,3,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Liberty,4,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Liberty,5,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Liberty,6,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Liberty,7,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Liberty,8,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Liberty,1,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,29
+Liberty,2,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,13
+Liberty,3,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,59
+Liberty,4,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,81
+Liberty,5,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,51
+Liberty,6,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,47
+Liberty,7,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,15
+Liberty,8,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,16
+Liberty,1,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,82
+Liberty,2,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,60
+Liberty,3,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,386
+Liberty,4,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,364
+Liberty,5,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,216
+Liberty,6,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,211
+Liberty,7,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,40
+Liberty,8,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,83
+Liberty,1,Retention of Bo Winokur,First District Court of Appeal,NOP,No,76
+Liberty,2,Retention of Bo Winokur,First District Court of Appeal,NOP,No,47
+Liberty,3,Retention of Bo Winokur,First District Court of Appeal,NOP,No,182
+Liberty,4,Retention of Bo Winokur,First District Court of Appeal,NOP,No,198
+Liberty,5,Retention of Bo Winokur,First District Court of Appeal,NOP,No,129
+Liberty,6,Retention of Bo Winokur,First District Court of Appeal,NOP,No,132
+Liberty,7,Retention of Bo Winokur,First District Court of Appeal,NOP,No,54
+Liberty,8,Retention of Bo Winokur,First District Court of Appeal,NOP,No,51
+Liberty,1,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Liberty,2,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Liberty,3,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Liberty,4,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Liberty,5,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Liberty,6,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Liberty,7,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Liberty,8,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Liberty,1,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,29
+Liberty,2,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,12
+Liberty,3,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,59
+Liberty,4,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,81
+Liberty,5,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,51
+Liberty,6,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,49
+Liberty,7,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,14
+Liberty,8,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,15
+Liberty,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,65
+Liberty,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,64
+Liberty,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,314
+Liberty,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,340
+Liberty,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,199
+Liberty,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,164
+Liberty,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,48
+Liberty,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,78
+Liberty,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,93
+Liberty,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,47
+Liberty,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,267
+Liberty,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,245
+Liberty,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,168
+Liberty,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,202
+Liberty,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,52
+Liberty,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,64
+Liberty,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Liberty,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Liberty,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Liberty,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Liberty,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Liberty,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Liberty,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Liberty,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Liberty,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
+Liberty,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,8
+Liberty,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,46
+Liberty,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,58
+Liberty,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
+Liberty,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,26
+Liberty,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,8
+Liberty,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,7
+Liberty,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,65
+Liberty,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,57
+Liberty,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,293
+Liberty,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,303
+Liberty,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,179
+Liberty,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,166
+Liberty,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,48
+Liberty,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,69
+Liberty,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,94
+Liberty,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,49
+Liberty,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,286
+Liberty,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,271
+Liberty,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,188
+Liberty,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,199
+Liberty,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,51
+Liberty,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,68
+Liberty,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Liberty,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Liberty,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Liberty,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Liberty,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Liberty,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Liberty,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Liberty,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Liberty,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,28
+Liberty,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,12
+Liberty,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,47
+Liberty,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,70
+Liberty,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,29
+Liberty,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
+Liberty,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,9
+Liberty,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,12
+Liberty,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,78
+Liberty,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,66
+Liberty,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,337
+Liberty,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,326
+Liberty,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,212
+Liberty,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,192
+Liberty,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,42
+Liberty,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,69
+Liberty,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,88
+Liberty,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,46
+Liberty,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,257
+Liberty,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,269
+Liberty,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,167
+Liberty,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,179
+Liberty,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,59
+Liberty,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,72
+Liberty,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Liberty,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,21
+Liberty,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
+Liberty,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,33
+Liberty,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,49
+Liberty,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,17
+Liberty,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,21
+Liberty,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
+Liberty,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,8
