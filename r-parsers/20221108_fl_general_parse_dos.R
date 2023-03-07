@@ -82,9 +82,15 @@ parsefile <- function(county, state, xx){
     xx$absentee <- 0
     xx$limited <- 0
     xx$county <- county
+    if (toupper(county) %in% c("DESOTO","LEON")){
+        xx$AREA <- paste0(xx$AreaId,":",xx$AREA)
+    }
+    else if (toupper(county) == "OSCEOLA"){
+        xx$AREA <- paste0(xx$AreaId,xx$AREA)
+    }
     #xx$district <- NA
     zxx1 <<- xx #DEBUG-RM
-    dd <- data.frame(xx$COUNTY,xx$AreaId,xx$Contest,xx$DIST,xx$Party,xx$Candidate,
+    dd <- data.frame(xx$COUNTY,xx$AREA,xx$Contest,xx$DIST,xx$Party,xx$Candidate,
                      xx$Votes,xx$`Early Votes`,xx$`Election Day Votes`,
                      xx$`Provisional Votes`,xx$`Mail Votes`,xx$absentee,xx$limited,
                      stringsAsFactors = FALSE)
