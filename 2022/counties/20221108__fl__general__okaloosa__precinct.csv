@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes
-Okaloosa,1,U.S. Senate,"",REP,Marco Rubio,1675
-Okaloosa,2,U.S. Senate,"",REP,Marco Rubio,438
-Okaloosa,3,U.S. Senate,"",REP,Marco Rubio,756
-Okaloosa,4,U.S. Senate,"",REP,Marco Rubio,765
-Okaloosa,5,U.S. Senate,"",REP,Marco Rubio,668
-Okaloosa,6,U.S. Senate,"",REP,Marco Rubio,2149
-Okaloosa,7,U.S. Senate,"",REP,Marco Rubio,949
-Okaloosa,8,U.S. Senate,"",REP,Marco Rubio,1928
-Okaloosa,9,U.S. Senate,"",REP,Marco Rubio,1745
+Okaloosa,01,U.S. Senate,"",REP,Marco Rubio,1675
+Okaloosa,02,U.S. Senate,"",REP,Marco Rubio,438
+Okaloosa,03,U.S. Senate,"",REP,Marco Rubio,756
+Okaloosa,04,U.S. Senate,"",REP,Marco Rubio,765
+Okaloosa,05,U.S. Senate,"",REP,Marco Rubio,668
+Okaloosa,06,U.S. Senate,"",REP,Marco Rubio,2149
+Okaloosa,07,U.S. Senate,"",REP,Marco Rubio,949
+Okaloosa,08,U.S. Senate,"",REP,Marco Rubio,1928
+Okaloosa,09,U.S. Senate,"",REP,Marco Rubio,1745
 Okaloosa,10,U.S. Senate,"",REP,Marco Rubio,2022
 Okaloosa,11,U.S. Senate,"",REP,Marco Rubio,3189
 Okaloosa,12,U.S. Senate,"",REP,Marco Rubio,150
@@ -51,15 +51,15 @@ Okaloosa,49,U.S. Senate,"",REP,Marco Rubio,1799
 Okaloosa,50,U.S. Senate,"",REP,Marco Rubio,1595
 Okaloosa,51,U.S. Senate,"",REP,Marco Rubio,1036
 Okaloosa,52,U.S. Senate,"",REP,Marco Rubio,1630
-Okaloosa,1,U.S. Senate,"",DEM,Val Demings,154
-Okaloosa,2,U.S. Senate,"",DEM,Val Demings,29
-Okaloosa,3,U.S. Senate,"",DEM,Val Demings,87
-Okaloosa,4,U.S. Senate,"",DEM,Val Demings,98
-Okaloosa,5,U.S. Senate,"",DEM,Val Demings,82
-Okaloosa,6,U.S. Senate,"",DEM,Val Demings,409
-Okaloosa,7,U.S. Senate,"",DEM,Val Demings,147
-Okaloosa,8,U.S. Senate,"",DEM,Val Demings,468
-Okaloosa,9,U.S. Senate,"",DEM,Val Demings,496
+Okaloosa,01,U.S. Senate,"",DEM,Val Demings,154
+Okaloosa,02,U.S. Senate,"",DEM,Val Demings,29
+Okaloosa,03,U.S. Senate,"",DEM,Val Demings,87
+Okaloosa,04,U.S. Senate,"",DEM,Val Demings,98
+Okaloosa,05,U.S. Senate,"",DEM,Val Demings,82
+Okaloosa,06,U.S. Senate,"",DEM,Val Demings,409
+Okaloosa,07,U.S. Senate,"",DEM,Val Demings,147
+Okaloosa,08,U.S. Senate,"",DEM,Val Demings,468
+Okaloosa,09,U.S. Senate,"",DEM,Val Demings,496
 Okaloosa,10,U.S. Senate,"",DEM,Val Demings,1019
 Okaloosa,11,U.S. Senate,"",DEM,Val Demings,1788
 Okaloosa,12,U.S. Senate,"",DEM,Val Demings,210
@@ -103,15 +103,15 @@ Okaloosa,49,U.S. Senate,"",DEM,Val Demings,375
 Okaloosa,50,U.S. Senate,"",DEM,Val Demings,341
 Okaloosa,51,U.S. Senate,"",DEM,Val Demings,214
 Okaloosa,52,U.S. Senate,"",DEM,Val Demings,545
-Okaloosa,1,U.S. Senate,"",LPF,Dennis Misigoy,6
-Okaloosa,2,U.S. Senate,"",LPF,Dennis Misigoy,1
-Okaloosa,3,U.S. Senate,"",LPF,Dennis Misigoy,3
-Okaloosa,4,U.S. Senate,"",LPF,Dennis Misigoy,5
-Okaloosa,5,U.S. Senate,"",LPF,Dennis Misigoy,2
-Okaloosa,6,U.S. Senate,"",LPF,Dennis Misigoy,13
-Okaloosa,7,U.S. Senate,"",LPF,Dennis Misigoy,9
-Okaloosa,8,U.S. Senate,"",LPF,Dennis Misigoy,26
-Okaloosa,9,U.S. Senate,"",LPF,Dennis Misigoy,17
+Okaloosa,01,U.S. Senate,"",LPF,Dennis Misigoy,6
+Okaloosa,02,U.S. Senate,"",LPF,Dennis Misigoy,1
+Okaloosa,03,U.S. Senate,"",LPF,Dennis Misigoy,3
+Okaloosa,04,U.S. Senate,"",LPF,Dennis Misigoy,5
+Okaloosa,05,U.S. Senate,"",LPF,Dennis Misigoy,2
+Okaloosa,06,U.S. Senate,"",LPF,Dennis Misigoy,13
+Okaloosa,07,U.S. Senate,"",LPF,Dennis Misigoy,9
+Okaloosa,08,U.S. Senate,"",LPF,Dennis Misigoy,26
+Okaloosa,09,U.S. Senate,"",LPF,Dennis Misigoy,17
 Okaloosa,10,U.S. Senate,"",LPF,Dennis Misigoy,20
 Okaloosa,11,U.S. Senate,"",LPF,Dennis Misigoy,44
 Okaloosa,12,U.S. Senate,"",LPF,Dennis Misigoy,2
@@ -155,15 +155,15 @@ Okaloosa,49,U.S. Senate,"",LPF,Dennis Misigoy,10
 Okaloosa,50,U.S. Senate,"",LPF,Dennis Misigoy,9
 Okaloosa,51,U.S. Senate,"",LPF,Dennis Misigoy,5
 Okaloosa,52,U.S. Senate,"",LPF,Dennis Misigoy,12
-Okaloosa,1,U.S. Senate,"",NPA,Steven B. Grant,2
-Okaloosa,2,U.S. Senate,"",NPA,Steven B. Grant,0
-Okaloosa,3,U.S. Senate,"",NPA,Steven B. Grant,2
-Okaloosa,4,U.S. Senate,"",NPA,Steven B. Grant,3
-Okaloosa,5,U.S. Senate,"",NPA,Steven B. Grant,3
-Okaloosa,6,U.S. Senate,"",NPA,Steven B. Grant,9
-Okaloosa,7,U.S. Senate,"",NPA,Steven B. Grant,10
-Okaloosa,8,U.S. Senate,"",NPA,Steven B. Grant,12
-Okaloosa,9,U.S. Senate,"",NPA,Steven B. Grant,20
+Okaloosa,01,U.S. Senate,"",NPA,Steven B. Grant,2
+Okaloosa,02,U.S. Senate,"",NPA,Steven B. Grant,0
+Okaloosa,03,U.S. Senate,"",NPA,Steven B. Grant,2
+Okaloosa,04,U.S. Senate,"",NPA,Steven B. Grant,3
+Okaloosa,05,U.S. Senate,"",NPA,Steven B. Grant,3
+Okaloosa,06,U.S. Senate,"",NPA,Steven B. Grant,9
+Okaloosa,07,U.S. Senate,"",NPA,Steven B. Grant,10
+Okaloosa,08,U.S. Senate,"",NPA,Steven B. Grant,12
+Okaloosa,09,U.S. Senate,"",NPA,Steven B. Grant,20
 Okaloosa,10,U.S. Senate,"",NPA,Steven B. Grant,20
 Okaloosa,11,U.S. Senate,"",NPA,Steven B. Grant,32
 Okaloosa,12,U.S. Senate,"",NPA,Steven B. Grant,6
@@ -207,15 +207,15 @@ Okaloosa,49,U.S. Senate,"",NPA,Steven B. Grant,3
 Okaloosa,50,U.S. Senate,"",NPA,Steven B. Grant,2
 Okaloosa,51,U.S. Senate,"",NPA,Steven B. Grant,4
 Okaloosa,52,U.S. Senate,"",NPA,Steven B. Grant,16
-Okaloosa,1,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
-Okaloosa,2,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Okaloosa,3,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Okaloosa,4,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Okaloosa,5,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Okaloosa,6,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
-Okaloosa,7,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
-Okaloosa,8,U.S. Senate,"",NPA,Tuan TQ Nguyen,8
-Okaloosa,9,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Okaloosa,01,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
+Okaloosa,02,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Okaloosa,03,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Okaloosa,04,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Okaloosa,05,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Okaloosa,06,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
+Okaloosa,07,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Okaloosa,08,U.S. Senate,"",NPA,Tuan TQ Nguyen,8
+Okaloosa,09,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
 Okaloosa,10,U.S. Senate,"",NPA,Tuan TQ Nguyen,10
 Okaloosa,11,U.S. Senate,"",NPA,Tuan TQ Nguyen,15
 Okaloosa,12,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
@@ -259,15 +259,15 @@ Okaloosa,49,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
 Okaloosa,50,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
 Okaloosa,51,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
 Okaloosa,52,U.S. Senate,"",NPA,Tuan TQ Nguyen,11
-Okaloosa,1,U.S. Senate,"","",WriteinVotes,0
-Okaloosa,2,U.S. Senate,"","",WriteinVotes,2
-Okaloosa,3,U.S. Senate,"","",WriteinVotes,0
-Okaloosa,4,U.S. Senate,"","",WriteinVotes,0
-Okaloosa,5,U.S. Senate,"","",WriteinVotes,1
-Okaloosa,6,U.S. Senate,"","",WriteinVotes,3
-Okaloosa,7,U.S. Senate,"","",WriteinVotes,0
-Okaloosa,8,U.S. Senate,"","",WriteinVotes,2
-Okaloosa,9,U.S. Senate,"","",WriteinVotes,1
+Okaloosa,01,U.S. Senate,"","",WriteinVotes,0
+Okaloosa,02,U.S. Senate,"","",WriteinVotes,2
+Okaloosa,03,U.S. Senate,"","",WriteinVotes,0
+Okaloosa,04,U.S. Senate,"","",WriteinVotes,0
+Okaloosa,05,U.S. Senate,"","",WriteinVotes,1
+Okaloosa,06,U.S. Senate,"","",WriteinVotes,3
+Okaloosa,07,U.S. Senate,"","",WriteinVotes,0
+Okaloosa,08,U.S. Senate,"","",WriteinVotes,2
+Okaloosa,09,U.S. Senate,"","",WriteinVotes,1
 Okaloosa,10,U.S. Senate,"","",WriteinVotes,1
 Okaloosa,11,U.S. Senate,"","",WriteinVotes,1
 Okaloosa,12,U.S. Senate,"","",WriteinVotes,1
@@ -311,15 +311,15 @@ Okaloosa,49,U.S. Senate,"","",WriteinVotes,0
 Okaloosa,50,U.S. Senate,"","",WriteinVotes,0
 Okaloosa,51,U.S. Senate,"","",WriteinVotes,0
 Okaloosa,52,U.S. Senate,"","",WriteinVotes,0
-Okaloosa,1,U.S. Senate,"","",OverVotes,0
-Okaloosa,2,U.S. Senate,"","",OverVotes,0
-Okaloosa,3,U.S. Senate,"","",OverVotes,0
-Okaloosa,4,U.S. Senate,"","",OverVotes,0
-Okaloosa,5,U.S. Senate,"","",OverVotes,1
-Okaloosa,6,U.S. Senate,"","",OverVotes,0
-Okaloosa,7,U.S. Senate,"","",OverVotes,0
-Okaloosa,8,U.S. Senate,"","",OverVotes,0
-Okaloosa,9,U.S. Senate,"","",OverVotes,0
+Okaloosa,01,U.S. Senate,"","",OverVotes,0
+Okaloosa,02,U.S. Senate,"","",OverVotes,0
+Okaloosa,03,U.S. Senate,"","",OverVotes,0
+Okaloosa,04,U.S. Senate,"","",OverVotes,0
+Okaloosa,05,U.S. Senate,"","",OverVotes,1
+Okaloosa,06,U.S. Senate,"","",OverVotes,0
+Okaloosa,07,U.S. Senate,"","",OverVotes,0
+Okaloosa,08,U.S. Senate,"","",OverVotes,0
+Okaloosa,09,U.S. Senate,"","",OverVotes,0
 Okaloosa,10,U.S. Senate,"","",OverVotes,0
 Okaloosa,11,U.S. Senate,"","",OverVotes,0
 Okaloosa,12,U.S. Senate,"","",OverVotes,0
@@ -363,15 +363,15 @@ Okaloosa,49,U.S. Senate,"","",OverVotes,0
 Okaloosa,50,U.S. Senate,"","",OverVotes,0
 Okaloosa,51,U.S. Senate,"","",OverVotes,0
 Okaloosa,52,U.S. Senate,"","",OverVotes,0
-Okaloosa,1,U.S. Senate,"","",UnderVotes,3
-Okaloosa,2,U.S. Senate,"","",UnderVotes,4
-Okaloosa,3,U.S. Senate,"","",UnderVotes,5
-Okaloosa,4,U.S. Senate,"","",UnderVotes,4
-Okaloosa,5,U.S. Senate,"","",UnderVotes,6
-Okaloosa,6,U.S. Senate,"","",UnderVotes,12
-Okaloosa,7,U.S. Senate,"","",UnderVotes,3
-Okaloosa,8,U.S. Senate,"","",UnderVotes,9
-Okaloosa,9,U.S. Senate,"","",UnderVotes,8
+Okaloosa,01,U.S. Senate,"","",UnderVotes,3
+Okaloosa,02,U.S. Senate,"","",UnderVotes,4
+Okaloosa,03,U.S. Senate,"","",UnderVotes,5
+Okaloosa,04,U.S. Senate,"","",UnderVotes,4
+Okaloosa,05,U.S. Senate,"","",UnderVotes,6
+Okaloosa,06,U.S. Senate,"","",UnderVotes,12
+Okaloosa,07,U.S. Senate,"","",UnderVotes,3
+Okaloosa,08,U.S. Senate,"","",UnderVotes,9
+Okaloosa,09,U.S. Senate,"","",UnderVotes,8
 Okaloosa,10,U.S. Senate,"","",UnderVotes,14
 Okaloosa,11,U.S. Senate,"","",UnderVotes,24
 Okaloosa,12,U.S. Senate,"","",UnderVotes,2
@@ -415,15 +415,15 @@ Okaloosa,49,U.S. Senate,"","",UnderVotes,8
 Okaloosa,50,U.S. Senate,"","",UnderVotes,3
 Okaloosa,51,U.S. Senate,"","",UnderVotes,4
 Okaloosa,52,U.S. Senate,"","",UnderVotes,8
-Okaloosa,1,U.S. House,1,REP,Matt Gaetz,1591
-Okaloosa,2,U.S. House,1,REP,Matt Gaetz,409
-Okaloosa,3,U.S. House,1,REP,Matt Gaetz,716
-Okaloosa,4,U.S. House,1,REP,Matt Gaetz,739
-Okaloosa,5,U.S. House,1,REP,Matt Gaetz,641
-Okaloosa,6,U.S. House,1,REP,Matt Gaetz,2066
-Okaloosa,7,U.S. House,1,REP,Matt Gaetz,917
-Okaloosa,8,U.S. House,1,REP,Matt Gaetz,1836
-Okaloosa,9,U.S. House,1,REP,Matt Gaetz,1670
+Okaloosa,01,U.S. House,1,REP,Matt Gaetz,1591
+Okaloosa,02,U.S. House,1,REP,Matt Gaetz,409
+Okaloosa,03,U.S. House,1,REP,Matt Gaetz,716
+Okaloosa,04,U.S. House,1,REP,Matt Gaetz,739
+Okaloosa,05,U.S. House,1,REP,Matt Gaetz,641
+Okaloosa,06,U.S. House,1,REP,Matt Gaetz,2066
+Okaloosa,07,U.S. House,1,REP,Matt Gaetz,917
+Okaloosa,08,U.S. House,1,REP,Matt Gaetz,1836
+Okaloosa,09,U.S. House,1,REP,Matt Gaetz,1670
 Okaloosa,10,U.S. House,1,REP,Matt Gaetz,1866
 Okaloosa,11,U.S. House,1,REP,Matt Gaetz,3031
 Okaloosa,12,U.S. House,1,REP,Matt Gaetz,144
@@ -467,15 +467,15 @@ Okaloosa,49,U.S. House,1,REP,Matt Gaetz,1680
 Okaloosa,50,U.S. House,1,REP,Matt Gaetz,1474
 Okaloosa,51,U.S. House,1,REP,Matt Gaetz,984
 Okaloosa,52,U.S. House,1,REP,Matt Gaetz,1537
-Okaloosa,1,U.S. House,1,DEM,Rebekah Jones,231
-Okaloosa,2,U.S. House,1,DEM,Rebekah Jones,50
-Okaloosa,3,U.S. House,1,DEM,Rebekah Jones,122
-Okaloosa,4,U.S. House,1,DEM,Rebekah Jones,132
-Okaloosa,5,U.S. House,1,DEM,Rebekah Jones,116
-Okaloosa,6,U.S. House,1,DEM,Rebekah Jones,503
-Okaloosa,7,U.S. House,1,DEM,Rebekah Jones,197
-Okaloosa,8,U.S. House,1,DEM,Rebekah Jones,580
-Okaloosa,9,U.S. House,1,DEM,Rebekah Jones,596
+Okaloosa,01,U.S. House,1,DEM,Rebekah Jones,231
+Okaloosa,02,U.S. House,1,DEM,Rebekah Jones,50
+Okaloosa,03,U.S. House,1,DEM,Rebekah Jones,122
+Okaloosa,04,U.S. House,1,DEM,Rebekah Jones,132
+Okaloosa,05,U.S. House,1,DEM,Rebekah Jones,116
+Okaloosa,06,U.S. House,1,DEM,Rebekah Jones,503
+Okaloosa,07,U.S. House,1,DEM,Rebekah Jones,197
+Okaloosa,08,U.S. House,1,DEM,Rebekah Jones,580
+Okaloosa,09,U.S. House,1,DEM,Rebekah Jones,596
 Okaloosa,10,U.S. House,1,DEM,Rebekah Jones,1189
 Okaloosa,11,U.S. House,1,DEM,Rebekah Jones,1971
 Okaloosa,12,U.S. House,1,DEM,Rebekah Jones,225
@@ -519,15 +519,15 @@ Okaloosa,49,U.S. House,1,DEM,Rebekah Jones,470
 Okaloosa,50,U.S. House,1,DEM,Rebekah Jones,447
 Okaloosa,51,U.S. House,1,DEM,Rebekah Jones,260
 Okaloosa,52,U.S. House,1,DEM,Rebekah Jones,652
-Okaloosa,1,U.S. House,1,"",OverVotes,1
-Okaloosa,2,U.S. House,1,"",OverVotes,0
-Okaloosa,3,U.S. House,1,"",OverVotes,0
-Okaloosa,4,U.S. House,1,"",OverVotes,0
-Okaloosa,5,U.S. House,1,"",OverVotes,0
-Okaloosa,6,U.S. House,1,"",OverVotes,0
-Okaloosa,7,U.S. House,1,"",OverVotes,0
-Okaloosa,8,U.S. House,1,"",OverVotes,0
-Okaloosa,9,U.S. House,1,"",OverVotes,0
+Okaloosa,01,U.S. House,1,"",OverVotes,1
+Okaloosa,02,U.S. House,1,"",OverVotes,0
+Okaloosa,03,U.S. House,1,"",OverVotes,0
+Okaloosa,04,U.S. House,1,"",OverVotes,0
+Okaloosa,05,U.S. House,1,"",OverVotes,0
+Okaloosa,06,U.S. House,1,"",OverVotes,0
+Okaloosa,07,U.S. House,1,"",OverVotes,0
+Okaloosa,08,U.S. House,1,"",OverVotes,0
+Okaloosa,09,U.S. House,1,"",OverVotes,0
 Okaloosa,10,U.S. House,1,"",OverVotes,0
 Okaloosa,11,U.S. House,1,"",OverVotes,0
 Okaloosa,12,U.S. House,1,"",OverVotes,0
@@ -571,15 +571,15 @@ Okaloosa,49,U.S. House,1,"",OverVotes,0
 Okaloosa,50,U.S. House,1,"",OverVotes,0
 Okaloosa,51,U.S. House,1,"",OverVotes,0
 Okaloosa,52,U.S. House,1,"",OverVotes,0
-Okaloosa,1,U.S. House,1,"",UnderVotes,21
-Okaloosa,2,U.S. House,1,"",UnderVotes,15
-Okaloosa,3,U.S. House,1,"",UnderVotes,16
-Okaloosa,4,U.S. House,1,"",UnderVotes,5
-Okaloosa,5,U.S. House,1,"",UnderVotes,7
-Okaloosa,6,U.S. House,1,"",UnderVotes,30
-Okaloosa,7,U.S. House,1,"",UnderVotes,9
-Okaloosa,8,U.S. House,1,"",UnderVotes,37
-Okaloosa,9,U.S. House,1,"",UnderVotes,26
+Okaloosa,01,U.S. House,1,"",UnderVotes,21
+Okaloosa,02,U.S. House,1,"",UnderVotes,15
+Okaloosa,03,U.S. House,1,"",UnderVotes,16
+Okaloosa,04,U.S. House,1,"",UnderVotes,5
+Okaloosa,05,U.S. House,1,"",UnderVotes,7
+Okaloosa,06,U.S. House,1,"",UnderVotes,30
+Okaloosa,07,U.S. House,1,"",UnderVotes,9
+Okaloosa,08,U.S. House,1,"",UnderVotes,37
+Okaloosa,09,U.S. House,1,"",UnderVotes,26
 Okaloosa,10,U.S. House,1,"",UnderVotes,51
 Okaloosa,11,U.S. House,1,"",UnderVotes,91
 Okaloosa,12,U.S. House,1,"",UnderVotes,7
@@ -623,15 +623,15 @@ Okaloosa,49,U.S. House,1,"",UnderVotes,47
 Okaloosa,50,U.S. House,1,"",UnderVotes,31
 Okaloosa,51,U.S. House,1,"",UnderVotes,22
 Okaloosa,52,U.S. House,1,"",UnderVotes,33
-Okaloosa,1,Governor,"",REP,DeSantis / Nuñez,1685
-Okaloosa,2,Governor,"",REP,DeSantis / Nuñez,443
-Okaloosa,3,Governor,"",REP,DeSantis / Nuñez,759
-Okaloosa,4,Governor,"",REP,DeSantis / Nuñez,784
-Okaloosa,5,Governor,"",REP,DeSantis / Nuñez,675
-Okaloosa,6,Governor,"",REP,DeSantis / Nuñez,2177
-Okaloosa,7,Governor,"",REP,DeSantis / Nuñez,969
-Okaloosa,8,Governor,"",REP,DeSantis / Nuñez,1976
-Okaloosa,9,Governor,"",REP,DeSantis / Nuñez,1767
+Okaloosa,01,Governor,"",REP,DeSantis / Nuñez,1685
+Okaloosa,02,Governor,"",REP,DeSantis / Nuñez,443
+Okaloosa,03,Governor,"",REP,DeSantis / Nuñez,759
+Okaloosa,04,Governor,"",REP,DeSantis / Nuñez,784
+Okaloosa,05,Governor,"",REP,DeSantis / Nuñez,675
+Okaloosa,06,Governor,"",REP,DeSantis / Nuñez,2177
+Okaloosa,07,Governor,"",REP,DeSantis / Nuñez,969
+Okaloosa,08,Governor,"",REP,DeSantis / Nuñez,1976
+Okaloosa,09,Governor,"",REP,DeSantis / Nuñez,1767
 Okaloosa,10,Governor,"",REP,DeSantis / Nuñez,2089
 Okaloosa,11,Governor,"",REP,DeSantis / Nuñez,3190
 Okaloosa,12,Governor,"",REP,DeSantis / Nuñez,162
@@ -675,15 +675,15 @@ Okaloosa,49,Governor,"",REP,DeSantis / Nuñez,1810
 Okaloosa,50,Governor,"",REP,DeSantis / Nuñez,1585
 Okaloosa,51,Governor,"",REP,DeSantis / Nuñez,1055
 Okaloosa,52,Governor,"",REP,DeSantis / Nuñez,1657
-Okaloosa,1,Governor,"",DEM,Crist / Hernandez,145
-Okaloosa,2,Governor,"",DEM,Crist / Hernandez,27
-Okaloosa,3,Governor,"",DEM,Crist / Hernandez,88
-Okaloosa,4,Governor,"",DEM,Crist / Hernandez,89
-Okaloosa,5,Governor,"",DEM,Crist / Hernandez,82
-Okaloosa,6,Governor,"",DEM,Crist / Hernandez,397
-Okaloosa,7,Governor,"",DEM,Crist / Hernandez,144
-Okaloosa,8,Governor,"",DEM,Crist / Hernandez,446
-Okaloosa,9,Governor,"",DEM,Crist / Hernandez,487
+Okaloosa,01,Governor,"",DEM,Crist / Hernandez,145
+Okaloosa,02,Governor,"",DEM,Crist / Hernandez,27
+Okaloosa,03,Governor,"",DEM,Crist / Hernandez,88
+Okaloosa,04,Governor,"",DEM,Crist / Hernandez,89
+Okaloosa,05,Governor,"",DEM,Crist / Hernandez,82
+Okaloosa,06,Governor,"",DEM,Crist / Hernandez,397
+Okaloosa,07,Governor,"",DEM,Crist / Hernandez,144
+Okaloosa,08,Governor,"",DEM,Crist / Hernandez,446
+Okaloosa,09,Governor,"",DEM,Crist / Hernandez,487
 Okaloosa,10,Governor,"",DEM,Crist / Hernandez,988
 Okaloosa,11,Governor,"",DEM,Crist / Hernandez,1823
 Okaloosa,12,Governor,"",DEM,Crist / Hernandez,202
@@ -727,15 +727,15 @@ Okaloosa,49,Governor,"",DEM,Crist / Hernandez,374
 Okaloosa,50,Governor,"",DEM,Crist / Hernandez,349
 Okaloosa,51,Governor,"",DEM,Crist / Hernandez,203
 Okaloosa,52,Governor,"",DEM,Crist / Hernandez,533
-Okaloosa,1,Governor,"",LPF,Roos / Rorabaugh,6
-Okaloosa,2,Governor,"",LPF,Roos / Rorabaugh,1
-Okaloosa,3,Governor,"",LPF,Roos / Rorabaugh,3
-Okaloosa,4,Governor,"",LPF,Roos / Rorabaugh,1
-Okaloosa,5,Governor,"",LPF,Roos / Rorabaugh,2
-Okaloosa,6,Governor,"",LPF,Roos / Rorabaugh,9
-Okaloosa,7,Governor,"",LPF,Roos / Rorabaugh,5
-Okaloosa,8,Governor,"",LPF,Roos / Rorabaugh,14
-Okaloosa,9,Governor,"",LPF,Roos / Rorabaugh,18
+Okaloosa,01,Governor,"",LPF,Roos / Rorabaugh,6
+Okaloosa,02,Governor,"",LPF,Roos / Rorabaugh,1
+Okaloosa,03,Governor,"",LPF,Roos / Rorabaugh,3
+Okaloosa,04,Governor,"",LPF,Roos / Rorabaugh,1
+Okaloosa,05,Governor,"",LPF,Roos / Rorabaugh,2
+Okaloosa,06,Governor,"",LPF,Roos / Rorabaugh,9
+Okaloosa,07,Governor,"",LPF,Roos / Rorabaugh,5
+Okaloosa,08,Governor,"",LPF,Roos / Rorabaugh,14
+Okaloosa,09,Governor,"",LPF,Roos / Rorabaugh,18
 Okaloosa,10,Governor,"",LPF,Roos / Rorabaugh,10
 Okaloosa,11,Governor,"",LPF,Roos / Rorabaugh,36
 Okaloosa,12,Governor,"",LPF,Roos / Rorabaugh,2
@@ -779,15 +779,15 @@ Okaloosa,49,Governor,"",LPF,Roos / Rorabaugh,5
 Okaloosa,50,Governor,"",LPF,Roos / Rorabaugh,11
 Okaloosa,51,Governor,"",LPF,Roos / Rorabaugh,3
 Okaloosa,52,Governor,"",LPF,Roos / Rorabaugh,14
-Okaloosa,1,Governor,"",NPA,Gimenez / Gibson,7
-Okaloosa,2,Governor,"",NPA,Gimenez / Gibson,3
-Okaloosa,3,Governor,"",NPA,Gimenez / Gibson,2
-Okaloosa,4,Governor,"",NPA,Gimenez / Gibson,1
-Okaloosa,5,Governor,"",NPA,Gimenez / Gibson,3
-Okaloosa,6,Governor,"",NPA,Gimenez / Gibson,12
-Okaloosa,7,Governor,"",NPA,Gimenez / Gibson,4
-Okaloosa,8,Governor,"",NPA,Gimenez / Gibson,15
-Okaloosa,9,Governor,"",NPA,Gimenez / Gibson,17
+Okaloosa,01,Governor,"",NPA,Gimenez / Gibson,7
+Okaloosa,02,Governor,"",NPA,Gimenez / Gibson,3
+Okaloosa,03,Governor,"",NPA,Gimenez / Gibson,2
+Okaloosa,04,Governor,"",NPA,Gimenez / Gibson,1
+Okaloosa,05,Governor,"",NPA,Gimenez / Gibson,3
+Okaloosa,06,Governor,"",NPA,Gimenez / Gibson,12
+Okaloosa,07,Governor,"",NPA,Gimenez / Gibson,4
+Okaloosa,08,Governor,"",NPA,Gimenez / Gibson,15
+Okaloosa,09,Governor,"",NPA,Gimenez / Gibson,17
 Okaloosa,10,Governor,"",NPA,Gimenez / Gibson,17
 Okaloosa,11,Governor,"",NPA,Gimenez / Gibson,32
 Okaloosa,12,Governor,"",NPA,Gimenez / Gibson,7
@@ -831,15 +831,15 @@ Okaloosa,49,Governor,"",NPA,Gimenez / Gibson,5
 Okaloosa,50,Governor,"",NPA,Gimenez / Gibson,1
 Okaloosa,51,Governor,"",NPA,Gimenez / Gibson,4
 Okaloosa,52,Governor,"",NPA,Gimenez / Gibson,16
-Okaloosa,1,Governor,"","",OverVotes,0
-Okaloosa,2,Governor,"","",OverVotes,0
-Okaloosa,3,Governor,"","",OverVotes,1
-Okaloosa,4,Governor,"","",OverVotes,0
-Okaloosa,5,Governor,"","",OverVotes,1
-Okaloosa,6,Governor,"","",OverVotes,1
-Okaloosa,7,Governor,"","",OverVotes,1
-Okaloosa,8,Governor,"","",OverVotes,1
-Okaloosa,9,Governor,"","",OverVotes,0
+Okaloosa,01,Governor,"","",OverVotes,0
+Okaloosa,02,Governor,"","",OverVotes,0
+Okaloosa,03,Governor,"","",OverVotes,1
+Okaloosa,04,Governor,"","",OverVotes,0
+Okaloosa,05,Governor,"","",OverVotes,1
+Okaloosa,06,Governor,"","",OverVotes,1
+Okaloosa,07,Governor,"","",OverVotes,1
+Okaloosa,08,Governor,"","",OverVotes,1
+Okaloosa,09,Governor,"","",OverVotes,0
 Okaloosa,10,Governor,"","",OverVotes,1
 Okaloosa,11,Governor,"","",OverVotes,0
 Okaloosa,12,Governor,"","",OverVotes,0
@@ -883,15 +883,15 @@ Okaloosa,49,Governor,"","",OverVotes,0
 Okaloosa,50,Governor,"","",OverVotes,0
 Okaloosa,51,Governor,"","",OverVotes,0
 Okaloosa,52,Governor,"","",OverVotes,0
-Okaloosa,1,Governor,"","",UnderVotes,1
-Okaloosa,2,Governor,"","",UnderVotes,0
-Okaloosa,3,Governor,"","",UnderVotes,1
-Okaloosa,4,Governor,"","",UnderVotes,1
-Okaloosa,5,Governor,"","",UnderVotes,1
-Okaloosa,6,Governor,"","",UnderVotes,3
-Okaloosa,7,Governor,"","",UnderVotes,0
-Okaloosa,8,Governor,"","",UnderVotes,1
-Okaloosa,9,Governor,"","",UnderVotes,3
+Okaloosa,01,Governor,"","",UnderVotes,1
+Okaloosa,02,Governor,"","",UnderVotes,0
+Okaloosa,03,Governor,"","",UnderVotes,1
+Okaloosa,04,Governor,"","",UnderVotes,1
+Okaloosa,05,Governor,"","",UnderVotes,1
+Okaloosa,06,Governor,"","",UnderVotes,3
+Okaloosa,07,Governor,"","",UnderVotes,0
+Okaloosa,08,Governor,"","",UnderVotes,1
+Okaloosa,09,Governor,"","",UnderVotes,3
 Okaloosa,10,Governor,"","",UnderVotes,1
 Okaloosa,11,Governor,"","",UnderVotes,12
 Okaloosa,12,Governor,"","",UnderVotes,3
@@ -935,15 +935,15 @@ Okaloosa,49,Governor,"","",UnderVotes,3
 Okaloosa,50,Governor,"","",UnderVotes,6
 Okaloosa,51,Governor,"","",UnderVotes,1
 Okaloosa,52,Governor,"","",UnderVotes,2
-Okaloosa,1,Attorney General,"",REP,Ashley Moody,1685
-Okaloosa,2,Attorney General,"",REP,Ashley Moody,445
-Okaloosa,3,Attorney General,"",REP,Ashley Moody,766
-Okaloosa,4,Attorney General,"",REP,Ashley Moody,773
-Okaloosa,5,Attorney General,"",REP,Ashley Moody,673
-Okaloosa,6,Attorney General,"",REP,Ashley Moody,2159
-Okaloosa,7,Attorney General,"",REP,Ashley Moody,966
-Okaloosa,8,Attorney General,"",REP,Ashley Moody,1948
-Okaloosa,9,Attorney General,"",REP,Ashley Moody,1782
+Okaloosa,01,Attorney General,"",REP,Ashley Moody,1685
+Okaloosa,02,Attorney General,"",REP,Ashley Moody,445
+Okaloosa,03,Attorney General,"",REP,Ashley Moody,766
+Okaloosa,04,Attorney General,"",REP,Ashley Moody,773
+Okaloosa,05,Attorney General,"",REP,Ashley Moody,673
+Okaloosa,06,Attorney General,"",REP,Ashley Moody,2159
+Okaloosa,07,Attorney General,"",REP,Ashley Moody,966
+Okaloosa,08,Attorney General,"",REP,Ashley Moody,1948
+Okaloosa,09,Attorney General,"",REP,Ashley Moody,1782
 Okaloosa,10,Attorney General,"",REP,Ashley Moody,2083
 Okaloosa,11,Attorney General,"",REP,Ashley Moody,3243
 Okaloosa,12,Attorney General,"",REP,Ashley Moody,161
@@ -987,15 +987,15 @@ Okaloosa,49,Attorney General,"",REP,Ashley Moody,1816
 Okaloosa,50,Attorney General,"",REP,Ashley Moody,1607
 Okaloosa,51,Attorney General,"",REP,Ashley Moody,1041
 Okaloosa,52,Attorney General,"",REP,Ashley Moody,1672
-Okaloosa,1,Attorney General,"",DEM,Aramis Ayala,146
-Okaloosa,2,Attorney General,"",DEM,Aramis Ayala,27
-Okaloosa,3,Attorney General,"",DEM,Aramis Ayala,74
-Okaloosa,4,Attorney General,"",DEM,Aramis Ayala,94
-Okaloosa,5,Attorney General,"",DEM,Aramis Ayala,85
-Okaloosa,6,Attorney General,"",DEM,Aramis Ayala,413
-Okaloosa,7,Attorney General,"",DEM,Aramis Ayala,149
-Okaloosa,8,Attorney General,"",DEM,Aramis Ayala,475
-Okaloosa,9,Attorney General,"",DEM,Aramis Ayala,491
+Okaloosa,01,Attorney General,"",DEM,Aramis Ayala,146
+Okaloosa,02,Attorney General,"",DEM,Aramis Ayala,27
+Okaloosa,03,Attorney General,"",DEM,Aramis Ayala,74
+Okaloosa,04,Attorney General,"",DEM,Aramis Ayala,94
+Okaloosa,05,Attorney General,"",DEM,Aramis Ayala,85
+Okaloosa,06,Attorney General,"",DEM,Aramis Ayala,413
+Okaloosa,07,Attorney General,"",DEM,Aramis Ayala,149
+Okaloosa,08,Attorney General,"",DEM,Aramis Ayala,475
+Okaloosa,09,Attorney General,"",DEM,Aramis Ayala,491
 Okaloosa,10,Attorney General,"",DEM,Aramis Ayala,982
 Okaloosa,11,Attorney General,"",DEM,Aramis Ayala,1777
 Okaloosa,12,Attorney General,"",DEM,Aramis Ayala,209
@@ -1039,15 +1039,15 @@ Okaloosa,49,Attorney General,"",DEM,Aramis Ayala,357
 Okaloosa,50,Attorney General,"",DEM,Aramis Ayala,327
 Okaloosa,51,Attorney General,"",DEM,Aramis Ayala,209
 Okaloosa,52,Attorney General,"",DEM,Aramis Ayala,532
-Okaloosa,1,Attorney General,"","",OverVotes,0
-Okaloosa,2,Attorney General,"","",OverVotes,0
-Okaloosa,3,Attorney General,"","",OverVotes,0
-Okaloosa,4,Attorney General,"","",OverVotes,0
-Okaloosa,5,Attorney General,"","",OverVotes,0
-Okaloosa,6,Attorney General,"","",OverVotes,0
-Okaloosa,7,Attorney General,"","",OverVotes,0
-Okaloosa,8,Attorney General,"","",OverVotes,1
-Okaloosa,9,Attorney General,"","",OverVotes,0
+Okaloosa,01,Attorney General,"","",OverVotes,0
+Okaloosa,02,Attorney General,"","",OverVotes,0
+Okaloosa,03,Attorney General,"","",OverVotes,0
+Okaloosa,04,Attorney General,"","",OverVotes,0
+Okaloosa,05,Attorney General,"","",OverVotes,0
+Okaloosa,06,Attorney General,"","",OverVotes,0
+Okaloosa,07,Attorney General,"","",OverVotes,0
+Okaloosa,08,Attorney General,"","",OverVotes,1
+Okaloosa,09,Attorney General,"","",OverVotes,0
 Okaloosa,10,Attorney General,"","",OverVotes,0
 Okaloosa,11,Attorney General,"","",OverVotes,0
 Okaloosa,12,Attorney General,"","",OverVotes,0
@@ -1091,15 +1091,15 @@ Okaloosa,49,Attorney General,"","",OverVotes,0
 Okaloosa,50,Attorney General,"","",OverVotes,0
 Okaloosa,51,Attorney General,"","",OverVotes,0
 Okaloosa,52,Attorney General,"","",OverVotes,0
-Okaloosa,1,Attorney General,"","",UnderVotes,13
-Okaloosa,2,Attorney General,"","",UnderVotes,2
-Okaloosa,3,Attorney General,"","",UnderVotes,14
-Okaloosa,4,Attorney General,"","",UnderVotes,9
-Okaloosa,5,Attorney General,"","",UnderVotes,6
-Okaloosa,6,Attorney General,"","",UnderVotes,27
-Okaloosa,7,Attorney General,"","",UnderVotes,8
-Okaloosa,8,Attorney General,"","",UnderVotes,29
-Okaloosa,9,Attorney General,"","",UnderVotes,19
+Okaloosa,01,Attorney General,"","",UnderVotes,13
+Okaloosa,02,Attorney General,"","",UnderVotes,2
+Okaloosa,03,Attorney General,"","",UnderVotes,14
+Okaloosa,04,Attorney General,"","",UnderVotes,9
+Okaloosa,05,Attorney General,"","",UnderVotes,6
+Okaloosa,06,Attorney General,"","",UnderVotes,27
+Okaloosa,07,Attorney General,"","",UnderVotes,8
+Okaloosa,08,Attorney General,"","",UnderVotes,29
+Okaloosa,09,Attorney General,"","",UnderVotes,19
 Okaloosa,10,Attorney General,"","",UnderVotes,41
 Okaloosa,11,Attorney General,"","",UnderVotes,73
 Okaloosa,12,Attorney General,"","",UnderVotes,6
@@ -1143,15 +1143,15 @@ Okaloosa,49,Attorney General,"","",UnderVotes,24
 Okaloosa,50,Attorney General,"","",UnderVotes,18
 Okaloosa,51,Attorney General,"","",UnderVotes,16
 Okaloosa,52,Attorney General,"","",UnderVotes,18
-Okaloosa,1,Chief Financial Officer,"",REP,Jimmy Patronis,1657
-Okaloosa,2,Chief Financial Officer,"",REP,Jimmy Patronis,438
-Okaloosa,3,Chief Financial Officer,"",REP,Jimmy Patronis,748
-Okaloosa,4,Chief Financial Officer,"",REP,Jimmy Patronis,756
-Okaloosa,5,Chief Financial Officer,"",REP,Jimmy Patronis,666
-Okaloosa,6,Chief Financial Officer,"",REP,Jimmy Patronis,2155
-Okaloosa,7,Chief Financial Officer,"",REP,Jimmy Patronis,949
-Okaloosa,8,Chief Financial Officer,"",REP,Jimmy Patronis,1933
-Okaloosa,9,Chief Financial Officer,"",REP,Jimmy Patronis,1767
+Okaloosa,01,Chief Financial Officer,"",REP,Jimmy Patronis,1657
+Okaloosa,02,Chief Financial Officer,"",REP,Jimmy Patronis,438
+Okaloosa,03,Chief Financial Officer,"",REP,Jimmy Patronis,748
+Okaloosa,04,Chief Financial Officer,"",REP,Jimmy Patronis,756
+Okaloosa,05,Chief Financial Officer,"",REP,Jimmy Patronis,666
+Okaloosa,06,Chief Financial Officer,"",REP,Jimmy Patronis,2155
+Okaloosa,07,Chief Financial Officer,"",REP,Jimmy Patronis,949
+Okaloosa,08,Chief Financial Officer,"",REP,Jimmy Patronis,1933
+Okaloosa,09,Chief Financial Officer,"",REP,Jimmy Patronis,1767
 Okaloosa,10,Chief Financial Officer,"",REP,Jimmy Patronis,2045
 Okaloosa,11,Chief Financial Officer,"",REP,Jimmy Patronis,3214
 Okaloosa,12,Chief Financial Officer,"",REP,Jimmy Patronis,152
@@ -1195,15 +1195,15 @@ Okaloosa,49,Chief Financial Officer,"",REP,Jimmy Patronis,1816
 Okaloosa,50,Chief Financial Officer,"",REP,Jimmy Patronis,1589
 Okaloosa,51,Chief Financial Officer,"",REP,Jimmy Patronis,1027
 Okaloosa,52,Chief Financial Officer,"",REP,Jimmy Patronis,1639
-Okaloosa,1,Chief Financial Officer,"",DEM,Adam Hattersley,166
-Okaloosa,2,Chief Financial Officer,"",DEM,Adam Hattersley,33
-Okaloosa,3,Chief Financial Officer,"",DEM,Adam Hattersley,88
-Okaloosa,4,Chief Financial Officer,"",DEM,Adam Hattersley,107
-Okaloosa,5,Chief Financial Officer,"",DEM,Adam Hattersley,91
-Okaloosa,6,Chief Financial Officer,"",DEM,Adam Hattersley,412
-Okaloosa,7,Chief Financial Officer,"",DEM,Adam Hattersley,159
-Okaloosa,8,Chief Financial Officer,"",DEM,Adam Hattersley,475
-Okaloosa,9,Chief Financial Officer,"",DEM,Adam Hattersley,494
+Okaloosa,01,Chief Financial Officer,"",DEM,Adam Hattersley,166
+Okaloosa,02,Chief Financial Officer,"",DEM,Adam Hattersley,33
+Okaloosa,03,Chief Financial Officer,"",DEM,Adam Hattersley,88
+Okaloosa,04,Chief Financial Officer,"",DEM,Adam Hattersley,107
+Okaloosa,05,Chief Financial Officer,"",DEM,Adam Hattersley,91
+Okaloosa,06,Chief Financial Officer,"",DEM,Adam Hattersley,412
+Okaloosa,07,Chief Financial Officer,"",DEM,Adam Hattersley,159
+Okaloosa,08,Chief Financial Officer,"",DEM,Adam Hattersley,475
+Okaloosa,09,Chief Financial Officer,"",DEM,Adam Hattersley,494
 Okaloosa,10,Chief Financial Officer,"",DEM,Adam Hattersley,992
 Okaloosa,11,Chief Financial Officer,"",DEM,Adam Hattersley,1774
 Okaloosa,12,Chief Financial Officer,"",DEM,Adam Hattersley,216
@@ -1247,15 +1247,15 @@ Okaloosa,49,Chief Financial Officer,"",DEM,Adam Hattersley,353
 Okaloosa,50,Chief Financial Officer,"",DEM,Adam Hattersley,329
 Okaloosa,51,Chief Financial Officer,"",DEM,Adam Hattersley,215
 Okaloosa,52,Chief Financial Officer,"",DEM,Adam Hattersley,551
-Okaloosa,1,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,2,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,3,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,4,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,5,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,6,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,7,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,8,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,9,Chief Financial Officer,"","",OverVotes,1
+Okaloosa,01,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,02,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,03,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,04,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,05,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,06,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,07,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,08,Chief Financial Officer,"","",OverVotes,0
+Okaloosa,09,Chief Financial Officer,"","",OverVotes,1
 Okaloosa,10,Chief Financial Officer,"","",OverVotes,0
 Okaloosa,11,Chief Financial Officer,"","",OverVotes,0
 Okaloosa,12,Chief Financial Officer,"","",OverVotes,0
@@ -1299,15 +1299,15 @@ Okaloosa,49,Chief Financial Officer,"","",OverVotes,0
 Okaloosa,50,Chief Financial Officer,"","",OverVotes,0
 Okaloosa,51,Chief Financial Officer,"","",OverVotes,0
 Okaloosa,52,Chief Financial Officer,"","",OverVotes,0
-Okaloosa,1,Chief Financial Officer,"","",UnderVotes,21
-Okaloosa,2,Chief Financial Officer,"","",UnderVotes,3
-Okaloosa,3,Chief Financial Officer,"","",UnderVotes,18
-Okaloosa,4,Chief Financial Officer,"","",UnderVotes,13
-Okaloosa,5,Chief Financial Officer,"","",UnderVotes,7
-Okaloosa,6,Chief Financial Officer,"","",UnderVotes,32
-Okaloosa,7,Chief Financial Officer,"","",UnderVotes,15
-Okaloosa,8,Chief Financial Officer,"","",UnderVotes,45
-Okaloosa,9,Chief Financial Officer,"","",UnderVotes,30
+Okaloosa,01,Chief Financial Officer,"","",UnderVotes,21
+Okaloosa,02,Chief Financial Officer,"","",UnderVotes,3
+Okaloosa,03,Chief Financial Officer,"","",UnderVotes,18
+Okaloosa,04,Chief Financial Officer,"","",UnderVotes,13
+Okaloosa,05,Chief Financial Officer,"","",UnderVotes,7
+Okaloosa,06,Chief Financial Officer,"","",UnderVotes,32
+Okaloosa,07,Chief Financial Officer,"","",UnderVotes,15
+Okaloosa,08,Chief Financial Officer,"","",UnderVotes,45
+Okaloosa,09,Chief Financial Officer,"","",UnderVotes,30
 Okaloosa,10,Chief Financial Officer,"","",UnderVotes,69
 Okaloosa,11,Chief Financial Officer,"","",UnderVotes,105
 Okaloosa,12,Chief Financial Officer,"","",UnderVotes,8
@@ -1351,15 +1351,15 @@ Okaloosa,49,Chief Financial Officer,"","",UnderVotes,28
 Okaloosa,50,Chief Financial Officer,"","",UnderVotes,34
 Okaloosa,51,Chief Financial Officer,"","",UnderVotes,24
 Okaloosa,52,Chief Financial Officer,"","",UnderVotes,32
-Okaloosa,1,Commissioner of Agriculture,"",REP,Wilton Simpson,1673
-Okaloosa,2,Commissioner of Agriculture,"",REP,Wilton Simpson,438
-Okaloosa,3,Commissioner of Agriculture,"",REP,Wilton Simpson,756
-Okaloosa,4,Commissioner of Agriculture,"",REP,Wilton Simpson,756
-Okaloosa,5,Commissioner of Agriculture,"",REP,Wilton Simpson,664
-Okaloosa,6,Commissioner of Agriculture,"",REP,Wilton Simpson,2145
-Okaloosa,7,Commissioner of Agriculture,"",REP,Wilton Simpson,947
-Okaloosa,8,Commissioner of Agriculture,"",REP,Wilton Simpson,1922
-Okaloosa,9,Commissioner of Agriculture,"",REP,Wilton Simpson,1754
+Okaloosa,01,Commissioner of Agriculture,"",REP,Wilton Simpson,1673
+Okaloosa,02,Commissioner of Agriculture,"",REP,Wilton Simpson,438
+Okaloosa,03,Commissioner of Agriculture,"",REP,Wilton Simpson,756
+Okaloosa,04,Commissioner of Agriculture,"",REP,Wilton Simpson,756
+Okaloosa,05,Commissioner of Agriculture,"",REP,Wilton Simpson,664
+Okaloosa,06,Commissioner of Agriculture,"",REP,Wilton Simpson,2145
+Okaloosa,07,Commissioner of Agriculture,"",REP,Wilton Simpson,947
+Okaloosa,08,Commissioner of Agriculture,"",REP,Wilton Simpson,1922
+Okaloosa,09,Commissioner of Agriculture,"",REP,Wilton Simpson,1754
 Okaloosa,10,Commissioner of Agriculture,"",REP,Wilton Simpson,2009
 Okaloosa,11,Commissioner of Agriculture,"",REP,Wilton Simpson,3205
 Okaloosa,12,Commissioner of Agriculture,"",REP,Wilton Simpson,149
@@ -1403,15 +1403,15 @@ Okaloosa,49,Commissioner of Agriculture,"",REP,Wilton Simpson,1782
 Okaloosa,50,Commissioner of Agriculture,"",REP,Wilton Simpson,1576
 Okaloosa,51,Commissioner of Agriculture,"",REP,Wilton Simpson,1018
 Okaloosa,52,Commissioner of Agriculture,"",REP,Wilton Simpson,1641
-Okaloosa,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,152
-Okaloosa,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,33
-Okaloosa,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
-Okaloosa,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
-Okaloosa,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,92
-Okaloosa,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,421
-Okaloosa,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,163
-Okaloosa,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,480
-Okaloosa,9,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,508
+Okaloosa,01,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,152
+Okaloosa,02,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,33
+Okaloosa,03,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
+Okaloosa,04,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Okaloosa,05,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,92
+Okaloosa,06,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,421
+Okaloosa,07,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,163
+Okaloosa,08,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,480
+Okaloosa,09,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,508
 Okaloosa,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1033
 Okaloosa,11,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1773
 Okaloosa,12,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,219
@@ -1455,15 +1455,15 @@ Okaloosa,49,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,378
 Okaloosa,50,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,335
 Okaloosa,51,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,223
 Okaloosa,52,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,542
-Okaloosa,1,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,2,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,3,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,4,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,5,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,6,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,7,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,8,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,9,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,01,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,02,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,03,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,04,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,05,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,06,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,07,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,08,Commissioner of Agriculture,"","",OverVotes,0
+Okaloosa,09,Commissioner of Agriculture,"","",OverVotes,0
 Okaloosa,10,Commissioner of Agriculture,"","",OverVotes,0
 Okaloosa,11,Commissioner of Agriculture,"","",OverVotes,0
 Okaloosa,12,Commissioner of Agriculture,"","",OverVotes,0
@@ -1507,15 +1507,15 @@ Okaloosa,49,Commissioner of Agriculture,"","",OverVotes,0
 Okaloosa,50,Commissioner of Agriculture,"","",OverVotes,0
 Okaloosa,51,Commissioner of Agriculture,"","",OverVotes,0
 Okaloosa,52,Commissioner of Agriculture,"","",OverVotes,0
-Okaloosa,1,Commissioner of Agriculture,"","",UnderVotes,19
-Okaloosa,2,Commissioner of Agriculture,"","",UnderVotes,3
-Okaloosa,3,Commissioner of Agriculture,"","",UnderVotes,16
-Okaloosa,4,Commissioner of Agriculture,"","",UnderVotes,14
-Okaloosa,5,Commissioner of Agriculture,"","",UnderVotes,8
-Okaloosa,6,Commissioner of Agriculture,"","",UnderVotes,33
-Okaloosa,7,Commissioner of Agriculture,"","",UnderVotes,13
-Okaloosa,8,Commissioner of Agriculture,"","",UnderVotes,51
-Okaloosa,9,Commissioner of Agriculture,"","",UnderVotes,30
+Okaloosa,01,Commissioner of Agriculture,"","",UnderVotes,19
+Okaloosa,02,Commissioner of Agriculture,"","",UnderVotes,3
+Okaloosa,03,Commissioner of Agriculture,"","",UnderVotes,16
+Okaloosa,04,Commissioner of Agriculture,"","",UnderVotes,14
+Okaloosa,05,Commissioner of Agriculture,"","",UnderVotes,8
+Okaloosa,06,Commissioner of Agriculture,"","",UnderVotes,33
+Okaloosa,07,Commissioner of Agriculture,"","",UnderVotes,13
+Okaloosa,08,Commissioner of Agriculture,"","",UnderVotes,51
+Okaloosa,09,Commissioner of Agriculture,"","",UnderVotes,30
 Okaloosa,10,Commissioner of Agriculture,"","",UnderVotes,64
 Okaloosa,11,Commissioner of Agriculture,"","",UnderVotes,115
 Okaloosa,12,Commissioner of Agriculture,"","",UnderVotes,8
@@ -1559,50 +1559,50 @@ Okaloosa,49,Commissioner of Agriculture,"","",UnderVotes,37
 Okaloosa,50,Commissioner of Agriculture,"","",UnderVotes,41
 Okaloosa,51,Commissioner of Agriculture,"","",UnderVotes,25
 Okaloosa,52,Commissioner of Agriculture,"","",UnderVotes,39
-Okaloosa,1,State Senate,1,REP,Doug Broxson,1660
-Okaloosa,2,State Senate,1,REP,Doug Broxson,438
-Okaloosa,3,State Senate,1,REP,Doug Broxson,751
-Okaloosa,4,State Senate,1,REP,Doug Broxson,761
-Okaloosa,5,State Senate,1,REP,Doug Broxson,534
-Okaloosa,6,State Senate,1,REP,Doug Broxson,1249
-Okaloosa,9,State Senate,1,REP,Doug Broxson,1746
+Okaloosa,01,State Senate,1,REP,Doug Broxson,1660
+Okaloosa,02,State Senate,1,REP,Doug Broxson,438
+Okaloosa,03,State Senate,1,REP,Doug Broxson,751
+Okaloosa,04,State Senate,1,REP,Doug Broxson,761
+Okaloosa,05,State Senate,1,REP,Doug Broxson,534
+Okaloosa,06,State Senate,1,REP,Doug Broxson,1249
+Okaloosa,09,State Senate,1,REP,Doug Broxson,1746
 Okaloosa,11,State Senate,1,REP,Doug Broxson,2010
 Okaloosa,12,State Senate,1,REP,Doug Broxson,149
 Okaloosa,13,State Senate,1,REP,Doug Broxson,1757
-Okaloosa,1,State Senate,1,DEM,Charlie Nichols,156
-Okaloosa,2,State Senate,1,DEM,Charlie Nichols,32
-Okaloosa,3,State Senate,1,DEM,Charlie Nichols,83
-Okaloosa,4,State Senate,1,DEM,Charlie Nichols,101
-Okaloosa,5,State Senate,1,DEM,Charlie Nichols,80
-Okaloosa,6,State Senate,1,DEM,Charlie Nichols,245
-Okaloosa,9,State Senate,1,DEM,Charlie Nichols,510
+Okaloosa,01,State Senate,1,DEM,Charlie Nichols,156
+Okaloosa,02,State Senate,1,DEM,Charlie Nichols,32
+Okaloosa,03,State Senate,1,DEM,Charlie Nichols,83
+Okaloosa,04,State Senate,1,DEM,Charlie Nichols,101
+Okaloosa,05,State Senate,1,DEM,Charlie Nichols,80
+Okaloosa,06,State Senate,1,DEM,Charlie Nichols,245
+Okaloosa,09,State Senate,1,DEM,Charlie Nichols,510
 Okaloosa,11,State Senate,1,DEM,Charlie Nichols,1330
 Okaloosa,12,State Senate,1,DEM,Charlie Nichols,219
 Okaloosa,13,State Senate,1,DEM,Charlie Nichols,423
-Okaloosa,1,State Senate,1,"",OverVotes,0
-Okaloosa,2,State Senate,1,"",OverVotes,0
-Okaloosa,3,State Senate,1,"",OverVotes,0
-Okaloosa,4,State Senate,1,"",OverVotes,0
-Okaloosa,5,State Senate,1,"",OverVotes,0
-Okaloosa,6,State Senate,1,"",OverVotes,0
-Okaloosa,9,State Senate,1,"",OverVotes,0
+Okaloosa,01,State Senate,1,"",OverVotes,0
+Okaloosa,02,State Senate,1,"",OverVotes,0
+Okaloosa,03,State Senate,1,"",OverVotes,0
+Okaloosa,04,State Senate,1,"",OverVotes,0
+Okaloosa,05,State Senate,1,"",OverVotes,0
+Okaloosa,06,State Senate,1,"",OverVotes,0
+Okaloosa,09,State Senate,1,"",OverVotes,0
 Okaloosa,11,State Senate,1,"",OverVotes,0
 Okaloosa,12,State Senate,1,"",OverVotes,0
 Okaloosa,13,State Senate,1,"",OverVotes,0
-Okaloosa,1,State Senate,1,"",UnderVotes,28
-Okaloosa,2,State Senate,1,"",UnderVotes,4
-Okaloosa,3,State Senate,1,"",UnderVotes,20
-Okaloosa,4,State Senate,1,"",UnderVotes,14
-Okaloosa,5,State Senate,1,"",UnderVotes,13
-Okaloosa,6,State Senate,1,"",UnderVotes,27
-Okaloosa,9,State Senate,1,"",UnderVotes,36
+Okaloosa,01,State Senate,1,"",UnderVotes,28
+Okaloosa,02,State Senate,1,"",UnderVotes,4
+Okaloosa,03,State Senate,1,"",UnderVotes,20
+Okaloosa,04,State Senate,1,"",UnderVotes,14
+Okaloosa,05,State Senate,1,"",UnderVotes,13
+Okaloosa,06,State Senate,1,"",UnderVotes,27
+Okaloosa,09,State Senate,1,"",UnderVotes,36
 Okaloosa,11,State Senate,1,"",UnderVotes,87
 Okaloosa,12,State Senate,1,"",UnderVotes,8
 Okaloosa,13,State Senate,1,"",UnderVotes,31
-Okaloosa,5,State Senate,2,REP,Jay Trumbull,123
-Okaloosa,6,State Senate,2,REP,Jay Trumbull,879
-Okaloosa,7,State Senate,2,REP,Jay Trumbull,946
-Okaloosa,8,State Senate,2,REP,Jay Trumbull,1920
+Okaloosa,05,State Senate,2,REP,Jay Trumbull,123
+Okaloosa,06,State Senate,2,REP,Jay Trumbull,879
+Okaloosa,07,State Senate,2,REP,Jay Trumbull,946
+Okaloosa,08,State Senate,2,REP,Jay Trumbull,1920
 Okaloosa,10,State Senate,2,REP,Jay Trumbull,1987
 Okaloosa,11,State Senate,2,REP,Jay Trumbull,1153
 Okaloosa,14,State Senate,2,REP,Jay Trumbull,1261
@@ -1644,10 +1644,10 @@ Okaloosa,49,State Senate,2,REP,Jay Trumbull,1765
 Okaloosa,50,State Senate,2,REP,Jay Trumbull,1547
 Okaloosa,51,State Senate,2,REP,Jay Trumbull,1017
 Okaloosa,52,State Senate,2,REP,Jay Trumbull,1625
-Okaloosa,5,State Senate,2,DEM,Carolynn Zonia,10
-Okaloosa,6,State Senate,2,DEM,Carolynn Zonia,173
-Okaloosa,7,State Senate,2,DEM,Carolynn Zonia,161
-Okaloosa,8,State Senate,2,DEM,Carolynn Zonia,466
+Okaloosa,05,State Senate,2,DEM,Carolynn Zonia,10
+Okaloosa,06,State Senate,2,DEM,Carolynn Zonia,173
+Okaloosa,07,State Senate,2,DEM,Carolynn Zonia,161
+Okaloosa,08,State Senate,2,DEM,Carolynn Zonia,466
 Okaloosa,10,State Senate,2,DEM,Carolynn Zonia,1034
 Okaloosa,11,State Senate,2,DEM,Carolynn Zonia,476
 Okaloosa,14,State Senate,2,DEM,Carolynn Zonia,426
@@ -1689,10 +1689,10 @@ Okaloosa,49,State Senate,2,DEM,Carolynn Zonia,384
 Okaloosa,50,State Senate,2,DEM,Carolynn Zonia,361
 Okaloosa,51,State Senate,2,DEM,Carolynn Zonia,217
 Okaloosa,52,State Senate,2,DEM,Carolynn Zonia,557
-Okaloosa,5,State Senate,2,"",OverVotes,0
-Okaloosa,6,State Senate,2,"",OverVotes,0
-Okaloosa,7,State Senate,2,"",OverVotes,0
-Okaloosa,8,State Senate,2,"",OverVotes,0
+Okaloosa,05,State Senate,2,"",OverVotes,0
+Okaloosa,06,State Senate,2,"",OverVotes,0
+Okaloosa,07,State Senate,2,"",OverVotes,0
+Okaloosa,08,State Senate,2,"",OverVotes,0
 Okaloosa,10,State Senate,2,"",OverVotes,0
 Okaloosa,11,State Senate,2,"",OverVotes,0
 Okaloosa,14,State Senate,2,"",OverVotes,0
@@ -1734,10 +1734,10 @@ Okaloosa,49,State Senate,2,"",OverVotes,0
 Okaloosa,50,State Senate,2,"",OverVotes,0
 Okaloosa,51,State Senate,2,"",OverVotes,0
 Okaloosa,52,State Senate,2,"",OverVotes,0
-Okaloosa,5,State Senate,2,"",UnderVotes,4
-Okaloosa,6,State Senate,2,"",UnderVotes,26
-Okaloosa,7,State Senate,2,"",UnderVotes,16
-Okaloosa,8,State Senate,2,"",UnderVotes,67
+Okaloosa,05,State Senate,2,"",UnderVotes,4
+Okaloosa,06,State Senate,2,"",UnderVotes,26
+Okaloosa,07,State Senate,2,"",UnderVotes,16
+Okaloosa,08,State Senate,2,"",UnderVotes,67
 Okaloosa,10,State Senate,2,"",UnderVotes,85
 Okaloosa,11,State Senate,2,"",UnderVotes,37
 Okaloosa,14,State Senate,2,"",UnderVotes,36
@@ -1779,55 +1779,55 @@ Okaloosa,49,State Senate,2,"",UnderVotes,48
 Okaloosa,50,State Senate,2,"",UnderVotes,44
 Okaloosa,51,State Senate,2,"",UnderVotes,32
 Okaloosa,52,State Senate,2,"",UnderVotes,40
-Okaloosa,1,State House,3,REP,Joel Rudman,1693
-Okaloosa,2,State House,3,REP,Joel Rudman,450
-Okaloosa,3,State House,3,REP,Joel Rudman,704
-Okaloosa,4,State House,3,REP,Joel Rudman,583
-Okaloosa,5,State House,3,REP,Joel Rudman,691
-Okaloosa,6,State House,3,REP,Joel Rudman,2263
-Okaloosa,7,State House,3,REP,Joel Rudman,1006
-Okaloosa,8,State House,3,REP,Joel Rudman,1485
+Okaloosa,01,State House,3,REP,Joel Rudman,1693
+Okaloosa,02,State House,3,REP,Joel Rudman,450
+Okaloosa,03,State House,3,REP,Joel Rudman,704
+Okaloosa,04,State House,3,REP,Joel Rudman,583
+Okaloosa,05,State House,3,REP,Joel Rudman,691
+Okaloosa,06,State House,3,REP,Joel Rudman,2263
+Okaloosa,07,State House,3,REP,Joel Rudman,1006
+Okaloosa,08,State House,3,REP,Joel Rudman,1485
 Okaloosa,13,State House,3,REP,Joel Rudman,462
 Okaloosa,51,State House,3,REP,Joel Rudman,1090
-Okaloosa,1,State House,3,"",WriteinVotes,32
-Okaloosa,2,State House,3,"",WriteinVotes,7
-Okaloosa,3,State House,3,"",WriteinVotes,16
-Okaloosa,4,State House,3,"",WriteinVotes,13
-Okaloosa,5,State House,3,"",WriteinVotes,18
-Okaloosa,6,State House,3,"",WriteinVotes,78
-Okaloosa,7,State House,3,"",WriteinVotes,28
-Okaloosa,8,State House,3,"",WriteinVotes,45
+Okaloosa,01,State House,3,"",WriteinVotes,32
+Okaloosa,02,State House,3,"",WriteinVotes,7
+Okaloosa,03,State House,3,"",WriteinVotes,16
+Okaloosa,04,State House,3,"",WriteinVotes,13
+Okaloosa,05,State House,3,"",WriteinVotes,18
+Okaloosa,06,State House,3,"",WriteinVotes,78
+Okaloosa,07,State House,3,"",WriteinVotes,28
+Okaloosa,08,State House,3,"",WriteinVotes,45
 Okaloosa,13,State House,3,"",WriteinVotes,22
 Okaloosa,51,State House,3,"",WriteinVotes,34
-Okaloosa,1,State House,3,"",OverVotes,0
-Okaloosa,2,State House,3,"",OverVotes,0
-Okaloosa,3,State House,3,"",OverVotes,0
-Okaloosa,4,State House,3,"",OverVotes,1
-Okaloosa,5,State House,3,"",OverVotes,0
-Okaloosa,6,State House,3,"",OverVotes,0
-Okaloosa,7,State House,3,"",OverVotes,0
-Okaloosa,8,State House,3,"",OverVotes,0
+Okaloosa,01,State House,3,"",OverVotes,0
+Okaloosa,02,State House,3,"",OverVotes,0
+Okaloosa,03,State House,3,"",OverVotes,0
+Okaloosa,04,State House,3,"",OverVotes,1
+Okaloosa,05,State House,3,"",OverVotes,0
+Okaloosa,06,State House,3,"",OverVotes,0
+Okaloosa,07,State House,3,"",OverVotes,0
+Okaloosa,08,State House,3,"",OverVotes,0
 Okaloosa,13,State House,3,"",OverVotes,0
 Okaloosa,51,State House,3,"",OverVotes,0
-Okaloosa,1,State House,3,"",UnderVotes,119
-Okaloosa,2,State House,3,"",UnderVotes,17
-Okaloosa,3,State House,3,"",UnderVotes,50
-Okaloosa,4,State House,3,"",UnderVotes,55
-Okaloosa,5,State House,3,"",UnderVotes,55
-Okaloosa,6,State House,3,"",UnderVotes,258
-Okaloosa,7,State House,3,"",UnderVotes,85
-Okaloosa,8,State House,3,"",UnderVotes,212
+Okaloosa,01,State House,3,"",UnderVotes,119
+Okaloosa,02,State House,3,"",UnderVotes,17
+Okaloosa,03,State House,3,"",UnderVotes,50
+Okaloosa,04,State House,3,"",UnderVotes,55
+Okaloosa,05,State House,3,"",UnderVotes,55
+Okaloosa,06,State House,3,"",UnderVotes,258
+Okaloosa,07,State House,3,"",UnderVotes,85
+Okaloosa,08,State House,3,"",UnderVotes,212
 Okaloosa,13,State House,3,"",UnderVotes,59
 Okaloosa,51,State House,3,"",UnderVotes,142
-Okaloosa,1,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1094
-Okaloosa,2,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,280
-Okaloosa,3,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,531
-Okaloosa,4,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,512
-Okaloosa,5,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,445
-Okaloosa,6,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1612
-Okaloosa,7,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,700
-Okaloosa,8,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1390
-Okaloosa,9,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1347
+Okaloosa,01,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1094
+Okaloosa,02,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,280
+Okaloosa,03,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,531
+Okaloosa,04,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,512
+Okaloosa,05,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,445
+Okaloosa,06,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1612
+Okaloosa,07,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,700
+Okaloosa,08,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1390
+Okaloosa,09,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1347
 Okaloosa,10,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1680
 Okaloosa,11,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,2795
 Okaloosa,12,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,197
@@ -1871,15 +1871,15 @@ Okaloosa,49,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,
 Okaloosa,50,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1245
 Okaloosa,51,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,750
 Okaloosa,52,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1326
-Okaloosa,1,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,533
-Okaloosa,2,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,152
-Okaloosa,3,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,230
-Okaloosa,4,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,255
-Okaloosa,5,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,237
-Okaloosa,6,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,694
-Okaloosa,7,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,309
-Okaloosa,8,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,800
-Okaloosa,9,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,712
+Okaloosa,01,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,533
+Okaloosa,02,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,152
+Okaloosa,03,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,230
+Okaloosa,04,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,255
+Okaloosa,05,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,237
+Okaloosa,06,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,694
+Okaloosa,07,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,309
+Okaloosa,08,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,800
+Okaloosa,09,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,712
 Okaloosa,10,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,1121
 Okaloosa,11,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,1623
 Okaloosa,12,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,144
@@ -1923,15 +1923,15 @@ Okaloosa,49,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,4
 Okaloosa,50,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,381
 Okaloosa,51,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,376
 Okaloosa,52,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,661
-Okaloosa,1,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,2,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,3,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,4,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,5,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,6,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
-Okaloosa,7,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,8,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,9,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,01,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,02,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,03,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,04,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,05,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,06,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Okaloosa,07,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,08,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,09,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,10,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,11,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
 Okaloosa,12,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
@@ -1975,15 +1975,15 @@ Okaloosa,49,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverV
 Okaloosa,50,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
 Okaloosa,51,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,52,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,1,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,216
-Okaloosa,2,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,42
-Okaloosa,3,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,93
-Okaloosa,4,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,109
-Okaloosa,5,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,82
-Okaloosa,6,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,291
-Okaloosa,7,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,113
-Okaloosa,8,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,263
-Okaloosa,9,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,233
+Okaloosa,01,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,216
+Okaloosa,02,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,42
+Okaloosa,03,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,93
+Okaloosa,04,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,109
+Okaloosa,05,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,82
+Okaloosa,06,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,291
+Okaloosa,07,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,113
+Okaloosa,08,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,263
+Okaloosa,09,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,233
 Okaloosa,10,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,305
 Okaloosa,11,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,674
 Okaloosa,12,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,35
@@ -2027,15 +2027,15 @@ Okaloosa,49,Retention of Charles T. Canady,Justice of the Supreme Court,"",Under
 Okaloosa,50,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,325
 Okaloosa,51,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,140
 Okaloosa,52,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,235
-Okaloosa,1,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1119
-Okaloosa,2,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,284
-Okaloosa,3,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,531
-Okaloosa,4,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,520
-Okaloosa,5,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,442
-Okaloosa,6,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1627
-Okaloosa,7,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,696
-Okaloosa,8,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1415
-Okaloosa,9,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1354
+Okaloosa,01,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1119
+Okaloosa,02,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,284
+Okaloosa,03,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,531
+Okaloosa,04,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,520
+Okaloosa,05,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,442
+Okaloosa,06,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1627
+Okaloosa,07,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,696
+Okaloosa,08,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1415
+Okaloosa,09,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1354
 Okaloosa,10,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1686
 Okaloosa,11,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,2757
 Okaloosa,12,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,183
@@ -2079,15 +2079,15 @@ Okaloosa,49,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,14
 Okaloosa,50,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1255
 Okaloosa,51,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,731
 Okaloosa,52,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1308
-Okaloosa,1,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,477
-Okaloosa,2,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,138
-Okaloosa,3,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,223
-Okaloosa,4,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,240
-Okaloosa,5,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,225
-Okaloosa,6,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,647
-Okaloosa,7,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,300
-Okaloosa,8,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,737
-Okaloosa,9,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,679
+Okaloosa,01,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,477
+Okaloosa,02,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,138
+Okaloosa,03,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,223
+Okaloosa,04,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,240
+Okaloosa,05,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,225
+Okaloosa,06,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,647
+Okaloosa,07,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,300
+Okaloosa,08,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,737
+Okaloosa,09,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,679
 Okaloosa,10,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,1087
 Okaloosa,11,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,1636
 Okaloosa,12,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,149
@@ -2131,15 +2131,15 @@ Okaloosa,49,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,394
 Okaloosa,50,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,355
 Okaloosa,51,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,381
 Okaloosa,52,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,655
-Okaloosa,1,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,2,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,3,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,4,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,5,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,6,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,7,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,8,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,9,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,01,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,02,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,03,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,04,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,05,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,06,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,07,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,08,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,09,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,10,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,11,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,12,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
@@ -2183,15 +2183,15 @@ Okaloosa,49,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVot
 Okaloosa,50,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,51,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,52,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,1,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,247
-Okaloosa,2,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,52
-Okaloosa,3,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,100
-Okaloosa,4,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,116
-Okaloosa,5,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,97
-Okaloosa,6,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,325
-Okaloosa,7,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,127
-Okaloosa,8,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,301
-Okaloosa,9,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,259
+Okaloosa,01,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,247
+Okaloosa,02,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,52
+Okaloosa,03,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,100
+Okaloosa,04,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,116
+Okaloosa,05,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,97
+Okaloosa,06,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,325
+Okaloosa,07,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,127
+Okaloosa,08,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,301
+Okaloosa,09,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,259
 Okaloosa,10,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,333
 Okaloosa,11,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,700
 Okaloosa,12,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,43
@@ -2235,15 +2235,15 @@ Okaloosa,49,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVo
 Okaloosa,50,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,342
 Okaloosa,51,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,154
 Okaloosa,52,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,259
-Okaloosa,1,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1123
-Okaloosa,2,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,288
-Okaloosa,3,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,533
-Okaloosa,4,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,521
-Okaloosa,5,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,447
-Okaloosa,6,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1641
-Okaloosa,7,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,700
-Okaloosa,8,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1414
-Okaloosa,9,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1385
+Okaloosa,01,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1123
+Okaloosa,02,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,288
+Okaloosa,03,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,533
+Okaloosa,04,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,521
+Okaloosa,05,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,447
+Okaloosa,06,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1641
+Okaloosa,07,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,700
+Okaloosa,08,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1414
+Okaloosa,09,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1385
 Okaloosa,10,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1699
 Okaloosa,11,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,2792
 Okaloosa,12,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,199
@@ -2287,15 +2287,15 @@ Okaloosa,49,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,14
 Okaloosa,50,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1263
 Okaloosa,51,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,735
 Okaloosa,52,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1328
-Okaloosa,1,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,479
-Okaloosa,2,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,138
-Okaloosa,3,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,218
-Okaloosa,4,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,234
-Okaloosa,5,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,226
-Okaloosa,6,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,644
-Okaloosa,7,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,302
-Okaloosa,8,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,746
-Okaloosa,9,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,656
+Okaloosa,01,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,479
+Okaloosa,02,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,138
+Okaloosa,03,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,218
+Okaloosa,04,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,234
+Okaloosa,05,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,226
+Okaloosa,06,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,644
+Okaloosa,07,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,302
+Okaloosa,08,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,746
+Okaloosa,09,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,656
 Okaloosa,10,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,1085
 Okaloosa,11,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,1606
 Okaloosa,12,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,136
@@ -2339,15 +2339,15 @@ Okaloosa,49,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,392
 Okaloosa,50,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,350
 Okaloosa,51,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,378
 Okaloosa,52,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,650
-Okaloosa,1,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,2,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,3,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,4,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,5,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,6,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,7,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,8,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,2
-Okaloosa,9,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,01,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,02,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,03,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,04,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,05,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,06,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,07,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,08,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,2
+Okaloosa,09,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
 Okaloosa,10,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
 Okaloosa,11,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,12,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
@@ -2391,15 +2391,15 @@ Okaloosa,49,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVot
 Okaloosa,50,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
 Okaloosa,51,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,52,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,1,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,242
-Okaloosa,2,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,48
-Okaloosa,3,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,102
-Okaloosa,4,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,121
-Okaloosa,5,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,90
-Okaloosa,6,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,313
-Okaloosa,7,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,120
-Okaloosa,8,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,291
-Okaloosa,9,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,250
+Okaloosa,01,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,242
+Okaloosa,02,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,48
+Okaloosa,03,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,102
+Okaloosa,04,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,121
+Okaloosa,05,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,90
+Okaloosa,06,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,313
+Okaloosa,07,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,120
+Okaloosa,08,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,291
+Okaloosa,09,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,250
 Okaloosa,10,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,321
 Okaloosa,11,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,695
 Okaloosa,12,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,41
@@ -2443,15 +2443,15 @@ Okaloosa,49,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVo
 Okaloosa,50,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,338
 Okaloosa,51,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,153
 Okaloosa,52,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,244
-Okaloosa,1,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,884
-Okaloosa,2,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,226
-Okaloosa,3,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,446
-Okaloosa,4,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,425
-Okaloosa,5,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,379
-Okaloosa,6,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1364
-Okaloosa,7,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,565
-Okaloosa,8,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1205
-Okaloosa,9,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1237
+Okaloosa,01,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,884
+Okaloosa,02,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,226
+Okaloosa,03,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,446
+Okaloosa,04,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,425
+Okaloosa,05,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,379
+Okaloosa,06,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1364
+Okaloosa,07,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,565
+Okaloosa,08,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1205
+Okaloosa,09,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1237
 Okaloosa,10,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1659
 Okaloosa,11,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,2734
 Okaloosa,12,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,215
@@ -2495,15 +2495,15 @@ Okaloosa,49,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1181
 Okaloosa,50,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1018
 Okaloosa,51,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,629
 Okaloosa,52,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1212
-Okaloosa,1,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,718
-Okaloosa,2,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,194
-Okaloosa,3,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,307
-Okaloosa,4,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,332
-Okaloosa,5,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,294
-Okaloosa,6,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,919
-Okaloosa,7,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,434
-Okaloosa,8,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,949
-Okaloosa,9,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,802
+Okaloosa,01,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,718
+Okaloosa,02,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,194
+Okaloosa,03,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,307
+Okaloosa,04,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,332
+Okaloosa,05,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,294
+Okaloosa,06,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,919
+Okaloosa,07,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,434
+Okaloosa,08,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,949
+Okaloosa,09,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,802
 Okaloosa,10,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,1118
 Okaloosa,11,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,1653
 Okaloosa,12,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,117
@@ -2547,15 +2547,15 @@ Okaloosa,49,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,652
 Okaloosa,50,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,592
 Okaloosa,51,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,481
 Okaloosa,52,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,762
-Okaloosa,1,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,2,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,3,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,4,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,5,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,6,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
-Okaloosa,7,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,8,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
-Okaloosa,9,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,01,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,02,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,03,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,04,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Okaloosa,05,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,06,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Okaloosa,07,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,08,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Okaloosa,09,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,10,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,11,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
 Okaloosa,12,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
@@ -2599,15 +2599,15 @@ Okaloosa,49,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes
 Okaloosa,50,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,51,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,52,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
-Okaloosa,1,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,242
-Okaloosa,2,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,54
-Okaloosa,3,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,101
-Okaloosa,4,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,118
-Okaloosa,5,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,91
-Okaloosa,6,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,314
-Okaloosa,7,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,124
-Okaloosa,8,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,297
-Okaloosa,9,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,253
+Okaloosa,01,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,242
+Okaloosa,02,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,54
+Okaloosa,03,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,101
+Okaloosa,04,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,118
+Okaloosa,05,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,91
+Okaloosa,06,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,314
+Okaloosa,07,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,124
+Okaloosa,08,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,297
+Okaloosa,09,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,253
 Okaloosa,10,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,329
 Okaloosa,11,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,704
 Okaloosa,12,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,44
@@ -2651,15 +2651,15 @@ Okaloosa,49,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVote
 Okaloosa,50,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,342
 Okaloosa,51,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,156
 Okaloosa,52,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,247
-Okaloosa,1,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1039
-Okaloosa,2,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,260
-Okaloosa,3,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,497
-Okaloosa,4,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,473
-Okaloosa,5,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,427
-Okaloosa,6,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1556
-Okaloosa,7,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,653
-Okaloosa,8,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1332
-Okaloosa,9,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1318
+Okaloosa,01,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1039
+Okaloosa,02,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,260
+Okaloosa,03,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,497
+Okaloosa,04,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,473
+Okaloosa,05,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,427
+Okaloosa,06,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1556
+Okaloosa,07,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,653
+Okaloosa,08,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1332
+Okaloosa,09,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1318
 Okaloosa,10,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1661
 Okaloosa,11,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,2817
 Okaloosa,12,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,199
@@ -2703,15 +2703,15 @@ Okaloosa,49,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1359
 Okaloosa,50,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1177
 Okaloosa,51,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,731
 Okaloosa,52,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1273
-Okaloosa,1,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,561
-Okaloosa,2,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,163
-Okaloosa,3,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,253
-Okaloosa,4,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,287
-Okaloosa,5,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,249
-Okaloosa,6,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,730
-Okaloosa,7,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,349
-Okaloosa,8,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,831
-Okaloosa,9,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,719
+Okaloosa,01,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,561
+Okaloosa,02,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,163
+Okaloosa,03,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,253
+Okaloosa,04,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,287
+Okaloosa,05,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,249
+Okaloosa,06,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,730
+Okaloosa,07,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,349
+Okaloosa,08,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,831
+Okaloosa,09,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,719
 Okaloosa,10,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,1105
 Okaloosa,11,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,1565
 Okaloosa,12,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,137
@@ -2755,15 +2755,15 @@ Okaloosa,49,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,472
 Okaloosa,50,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,421
 Okaloosa,51,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,378
 Okaloosa,52,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,693
-Okaloosa,1,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,2,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,3,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,4,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,5,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,6,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,7,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Okaloosa,8,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,3
-Okaloosa,9,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,01,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,02,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,03,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,04,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,05,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,06,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,07,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okaloosa,08,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,3
+Okaloosa,09,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,10,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,11,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,12,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
@@ -2807,15 +2807,15 @@ Okaloosa,49,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes
 Okaloosa,50,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,51,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
 Okaloosa,52,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,2
-Okaloosa,1,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,244
-Okaloosa,2,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,51
-Okaloosa,3,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,104
-Okaloosa,4,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,116
-Okaloosa,5,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,88
-Okaloosa,6,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,313
-Okaloosa,7,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,121
-Okaloosa,8,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,287
-Okaloosa,9,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,255
+Okaloosa,01,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,244
+Okaloosa,02,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,51
+Okaloosa,03,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,104
+Okaloosa,04,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,116
+Okaloosa,05,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,88
+Okaloosa,06,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,313
+Okaloosa,07,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,121
+Okaloosa,08,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,287
+Okaloosa,09,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,255
 Okaloosa,10,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,340
 Okaloosa,11,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,711
 Okaloosa,12,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,40
@@ -2859,15 +2859,15 @@ Okaloosa,49,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVote
 Okaloosa,50,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,354
 Okaloosa,51,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,157
 Okaloosa,52,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,254
-Okaloosa,1,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1079
-Okaloosa,2,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,274
-Okaloosa,3,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,505
-Okaloosa,4,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,522
-Okaloosa,5,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,434
-Okaloosa,6,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1636
-Okaloosa,7,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,684
-Okaloosa,8,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1394
-Okaloosa,9,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1395
+Okaloosa,01,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1079
+Okaloosa,02,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,274
+Okaloosa,03,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,505
+Okaloosa,04,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,522
+Okaloosa,05,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,434
+Okaloosa,06,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1636
+Okaloosa,07,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,684
+Okaloosa,08,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1394
+Okaloosa,09,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1395
 Okaloosa,10,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1737
 Okaloosa,11,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,2839
 Okaloosa,12,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,191
@@ -2911,15 +2911,15 @@ Okaloosa,49,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,
 Okaloosa,50,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1224
 Okaloosa,51,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,709
 Okaloosa,52,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1316
-Okaloosa,1,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,514
-Okaloosa,2,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,147
-Okaloosa,3,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,239
-Okaloosa,4,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,233
-Okaloosa,5,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,238
-Okaloosa,6,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,634
-Okaloosa,7,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,311
-Okaloosa,8,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,753
-Okaloosa,9,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,632
+Okaloosa,01,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,514
+Okaloosa,02,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,147
+Okaloosa,03,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,239
+Okaloosa,04,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,233
+Okaloosa,05,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,238
+Okaloosa,06,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,634
+Okaloosa,07,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,311
+Okaloosa,08,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,753
+Okaloosa,09,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,632
 Okaloosa,10,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,1028
 Okaloosa,11,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,1460
 Okaloosa,12,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,140
@@ -2963,15 +2963,15 @@ Okaloosa,49,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,4
 Okaloosa,50,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,358
 Okaloosa,51,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,397
 Okaloosa,52,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,643
-Okaloosa,1,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Okaloosa,2,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Okaloosa,3,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,4,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,5,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,6,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Okaloosa,7,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,8,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Okaloosa,9,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Okaloosa,01,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Okaloosa,02,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Okaloosa,03,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,04,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,05,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,06,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Okaloosa,07,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,08,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Okaloosa,09,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
 Okaloosa,10,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
 Okaloosa,11,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
 Okaloosa,12,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
@@ -3015,15 +3015,15 @@ Okaloosa,49,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverV
 Okaloosa,50,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
 Okaloosa,51,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
 Okaloosa,52,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Okaloosa,1,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,250
-Okaloosa,2,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,52
-Okaloosa,3,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,110
-Okaloosa,4,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,121
-Okaloosa,5,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,92
-Okaloosa,6,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,328
-Okaloosa,7,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,128
-Okaloosa,8,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,305
-Okaloosa,9,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,264
+Okaloosa,01,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,250
+Okaloosa,02,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,52
+Okaloosa,03,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,110
+Okaloosa,04,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,121
+Okaloosa,05,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,92
+Okaloosa,06,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,328
+Okaloosa,07,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,128
+Okaloosa,08,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,305
+Okaloosa,09,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,264
 Okaloosa,10,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,340
 Okaloosa,11,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,794
 Okaloosa,12,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,45
@@ -3067,15 +3067,15 @@ Okaloosa,49,Retention of Ross L. Bilbrey,First District Court of Appeal,"",Under
 Okaloosa,50,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,370
 Okaloosa,51,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,160
 Okaloosa,52,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,262
-Okaloosa,1,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1093
-Okaloosa,2,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,259
-Okaloosa,3,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,525
-Okaloosa,4,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,517
-Okaloosa,5,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,440
-Okaloosa,6,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1646
-Okaloosa,7,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,707
-Okaloosa,8,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1407
-Okaloosa,9,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1404
+Okaloosa,01,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1093
+Okaloosa,02,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,259
+Okaloosa,03,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,525
+Okaloosa,04,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,517
+Okaloosa,05,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,440
+Okaloosa,06,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1646
+Okaloosa,07,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,707
+Okaloosa,08,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1407
+Okaloosa,09,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1404
 Okaloosa,10,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1815
 Okaloosa,11,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,2984
 Okaloosa,12,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,226
@@ -3119,15 +3119,15 @@ Okaloosa,49,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,142
 Okaloosa,50,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1230
 Okaloosa,51,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,749
 Okaloosa,52,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1349
-Okaloosa,1,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,501
-Okaloosa,2,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,163
-Okaloosa,3,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,222
-Okaloosa,4,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,236
-Okaloosa,5,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,229
-Okaloosa,6,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,615
-Okaloosa,7,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,288
-Okaloosa,8,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,733
-Okaloosa,9,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,622
+Okaloosa,01,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,501
+Okaloosa,02,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,163
+Okaloosa,03,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,222
+Okaloosa,04,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,236
+Okaloosa,05,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,229
+Okaloosa,06,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,615
+Okaloosa,07,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,288
+Okaloosa,08,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,733
+Okaloosa,09,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,622
 Okaloosa,10,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,944
 Okaloosa,11,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,1300
 Okaloosa,12,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,104
@@ -3171,15 +3171,15 @@ Okaloosa,49,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,392
 Okaloosa,50,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,349
 Okaloosa,51,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,356
 Okaloosa,52,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,607
-Okaloosa,1,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,2,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
-Okaloosa,3,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,4,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,5,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,6,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
-Okaloosa,7,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,8,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
-Okaloosa,9,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Okaloosa,01,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,02,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Okaloosa,03,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,04,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,05,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,06,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
+Okaloosa,07,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Okaloosa,08,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
+Okaloosa,09,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
 Okaloosa,10,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
 Okaloosa,11,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
 Okaloosa,12,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
@@ -3223,15 +3223,15 @@ Okaloosa,49,Retention of Susan Kelsey,First District Court of Appeal,"",OverVote
 Okaloosa,50,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
 Okaloosa,51,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
 Okaloosa,52,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Okaloosa,1,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,250
-Okaloosa,2,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,51
-Okaloosa,3,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,107
-Okaloosa,4,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,123
-Okaloosa,5,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,95
-Okaloosa,6,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,336
-Okaloosa,7,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,128
-Okaloosa,8,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,311
-Okaloosa,9,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,265
+Okaloosa,01,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,250
+Okaloosa,02,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,51
+Okaloosa,03,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,107
+Okaloosa,04,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,123
+Okaloosa,05,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,95
+Okaloosa,06,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,336
+Okaloosa,07,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,128
+Okaloosa,08,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,311
+Okaloosa,09,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,265
 Okaloosa,10,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,345
 Okaloosa,11,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,808
 Okaloosa,12,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,45
@@ -3275,15 +3275,15 @@ Okaloosa,49,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVot
 Okaloosa,50,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,372
 Okaloosa,51,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,161
 Okaloosa,52,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,266
-Okaloosa,1,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1099
-Okaloosa,2,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,281
-Okaloosa,3,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,528
-Okaloosa,4,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,518
-Okaloosa,5,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,441
-Okaloosa,6,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1636
-Okaloosa,7,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,699
-Okaloosa,8,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1408
-Okaloosa,9,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1378
+Okaloosa,01,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1099
+Okaloosa,02,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,281
+Okaloosa,03,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,528
+Okaloosa,04,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,518
+Okaloosa,05,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,441
+Okaloosa,06,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1636
+Okaloosa,07,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,699
+Okaloosa,08,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1408
+Okaloosa,09,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1378
 Okaloosa,10,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1702
 Okaloosa,11,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,2776
 Okaloosa,12,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,179
@@ -3327,15 +3327,15 @@ Okaloosa,49,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1442
 Okaloosa,50,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1224
 Okaloosa,51,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,734
 Okaloosa,52,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1322
-Okaloosa,1,Retention of Bobby Long,First District Court of Appeal,NOP,No,482
-Okaloosa,2,Retention of Bobby Long,First District Court of Appeal,NOP,No,137
-Okaloosa,3,Retention of Bobby Long,First District Court of Appeal,NOP,No,212
-Okaloosa,4,Retention of Bobby Long,First District Court of Appeal,NOP,No,231
-Okaloosa,5,Retention of Bobby Long,First District Court of Appeal,NOP,No,222
-Okaloosa,6,Retention of Bobby Long,First District Court of Appeal,NOP,No,621
-Okaloosa,7,Retention of Bobby Long,First District Court of Appeal,NOP,No,294
-Okaloosa,8,Retention of Bobby Long,First District Court of Appeal,NOP,No,725
-Okaloosa,9,Retention of Bobby Long,First District Court of Appeal,NOP,No,650
+Okaloosa,01,Retention of Bobby Long,First District Court of Appeal,NOP,No,482
+Okaloosa,02,Retention of Bobby Long,First District Court of Appeal,NOP,No,137
+Okaloosa,03,Retention of Bobby Long,First District Court of Appeal,NOP,No,212
+Okaloosa,04,Retention of Bobby Long,First District Court of Appeal,NOP,No,231
+Okaloosa,05,Retention of Bobby Long,First District Court of Appeal,NOP,No,222
+Okaloosa,06,Retention of Bobby Long,First District Court of Appeal,NOP,No,621
+Okaloosa,07,Retention of Bobby Long,First District Court of Appeal,NOP,No,294
+Okaloosa,08,Retention of Bobby Long,First District Court of Appeal,NOP,No,725
+Okaloosa,09,Retention of Bobby Long,First District Court of Appeal,NOP,No,650
 Okaloosa,10,Retention of Bobby Long,First District Court of Appeal,NOP,No,1052
 Okaloosa,11,Retention of Bobby Long,First District Court of Appeal,NOP,No,1509
 Okaloosa,12,Retention of Bobby Long,First District Court of Appeal,NOP,No,150
@@ -3379,15 +3379,15 @@ Okaloosa,49,Retention of Bobby Long,First District Court of Appeal,NOP,No,374
 Okaloosa,50,Retention of Bobby Long,First District Court of Appeal,NOP,No,354
 Okaloosa,51,Retention of Bobby Long,First District Court of Appeal,NOP,No,363
 Okaloosa,52,Retention of Bobby Long,First District Court of Appeal,NOP,No,627
-Okaloosa,1,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
-Okaloosa,2,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Okaloosa,3,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
-Okaloosa,4,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Okaloosa,5,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
-Okaloosa,6,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,2
-Okaloosa,7,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Okaloosa,8,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,2
-Okaloosa,9,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Okaloosa,01,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Okaloosa,02,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Okaloosa,03,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Okaloosa,04,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Okaloosa,05,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Okaloosa,06,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,2
+Okaloosa,07,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Okaloosa,08,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,2
+Okaloosa,09,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
 Okaloosa,10,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
 Okaloosa,11,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
 Okaloosa,12,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
@@ -3431,15 +3431,15 @@ Okaloosa,49,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,
 Okaloosa,50,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,2
 Okaloosa,51,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
 Okaloosa,52,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Okaloosa,1,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,262
-Okaloosa,2,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,56
-Okaloosa,3,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,113
-Okaloosa,4,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,127
-Okaloosa,5,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,100
-Okaloosa,6,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,340
-Okaloosa,7,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,130
-Okaloosa,8,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,318
-Okaloosa,9,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,264
+Okaloosa,01,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,262
+Okaloosa,02,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,56
+Okaloosa,03,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,113
+Okaloosa,04,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,127
+Okaloosa,05,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,100
+Okaloosa,06,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,340
+Okaloosa,07,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,130
+Okaloosa,08,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,318
+Okaloosa,09,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,264
 Okaloosa,10,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,351
 Okaloosa,11,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,807
 Okaloosa,12,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,47
@@ -3483,15 +3483,15 @@ Okaloosa,49,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes
 Okaloosa,50,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,372
 Okaloosa,51,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,168
 Okaloosa,52,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,273
-Okaloosa,1,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1014
-Okaloosa,2,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,253
-Okaloosa,3,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,501
-Okaloosa,4,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,491
-Okaloosa,5,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,430
-Okaloosa,6,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1567
-Okaloosa,7,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,659
-Okaloosa,8,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1391
-Okaloosa,9,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1356
+Okaloosa,01,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1014
+Okaloosa,02,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,253
+Okaloosa,03,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,501
+Okaloosa,04,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,491
+Okaloosa,05,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,430
+Okaloosa,06,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1567
+Okaloosa,07,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,659
+Okaloosa,08,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1391
+Okaloosa,09,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1356
 Okaloosa,10,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1772
 Okaloosa,11,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,2940
 Okaloosa,12,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,224
@@ -3535,15 +3535,15 @@ Okaloosa,49,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,138
 Okaloosa,50,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1159
 Okaloosa,51,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,731
 Okaloosa,52,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1335
-Okaloosa,1,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,578
-Okaloosa,2,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,169
-Okaloosa,3,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,244
-Okaloosa,4,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,261
-Okaloosa,5,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,236
-Okaloosa,6,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,691
-Okaloosa,7,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,333
-Okaloosa,8,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,745
-Okaloosa,9,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,669
+Okaloosa,01,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,578
+Okaloosa,02,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,169
+Okaloosa,03,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,244
+Okaloosa,04,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,261
+Okaloosa,05,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,236
+Okaloosa,06,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,691
+Okaloosa,07,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,333
+Okaloosa,08,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,745
+Okaloosa,09,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,669
 Okaloosa,10,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,982
 Okaloosa,11,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,1338
 Okaloosa,12,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,106
@@ -3587,15 +3587,15 @@ Okaloosa,49,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,428
 Okaloosa,50,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,415
 Okaloosa,51,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,372
 Okaloosa,52,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,615
-Okaloosa,1,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Okaloosa,2,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Okaloosa,3,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Okaloosa,4,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Okaloosa,5,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Okaloosa,6,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Okaloosa,7,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,3
-Okaloosa,8,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Okaloosa,9,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Okaloosa,01,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Okaloosa,02,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Okaloosa,03,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Okaloosa,04,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Okaloosa,05,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Okaloosa,06,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Okaloosa,07,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,3
+Okaloosa,08,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Okaloosa,09,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
 Okaloosa,10,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
 Okaloosa,11,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,3
 Okaloosa,12,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
@@ -3639,15 +3639,15 @@ Okaloosa,49,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVote
 Okaloosa,50,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
 Okaloosa,51,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
 Okaloosa,52,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Okaloosa,1,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,251
-Okaloosa,2,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,52
-Okaloosa,3,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,108
-Okaloosa,4,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,124
-Okaloosa,5,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,97
-Okaloosa,6,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,340
-Okaloosa,7,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,128
-Okaloosa,8,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,316
-Okaloosa,9,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,267
+Okaloosa,01,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,251
+Okaloosa,02,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,52
+Okaloosa,03,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,108
+Okaloosa,04,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,124
+Okaloosa,05,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,97
+Okaloosa,06,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,340
+Okaloosa,07,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,128
+Okaloosa,08,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,316
+Okaloosa,09,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,267
 Okaloosa,10,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,351
 Okaloosa,11,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,812
 Okaloosa,12,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,46
@@ -3691,15 +3691,15 @@ Okaloosa,49,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVot
 Okaloosa,50,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,378
 Okaloosa,51,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,162
 Okaloosa,52,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,271
-Okaloosa,1,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1060
-Okaloosa,2,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,272
-Okaloosa,3,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,502
-Okaloosa,4,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,504
-Okaloosa,5,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,419
-Okaloosa,6,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1622
-Okaloosa,7,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,696
-Okaloosa,8,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1378
-Okaloosa,9,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1325
+Okaloosa,01,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1060
+Okaloosa,02,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,272
+Okaloosa,03,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,502
+Okaloosa,04,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,504
+Okaloosa,05,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,419
+Okaloosa,06,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1622
+Okaloosa,07,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,696
+Okaloosa,08,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1378
+Okaloosa,09,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1325
 Okaloosa,10,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1685
 Okaloosa,11,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,2738
 Okaloosa,12,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,185
@@ -3743,15 +3743,15 @@ Okaloosa,49,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1411
 Okaloosa,50,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1211
 Okaloosa,51,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,714
 Okaloosa,52,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1305
-Okaloosa,1,Retention of Bo Winokur,First District Court of Appeal,NOP,No,528
-Okaloosa,2,Retention of Bo Winokur,First District Court of Appeal,NOP,No,148
-Okaloosa,3,Retention of Bo Winokur,First District Court of Appeal,NOP,No,243
-Okaloosa,4,Retention of Bo Winokur,First District Court of Appeal,NOP,No,247
-Okaloosa,5,Retention of Bo Winokur,First District Court of Appeal,NOP,No,248
-Okaloosa,6,Retention of Bo Winokur,First District Court of Appeal,NOP,No,645
-Okaloosa,7,Retention of Bo Winokur,First District Court of Appeal,NOP,No,300
-Okaloosa,8,Retention of Bo Winokur,First District Court of Appeal,NOP,No,763
-Okaloosa,9,Retention of Bo Winokur,First District Court of Appeal,NOP,No,697
+Okaloosa,01,Retention of Bo Winokur,First District Court of Appeal,NOP,No,528
+Okaloosa,02,Retention of Bo Winokur,First District Court of Appeal,NOP,No,148
+Okaloosa,03,Retention of Bo Winokur,First District Court of Appeal,NOP,No,243
+Okaloosa,04,Retention of Bo Winokur,First District Court of Appeal,NOP,No,247
+Okaloosa,05,Retention of Bo Winokur,First District Court of Appeal,NOP,No,248
+Okaloosa,06,Retention of Bo Winokur,First District Court of Appeal,NOP,No,645
+Okaloosa,07,Retention of Bo Winokur,First District Court of Appeal,NOP,No,300
+Okaloosa,08,Retention of Bo Winokur,First District Court of Appeal,NOP,No,763
+Okaloosa,09,Retention of Bo Winokur,First District Court of Appeal,NOP,No,697
 Okaloosa,10,Retention of Bo Winokur,First District Court of Appeal,NOP,No,1066
 Okaloosa,11,Retention of Bo Winokur,First District Court of Appeal,NOP,No,1537
 Okaloosa,12,Retention of Bo Winokur,First District Court of Appeal,NOP,No,143
@@ -3795,15 +3795,15 @@ Okaloosa,49,Retention of Bo Winokur,First District Court of Appeal,NOP,No,405
 Okaloosa,50,Retention of Bo Winokur,First District Court of Appeal,NOP,No,357
 Okaloosa,51,Retention of Bo Winokur,First District Court of Appeal,NOP,No,390
 Okaloosa,52,Retention of Bo Winokur,First District Court of Appeal,NOP,No,644
-Okaloosa,1,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Okaloosa,2,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Okaloosa,3,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Okaloosa,4,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
-Okaloosa,5,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Okaloosa,6,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Okaloosa,7,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Okaloosa,8,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Okaloosa,9,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Okaloosa,01,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Okaloosa,02,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Okaloosa,03,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Okaloosa,04,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Okaloosa,05,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Okaloosa,06,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Okaloosa,07,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Okaloosa,08,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Okaloosa,09,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
 Okaloosa,10,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
 Okaloosa,11,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
 Okaloosa,12,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
@@ -3847,15 +3847,15 @@ Okaloosa,49,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,
 Okaloosa,50,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
 Okaloosa,51,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
 Okaloosa,52,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
-Okaloosa,1,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,256
-Okaloosa,2,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,54
-Okaloosa,3,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,109
-Okaloosa,4,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,124
-Okaloosa,5,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,97
-Okaloosa,6,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,332
-Okaloosa,7,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,127
-Okaloosa,8,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,312
-Okaloosa,9,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,269
+Okaloosa,01,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,256
+Okaloosa,02,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,54
+Okaloosa,03,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,109
+Okaloosa,04,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,124
+Okaloosa,05,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,97
+Okaloosa,06,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,332
+Okaloosa,07,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,127
+Okaloosa,08,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,312
+Okaloosa,09,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,269
 Okaloosa,10,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,354
 Okaloosa,11,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,818
 Okaloosa,12,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,48
@@ -3899,15 +3899,15 @@ Okaloosa,49,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes
 Okaloosa,50,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,383
 Okaloosa,51,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,161
 Okaloosa,52,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,272
-Okaloosa,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,935
-Okaloosa,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,236
-Okaloosa,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,463
-Okaloosa,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,431
-Okaloosa,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,396
-Okaloosa,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1373
-Okaloosa,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,572
-Okaloosa,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1219
-Okaloosa,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1226
+Okaloosa,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,935
+Okaloosa,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,236
+Okaloosa,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,463
+Okaloosa,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,431
+Okaloosa,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,396
+Okaloosa,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1373
+Okaloosa,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,572
+Okaloosa,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1219
+Okaloosa,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1226
 Okaloosa,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1638
 Okaloosa,11,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,2979
 Okaloosa,12,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,184
@@ -3951,15 +3951,15 @@ Okaloosa,49,Amendment No. 1: Limitation On Assessment of Real Property Used For 
 Okaloosa,50,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1221
 Okaloosa,51,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,688
 Okaloosa,52,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1210
-Okaloosa,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,775
-Okaloosa,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,209
-Okaloosa,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,341
-Okaloosa,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,373
-Okaloosa,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,321
-Okaloosa,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1032
-Okaloosa,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,482
-Okaloosa,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1054
-Okaloosa,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,926
+Okaloosa,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,775
+Okaloosa,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,209
+Okaloosa,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,341
+Okaloosa,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,373
+Okaloosa,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,321
+Okaloosa,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1032
+Okaloosa,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,482
+Okaloosa,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1054
+Okaloosa,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,926
 Okaloosa,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1277
 Okaloosa,11,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1698
 Okaloosa,12,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,157
@@ -4003,15 +4003,15 @@ Okaloosa,49,Amendment No. 1: Limitation On Assessment of Real Property Used For 
 Okaloosa,50,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,568
 Okaloosa,51,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,488
 Okaloosa,52,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,878
-Okaloosa,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
-Okaloosa,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Okaloosa,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Okaloosa,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Okaloosa,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Okaloosa,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
-Okaloosa,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Okaloosa,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Okaloosa,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okaloosa,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Okaloosa,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okaloosa,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okaloosa,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okaloosa,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okaloosa,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Okaloosa,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okaloosa,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Okaloosa,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
 Okaloosa,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
 Okaloosa,11,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
 Okaloosa,12,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
@@ -4055,15 +4055,15 @@ Okaloosa,49,Amendment No. 1: Limitation On Assessment of Real Property Used For 
 Okaloosa,50,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
 Okaloosa,51,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
 Okaloosa,52,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Okaloosa,1,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,132
-Okaloosa,2,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
-Okaloosa,3,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,50
-Okaloosa,4,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,72
-Okaloosa,5,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,47
-Okaloosa,6,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,192
-Okaloosa,7,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,69
-Okaloosa,8,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,179
-Okaloosa,9,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,140
+Okaloosa,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,132
+Okaloosa,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
+Okaloosa,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,50
+Okaloosa,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,72
+Okaloosa,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,47
+Okaloosa,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,192
+Okaloosa,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,69
+Okaloosa,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,179
+Okaloosa,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,140
 Okaloosa,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,191
 Okaloosa,11,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,414
 Okaloosa,12,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,35
@@ -4107,15 +4107,15 @@ Okaloosa,49,Amendment No. 1: Limitation On Assessment of Real Property Used For 
 Okaloosa,50,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,163
 Okaloosa,51,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,90
 Okaloosa,52,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,133
-Okaloosa,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,958
-Okaloosa,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,235
-Okaloosa,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,472
-Okaloosa,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,417
-Okaloosa,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,409
-Okaloosa,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1389
-Okaloosa,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,615
-Okaloosa,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1273
-Okaloosa,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1233
+Okaloosa,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,958
+Okaloosa,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,235
+Okaloosa,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,472
+Okaloosa,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,417
+Okaloosa,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,409
+Okaloosa,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1389
+Okaloosa,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,615
+Okaloosa,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1273
+Okaloosa,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1233
 Okaloosa,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1641
 Okaloosa,11,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,2741
 Okaloosa,12,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,175
@@ -4159,15 +4159,15 @@ Okaloosa,49,Amendment No. 2: Abolishing the Constitution Revision Commission,"",
 Okaloosa,50,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1178
 Okaloosa,51,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,664
 Okaloosa,52,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1202
-Okaloosa,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,726
-Okaloosa,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,208
-Okaloosa,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,325
-Okaloosa,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,379
-Okaloosa,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,305
-Okaloosa,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,1013
-Okaloosa,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,439
-Okaloosa,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,998
-Okaloosa,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,923
+Okaloosa,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,726
+Okaloosa,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,208
+Okaloosa,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,325
+Okaloosa,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,379
+Okaloosa,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,305
+Okaloosa,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,1013
+Okaloosa,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,439
+Okaloosa,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,998
+Okaloosa,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,923
 Okaloosa,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,1261
 Okaloosa,11,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,1939
 Okaloosa,12,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,167
@@ -4211,15 +4211,15 @@ Okaloosa,49,Amendment No. 2: Abolishing the Constitution Revision Commission,"",
 Okaloosa,50,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,602
 Okaloosa,51,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,518
 Okaloosa,52,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,867
-Okaloosa,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Okaloosa,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Okaloosa,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Okaloosa,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Okaloosa,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
-Okaloosa,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Okaloosa,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Okaloosa,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,4
-Okaloosa,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Okaloosa,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okaloosa,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okaloosa,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okaloosa,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okaloosa,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Okaloosa,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okaloosa,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okaloosa,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,4
+Okaloosa,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
 Okaloosa,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
 Okaloosa,11,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
 Okaloosa,12,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
@@ -4263,15 +4263,15 @@ Okaloosa,49,Amendment No. 2: Abolishing the Constitution Revision Commission,"",
 Okaloosa,50,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
 Okaloosa,51,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
 Okaloosa,52,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Okaloosa,1,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,160
-Okaloosa,2,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,31
-Okaloosa,3,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,57
-Okaloosa,4,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,80
-Okaloosa,5,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,49
-Okaloosa,6,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,197
-Okaloosa,7,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,69
-Okaloosa,8,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,178
-Okaloosa,9,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,135
+Okaloosa,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,160
+Okaloosa,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,31
+Okaloosa,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,57
+Okaloosa,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,80
+Okaloosa,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,49
+Okaloosa,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,197
+Okaloosa,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,69
+Okaloosa,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,178
+Okaloosa,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,135
 Okaloosa,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,204
 Okaloosa,11,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,413
 Okaloosa,12,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,34
@@ -4315,15 +4315,15 @@ Okaloosa,49,Amendment No. 2: Abolishing the Constitution Revision Commission,"",
 Okaloosa,50,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,172
 Okaloosa,51,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,84
 Okaloosa,52,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,153
-Okaloosa,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1091
-Okaloosa,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,254
-Okaloosa,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,544
-Okaloosa,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,531
-Okaloosa,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,473
-Okaloosa,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1698
-Okaloosa,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,697
-Okaloosa,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1520
-Okaloosa,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1478
+Okaloosa,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1091
+Okaloosa,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,254
+Okaloosa,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,544
+Okaloosa,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,531
+Okaloosa,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,473
+Okaloosa,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1698
+Okaloosa,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,697
+Okaloosa,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1520
+Okaloosa,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1478
 Okaloosa,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1984
 Okaloosa,11,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,3475
 Okaloosa,12,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,228
@@ -4367,15 +4367,15 @@ Okaloosa,49,Amendment No. 3: Additional Homestead Property Tax Exemption For Spe
 Okaloosa,50,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1177
 Okaloosa,51,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,783
 Okaloosa,52,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1488
-Okaloosa,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,665
-Okaloosa,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,205
-Okaloosa,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,286
-Okaloosa,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,300
-Okaloosa,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,268
-Okaloosa,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,799
-Okaloosa,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,395
-Okaloosa,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,829
-Okaloosa,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,736
+Okaloosa,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,665
+Okaloosa,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,205
+Okaloosa,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,286
+Okaloosa,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,300
+Okaloosa,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,268
+Okaloosa,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,799
+Okaloosa,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,395
+Okaloosa,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,829
+Okaloosa,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,736
 Okaloosa,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,1014
 Okaloosa,11,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,1293
 Okaloosa,12,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,130
@@ -4419,15 +4419,15 @@ Okaloosa,49,Amendment No. 3: Additional Homestead Property Tax Exemption For Spe
 Okaloosa,50,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,667
 Okaloosa,51,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,435
 Okaloosa,52,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,651
-Okaloosa,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Okaloosa,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Okaloosa,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Okaloosa,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Okaloosa,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Okaloosa,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
-Okaloosa,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Okaloosa,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Okaloosa,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Okaloosa,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Okaloosa,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okaloosa,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okaloosa,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okaloosa,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okaloosa,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
+Okaloosa,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okaloosa,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Okaloosa,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
 Okaloosa,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
 Okaloosa,11,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
 Okaloosa,12,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
@@ -4471,15 +4471,15 @@ Okaloosa,49,Amendment No. 3: Additional Homestead Property Tax Exemption For Spe
 Okaloosa,50,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
 Okaloosa,51,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
 Okaloosa,52,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,3
-Okaloosa,1,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,87
-Okaloosa,2,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,15
-Okaloosa,3,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,24
-Okaloosa,4,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,45
-Okaloosa,5,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,23
-Okaloosa,6,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,100
-Okaloosa,7,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,31
-Okaloosa,8,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,103
-Okaloosa,9,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,77
+Okaloosa,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,87
+Okaloosa,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,15
+Okaloosa,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,24
+Okaloosa,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,45
+Okaloosa,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,23
+Okaloosa,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,100
+Okaloosa,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,31
+Okaloosa,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,103
+Okaloosa,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,77
 Okaloosa,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,106
 Okaloosa,11,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,323
 Okaloosa,12,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,18

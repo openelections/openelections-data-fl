@@ -1,951 +1,951 @@
 county,precinct,office,district,party,candidate,votes
-Gilchrist,1A,U.S. Senate,"",REP,Marco Rubio,570
-Gilchrist,1B,U.S. Senate,"",REP,Marco Rubio,254
-Gilchrist,1C,U.S. Senate,"",REP,Marco Rubio,109
-Gilchrist,2A,U.S. Senate,"",REP,Marco Rubio,1084
-Gilchrist,3A,U.S. Senate,"",REP,Marco Rubio,880
-Gilchrist,4A,U.S. Senate,"",REP,Marco Rubio,869
-Gilchrist,5A,U.S. Senate,"",REP,Marco Rubio,514
-Gilchrist,6A,U.S. Senate,"",REP,Marco Rubio,1084
-Gilchrist,7A,U.S. Senate,"",REP,Marco Rubio,667
-Gilchrist,8A,U.S. Senate,"",REP,Marco Rubio,626
-Gilchrist,1A,U.S. Senate,"",DEM,Val Demings,92
-Gilchrist,1B,U.S. Senate,"",DEM,Val Demings,43
-Gilchrist,1C,U.S. Senate,"",DEM,Val Demings,61
-Gilchrist,2A,U.S. Senate,"",DEM,Val Demings,115
-Gilchrist,3A,U.S. Senate,"",DEM,Val Demings,118
-Gilchrist,4A,U.S. Senate,"",DEM,Val Demings,136
-Gilchrist,5A,U.S. Senate,"",DEM,Val Demings,81
-Gilchrist,6A,U.S. Senate,"",DEM,Val Demings,171
-Gilchrist,7A,U.S. Senate,"",DEM,Val Demings,129
-Gilchrist,8A,U.S. Senate,"",DEM,Val Demings,141
-Gilchrist,1A,U.S. Senate,"",LPF,Dennis Misigoy,0
-Gilchrist,1B,U.S. Senate,"",LPF,Dennis Misigoy,0
-Gilchrist,1C,U.S. Senate,"",LPF,Dennis Misigoy,1
-Gilchrist,2A,U.S. Senate,"",LPF,Dennis Misigoy,5
-Gilchrist,3A,U.S. Senate,"",LPF,Dennis Misigoy,4
-Gilchrist,4A,U.S. Senate,"",LPF,Dennis Misigoy,7
-Gilchrist,5A,U.S. Senate,"",LPF,Dennis Misigoy,5
-Gilchrist,6A,U.S. Senate,"",LPF,Dennis Misigoy,5
-Gilchrist,7A,U.S. Senate,"",LPF,Dennis Misigoy,5
-Gilchrist,8A,U.S. Senate,"",LPF,Dennis Misigoy,8
-Gilchrist,1A,U.S. Senate,"",NPA,Steven B. Grant,6
-Gilchrist,1B,U.S. Senate,"",NPA,Steven B. Grant,0
-Gilchrist,1C,U.S. Senate,"",NPA,Steven B. Grant,2
-Gilchrist,2A,U.S. Senate,"",NPA,Steven B. Grant,3
-Gilchrist,3A,U.S. Senate,"",NPA,Steven B. Grant,6
-Gilchrist,4A,U.S. Senate,"",NPA,Steven B. Grant,8
-Gilchrist,5A,U.S. Senate,"",NPA,Steven B. Grant,3
-Gilchrist,6A,U.S. Senate,"",NPA,Steven B. Grant,9
-Gilchrist,7A,U.S. Senate,"",NPA,Steven B. Grant,5
-Gilchrist,8A,U.S. Senate,"",NPA,Steven B. Grant,5
-Gilchrist,1A,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gilchrist,1B,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
-Gilchrist,1C,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Gilchrist,2A,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
-Gilchrist,3A,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gilchrist,4A,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
-Gilchrist,5A,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
-Gilchrist,6A,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gilchrist,7A,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gilchrist,8A,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
-Gilchrist,1A,U.S. Senate,"","",WriteinVotes,0
-Gilchrist,1B,U.S. Senate,"","",WriteinVotes,0
-Gilchrist,1C,U.S. Senate,"","",WriteinVotes,0
-Gilchrist,2A,U.S. Senate,"","",WriteinVotes,0
-Gilchrist,3A,U.S. Senate,"","",WriteinVotes,2
-Gilchrist,4A,U.S. Senate,"","",WriteinVotes,0
-Gilchrist,5A,U.S. Senate,"","",WriteinVotes,0
-Gilchrist,6A,U.S. Senate,"","",WriteinVotes,3
-Gilchrist,7A,U.S. Senate,"","",WriteinVotes,1
-Gilchrist,8A,U.S. Senate,"","",WriteinVotes,0
-Gilchrist,1A,U.S. Senate,"","",OverVotes,0
-Gilchrist,1B,U.S. Senate,"","",OverVotes,0
-Gilchrist,1C,U.S. Senate,"","",OverVotes,0
-Gilchrist,2A,U.S. Senate,"","",OverVotes,0
-Gilchrist,3A,U.S. Senate,"","",OverVotes,0
-Gilchrist,4A,U.S. Senate,"","",OverVotes,0
-Gilchrist,5A,U.S. Senate,"","",OverVotes,0
-Gilchrist,6A,U.S. Senate,"","",OverVotes,0
-Gilchrist,7A,U.S. Senate,"","",OverVotes,0
-Gilchrist,8A,U.S. Senate,"","",OverVotes,0
-Gilchrist,1A,U.S. Senate,"","",UnderVotes,2
-Gilchrist,1B,U.S. Senate,"","",UnderVotes,2
-Gilchrist,1C,U.S. Senate,"","",UnderVotes,1
-Gilchrist,2A,U.S. Senate,"","",UnderVotes,6
-Gilchrist,3A,U.S. Senate,"","",UnderVotes,3
-Gilchrist,4A,U.S. Senate,"","",UnderVotes,7
-Gilchrist,5A,U.S. Senate,"","",UnderVotes,2
-Gilchrist,6A,U.S. Senate,"","",UnderVotes,5
-Gilchrist,7A,U.S. Senate,"","",UnderVotes,4
-Gilchrist,8A,U.S. Senate,"","",UnderVotes,6
-Gilchrist,1A,U.S. House,3,REP,Kat Cammack,569
-Gilchrist,1B,U.S. House,3,REP,Kat Cammack,251
-Gilchrist,1C,U.S. House,3,REP,Kat Cammack,111
-Gilchrist,2A,U.S. House,3,REP,Kat Cammack,1085
-Gilchrist,3A,U.S. House,3,REP,Kat Cammack,885
-Gilchrist,4A,U.S. House,3,REP,Kat Cammack,864
-Gilchrist,5A,U.S. House,3,REP,Kat Cammack,519
-Gilchrist,6A,U.S. House,3,REP,Kat Cammack,1088
-Gilchrist,7A,U.S. House,3,REP,Kat Cammack,667
-Gilchrist,8A,U.S. House,3,REP,Kat Cammack,628
-Gilchrist,1A,U.S. House,3,DEM,Danielle Hawk,83
-Gilchrist,1B,U.S. House,3,DEM,Danielle Hawk,43
-Gilchrist,1C,U.S. House,3,DEM,Danielle Hawk,58
-Gilchrist,2A,U.S. House,3,DEM,Danielle Hawk,108
-Gilchrist,3A,U.S. House,3,DEM,Danielle Hawk,114
-Gilchrist,4A,U.S. House,3,DEM,Danielle Hawk,138
-Gilchrist,5A,U.S. House,3,DEM,Danielle Hawk,80
-Gilchrist,6A,U.S. House,3,DEM,Danielle Hawk,168
-Gilchrist,7A,U.S. House,3,DEM,Danielle Hawk,131
-Gilchrist,8A,U.S. House,3,DEM,Danielle Hawk,144
-Gilchrist,1A,U.S. House,3,NPA,Linda S. Brooks,14
-Gilchrist,1B,U.S. House,3,NPA,Linda S. Brooks,5
-Gilchrist,1C,U.S. House,3,NPA,Linda S. Brooks,3
-Gilchrist,2A,U.S. House,3,NPA,Linda S. Brooks,12
-Gilchrist,3A,U.S. House,3,NPA,Linda S. Brooks,11
-Gilchrist,4A,U.S. House,3,NPA,Linda S. Brooks,18
-Gilchrist,5A,U.S. House,3,NPA,Linda S. Brooks,4
-Gilchrist,6A,U.S. House,3,NPA,Linda S. Brooks,17
-Gilchrist,7A,U.S. House,3,NPA,Linda S. Brooks,5
-Gilchrist,8A,U.S. House,3,NPA,Linda S. Brooks,8
-Gilchrist,1A,U.S. House,3,"",OverVotes,0
-Gilchrist,1B,U.S. House,3,"",OverVotes,0
-Gilchrist,1C,U.S. House,3,"",OverVotes,0
-Gilchrist,2A,U.S. House,3,"",OverVotes,0
-Gilchrist,3A,U.S. House,3,"",OverVotes,0
-Gilchrist,4A,U.S. House,3,"",OverVotes,0
-Gilchrist,5A,U.S. House,3,"",OverVotes,0
-Gilchrist,6A,U.S. House,3,"",OverVotes,0
-Gilchrist,7A,U.S. House,3,"",OverVotes,0
-Gilchrist,8A,U.S. House,3,"",OverVotes,0
-Gilchrist,1A,U.S. House,3,"",UnderVotes,5
-Gilchrist,1B,U.S. House,3,"",UnderVotes,2
-Gilchrist,1C,U.S. House,3,"",UnderVotes,2
-Gilchrist,2A,U.S. House,3,"",UnderVotes,11
-Gilchrist,3A,U.S. House,3,"",UnderVotes,4
-Gilchrist,4A,U.S. House,3,"",UnderVotes,11
-Gilchrist,5A,U.S. House,3,"",UnderVotes,2
-Gilchrist,6A,U.S. House,3,"",UnderVotes,5
-Gilchrist,7A,U.S. House,3,"",UnderVotes,9
-Gilchrist,8A,U.S. House,3,"",UnderVotes,7
-Gilchrist,1A,Governor,"",REP,DeSantis / Nuñez,583
-Gilchrist,1B,Governor,"",REP,DeSantis / Nuñez,254
-Gilchrist,1C,Governor,"",REP,DeSantis / Nuñez,113
-Gilchrist,2A,Governor,"",REP,DeSantis / Nuñez,1104
-Gilchrist,3A,Governor,"",REP,DeSantis / Nuñez,895
-Gilchrist,4A,Governor,"",REP,DeSantis / Nuñez,893
-Gilchrist,5A,Governor,"",REP,DeSantis / Nuñez,529
-Gilchrist,6A,Governor,"",REP,DeSantis / Nuñez,1106
-Gilchrist,7A,Governor,"",REP,DeSantis / Nuñez,681
-Gilchrist,8A,Governor,"",REP,DeSantis / Nuñez,648
-Gilchrist,1A,Governor,"",DEM,Crist / Hernandez,82
-Gilchrist,1B,Governor,"",DEM,Crist / Hernandez,44
-Gilchrist,1C,Governor,"",DEM,Crist / Hernandez,57
-Gilchrist,2A,Governor,"",DEM,Crist / Hernandez,106
-Gilchrist,3A,Governor,"",DEM,Crist / Hernandez,112
-Gilchrist,4A,Governor,"",DEM,Crist / Hernandez,122
-Gilchrist,5A,Governor,"",DEM,Crist / Hernandez,72
-Gilchrist,6A,Governor,"",DEM,Crist / Hernandez,168
-Gilchrist,7A,Governor,"",DEM,Crist / Hernandez,123
-Gilchrist,8A,Governor,"",DEM,Crist / Hernandez,131
-Gilchrist,1A,Governor,"",LPF,Roos / Rorabaugh,0
-Gilchrist,1B,Governor,"",LPF,Roos / Rorabaugh,1
-Gilchrist,1C,Governor,"",LPF,Roos / Rorabaugh,2
-Gilchrist,2A,Governor,"",LPF,Roos / Rorabaugh,2
-Gilchrist,3A,Governor,"",LPF,Roos / Rorabaugh,0
-Gilchrist,4A,Governor,"",LPF,Roos / Rorabaugh,4
-Gilchrist,5A,Governor,"",LPF,Roos / Rorabaugh,2
-Gilchrist,6A,Governor,"",LPF,Roos / Rorabaugh,0
-Gilchrist,7A,Governor,"",LPF,Roos / Rorabaugh,5
-Gilchrist,8A,Governor,"",LPF,Roos / Rorabaugh,2
-Gilchrist,1A,Governor,"",NPA,Gimenez / Gibson,6
-Gilchrist,1B,Governor,"",NPA,Gimenez / Gibson,0
-Gilchrist,1C,Governor,"",NPA,Gimenez / Gibson,1
-Gilchrist,2A,Governor,"",NPA,Gimenez / Gibson,0
-Gilchrist,3A,Governor,"",NPA,Gimenez / Gibson,4
-Gilchrist,4A,Governor,"",NPA,Gimenez / Gibson,7
-Gilchrist,5A,Governor,"",NPA,Gimenez / Gibson,1
-Gilchrist,6A,Governor,"",NPA,Gimenez / Gibson,4
-Gilchrist,7A,Governor,"",NPA,Gimenez / Gibson,3
-Gilchrist,8A,Governor,"",NPA,Gimenez / Gibson,1
-Gilchrist,1A,Governor,"","",OverVotes,0
-Gilchrist,1B,Governor,"","",OverVotes,0
-Gilchrist,1C,Governor,"","",OverVotes,0
-Gilchrist,2A,Governor,"","",OverVotes,0
-Gilchrist,3A,Governor,"","",OverVotes,0
-Gilchrist,4A,Governor,"","",OverVotes,0
-Gilchrist,5A,Governor,"","",OverVotes,0
-Gilchrist,6A,Governor,"","",OverVotes,0
-Gilchrist,7A,Governor,"","",OverVotes,0
-Gilchrist,8A,Governor,"","",OverVotes,0
-Gilchrist,1A,Governor,"","",UnderVotes,0
-Gilchrist,1B,Governor,"","",UnderVotes,2
-Gilchrist,1C,Governor,"","",UnderVotes,1
-Gilchrist,2A,Governor,"","",UnderVotes,4
-Gilchrist,3A,Governor,"","",UnderVotes,3
-Gilchrist,4A,Governor,"","",UnderVotes,5
-Gilchrist,5A,Governor,"","",UnderVotes,1
-Gilchrist,6A,Governor,"","",UnderVotes,0
-Gilchrist,7A,Governor,"","",UnderVotes,0
-Gilchrist,8A,Governor,"","",UnderVotes,5
-Gilchrist,1A,Attorney General,"",REP,Ashley Moody,585
-Gilchrist,1B,Attorney General,"",REP,Ashley Moody,260
-Gilchrist,1C,Attorney General,"",REP,Ashley Moody,117
-Gilchrist,2A,Attorney General,"",REP,Ashley Moody,1106
-Gilchrist,3A,Attorney General,"",REP,Ashley Moody,894
-Gilchrist,4A,Attorney General,"",REP,Ashley Moody,892
-Gilchrist,5A,Attorney General,"",REP,Ashley Moody,533
-Gilchrist,6A,Attorney General,"",REP,Ashley Moody,1092
-Gilchrist,7A,Attorney General,"",REP,Ashley Moody,683
-Gilchrist,8A,Attorney General,"",REP,Ashley Moody,650
-Gilchrist,1A,Attorney General,"",DEM,Aramis Ayala,79
-Gilchrist,1B,Attorney General,"",DEM,Aramis Ayala,40
-Gilchrist,1C,Attorney General,"",DEM,Aramis Ayala,56
-Gilchrist,2A,Attorney General,"",DEM,Aramis Ayala,98
-Gilchrist,3A,Attorney General,"",DEM,Aramis Ayala,105
-Gilchrist,4A,Attorney General,"",DEM,Aramis Ayala,124
-Gilchrist,5A,Attorney General,"",DEM,Aramis Ayala,68
-Gilchrist,6A,Attorney General,"",DEM,Aramis Ayala,166
-Gilchrist,7A,Attorney General,"",DEM,Aramis Ayala,121
-Gilchrist,8A,Attorney General,"",DEM,Aramis Ayala,131
-Gilchrist,1A,Attorney General,"","",OverVotes,0
-Gilchrist,1B,Attorney General,"","",OverVotes,0
-Gilchrist,1C,Attorney General,"","",OverVotes,0
-Gilchrist,2A,Attorney General,"","",OverVotes,0
-Gilchrist,3A,Attorney General,"","",OverVotes,1
-Gilchrist,4A,Attorney General,"","",OverVotes,1
-Gilchrist,5A,Attorney General,"","",OverVotes,0
-Gilchrist,6A,Attorney General,"","",OverVotes,0
-Gilchrist,7A,Attorney General,"","",OverVotes,0
-Gilchrist,8A,Attorney General,"","",OverVotes,0
-Gilchrist,1A,Attorney General,"","",UnderVotes,7
-Gilchrist,1B,Attorney General,"","",UnderVotes,1
-Gilchrist,1C,Attorney General,"","",UnderVotes,1
-Gilchrist,2A,Attorney General,"","",UnderVotes,12
-Gilchrist,3A,Attorney General,"","",UnderVotes,14
-Gilchrist,4A,Attorney General,"","",UnderVotes,14
-Gilchrist,5A,Attorney General,"","",UnderVotes,4
-Gilchrist,6A,Attorney General,"","",UnderVotes,20
-Gilchrist,7A,Attorney General,"","",UnderVotes,8
-Gilchrist,8A,Attorney General,"","",UnderVotes,6
-Gilchrist,1A,Chief Financial Officer,"",REP,Jimmy Patronis,564
-Gilchrist,1B,Chief Financial Officer,"",REP,Jimmy Patronis,248
-Gilchrist,1C,Chief Financial Officer,"",REP,Jimmy Patronis,104
-Gilchrist,2A,Chief Financial Officer,"",REP,Jimmy Patronis,1076
-Gilchrist,3A,Chief Financial Officer,"",REP,Jimmy Patronis,861
-Gilchrist,4A,Chief Financial Officer,"",REP,Jimmy Patronis,855
-Gilchrist,5A,Chief Financial Officer,"",REP,Jimmy Patronis,512
-Gilchrist,6A,Chief Financial Officer,"",REP,Jimmy Patronis,1060
-Gilchrist,7A,Chief Financial Officer,"",REP,Jimmy Patronis,655
-Gilchrist,8A,Chief Financial Officer,"",REP,Jimmy Patronis,616
-Gilchrist,1A,Chief Financial Officer,"",DEM,Adam Hattersley,84
-Gilchrist,1B,Chief Financial Officer,"",DEM,Adam Hattersley,48
-Gilchrist,1C,Chief Financial Officer,"",DEM,Adam Hattersley,62
-Gilchrist,2A,Chief Financial Officer,"",DEM,Adam Hattersley,106
-Gilchrist,3A,Chief Financial Officer,"",DEM,Adam Hattersley,118
-Gilchrist,4A,Chief Financial Officer,"",DEM,Adam Hattersley,140
-Gilchrist,5A,Chief Financial Officer,"",DEM,Adam Hattersley,81
-Gilchrist,6A,Chief Financial Officer,"",DEM,Adam Hattersley,172
-Gilchrist,7A,Chief Financial Officer,"",DEM,Adam Hattersley,125
-Gilchrist,8A,Chief Financial Officer,"",DEM,Adam Hattersley,145
-Gilchrist,1A,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,1B,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,1C,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,2A,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,3A,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,4A,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,5A,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,6A,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,7A,Chief Financial Officer,"","",OverVotes,0
-Gilchrist,8A,Chief Financial Officer,"","",OverVotes,1
-Gilchrist,1A,Chief Financial Officer,"","",UnderVotes,23
-Gilchrist,1B,Chief Financial Officer,"","",UnderVotes,5
-Gilchrist,1C,Chief Financial Officer,"","",UnderVotes,8
-Gilchrist,2A,Chief Financial Officer,"","",UnderVotes,34
-Gilchrist,3A,Chief Financial Officer,"","",UnderVotes,35
-Gilchrist,4A,Chief Financial Officer,"","",UnderVotes,36
-Gilchrist,5A,Chief Financial Officer,"","",UnderVotes,12
-Gilchrist,6A,Chief Financial Officer,"","",UnderVotes,46
-Gilchrist,7A,Chief Financial Officer,"","",UnderVotes,32
-Gilchrist,8A,Chief Financial Officer,"","",UnderVotes,25
-Gilchrist,1A,Commissioner of Agriculture,"",REP,Wilton Simpson,577
-Gilchrist,1B,Commissioner of Agriculture,"",REP,Wilton Simpson,256
-Gilchrist,1C,Commissioner of Agriculture,"",REP,Wilton Simpson,113
-Gilchrist,2A,Commissioner of Agriculture,"",REP,Wilton Simpson,1094
-Gilchrist,3A,Commissioner of Agriculture,"",REP,Wilton Simpson,884
-Gilchrist,4A,Commissioner of Agriculture,"",REP,Wilton Simpson,879
-Gilchrist,5A,Commissioner of Agriculture,"",REP,Wilton Simpson,523
-Gilchrist,6A,Commissioner of Agriculture,"",REP,Wilton Simpson,1087
-Gilchrist,7A,Commissioner of Agriculture,"",REP,Wilton Simpson,682
-Gilchrist,8A,Commissioner of Agriculture,"",REP,Wilton Simpson,641
-Gilchrist,1A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,81
-Gilchrist,1B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,43
-Gilchrist,1C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,55
-Gilchrist,2A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,107
-Gilchrist,3A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,113
-Gilchrist,4A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,130
-Gilchrist,5A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,76
-Gilchrist,6A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,164
-Gilchrist,7A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,122
-Gilchrist,8A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,135
-Gilchrist,1A,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,1B,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,1C,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,2A,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,3A,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,4A,Commissioner of Agriculture,"","",OverVotes,1
-Gilchrist,5A,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,6A,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,7A,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,8A,Commissioner of Agriculture,"","",OverVotes,0
-Gilchrist,1A,Commissioner of Agriculture,"","",UnderVotes,13
-Gilchrist,1B,Commissioner of Agriculture,"","",UnderVotes,2
-Gilchrist,1C,Commissioner of Agriculture,"","",UnderVotes,6
-Gilchrist,2A,Commissioner of Agriculture,"","",UnderVotes,15
-Gilchrist,3A,Commissioner of Agriculture,"","",UnderVotes,17
-Gilchrist,4A,Commissioner of Agriculture,"","",UnderVotes,21
-Gilchrist,5A,Commissioner of Agriculture,"","",UnderVotes,6
-Gilchrist,6A,Commissioner of Agriculture,"","",UnderVotes,27
-Gilchrist,7A,Commissioner of Agriculture,"","",UnderVotes,8
-Gilchrist,8A,Commissioner of Agriculture,"","",UnderVotes,11
-Gilchrist,1A,State House,22,REP,Chuck Clemons,582
-Gilchrist,1B,State House,22,REP,Chuck Clemons,255
-Gilchrist,1C,State House,22,REP,Chuck Clemons,113
-Gilchrist,2A,State House,22,REP,Chuck Clemons,1094
-Gilchrist,3A,State House,22,REP,Chuck Clemons,892
-Gilchrist,4A,State House,22,REP,Chuck Clemons,885
-Gilchrist,5A,State House,22,REP,Chuck Clemons,526
-Gilchrist,6A,State House,22,REP,Chuck Clemons,1088
-Gilchrist,7A,State House,22,REP,Chuck Clemons,685
-Gilchrist,8A,State House,22,REP,Chuck Clemons,646
-Gilchrist,1A,State House,22,DEM,Brandon Peters,81
-Gilchrist,1B,State House,22,DEM,Brandon Peters,42
-Gilchrist,1C,State House,22,DEM,Brandon Peters,59
-Gilchrist,2A,State House,22,DEM,Brandon Peters,107
-Gilchrist,3A,State House,22,DEM,Brandon Peters,113
-Gilchrist,4A,State House,22,DEM,Brandon Peters,128
-Gilchrist,5A,State House,22,DEM,Brandon Peters,74
-Gilchrist,6A,State House,22,DEM,Brandon Peters,169
-Gilchrist,7A,State House,22,DEM,Brandon Peters,118
-Gilchrist,8A,State House,22,DEM,Brandon Peters,131
-Gilchrist,1A,State House,22,"",OverVotes,0
-Gilchrist,1B,State House,22,"",OverVotes,0
-Gilchrist,1C,State House,22,"",OverVotes,0
-Gilchrist,2A,State House,22,"",OverVotes,0
-Gilchrist,3A,State House,22,"",OverVotes,0
-Gilchrist,4A,State House,22,"",OverVotes,0
-Gilchrist,5A,State House,22,"",OverVotes,0
-Gilchrist,6A,State House,22,"",OverVotes,0
-Gilchrist,7A,State House,22,"",OverVotes,0
-Gilchrist,8A,State House,22,"",OverVotes,0
-Gilchrist,1A,State House,22,"",UnderVotes,8
-Gilchrist,1B,State House,22,"",UnderVotes,4
-Gilchrist,1C,State House,22,"",UnderVotes,2
-Gilchrist,2A,State House,22,"",UnderVotes,15
-Gilchrist,3A,State House,22,"",UnderVotes,9
-Gilchrist,4A,State House,22,"",UnderVotes,18
-Gilchrist,5A,State House,22,"",UnderVotes,5
-Gilchrist,6A,State House,22,"",UnderVotes,21
-Gilchrist,7A,State House,22,"",UnderVotes,9
-Gilchrist,8A,State House,22,"",UnderVotes,10
-Gilchrist,1A,County Commissioner,4,REP,Tommy Langford,560
-Gilchrist,1B,County Commissioner,4,REP,Tommy Langford,255
-Gilchrist,1C,County Commissioner,4,REP,Tommy Langford,134
-Gilchrist,2A,County Commissioner,4,REP,Tommy Langford,1024
-Gilchrist,3A,County Commissioner,4,REP,Tommy Langford,784
-Gilchrist,4A,County Commissioner,4,REP,Tommy Langford,765
-Gilchrist,5A,County Commissioner,4,REP,Tommy Langford,492
-Gilchrist,6A,County Commissioner,4,REP,Tommy Langford,1064
-Gilchrist,7A,County Commissioner,4,REP,Tommy Langford,675
-Gilchrist,8A,County Commissioner,4,REP,Tommy Langford,656
-Gilchrist,1A,County Commissioner,4,"",WriteinVotes,64
-Gilchrist,1B,County Commissioner,4,"",WriteinVotes,25
-Gilchrist,1C,County Commissioner,4,"",WriteinVotes,16
-Gilchrist,2A,County Commissioner,4,"",WriteinVotes,101
-Gilchrist,3A,County Commissioner,4,"",WriteinVotes,150
-Gilchrist,4A,County Commissioner,4,"",WriteinVotes,180
-Gilchrist,5A,County Commissioner,4,"",WriteinVotes,62
-Gilchrist,6A,County Commissioner,4,"",WriteinVotes,122
-Gilchrist,7A,County Commissioner,4,"",WriteinVotes,59
-Gilchrist,8A,County Commissioner,4,"",WriteinVotes,50
-Gilchrist,1A,County Commissioner,4,"",OverVotes,0
-Gilchrist,1B,County Commissioner,4,"",OverVotes,0
-Gilchrist,1C,County Commissioner,4,"",OverVotes,0
-Gilchrist,2A,County Commissioner,4,"",OverVotes,0
-Gilchrist,3A,County Commissioner,4,"",OverVotes,1
-Gilchrist,4A,County Commissioner,4,"",OverVotes,0
-Gilchrist,5A,County Commissioner,4,"",OverVotes,0
-Gilchrist,6A,County Commissioner,4,"",OverVotes,0
-Gilchrist,7A,County Commissioner,4,"",OverVotes,0
-Gilchrist,8A,County Commissioner,4,"",OverVotes,0
-Gilchrist,1A,County Commissioner,4,"",UnderVotes,47
-Gilchrist,1B,County Commissioner,4,"",UnderVotes,21
-Gilchrist,1C,County Commissioner,4,"",UnderVotes,24
-Gilchrist,2A,County Commissioner,4,"",UnderVotes,91
-Gilchrist,3A,County Commissioner,4,"",UnderVotes,79
-Gilchrist,4A,County Commissioner,4,"",UnderVotes,86
-Gilchrist,5A,County Commissioner,4,"",UnderVotes,51
-Gilchrist,6A,County Commissioner,4,"",UnderVotes,92
-Gilchrist,7A,County Commissioner,4,"",UnderVotes,78
-Gilchrist,8A,County Commissioner,4,"",UnderVotes,81
-Gilchrist,1A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,407
-Gilchrist,1B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,168
-Gilchrist,1C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,110
-Gilchrist,2A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,804
-Gilchrist,3A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,572
-Gilchrist,4A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,655
-Gilchrist,5A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,386
-Gilchrist,6A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,789
-Gilchrist,7A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,492
-Gilchrist,8A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,494
-Gilchrist,1A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,206
-Gilchrist,1B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,102
-Gilchrist,1C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,46
-Gilchrist,2A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,297
-Gilchrist,3A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,335
-Gilchrist,4A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,302
-Gilchrist,5A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,163
-Gilchrist,6A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,357
-Gilchrist,7A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,219
-Gilchrist,8A,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,212
-Gilchrist,1A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Gilchrist,1B,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1C,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Gilchrist,2A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
-Gilchrist,3A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Gilchrist,4A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,5A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,6A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
-Gilchrist,7A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
-Gilchrist,8A,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,57
-Gilchrist,1B,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,31
-Gilchrist,1C,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,17
-Gilchrist,2A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,113
-Gilchrist,3A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,106
-Gilchrist,4A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,74
-Gilchrist,5A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,56
-Gilchrist,6A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,131
-Gilchrist,7A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,99
-Gilchrist,8A,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,81
-Gilchrist,1A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,441
-Gilchrist,1B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,177
-Gilchrist,1C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,113
-Gilchrist,2A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,824
-Gilchrist,3A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,614
-Gilchrist,4A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,670
-Gilchrist,5A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,406
-Gilchrist,6A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,811
-Gilchrist,7A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,505
-Gilchrist,8A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,513
-Gilchrist,1A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,174
-Gilchrist,1B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,90
-Gilchrist,1C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,43
-Gilchrist,2A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,271
-Gilchrist,3A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,290
-Gilchrist,4A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,280
-Gilchrist,5A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,138
-Gilchrist,6A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,331
-Gilchrist,7A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,204
-Gilchrist,8A,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,187
-Gilchrist,1A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1B,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1C,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,2A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,3A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,4A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,5A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,6A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,7A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,8A,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,56
-Gilchrist,1B,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,34
-Gilchrist,1C,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,18
-Gilchrist,2A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,121
-Gilchrist,3A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,110
-Gilchrist,4A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,81
-Gilchrist,5A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,61
-Gilchrist,6A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,136
-Gilchrist,7A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,103
-Gilchrist,8A,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,87
-Gilchrist,1A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,442
-Gilchrist,1B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,180
-Gilchrist,1C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,112
-Gilchrist,2A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,819
-Gilchrist,3A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,604
-Gilchrist,4A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,668
-Gilchrist,5A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,410
-Gilchrist,6A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,814
-Gilchrist,7A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,509
-Gilchrist,8A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,511
-Gilchrist,1A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,172
-Gilchrist,1B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,87
-Gilchrist,1C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,44
-Gilchrist,2A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,277
-Gilchrist,3A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,292
-Gilchrist,4A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,282
-Gilchrist,5A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,137
-Gilchrist,6A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,327
-Gilchrist,7A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,198
-Gilchrist,8A,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,187
-Gilchrist,1A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,2A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,3A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,4A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,5A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,6A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,7A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
-Gilchrist,8A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,57
-Gilchrist,1B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,34
-Gilchrist,1C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,18
-Gilchrist,2A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,120
-Gilchrist,3A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,118
-Gilchrist,4A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,81
-Gilchrist,5A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,58
-Gilchrist,6A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,137
-Gilchrist,7A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,104
-Gilchrist,8A,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,89
-Gilchrist,1A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,316
-Gilchrist,1B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,136
-Gilchrist,1C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,85
-Gilchrist,2A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,569
-Gilchrist,3A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,444
-Gilchrist,4A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,523
-Gilchrist,5A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,289
-Gilchrist,6A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,601
-Gilchrist,7A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,383
-Gilchrist,8A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,411
-Gilchrist,1A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,297
-Gilchrist,1B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,129
-Gilchrist,1C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,71
-Gilchrist,2A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,526
-Gilchrist,3A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,455
-Gilchrist,4A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,423
-Gilchrist,5A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,254
-Gilchrist,6A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,537
-Gilchrist,7A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,324
-Gilchrist,8A,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,282
-Gilchrist,1A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1B,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1C,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,2A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,3A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,4A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,5A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,6A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,7A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,8A,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
-Gilchrist,1A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,58
-Gilchrist,1B,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,36
-Gilchrist,1C,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,18
-Gilchrist,2A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,121
-Gilchrist,3A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,115
-Gilchrist,4A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,85
-Gilchrist,5A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,62
-Gilchrist,6A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,140
-Gilchrist,7A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,105
-Gilchrist,8A,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,92
-Gilchrist,1A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,384
-Gilchrist,1B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,145
-Gilchrist,1C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,109
-Gilchrist,2A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,737
-Gilchrist,3A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,546
-Gilchrist,4A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,616
-Gilchrist,5A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,365
-Gilchrist,6A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,752
-Gilchrist,7A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,466
-Gilchrist,8A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,457
-Gilchrist,1A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,229
-Gilchrist,1B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,123
-Gilchrist,1C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,47
-Gilchrist,2A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,356
-Gilchrist,3A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,349
-Gilchrist,4A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,331
-Gilchrist,5A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,182
-Gilchrist,6A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,388
-Gilchrist,7A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,242
-Gilchrist,8A,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,241
-Gilchrist,1A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1B,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1C,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,2A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
-Gilchrist,3A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,4A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,5A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,6A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,7A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
-Gilchrist,8A,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
-Gilchrist,1A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,58
-Gilchrist,1B,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,33
-Gilchrist,1C,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,18
-Gilchrist,2A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,122
-Gilchrist,3A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,119
-Gilchrist,4A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,84
-Gilchrist,5A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,58
-Gilchrist,6A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,138
-Gilchrist,7A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,103
-Gilchrist,8A,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,89
-Gilchrist,1A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,404
-Gilchrist,1B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,161
-Gilchrist,1C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,105
-Gilchrist,2A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,785
-Gilchrist,3A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,576
-Gilchrist,4A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,629
-Gilchrist,5A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,387
-Gilchrist,6A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,760
-Gilchrist,7A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,484
-Gilchrist,8A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,478
-Gilchrist,1A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,184
-Gilchrist,1B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,98
-Gilchrist,1C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,48
-Gilchrist,2A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,300
-Gilchrist,3A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,315
-Gilchrist,4A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,308
-Gilchrist,5A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,151
-Gilchrist,6A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,358
-Gilchrist,7A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,215
-Gilchrist,8A,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,205
-Gilchrist,1A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
-Gilchrist,1B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,2A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,3A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,4A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,5A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,6A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,7A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,8A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,82
-Gilchrist,1B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,42
-Gilchrist,1C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,21
-Gilchrist,2A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,131
-Gilchrist,3A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,123
-Gilchrist,4A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,94
-Gilchrist,5A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,67
-Gilchrist,6A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,160
-Gilchrist,7A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,113
-Gilchrist,8A,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,104
-Gilchrist,1A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,416
-Gilchrist,1B,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,162
-Gilchrist,1C,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,106
-Gilchrist,2A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,794
-Gilchrist,3A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,572
-Gilchrist,4A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,650
-Gilchrist,5A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,398
-Gilchrist,6A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,770
-Gilchrist,7A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,485
-Gilchrist,8A,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,486
-Gilchrist,1A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,171
-Gilchrist,1B,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,95
-Gilchrist,1C,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,47
-Gilchrist,2A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,287
-Gilchrist,3A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,317
-Gilchrist,4A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,284
-Gilchrist,5A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,139
-Gilchrist,6A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,343
-Gilchrist,7A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,212
-Gilchrist,8A,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,196
-Gilchrist,1A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1B,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1C,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,2A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,3A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,4A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,5A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,6A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,7A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,8A,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,84
-Gilchrist,1B,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,44
-Gilchrist,1C,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,21
-Gilchrist,2A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,135
-Gilchrist,3A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,125
-Gilchrist,4A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,97
-Gilchrist,5A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,68
-Gilchrist,6A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,165
-Gilchrist,7A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,115
-Gilchrist,8A,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,105
-Gilchrist,1A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,426
-Gilchrist,1B,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,168
-Gilchrist,1C,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,103
-Gilchrist,2A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,816
-Gilchrist,3A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,605
-Gilchrist,4A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,678
-Gilchrist,5A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,404
-Gilchrist,6A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,798
-Gilchrist,7A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,501
-Gilchrist,8A,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,503
-Gilchrist,1A,Retention of Bobby Long,First District Court of Appeal,NOP,No,160
-Gilchrist,1B,Retention of Bobby Long,First District Court of Appeal,NOP,No,92
-Gilchrist,1C,Retention of Bobby Long,First District Court of Appeal,NOP,No,49
-Gilchrist,2A,Retention of Bobby Long,First District Court of Appeal,NOP,No,265
-Gilchrist,3A,Retention of Bobby Long,First District Court of Appeal,NOP,No,281
-Gilchrist,4A,Retention of Bobby Long,First District Court of Appeal,NOP,No,256
-Gilchrist,5A,Retention of Bobby Long,First District Court of Appeal,NOP,No,131
-Gilchrist,6A,Retention of Bobby Long,First District Court of Appeal,NOP,No,320
-Gilchrist,7A,Retention of Bobby Long,First District Court of Appeal,NOP,No,193
-Gilchrist,8A,Retention of Bobby Long,First District Court of Appeal,NOP,No,180
-Gilchrist,1A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1B,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1C,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,2A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,3A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
-Gilchrist,4A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,5A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,6A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,7A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,8A,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,85
-Gilchrist,1B,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,41
-Gilchrist,1C,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,22
-Gilchrist,2A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,135
-Gilchrist,3A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,127
-Gilchrist,4A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,97
-Gilchrist,5A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,70
-Gilchrist,6A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,160
-Gilchrist,7A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,118
-Gilchrist,8A,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,104
-Gilchrist,1A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,373
-Gilchrist,1B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,160
-Gilchrist,1C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,101
-Gilchrist,2A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,726
-Gilchrist,3A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,527
-Gilchrist,4A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,590
-Gilchrist,5A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,370
-Gilchrist,6A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,716
-Gilchrist,7A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,470
-Gilchrist,8A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,468
-Gilchrist,1A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,214
-Gilchrist,1B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,100
-Gilchrist,1C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,52
-Gilchrist,2A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,351
-Gilchrist,3A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,359
-Gilchrist,4A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,339
-Gilchrist,5A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,166
-Gilchrist,6A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,400
-Gilchrist,7A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,228
-Gilchrist,8A,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,214
-Gilchrist,1A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1B,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1C,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,2A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,3A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,4A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
-Gilchrist,5A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,6A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,7A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,8A,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,84
-Gilchrist,1B,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,41
-Gilchrist,1C,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,21
-Gilchrist,2A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,139
-Gilchrist,3A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,128
-Gilchrist,4A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,101
-Gilchrist,5A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,69
-Gilchrist,6A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,162
-Gilchrist,7A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,114
-Gilchrist,8A,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,105
-Gilchrist,1A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,404
-Gilchrist,1B,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,160
-Gilchrist,1C,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,99
-Gilchrist,2A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,786
-Gilchrist,3A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,572
-Gilchrist,4A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,621
-Gilchrist,5A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,394
-Gilchrist,6A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,762
-Gilchrist,7A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,480
-Gilchrist,8A,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,476
-Gilchrist,1A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,178
-Gilchrist,1B,Retention of Bo Winokur,First District Court of Appeal,NOP,No,98
-Gilchrist,1C,Retention of Bo Winokur,First District Court of Appeal,NOP,No,53
-Gilchrist,2A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,291
-Gilchrist,3A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,312
-Gilchrist,4A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,311
-Gilchrist,5A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,138
-Gilchrist,6A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,346
-Gilchrist,7A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,217
-Gilchrist,8A,Retention of Bo Winokur,First District Court of Appeal,NOP,No,201
-Gilchrist,1A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1B,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1C,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,2A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,3A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,4A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,5A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,6A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,7A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,8A,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
-Gilchrist,1A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,89
-Gilchrist,1B,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,43
-Gilchrist,1C,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,22
-Gilchrist,2A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,139
-Gilchrist,3A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,130
-Gilchrist,4A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,99
-Gilchrist,5A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,73
-Gilchrist,6A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,170
-Gilchrist,7A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,115
-Gilchrist,8A,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,110
-Gilchrist,1A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,538
-Gilchrist,1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,236
-Gilchrist,1C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,121
-Gilchrist,2A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1002
-Gilchrist,3A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,797
-Gilchrist,4A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,806
-Gilchrist,5A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,466
-Gilchrist,6A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1007
-Gilchrist,7A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,622
-Gilchrist,8A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,605
-Gilchrist,1A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,64
-Gilchrist,1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,31
-Gilchrist,1C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,35
-Gilchrist,2A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,87
-Gilchrist,3A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,102
-Gilchrist,4A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,133
-Gilchrist,5A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,72
-Gilchrist,6A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,117
-Gilchrist,7A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,92
-Gilchrist,8A,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,98
-Gilchrist,1A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,1B,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,1C,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,2A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,3A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,1
-Gilchrist,4A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,5A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,6A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,7A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,8A,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
-Gilchrist,1A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,69
-Gilchrist,1B,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,34
-Gilchrist,1C,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,18
-Gilchrist,2A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,127
-Gilchrist,3A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,114
-Gilchrist,4A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,92
-Gilchrist,5A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,67
-Gilchrist,6A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,154
-Gilchrist,7A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,98
-Gilchrist,8A,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,84
-Gilchrist,1A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,332
-Gilchrist,1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,146
-Gilchrist,1C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,83
-Gilchrist,2A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,678
-Gilchrist,3A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,531
-Gilchrist,4A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,525
-Gilchrist,5A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,324
-Gilchrist,6A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,660
-Gilchrist,7A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,421
-Gilchrist,8A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,428
-Gilchrist,1A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,290
-Gilchrist,1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,125
-Gilchrist,1C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,79
-Gilchrist,2A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,468
-Gilchrist,3A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,417
-Gilchrist,4A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,464
-Gilchrist,5A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,252
-Gilchrist,6A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,524
-Gilchrist,7A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,333
-Gilchrist,8A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,308
-Gilchrist,1A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gilchrist,1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gilchrist,1C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gilchrist,2A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gilchrist,3A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gilchrist,4A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gilchrist,5A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gilchrist,6A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gilchrist,7A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
-Gilchrist,8A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
-Gilchrist,1A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,49
-Gilchrist,1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,30
-Gilchrist,1C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,11
-Gilchrist,2A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,70
-Gilchrist,3A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,65
-Gilchrist,4A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,42
-Gilchrist,5A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
-Gilchrist,6A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,94
-Gilchrist,7A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,58
-Gilchrist,8A,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,50
-Gilchrist,1A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,329
-Gilchrist,1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,150
-Gilchrist,1C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,101
-Gilchrist,2A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,675
-Gilchrist,3A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,554
-Gilchrist,4A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,528
-Gilchrist,5A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,310
-Gilchrist,6A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,675
-Gilchrist,7A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,442
-Gilchrist,8A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,404
-Gilchrist,1A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,297
-Gilchrist,1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,119
-Gilchrist,1C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,60
-Gilchrist,2A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,465
-Gilchrist,3A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,392
-Gilchrist,4A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,444
-Gilchrist,5A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,259
-Gilchrist,6A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,500
-Gilchrist,7A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,306
-Gilchrist,8A,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,322
-Gilchrist,1A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,1C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,2A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,2
-Gilchrist,3A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,4A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,5A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,6A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
-Gilchrist,7A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,8A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
-Gilchrist,1A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,45
-Gilchrist,1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,32
-Gilchrist,1C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,13
-Gilchrist,2A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,74
-Gilchrist,3A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,68
-Gilchrist,4A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,59
-Gilchrist,5A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,36
-Gilchrist,6A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,102
-Gilchrist,7A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,64
-Gilchrist,8A,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,61
-Gilchrist,1A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,354
-Gilchrist,1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,187
-Gilchrist,1C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,97
-Gilchrist,2A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,661
-Gilchrist,3A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,529
-Gilchrist,4A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,548
-Gilchrist,5A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,317
-Gilchrist,6A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,649
-Gilchrist,7A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,431
-Gilchrist,8A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,443
-Gilchrist,1A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,284
-Gilchrist,1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,98
-Gilchrist,1C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,67
-Gilchrist,2A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,503
-Gilchrist,3A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,444
-Gilchrist,4A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,459
-Gilchrist,5A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,271
-Gilchrist,6A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,568
-Gilchrist,7A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,348
-Gilchrist,8A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,309
-Gilchrist,1A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Gilchrist,1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gilchrist,1C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gilchrist,2A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gilchrist,3A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Gilchrist,4A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gilchrist,5A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gilchrist,6A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
-Gilchrist,7A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gilchrist,8A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
-Gilchrist,1A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,32
-Gilchrist,1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,16
-Gilchrist,1C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,10
-Gilchrist,2A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,52
-Gilchrist,3A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,40
-Gilchrist,4A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,24
-Gilchrist,5A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,17
-Gilchrist,6A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,60
-Gilchrist,7A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,33
-Gilchrist,8A,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,35
+Gilchrist,1A Trenton Center,U.S. Senate,"",REP,Marco Rubio,570
+Gilchrist,1B County Library,U.S. Senate,"",REP,Marco Rubio,254
+Gilchrist,1C County Library,U.S. Senate,"",REP,Marco Rubio,109
+Gilchrist,2A Donnie Center,U.S. Senate,"",REP,Marco Rubio,1084
+Gilchrist,3A Bell Community Center,U.S. Senate,"",REP,Marco Rubio,880
+Gilchrist,4A Cruse Center,U.S. Senate,"",REP,Marco Rubio,869
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",REP,Marco Rubio,514
+Gilchrist,6A Osteen Center,U.S. Senate,"",REP,Marco Rubio,1084
+Gilchrist,7A Osceola Center,U.S. Senate,"",REP,Marco Rubio,667
+Gilchrist,8A Southeast Center,U.S. Senate,"",REP,Marco Rubio,626
+Gilchrist,1A Trenton Center,U.S. Senate,"",DEM,Val Demings,92
+Gilchrist,1B County Library,U.S. Senate,"",DEM,Val Demings,43
+Gilchrist,1C County Library,U.S. Senate,"",DEM,Val Demings,61
+Gilchrist,2A Donnie Center,U.S. Senate,"",DEM,Val Demings,115
+Gilchrist,3A Bell Community Center,U.S. Senate,"",DEM,Val Demings,118
+Gilchrist,4A Cruse Center,U.S. Senate,"",DEM,Val Demings,136
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",DEM,Val Demings,81
+Gilchrist,6A Osteen Center,U.S. Senate,"",DEM,Val Demings,171
+Gilchrist,7A Osceola Center,U.S. Senate,"",DEM,Val Demings,129
+Gilchrist,8A Southeast Center,U.S. Senate,"",DEM,Val Demings,141
+Gilchrist,1A Trenton Center,U.S. Senate,"",LPF,Dennis Misigoy,0
+Gilchrist,1B County Library,U.S. Senate,"",LPF,Dennis Misigoy,0
+Gilchrist,1C County Library,U.S. Senate,"",LPF,Dennis Misigoy,1
+Gilchrist,2A Donnie Center,U.S. Senate,"",LPF,Dennis Misigoy,5
+Gilchrist,3A Bell Community Center,U.S. Senate,"",LPF,Dennis Misigoy,4
+Gilchrist,4A Cruse Center,U.S. Senate,"",LPF,Dennis Misigoy,7
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,5
+Gilchrist,6A Osteen Center,U.S. Senate,"",LPF,Dennis Misigoy,5
+Gilchrist,7A Osceola Center,U.S. Senate,"",LPF,Dennis Misigoy,5
+Gilchrist,8A Southeast Center,U.S. Senate,"",LPF,Dennis Misigoy,8
+Gilchrist,1A Trenton Center,U.S. Senate,"",NPA,Steven B. Grant,6
+Gilchrist,1B County Library,U.S. Senate,"",NPA,Steven B. Grant,0
+Gilchrist,1C County Library,U.S. Senate,"",NPA,Steven B. Grant,2
+Gilchrist,2A Donnie Center,U.S. Senate,"",NPA,Steven B. Grant,3
+Gilchrist,3A Bell Community Center,U.S. Senate,"",NPA,Steven B. Grant,6
+Gilchrist,4A Cruse Center,U.S. Senate,"",NPA,Steven B. Grant,8
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",NPA,Steven B. Grant,3
+Gilchrist,6A Osteen Center,U.S. Senate,"",NPA,Steven B. Grant,9
+Gilchrist,7A Osceola Center,U.S. Senate,"",NPA,Steven B. Grant,5
+Gilchrist,8A Southeast Center,U.S. Senate,"",NPA,Steven B. Grant,5
+Gilchrist,1A Trenton Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gilchrist,1B County Library,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Gilchrist,1C County Library,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Gilchrist,2A Donnie Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Gilchrist,3A Bell Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gilchrist,4A Cruse Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,4
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Gilchrist,6A Osteen Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gilchrist,7A Osceola Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gilchrist,8A Southeast Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Gilchrist,1A Trenton Center,U.S. Senate,"","",WriteinVotes,0
+Gilchrist,1B County Library,U.S. Senate,"","",WriteinVotes,0
+Gilchrist,1C County Library,U.S. Senate,"","",WriteinVotes,0
+Gilchrist,2A Donnie Center,U.S. Senate,"","",WriteinVotes,0
+Gilchrist,3A Bell Community Center,U.S. Senate,"","",WriteinVotes,2
+Gilchrist,4A Cruse Center,U.S. Senate,"","",WriteinVotes,0
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"","",WriteinVotes,0
+Gilchrist,6A Osteen Center,U.S. Senate,"","",WriteinVotes,3
+Gilchrist,7A Osceola Center,U.S. Senate,"","",WriteinVotes,1
+Gilchrist,8A Southeast Center,U.S. Senate,"","",WriteinVotes,0
+Gilchrist,1A Trenton Center,U.S. Senate,"","",OverVotes,0
+Gilchrist,1B County Library,U.S. Senate,"","",OverVotes,0
+Gilchrist,1C County Library,U.S. Senate,"","",OverVotes,0
+Gilchrist,2A Donnie Center,U.S. Senate,"","",OverVotes,0
+Gilchrist,3A Bell Community Center,U.S. Senate,"","",OverVotes,0
+Gilchrist,4A Cruse Center,U.S. Senate,"","",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"","",OverVotes,0
+Gilchrist,6A Osteen Center,U.S. Senate,"","",OverVotes,0
+Gilchrist,7A Osceola Center,U.S. Senate,"","",OverVotes,0
+Gilchrist,8A Southeast Center,U.S. Senate,"","",OverVotes,0
+Gilchrist,1A Trenton Center,U.S. Senate,"","",UnderVotes,2
+Gilchrist,1B County Library,U.S. Senate,"","",UnderVotes,2
+Gilchrist,1C County Library,U.S. Senate,"","",UnderVotes,1
+Gilchrist,2A Donnie Center,U.S. Senate,"","",UnderVotes,6
+Gilchrist,3A Bell Community Center,U.S. Senate,"","",UnderVotes,3
+Gilchrist,4A Cruse Center,U.S. Senate,"","",UnderVotes,7
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"","",UnderVotes,2
+Gilchrist,6A Osteen Center,U.S. Senate,"","",UnderVotes,5
+Gilchrist,7A Osceola Center,U.S. Senate,"","",UnderVotes,4
+Gilchrist,8A Southeast Center,U.S. Senate,"","",UnderVotes,6
+Gilchrist,1A Trenton Center,U.S. House,3,REP,Kat Cammack,569
+Gilchrist,1B County Library,U.S. House,3,REP,Kat Cammack,251
+Gilchrist,1C County Library,U.S. House,3,REP,Kat Cammack,111
+Gilchrist,2A Donnie Center,U.S. House,3,REP,Kat Cammack,1085
+Gilchrist,3A Bell Community Center,U.S. House,3,REP,Kat Cammack,885
+Gilchrist,4A Cruse Center,U.S. House,3,REP,Kat Cammack,864
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,REP,Kat Cammack,519
+Gilchrist,6A Osteen Center,U.S. House,3,REP,Kat Cammack,1088
+Gilchrist,7A Osceola Center,U.S. House,3,REP,Kat Cammack,667
+Gilchrist,8A Southeast Center,U.S. House,3,REP,Kat Cammack,628
+Gilchrist,1A Trenton Center,U.S. House,3,DEM,Danielle Hawk,83
+Gilchrist,1B County Library,U.S. House,3,DEM,Danielle Hawk,43
+Gilchrist,1C County Library,U.S. House,3,DEM,Danielle Hawk,58
+Gilchrist,2A Donnie Center,U.S. House,3,DEM,Danielle Hawk,108
+Gilchrist,3A Bell Community Center,U.S. House,3,DEM,Danielle Hawk,114
+Gilchrist,4A Cruse Center,U.S. House,3,DEM,Danielle Hawk,138
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,DEM,Danielle Hawk,80
+Gilchrist,6A Osteen Center,U.S. House,3,DEM,Danielle Hawk,168
+Gilchrist,7A Osceola Center,U.S. House,3,DEM,Danielle Hawk,131
+Gilchrist,8A Southeast Center,U.S. House,3,DEM,Danielle Hawk,144
+Gilchrist,1A Trenton Center,U.S. House,3,NPA,Linda S. Brooks,14
+Gilchrist,1B County Library,U.S. House,3,NPA,Linda S. Brooks,5
+Gilchrist,1C County Library,U.S. House,3,NPA,Linda S. Brooks,3
+Gilchrist,2A Donnie Center,U.S. House,3,NPA,Linda S. Brooks,12
+Gilchrist,3A Bell Community Center,U.S. House,3,NPA,Linda S. Brooks,11
+Gilchrist,4A Cruse Center,U.S. House,3,NPA,Linda S. Brooks,18
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,NPA,Linda S. Brooks,4
+Gilchrist,6A Osteen Center,U.S. House,3,NPA,Linda S. Brooks,17
+Gilchrist,7A Osceola Center,U.S. House,3,NPA,Linda S. Brooks,5
+Gilchrist,8A Southeast Center,U.S. House,3,NPA,Linda S. Brooks,8
+Gilchrist,1A Trenton Center,U.S. House,3,"",OverVotes,0
+Gilchrist,1B County Library,U.S. House,3,"",OverVotes,0
+Gilchrist,1C County Library,U.S. House,3,"",OverVotes,0
+Gilchrist,2A Donnie Center,U.S. House,3,"",OverVotes,0
+Gilchrist,3A Bell Community Center,U.S. House,3,"",OverVotes,0
+Gilchrist,4A Cruse Center,U.S. House,3,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,"",OverVotes,0
+Gilchrist,6A Osteen Center,U.S. House,3,"",OverVotes,0
+Gilchrist,7A Osceola Center,U.S. House,3,"",OverVotes,0
+Gilchrist,8A Southeast Center,U.S. House,3,"",OverVotes,0
+Gilchrist,1A Trenton Center,U.S. House,3,"",UnderVotes,5
+Gilchrist,1B County Library,U.S. House,3,"",UnderVotes,2
+Gilchrist,1C County Library,U.S. House,3,"",UnderVotes,2
+Gilchrist,2A Donnie Center,U.S. House,3,"",UnderVotes,11
+Gilchrist,3A Bell Community Center,U.S. House,3,"",UnderVotes,4
+Gilchrist,4A Cruse Center,U.S. House,3,"",UnderVotes,11
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,"",UnderVotes,2
+Gilchrist,6A Osteen Center,U.S. House,3,"",UnderVotes,5
+Gilchrist,7A Osceola Center,U.S. House,3,"",UnderVotes,9
+Gilchrist,8A Southeast Center,U.S. House,3,"",UnderVotes,7
+Gilchrist,1A Trenton Center,Governor,"",REP,DeSantis / Nuñez,583
+Gilchrist,1B County Library,Governor,"",REP,DeSantis / Nuñez,254
+Gilchrist,1C County Library,Governor,"",REP,DeSantis / Nuñez,113
+Gilchrist,2A Donnie Center,Governor,"",REP,DeSantis / Nuñez,1104
+Gilchrist,3A Bell Community Center,Governor,"",REP,DeSantis / Nuñez,895
+Gilchrist,4A Cruse Center,Governor,"",REP,DeSantis / Nuñez,893
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",REP,DeSantis / Nuñez,529
+Gilchrist,6A Osteen Center,Governor,"",REP,DeSantis / Nuñez,1106
+Gilchrist,7A Osceola Center,Governor,"",REP,DeSantis / Nuñez,681
+Gilchrist,8A Southeast Center,Governor,"",REP,DeSantis / Nuñez,648
+Gilchrist,1A Trenton Center,Governor,"",DEM,Crist / Hernandez,82
+Gilchrist,1B County Library,Governor,"",DEM,Crist / Hernandez,44
+Gilchrist,1C County Library,Governor,"",DEM,Crist / Hernandez,57
+Gilchrist,2A Donnie Center,Governor,"",DEM,Crist / Hernandez,106
+Gilchrist,3A Bell Community Center,Governor,"",DEM,Crist / Hernandez,112
+Gilchrist,4A Cruse Center,Governor,"",DEM,Crist / Hernandez,122
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",DEM,Crist / Hernandez,72
+Gilchrist,6A Osteen Center,Governor,"",DEM,Crist / Hernandez,168
+Gilchrist,7A Osceola Center,Governor,"",DEM,Crist / Hernandez,123
+Gilchrist,8A Southeast Center,Governor,"",DEM,Crist / Hernandez,131
+Gilchrist,1A Trenton Center,Governor,"",LPF,Roos / Rorabaugh,0
+Gilchrist,1B County Library,Governor,"",LPF,Roos / Rorabaugh,1
+Gilchrist,1C County Library,Governor,"",LPF,Roos / Rorabaugh,2
+Gilchrist,2A Donnie Center,Governor,"",LPF,Roos / Rorabaugh,2
+Gilchrist,3A Bell Community Center,Governor,"",LPF,Roos / Rorabaugh,0
+Gilchrist,4A Cruse Center,Governor,"",LPF,Roos / Rorabaugh,4
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",LPF,Roos / Rorabaugh,2
+Gilchrist,6A Osteen Center,Governor,"",LPF,Roos / Rorabaugh,0
+Gilchrist,7A Osceola Center,Governor,"",LPF,Roos / Rorabaugh,5
+Gilchrist,8A Southeast Center,Governor,"",LPF,Roos / Rorabaugh,2
+Gilchrist,1A Trenton Center,Governor,"",NPA,Gimenez / Gibson,6
+Gilchrist,1B County Library,Governor,"",NPA,Gimenez / Gibson,0
+Gilchrist,1C County Library,Governor,"",NPA,Gimenez / Gibson,1
+Gilchrist,2A Donnie Center,Governor,"",NPA,Gimenez / Gibson,0
+Gilchrist,3A Bell Community Center,Governor,"",NPA,Gimenez / Gibson,4
+Gilchrist,4A Cruse Center,Governor,"",NPA,Gimenez / Gibson,7
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",NPA,Gimenez / Gibson,1
+Gilchrist,6A Osteen Center,Governor,"",NPA,Gimenez / Gibson,4
+Gilchrist,7A Osceola Center,Governor,"",NPA,Gimenez / Gibson,3
+Gilchrist,8A Southeast Center,Governor,"",NPA,Gimenez / Gibson,1
+Gilchrist,1A Trenton Center,Governor,"","",OverVotes,0
+Gilchrist,1B County Library,Governor,"","",OverVotes,0
+Gilchrist,1C County Library,Governor,"","",OverVotes,0
+Gilchrist,2A Donnie Center,Governor,"","",OverVotes,0
+Gilchrist,3A Bell Community Center,Governor,"","",OverVotes,0
+Gilchrist,4A Cruse Center,Governor,"","",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Governor,"","",OverVotes,0
+Gilchrist,6A Osteen Center,Governor,"","",OverVotes,0
+Gilchrist,7A Osceola Center,Governor,"","",OverVotes,0
+Gilchrist,8A Southeast Center,Governor,"","",OverVotes,0
+Gilchrist,1A Trenton Center,Governor,"","",UnderVotes,0
+Gilchrist,1B County Library,Governor,"","",UnderVotes,2
+Gilchrist,1C County Library,Governor,"","",UnderVotes,1
+Gilchrist,2A Donnie Center,Governor,"","",UnderVotes,4
+Gilchrist,3A Bell Community Center,Governor,"","",UnderVotes,3
+Gilchrist,4A Cruse Center,Governor,"","",UnderVotes,5
+Gilchrist,5A N Gilchrist Fire Station,Governor,"","",UnderVotes,1
+Gilchrist,6A Osteen Center,Governor,"","",UnderVotes,0
+Gilchrist,7A Osceola Center,Governor,"","",UnderVotes,0
+Gilchrist,8A Southeast Center,Governor,"","",UnderVotes,5
+Gilchrist,1A Trenton Center,Attorney General,"",REP,Ashley Moody,585
+Gilchrist,1B County Library,Attorney General,"",REP,Ashley Moody,260
+Gilchrist,1C County Library,Attorney General,"",REP,Ashley Moody,117
+Gilchrist,2A Donnie Center,Attorney General,"",REP,Ashley Moody,1106
+Gilchrist,3A Bell Community Center,Attorney General,"",REP,Ashley Moody,894
+Gilchrist,4A Cruse Center,Attorney General,"",REP,Ashley Moody,892
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"",REP,Ashley Moody,533
+Gilchrist,6A Osteen Center,Attorney General,"",REP,Ashley Moody,1092
+Gilchrist,7A Osceola Center,Attorney General,"",REP,Ashley Moody,683
+Gilchrist,8A Southeast Center,Attorney General,"",REP,Ashley Moody,650
+Gilchrist,1A Trenton Center,Attorney General,"",DEM,Aramis Ayala,79
+Gilchrist,1B County Library,Attorney General,"",DEM,Aramis Ayala,40
+Gilchrist,1C County Library,Attorney General,"",DEM,Aramis Ayala,56
+Gilchrist,2A Donnie Center,Attorney General,"",DEM,Aramis Ayala,98
+Gilchrist,3A Bell Community Center,Attorney General,"",DEM,Aramis Ayala,105
+Gilchrist,4A Cruse Center,Attorney General,"",DEM,Aramis Ayala,124
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"",DEM,Aramis Ayala,68
+Gilchrist,6A Osteen Center,Attorney General,"",DEM,Aramis Ayala,166
+Gilchrist,7A Osceola Center,Attorney General,"",DEM,Aramis Ayala,121
+Gilchrist,8A Southeast Center,Attorney General,"",DEM,Aramis Ayala,131
+Gilchrist,1A Trenton Center,Attorney General,"","",OverVotes,0
+Gilchrist,1B County Library,Attorney General,"","",OverVotes,0
+Gilchrist,1C County Library,Attorney General,"","",OverVotes,0
+Gilchrist,2A Donnie Center,Attorney General,"","",OverVotes,0
+Gilchrist,3A Bell Community Center,Attorney General,"","",OverVotes,1
+Gilchrist,4A Cruse Center,Attorney General,"","",OverVotes,1
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"","",OverVotes,0
+Gilchrist,6A Osteen Center,Attorney General,"","",OverVotes,0
+Gilchrist,7A Osceola Center,Attorney General,"","",OverVotes,0
+Gilchrist,8A Southeast Center,Attorney General,"","",OverVotes,0
+Gilchrist,1A Trenton Center,Attorney General,"","",UnderVotes,7
+Gilchrist,1B County Library,Attorney General,"","",UnderVotes,1
+Gilchrist,1C County Library,Attorney General,"","",UnderVotes,1
+Gilchrist,2A Donnie Center,Attorney General,"","",UnderVotes,12
+Gilchrist,3A Bell Community Center,Attorney General,"","",UnderVotes,14
+Gilchrist,4A Cruse Center,Attorney General,"","",UnderVotes,14
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"","",UnderVotes,4
+Gilchrist,6A Osteen Center,Attorney General,"","",UnderVotes,20
+Gilchrist,7A Osceola Center,Attorney General,"","",UnderVotes,8
+Gilchrist,8A Southeast Center,Attorney General,"","",UnderVotes,6
+Gilchrist,1A Trenton Center,Chief Financial Officer,"",REP,Jimmy Patronis,564
+Gilchrist,1B County Library,Chief Financial Officer,"",REP,Jimmy Patronis,248
+Gilchrist,1C County Library,Chief Financial Officer,"",REP,Jimmy Patronis,104
+Gilchrist,2A Donnie Center,Chief Financial Officer,"",REP,Jimmy Patronis,1076
+Gilchrist,3A Bell Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,861
+Gilchrist,4A Cruse Center,Chief Financial Officer,"",REP,Jimmy Patronis,855
+Gilchrist,5A N Gilchrist Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,512
+Gilchrist,6A Osteen Center,Chief Financial Officer,"",REP,Jimmy Patronis,1060
+Gilchrist,7A Osceola Center,Chief Financial Officer,"",REP,Jimmy Patronis,655
+Gilchrist,8A Southeast Center,Chief Financial Officer,"",REP,Jimmy Patronis,616
+Gilchrist,1A Trenton Center,Chief Financial Officer,"",DEM,Adam Hattersley,84
+Gilchrist,1B County Library,Chief Financial Officer,"",DEM,Adam Hattersley,48
+Gilchrist,1C County Library,Chief Financial Officer,"",DEM,Adam Hattersley,62
+Gilchrist,2A Donnie Center,Chief Financial Officer,"",DEM,Adam Hattersley,106
+Gilchrist,3A Bell Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,118
+Gilchrist,4A Cruse Center,Chief Financial Officer,"",DEM,Adam Hattersley,140
+Gilchrist,5A N Gilchrist Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,81
+Gilchrist,6A Osteen Center,Chief Financial Officer,"",DEM,Adam Hattersley,172
+Gilchrist,7A Osceola Center,Chief Financial Officer,"",DEM,Adam Hattersley,125
+Gilchrist,8A Southeast Center,Chief Financial Officer,"",DEM,Adam Hattersley,145
+Gilchrist,1A Trenton Center,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,1B County Library,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,1C County Library,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,2A Donnie Center,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,3A Bell Community Center,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,4A Cruse Center,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,6A Osteen Center,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,7A Osceola Center,Chief Financial Officer,"","",OverVotes,0
+Gilchrist,8A Southeast Center,Chief Financial Officer,"","",OverVotes,1
+Gilchrist,1A Trenton Center,Chief Financial Officer,"","",UnderVotes,23
+Gilchrist,1B County Library,Chief Financial Officer,"","",UnderVotes,5
+Gilchrist,1C County Library,Chief Financial Officer,"","",UnderVotes,8
+Gilchrist,2A Donnie Center,Chief Financial Officer,"","",UnderVotes,34
+Gilchrist,3A Bell Community Center,Chief Financial Officer,"","",UnderVotes,35
+Gilchrist,4A Cruse Center,Chief Financial Officer,"","",UnderVotes,36
+Gilchrist,5A N Gilchrist Fire Station,Chief Financial Officer,"","",UnderVotes,12
+Gilchrist,6A Osteen Center,Chief Financial Officer,"","",UnderVotes,46
+Gilchrist,7A Osceola Center,Chief Financial Officer,"","",UnderVotes,32
+Gilchrist,8A Southeast Center,Chief Financial Officer,"","",UnderVotes,25
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",REP,Wilton Simpson,577
+Gilchrist,1B County Library,Commissioner of Agriculture,"",REP,Wilton Simpson,256
+Gilchrist,1C County Library,Commissioner of Agriculture,"",REP,Wilton Simpson,113
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",REP,Wilton Simpson,1094
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,884
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",REP,Wilton Simpson,879
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,523
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",REP,Wilton Simpson,1087
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",REP,Wilton Simpson,682
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",REP,Wilton Simpson,641
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,81
+Gilchrist,1B County Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,43
+Gilchrist,1C County Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,55
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,107
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,113
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,130
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,76
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,164
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,122
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,135
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,1B County Library,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,1C County Library,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"","",OverVotes,1
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"","",OverVotes,0
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"","",UnderVotes,13
+Gilchrist,1B County Library,Commissioner of Agriculture,"","",UnderVotes,2
+Gilchrist,1C County Library,Commissioner of Agriculture,"","",UnderVotes,6
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"","",UnderVotes,15
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"","",UnderVotes,17
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"","",UnderVotes,21
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"","",UnderVotes,6
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"","",UnderVotes,27
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"","",UnderVotes,8
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"","",UnderVotes,11
+Gilchrist,1A Trenton Center,State House,22,REP,Chuck Clemons,582
+Gilchrist,1B County Library,State House,22,REP,Chuck Clemons,255
+Gilchrist,1C County Library,State House,22,REP,Chuck Clemons,113
+Gilchrist,2A Donnie Center,State House,22,REP,Chuck Clemons,1094
+Gilchrist,3A Bell Community Center,State House,22,REP,Chuck Clemons,892
+Gilchrist,4A Cruse Center,State House,22,REP,Chuck Clemons,885
+Gilchrist,5A N Gilchrist Fire Station,State House,22,REP,Chuck Clemons,526
+Gilchrist,6A Osteen Center,State House,22,REP,Chuck Clemons,1088
+Gilchrist,7A Osceola Center,State House,22,REP,Chuck Clemons,685
+Gilchrist,8A Southeast Center,State House,22,REP,Chuck Clemons,646
+Gilchrist,1A Trenton Center,State House,22,DEM,Brandon Peters,81
+Gilchrist,1B County Library,State House,22,DEM,Brandon Peters,42
+Gilchrist,1C County Library,State House,22,DEM,Brandon Peters,59
+Gilchrist,2A Donnie Center,State House,22,DEM,Brandon Peters,107
+Gilchrist,3A Bell Community Center,State House,22,DEM,Brandon Peters,113
+Gilchrist,4A Cruse Center,State House,22,DEM,Brandon Peters,128
+Gilchrist,5A N Gilchrist Fire Station,State House,22,DEM,Brandon Peters,74
+Gilchrist,6A Osteen Center,State House,22,DEM,Brandon Peters,169
+Gilchrist,7A Osceola Center,State House,22,DEM,Brandon Peters,118
+Gilchrist,8A Southeast Center,State House,22,DEM,Brandon Peters,131
+Gilchrist,1A Trenton Center,State House,22,"",OverVotes,0
+Gilchrist,1B County Library,State House,22,"",OverVotes,0
+Gilchrist,1C County Library,State House,22,"",OverVotes,0
+Gilchrist,2A Donnie Center,State House,22,"",OverVotes,0
+Gilchrist,3A Bell Community Center,State House,22,"",OverVotes,0
+Gilchrist,4A Cruse Center,State House,22,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,State House,22,"",OverVotes,0
+Gilchrist,6A Osteen Center,State House,22,"",OverVotes,0
+Gilchrist,7A Osceola Center,State House,22,"",OverVotes,0
+Gilchrist,8A Southeast Center,State House,22,"",OverVotes,0
+Gilchrist,1A Trenton Center,State House,22,"",UnderVotes,8
+Gilchrist,1B County Library,State House,22,"",UnderVotes,4
+Gilchrist,1C County Library,State House,22,"",UnderVotes,2
+Gilchrist,2A Donnie Center,State House,22,"",UnderVotes,15
+Gilchrist,3A Bell Community Center,State House,22,"",UnderVotes,9
+Gilchrist,4A Cruse Center,State House,22,"",UnderVotes,18
+Gilchrist,5A N Gilchrist Fire Station,State House,22,"",UnderVotes,5
+Gilchrist,6A Osteen Center,State House,22,"",UnderVotes,21
+Gilchrist,7A Osceola Center,State House,22,"",UnderVotes,9
+Gilchrist,8A Southeast Center,State House,22,"",UnderVotes,10
+Gilchrist,1A Trenton Center,County Commissioner,4,REP,Tommy Langford,560
+Gilchrist,1B County Library,County Commissioner,4,REP,Tommy Langford,255
+Gilchrist,1C County Library,County Commissioner,4,REP,Tommy Langford,134
+Gilchrist,2A Donnie Center,County Commissioner,4,REP,Tommy Langford,1024
+Gilchrist,3A Bell Community Center,County Commissioner,4,REP,Tommy Langford,784
+Gilchrist,4A Cruse Center,County Commissioner,4,REP,Tommy Langford,765
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,REP,Tommy Langford,492
+Gilchrist,6A Osteen Center,County Commissioner,4,REP,Tommy Langford,1064
+Gilchrist,7A Osceola Center,County Commissioner,4,REP,Tommy Langford,675
+Gilchrist,8A Southeast Center,County Commissioner,4,REP,Tommy Langford,656
+Gilchrist,1A Trenton Center,County Commissioner,4,"",WriteinVotes,64
+Gilchrist,1B County Library,County Commissioner,4,"",WriteinVotes,25
+Gilchrist,1C County Library,County Commissioner,4,"",WriteinVotes,16
+Gilchrist,2A Donnie Center,County Commissioner,4,"",WriteinVotes,101
+Gilchrist,3A Bell Community Center,County Commissioner,4,"",WriteinVotes,150
+Gilchrist,4A Cruse Center,County Commissioner,4,"",WriteinVotes,180
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,"",WriteinVotes,62
+Gilchrist,6A Osteen Center,County Commissioner,4,"",WriteinVotes,122
+Gilchrist,7A Osceola Center,County Commissioner,4,"",WriteinVotes,59
+Gilchrist,8A Southeast Center,County Commissioner,4,"",WriteinVotes,50
+Gilchrist,1A Trenton Center,County Commissioner,4,"",OverVotes,0
+Gilchrist,1B County Library,County Commissioner,4,"",OverVotes,0
+Gilchrist,1C County Library,County Commissioner,4,"",OverVotes,0
+Gilchrist,2A Donnie Center,County Commissioner,4,"",OverVotes,0
+Gilchrist,3A Bell Community Center,County Commissioner,4,"",OverVotes,1
+Gilchrist,4A Cruse Center,County Commissioner,4,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,"",OverVotes,0
+Gilchrist,6A Osteen Center,County Commissioner,4,"",OverVotes,0
+Gilchrist,7A Osceola Center,County Commissioner,4,"",OverVotes,0
+Gilchrist,8A Southeast Center,County Commissioner,4,"",OverVotes,0
+Gilchrist,1A Trenton Center,County Commissioner,4,"",UnderVotes,47
+Gilchrist,1B County Library,County Commissioner,4,"",UnderVotes,21
+Gilchrist,1C County Library,County Commissioner,4,"",UnderVotes,24
+Gilchrist,2A Donnie Center,County Commissioner,4,"",UnderVotes,91
+Gilchrist,3A Bell Community Center,County Commissioner,4,"",UnderVotes,79
+Gilchrist,4A Cruse Center,County Commissioner,4,"",UnderVotes,86
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,"",UnderVotes,51
+Gilchrist,6A Osteen Center,County Commissioner,4,"",UnderVotes,92
+Gilchrist,7A Osceola Center,County Commissioner,4,"",UnderVotes,78
+Gilchrist,8A Southeast Center,County Commissioner,4,"",UnderVotes,81
+Gilchrist,1A Trenton Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,407
+Gilchrist,1B County Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,168
+Gilchrist,1C County Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,110
+Gilchrist,2A Donnie Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,804
+Gilchrist,3A Bell Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,572
+Gilchrist,4A Cruse Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,655
+Gilchrist,5A N Gilchrist Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,386
+Gilchrist,6A Osteen Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,789
+Gilchrist,7A Osceola Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,492
+Gilchrist,8A Southeast Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,494
+Gilchrist,1A Trenton Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,206
+Gilchrist,1B County Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,102
+Gilchrist,1C County Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,46
+Gilchrist,2A Donnie Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,297
+Gilchrist,3A Bell Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,335
+Gilchrist,4A Cruse Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,302
+Gilchrist,5A N Gilchrist Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,163
+Gilchrist,6A Osteen Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,357
+Gilchrist,7A Osceola Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,219
+Gilchrist,8A Southeast Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,212
+Gilchrist,1A Trenton Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Gilchrist,1B County Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Gilchrist,2A Donnie Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Gilchrist,3A Bell Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Gilchrist,4A Cruse Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Gilchrist,7A Osceola Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Gilchrist,8A Southeast Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,57
+Gilchrist,1B County Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,31
+Gilchrist,1C County Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,17
+Gilchrist,2A Donnie Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,113
+Gilchrist,3A Bell Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,106
+Gilchrist,4A Cruse Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,74
+Gilchrist,5A N Gilchrist Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,56
+Gilchrist,6A Osteen Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,131
+Gilchrist,7A Osceola Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,99
+Gilchrist,8A Southeast Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,81
+Gilchrist,1A Trenton Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,441
+Gilchrist,1B County Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,177
+Gilchrist,1C County Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,113
+Gilchrist,2A Donnie Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,824
+Gilchrist,3A Bell Community Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,614
+Gilchrist,4A Cruse Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,670
+Gilchrist,5A N Gilchrist Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,406
+Gilchrist,6A Osteen Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,811
+Gilchrist,7A Osceola Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,505
+Gilchrist,8A Southeast Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,513
+Gilchrist,1A Trenton Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,174
+Gilchrist,1B County Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,90
+Gilchrist,1C County Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,43
+Gilchrist,2A Donnie Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,271
+Gilchrist,3A Bell Community Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,290
+Gilchrist,4A Cruse Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,280
+Gilchrist,5A N Gilchrist Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,138
+Gilchrist,6A Osteen Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,331
+Gilchrist,7A Osceola Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,204
+Gilchrist,8A Southeast Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,187
+Gilchrist,1A Trenton Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1B County Library,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1C County Library,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,8A Southeast Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,56
+Gilchrist,1B County Library,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,34
+Gilchrist,1C County Library,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,18
+Gilchrist,2A Donnie Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,121
+Gilchrist,3A Bell Community Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,110
+Gilchrist,4A Cruse Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,81
+Gilchrist,5A N Gilchrist Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,61
+Gilchrist,6A Osteen Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,136
+Gilchrist,7A Osceola Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,103
+Gilchrist,8A Southeast Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,87
+Gilchrist,1A Trenton Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,442
+Gilchrist,1B County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,180
+Gilchrist,1C County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,112
+Gilchrist,2A Donnie Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,819
+Gilchrist,3A Bell Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,604
+Gilchrist,4A Cruse Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,668
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,410
+Gilchrist,6A Osteen Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,814
+Gilchrist,7A Osceola Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,509
+Gilchrist,8A Southeast Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,511
+Gilchrist,1A Trenton Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,172
+Gilchrist,1B County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,87
+Gilchrist,1C County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,44
+Gilchrist,2A Donnie Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,277
+Gilchrist,3A Bell Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,292
+Gilchrist,4A Cruse Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,282
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,137
+Gilchrist,6A Osteen Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,327
+Gilchrist,7A Osceola Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,198
+Gilchrist,8A Southeast Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,187
+Gilchrist,1A Trenton Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1B County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Gilchrist,8A Southeast Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,57
+Gilchrist,1B County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,34
+Gilchrist,1C County Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,18
+Gilchrist,2A Donnie Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,120
+Gilchrist,3A Bell Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,118
+Gilchrist,4A Cruse Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,81
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,58
+Gilchrist,6A Osteen Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,137
+Gilchrist,7A Osceola Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,104
+Gilchrist,8A Southeast Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,89
+Gilchrist,1A Trenton Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,316
+Gilchrist,1B County Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,136
+Gilchrist,1C County Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,85
+Gilchrist,2A Donnie Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,569
+Gilchrist,3A Bell Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,444
+Gilchrist,4A Cruse Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,523
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,289
+Gilchrist,6A Osteen Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,601
+Gilchrist,7A Osceola Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,383
+Gilchrist,8A Southeast Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,411
+Gilchrist,1A Trenton Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,297
+Gilchrist,1B County Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,129
+Gilchrist,1C County Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,71
+Gilchrist,2A Donnie Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,526
+Gilchrist,3A Bell Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,455
+Gilchrist,4A Cruse Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,423
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,254
+Gilchrist,6A Osteen Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,537
+Gilchrist,7A Osceola Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,324
+Gilchrist,8A Southeast Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,282
+Gilchrist,1A Trenton Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1B County Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,8A Southeast Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Gilchrist,1A Trenton Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,58
+Gilchrist,1B County Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,36
+Gilchrist,1C County Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,18
+Gilchrist,2A Donnie Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,121
+Gilchrist,3A Bell Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,115
+Gilchrist,4A Cruse Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,85
+Gilchrist,5A N Gilchrist Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,62
+Gilchrist,6A Osteen Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,140
+Gilchrist,7A Osceola Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,105
+Gilchrist,8A Southeast Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,92
+Gilchrist,1A Trenton Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,384
+Gilchrist,1B County Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,145
+Gilchrist,1C County Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,109
+Gilchrist,2A Donnie Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,737
+Gilchrist,3A Bell Community Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,546
+Gilchrist,4A Cruse Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,616
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,365
+Gilchrist,6A Osteen Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,752
+Gilchrist,7A Osceola Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,466
+Gilchrist,8A Southeast Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,457
+Gilchrist,1A Trenton Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,229
+Gilchrist,1B County Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,123
+Gilchrist,1C County Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,47
+Gilchrist,2A Donnie Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,356
+Gilchrist,3A Bell Community Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,349
+Gilchrist,4A Cruse Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,331
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,182
+Gilchrist,6A Osteen Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,388
+Gilchrist,7A Osceola Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,242
+Gilchrist,8A Southeast Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,241
+Gilchrist,1A Trenton Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1B County Library,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Gilchrist,3A Bell Community Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Gilchrist,8A Southeast Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,58
+Gilchrist,1B County Library,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,33
+Gilchrist,1C County Library,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,18
+Gilchrist,2A Donnie Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,122
+Gilchrist,3A Bell Community Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,119
+Gilchrist,4A Cruse Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,84
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,58
+Gilchrist,6A Osteen Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,138
+Gilchrist,7A Osceola Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,103
+Gilchrist,8A Southeast Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,89
+Gilchrist,1A Trenton Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,404
+Gilchrist,1B County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,161
+Gilchrist,1C County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,105
+Gilchrist,2A Donnie Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,785
+Gilchrist,3A Bell Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,576
+Gilchrist,4A Cruse Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,629
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,387
+Gilchrist,6A Osteen Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,760
+Gilchrist,7A Osceola Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,484
+Gilchrist,8A Southeast Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,478
+Gilchrist,1A Trenton Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,184
+Gilchrist,1B County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,98
+Gilchrist,1C County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,48
+Gilchrist,2A Donnie Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,300
+Gilchrist,3A Bell Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,315
+Gilchrist,4A Cruse Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,308
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,151
+Gilchrist,6A Osteen Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,358
+Gilchrist,7A Osceola Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,215
+Gilchrist,8A Southeast Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,205
+Gilchrist,1A Trenton Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Gilchrist,1B County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,8A Southeast Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,82
+Gilchrist,1B County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,42
+Gilchrist,1C County Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,21
+Gilchrist,2A Donnie Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,131
+Gilchrist,3A Bell Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,123
+Gilchrist,4A Cruse Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,94
+Gilchrist,5A N Gilchrist Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,67
+Gilchrist,6A Osteen Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,160
+Gilchrist,7A Osceola Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,113
+Gilchrist,8A Southeast Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,104
+Gilchrist,1A Trenton Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,416
+Gilchrist,1B County Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,162
+Gilchrist,1C County Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,106
+Gilchrist,2A Donnie Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,794
+Gilchrist,3A Bell Community Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,572
+Gilchrist,4A Cruse Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,650
+Gilchrist,5A N Gilchrist Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,398
+Gilchrist,6A Osteen Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,770
+Gilchrist,7A Osceola Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,485
+Gilchrist,8A Southeast Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,486
+Gilchrist,1A Trenton Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,171
+Gilchrist,1B County Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,95
+Gilchrist,1C County Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,47
+Gilchrist,2A Donnie Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,287
+Gilchrist,3A Bell Community Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,317
+Gilchrist,4A Cruse Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,284
+Gilchrist,5A N Gilchrist Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,139
+Gilchrist,6A Osteen Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,343
+Gilchrist,7A Osceola Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,212
+Gilchrist,8A Southeast Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,196
+Gilchrist,1A Trenton Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1B County Library,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,8A Southeast Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,84
+Gilchrist,1B County Library,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,44
+Gilchrist,1C County Library,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,21
+Gilchrist,2A Donnie Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,135
+Gilchrist,3A Bell Community Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,125
+Gilchrist,4A Cruse Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,97
+Gilchrist,5A N Gilchrist Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,68
+Gilchrist,6A Osteen Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,165
+Gilchrist,7A Osceola Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,115
+Gilchrist,8A Southeast Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,105
+Gilchrist,1A Trenton Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,426
+Gilchrist,1B County Library,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,168
+Gilchrist,1C County Library,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,103
+Gilchrist,2A Donnie Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,816
+Gilchrist,3A Bell Community Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,605
+Gilchrist,4A Cruse Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,678
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,404
+Gilchrist,6A Osteen Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,798
+Gilchrist,7A Osceola Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,501
+Gilchrist,8A Southeast Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,503
+Gilchrist,1A Trenton Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,160
+Gilchrist,1B County Library,Retention of Bobby Long,First District Court of Appeal,NOP,No,92
+Gilchrist,1C County Library,Retention of Bobby Long,First District Court of Appeal,NOP,No,49
+Gilchrist,2A Donnie Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,265
+Gilchrist,3A Bell Community Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,281
+Gilchrist,4A Cruse Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,256
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,131
+Gilchrist,6A Osteen Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,320
+Gilchrist,7A Osceola Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,193
+Gilchrist,8A Southeast Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,180
+Gilchrist,1A Trenton Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1B County Library,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Gilchrist,4A Cruse Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,8A Southeast Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,85
+Gilchrist,1B County Library,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,41
+Gilchrist,1C County Library,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,22
+Gilchrist,2A Donnie Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,135
+Gilchrist,3A Bell Community Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,127
+Gilchrist,4A Cruse Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,97
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,70
+Gilchrist,6A Osteen Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,160
+Gilchrist,7A Osceola Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,118
+Gilchrist,8A Southeast Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,104
+Gilchrist,1A Trenton Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,373
+Gilchrist,1B County Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,160
+Gilchrist,1C County Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,101
+Gilchrist,2A Donnie Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,726
+Gilchrist,3A Bell Community Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,527
+Gilchrist,4A Cruse Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,590
+Gilchrist,5A N Gilchrist Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,370
+Gilchrist,6A Osteen Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,716
+Gilchrist,7A Osceola Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,470
+Gilchrist,8A Southeast Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,468
+Gilchrist,1A Trenton Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,214
+Gilchrist,1B County Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,100
+Gilchrist,1C County Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,52
+Gilchrist,2A Donnie Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,351
+Gilchrist,3A Bell Community Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,359
+Gilchrist,4A Cruse Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,339
+Gilchrist,5A N Gilchrist Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,166
+Gilchrist,6A Osteen Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,400
+Gilchrist,7A Osceola Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,228
+Gilchrist,8A Southeast Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,214
+Gilchrist,1A Trenton Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1B County Library,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Gilchrist,5A N Gilchrist Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,8A Southeast Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,84
+Gilchrist,1B County Library,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,41
+Gilchrist,1C County Library,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,21
+Gilchrist,2A Donnie Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,139
+Gilchrist,3A Bell Community Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,128
+Gilchrist,4A Cruse Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,101
+Gilchrist,5A N Gilchrist Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,69
+Gilchrist,6A Osteen Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,162
+Gilchrist,7A Osceola Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,114
+Gilchrist,8A Southeast Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,105
+Gilchrist,1A Trenton Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,404
+Gilchrist,1B County Library,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,160
+Gilchrist,1C County Library,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,99
+Gilchrist,2A Donnie Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,786
+Gilchrist,3A Bell Community Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,572
+Gilchrist,4A Cruse Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,621
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,394
+Gilchrist,6A Osteen Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,762
+Gilchrist,7A Osceola Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,480
+Gilchrist,8A Southeast Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,476
+Gilchrist,1A Trenton Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,178
+Gilchrist,1B County Library,Retention of Bo Winokur,First District Court of Appeal,NOP,No,98
+Gilchrist,1C County Library,Retention of Bo Winokur,First District Court of Appeal,NOP,No,53
+Gilchrist,2A Donnie Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,291
+Gilchrist,3A Bell Community Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,312
+Gilchrist,4A Cruse Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,311
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,138
+Gilchrist,6A Osteen Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,346
+Gilchrist,7A Osceola Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,217
+Gilchrist,8A Southeast Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,201
+Gilchrist,1A Trenton Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1B County Library,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1C County Library,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,2A Donnie Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,3A Bell Community Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,4A Cruse Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,6A Osteen Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,7A Osceola Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,8A Southeast Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Gilchrist,1A Trenton Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,89
+Gilchrist,1B County Library,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,43
+Gilchrist,1C County Library,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,22
+Gilchrist,2A Donnie Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,139
+Gilchrist,3A Bell Community Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,130
+Gilchrist,4A Cruse Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,99
+Gilchrist,5A N Gilchrist Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,73
+Gilchrist,6A Osteen Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,170
+Gilchrist,7A Osceola Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,115
+Gilchrist,8A Southeast Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,110
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,538
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,236
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,121
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1002
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,797
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,806
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,466
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1007
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,622
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,605
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,64
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,31
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,35
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,87
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,102
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,133
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,72
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,117
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,92
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,98
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,1
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,69
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,34
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,18
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,127
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,114
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,92
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,67
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,154
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,98
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,84
+Gilchrist,1A Trenton Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,332
+Gilchrist,1B County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,146
+Gilchrist,1C County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,83
+Gilchrist,2A Donnie Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,678
+Gilchrist,3A Bell Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,531
+Gilchrist,4A Cruse Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,525
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,324
+Gilchrist,6A Osteen Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,660
+Gilchrist,7A Osceola Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,421
+Gilchrist,8A Southeast Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,428
+Gilchrist,1A Trenton Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,290
+Gilchrist,1B County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,125
+Gilchrist,1C County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,79
+Gilchrist,2A Donnie Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,468
+Gilchrist,3A Bell Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,417
+Gilchrist,4A Cruse Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,464
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,252
+Gilchrist,6A Osteen Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,524
+Gilchrist,7A Osceola Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,333
+Gilchrist,8A Southeast Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,308
+Gilchrist,1A Trenton Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gilchrist,1B County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gilchrist,1C County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gilchrist,2A Donnie Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gilchrist,3A Bell Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gilchrist,4A Cruse Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gilchrist,6A Osteen Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gilchrist,7A Osceola Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Gilchrist,8A Southeast Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Gilchrist,1A Trenton Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,49
+Gilchrist,1B County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,30
+Gilchrist,1C County Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,11
+Gilchrist,2A Donnie Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,70
+Gilchrist,3A Bell Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,65
+Gilchrist,4A Cruse Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,42
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,29
+Gilchrist,6A Osteen Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,94
+Gilchrist,7A Osceola Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,58
+Gilchrist,8A Southeast Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,50
+Gilchrist,1A Trenton Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,329
+Gilchrist,1B County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,150
+Gilchrist,1C County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,101
+Gilchrist,2A Donnie Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,675
+Gilchrist,3A Bell Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,554
+Gilchrist,4A Cruse Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,528
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,310
+Gilchrist,6A Osteen Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,675
+Gilchrist,7A Osceola Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,442
+Gilchrist,8A Southeast Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,404
+Gilchrist,1A Trenton Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,297
+Gilchrist,1B County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,119
+Gilchrist,1C County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,60
+Gilchrist,2A Donnie Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,465
+Gilchrist,3A Bell Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,392
+Gilchrist,4A Cruse Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,444
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,259
+Gilchrist,6A Osteen Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,500
+Gilchrist,7A Osceola Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,306
+Gilchrist,8A Southeast Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,322
+Gilchrist,1A Trenton Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,1B County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,1C County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,2A Donnie Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,2
+Gilchrist,3A Bell Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,4A Cruse Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,6A Osteen Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Gilchrist,7A Osceola Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,8A Southeast Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Gilchrist,1A Trenton Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,45
+Gilchrist,1B County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,32
+Gilchrist,1C County Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,13
+Gilchrist,2A Donnie Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,74
+Gilchrist,3A Bell Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,68
+Gilchrist,4A Cruse Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,59
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,36
+Gilchrist,6A Osteen Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,102
+Gilchrist,7A Osceola Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,64
+Gilchrist,8A Southeast Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,61
+Gilchrist,1A Trenton Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,354
+Gilchrist,1B County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,187
+Gilchrist,1C County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,97
+Gilchrist,2A Donnie Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,661
+Gilchrist,3A Bell Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,529
+Gilchrist,4A Cruse Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,548
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,317
+Gilchrist,6A Osteen Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,649
+Gilchrist,7A Osceola Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,431
+Gilchrist,8A Southeast Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,443
+Gilchrist,1A Trenton Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,284
+Gilchrist,1B County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,98
+Gilchrist,1C County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,67
+Gilchrist,2A Donnie Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,503
+Gilchrist,3A Bell Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,444
+Gilchrist,4A Cruse Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,459
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,271
+Gilchrist,6A Osteen Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,568
+Gilchrist,7A Osceola Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,348
+Gilchrist,8A Southeast Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,309
+Gilchrist,1A Trenton Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Gilchrist,1B County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gilchrist,1C County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gilchrist,2A Donnie Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gilchrist,3A Bell Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Gilchrist,4A Cruse Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gilchrist,6A Osteen Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Gilchrist,7A Osceola Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gilchrist,8A Southeast Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Gilchrist,1A Trenton Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,32
+Gilchrist,1B County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,16
+Gilchrist,1C County Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,10
+Gilchrist,2A Donnie Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,52
+Gilchrist,3A Bell Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,40
+Gilchrist,4A Cruse Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,24
+Gilchrist,5A N Gilchrist Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,17
+Gilchrist,6A Osteen Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,60
+Gilchrist,7A Osceola Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,33
+Gilchrist,8A Southeast Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,35
