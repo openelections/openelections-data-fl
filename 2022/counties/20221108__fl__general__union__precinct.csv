@@ -1,0 +1,705 @@
+county,precinct,office,district,party,candidate,votes
+Union,1A & 1B,U.S. Senate,"",REP,Marco Rubio,689
+Union,2A & 2B,U.S. Senate,"",REP,Marco Rubio,551
+Union,3A & 3B,U.S. Senate,"",REP,Marco Rubio,872
+Union,3C,U.S. Senate,"",REP,Marco Rubio,154
+Union,4A & 4C,U.S. Senate,"",REP,Marco Rubio,378
+Union,4B,U.S. Senate,"",REP,Marco Rubio,869
+Union,5A & 5C,U.S. Senate,"",REP,Marco Rubio,201
+Union,5B,U.S. Senate,"",REP,Marco Rubio,203
+Union,1A & 1B,U.S. Senate,"",DEM,Val Demings,99
+Union,2A & 2B,U.S. Senate,"",DEM,Val Demings,67
+Union,3A & 3B,U.S. Senate,"",DEM,Val Demings,112
+Union,3C,U.S. Senate,"",DEM,Val Demings,11
+Union,4A & 4C,U.S. Senate,"",DEM,Val Demings,81
+Union,4B,U.S. Senate,"",DEM,Val Demings,136
+Union,5A & 5C,U.S. Senate,"",DEM,Val Demings,56
+Union,5B,U.S. Senate,"",DEM,Val Demings,18
+Union,1A & 1B,U.S. Senate,"",LPF,Dennis Misigoy,2
+Union,2A & 2B,U.S. Senate,"",LPF,Dennis Misigoy,3
+Union,3A & 3B,U.S. Senate,"",LPF,Dennis Misigoy,1
+Union,3C,U.S. Senate,"",LPF,Dennis Misigoy,0
+Union,4A & 4C,U.S. Senate,"",LPF,Dennis Misigoy,1
+Union,4B,U.S. Senate,"",LPF,Dennis Misigoy,5
+Union,5A & 5C,U.S. Senate,"",LPF,Dennis Misigoy,1
+Union,5B,U.S. Senate,"",LPF,Dennis Misigoy,0
+Union,1A & 1B,U.S. Senate,"",NPA,Steven B. Grant,3
+Union,2A & 2B,U.S. Senate,"",NPA,Steven B. Grant,1
+Union,3A & 3B,U.S. Senate,"",NPA,Steven B. Grant,6
+Union,3C,U.S. Senate,"",NPA,Steven B. Grant,1
+Union,4A & 4C,U.S. Senate,"",NPA,Steven B. Grant,2
+Union,4B,U.S. Senate,"",NPA,Steven B. Grant,8
+Union,5A & 5C,U.S. Senate,"",NPA,Steven B. Grant,1
+Union,5B,U.S. Senate,"",NPA,Steven B. Grant,0
+Union,1A & 1B,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Union,2A & 2B,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Union,3A & 3B,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Union,3C,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Union,4A & 4C,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Union,4B,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Union,5A & 5C,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Union,5B,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Union,1A & 1B,U.S. Senate,"","",WriteinVotes,1
+Union,2A & 2B,U.S. Senate,"","",WriteinVotes,0
+Union,3A & 3B,U.S. Senate,"","",WriteinVotes,0
+Union,3C,U.S. Senate,"","",WriteinVotes,0
+Union,4A & 4C,U.S. Senate,"","",WriteinVotes,1
+Union,4B,U.S. Senate,"","",WriteinVotes,0
+Union,5A & 5C,U.S. Senate,"","",WriteinVotes,0
+Union,5B,U.S. Senate,"","",WriteinVotes,0
+Union,1A & 1B,U.S. Senate,"","",OverVotes,0
+Union,2A & 2B,U.S. Senate,"","",OverVotes,0
+Union,3A & 3B,U.S. Senate,"","",OverVotes,2
+Union,3C,U.S. Senate,"","",OverVotes,0
+Union,4A & 4C,U.S. Senate,"","",OverVotes,0
+Union,4B,U.S. Senate,"","",OverVotes,0
+Union,5A & 5C,U.S. Senate,"","",OverVotes,0
+Union,5B,U.S. Senate,"","",OverVotes,0
+Union,1A & 1B,U.S. Senate,"","",UnderVotes,2
+Union,2A & 2B,U.S. Senate,"","",UnderVotes,2
+Union,3A & 3B,U.S. Senate,"","",UnderVotes,4
+Union,3C,U.S. Senate,"","",UnderVotes,2
+Union,4A & 4C,U.S. Senate,"","",UnderVotes,4
+Union,4B,U.S. Senate,"","",UnderVotes,7
+Union,5A & 5C,U.S. Senate,"","",UnderVotes,3
+Union,5B,U.S. Senate,"","",UnderVotes,0
+Union,1A & 1B,U.S. House,3,REP,Kat Cammack,692
+Union,2A & 2B,U.S. House,3,REP,Kat Cammack,544
+Union,3A & 3B,U.S. House,3,REP,Kat Cammack,874
+Union,3C,U.S. House,3,REP,Kat Cammack,154
+Union,4A & 4C,U.S. House,3,REP,Kat Cammack,378
+Union,4B,U.S. House,3,REP,Kat Cammack,874
+Union,5A & 5C,U.S. House,3,REP,Kat Cammack,204
+Union,5B,U.S. House,3,REP,Kat Cammack,201
+Union,1A & 1B,U.S. House,3,DEM,Danielle Hawk,96
+Union,2A & 2B,U.S. House,3,DEM,Danielle Hawk,72
+Union,3A & 3B,U.S. House,3,DEM,Danielle Hawk,103
+Union,3C,U.S. House,3,DEM,Danielle Hawk,13
+Union,4A & 4C,U.S. House,3,DEM,Danielle Hawk,77
+Union,4B,U.S. House,3,DEM,Danielle Hawk,131
+Union,5A & 5C,U.S. House,3,DEM,Danielle Hawk,55
+Union,5B,U.S. House,3,DEM,Danielle Hawk,15
+Union,1A & 1B,U.S. House,3,NPA,Linda S. Brooks,5
+Union,2A & 2B,U.S. House,3,NPA,Linda S. Brooks,1
+Union,3A & 3B,U.S. House,3,NPA,Linda S. Brooks,11
+Union,3C,U.S. House,3,NPA,Linda S. Brooks,1
+Union,4A & 4C,U.S. House,3,NPA,Linda S. Brooks,7
+Union,4B,U.S. House,3,NPA,Linda S. Brooks,13
+Union,5A & 5C,U.S. House,3,NPA,Linda S. Brooks,4
+Union,5B,U.S. House,3,NPA,Linda S. Brooks,4
+Union,1A & 1B,U.S. House,3,"",OverVotes,0
+Union,2A & 2B,U.S. House,3,"",OverVotes,0
+Union,3A & 3B,U.S. House,3,"",OverVotes,1
+Union,3C,U.S. House,3,"",OverVotes,0
+Union,4A & 4C,U.S. House,3,"",OverVotes,0
+Union,4B,U.S. House,3,"",OverVotes,0
+Union,5A & 5C,U.S. House,3,"",OverVotes,0
+Union,5B,U.S. House,3,"",OverVotes,0
+Union,1A & 1B,U.S. House,3,"",UnderVotes,4
+Union,2A & 2B,U.S. House,3,"",UnderVotes,7
+Union,3A & 3B,U.S. House,3,"",UnderVotes,10
+Union,3C,U.S. House,3,"",UnderVotes,0
+Union,4A & 4C,U.S. House,3,"",UnderVotes,6
+Union,4B,U.S. House,3,"",UnderVotes,7
+Union,5A & 5C,U.S. House,3,"",UnderVotes,2
+Union,5B,U.S. House,3,"",UnderVotes,1
+Union,1A & 1B,Governor,"",REP,DeSantis / Nuñez,700
+Union,2A & 2B,Governor,"",REP,DeSantis / Nuñez,559
+Union,3A & 3B,Governor,"",REP,DeSantis / Nuñez,890
+Union,3C,Governor,"",REP,DeSantis / Nuñez,159
+Union,4A & 4C,Governor,"",REP,DeSantis / Nuñez,388
+Union,4B,Governor,"",REP,DeSantis / Nuñez,887
+Union,5A & 5C,Governor,"",REP,DeSantis / Nuñez,207
+Union,5B,Governor,"",REP,DeSantis / Nuñez,205
+Union,1A & 1B,Governor,"",DEM,Crist / Hernandez,94
+Union,2A & 2B,Governor,"",DEM,Crist / Hernandez,64
+Union,3A & 3B,Governor,"",DEM,Crist / Hernandez,103
+Union,3C,Governor,"",DEM,Crist / Hernandez,8
+Union,4A & 4C,Governor,"",DEM,Crist / Hernandez,72
+Union,4B,Governor,"",DEM,Crist / Hernandez,133
+Union,5A & 5C,Governor,"",DEM,Crist / Hernandez,55
+Union,5B,Governor,"",DEM,Crist / Hernandez,15
+Union,1A & 1B,Governor,"",LPF,Roos / Rorabaugh,1
+Union,2A & 2B,Governor,"",LPF,Roos / Rorabaugh,0
+Union,3A & 3B,Governor,"",LPF,Roos / Rorabaugh,2
+Union,3C,Governor,"",LPF,Roos / Rorabaugh,0
+Union,4A & 4C,Governor,"",LPF,Roos / Rorabaugh,3
+Union,4B,Governor,"",LPF,Roos / Rorabaugh,0
+Union,5A & 5C,Governor,"",LPF,Roos / Rorabaugh,2
+Union,5B,Governor,"",LPF,Roos / Rorabaugh,1
+Union,1A & 1B,Governor,"",NPA,Gimenez / Gibson,0
+Union,2A & 2B,Governor,"",NPA,Gimenez / Gibson,0
+Union,3A & 3B,Governor,"",NPA,Gimenez / Gibson,3
+Union,3C,Governor,"",NPA,Gimenez / Gibson,1
+Union,4A & 4C,Governor,"",NPA,Gimenez / Gibson,3
+Union,4B,Governor,"",NPA,Gimenez / Gibson,2
+Union,5A & 5C,Governor,"",NPA,Gimenez / Gibson,1
+Union,5B,Governor,"",NPA,Gimenez / Gibson,0
+Union,1A & 1B,Governor,"","",OverVotes,0
+Union,2A & 2B,Governor,"","",OverVotes,0
+Union,3A & 3B,Governor,"","",OverVotes,0
+Union,3C,Governor,"","",OverVotes,0
+Union,4A & 4C,Governor,"","",OverVotes,0
+Union,4B,Governor,"","",OverVotes,0
+Union,5A & 5C,Governor,"","",OverVotes,0
+Union,5B,Governor,"","",OverVotes,0
+Union,1A & 1B,Governor,"","",UnderVotes,1
+Union,2A & 2B,Governor,"","",UnderVotes,1
+Union,3A & 3B,Governor,"","",UnderVotes,1
+Union,3C,Governor,"","",UnderVotes,0
+Union,4A & 4C,Governor,"","",UnderVotes,2
+Union,4B,Governor,"","",UnderVotes,3
+Union,5A & 5C,Governor,"","",UnderVotes,0
+Union,5B,Governor,"","",UnderVotes,0
+Union,1A & 1B,Attorney General,"",REP,Ashley Moody,702
+Union,2A & 2B,Attorney General,"",REP,Ashley Moody,551
+Union,3A & 3B,Attorney General,"",REP,Ashley Moody,892
+Union,3C,Attorney General,"",REP,Ashley Moody,156
+Union,4A & 4C,Attorney General,"",REP,Ashley Moody,380
+Union,4B,Attorney General,"",REP,Ashley Moody,890
+Union,5A & 5C,Attorney General,"",REP,Ashley Moody,211
+Union,5B,Attorney General,"",REP,Ashley Moody,205
+Union,1A & 1B,Attorney General,"",DEM,Aramis Ayala,90
+Union,2A & 2B,Attorney General,"",DEM,Aramis Ayala,65
+Union,3A & 3B,Attorney General,"",DEM,Aramis Ayala,95
+Union,3C,Attorney General,"",DEM,Aramis Ayala,11
+Union,4A & 4C,Attorney General,"",DEM,Aramis Ayala,79
+Union,4B,Attorney General,"",DEM,Aramis Ayala,123
+Union,5A & 5C,Attorney General,"",DEM,Aramis Ayala,51
+Union,5B,Attorney General,"",DEM,Aramis Ayala,14
+Union,1A & 1B,Attorney General,"","",OverVotes,0
+Union,2A & 2B,Attorney General,"","",OverVotes,0
+Union,3A & 3B,Attorney General,"","",OverVotes,0
+Union,3C,Attorney General,"","",OverVotes,0
+Union,4A & 4C,Attorney General,"","",OverVotes,0
+Union,4B,Attorney General,"","",OverVotes,0
+Union,5A & 5C,Attorney General,"","",OverVotes,0
+Union,5B,Attorney General,"","",OverVotes,0
+Union,1A & 1B,Attorney General,"","",UnderVotes,4
+Union,2A & 2B,Attorney General,"","",UnderVotes,8
+Union,3A & 3B,Attorney General,"","",UnderVotes,12
+Union,3C,Attorney General,"","",UnderVotes,1
+Union,4A & 4C,Attorney General,"","",UnderVotes,9
+Union,4B,Attorney General,"","",UnderVotes,12
+Union,5A & 5C,Attorney General,"","",UnderVotes,3
+Union,5B,Attorney General,"","",UnderVotes,2
+Union,1A & 1B,Chief Financial Officer,"",REP,Jimmy Patronis,686
+Union,2A & 2B,Chief Financial Officer,"",REP,Jimmy Patronis,542
+Union,3A & 3B,Chief Financial Officer,"",REP,Jimmy Patronis,874
+Union,3C,Chief Financial Officer,"",REP,Jimmy Patronis,148
+Union,4A & 4C,Chief Financial Officer,"",REP,Jimmy Patronis,372
+Union,4B,Chief Financial Officer,"",REP,Jimmy Patronis,866
+Union,5A & 5C,Chief Financial Officer,"",REP,Jimmy Patronis,204
+Union,5B,Chief Financial Officer,"",REP,Jimmy Patronis,202
+Union,1A & 1B,Chief Financial Officer,"",DEM,Adam Hattersley,104
+Union,2A & 2B,Chief Financial Officer,"",DEM,Adam Hattersley,71
+Union,3A & 3B,Chief Financial Officer,"",DEM,Adam Hattersley,108
+Union,3C,Chief Financial Officer,"",DEM,Adam Hattersley,15
+Union,4A & 4C,Chief Financial Officer,"",DEM,Adam Hattersley,87
+Union,4B,Chief Financial Officer,"",DEM,Adam Hattersley,143
+Union,5A & 5C,Chief Financial Officer,"",DEM,Adam Hattersley,57
+Union,5B,Chief Financial Officer,"",DEM,Adam Hattersley,16
+Union,1A & 1B,Chief Financial Officer,"","",OverVotes,0
+Union,2A & 2B,Chief Financial Officer,"","",OverVotes,1
+Union,3A & 3B,Chief Financial Officer,"","",OverVotes,0
+Union,3C,Chief Financial Officer,"","",OverVotes,0
+Union,4A & 4C,Chief Financial Officer,"","",OverVotes,0
+Union,4B,Chief Financial Officer,"","",OverVotes,0
+Union,5A & 5C,Chief Financial Officer,"","",OverVotes,0
+Union,5B,Chief Financial Officer,"","",OverVotes,0
+Union,1A & 1B,Chief Financial Officer,"","",UnderVotes,6
+Union,2A & 2B,Chief Financial Officer,"","",UnderVotes,10
+Union,3A & 3B,Chief Financial Officer,"","",UnderVotes,17
+Union,3C,Chief Financial Officer,"","",UnderVotes,5
+Union,4A & 4C,Chief Financial Officer,"","",UnderVotes,9
+Union,4B,Chief Financial Officer,"","",UnderVotes,16
+Union,5A & 5C,Chief Financial Officer,"","",UnderVotes,4
+Union,5B,Chief Financial Officer,"","",UnderVotes,3
+Union,1A & 1B,Commissioner of Agriculture,"",REP,Wilton Simpson,700
+Union,2A & 2B,Commissioner of Agriculture,"",REP,Wilton Simpson,537
+Union,3A & 3B,Commissioner of Agriculture,"",REP,Wilton Simpson,874
+Union,3C,Commissioner of Agriculture,"",REP,Wilton Simpson,153
+Union,4A & 4C,Commissioner of Agriculture,"",REP,Wilton Simpson,373
+Union,4B,Commissioner of Agriculture,"",REP,Wilton Simpson,879
+Union,5A & 5C,Commissioner of Agriculture,"",REP,Wilton Simpson,206
+Union,5B,Commissioner of Agriculture,"",REP,Wilton Simpson,201
+Union,1A & 1B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,89
+Union,2A & 2B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,70
+Union,3A & 3B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Union,3C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,14
+Union,4A & 4C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,86
+Union,4B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,130
+Union,5A & 5C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,54
+Union,5B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,17
+Union,1A & 1B,Commissioner of Agriculture,"","",OverVotes,1
+Union,2A & 2B,Commissioner of Agriculture,"","",OverVotes,1
+Union,3A & 3B,Commissioner of Agriculture,"","",OverVotes,0
+Union,3C,Commissioner of Agriculture,"","",OverVotes,0
+Union,4A & 4C,Commissioner of Agriculture,"","",OverVotes,0
+Union,4B,Commissioner of Agriculture,"","",OverVotes,0
+Union,5A & 5C,Commissioner of Agriculture,"","",OverVotes,0
+Union,5B,Commissioner of Agriculture,"","",OverVotes,0
+Union,1A & 1B,Commissioner of Agriculture,"","",UnderVotes,6
+Union,2A & 2B,Commissioner of Agriculture,"","",UnderVotes,16
+Union,3A & 3B,Commissioner of Agriculture,"","",UnderVotes,19
+Union,3C,Commissioner of Agriculture,"","",UnderVotes,1
+Union,4A & 4C,Commissioner of Agriculture,"","",UnderVotes,9
+Union,4B,Commissioner of Agriculture,"","",UnderVotes,16
+Union,5A & 5C,Commissioner of Agriculture,"","",UnderVotes,5
+Union,5B,Commissioner of Agriculture,"","",UnderVotes,3
+Union,4A & 4C,County Commissioner,4,REP,Mac Johns,292
+Union,4B,County Commissioner,4,REP,Mac Johns,646
+Union,4A & 4C,County Commissioner,4,IND,Eric Martin,164
+Union,4B,County Commissioner,4,IND,Eric Martin,366
+Union,4A & 4C,County Commissioner,4,"",OverVotes,0
+Union,4B,County Commissioner,4,"",OverVotes,1
+Union,4A & 4C,County Commissioner,4,"",UnderVotes,12
+Union,4B,County Commissioner,4,"",UnderVotes,12
+Union,1A & 1B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,478
+Union,2A & 2B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,339
+Union,3A & 3B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,577
+Union,3C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,93
+Union,4A & 4C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,242
+Union,4B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,597
+Union,5A & 5C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,141
+Union,5B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,119
+Union,1A & 1B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,228
+Union,2A & 2B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,218
+Union,3A & 3B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,298
+Union,3C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,61
+Union,4A & 4C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,172
+Union,4B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,311
+Union,5A & 5C,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,101
+Union,5B,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,76
+Union,1A & 1B,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Union,2A & 2B,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Union,3A & 3B,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Union,3C,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Union,4A & 4C,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Union,4B,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Union,5A & 5C,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Union,5B,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Union,1A & 1B,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,89
+Union,2A & 2B,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,67
+Union,3A & 3B,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,124
+Union,3C,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,14
+Union,4A & 4C,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,54
+Union,4B,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,116
+Union,5A & 5C,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,23
+Union,5B,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,26
+Union,1A & 1B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,484
+Union,2A & 2B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,364
+Union,3A & 3B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,603
+Union,3C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,91
+Union,4A & 4C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,244
+Union,4B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,638
+Union,5A & 5C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,144
+Union,5B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,124
+Union,1A & 1B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,225
+Union,2A & 2B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,191
+Union,3A & 3B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,267
+Union,3C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,62
+Union,4A & 4C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,164
+Union,4B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,270
+Union,5A & 5C,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,98
+Union,5B,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,72
+Union,1A & 1B,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Union,2A & 2B,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Union,3A & 3B,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Union,3C,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Union,4A & 4C,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Union,4B,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Union,5A & 5C,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Union,5B,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Union,1A & 1B,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,87
+Union,2A & 2B,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,69
+Union,3A & 3B,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,129
+Union,3C,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,15
+Union,4A & 4C,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,60
+Union,4B,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,116
+Union,5A & 5C,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,23
+Union,5B,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,25
+Union,1A & 1B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,476
+Union,2A & 2B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,363
+Union,3A & 3B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,599
+Union,3C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,96
+Union,4A & 4C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,248
+Union,4B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,623
+Union,5A & 5C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,141
+Union,5B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,121
+Union,1A & 1B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,228
+Union,2A & 2B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,190
+Union,3A & 3B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,269
+Union,3C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,57
+Union,4A & 4C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,160
+Union,4B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,283
+Union,5A & 5C,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,99
+Union,5B,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,74
+Union,1A & 1B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,2A & 2B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,3A & 3B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,3C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,4A & 4C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,4B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,5A & 5C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,5B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Union,1A & 1B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,92
+Union,2A & 2B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,71
+Union,3A & 3B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,131
+Union,3C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,15
+Union,4A & 4C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,60
+Union,4B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,119
+Union,5A & 5C,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,25
+Union,5B,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,26
+Union,1A & 1B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,377
+Union,2A & 2B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,282
+Union,3A & 3B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,464
+Union,3C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,68
+Union,4A & 4C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,206
+Union,4B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,463
+Union,5A & 5C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,118
+Union,5B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,106
+Union,1A & 1B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,331
+Union,2A & 2B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,270
+Union,3A & 3B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,409
+Union,3C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,86
+Union,4A & 4C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,201
+Union,4B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,441
+Union,5A & 5C,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,125
+Union,5B,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,86
+Union,1A & 1B,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Union,2A & 2B,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Union,3A & 3B,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Union,3C,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Union,4A & 4C,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Union,4B,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Union,5A & 5C,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Union,5B,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Union,1A & 1B,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,88
+Union,2A & 2B,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,72
+Union,3A & 3B,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,126
+Union,3C,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,14
+Union,4A & 4C,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,61
+Union,4B,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,120
+Union,5A & 5C,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,22
+Union,5B,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,29
+Union,1A & 1B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,457
+Union,2A & 2B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,319
+Union,3A & 3B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,567
+Union,3C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,88
+Union,4A & 4C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,228
+Union,4B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,565
+Union,5A & 5C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,142
+Union,5B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,112
+Union,1A & 1B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,252
+Union,2A & 2B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,232
+Union,3A & 3B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,307
+Union,3C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,66
+Union,4A & 4C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,181
+Union,4B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,334
+Union,5A & 5C,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,101
+Union,5B,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,79
+Union,1A & 1B,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Union,2A & 2B,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Union,3A & 3B,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Union,3C,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Union,4A & 4C,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Union,4B,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Union,5A & 5C,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Union,5B,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Union,1A & 1B,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,87
+Union,2A & 2B,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,72
+Union,3A & 3B,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,125
+Union,3C,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,14
+Union,4A & 4C,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,59
+Union,4B,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,126
+Union,5A & 5C,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,22
+Union,5B,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,30
+Union,1A & 1B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,468
+Union,2A & 2B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,344
+Union,3A & 3B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,574
+Union,3C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,85
+Union,4A & 4C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,232
+Union,4B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,591
+Union,5A & 5C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,135
+Union,5B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,115
+Union,1A & 1B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,240
+Union,2A & 2B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,205
+Union,3A & 3B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,284
+Union,3C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,69
+Union,4A & 4C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,171
+Union,4B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,314
+Union,5A & 5C,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,106
+Union,5B,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,78
+Union,1A & 1B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Union,2A & 2B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,2
+Union,3A & 3B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Union,3C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Union,5B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,88
+Union,2A & 2B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,73
+Union,3A & 3B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,140
+Union,3C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,14
+Union,4A & 4C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,65
+Union,4B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,120
+Union,5A & 5C,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,24
+Union,5B,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,28
+Union,1A & 1B,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,452
+Union,2A & 2B,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,333
+Union,3A & 3B,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,564
+Union,3C,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,83
+Union,4A & 4C,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,245
+Union,4B,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,591
+Union,5A & 5C,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,136
+Union,5B,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,116
+Union,1A & 1B,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,253
+Union,2A & 2B,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,215
+Union,3A & 3B,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,296
+Union,3C,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,70
+Union,4A & 4C,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,160
+Union,4B,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,312
+Union,5A & 5C,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,104
+Union,5B,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,77
+Union,1A & 1B,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Union,2A & 2B,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Union,3A & 3B,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Union,5B,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,91
+Union,2A & 2B,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,75
+Union,3A & 3B,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,139
+Union,3C,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,15
+Union,4A & 4C,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,63
+Union,4B,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,122
+Union,5A & 5C,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,25
+Union,5B,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,28
+Union,1A & 1B,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,488
+Union,2A & 2B,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,361
+Union,3A & 3B,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,589
+Union,3C,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,94
+Union,4A & 4C,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,255
+Union,4B,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,628
+Union,5A & 5C,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,136
+Union,5B,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,118
+Union,1A & 1B,Retention of Bobby Long,First District Court of Appeal,NOP,No,216
+Union,2A & 2B,Retention of Bobby Long,First District Court of Appeal,NOP,No,192
+Union,3A & 3B,Retention of Bobby Long,First District Court of Appeal,NOP,No,267
+Union,3C,Retention of Bobby Long,First District Court of Appeal,NOP,No,60
+Union,4A & 4C,Retention of Bobby Long,First District Court of Appeal,NOP,No,151
+Union,4B,Retention of Bobby Long,First District Court of Appeal,NOP,No,278
+Union,5A & 5C,Retention of Bobby Long,First District Court of Appeal,NOP,No,102
+Union,5B,Retention of Bobby Long,First District Court of Appeal,NOP,No,75
+Union,1A & 1B,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,2
+Union,2A & 2B,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Union,3A & 3B,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Union,5B,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,90
+Union,2A & 2B,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,71
+Union,3A & 3B,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,143
+Union,3C,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,14
+Union,4A & 4C,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,62
+Union,4B,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,119
+Union,5A & 5C,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,27
+Union,5B,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,28
+Union,1A & 1B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,447
+Union,2A & 2B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,321
+Union,3A & 3B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,533
+Union,3C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,83
+Union,4A & 4C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,241
+Union,4B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,539
+Union,5A & 5C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,127
+Union,5B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,113
+Union,1A & 1B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,255
+Union,2A & 2B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,228
+Union,3A & 3B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,326
+Union,3C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,71
+Union,4A & 4C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,162
+Union,4B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,358
+Union,5A & 5C,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,114
+Union,5B,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,80
+Union,1A & 1B,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,2A & 2B,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,3A & 3B,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,5B,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,94
+Union,2A & 2B,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,75
+Union,3A & 3B,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,140
+Union,3C,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,14
+Union,4A & 4C,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,65
+Union,4B,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,128
+Union,5A & 5C,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,24
+Union,5B,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,28
+Union,1A & 1B,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,474
+Union,2A & 2B,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,357
+Union,3A & 3B,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,562
+Union,3C,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,88
+Union,4A & 4C,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,234
+Union,4B,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,611
+Union,5A & 5C,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,136
+Union,5B,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,118
+Union,1A & 1B,Retention of Bo Winokur,First District Court of Appeal,NOP,No,235
+Union,2A & 2B,Retention of Bo Winokur,First District Court of Appeal,NOP,No,192
+Union,3A & 3B,Retention of Bo Winokur,First District Court of Appeal,NOP,No,295
+Union,3C,Retention of Bo Winokur,First District Court of Appeal,NOP,No,66
+Union,4A & 4C,Retention of Bo Winokur,First District Court of Appeal,NOP,No,172
+Union,4B,Retention of Bo Winokur,First District Court of Appeal,NOP,No,293
+Union,5A & 5C,Retention of Bo Winokur,First District Court of Appeal,NOP,No,104
+Union,5B,Retention of Bo Winokur,First District Court of Appeal,NOP,No,75
+Union,1A & 1B,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Union,2A & 2B,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Union,3A & 3B,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Union,3C,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Union,5B,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,87
+Union,2A & 2B,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,75
+Union,3A & 3B,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,141
+Union,3C,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,14
+Union,4A & 4C,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,62
+Union,4B,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,121
+Union,5A & 5C,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,25
+Union,5B,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,28
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,680
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,520
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,816
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,146
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,375
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,840
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,202
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,188
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,62
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,57
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,87
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,11
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,54
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,96
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,40
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,14
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,54
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,47
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,96
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,11
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,39
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,89
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,23
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,19
+Union,1A & 1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,411
+Union,2A & 2B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,295
+Union,3A & 3B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,508
+Union,3C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,89
+Union,4A & 4C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,244
+Union,4B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,571
+Union,5A & 5C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,137
+Union,5B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,114
+Union,1A & 1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,337
+Union,2A & 2B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,287
+Union,3A & 3B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,408
+Union,3C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,68
+Union,4A & 4C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,187
+Union,4B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,383
+Union,5A & 5C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,107
+Union,5B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,89
+Union,1A & 1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Union,3C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Union,4B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Union,5A & 5C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Union,5B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,48
+Union,2A & 2B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,42
+Union,3A & 3B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,81
+Union,3C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,11
+Union,4A & 4C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,37
+Union,4B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,70
+Union,5A & 5C,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,21
+Union,5B,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,18
+Union,1A & 1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,378
+Union,2A & 2B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,294
+Union,3A & 3B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,463
+Union,3C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,76
+Union,4A & 4C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,215
+Union,4B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,500
+Union,5A & 5C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,126
+Union,5B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,104
+Union,1A & 1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,359
+Union,2A & 2B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,285
+Union,3A & 3B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,446
+Union,3C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,79
+Union,4A & 4C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,201
+Union,4B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,442
+Union,5A & 5C,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,117
+Union,5B,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,95
+Union,1A & 1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,3C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,4B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,5B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,59
+Union,2A & 2B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,45
+Union,3A & 3B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,90
+Union,3C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,13
+Union,4A & 4C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,52
+Union,4B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,83
+Union,5A & 5C,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,22
+Union,5B,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,22
+Union,1A & 1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,473
+Union,2A & 2B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,410
+Union,3A & 3B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,560
+Union,3C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,95
+Union,4A & 4C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,262
+Union,4B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,547
+Union,5A & 5C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,158
+Union,5B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,119
+Union,1A & 1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,285
+Union,2A & 2B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,181
+Union,3A & 3B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,387
+Union,3C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,62
+Union,4A & 4C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,169
+Union,4B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,429
+Union,5A & 5C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,94
+Union,5B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,86
+Union,1A & 1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
+Union,3A & 3B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Union,3C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Union,4B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
+Union,5A & 5C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Union,5B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,38
+Union,2A & 2B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,31
+Union,3A & 3B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,52
+Union,3C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,11
+Union,4A & 4C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,37
+Union,4B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,47
+Union,5A & 5C,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,13
+Union,5B,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,16
