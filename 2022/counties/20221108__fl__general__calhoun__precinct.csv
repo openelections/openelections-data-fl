@@ -1,0 +1,967 @@
+county,precinct,office,district,party,candidate,votes
+Calhoun,Neal Civic Center - 101,U.S. Senate, ,REP,Marco Rubio,527
+Calhoun,Westside VFD - 102,U.S. Senate, ,REP,Marco Rubio,355
+Calhoun,Altha Old Gym - 201,U.S. Senate, ,REP,Marco Rubio,562
+Calhoun,Neal Civic Center - 202,U.S. Senate, ,REP,Marco Rubio,512
+Calhoun,Shelton Park Library - 301,U.S. Senate, ,REP,Marco Rubio,740
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, ,REP,Marco Rubio,384
+Calhoun,Scout House - 401,U.S. Senate, ,REP,Marco Rubio,143
+Calhoun,Kinard Public Library - 402,U.S. Senate, ,REP,Marco Rubio,45
+Calhoun,Neal Civic Center - 501,U.S. Senate, ,REP,Marco Rubio,391
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, ,REP,Marco Rubio,135
+Calhoun,Kinard Public Library - 503,U.S. Senate, ,REP,Marco Rubio,273
+Calhoun,Neal Civic Center - 101,U.S. Senate, ,DEM,Val Demings,81
+Calhoun,Westside VFD - 102,U.S. Senate, ,DEM,Val Demings,54
+Calhoun,Altha Old Gym - 201,U.S. Senate, ,DEM,Val Demings,46
+Calhoun,Neal Civic Center - 202,U.S. Senate, ,DEM,Val Demings,85
+Calhoun,Shelton Park Library - 301,U.S. Senate, ,DEM,Val Demings,62
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, ,DEM,Val Demings,26
+Calhoun,Scout House - 401,U.S. Senate, ,DEM,Val Demings,224
+Calhoun,Kinard Public Library - 402,U.S. Senate, ,DEM,Val Demings,2
+Calhoun,Neal Civic Center - 501,U.S. Senate, ,DEM,Val Demings,80
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, ,DEM,Val Demings,8
+Calhoun,Kinard Public Library - 503,U.S. Senate, ,DEM,Val Demings,32
+Calhoun,Neal Civic Center - 101,U.S. Senate, ,LPF,Dennis Misigoy,0
+Calhoun,Westside VFD - 102,U.S. Senate, ,LPF,Dennis Misigoy,2
+Calhoun,Altha Old Gym - 201,U.S. Senate, ,LPF,Dennis Misigoy,1
+Calhoun,Neal Civic Center - 202,U.S. Senate, ,LPF,Dennis Misigoy,1
+Calhoun,Shelton Park Library - 301,U.S. Senate, ,LPF,Dennis Misigoy,3
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, ,LPF,Dennis Misigoy,1
+Calhoun,Scout House - 401,U.S. Senate, ,LPF,Dennis Misigoy,3
+Calhoun,Kinard Public Library - 402,U.S. Senate, ,LPF,Dennis Misigoy,0
+Calhoun,Neal Civic Center - 501,U.S. Senate, ,LPF,Dennis Misigoy,0
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, ,LPF,Dennis Misigoy,1
+Calhoun,Kinard Public Library - 503,U.S. Senate, ,LPF,Dennis Misigoy,1
+Calhoun,Neal Civic Center - 101,U.S. Senate, ,NPA,Steven B. Grant,0
+Calhoun,Westside VFD - 102,U.S. Senate, ,NPA,Steven B. Grant,5
+Calhoun,Altha Old Gym - 201,U.S. Senate, ,NPA,Steven B. Grant,7
+Calhoun,Neal Civic Center - 202,U.S. Senate, ,NPA,Steven B. Grant,5
+Calhoun,Shelton Park Library - 301,U.S. Senate, ,NPA,Steven B. Grant,7
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, ,NPA,Steven B. Grant,3
+Calhoun,Scout House - 401,U.S. Senate, ,NPA,Steven B. Grant,5
+Calhoun,Kinard Public Library - 402,U.S. Senate, ,NPA,Steven B. Grant,1
+Calhoun,Neal Civic Center - 501,U.S. Senate, ,NPA,Steven B. Grant,5
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, ,NPA,Steven B. Grant,1
+Calhoun,Kinard Public Library - 503,U.S. Senate, ,NPA,Steven B. Grant,1
+Calhoun,Neal Civic Center - 101,U.S. Senate, ,NPA,Tuan TQ Nguyen,2
+Calhoun,Westside VFD - 102,U.S. Senate, ,NPA,Tuan TQ Nguyen,1
+Calhoun,Altha Old Gym - 201,U.S. Senate, ,NPA,Tuan TQ Nguyen,0
+Calhoun,Neal Civic Center - 202,U.S. Senate, ,NPA,Tuan TQ Nguyen,1
+Calhoun,Shelton Park Library - 301,U.S. Senate, ,NPA,Tuan TQ Nguyen,4
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, ,NPA,Tuan TQ Nguyen,1
+Calhoun,Scout House - 401,U.S. Senate, ,NPA,Tuan TQ Nguyen,1
+Calhoun,Kinard Public Library - 402,U.S. Senate, ,NPA,Tuan TQ Nguyen,0
+Calhoun,Neal Civic Center - 501,U.S. Senate, ,NPA,Tuan TQ Nguyen,2
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, ,NPA,Tuan TQ Nguyen,0
+Calhoun,Kinard Public Library - 503,U.S. Senate, ,NPA,Tuan TQ Nguyen,0
+Calhoun,Neal Civic Center - 101,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Westside VFD - 102,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Altha Old Gym - 201,U.S. Senate, , ,WriteinVotes,2
+Calhoun,Neal Civic Center - 202,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Shelton Park Library - 301,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, , ,WriteinVotes,1
+Calhoun,Scout House - 401,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Kinard Public Library - 402,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Neal Civic Center - 501,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Kinard Public Library - 503,U.S. Senate, , ,WriteinVotes,0
+Calhoun,Neal Civic Center - 101,U.S. Senate, , ,OverVotes,0
+Calhoun,Westside VFD - 102,U.S. Senate, , ,OverVotes,0
+Calhoun,Altha Old Gym - 201,U.S. Senate, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,U.S. Senate, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,U.S. Senate, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, , ,OverVotes,0
+Calhoun,Scout House - 401,U.S. Senate, , ,OverVotes,1
+Calhoun,Kinard Public Library - 402,U.S. Senate, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,U.S. Senate, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,U.S. Senate, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,U.S. Senate, , ,UnderVotes,3
+Calhoun,Westside VFD - 102,U.S. Senate, , ,UnderVotes,2
+Calhoun,Altha Old Gym - 201,U.S. Senate, , ,UnderVotes,4
+Calhoun,Neal Civic Center - 202,U.S. Senate, , ,UnderVotes,5
+Calhoun,Shelton Park Library - 301,U.S. Senate, , ,UnderVotes,4
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate, , ,UnderVotes,3
+Calhoun,Scout House - 401,U.S. Senate, , ,UnderVotes,4
+Calhoun,Kinard Public Library - 402,U.S. Senate, , ,UnderVotes,0
+Calhoun,Neal Civic Center - 501,U.S. Senate, , ,UnderVotes,6
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate, , ,UnderVotes,0
+Calhoun,Kinard Public Library - 503,U.S. Senate, , ,UnderVotes,1
+Calhoun,Neal Civic Center - 101,U.S. House, District 2,REP,Neal Dunn,518
+Calhoun,Westside VFD - 102,U.S. House, District 2,REP,Neal Dunn,357
+Calhoun,Altha Old Gym - 201,U.S. House, District 2,REP,Neal Dunn,556
+Calhoun,Neal Civic Center - 202,U.S. House, District 2,REP,Neal Dunn,510
+Calhoun,Shelton Park Library - 301,U.S. House, District 2,REP,Neal Dunn,758
+Calhoun,Carr-Clarksville VFD - 302,U.S. House, District 2,REP,Neal Dunn,388
+Calhoun,Scout House - 401,U.S. House, District 2,REP,Neal Dunn,143
+Calhoun,Kinard Public Library - 402,U.S. House, District 2,REP,Neal Dunn,46
+Calhoun,Neal Civic Center - 501,U.S. House, District 2,REP,Neal Dunn,391
+Calhoun,Carr-Clarksville VFD - 502,U.S. House, District 2,REP,Neal Dunn,134
+Calhoun,Kinard Public Library - 503,U.S. House, District 2,REP,Neal Dunn,267
+Calhoun,Neal Civic Center - 101,U.S. House, District 2,DEM,Al Lawson,93
+Calhoun,Westside VFD - 102,U.S. House, District 2,DEM,Al Lawson,61
+Calhoun,Altha Old Gym - 201,U.S. House, District 2,DEM,Al Lawson,61
+Calhoun,Neal Civic Center - 202,U.S. House, District 2,DEM,Al Lawson,93
+Calhoun,Shelton Park Library - 301,U.S. House, District 2,DEM,Al Lawson,59
+Calhoun,Carr-Clarksville VFD - 302,U.S. House, District 2,DEM,Al Lawson,29
+Calhoun,Scout House - 401,U.S. House, District 2,DEM,Al Lawson,234
+Calhoun,Kinard Public Library - 402,U.S. House, District 2,DEM,Al Lawson,2
+Calhoun,Neal Civic Center - 501,U.S. House, District 2,DEM,Al Lawson,90
+Calhoun,Carr-Clarksville VFD - 502,U.S. House, District 2,DEM,Al Lawson,10
+Calhoun,Kinard Public Library - 503,U.S. House, District 2,DEM,Al Lawson,36
+Calhoun,Neal Civic Center - 101,U.S. House, District 2, ,OverVotes,0
+Calhoun,Westside VFD - 102,U.S. House, District 2, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,U.S. House, District 2, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,U.S. House, District 2, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,U.S. House, District 2, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,U.S. House, District 2, ,OverVotes,0
+Calhoun,Scout House - 401,U.S. House, District 2, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,U.S. House, District 2, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,U.S. House, District 2, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,U.S. House, District 2, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,U.S. House, District 2, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,U.S. House, District 2, ,UnderVotes,2
+Calhoun,Westside VFD - 102,U.S. House, District 2, ,UnderVotes,1
+Calhoun,Altha Old Gym - 201,U.S. House, District 2, ,UnderVotes,5
+Calhoun,Neal Civic Center - 202,U.S. House, District 2, ,UnderVotes,6
+Calhoun,Shelton Park Library - 301,U.S. House, District 2, ,UnderVotes,3
+Calhoun,Carr-Clarksville VFD - 302,U.S. House, District 2, ,UnderVotes,2
+Calhoun,Scout House - 401,U.S. House, District 2, ,UnderVotes,4
+Calhoun,Kinard Public Library - 402,U.S. House, District 2, ,UnderVotes,0
+Calhoun,Neal Civic Center - 501,U.S. House, District 2, ,UnderVotes,3
+Calhoun,Carr-Clarksville VFD - 502,U.S. House, District 2, ,UnderVotes,1
+Calhoun,Kinard Public Library - 503,U.S. House, District 2, ,UnderVotes,5
+Calhoun,Neal Civic Center - 101,Governor, ,REP,DeSantis / Nuñez,531
+Calhoun,Westside VFD - 102,Governor, ,REP,DeSantis / Nuñez,364
+Calhoun,Altha Old Gym - 201,Governor, ,REP,DeSantis / Nuñez,574
+Calhoun,Neal Civic Center - 202,Governor, ,REP,DeSantis / Nuñez,525
+Calhoun,Shelton Park Library - 301,Governor, ,REP,DeSantis / Nuñez,763
+Calhoun,Carr-Clarksville VFD - 302,Governor, ,REP,DeSantis / Nuñez,399
+Calhoun,Scout House - 401,Governor, ,REP,DeSantis / Nuñez,158
+Calhoun,Kinard Public Library - 402,Governor, ,REP,DeSantis / Nuñez,48
+Calhoun,Neal Civic Center - 501,Governor, ,REP,DeSantis / Nuñez,404
+Calhoun,Carr-Clarksville VFD - 502,Governor, ,REP,DeSantis / Nuñez,136
+Calhoun,Kinard Public Library - 503,Governor, ,REP,DeSantis / Nuñez,278
+Calhoun,Neal Civic Center - 101,Governor, ,DEM,Crist / Hernandez,77
+Calhoun,Westside VFD - 102,Governor, ,DEM,Crist / Hernandez,54
+Calhoun,Altha Old Gym - 201,Governor, ,DEM,Crist / Hernandez,44
+Calhoun,Neal Civic Center - 202,Governor, ,DEM,Crist / Hernandez,80
+Calhoun,Shelton Park Library - 301,Governor, ,DEM,Crist / Hernandez,52
+Calhoun,Carr-Clarksville VFD - 302,Governor, ,DEM,Crist / Hernandez,18
+Calhoun,Scout House - 401,Governor, ,DEM,Crist / Hernandez,216
+Calhoun,Kinard Public Library - 402,Governor, ,DEM,Crist / Hernandez,0
+Calhoun,Neal Civic Center - 501,Governor, ,DEM,Crist / Hernandez,79
+Calhoun,Carr-Clarksville VFD - 502,Governor, ,DEM,Crist / Hernandez,7
+Calhoun,Kinard Public Library - 503,Governor, ,DEM,Crist / Hernandez,30
+Calhoun,Neal Civic Center - 101,Governor, ,LPF,Roos / Rorabaugh,0
+Calhoun,Westside VFD - 102,Governor, ,LPF,Roos / Rorabaugh,0
+Calhoun,Altha Old Gym - 201,Governor, ,LPF,Roos / Rorabaugh,1
+Calhoun,Neal Civic Center - 202,Governor, ,LPF,Roos / Rorabaugh,2
+Calhoun,Shelton Park Library - 301,Governor, ,LPF,Roos / Rorabaugh,1
+Calhoun,Carr-Clarksville VFD - 302,Governor, ,LPF,Roos / Rorabaugh,0
+Calhoun,Scout House - 401,Governor, ,LPF,Roos / Rorabaugh,2
+Calhoun,Kinard Public Library - 402,Governor, ,LPF,Roos / Rorabaugh,0
+Calhoun,Neal Civic Center - 501,Governor, ,LPF,Roos / Rorabaugh,0
+Calhoun,Carr-Clarksville VFD - 502,Governor, ,LPF,Roos / Rorabaugh,1
+Calhoun,Kinard Public Library - 503,Governor, ,LPF,Roos / Rorabaugh,0
+Calhoun,Neal Civic Center - 101,Governor, ,NPA,Gimenez / Gibson,4
+Calhoun,Westside VFD - 102,Governor, ,NPA,Gimenez / Gibson,1
+Calhoun,Altha Old Gym - 201,Governor, ,NPA,Gimenez / Gibson,1
+Calhoun,Neal Civic Center - 202,Governor, ,NPA,Gimenez / Gibson,2
+Calhoun,Shelton Park Library - 301,Governor, ,NPA,Gimenez / Gibson,1
+Calhoun,Carr-Clarksville VFD - 302,Governor, ,NPA,Gimenez / Gibson,0
+Calhoun,Scout House - 401,Governor, ,NPA,Gimenez / Gibson,4
+Calhoun,Kinard Public Library - 402,Governor, ,NPA,Gimenez / Gibson,0
+Calhoun,Neal Civic Center - 501,Governor, ,NPA,Gimenez / Gibson,0
+Calhoun,Carr-Clarksville VFD - 502,Governor, ,NPA,Gimenez / Gibson,1
+Calhoun,Kinard Public Library - 503,Governor, ,NPA,Gimenez / Gibson,0
+Calhoun,Neal Civic Center - 101,Governor, , ,OverVotes,0
+Calhoun,Westside VFD - 102,Governor, , ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Governor, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Governor, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Governor, , ,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 302,Governor, , ,OverVotes,0
+Calhoun,Scout House - 401,Governor, , ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Governor, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Governor, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Governor, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Governor, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Governor, , ,UnderVotes,1
+Calhoun,Westside VFD - 102,Governor, , ,UnderVotes,0
+Calhoun,Altha Old Gym - 201,Governor, , ,UnderVotes,2
+Calhoun,Neal Civic Center - 202,Governor, , ,UnderVotes,0
+Calhoun,Shelton Park Library - 301,Governor, , ,UnderVotes,2
+Calhoun,Carr-Clarksville VFD - 302,Governor, , ,UnderVotes,2
+Calhoun,Scout House - 401,Governor, , ,UnderVotes,1
+Calhoun,Kinard Public Library - 402,Governor, , ,UnderVotes,0
+Calhoun,Neal Civic Center - 501,Governor, , ,UnderVotes,1
+Calhoun,Carr-Clarksville VFD - 502,Governor, , ,UnderVotes,0
+Calhoun,Kinard Public Library - 503,Governor, , ,UnderVotes,0
+Calhoun,Neal Civic Center - 101,Attorney General, ,REP,Ashley Moody,533
+Calhoun,Westside VFD - 102,Attorney General, ,REP,Ashley Moody,363
+Calhoun,Altha Old Gym - 201,Attorney General, ,REP,Ashley Moody,571
+Calhoun,Neal Civic Center - 202,Attorney General, ,REP,Ashley Moody,526
+Calhoun,Shelton Park Library - 301,Attorney General, ,REP,Ashley Moody,762
+Calhoun,Carr-Clarksville VFD - 302,Attorney General, ,REP,Ashley Moody,396
+Calhoun,Scout House - 401,Attorney General, ,REP,Ashley Moody,168
+Calhoun,Kinard Public Library - 402,Attorney General, ,REP,Ashley Moody,47
+Calhoun,Neal Civic Center - 501,Attorney General, ,REP,Ashley Moody,405
+Calhoun,Carr-Clarksville VFD - 502,Attorney General, ,REP,Ashley Moody,133
+Calhoun,Kinard Public Library - 503,Attorney General, ,REP,Ashley Moody,275
+Calhoun,Neal Civic Center - 101,Attorney General, ,DEM,Aramis Ayala,79
+Calhoun,Westside VFD - 102,Attorney General, ,DEM,Aramis Ayala,52
+Calhoun,Altha Old Gym - 201,Attorney General, ,DEM,Aramis Ayala,46
+Calhoun,Neal Civic Center - 202,Attorney General, ,DEM,Aramis Ayala,75
+Calhoun,Shelton Park Library - 301,Attorney General, ,DEM,Aramis Ayala,53
+Calhoun,Carr-Clarksville VFD - 302,Attorney General, ,DEM,Aramis Ayala,21
+Calhoun,Scout House - 401,Attorney General, ,DEM,Aramis Ayala,209
+Calhoun,Kinard Public Library - 402,Attorney General, ,DEM,Aramis Ayala,1
+Calhoun,Neal Civic Center - 501,Attorney General, ,DEM,Aramis Ayala,75
+Calhoun,Carr-Clarksville VFD - 502,Attorney General, ,DEM,Aramis Ayala,11
+Calhoun,Kinard Public Library - 503,Attorney General, ,DEM,Aramis Ayala,30
+Calhoun,Neal Civic Center - 101,Attorney General, , ,OverVotes,0
+Calhoun,Westside VFD - 102,Attorney General, , ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Attorney General, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Attorney General, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Attorney General, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Attorney General, , ,OverVotes,0
+Calhoun,Scout House - 401,Attorney General, , ,OverVotes,2
+Calhoun,Kinard Public Library - 402,Attorney General, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Attorney General, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Attorney General, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Attorney General, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Attorney General, , ,UnderVotes,1
+Calhoun,Westside VFD - 102,Attorney General, , ,UnderVotes,4
+Calhoun,Altha Old Gym - 201,Attorney General, , ,UnderVotes,5
+Calhoun,Neal Civic Center - 202,Attorney General, , ,UnderVotes,8
+Calhoun,Shelton Park Library - 301,Attorney General, , ,UnderVotes,5
+Calhoun,Carr-Clarksville VFD - 302,Attorney General, , ,UnderVotes,2
+Calhoun,Scout House - 401,Attorney General, , ,UnderVotes,2
+Calhoun,Kinard Public Library - 402,Attorney General, , ,UnderVotes,0
+Calhoun,Neal Civic Center - 501,Attorney General, , ,UnderVotes,4
+Calhoun,Carr-Clarksville VFD - 502,Attorney General, , ,UnderVotes,1
+Calhoun,Kinard Public Library - 503,Attorney General, , ,UnderVotes,3
+Calhoun,Neal Civic Center - 101,Chief Financial Officer, ,REP,Jimmy Patronis,526
+Calhoun,Westside VFD - 102,Chief Financial Officer, ,REP,Jimmy Patronis,359
+Calhoun,Altha Old Gym - 201,Chief Financial Officer, ,REP,Jimmy Patronis,570
+Calhoun,Neal Civic Center - 202,Chief Financial Officer, ,REP,Jimmy Patronis,523
+Calhoun,Shelton Park Library - 301,Chief Financial Officer, ,REP,Jimmy Patronis,760
+Calhoun,Carr-Clarksville VFD - 302,Chief Financial Officer, ,REP,Jimmy Patronis,395
+Calhoun,Scout House - 401,Chief Financial Officer, ,REP,Jimmy Patronis,156
+Calhoun,Kinard Public Library - 402,Chief Financial Officer, ,REP,Jimmy Patronis,47
+Calhoun,Neal Civic Center - 501,Chief Financial Officer, ,REP,Jimmy Patronis,406
+Calhoun,Carr-Clarksville VFD - 502,Chief Financial Officer, ,REP,Jimmy Patronis,135
+Calhoun,Kinard Public Library - 503,Chief Financial Officer, ,REP,Jimmy Patronis,274
+Calhoun,Neal Civic Center - 101,Chief Financial Officer, ,DEM,Adam Hattersley,86
+Calhoun,Westside VFD - 102,Chief Financial Officer, ,DEM,Adam Hattersley,54
+Calhoun,Altha Old Gym - 201,Chief Financial Officer, ,DEM,Adam Hattersley,48
+Calhoun,Neal Civic Center - 202,Chief Financial Officer, ,DEM,Adam Hattersley,81
+Calhoun,Shelton Park Library - 301,Chief Financial Officer, ,DEM,Adam Hattersley,54
+Calhoun,Carr-Clarksville VFD - 302,Chief Financial Officer, ,DEM,Adam Hattersley,22
+Calhoun,Scout House - 401,Chief Financial Officer, ,DEM,Adam Hattersley,219
+Calhoun,Kinard Public Library - 402,Chief Financial Officer, ,DEM,Adam Hattersley,1
+Calhoun,Neal Civic Center - 501,Chief Financial Officer, ,DEM,Adam Hattersley,76
+Calhoun,Carr-Clarksville VFD - 502,Chief Financial Officer, ,DEM,Adam Hattersley,8
+Calhoun,Kinard Public Library - 503,Chief Financial Officer, ,DEM,Adam Hattersley,31
+Calhoun,Neal Civic Center - 101,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Westside VFD - 102,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Scout House - 401,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Chief Financial Officer, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Chief Financial Officer, , ,UnderVotes,1
+Calhoun,Westside VFD - 102,Chief Financial Officer, , ,UnderVotes,6
+Calhoun,Altha Old Gym - 201,Chief Financial Officer, , ,UnderVotes,4
+Calhoun,Neal Civic Center - 202,Chief Financial Officer, , ,UnderVotes,5
+Calhoun,Shelton Park Library - 301,Chief Financial Officer, , ,UnderVotes,6
+Calhoun,Carr-Clarksville VFD - 302,Chief Financial Officer, , ,UnderVotes,2
+Calhoun,Scout House - 401,Chief Financial Officer, , ,UnderVotes,6
+Calhoun,Kinard Public Library - 402,Chief Financial Officer, , ,UnderVotes,0
+Calhoun,Neal Civic Center - 501,Chief Financial Officer, , ,UnderVotes,2
+Calhoun,Carr-Clarksville VFD - 502,Chief Financial Officer, , ,UnderVotes,2
+Calhoun,Kinard Public Library - 503,Chief Financial Officer, , ,UnderVotes,3
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture, ,REP,Wilton Simpson,515
+Calhoun,Westside VFD - 102,Commissioner of Agriculture, ,REP,Wilton Simpson,357
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture, ,REP,Wilton Simpson,555
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture, ,REP,Wilton Simpson,507
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture, ,REP,Wilton Simpson,743
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture, ,REP,Wilton Simpson,385
+Calhoun,Scout House - 401,Commissioner of Agriculture, ,REP,Wilton Simpson,152
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture, ,REP,Wilton Simpson,46
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture, ,REP,Wilton Simpson,387
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture, ,REP,Wilton Simpson,132
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture, ,REP,Wilton Simpson,265
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,91
+Calhoun,Westside VFD - 102,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,52
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,58
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,91
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,66
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,28
+Calhoun,Scout House - 401,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,221
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,1
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,87
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,11
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture, ,DEM,Naomi Esther Blemur,35
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture, , ,OverVotes,1
+Calhoun,Westside VFD - 102,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Scout House - 401,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture, , ,UnderVotes,6
+Calhoun,Westside VFD - 102,Commissioner of Agriculture, , ,UnderVotes,10
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture, , ,UnderVotes,9
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture, , ,UnderVotes,11
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture, , ,UnderVotes,11
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture, , ,UnderVotes,6
+Calhoun,Scout House - 401,Commissioner of Agriculture, , ,UnderVotes,8
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture, , ,UnderVotes,1
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture, , ,UnderVotes,10
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture, , ,UnderVotes,2
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture, , ,UnderVotes,8
+Calhoun,Neal Civic Center - 101,State Senate, District 2,REP,Jay Trumbull,521
+Calhoun,Westside VFD - 102,State Senate, District 2,REP,Jay Trumbull,360
+Calhoun,Altha Old Gym - 201,State Senate, District 2,REP,Jay Trumbull,559
+Calhoun,Neal Civic Center - 202,State Senate, District 2,REP,Jay Trumbull,519
+Calhoun,Shelton Park Library - 301,State Senate, District 2,REP,Jay Trumbull,741
+Calhoun,Carr-Clarksville VFD - 302,State Senate, District 2,REP,Jay Trumbull,387
+Calhoun,Scout House - 401,State Senate, District 2,REP,Jay Trumbull,153
+Calhoun,Kinard Public Library - 402,State Senate, District 2,REP,Jay Trumbull,45
+Calhoun,Neal Civic Center - 501,State Senate, District 2,REP,Jay Trumbull,395
+Calhoun,Carr-Clarksville VFD - 502,State Senate, District 2,REP,Jay Trumbull,134
+Calhoun,Kinard Public Library - 503,State Senate, District 2,REP,Jay Trumbull,265
+Calhoun,Neal Civic Center - 101,State Senate, District 2,DEM,Carolynn Zonia,88
+Calhoun,Westside VFD - 102,State Senate, District 2,DEM,Carolynn Zonia,53
+Calhoun,Altha Old Gym - 201,State Senate, District 2,DEM,Carolynn Zonia,54
+Calhoun,Neal Civic Center - 202,State Senate, District 2,DEM,Carolynn Zonia,80
+Calhoun,Shelton Park Library - 301,State Senate, District 2,DEM,Carolynn Zonia,60
+Calhoun,Carr-Clarksville VFD - 302,State Senate, District 2,DEM,Carolynn Zonia,27
+Calhoun,Scout House - 401,State Senate, District 2,DEM,Carolynn Zonia,218
+Calhoun,Kinard Public Library - 402,State Senate, District 2,DEM,Carolynn Zonia,3
+Calhoun,Neal Civic Center - 501,State Senate, District 2,DEM,Carolynn Zonia,77
+Calhoun,Carr-Clarksville VFD - 502,State Senate, District 2,DEM,Carolynn Zonia,9
+Calhoun,Kinard Public Library - 503,State Senate, District 2,DEM,Carolynn Zonia,35
+Calhoun,Neal Civic Center - 101,State Senate, District 2, ,OverVotes,0
+Calhoun,Westside VFD - 102,State Senate, District 2, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,State Senate, District 2, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,State Senate, District 2, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,State Senate, District 2, ,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 302,State Senate, District 2, ,OverVotes,0
+Calhoun,Scout House - 401,State Senate, District 2, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,State Senate, District 2, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,State Senate, District 2, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,State Senate, District 2, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,State Senate, District 2, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,State Senate, District 2, ,UnderVotes,4
+Calhoun,Westside VFD - 102,State Senate, District 2, ,UnderVotes,6
+Calhoun,Altha Old Gym - 201,State Senate, District 2, ,UnderVotes,9
+Calhoun,Neal Civic Center - 202,State Senate, District 2, ,UnderVotes,10
+Calhoun,Shelton Park Library - 301,State Senate, District 2, ,UnderVotes,18
+Calhoun,Carr-Clarksville VFD - 302,State Senate, District 2, ,UnderVotes,5
+Calhoun,Scout House - 401,State Senate, District 2, ,UnderVotes,10
+Calhoun,Kinard Public Library - 402,State Senate, District 2, ,UnderVotes,0
+Calhoun,Neal Civic Center - 501,State Senate, District 2, ,UnderVotes,12
+Calhoun,Carr-Clarksville VFD - 502,State Senate, District 2, ,UnderVotes,2
+Calhoun,Kinard Public Library - 503,State Senate, District 2, ,UnderVotes,8
+Calhoun,Altha Old Gym - 201,County Commissioner, District 2,REP,Aaron Carter,344
+Calhoun,Neal Civic Center - 202,County Commissioner, District 2,REP,Aaron Carter,407
+Calhoun,Altha Old Gym - 201,County Commissioner, District 2,DEM,Earl Hunt,275
+Calhoun,Neal Civic Center - 202,County Commissioner, District 2,DEM,Earl Hunt,194
+Calhoun,Altha Old Gym - 201,County Commissioner, District 2, ,OverVotes,2
+Calhoun,Neal Civic Center - 202,County Commissioner, District 2, ,OverVotes,1
+Calhoun,Altha Old Gym - 201,County Commissioner, District 2, ,UnderVotes,1
+Calhoun,Neal Civic Center - 202,County Commissioner, District 2, ,UnderVotes,7
+Calhoun,Neal Civic Center - 501,County Commissioner, District 5,REP,Gene Bailey,363
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner, District 5,REP,Gene Bailey,120
+Calhoun,Kinard Public Library - 503,County Commissioner, District 5,REP,Gene Bailey,260
+Calhoun,Neal Civic Center - 501,County Commissioner, District 5,DEM,Harold Pickron,114
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner, District 5,DEM,Harold Pickron,23
+Calhoun,Kinard Public Library - 503,County Commissioner, District 5,DEM,Harold Pickron,45
+Calhoun,Neal Civic Center - 501,County Commissioner, District 5, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner, District 5, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,County Commissioner, District 5, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,County Commissioner, District 5, ,UnderVotes,7
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner, District 5, ,UnderVotes,2
+Calhoun,Kinard Public Library - 503,County Commissioner, District 5, ,UnderVotes,3
+Calhoun,Neal Civic Center - 101,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,383
+Calhoun,Westside VFD - 102,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,226
+Calhoun,Altha Old Gym - 201,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,371
+Calhoun,Neal Civic Center - 202,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,379
+Calhoun,Shelton Park Library - 301,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,488
+Calhoun,Carr-Clarksville VFD - 302,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,242
+Calhoun,Scout House - 401,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,188
+Calhoun,Kinard Public Library - 402,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,26
+Calhoun,Neal Civic Center - 501,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,309
+Calhoun,Carr-Clarksville VFD - 502,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,89
+Calhoun,Kinard Public Library - 503,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,180
+Calhoun,Neal Civic Center - 101,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,172
+Calhoun,Westside VFD - 102,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,151
+Calhoun,Altha Old Gym - 201,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,202
+Calhoun,Neal Civic Center - 202,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,177
+Calhoun,Shelton Park Library - 301,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,248
+Calhoun,Carr-Clarksville VFD - 302,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,142
+Calhoun,Scout House - 401,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,163
+Calhoun,Kinard Public Library - 402,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,15
+Calhoun,Neal Civic Center - 501,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,128
+Calhoun,Carr-Clarksville VFD - 502,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,40
+Calhoun,Kinard Public Library - 503,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,91
+Calhoun,Neal Civic Center - 101,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,2
+Calhoun,Westside VFD - 102,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 302,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Kinard Public Library - 402,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Charles T. Canady,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,56
+Calhoun,Westside VFD - 102,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,42
+Calhoun,Altha Old Gym - 201,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,49
+Calhoun,Neal Civic Center - 202,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,53
+Calhoun,Shelton Park Library - 301,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,83
+Calhoun,Carr-Clarksville VFD - 302,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,35
+Calhoun,Scout House - 401,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,29
+Calhoun,Kinard Public Library - 402,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,7
+Calhoun,Neal Civic Center - 501,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,47
+Calhoun,Carr-Clarksville VFD - 502,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,16
+Calhoun,Kinard Public Library - 503,Retention of Charles T. Canady,Justice of the Supreme Court, ,UnderVotes,37
+Calhoun,Neal Civic Center - 101,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,388
+Calhoun,Westside VFD - 102,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,241
+Calhoun,Altha Old Gym - 201,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,372
+Calhoun,Neal Civic Center - 202,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,374
+Calhoun,Shelton Park Library - 301,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,492
+Calhoun,Carr-Clarksville VFD - 302,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,249
+Calhoun,Scout House - 401,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,176
+Calhoun,Kinard Public Library - 402,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,25
+Calhoun,Neal Civic Center - 501,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,302
+Calhoun,Carr-Clarksville VFD - 502,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,91
+Calhoun,Kinard Public Library - 503,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,182
+Calhoun,Neal Civic Center - 101,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,164
+Calhoun,Westside VFD - 102,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,135
+Calhoun,Altha Old Gym - 201,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,200
+Calhoun,Neal Civic Center - 202,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,182
+Calhoun,Shelton Park Library - 301,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,235
+Calhoun,Carr-Clarksville VFD - 302,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,133
+Calhoun,Scout House - 401,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,171
+Calhoun,Kinard Public Library - 402,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,16
+Calhoun,Neal Civic Center - 501,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,130
+Calhoun,Carr-Clarksville VFD - 502,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,39
+Calhoun,Kinard Public Library - 503,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,89
+Calhoun,Neal Civic Center - 101,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Westside VFD - 102,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Scout House - 401,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of John D. Couriel,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,60
+Calhoun,Westside VFD - 102,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,43
+Calhoun,Altha Old Gym - 201,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,50
+Calhoun,Neal Civic Center - 202,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,53
+Calhoun,Shelton Park Library - 301,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,93
+Calhoun,Carr-Clarksville VFD - 302,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,36
+Calhoun,Scout House - 401,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,34
+Calhoun,Kinard Public Library - 402,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,7
+Calhoun,Neal Civic Center - 501,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,52
+Calhoun,Carr-Clarksville VFD - 502,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,15
+Calhoun,Kinard Public Library - 503,Retention of John D. Couriel,Justice of the Supreme Court, ,UnderVotes,37
+Calhoun,Neal Civic Center - 101,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,377
+Calhoun,Westside VFD - 102,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,228
+Calhoun,Altha Old Gym - 201,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,375
+Calhoun,Neal Civic Center - 202,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,380
+Calhoun,Shelton Park Library - 301,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,482
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,251
+Calhoun,Scout House - 401,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,173
+Calhoun,Kinard Public Library - 402,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,23
+Calhoun,Neal Civic Center - 501,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,294
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,93
+Calhoun,Kinard Public Library - 503,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,184
+Calhoun,Neal Civic Center - 101,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,173
+Calhoun,Westside VFD - 102,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,145
+Calhoun,Altha Old Gym - 201,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,193
+Calhoun,Neal Civic Center - 202,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,177
+Calhoun,Shelton Park Library - 301,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,246
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,132
+Calhoun,Scout House - 401,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,173
+Calhoun,Kinard Public Library - 402,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,18
+Calhoun,Neal Civic Center - 501,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,140
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,37
+Calhoun,Kinard Public Library - 503,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,86
+Calhoun,Neal Civic Center - 101,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Westside VFD - 102,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,2
+Calhoun,Neal Civic Center - 202,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Jamie Grosshans,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Neal Civic Center - 101,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,63
+Calhoun,Westside VFD - 102,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,46
+Calhoun,Altha Old Gym - 201,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,52
+Calhoun,Neal Civic Center - 202,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,52
+Calhoun,Shelton Park Library - 301,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,92
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,36
+Calhoun,Scout House - 401,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,35
+Calhoun,Kinard Public Library - 402,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,7
+Calhoun,Neal Civic Center - 501,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,50
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,15
+Calhoun,Kinard Public Library - 503,Retention of Jamie Grosshans,Justice of the Supreme Court, ,UnderVotes,37
+Calhoun,Neal Civic Center - 101,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,276
+Calhoun,Westside VFD - 102,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,154
+Calhoun,Altha Old Gym - 201,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,287
+Calhoun,Neal Civic Center - 202,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,261
+Calhoun,Shelton Park Library - 301,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,372
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,179
+Calhoun,Scout House - 401,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,174
+Calhoun,Kinard Public Library - 402,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,18
+Calhoun,Neal Civic Center - 501,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,244
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,73
+Calhoun,Kinard Public Library - 503,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,122
+Calhoun,Neal Civic Center - 101,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,275
+Calhoun,Westside VFD - 102,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,222
+Calhoun,Altha Old Gym - 201,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,283
+Calhoun,Neal Civic Center - 202,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,298
+Calhoun,Shelton Park Library - 301,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,356
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,200
+Calhoun,Scout House - 401,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,174
+Calhoun,Kinard Public Library - 402,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,24
+Calhoun,Neal Civic Center - 501,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,191
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,57
+Calhoun,Kinard Public Library - 503,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,147
+Calhoun,Neal Civic Center - 101,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Westside VFD - 102,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Altha Old Gym - 201,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Neal Civic Center - 202,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Scout House - 401,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Jorge Labarga,Justice of the Supreme Court, ,OverVotes,1
+Calhoun,Neal Civic Center - 101,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,62
+Calhoun,Westside VFD - 102,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,42
+Calhoun,Altha Old Gym - 201,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,51
+Calhoun,Neal Civic Center - 202,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,50
+Calhoun,Shelton Park Library - 301,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,91
+Calhoun,Carr-Clarksville VFD - 302,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,39
+Calhoun,Scout House - 401,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,33
+Calhoun,Kinard Public Library - 402,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,6
+Calhoun,Neal Civic Center - 501,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,49
+Calhoun,Carr-Clarksville VFD - 502,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,15
+Calhoun,Kinard Public Library - 503,Retention of Jorge Labarga,Justice of the Supreme Court, ,UnderVotes,38
+Calhoun,Neal Civic Center - 101,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,386
+Calhoun,Westside VFD - 102,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,227
+Calhoun,Altha Old Gym - 201,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,366
+Calhoun,Neal Civic Center - 202,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,376
+Calhoun,Shelton Park Library - 301,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,476
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,238
+Calhoun,Scout House - 401,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,188
+Calhoun,Kinard Public Library - 402,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,25
+Calhoun,Neal Civic Center - 501,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,296
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,92
+Calhoun,Kinard Public Library - 503,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,164
+Calhoun,Neal Civic Center - 101,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,167
+Calhoun,Westside VFD - 102,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,149
+Calhoun,Altha Old Gym - 201,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,205
+Calhoun,Neal Civic Center - 202,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,180
+Calhoun,Shelton Park Library - 301,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,254
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,144
+Calhoun,Scout House - 401,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,160
+Calhoun,Kinard Public Library - 402,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,16
+Calhoun,Neal Civic Center - 501,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,136
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,37
+Calhoun,Kinard Public Library - 503,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,107
+Calhoun,Neal Civic Center - 101,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Westside VFD - 102,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Ricky Polston,Justice of the Supreme Court, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,60
+Calhoun,Westside VFD - 102,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,43
+Calhoun,Altha Old Gym - 201,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,51
+Calhoun,Neal Civic Center - 202,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,53
+Calhoun,Shelton Park Library - 301,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,90
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,37
+Calhoun,Scout House - 401,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,33
+Calhoun,Kinard Public Library - 402,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,7
+Calhoun,Neal Civic Center - 501,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,52
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,16
+Calhoun,Kinard Public Library - 503,Retention of Ricky Polston,Justice of the Supreme Court, ,UnderVotes,37
+Calhoun,Neal Civic Center - 101,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,376
+Calhoun,Westside VFD - 102,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,229
+Calhoun,Altha Old Gym - 201,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,374
+Calhoun,Neal Civic Center - 202,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,384
+Calhoun,Shelton Park Library - 301,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,476
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,233
+Calhoun,Scout House - 401,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,180
+Calhoun,Kinard Public Library - 402,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,22
+Calhoun,Neal Civic Center - 501,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,288
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,96
+Calhoun,Kinard Public Library - 503,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,176
+Calhoun,Neal Civic Center - 101,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,170
+Calhoun,Westside VFD - 102,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,141
+Calhoun,Altha Old Gym - 201,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,193
+Calhoun,Neal Civic Center - 202,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,167
+Calhoun,Shelton Park Library - 301,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,249
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,150
+Calhoun,Scout House - 401,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,168
+Calhoun,Kinard Public Library - 402,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,16
+Calhoun,Neal Civic Center - 501,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,143
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,36
+Calhoun,Kinard Public Library - 503,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,94
+Calhoun,Neal Civic Center - 101,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Westside VFD - 102,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,1
+Calhoun,Altha Old Gym - 201,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,1
+Calhoun,Neal Civic Center - 202,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,1
+Calhoun,Shelton Park Library - 301,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Ross L. Bilbrey,First District Court of Appeal, ,OverVotes,1
+Calhoun,Neal Civic Center - 101,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,67
+Calhoun,Westside VFD - 102,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,48
+Calhoun,Altha Old Gym - 201,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,54
+Calhoun,Neal Civic Center - 202,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,57
+Calhoun,Shelton Park Library - 301,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,95
+Calhoun,Carr-Clarksville VFD - 302,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,36
+Calhoun,Scout House - 401,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,33
+Calhoun,Kinard Public Library - 402,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,10
+Calhoun,Neal Civic Center - 501,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,52
+Calhoun,Carr-Clarksville VFD - 502,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,13
+Calhoun,Kinard Public Library - 503,Retention of Ross L. Bilbrey,First District Court of Appeal, ,UnderVotes,37
+Calhoun,Neal Civic Center - 101,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,371
+Calhoun,Westside VFD - 102,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,234
+Calhoun,Altha Old Gym - 201,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,365
+Calhoun,Neal Civic Center - 202,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,370
+Calhoun,Shelton Park Library - 301,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,450
+Calhoun,Carr-Clarksville VFD - 302,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,238
+Calhoun,Scout House - 401,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,189
+Calhoun,Kinard Public Library - 402,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,23
+Calhoun,Neal Civic Center - 501,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,295
+Calhoun,Carr-Clarksville VFD - 502,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,90
+Calhoun,Kinard Public Library - 503,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,164
+Calhoun,Neal Civic Center - 101,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,173
+Calhoun,Westside VFD - 102,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,135
+Calhoun,Altha Old Gym - 201,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,202
+Calhoun,Neal Civic Center - 202,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,177
+Calhoun,Shelton Park Library - 301,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,272
+Calhoun,Carr-Clarksville VFD - 302,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,145
+Calhoun,Scout House - 401,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,155
+Calhoun,Kinard Public Library - 402,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,16
+Calhoun,Neal Civic Center - 501,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,138
+Calhoun,Carr-Clarksville VFD - 502,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,43
+Calhoun,Kinard Public Library - 503,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,104
+Calhoun,Neal Civic Center - 101,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Westside VFD - 102,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,1
+Calhoun,Altha Old Gym - 201,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Susan Kelsey,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,69
+Calhoun,Westside VFD - 102,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,49
+Calhoun,Altha Old Gym - 201,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,55
+Calhoun,Neal Civic Center - 202,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,62
+Calhoun,Shelton Park Library - 301,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,98
+Calhoun,Carr-Clarksville VFD - 302,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,36
+Calhoun,Scout House - 401,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,37
+Calhoun,Kinard Public Library - 402,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,9
+Calhoun,Neal Civic Center - 501,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,51
+Calhoun,Carr-Clarksville VFD - 502,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,12
+Calhoun,Kinard Public Library - 503,Retention of Susan Kelsey,First District Court of Appeal, ,UnderVotes,40
+Calhoun,Neal Civic Center - 101,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,384
+Calhoun,Westside VFD - 102,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,231
+Calhoun,Altha Old Gym - 201,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,379
+Calhoun,Neal Civic Center - 202,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,376
+Calhoun,Shelton Park Library - 301,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,482
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,249
+Calhoun,Scout House - 401,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,168
+Calhoun,Kinard Public Library - 402,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,22
+Calhoun,Neal Civic Center - 501,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,298
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,96
+Calhoun,Kinard Public Library - 503,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,179
+Calhoun,Neal Civic Center - 101,Retention of Bobby Long,First District Court of Appeal,NOP,No,163
+Calhoun,Westside VFD - 102,Retention of Bobby Long,First District Court of Appeal,NOP,No,139
+Calhoun,Altha Old Gym - 201,Retention of Bobby Long,First District Court of Appeal,NOP,No,187
+Calhoun,Neal Civic Center - 202,Retention of Bobby Long,First District Court of Appeal,NOP,No,171
+Calhoun,Shelton Park Library - 301,Retention of Bobby Long,First District Court of Appeal,NOP,No,238
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bobby Long,First District Court of Appeal,NOP,No,135
+Calhoun,Scout House - 401,Retention of Bobby Long,First District Court of Appeal,NOP,No,177
+Calhoun,Kinard Public Library - 402,Retention of Bobby Long,First District Court of Appeal,NOP,No,16
+Calhoun,Neal Civic Center - 501,Retention of Bobby Long,First District Court of Appeal,NOP,No,131
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bobby Long,First District Court of Appeal,NOP,No,35
+Calhoun,Kinard Public Library - 503,Retention of Bobby Long,First District Court of Appeal,NOP,No,89
+Calhoun,Neal Civic Center - 101,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,1
+Calhoun,Westside VFD - 102,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,1
+Calhoun,Altha Old Gym - 201,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Bobby Long,First District Court of Appeal, ,OverVotes,1
+Calhoun,Neal Civic Center - 101,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,65
+Calhoun,Westside VFD - 102,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,48
+Calhoun,Altha Old Gym - 201,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,56
+Calhoun,Neal Civic Center - 202,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,62
+Calhoun,Shelton Park Library - 301,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,99
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,35
+Calhoun,Scout House - 401,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,36
+Calhoun,Kinard Public Library - 402,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,10
+Calhoun,Neal Civic Center - 501,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,55
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,14
+Calhoun,Kinard Public Library - 503,Retention of Bobby Long,First District Court of Appeal, ,UnderVotes,39
+Calhoun,Neal Civic Center - 101,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,373
+Calhoun,Westside VFD - 102,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,216
+Calhoun,Altha Old Gym - 201,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,354
+Calhoun,Neal Civic Center - 202,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,363
+Calhoun,Shelton Park Library - 301,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,442
+Calhoun,Carr-Clarksville VFD - 302,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,232
+Calhoun,Scout House - 401,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,196
+Calhoun,Kinard Public Library - 402,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,21
+Calhoun,Neal Civic Center - 501,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,297
+Calhoun,Carr-Clarksville VFD - 502,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,86
+Calhoun,Kinard Public Library - 503,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,155
+Calhoun,Neal Civic Center - 101,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,171
+Calhoun,Westside VFD - 102,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,155
+Calhoun,Altha Old Gym - 201,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,210
+Calhoun,Neal Civic Center - 202,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,186
+Calhoun,Shelton Park Library - 301,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,279
+Calhoun,Carr-Clarksville VFD - 302,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,152
+Calhoun,Scout House - 401,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,150
+Calhoun,Kinard Public Library - 402,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,17
+Calhoun,Neal Civic Center - 501,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,134
+Calhoun,Carr-Clarksville VFD - 502,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,46
+Calhoun,Kinard Public Library - 503,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,115
+Calhoun,Neal Civic Center - 101,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,2
+Calhoun,Westside VFD - 102,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,1
+Calhoun,Kinard Public Library - 402,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 502,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,1
+Calhoun,Kinard Public Library - 503,Retention of Lori S. Rowe,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,67
+Calhoun,Westside VFD - 102,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,48
+Calhoun,Altha Old Gym - 201,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,58
+Calhoun,Neal Civic Center - 202,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,60
+Calhoun,Shelton Park Library - 301,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,99
+Calhoun,Carr-Clarksville VFD - 302,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,35
+Calhoun,Scout House - 401,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,34
+Calhoun,Kinard Public Library - 402,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,10
+Calhoun,Neal Civic Center - 501,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,52
+Calhoun,Carr-Clarksville VFD - 502,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,12
+Calhoun,Kinard Public Library - 503,Retention of Lori S. Rowe,First District Court of Appeal, ,UnderVotes,38
+Calhoun,Neal Civic Center - 101,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,377
+Calhoun,Westside VFD - 102,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,221
+Calhoun,Altha Old Gym - 201,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,367
+Calhoun,Neal Civic Center - 202,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,372
+Calhoun,Shelton Park Library - 301,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,453
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,238
+Calhoun,Scout House - 401,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,174
+Calhoun,Kinard Public Library - 402,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,21
+Calhoun,Neal Civic Center - 501,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,287
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,92
+Calhoun,Kinard Public Library - 503,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,174
+Calhoun,Neal Civic Center - 101,Retention of Bo Winokur,First District Court of Appeal,NOP,No,171
+Calhoun,Westside VFD - 102,Retention of Bo Winokur,First District Court of Appeal,NOP,No,151
+Calhoun,Altha Old Gym - 201,Retention of Bo Winokur,First District Court of Appeal,NOP,No,201
+Calhoun,Neal Civic Center - 202,Retention of Bo Winokur,First District Court of Appeal,NOP,No,176
+Calhoun,Shelton Park Library - 301,Retention of Bo Winokur,First District Court of Appeal,NOP,No,270
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bo Winokur,First District Court of Appeal,NOP,No,145
+Calhoun,Scout House - 401,Retention of Bo Winokur,First District Court of Appeal,NOP,No,173
+Calhoun,Kinard Public Library - 402,Retention of Bo Winokur,First District Court of Appeal,NOP,No,17
+Calhoun,Neal Civic Center - 501,Retention of Bo Winokur,First District Court of Appeal,NOP,No,144
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bo Winokur,First District Court of Appeal,NOP,No,40
+Calhoun,Kinard Public Library - 503,Retention of Bo Winokur,First District Court of Appeal,NOP,No,94
+Calhoun,Neal Civic Center - 101,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,1
+Calhoun,Westside VFD - 102,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Scout House - 401,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Retention of Bo Winokur,First District Court of Appeal, ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,64
+Calhoun,Westside VFD - 102,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,47
+Calhoun,Altha Old Gym - 201,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,54
+Calhoun,Neal Civic Center - 202,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,61
+Calhoun,Shelton Park Library - 301,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,97
+Calhoun,Carr-Clarksville VFD - 302,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,36
+Calhoun,Scout House - 401,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,34
+Calhoun,Kinard Public Library - 402,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,10
+Calhoun,Neal Civic Center - 501,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,53
+Calhoun,Carr-Clarksville VFD - 502,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,13
+Calhoun,Kinard Public Library - 503,Retention of Bo Winokur,First District Court of Appeal, ,UnderVotes,40
+Calhoun,Neal Civic Center - 101,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,307
+Calhoun,Westside VFD - 102,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,196
+Calhoun,Altha Old Gym - 201,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,280
+Calhoun,Neal Civic Center - 202,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,306
+Calhoun,Shelton Park Library - 301,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,428
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,208
+Calhoun,Scout House - 401,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,164
+Calhoun,Kinard Public Library - 402,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,26
+Calhoun,Neal Civic Center - 501,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,248
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,72
+Calhoun,Kinard Public Library - 503,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,Yes for Approval,153
+Calhoun,Neal Civic Center - 101,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,242
+Calhoun,Westside VFD - 102,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,193
+Calhoun,Altha Old Gym - 201,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,308
+Calhoun,Neal Civic Center - 202,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,252
+Calhoun,Shelton Park Library - 301,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,326
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,186
+Calhoun,Scout House - 401,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,179
+Calhoun,Kinard Public Library - 402,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,17
+Calhoun,Neal Civic Center - 501,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,200
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,62
+Calhoun,Kinard Public Library - 503,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, ,NOP,No for Rejection,127
+Calhoun,Neal Civic Center - 101,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,1
+Calhoun,Westside VFD - 102,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,1
+Calhoun,Altha Old Gym - 201,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Scout House - 401,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,63
+Calhoun,Westside VFD - 102,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,29
+Calhoun,Altha Old Gym - 201,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,34
+Calhoun,Neal Civic Center - 202,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,51
+Calhoun,Shelton Park Library - 301,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,66
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,25
+Calhoun,Scout House - 401,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,38
+Calhoun,Kinard Public Library - 402,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,5
+Calhoun,Neal Civic Center - 501,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,36
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,11
+Calhoun,Kinard Public Library - 503,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes, , ,UnderVotes,28
+Calhoun,Neal Civic Center - 101,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,310
+Calhoun,Westside VFD - 102,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,198
+Calhoun,Altha Old Gym - 201,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,284
+Calhoun,Neal Civic Center - 202,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,336
+Calhoun,Shelton Park Library - 301,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,423
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,206
+Calhoun,Scout House - 401,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,140
+Calhoun,Kinard Public Library - 402,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,20
+Calhoun,Neal Civic Center - 501,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,250
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,77
+Calhoun,Kinard Public Library - 503,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,Yes for Approval,148
+Calhoun,Neal Civic Center - 101,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,231
+Calhoun,Westside VFD - 102,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,190
+Calhoun,Altha Old Gym - 201,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,299
+Calhoun,Neal Civic Center - 202,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,214
+Calhoun,Shelton Park Library - 301,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,338
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,184
+Calhoun,Scout House - 401,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,204
+Calhoun,Kinard Public Library - 402,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,24
+Calhoun,Neal Civic Center - 501,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,187
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,56
+Calhoun,Kinard Public Library - 503,Amendment No. 2: Abolishing the Constitution Revision Commission, ,NOP,No for Rejection,133
+Calhoun,Neal Civic Center - 101,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,1
+Calhoun,Westside VFD - 102,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Altha Old Gym - 201,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,1
+Calhoun,Scout House - 401,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,71
+Calhoun,Westside VFD - 102,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,31
+Calhoun,Altha Old Gym - 201,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,39
+Calhoun,Neal Civic Center - 202,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,59
+Calhoun,Shelton Park Library - 301,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,59
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,28
+Calhoun,Scout House - 401,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,37
+Calhoun,Kinard Public Library - 402,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,4
+Calhoun,Neal Civic Center - 501,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,47
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,12
+Calhoun,Kinard Public Library - 503,Amendment No. 2: Abolishing the Constitution Revision Commission, , ,UnderVotes,27
+Calhoun,Neal Civic Center - 101,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,343
+Calhoun,Westside VFD - 102,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,225
+Calhoun,Altha Old Gym - 201,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,321
+Calhoun,Neal Civic Center - 202,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,305
+Calhoun,Shelton Park Library - 301,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,481
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,214
+Calhoun,Scout House - 401,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,213
+Calhoun,Kinard Public Library - 402,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,21
+Calhoun,Neal Civic Center - 501,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,275
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,79
+Calhoun,Kinard Public Library - 503,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,Yes for Approval,169
+Calhoun,Neal Civic Center - 101,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,231
+Calhoun,Westside VFD - 102,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,175
+Calhoun,Altha Old Gym - 201,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,273
+Calhoun,Neal Civic Center - 202,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,262
+Calhoun,Shelton Park Library - 301,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,296
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,184
+Calhoun,Scout House - 401,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,134
+Calhoun,Kinard Public Library - 402,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,24
+Calhoun,Neal Civic Center - 501,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,176
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,58
+Calhoun,Kinard Public Library - 503,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, ,NOP,No for Rejection,124
+Calhoun,Neal Civic Center - 101,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Westside VFD - 102,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,1
+Calhoun,Altha Old Gym - 201,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Neal Civic Center - 202,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Shelton Park Library - 301,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,1
+Calhoun,Scout House - 401,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Kinard Public Library - 402,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Neal Civic Center - 501,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Kinard Public Library - 503,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,OverVotes,0
+Calhoun,Neal Civic Center - 101,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,39
+Calhoun,Westside VFD - 102,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,18
+Calhoun,Altha Old Gym - 201,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,28
+Calhoun,Neal Civic Center - 202,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,42
+Calhoun,Shelton Park Library - 301,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,43
+Calhoun,Carr-Clarksville VFD - 302,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,20
+Calhoun,Scout House - 401,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,34
+Calhoun,Kinard Public Library - 402,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,3
+Calhoun,Neal Civic Center - 501,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,33
+Calhoun,Carr-Clarksville VFD - 502,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,8
+Calhoun,Kinard Public Library - 503,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce, , ,UnderVotes,15
