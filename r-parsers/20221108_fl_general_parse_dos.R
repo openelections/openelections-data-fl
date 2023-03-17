@@ -82,14 +82,7 @@ parsefile <- function(county, state, xx){
     xx$absentee <- 0
     xx$limited <- 0
     xx$county <- county
-    if (toupper(county) %in% c("DESOTO","LEON")){
-        xx$AREA <- paste0(xx$AreaId,":",xx$AREA)
-    }
-    else if (toupper(county) == "OSCEOLA"){
-        xx$AREA <- paste0(xx$AreaId,xx$AREA)
-    }
     #xx$district <- NA
-    zxx1 <<- xx #DEBUG-RM
     dd <- data.frame(xx$COUNTY,xx$AREA,xx$Contest,xx$DIST,xx$Party,xx$Candidate,
                      xx$Votes,xx$`Early Votes`,xx$`Election Day Votes`,
                      xx$`Provisional Votes`,xx$`Mail Votes`,xx$absentee,xx$limited,
@@ -392,7 +385,10 @@ parsefile <- function(county, state, xx){
     return(xx)
 }
 cc <- fl_county_codes
+# cc <- c("DAD") #DEBUG-TEST Miami-Dade only
+# fl_counties <- c("Miami-Dade") #DEBUG-TEST Miami-Dade only
 for (i in 1:length(cc)){
+    zcounty <<- cc[i]
     dd <- read_delim(paste0(zindir,"2022-gen-outputofficial/",
                             cc[i],"_PctResults20221108.txt"), delim = '\t', quote = "",
                      col_names = FALSE, col_types = "ccdccccddddccdccddd")
@@ -401,9 +397,48 @@ for (i in 1:length(cc)){
                    "AreaId","AREA","RegAll","RegRep","RegDem",
                    "RegOth","Contest","DIST","ConCode","Candidate",
                    "Party","RegId","CandNo","Votes")
+    if (cc[i] %in% c("ALA","BAK","BRO","CLM","DES",
+                     "GLA","HER","LEO","MAD","MON",
+                     "PUT","STL")){
+        dd$AREA <- paste0(dd$AreaId,":",dd$AREA)
+    }
+    else if (cc[i] == "OSC"){
+        dd$AREA <- paste0(dd$AreaId,dd$AREA)
+    }
+    zdd <<- dd #DEBUG-RM
+    yy <- dd %>% group_by(COUNTY,AREA) %>% summarize(min=min(RegAll),max=max(RegAll),mean=mean(RegAll),
+                                                     maxr=max(RegRep),maxd=max(RegDem),maxo=max(RegOth))
+    nrange <- NROW(yy[yy$min < yy$max,])
+    nmaxd  <- NROW(yy[yy$maxd > 0,])
+    nmaxr  <- NROW(yy[yy$maxr > 0,])
+    nmaxo  <- NROW(yy[yy$maxo > 0,])
+    if (nrange > 0){
+        errmsg(paste0(nrange," AREAs have different # of Registered Voters"))
+    }
+    if (nmaxd > 0){
+        errmsg(paste0(nmaxd," AREAs have nonzero Democratic Registered Voters"))
+    }
+    if (nmaxr > 0){
+        errmsg(paste0(nmaxr," AREAs have nonzero Republican Registered Voters"))
+    }
+    if (nmaxo > 0){
+        errmsg(paste0(nmaxo," AREAs have nonzero Other Registered Voters"))
+    }
+    yy$Contest   <- "Registered Voters"
+    yy$DIST      <- ""
+    yy$Party     <- ""
+    yy$Candidate <- ""
+    yy$Votes     <- yy$mean
+    yy <- yy[,!(names(yy) %in% c("min","max","mean","maxd","maxr","maxo"))]
+    zyy <<- yy #DEBUG-RM
+    xx <- data.frame(dd$COUNTY,dd$AREA,dd$Contest,dd$DIST,dd$Party,dd$Candidate,dd$Votes,
+                     stringsAsFactors = FALSE)
+    yy <- as.data.frame(yy)
+    names(xx) <- c("COUNTY","AREA","Contest","DIST","Party","Candidate","Votes")
+    xx <- rbind(xx,yy)
     county <- fl_counties[i]
     state <- "FL"
-    xx <- parsefile(county, state, dd)
-    zxx <<- xx
+    xx <- parsefile(county, state, xx)
+    zxx <<- xx #DEBUG-RM
     infomsg(paste0(names(xx),collapse = "|"))
 }
