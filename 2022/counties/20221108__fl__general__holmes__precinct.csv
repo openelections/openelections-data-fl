@@ -1,369 +1,697 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Holmes,Ponce de Leon,U.S. Senate,"",REP,Marco Rubio,668,112,437,119
-Holmes,Pine Log,U.S. Senate,"",REP,Marco Rubio,664,99,405,160
-Holmes,New Hope,U.S. Senate,"",REP,Marco Rubio,544,45,391,108
-Holmes,Bethlehem,U.S. Senate,"",REP,Marco Rubio,897,230,485,182
-Holmes,Gritney,U.S. Senate,"",REP,Marco Rubio,339,59,227,53
-Holmes,Noma,U.S. Senate,"",REP,Marco Rubio,1360,,,
-Holmes,West Bonifay,U.S. Senate,"",REP,Marco Rubio,1005,402,417,186
-Holmes,East Bonifay,U.S. Senate,"",REP,Marco Rubio,674,,,
-Holmes,Ponce de Leon,U.S. Senate,"",DEM,Val Demings,65,,,
-Holmes,Pine Log,U.S. Senate,"",DEM,Val Demings,58,,,
-Holmes,New Hope,U.S. Senate,"",DEM,Val Demings,54,,,
-Holmes,Bethlehem,U.S. Senate,"",DEM,Val Demings,85,,,
-Holmes,Gritney,U.S. Senate,"",DEM,Val Demings,22,,,
-Holmes,Noma,U.S. Senate,"",DEM,Val Demings,83,,,
-Holmes,West Bonifay,U.S. Senate,"",DEM,Val Demings,91,,,
-Holmes,East Bonifay,U.S. Senate,"",DEM,Val Demings,98,30,36,32
-Holmes,Ponce de Leon,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Holmes,Pine Log,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Holmes,New Hope,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Holmes,Bethlehem,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Holmes,Gritney,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Holmes,Noma,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Holmes,West Bonifay,U.S. Senate,"",LPF,Dennis Misigoy,8,,,
-Holmes,East Bonifay,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Holmes,Ponce de Leon,U.S. Senate,"",NPA,Steven B. Grant,5,,,
-Holmes,Pine Log,U.S. Senate,"",NPA,Steven B. Grant,6,,,
-Holmes,New Hope,U.S. Senate,"",NPA,Steven B. Grant,4,,,
-Holmes,Bethlehem,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Holmes,Gritney,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Holmes,Noma,U.S. Senate,"",NPA,Steven B. Grant,7,,,
-Holmes,West Bonifay,U.S. Senate,"",NPA,Steven B. Grant,5,,,
-Holmes,East Bonifay,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Holmes,Ponce de Leon,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Holmes,Pine Log,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Holmes,New Hope,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Holmes,Bethlehem,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Holmes,Gritney,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Holmes,Noma,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Holmes,West Bonifay,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Holmes,East Bonifay,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Holmes,Ponce de Leon,U.S. Senate,"",NON,WRITE-IN,1,,,
-Holmes,Pine Log,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Holmes,New Hope,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Holmes,Bethlehem,U.S. Senate,"",NON,WRITE-IN,1,,,
-Holmes,Gritney,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Holmes,Noma,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Holmes,West Bonifay,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Holmes,East Bonifay,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Holmes,Ponce de Leon,U.S. House,2,REP,Neal Dunn,676,112,443,121
-Holmes,Pine Log,U.S. House,2,REP,Neal Dunn,660,99,402,159
-Holmes,New Hope,U.S. House,2,REP,Neal Dunn,544,44,395,105
-Holmes,Bethlehem,U.S. House,2,REP,Neal Dunn,903,229,485,189
-Holmes,Gritney,U.S. House,2,REP,Neal Dunn,339,59,224,56
-Holmes,Noma,U.S. House,2,REP,Neal Dunn,1358,,,
-Holmes,West Bonifay,U.S. House,2,REP,Neal Dunn,1007,399,422,186
-Holmes,East Bonifay,U.S. House,2,REP,Neal Dunn,662,,,
-Holmes,Ponce de Leon,U.S. House,2,DEM,Al Lawson,64,,,
-Holmes,Pine Log,U.S. House,2,DEM,Al Lawson,67,,,
-Holmes,New Hope,U.S. House,2,DEM,Al Lawson,58,,,
-Holmes,Bethlehem,U.S. House,2,DEM,Al Lawson,84,,,
-Holmes,Gritney,U.S. House,2,DEM,Al Lawson,23,,,
-Holmes,Noma,U.S. House,2,DEM,Al Lawson,91,,,
-Holmes,West Bonifay,U.S. House,2,DEM,Al Lawson,95,,,
-Holmes,East Bonifay,U.S. House,2,DEM,Al Lawson,116,34,48,34
-Holmes,Ponce de Leon,Governor,"",REP,DeSantis / Nunez,679,114,444,121
-Holmes,Pine Log,Governor,"",REP,DeSantis / Nunez,665,99,407,159
-Holmes,New Hope,Governor,"",REP,DeSantis / Nunez,556,45,398,113
-Holmes,Bethlehem,Governor,"",REP,DeSantis / Nunez,909,228,491,190
-Holmes,Gritney,Governor,"",REP,DeSantis / Nunez,344,59,228,57
-Holmes,Noma,Governor,"",REP,DeSantis / Nunez,1371,,,
-Holmes,West Bonifay,Governor,"",REP,DeSantis / Nunez,1020,405,427,188
-Holmes,East Bonifay,Governor,"",REP,DeSantis / Nunez,670,,,
-Holmes,Ponce de Leon,Governor,"",DEM,Crist / Hernandez,62,,,
-Holmes,Pine Log,Governor,"",DEM,Crist / Hernandez,60,,,
-Holmes,New Hope,Governor,"",DEM,Crist / Hernandez,51,,,
-Holmes,Bethlehem,Governor,"",DEM,Crist / Hernandez,75,,,
-Holmes,Gritney,Governor,"",DEM,Crist / Hernandez,17,,,
-Holmes,Noma,Governor,"",DEM,Crist / Hernandez,78,,,
-Holmes,West Bonifay,Governor,"",DEM,Crist / Hernandez,86,,,
-Holmes,East Bonifay,Governor,"",DEM,Crist / Hernandez,104,31,37,36
-Holmes,Ponce de Leon,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Holmes,Pine Log,Governor,"",LPF,Roos / Rorabaugh,6,,,
-Holmes,New Hope,Governor,"",LPF,Roos / Rorabaugh,1,,,
-Holmes,Bethlehem,Governor,"",LPF,Roos / Rorabaugh,3,,,
-Holmes,Gritney,Governor,"",LPF,Roos / Rorabaugh,3,,,
-Holmes,Noma,Governor,"",LPF,Roos / Rorabaugh,5,,,
-Holmes,West Bonifay,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Holmes,East Bonifay,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Holmes,Ponce de Leon,Governor,"",NPA,Gimenez / Gibson,0,0,0,0
-Holmes,Pine Log,Governor,"",NPA,Gimenez / Gibson,1,,,
-Holmes,New Hope,Governor,"",NPA,Gimenez / Gibson,0,0,0,0
-Holmes,Bethlehem,Governor,"",NPA,Gimenez / Gibson,2,,,
-Holmes,Gritney,Governor,"",NPA,Gimenez / Gibson,0,0,0,0
-Holmes,Noma,Governor,"",NPA,Gimenez / Gibson,2,,,
-Holmes,West Bonifay,Governor,"",NPA,Gimenez / Gibson,2,,,
-Holmes,East Bonifay,Governor,"",NPA,Gimenez / Gibson,4,,,
-Holmes,Ponce de Leon,Attorney General,"",REP,Ashley Moody,681,111,443,127
-Holmes,Pine Log,Attorney General,"",REP,Ashley Moody,667,100,405,162
-Holmes,New Hope,Attorney General,"",REP,Ashley Moody,551,44,399,108
-Holmes,Bethlehem,Attorney General,"",REP,Ashley Moody,909,231,490,188
-Holmes,Gritney,Attorney General,"",REP,Ashley Moody,340,58,226,56
-Holmes,Noma,Attorney General,"",REP,Ashley Moody,1368,,,
-Holmes,West Bonifay,Attorney General,"",REP,Ashley Moody,1018,405,429,184
-Holmes,East Bonifay,Attorney General,"",REP,Ashley Moody,675,,,
-Holmes,Ponce de Leon,Attorney General,"",DEM,Aramis Ayala,61,,,
-Holmes,Pine Log,Attorney General,"",DEM,Aramis Ayala,58,,,
-Holmes,New Hope,Attorney General,"",DEM,Aramis Ayala,50,,,
-Holmes,Bethlehem,Attorney General,"",DEM,Aramis Ayala,75,,,
-Holmes,Gritney,Attorney General,"",DEM,Aramis Ayala,20,,,
-Holmes,Noma,Attorney General,"",DEM,Aramis Ayala,84,,,
-Holmes,West Bonifay,Attorney General,"",DEM,Aramis Ayala,89,,,
-Holmes,East Bonifay,Attorney General,"",DEM,Aramis Ayala,100,30,37,33
-Holmes,Ponce de Leon,Chief Financial Officer,"",REP,Jimmy Patronis,676,112,438,126
-Holmes,Pine Log,Chief Financial Officer,"",REP,Jimmy Patronis,670,101,403,166
-Holmes,New Hope,Chief Financial Officer,"",REP,Jimmy Patronis,547,44,396,107
-Holmes,Bethlehem,Chief Financial Officer,"",REP,Jimmy Patronis,912,227,492,193
-Holmes,Gritney,Chief Financial Officer,"",REP,Jimmy Patronis,341,59,227,55
-Holmes,Noma,Chief Financial Officer,"",REP,Jimmy Patronis,1367,,,
-Holmes,West Bonifay,Chief Financial Officer,"",REP,Jimmy Patronis,1015,399,425,191
-Holmes,East Bonifay,Chief Financial Officer,"",REP,Jimmy Patronis,673,,,
-Holmes,Ponce de Leon,Chief Financial Officer,"",DEM,Adam Hattersley,62,,,
-Holmes,Pine Log,Chief Financial Officer,"",DEM,Adam Hattersley,56,,,
-Holmes,New Hope,Chief Financial Officer,"",DEM,Adam Hattersley,52,,,
-Holmes,Bethlehem,Chief Financial Officer,"",DEM,Adam Hattersley,70,,,
-Holmes,Gritney,Chief Financial Officer,"",DEM,Adam Hattersley,20,,,
-Holmes,Noma,Chief Financial Officer,"",DEM,Adam Hattersley,84,,,
-Holmes,West Bonifay,Chief Financial Officer,"",DEM,Adam Hattersley,89,,,
-Holmes,East Bonifay,Chief Financial Officer,"",DEM,Adam Hattersley,104,30,40,34
-Holmes,Ponce de Leon,Commissioner of Agriculture,"",REP,Wilton Simpson,674,111,441,122
-Holmes,Pine Log,Commissioner of Agriculture,"",REP,Wilton Simpson,662,99,402,161
-Holmes,New Hope,Commissioner of Agriculture,"",REP,Wilton Simpson,544,44,393,107
-Holmes,Bethlehem,Commissioner of Agriculture,"",REP,Wilton Simpson,897,227,486,184
-Holmes,Gritney,Commissioner of Agriculture,"",REP,Wilton Simpson,337,59,224,54
-Holmes,Noma,Commissioner of Agriculture,"",REP,Wilton Simpson,1357,,,
-Holmes,West Bonifay,Commissioner of Agriculture,"",REP,Wilton Simpson,1005,398,421,186
-Holmes,East Bonifay,Commissioner of Agriculture,"",REP,Wilton Simpson,660,,,
-Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,67,,,
-Holmes,Pine Log,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,58,,,
-Holmes,New Hope,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,56,,,
-Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82,,,
-Holmes,Gritney,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,22,,,
-Holmes,Noma,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,88,,,
-Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,97,,,
-Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,113,35,42,36
-Holmes,Ponce de Leon,State Senate,2,REP,Jay Trumbull,668,112,438,118
-Holmes,Pine Log,State Senate,2,REP,Jay Trumbull,656,99,399,158
-Holmes,New Hope,State Senate,2,REP,Jay Trumbull,544,44,393,107
-Holmes,Bethlehem,State Senate,2,REP,Jay Trumbull,894,226,483,185
-Holmes,Gritney,State Senate,2,REP,Jay Trumbull,335,59,222,54
-Holmes,Noma,State Senate,2,REP,Jay Trumbull,1356,,,
-Holmes,West Bonifay,State Senate,2,REP,Jay Trumbull,1008,402,422,184
-Holmes,East Bonifay,State Senate,2,REP,Jay Trumbull,667,,,
-Holmes,Ponce de Leon,State Senate,2,DEM,Carolynn Zonia,71,,,
-Holmes,Pine Log,State Senate,2,DEM,Carolynn Zonia,65,,,
-Holmes,New Hope,State Senate,2,DEM,Carolynn Zonia,56,,,
-Holmes,Bethlehem,State Senate,2,DEM,Carolynn Zonia,86,,,
-Holmes,Gritney,State Senate,2,DEM,Carolynn Zonia,25,,,
-Holmes,Noma,State Senate,2,DEM,Carolynn Zonia,89,,,
-Holmes,West Bonifay,State Senate,2,DEM,Carolynn Zonia,93,,,
-Holmes,East Bonifay,State Senate,2,DEM,Carolynn Zonia,107,34,38,35
-Holmes,Ponce de Leon,Retain Justice Charles T. Canady,"",NON,Yes,432,77,273,82
-Holmes,Pine Log,Retain Justice Charles T. Canady,"",NON,Yes,369,56,217,96
-Holmes,New Hope,Retain Justice Charles T. Canady,"",NON,Yes,339,32,249,58
-Holmes,Bethlehem,Retain Justice Charles T. Canady,"",NON,Yes,552,144,283,125
-Holmes,Gritney,Retain Justice Charles T. Canady,"",NON,Yes,227,40,146,41
-Holmes,Noma,Retain Justice Charles T. Canady,"",NON,Yes,863,247,438,178
-Holmes,West Bonifay,Retain Justice Charles T. Canady,"",NON,Yes,673,271,287,115
-Holmes,East Bonifay,Retain Justice Charles T. Canady,"",NON,Yes,455,,,
-Holmes,Ponce de Leon,Retain Justice Charles T. Canady,"",NON,No,242,35,153,54
-Holmes,Pine Log,Retain Justice Charles T. Canady,"",NON,No,267,42,164,61
-Holmes,New Hope,Retain Justice Charles T. Canady,"",NON,No,205,,,
-Holmes,Bethlehem,Retain Justice Charles T. Canady,"",NON,No,312,75,161,76
-Holmes,Gritney,Retain Justice Charles T. Canady,"",NON,No,101,,,
-Holmes,Noma,Retain Justice Charles T. Canady,"",NON,No,440,131,241,68
-Holmes,West Bonifay,Retain Justice Charles T. Canady,"",NON,No,346,130,126,90
-Holmes,East Bonifay,Retain Justice Charles T. Canady,"",NON,No,250,86,119,45
-Holmes,Ponce de Leon,Retain Justice John D. Couriel,"",NON,Yes,455,78,294,83
-Holmes,Pine Log,Retain Justice John D. Couriel,"",NON,Yes,393,65,229,99
-Holmes,New Hope,Retain Justice John D. Couriel,"",NON,Yes,347,31,259,57
-Holmes,Bethlehem,Retain Justice John D. Couriel,"",NON,Yes,561,148,287,126
-Holmes,Gritney,Retain Justice John D. Couriel,"",NON,Yes,234,45,146,43
-Holmes,Noma,Retain Justice John D. Couriel,"",NON,Yes,888,258,459,171
-Holmes,West Bonifay,Retain Justice John D. Couriel,"",NON,Yes,703,279,299,125
-Holmes,East Bonifay,Retain Justice John D. Couriel,"",NON,Yes,456,,,
-Holmes,Ponce de Leon,Retain Justice John D. Couriel,"",NON,No,215,32,131,52
-Holmes,Pine Log,Retain Justice John D. Couriel,"",NON,No,240,33,151,56
-Holmes,New Hope,Retain Justice John D. Couriel,"",NON,No,195,,,
-Holmes,Bethlehem,Retain Justice John D. Couriel,"",NON,No,303,71,157,75
-Holmes,Gritney,Retain Justice John D. Couriel,"",NON,No,93,,,
-Holmes,Noma,Retain Justice John D. Couriel,"",NON,No,405,118,216,71
-Holmes,West Bonifay,Retain Justice John D. Couriel,"",NON,No,319,121,117,81
-Holmes,East Bonifay,Retain Justice John D. Couriel,"",NON,No,245,87,112,46
-Holmes,Ponce de Leon,Retain Justice Jamie Grosshans,"",NON,Yes,452,76,288,88
-Holmes,Pine Log,Retain Justice Jamie Grosshans,"",NON,Yes,395,66,230,99
-Holmes,New Hope,Retain Justice Jamie Grosshans,"",NON,Yes,353,31,259,63
-Holmes,Bethlehem,Retain Justice Jamie Grosshans,"",NON,Yes,546,144,280,122
-Holmes,Gritney,Retain Justice Jamie Grosshans,"",NON,Yes,224,42,141,41
-Holmes,Noma,Retain Justice Jamie Grosshans,"",NON,Yes,888,256,455,177
-Holmes,West Bonifay,Retain Justice Jamie Grosshans,"",NON,Yes,711,282,303,126
-Holmes,East Bonifay,Retain Justice Jamie Grosshans,"",NON,Yes,467,,,
-Holmes,Ponce de Leon,Retain Justice Jamie Grosshans,"",NON,No,219,35,136,48
-Holmes,Pine Log,Retain Justice Jamie Grosshans,"",NON,No,240,32,150,58
-Holmes,New Hope,Retain Justice Jamie Grosshans,"",NON,No,186,,,
-Holmes,Bethlehem,Retain Justice Jamie Grosshans,"",NON,No,311,71,162,78
-Holmes,Gritney,Retain Justice Jamie Grosshans,"",NON,No,99,,,
-Holmes,Noma,Retain Justice Jamie Grosshans,"",NON,No,402,120,218,64
-Holmes,West Bonifay,Retain Justice Jamie Grosshans,"",NON,No,308,117,111,80
-Holmes,East Bonifay,Retain Justice Jamie Grosshans,"",NON,No,231,81,105,45
-Holmes,Ponce de Leon,Retain Justice Jorge Labarga,"",NON,Yes,375,57,246,72
-Holmes,Pine Log,Retain Justice Jorge Labarga,"",NON,Yes,284,44,179,61
-Holmes,New Hope,Retain Justice Jorge Labarga,"",NON,Yes,279,,,
-Holmes,Bethlehem,Retain Justice Jorge Labarga,"",NON,Yes,432,116,215,101
-Holmes,Gritney,Retain Justice Jorge Labarga,"",NON,Yes,185,,,
-Holmes,Noma,Retain Justice Jorge Labarga,"",NON,Yes,690,205,346,139
-Holmes,West Bonifay,Retain Justice Jorge Labarga,"",NON,Yes,546,219,233,94
-Holmes,East Bonifay,Retain Justice Jorge Labarga,"",NON,Yes,379,150,157,72
-Holmes,Ponce de Leon,Retain Justice Jorge Labarga,"",NON,No,296,54,178,64
-Holmes,Pine Log,Retain Justice Jorge Labarga,"",NON,No,351,54,201,96
-Holmes,New Hope,Retain Justice Jorge Labarga,"",NON,No,258,,,
-Holmes,Bethlehem,Retain Justice Jorge Labarga,"",NON,No,426,102,227,97
-Holmes,Gritney,Retain Justice Jorge Labarga,"",NON,No,141,,,
-Holmes,Noma,Retain Justice Jorge Labarga,"",NON,No,601,166,330,105
-Holmes,West Bonifay,Retain Justice Jorge Labarga,"",NON,No,474,182,183,109
-Holmes,East Bonifay,Retain Justice Jorge Labarga,"",NON,No,321,,,
-Holmes,Ponce de Leon,Retain Justice Ricky Polston,"",NON,Yes,429,77,273,79
-Holmes,Pine Log,Retain Justice Ricky Polston,"",NON,Yes,372,59,219,94
-Holmes,New Hope,Retain Justice Ricky Polston,"",NON,Yes,352,,,
-Holmes,Bethlehem,Retain Justice Ricky Polston,"",NON,Yes,555,145,286,124
-Holmes,Gritney,Retain Justice Ricky Polston,"",NON,Yes,214,36,139,39
-Holmes,Noma,Retain Justice Ricky Polston,"",NON,Yes,927,261,468,198
-Holmes,West Bonifay,Retain Justice Ricky Polston,"",NON,Yes,686,277,293,116
-Holmes,East Bonifay,Retain Justice Ricky Polston,"",NON,Yes,462,,,
-Holmes,Ponce de Leon,Retain Justice Ricky Polston,"",NON,No,239,34,150,55
-Holmes,Pine Log,Retain Justice Ricky Polston,"",NON,No,266,39,161,66
-Holmes,New Hope,Retain Justice Ricky Polston,"",NON,No,190,,,
-Holmes,Bethlehem,Retain Justice Ricky Polston,"",NON,No,302,72,156,74
-Holmes,Gritney,Retain Justice Ricky Polston,"",NON,No,112,,,
-Holmes,Noma,Retain Justice Ricky Polston,"",NON,No,382,117,210,55
-Holmes,West Bonifay,Retain Justice Ricky Polston,"",NON,No,339,125,123,91
-Holmes,East Bonifay,Retain Justice Ricky Polston,"",NON,No,242,83,110,49
-Holmes,Ponce de Leon,Retain Judge Ross L. Bilbrey,"",NON,Yes,435,77,279,79
-Holmes,Pine Log,Retain Judge Ross L. Bilbrey,"",NON,Yes,394,60,232,102
-Holmes,New Hope,Retain Judge Ross L. Bilbrey,"",NON,Yes,335,,,
-Holmes,Bethlehem,Retain Judge Ross L. Bilbrey,"",NON,Yes,533,146,273,114
-Holmes,Gritney,Retain Judge Ross L. Bilbrey,"",NON,Yes,220,43,135,42
-Holmes,Noma,Retain Judge Ross L. Bilbrey,"",NON,Yes,858,245,438,175
-Holmes,West Bonifay,Retain Judge Ross L. Bilbrey,"",NON,Yes,663,269,279,115
-Holmes,East Bonifay,Retain Judge Ross L. Bilbrey,"",NON,Yes,450,,,
-Holmes,Ponce de Leon,Retain Judge Ross L. Bilbrey,"",NON,No,232,34,143,55
-Holmes,Pine Log,Retain Judge Ross L. Bilbrey,"",NON,No,242,37,150,55
-Holmes,New Hope,Retain Judge Ross L. Bilbrey,"",NON,No,202,,,
-Holmes,Bethlehem,Retain Judge Ross L. Bilbrey,"",NON,No,318,69,166,83
-Holmes,Gritney,Retain Judge Ross L. Bilbrey,"",NON,No,105,,,
-Holmes,Noma,Retain Judge Ross L. Bilbrey,"",NON,No,423,127,231,65
-Holmes,West Bonifay,Retain Judge Ross L. Bilbrey,"",NON,No,350,126,134,90
-Holmes,East Bonifay,Retain Judge Ross L. Bilbrey,"",NON,No,247,90,111,46
-Holmes,Ponce de Leon,Retain Judge Susan Kelsey,"",NON,Yes,424,71,277,76
-Holmes,Pine Log,Retain Judge Susan Kelsey,"",NON,Yes,361,53,212,96
-Holmes,New Hope,Retain Judge Susan Kelsey,"",NON,Yes,336,,,
-Holmes,Bethlehem,Retain Judge Susan Kelsey,"",NON,Yes,545,145,278,122
-Holmes,Gritney,Retain Judge Susan Kelsey,"",NON,Yes,219,41,136,42
-Holmes,Noma,Retain Judge Susan Kelsey,"",NON,Yes,846,239,436,171
-Holmes,West Bonifay,Retain Judge Susan Kelsey,"",NON,Yes,668,264,276,128
-Holmes,East Bonifay,Retain Judge Susan Kelsey,"",NON,Yes,459,,,
-Holmes,Ponce de Leon,Retain Judge Susan Kelsey,"",NON,No,241,39,144,58
-Holmes,Pine Log,Retain Judge Susan Kelsey,"",NON,No,269,44,167,58
-Holmes,New Hope,Retain Judge Susan Kelsey,"",NON,No,200,,,
-Holmes,Bethlehem,Retain Judge Susan Kelsey,"",NON,No,310,71,163,76
-Holmes,Gritney,Retain Judge Susan Kelsey,"",NON,No,107,,,
-Holmes,Noma,Retain Judge Susan Kelsey,"",NON,No,432,130,233,69
-Holmes,West Bonifay,Retain Judge Susan Kelsey,"",NON,No,341,129,134,78
-Holmes,East Bonifay,Retain Judge Susan Kelsey,"",NON,No,233,84,106,43
-Holmes,Ponce de Leon,Retain Judge Bobby Long,"",NON,Yes,445,77,286,82
-Holmes,Pine Log,Retain Judge Bobby Long,"",NON,Yes,400,65,238,97
-Holmes,New Hope,Retain Judge Bobby Long,"",NON,Yes,362,30,272,60
-Holmes,Bethlehem,Retain Judge Bobby Long,"",NON,Yes,570,148,299,123
-Holmes,Gritney,Retain Judge Bobby Long,"",NON,Yes,234,46,147,41
-Holmes,Noma,Retain Judge Bobby Long,"",NON,Yes,900,260,466,174
-Holmes,West Bonifay,Retain Judge Bobby Long,"",NON,Yes,695,276,296,123
-Holmes,East Bonifay,Retain Judge Bobby Long,"",NON,Yes,462,,,
-Holmes,Ponce de Leon,Retain Judge Bobby Long,"",NON,No,222,34,135,53
-Holmes,Pine Log,Retain Judge Bobby Long,"",NON,No,232,32,140,60
-Holmes,New Hope,Retain Judge Bobby Long,"",NON,No,176,,,
-Holmes,Bethlehem,Retain Judge Bobby Long,"",NON,No,285,67,143,75
-Holmes,Gritney,Retain Judge Bobby Long,"",NON,No,92,,,
-Holmes,Noma,Retain Judge Bobby Long,"",NON,No,383,111,206,66
-Holmes,West Bonifay,Retain Judge Bobby Long,"",NON,No,317,118,115,84
-Holmes,East Bonifay,Retain Judge Bobby Long,"",NON,No,227,84,102,41
-Holmes,Ponce de Leon,Retain Judge Lori S. Rowe,"",NON,Yes,416,69,273,74
-Holmes,Pine Log,Retain Judge Lori S. Rowe,"",NON,Yes,349,49,212,88
-Holmes,New Hope,Retain Judge Lori S. Rowe,"",NON,Yes,342,,,
-Holmes,Bethlehem,Retain Judge Lori S. Rowe,"",NON,Yes,531,135,283,113
-Holmes,Gritney,Retain Judge Lori S. Rowe,"",NON,Yes,213,39,136,38
-Holmes,Noma,Retain Judge Lori S. Rowe,"",NON,Yes,815,233,415,167
-Holmes,West Bonifay,Retain Judge Lori S. Rowe,"",NON,Yes,639,243,283,113
-Holmes,East Bonifay,Retain Judge Lori S. Rowe,"",NON,Yes,434,158,194,82
-Holmes,Ponce de Leon,Retain Judge Lori S. Rowe,"",NON,No,251,42,148,61
-Holmes,Pine Log,Retain Judge Lori S. Rowe,"",NON,No,282,48,165,69
-Holmes,New Hope,Retain Judge Lori S. Rowe,"",NON,No,195,,,
-Holmes,Bethlehem,Retain Judge Lori S. Rowe,"",NON,No,322,77,159,86
-Holmes,Gritney,Retain Judge Lori S. Rowe,"",NON,No,113,,,
-Holmes,Noma,Retain Judge Lori S. Rowe,"",NON,No,464,137,255,72
-Holmes,West Bonifay,Retain Judge Lori S. Rowe,"",NON,No,370,151,127,92
-Holmes,East Bonifay,Retain Judge Lori S. Rowe,"",NON,No,258,,,
-Holmes,Ponce de Leon,Retain Judge Bo Winokur,"",NON,Yes,437,78,281,78
-Holmes,Pine Log,Retain Judge Bo Winokur,"",NON,Yes,371,59,219,93
-Holmes,New Hope,Retain Judge Bo Winokur,"",NON,Yes,353,31,262,60
-Holmes,Bethlehem,Retain Judge Bo Winokur,"",NON,Yes,532,139,279,114
-Holmes,Gritney,Retain Judge Bo Winokur,"",NON,Yes,219,46,134,39
-Holmes,Noma,Retain Judge Bo Winokur,"",NON,Yes,855,247,439,169
-Holmes,West Bonifay,Retain Judge Bo Winokur,"",NON,Yes,664,261,284,119
-Holmes,East Bonifay,Retain Judge Bo Winokur,"",NON,Yes,439,,,
-Holmes,Ponce de Leon,Retain Judge Bo Winokur,"",NON,No,230,33,141,56
-Holmes,Pine Log,Retain Judge Bo Winokur,"",NON,No,259,37,159,63
-Holmes,New Hope,Retain Judge Bo Winokur,"",NON,No,185,,,
-Holmes,Bethlehem,Retain Judge Bo Winokur,"",NON,No,320,75,162,83
-Holmes,Gritney,Retain Judge Bo Winokur,"",NON,No,106,,,
-Holmes,Noma,Retain Judge Bo Winokur,"",NON,No,427,124,232,71
-Holmes,West Bonifay,Retain Judge Bo Winokur,"",NON,No,348,134,127,87
-Holmes,East Bonifay,Retain Judge Bo Winokur,"",NON,No,252,91,109,52
-Holmes,Ponce de Leon,No. 1 Constitutional Amendment,"",NON,Yes,379,61,237,81
-Holmes,Pine Log,No. 1 Constitutional Amendment,"",NON,Yes,370,59,222,89
-Holmes,New Hope,No. 1 Constitutional Amendment,"",NON,Yes,310,,,
-Holmes,Bethlehem,No. 1 Constitutional Amendment,"",NON,Yes,502,149,241,112
-Holmes,Gritney,No. 1 Constitutional Amendment,"",NON,Yes,175,33,100,42
-Holmes,Noma,No. 1 Constitutional Amendment,"",NON,Yes,701,,,
-Holmes,West Bonifay,No. 1 Constitutional Amendment,"",NON,Yes,549,223,224,102
-Holmes,East Bonifay,No. 1 Constitutional Amendment,"",NON,Yes,374,136,154,84
-Holmes,Ponce de Leon,No. 1 Constitutional Amendment,"",NON,No,314,47,208,59
-Holmes,Pine Log,No. 1 Constitutional Amendment,"",NON,No,291,44,175,72
-Holmes,New Hope,No. 1 Constitutional Amendment,"",NON,No,253,,,
-Holmes,Bethlehem,No. 1 Constitutional Amendment,"",NON,No,390,83,218,89
-Holmes,Gritney,No. 1 Constitutional Amendment,"",NON,No,164,,,
-Holmes,Noma,No. 1 Constitutional Amendment,"",NON,No,628,183,342,103
-Holmes,West Bonifay,No. 1 Constitutional Amendment,"",NON,No,493,192,205,96
-Holmes,East Bonifay,No. 1 Constitutional Amendment,"",NON,No,355,,,
-Holmes,Ponce de Leon,No. 2 Constitutional Amendment,"",NON,Yes,399,59,259,81
-Holmes,Pine Log,No. 2 Constitutional Amendment,"",NON,Yes,342,60,193,89
-Holmes,New Hope,No. 2 Constitutional Amendment,"",NON,Yes,307,,,
-Holmes,Bethlehem,No. 2 Constitutional Amendment,"",NON,Yes,473,128,249,96
-Holmes,Gritney,No. 2 Constitutional Amendment,"",NON,Yes,186,33,114,39
-Holmes,Noma,No. 2 Constitutional Amendment,"",NON,Yes,721,235,353,133
-Holmes,West Bonifay,No. 2 Constitutional Amendment,"",NON,Yes,572,205,254,113
-Holmes,East Bonifay,No. 2 Constitutional Amendment,"",NON,Yes,388,140,167,81
-Holmes,Ponce de Leon,No. 2 Constitutional Amendment,"",NON,No,282,48,177,57
-Holmes,Pine Log,No. 2 Constitutional Amendment,"",NON,No,311,40,200,71
-Holmes,New Hope,No. 2 Constitutional Amendment,"",NON,No,249,,,
-Holmes,Bethlehem,No. 2 Constitutional Amendment,"",NON,No,408,96,203,109
-Holmes,Gritney,No. 2 Constitutional Amendment,"",NON,No,151,,,
-Holmes,Noma,No. 2 Constitutional Amendment,"",NON,No,609,159,347,103
-Holmes,West Bonifay,No. 2 Constitutional Amendment,"",NON,No,469,209,175,85
-Holmes,East Bonifay,No. 2 Constitutional Amendment,"",NON,No,335,,,
-Holmes,Ponce de Leon,No. 3 Constitutional Amendment,"",NON,Yes,426,59,290,77
-Holmes,Pine Log,No. 3 Constitutional Amendment,"",NON,Yes,410,51,262,97
-Holmes,New Hope,No. 3 Constitutional Amendment,"",NON,Yes,327,,,
-Holmes,Bethlehem,No. 3 Constitutional Amendment,"",NON,Yes,510,132,270,108
-Holmes,Gritney,No. 3 Constitutional Amendment,"",NON,Yes,204,35,128,41
-Holmes,Noma,No. 3 Constitutional Amendment,"",NON,Yes,781,210,427,144
-Holmes,West Bonifay,No. 3 Constitutional Amendment,"",NON,Yes,576,203,259,114
-Holmes,East Bonifay,No. 3 Constitutional Amendment,"",NON,Yes,432,142,209,81
-Holmes,Ponce de Leon,No. 3 Constitutional Amendment,"",NON,No,278,53,159,66
-Holmes,Pine Log,No. 3 Constitutional Amendment,"",NON,No,270,52,148,70
-Holmes,New Hope,No. 3 Constitutional Amendment,"",NON,No,254,,,
-Holmes,Bethlehem,No. 3 Constitutional Amendment,"",NON,No,400,99,199,102
-Holmes,Gritney,No. 3 Constitutional Amendment,"",NON,No,140,,,
-Holmes,Noma,No. 3 Constitutional Amendment,"",NON,No,588,,,
-Holmes,West Bonifay,No. 3 Constitutional Amendment,"",NON,No,490,218,178,94
-Holmes,East Bonifay,No. 3 Constitutional Amendment,"",NON,No,308,,,
+county,precinct,office,district,party,candidate,votes
+Holmes,Ponce de Leon,U.S. Senate,"",REP,Marco Rubio,668
+Holmes,Pine Log,U.S. Senate,"",REP,Marco Rubio,664
+Holmes,New Hope,U.S. Senate,"",REP,Marco Rubio,544
+Holmes,Bethlehem,U.S. Senate,"",REP,Marco Rubio,897
+Holmes,Gritney,U.S. Senate,"",REP,Marco Rubio,339
+Holmes,Noma,U.S. Senate,"",REP,Marco Rubio,1360
+Holmes,West Bonifay,U.S. Senate,"",REP,Marco Rubio,1005
+Holmes,East Bonifay,U.S. Senate,"",REP,Marco Rubio,674
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,Val Demings,65
+Holmes,Pine Log,U.S. Senate,"",DEM,Val Demings,58
+Holmes,New Hope,U.S. Senate,"",DEM,Val Demings,54
+Holmes,Bethlehem,U.S. Senate,"",DEM,Val Demings,85
+Holmes,Gritney,U.S. Senate,"",DEM,Val Demings,22
+Holmes,Noma,U.S. Senate,"",DEM,Val Demings,83
+Holmes,West Bonifay,U.S. Senate,"",DEM,Val Demings,91
+Holmes,East Bonifay,U.S. Senate,"",DEM,Val Demings,98
+Holmes,Ponce de Leon,U.S. Senate,"",LPF,Dennis Misigoy,2
+Holmes,Pine Log,U.S. Senate,"",LPF,Dennis Misigoy,2
+Holmes,New Hope,U.S. Senate,"",LPF,Dennis Misigoy,3
+Holmes,Bethlehem,U.S. Senate,"",LPF,Dennis Misigoy,1
+Holmes,Gritney,U.S. Senate,"",LPF,Dennis Misigoy,0
+Holmes,Noma,U.S. Senate,"",LPF,Dennis Misigoy,4
+Holmes,West Bonifay,U.S. Senate,"",LPF,Dennis Misigoy,8
+Holmes,East Bonifay,U.S. Senate,"",LPF,Dennis Misigoy,3
+Holmes,Ponce de Leon,U.S. Senate,"",NPA,Steven B. Grant,5
+Holmes,Pine Log,U.S. Senate,"",NPA,Steven B. Grant,6
+Holmes,New Hope,U.S. Senate,"",NPA,Steven B. Grant,4
+Holmes,Bethlehem,U.S. Senate,"",NPA,Steven B. Grant,2
+Holmes,Gritney,U.S. Senate,"",NPA,Steven B. Grant,2
+Holmes,Noma,U.S. Senate,"",NPA,Steven B. Grant,7
+Holmes,West Bonifay,U.S. Senate,"",NPA,Steven B. Grant,5
+Holmes,East Bonifay,U.S. Senate,"",NPA,Steven B. Grant,3
+Holmes,Ponce de Leon,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Holmes,Pine Log,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Holmes,New Hope,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Holmes,Bethlehem,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Holmes,Gritney,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Holmes,Noma,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Holmes,West Bonifay,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Holmes,East Bonifay,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Holmes,Ponce de Leon,U.S. Senate,"","",WriteinVotes,1
+Holmes,Pine Log,U.S. Senate,"","",WriteinVotes,0
+Holmes,New Hope,U.S. Senate,"","",WriteinVotes,0
+Holmes,Bethlehem,U.S. Senate,"","",WriteinVotes,1
+Holmes,Gritney,U.S. Senate,"","",WriteinVotes,0
+Holmes,Noma,U.S. Senate,"","",WriteinVotes,0
+Holmes,West Bonifay,U.S. Senate,"","",WriteinVotes,0
+Holmes,East Bonifay,U.S. Senate,"","",WriteinVotes,0
+Holmes,Ponce de Leon,U.S. Senate,"","",OverVotes,0
+Holmes,Pine Log,U.S. Senate,"","",OverVotes,0
+Holmes,New Hope,U.S. Senate,"","",OverVotes,0
+Holmes,Bethlehem,U.S. Senate,"","",OverVotes,0
+Holmes,Gritney,U.S. Senate,"","",OverVotes,0
+Holmes,Noma,U.S. Senate,"","",OverVotes,0
+Holmes,West Bonifay,U.S. Senate,"","",OverVotes,0
+Holmes,East Bonifay,U.S. Senate,"","",OverVotes,0
+Holmes,Ponce de Leon,U.S. Senate,"","",UnderVotes,0
+Holmes,Pine Log,U.S. Senate,"","",UnderVotes,3
+Holmes,New Hope,U.S. Senate,"","",UnderVotes,4
+Holmes,Bethlehem,U.S. Senate,"","",UnderVotes,3
+Holmes,Gritney,U.S. Senate,"","",UnderVotes,1
+Holmes,Noma,U.S. Senate,"","",UnderVotes,3
+Holmes,West Bonifay,U.S. Senate,"","",UnderVotes,3
+Holmes,East Bonifay,U.S. Senate,"","",UnderVotes,1
+Holmes,Ponce de Leon,U.S. House,2,REP,Neal Dunn,676
+Holmes,Pine Log,U.S. House,2,REP,Neal Dunn,660
+Holmes,New Hope,U.S. House,2,REP,Neal Dunn,544
+Holmes,Bethlehem,U.S. House,2,REP,Neal Dunn,903
+Holmes,Gritney,U.S. House,2,REP,Neal Dunn,339
+Holmes,Noma,U.S. House,2,REP,Neal Dunn,1358
+Holmes,West Bonifay,U.S. House,2,REP,Neal Dunn,1007
+Holmes,East Bonifay,U.S. House,2,REP,Neal Dunn,662
+Holmes,Ponce de Leon,U.S. House,2,DEM,Al Lawson,64
+Holmes,Pine Log,U.S. House,2,DEM,Al Lawson,67
+Holmes,New Hope,U.S. House,2,DEM,Al Lawson,58
+Holmes,Bethlehem,U.S. House,2,DEM,Al Lawson,84
+Holmes,Gritney,U.S. House,2,DEM,Al Lawson,23
+Holmes,Noma,U.S. House,2,DEM,Al Lawson,91
+Holmes,West Bonifay,U.S. House,2,DEM,Al Lawson,95
+Holmes,East Bonifay,U.S. House,2,DEM,Al Lawson,116
+Holmes,Ponce de Leon,U.S. House,2,"",OverVotes,0
+Holmes,Pine Log,U.S. House,2,"",OverVotes,0
+Holmes,New Hope,U.S. House,2,"",OverVotes,0
+Holmes,Bethlehem,U.S. House,2,"",OverVotes,0
+Holmes,Gritney,U.S. House,2,"",OverVotes,0
+Holmes,Noma,U.S. House,2,"",OverVotes,0
+Holmes,West Bonifay,U.S. House,2,"",OverVotes,0
+Holmes,East Bonifay,U.S. House,2,"",OverVotes,1
+Holmes,Ponce de Leon,U.S. House,2,"",UnderVotes,3
+Holmes,Pine Log,U.S. House,2,"",UnderVotes,6
+Holmes,New Hope,U.S. House,2,"",UnderVotes,7
+Holmes,Bethlehem,U.S. House,2,"",UnderVotes,3
+Holmes,Gritney,U.S. House,2,"",UnderVotes,2
+Holmes,Noma,U.S. House,2,"",UnderVotes,9
+Holmes,West Bonifay,U.S. House,2,"",UnderVotes,11
+Holmes,East Bonifay,U.S. House,2,"",UnderVotes,1
+Holmes,Ponce de Leon,Governor,"",REP,DeSantis / Nuñez,679
+Holmes,Pine Log,Governor,"",REP,DeSantis / Nuñez,665
+Holmes,New Hope,Governor,"",REP,DeSantis / Nuñez,556
+Holmes,Bethlehem,Governor,"",REP,DeSantis / Nuñez,909
+Holmes,Gritney,Governor,"",REP,DeSantis / Nuñez,344
+Holmes,Noma,Governor,"",REP,DeSantis / Nuñez,1371
+Holmes,West Bonifay,Governor,"",REP,DeSantis / Nuñez,1020
+Holmes,East Bonifay,Governor,"",REP,DeSantis / Nuñez,670
+Holmes,Ponce de Leon,Governor,"",DEM,Crist / Hernandez,62
+Holmes,Pine Log,Governor,"",DEM,Crist / Hernandez,60
+Holmes,New Hope,Governor,"",DEM,Crist / Hernandez,51
+Holmes,Bethlehem,Governor,"",DEM,Crist / Hernandez,75
+Holmes,Gritney,Governor,"",DEM,Crist / Hernandez,17
+Holmes,Noma,Governor,"",DEM,Crist / Hernandez,78
+Holmes,West Bonifay,Governor,"",DEM,Crist / Hernandez,86
+Holmes,East Bonifay,Governor,"",DEM,Crist / Hernandez,104
+Holmes,Ponce de Leon,Governor,"",LPF,Roos / Rorabaugh,2
+Holmes,Pine Log,Governor,"",LPF,Roos / Rorabaugh,6
+Holmes,New Hope,Governor,"",LPF,Roos / Rorabaugh,1
+Holmes,Bethlehem,Governor,"",LPF,Roos / Rorabaugh,3
+Holmes,Gritney,Governor,"",LPF,Roos / Rorabaugh,3
+Holmes,Noma,Governor,"",LPF,Roos / Rorabaugh,5
+Holmes,West Bonifay,Governor,"",LPF,Roos / Rorabaugh,2
+Holmes,East Bonifay,Governor,"",LPF,Roos / Rorabaugh,2
+Holmes,Ponce de Leon,Governor,"",NPA,Gimenez / Gibson,0
+Holmes,Pine Log,Governor,"",NPA,Gimenez / Gibson,1
+Holmes,New Hope,Governor,"",NPA,Gimenez / Gibson,0
+Holmes,Bethlehem,Governor,"",NPA,Gimenez / Gibson,2
+Holmes,Gritney,Governor,"",NPA,Gimenez / Gibson,0
+Holmes,Noma,Governor,"",NPA,Gimenez / Gibson,2
+Holmes,West Bonifay,Governor,"",NPA,Gimenez / Gibson,2
+Holmes,East Bonifay,Governor,"",NPA,Gimenez / Gibson,4
+Holmes,Ponce de Leon,Governor,"","",OverVotes,0
+Holmes,Pine Log,Governor,"","",OverVotes,0
+Holmes,New Hope,Governor,"","",OverVotes,1
+Holmes,Bethlehem,Governor,"","",OverVotes,0
+Holmes,Gritney,Governor,"","",OverVotes,0
+Holmes,Noma,Governor,"","",OverVotes,0
+Holmes,West Bonifay,Governor,"","",OverVotes,0
+Holmes,East Bonifay,Governor,"","",OverVotes,0
+Holmes,Ponce de Leon,Governor,"","",UnderVotes,0
+Holmes,Pine Log,Governor,"","",UnderVotes,1
+Holmes,New Hope,Governor,"","",UnderVotes,0
+Holmes,Bethlehem,Governor,"","",UnderVotes,1
+Holmes,Gritney,Governor,"","",UnderVotes,0
+Holmes,Noma,Governor,"","",UnderVotes,2
+Holmes,West Bonifay,Governor,"","",UnderVotes,3
+Holmes,East Bonifay,Governor,"","",UnderVotes,0
+Holmes,Ponce de Leon,Attorney General,"",REP,Ashley Moody,681
+Holmes,Pine Log,Attorney General,"",REP,Ashley Moody,667
+Holmes,New Hope,Attorney General,"",REP,Ashley Moody,551
+Holmes,Bethlehem,Attorney General,"",REP,Ashley Moody,909
+Holmes,Gritney,Attorney General,"",REP,Ashley Moody,340
+Holmes,Noma,Attorney General,"",REP,Ashley Moody,1368
+Holmes,West Bonifay,Attorney General,"",REP,Ashley Moody,1018
+Holmes,East Bonifay,Attorney General,"",REP,Ashley Moody,675
+Holmes,Ponce de Leon,Attorney General,"",DEM,Aramis Ayala,61
+Holmes,Pine Log,Attorney General,"",DEM,Aramis Ayala,58
+Holmes,New Hope,Attorney General,"",DEM,Aramis Ayala,50
+Holmes,Bethlehem,Attorney General,"",DEM,Aramis Ayala,75
+Holmes,Gritney,Attorney General,"",DEM,Aramis Ayala,20
+Holmes,Noma,Attorney General,"",DEM,Aramis Ayala,84
+Holmes,West Bonifay,Attorney General,"",DEM,Aramis Ayala,89
+Holmes,East Bonifay,Attorney General,"",DEM,Aramis Ayala,100
+Holmes,Ponce de Leon,Attorney General,"","",OverVotes,0
+Holmes,Pine Log,Attorney General,"","",OverVotes,0
+Holmes,New Hope,Attorney General,"","",OverVotes,0
+Holmes,Bethlehem,Attorney General,"","",OverVotes,0
+Holmes,Gritney,Attorney General,"","",OverVotes,0
+Holmes,Noma,Attorney General,"","",OverVotes,0
+Holmes,West Bonifay,Attorney General,"","",OverVotes,0
+Holmes,East Bonifay,Attorney General,"","",OverVotes,0
+Holmes,Ponce de Leon,Attorney General,"","",UnderVotes,1
+Holmes,Pine Log,Attorney General,"","",UnderVotes,8
+Holmes,New Hope,Attorney General,"","",UnderVotes,8
+Holmes,Bethlehem,Attorney General,"","",UnderVotes,6
+Holmes,Gritney,Attorney General,"","",UnderVotes,4
+Holmes,Noma,Attorney General,"","",UnderVotes,6
+Holmes,West Bonifay,Attorney General,"","",UnderVotes,6
+Holmes,East Bonifay,Attorney General,"","",UnderVotes,5
+Holmes,Ponce de Leon,Chief Financial Officer,"",REP,Jimmy Patronis,676
+Holmes,Pine Log,Chief Financial Officer,"",REP,Jimmy Patronis,670
+Holmes,New Hope,Chief Financial Officer,"",REP,Jimmy Patronis,547
+Holmes,Bethlehem,Chief Financial Officer,"",REP,Jimmy Patronis,912
+Holmes,Gritney,Chief Financial Officer,"",REP,Jimmy Patronis,341
+Holmes,Noma,Chief Financial Officer,"",REP,Jimmy Patronis,1367
+Holmes,West Bonifay,Chief Financial Officer,"",REP,Jimmy Patronis,1015
+Holmes,East Bonifay,Chief Financial Officer,"",REP,Jimmy Patronis,673
+Holmes,Ponce de Leon,Chief Financial Officer,"",DEM,Adam Hattersley,62
+Holmes,Pine Log,Chief Financial Officer,"",DEM,Adam Hattersley,56
+Holmes,New Hope,Chief Financial Officer,"",DEM,Adam Hattersley,52
+Holmes,Bethlehem,Chief Financial Officer,"",DEM,Adam Hattersley,70
+Holmes,Gritney,Chief Financial Officer,"",DEM,Adam Hattersley,20
+Holmes,Noma,Chief Financial Officer,"",DEM,Adam Hattersley,84
+Holmes,West Bonifay,Chief Financial Officer,"",DEM,Adam Hattersley,89
+Holmes,East Bonifay,Chief Financial Officer,"",DEM,Adam Hattersley,104
+Holmes,Ponce de Leon,Chief Financial Officer,"","",OverVotes,0
+Holmes,Pine Log,Chief Financial Officer,"","",OverVotes,0
+Holmes,New Hope,Chief Financial Officer,"","",OverVotes,0
+Holmes,Bethlehem,Chief Financial Officer,"","",OverVotes,0
+Holmes,Gritney,Chief Financial Officer,"","",OverVotes,0
+Holmes,Noma,Chief Financial Officer,"","",OverVotes,0
+Holmes,West Bonifay,Chief Financial Officer,"","",OverVotes,0
+Holmes,East Bonifay,Chief Financial Officer,"","",OverVotes,0
+Holmes,Ponce de Leon,Chief Financial Officer,"","",UnderVotes,5
+Holmes,Pine Log,Chief Financial Officer,"","",UnderVotes,7
+Holmes,New Hope,Chief Financial Officer,"","",UnderVotes,10
+Holmes,Bethlehem,Chief Financial Officer,"","",UnderVotes,8
+Holmes,Gritney,Chief Financial Officer,"","",UnderVotes,3
+Holmes,Noma,Chief Financial Officer,"","",UnderVotes,7
+Holmes,West Bonifay,Chief Financial Officer,"","",UnderVotes,9
+Holmes,East Bonifay,Chief Financial Officer,"","",UnderVotes,3
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",REP,Wilton Simpson,674
+Holmes,Pine Log,Commissioner of Agriculture,"",REP,Wilton Simpson,662
+Holmes,New Hope,Commissioner of Agriculture,"",REP,Wilton Simpson,544
+Holmes,Bethlehem,Commissioner of Agriculture,"",REP,Wilton Simpson,897
+Holmes,Gritney,Commissioner of Agriculture,"",REP,Wilton Simpson,337
+Holmes,Noma,Commissioner of Agriculture,"",REP,Wilton Simpson,1357
+Holmes,West Bonifay,Commissioner of Agriculture,"",REP,Wilton Simpson,1005
+Holmes,East Bonifay,Commissioner of Agriculture,"",REP,Wilton Simpson,660
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,67
+Holmes,Pine Log,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,58
+Holmes,New Hope,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,56
+Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
+Holmes,Gritney,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,22
+Holmes,Noma,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,88
+Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,97
+Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,113
+Holmes,Ponce de Leon,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Pine Log,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,New Hope,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Bethlehem,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Gritney,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Noma,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,West Bonifay,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,East Bonifay,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Ponce de Leon,Commissioner of Agriculture,"","",UnderVotes,2
+Holmes,Pine Log,Commissioner of Agriculture,"","",UnderVotes,13
+Holmes,New Hope,Commissioner of Agriculture,"","",UnderVotes,9
+Holmes,Bethlehem,Commissioner of Agriculture,"","",UnderVotes,11
+Holmes,Gritney,Commissioner of Agriculture,"","",UnderVotes,5
+Holmes,Noma,Commissioner of Agriculture,"","",UnderVotes,13
+Holmes,West Bonifay,Commissioner of Agriculture,"","",UnderVotes,11
+Holmes,East Bonifay,Commissioner of Agriculture,"","",UnderVotes,7
+Holmes,Ponce de Leon,State Senate,2,REP,Jay Trumbull,668
+Holmes,Pine Log,State Senate,2,REP,Jay Trumbull,656
+Holmes,New Hope,State Senate,2,REP,Jay Trumbull,544
+Holmes,Bethlehem,State Senate,2,REP,Jay Trumbull,894
+Holmes,Gritney,State Senate,2,REP,Jay Trumbull,335
+Holmes,Noma,State Senate,2,REP,Jay Trumbull,1356
+Holmes,West Bonifay,State Senate,2,REP,Jay Trumbull,1008
+Holmes,East Bonifay,State Senate,2,REP,Jay Trumbull,667
+Holmes,Ponce de Leon,State Senate,2,DEM,Carolynn Zonia,71
+Holmes,Pine Log,State Senate,2,DEM,Carolynn Zonia,65
+Holmes,New Hope,State Senate,2,DEM,Carolynn Zonia,56
+Holmes,Bethlehem,State Senate,2,DEM,Carolynn Zonia,86
+Holmes,Gritney,State Senate,2,DEM,Carolynn Zonia,25
+Holmes,Noma,State Senate,2,DEM,Carolynn Zonia,89
+Holmes,West Bonifay,State Senate,2,DEM,Carolynn Zonia,93
+Holmes,East Bonifay,State Senate,2,DEM,Carolynn Zonia,107
+Holmes,Ponce de Leon,State Senate,2,"",OverVotes,0
+Holmes,Pine Log,State Senate,2,"",OverVotes,0
+Holmes,New Hope,State Senate,2,"",OverVotes,0
+Holmes,Bethlehem,State Senate,2,"",OverVotes,1
+Holmes,Gritney,State Senate,2,"",OverVotes,0
+Holmes,Noma,State Senate,2,"",OverVotes,0
+Holmes,West Bonifay,State Senate,2,"",OverVotes,1
+Holmes,East Bonifay,State Senate,2,"",OverVotes,0
+Holmes,Ponce de Leon,State Senate,2,"",UnderVotes,4
+Holmes,Pine Log,State Senate,2,"",UnderVotes,12
+Holmes,New Hope,State Senate,2,"",UnderVotes,9
+Holmes,Bethlehem,State Senate,2,"",UnderVotes,9
+Holmes,Gritney,State Senate,2,"",UnderVotes,4
+Holmes,Noma,State Senate,2,"",UnderVotes,13
+Holmes,West Bonifay,State Senate,2,"",UnderVotes,11
+Holmes,East Bonifay,State Senate,2,"",UnderVotes,6
+Holmes,Ponce de Leon,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,432
+Holmes,Pine Log,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,369
+Holmes,New Hope,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,339
+Holmes,Bethlehem,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,552
+Holmes,Gritney,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,227
+Holmes,Noma,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,863
+Holmes,West Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,673
+Holmes,East Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,455
+Holmes,Ponce de Leon,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,242
+Holmes,Pine Log,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,267
+Holmes,New Hope,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,205
+Holmes,Bethlehem,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,312
+Holmes,Gritney,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,101
+Holmes,Noma,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,440
+Holmes,West Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,346
+Holmes,East Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,250
+Holmes,Ponce de Leon,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Pine Log,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Holmes,New Hope,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Bethlehem,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Holmes,Gritney,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Noma,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Holmes,West Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Holmes,East Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Holmes,Ponce de Leon,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,69
+Holmes,Pine Log,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,96
+Holmes,New Hope,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,65
+Holmes,Bethlehem,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,124
+Holmes,Gritney,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,36
+Holmes,Noma,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,154
+Holmes,West Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,92
+Holmes,East Bonifay,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,74
+Holmes,Ponce de Leon,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,455
+Holmes,Pine Log,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,393
+Holmes,New Hope,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,347
+Holmes,Bethlehem,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,561
+Holmes,Gritney,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,234
+Holmes,Noma,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,888
+Holmes,West Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,703
+Holmes,East Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,456
+Holmes,Ponce de Leon,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,215
+Holmes,Pine Log,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,240
+Holmes,New Hope,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,195
+Holmes,Bethlehem,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,303
+Holmes,Gritney,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,93
+Holmes,Noma,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,405
+Holmes,West Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,319
+Holmes,East Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,245
+Holmes,Ponce de Leon,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Pine Log,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Holmes,New Hope,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Bethlehem,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Holmes,Gritney,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Noma,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Holmes,West Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Holmes,East Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Holmes,Ponce de Leon,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,73
+Holmes,Pine Log,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,99
+Holmes,New Hope,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,67
+Holmes,Bethlehem,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,125
+Holmes,Gritney,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,37
+Holmes,Noma,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,164
+Holmes,West Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,91
+Holmes,East Bonifay,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,78
+Holmes,Ponce de Leon,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,452
+Holmes,Pine Log,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,395
+Holmes,New Hope,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,353
+Holmes,Bethlehem,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,546
+Holmes,Gritney,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,224
+Holmes,Noma,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,888
+Holmes,West Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,711
+Holmes,East Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,467
+Holmes,Ponce de Leon,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,219
+Holmes,Pine Log,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,240
+Holmes,New Hope,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,186
+Holmes,Bethlehem,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,311
+Holmes,Gritney,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,99
+Holmes,Noma,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,402
+Holmes,West Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,308
+Holmes,East Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,231
+Holmes,Ponce de Leon,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Pine Log,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Holmes,New Hope,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Bethlehem,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Gritney,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Noma,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Holmes,West Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Holmes,East Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,72
+Holmes,Pine Log,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,98
+Holmes,New Hope,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,70
+Holmes,Bethlehem,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,133
+Holmes,Gritney,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,41
+Holmes,Noma,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,167
+Holmes,West Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,93
+Holmes,East Bonifay,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,82
+Holmes,Ponce de Leon,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,375
+Holmes,Pine Log,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,284
+Holmes,New Hope,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,279
+Holmes,Bethlehem,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,432
+Holmes,Gritney,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,185
+Holmes,Noma,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,690
+Holmes,West Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,546
+Holmes,East Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,379
+Holmes,Ponce de Leon,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,296
+Holmes,Pine Log,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,351
+Holmes,New Hope,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,258
+Holmes,Bethlehem,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,426
+Holmes,Gritney,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,141
+Holmes,Noma,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,601
+Holmes,West Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,474
+Holmes,East Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,321
+Holmes,Ponce de Leon,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Pine Log,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Holmes,New Hope,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Bethlehem,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Gritney,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Noma,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Holmes,West Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Holmes,East Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Holmes,Ponce de Leon,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,72
+Holmes,Pine Log,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,97
+Holmes,New Hope,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,72
+Holmes,Bethlehem,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,132
+Holmes,Gritney,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,38
+Holmes,Noma,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,166
+Holmes,West Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,93
+Holmes,East Bonifay,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,78
+Holmes,Ponce de Leon,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,429
+Holmes,Pine Log,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,372
+Holmes,New Hope,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,352
+Holmes,Bethlehem,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,555
+Holmes,Gritney,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,214
+Holmes,Noma,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,927
+Holmes,West Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,686
+Holmes,East Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,462
+Holmes,Ponce de Leon,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,239
+Holmes,Pine Log,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,266
+Holmes,New Hope,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,190
+Holmes,Bethlehem,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,302
+Holmes,Gritney,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,112
+Holmes,Noma,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,382
+Holmes,West Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,339
+Holmes,East Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,242
+Holmes,Ponce de Leon,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Pine Log,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Holmes,New Hope,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Holmes,Bethlehem,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Gritney,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Noma,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Holmes,West Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Holmes,East Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,75
+Holmes,Pine Log,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,95
+Holmes,New Hope,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,66
+Holmes,Bethlehem,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,133
+Holmes,Gritney,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,38
+Holmes,Noma,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,149
+Holmes,West Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,88
+Holmes,East Bonifay,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,76
+Holmes,Ponce de Leon,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,435
+Holmes,Pine Log,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,394
+Holmes,New Hope,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,335
+Holmes,Bethlehem,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,533
+Holmes,Gritney,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,220
+Holmes,Noma,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,858
+Holmes,West Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,663
+Holmes,East Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,450
+Holmes,Ponce de Leon,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,232
+Holmes,Pine Log,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,242
+Holmes,New Hope,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,202
+Holmes,Bethlehem,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,318
+Holmes,Gritney,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,105
+Holmes,Noma,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,423
+Holmes,West Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,350
+Holmes,East Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,247
+Holmes,Ponce de Leon,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Holmes,Bethlehem,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,2
+Holmes,Gritney,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Holmes,Noma,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,5
+Holmes,West Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Holmes,East Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,76
+Holmes,Pine Log,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,97
+Holmes,New Hope,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,72
+Holmes,Bethlehem,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,137
+Holmes,Gritney,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,38
+Holmes,Noma,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,172
+Holmes,West Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,100
+Holmes,East Bonifay,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,83
+Holmes,Ponce de Leon,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,424
+Holmes,Pine Log,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,361
+Holmes,New Hope,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,336
+Holmes,Bethlehem,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,545
+Holmes,Gritney,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,219
+Holmes,Noma,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,846
+Holmes,West Bonifay,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,668
+Holmes,East Bonifay,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,459
+Holmes,Ponce de Leon,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,241
+Holmes,Pine Log,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,269
+Holmes,New Hope,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,200
+Holmes,Bethlehem,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,310
+Holmes,Gritney,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,107
+Holmes,Noma,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,432
+Holmes,West Bonifay,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,341
+Holmes,East Bonifay,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,233
+Holmes,Ponce de Leon,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Holmes,Bethlehem,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Holmes,Noma,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Holmes,West Bonifay,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Holmes,East Bonifay,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,78
+Holmes,Pine Log,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,103
+Holmes,New Hope,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,73
+Holmes,Bethlehem,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,135
+Holmes,Gritney,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,38
+Holmes,Noma,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,179
+Holmes,West Bonifay,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,103
+Holmes,East Bonifay,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,88
+Holmes,Ponce de Leon,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,445
+Holmes,Pine Log,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,400
+Holmes,New Hope,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,362
+Holmes,Bethlehem,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,570
+Holmes,Gritney,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,234
+Holmes,Noma,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,900
+Holmes,West Bonifay,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,695
+Holmes,East Bonifay,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,462
+Holmes,Ponce de Leon,Retention of Bobby Long,First District Court of Appeal,NOP,No,222
+Holmes,Pine Log,Retention of Bobby Long,First District Court of Appeal,NOP,No,232
+Holmes,New Hope,Retention of Bobby Long,First District Court of Appeal,NOP,No,176
+Holmes,Bethlehem,Retention of Bobby Long,First District Court of Appeal,NOP,No,285
+Holmes,Gritney,Retention of Bobby Long,First District Court of Appeal,NOP,No,92
+Holmes,Noma,Retention of Bobby Long,First District Court of Appeal,NOP,No,383
+Holmes,West Bonifay,Retention of Bobby Long,First District Court of Appeal,NOP,No,317
+Holmes,East Bonifay,Retention of Bobby Long,First District Court of Appeal,NOP,No,227
+Holmes,Ponce de Leon,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Holmes,Pine Log,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Holmes,Bethlehem,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Holmes,Noma,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Holmes,West Bonifay,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Holmes,East Bonifay,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,75
+Holmes,Pine Log,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,101
+Holmes,New Hope,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,71
+Holmes,Bethlehem,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,135
+Holmes,Gritney,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,38
+Holmes,Noma,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,175
+Holmes,West Bonifay,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,101
+Holmes,East Bonifay,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,91
+Holmes,Ponce de Leon,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,416
+Holmes,Pine Log,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,349
+Holmes,New Hope,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,342
+Holmes,Bethlehem,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,531
+Holmes,Gritney,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,213
+Holmes,Noma,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,815
+Holmes,West Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,639
+Holmes,East Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,434
+Holmes,Ponce de Leon,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,251
+Holmes,Pine Log,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,282
+Holmes,New Hope,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,195
+Holmes,Bethlehem,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,322
+Holmes,Gritney,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,113
+Holmes,Noma,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,464
+Holmes,West Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,370
+Holmes,East Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,258
+Holmes,Ponce de Leon,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,2
+Holmes,New Hope,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Holmes,Bethlehem,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Holmes,Noma,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,2
+Holmes,West Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Holmes,East Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Holmes,Ponce de Leon,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,76
+Holmes,Pine Log,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,100
+Holmes,New Hope,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,72
+Holmes,Bethlehem,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,137
+Holmes,Gritney,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,38
+Holmes,Noma,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,177
+Holmes,West Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,103
+Holmes,East Bonifay,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,87
+Holmes,Ponce de Leon,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,437
+Holmes,Pine Log,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,371
+Holmes,New Hope,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,353
+Holmes,Bethlehem,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,532
+Holmes,Gritney,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,219
+Holmes,Noma,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,855
+Holmes,West Bonifay,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,664
+Holmes,East Bonifay,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,439
+Holmes,Ponce de Leon,Retention of Bo Winokur,First District Court of Appeal,NOP,No,230
+Holmes,Pine Log,Retention of Bo Winokur,First District Court of Appeal,NOP,No,259
+Holmes,New Hope,Retention of Bo Winokur,First District Court of Appeal,NOP,No,185
+Holmes,Bethlehem,Retention of Bo Winokur,First District Court of Appeal,NOP,No,320
+Holmes,Gritney,Retention of Bo Winokur,First District Court of Appeal,NOP,No,106
+Holmes,Noma,Retention of Bo Winokur,First District Court of Appeal,NOP,No,427
+Holmes,West Bonifay,Retention of Bo Winokur,First District Court of Appeal,NOP,No,348
+Holmes,East Bonifay,Retention of Bo Winokur,First District Court of Appeal,NOP,No,252
+Holmes,Ponce de Leon,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Holmes,Bethlehem,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,2
+Holmes,Gritney,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Holmes,Noma,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Holmes,West Bonifay,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Holmes,East Bonifay,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,76
+Holmes,Pine Log,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,103
+Holmes,New Hope,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,71
+Holmes,Bethlehem,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,136
+Holmes,Gritney,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,39
+Holmes,Noma,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,176
+Holmes,West Bonifay,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,100
+Holmes,East Bonifay,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,89
+Holmes,Ponce de Leon,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,379
+Holmes,Pine Log,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,370
+Holmes,New Hope,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,310
+Holmes,Bethlehem,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,502
+Holmes,Gritney,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,175
+Holmes,Noma,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,701
+Holmes,West Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,549
+Holmes,East Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,374
+Holmes,Ponce de Leon,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,314
+Holmes,Pine Log,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,291
+Holmes,New Hope,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,253
+Holmes,Bethlehem,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,390
+Holmes,Gritney,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,164
+Holmes,Noma,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,628
+Holmes,West Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,493
+Holmes,East Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,355
+Holmes,Ponce de Leon,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Holmes,Bethlehem,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Holmes,Gritney,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Holmes,Noma,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Holmes,West Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Holmes,East Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,50
+Holmes,Pine Log,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,72
+Holmes,New Hope,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,44
+Holmes,Bethlehem,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,97
+Holmes,Gritney,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,25
+Holmes,Noma,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,128
+Holmes,West Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,69
+Holmes,East Bonifay,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,51
+Holmes,Ponce de Leon,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,399
+Holmes,Pine Log,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,342
+Holmes,New Hope,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,307
+Holmes,Bethlehem,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,473
+Holmes,Gritney,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,186
+Holmes,Noma,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,721
+Holmes,West Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,572
+Holmes,East Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,388
+Holmes,Ponce de Leon,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,282
+Holmes,Pine Log,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,311
+Holmes,New Hope,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,249
+Holmes,Bethlehem,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,408
+Holmes,Gritney,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,151
+Holmes,Noma,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,609
+Holmes,West Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,469
+Holmes,East Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,335
+Holmes,Ponce de Leon,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Holmes,New Hope,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Holmes,Bethlehem,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Holmes,Noma,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Holmes,West Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,62
+Holmes,Pine Log,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,79
+Holmes,New Hope,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,52
+Holmes,Bethlehem,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,109
+Holmes,Gritney,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
+Holmes,Noma,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,127
+Holmes,West Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,72
+Holmes,East Bonifay,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,57
+Holmes,Ponce de Leon,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,426
+Holmes,Pine Log,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,410
+Holmes,New Hope,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,327
+Holmes,Bethlehem,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,510
+Holmes,Gritney,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,204
+Holmes,Noma,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,781
+Holmes,West Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,576
+Holmes,East Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,432
+Holmes,Ponce de Leon,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,278
+Holmes,Pine Log,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,270
+Holmes,New Hope,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,254
+Holmes,Bethlehem,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,400
+Holmes,Gritney,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,140
+Holmes,Noma,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,588
+Holmes,West Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,490
+Holmes,East Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,308
+Holmes,Ponce de Leon,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Holmes,Gritney,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Holmes,Noma,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Holmes,West Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,39
+Holmes,Pine Log,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,53
+Holmes,New Hope,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,28
+Holmes,Bethlehem,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,79
+Holmes,Gritney,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,20
+Holmes,Noma,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,88
+Holmes,West Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,47
+Holmes,East Bonifay,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,40
+Holmes,Bethlehem,Registered Voters,"","","",1605
+Holmes,East Bonifay,Registered Voters,"","","",1382
+Holmes,Gritney,Registered Voters,"","","",637
+Holmes,New Hope,Registered Voters,"","","",970
+Holmes,Noma,Registered Voters,"","","",2446
+Holmes,Pine Log,Registered Voters,"","","",1185
+Holmes,Ponce de Leon,Registered Voters,"","","",1264
+Holmes,West Bonifay,Registered Voters,"","","",1979

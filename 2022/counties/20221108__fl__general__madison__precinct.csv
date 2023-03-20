@@ -1,515 +1,970 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Madison,1,U.S. Senate,"",REP,Marco Rubio,743,396,246,101
-Madison,8,U.S. Senate,"",REP,Marco Rubio,555,288,227,40
-Madison,9,U.S. Senate,"",REP,Marco Rubio,106,,,
-Madison,10,U.S. Senate,"",REP,Marco Rubio,401,186,152,63
-Madison,11,U.S. Senate,"",REP,Marco Rubio,219,,,
-Madison,2,U.S. Senate,"",REP,Marco Rubio,47,,,
-Madison,3,U.S. Senate,"",REP,Marco Rubio,1163,564,484,115
-Madison,4,U.S. Senate,"",REP,Marco Rubio,204,,,
-Madison,5,U.S. Senate,"",REP,Marco Rubio,263,85,141,37
-Madison,6,U.S. Senate,"",REP,Marco Rubio,179,,,
-Madison,7,U.S. Senate,"",REP,Marco Rubio,596,308,212,76
-Madison,1,U.S. Senate,"",DEM,Val Demings,485,196,204,85
-Madison,8,U.S. Senate,"",DEM,Val Demings,154,,,
-Madison,9,U.S. Senate,"",DEM,Val Demings,58,,,
-Madison,10,U.S. Senate,"",DEM,Val Demings,390,148,144,98
-Madison,11,U.S. Senate,"",DEM,Val Demings,323,123,148,52
-Madison,2,U.S. Senate,"",DEM,Val Demings,132,49,41,42
-Madison,3,U.S. Senate,"",DEM,Val Demings,253,100,92,61
-Madison,4,U.S. Senate,"",DEM,Val Demings,51,,,
-Madison,5,U.S. Senate,"",DEM,Val Demings,357,88,207,62
-Madison,6,U.S. Senate,"",DEM,Val Demings,39,,,
-Madison,7,U.S. Senate,"",DEM,Val Demings,200,89,56,55
-Madison,1,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Madison,8,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Madison,9,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Madison,10,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Madison,11,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Madison,2,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Madison,3,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Madison,4,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Madison,5,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Madison,6,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Madison,7,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Madison,1,U.S. Senate,"",NPA,Steven B. Grant,5,,,
-Madison,8,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Madison,9,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Madison,10,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Madison,11,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Madison,2,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Madison,3,U.S. Senate,"",NPA,Steven B. Grant,6,,,
-Madison,4,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
-Madison,5,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Madison,6,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Madison,7,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
-Madison,1,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
-Madison,8,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Madison,9,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Madison,10,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Madison,11,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Madison,2,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Madison,3,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Madison,4,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Madison,5,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Madison,6,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Madison,7,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Madison,1,U.S. Senate,"","",Write-in,1,,,
-Madison,8,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,9,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,10,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,11,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,2,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,3,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,4,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,5,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,6,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,7,U.S. Senate,"","",Write-in,0,0,0,0
-Madison,1,U.S. House,2,REP,Neal Dunn,744,396,247,101
-Madison,8,U.S. House,2,REP,Neal Dunn,557,291,226,40
-Madison,9,U.S. House,2,REP,Neal Dunn,107,,,
-Madison,10,U.S. House,2,REP,Neal Dunn,393,184,146,63
-Madison,11,U.S. House,2,REP,Neal Dunn,214,,,
-Madison,2,U.S. House,2,REP,Neal Dunn,47,,,
-Madison,3,U.S. House,2,REP,Neal Dunn,1183,573,489,121
-Madison,4,U.S. House,2,REP,Neal Dunn,203,,,
-Madison,5,U.S. House,2,REP,Neal Dunn,269,87,145,37
-Madison,6,U.S. House,2,REP,Neal Dunn,179,,,
-Madison,7,U.S. House,2,REP,Neal Dunn,598,311,216,71
-Madison,1,U.S. House,2,DEM,Al Lawson,493,204,202,87
-Madison,8,U.S. House,2,DEM,Al Lawson,159,,,
-Madison,9,U.S. House,2,DEM,Al Lawson,62,,,
-Madison,10,U.S. House,2,DEM,Al Lawson,403,151,153,99
-Madison,11,U.S. House,2,DEM,Al Lawson,332,128,149,55
-Madison,2,U.S. House,2,DEM,Al Lawson,133,49,42,42
-Madison,3,U.S. House,2,DEM,Al Lawson,242,92,94,56
-Madison,4,U.S. House,2,DEM,Al Lawson,52,,,
-Madison,5,U.S. House,2,DEM,Al Lawson,355,89,203,63
-Madison,6,U.S. House,2,DEM,Al Lawson,40,,,
-Madison,7,U.S. House,2,DEM,Al Lawson,196,86,50,60
-Madison,1,Governor,"",REP,Ron DeSantis,784,412,263,109
-Madison,8,Governor,"",REP,Ron DeSantis,573,294,237,42
-Madison,9,Governor,"",REP,Ron DeSantis,115,,,
-Madison,10,Governor,"",REP,Ron DeSantis,408,187,158,63
-Madison,11,Governor,"",REP,Ron DeSantis,228,,,
-Madison,2,Governor,"",REP,Ron DeSantis,49,,,
-Madison,3,Governor,"",REP,Ron DeSantis,1210,580,509,121
-Madison,4,Governor,"",REP,Ron DeSantis,207,,,
-Madison,5,Governor,"",REP,Ron DeSantis,292,96,158,38
-Madison,6,Governor,"",REP,Ron DeSantis,180,,,
-Madison,7,Governor,"",REP,Ron DeSantis,615,317,218,80
-Madison,1,Governor,"",DEM,Charlie Crist,456,187,189,80
-Madison,8,Governor,"",DEM,Charlie Crist,143,,,
-Madison,9,Governor,"",DEM,Charlie Crist,55,,,
-Madison,10,Governor,"",DEM,Charlie Crist,378,146,135,97
-Madison,11,Governor,"",DEM,Charlie Crist,315,119,143,53
-Madison,2,Governor,"",DEM,Charlie Crist,132,50,41,41
-Madison,3,Governor,"",DEM,Charlie Crist,218,86,78,54
-Madison,4,Governor,"",DEM,Charlie Crist,49,,,
-Madison,5,Governor,"",DEM,Charlie Crist,329,81,188,60
-Madison,6,Governor,"",DEM,Charlie Crist,38,,,
-Madison,7,Governor,"",DEM,Charlie Crist,180,80,48,52
-Madison,1,Governor,"",LPF,Hector Roos,3,,,
-Madison,8,Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,9,Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,10,Governor,"",LPF,Hector Roos,2,,,
-Madison,11,Governor,"",LPF,Hector Roos,2,,,
-Madison,2,Governor,"",LPF,Hector Roos,1,,,
-Madison,3,Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,4,Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,5,Governor,"",LPF,Hector Roos,2,,,
-Madison,6,Governor,"",LPF,Hector Roos,1,,,
-Madison,7,Governor,"",LPF,Hector Roos,0,0,0,0
-Madison,1,Governor,"",NPA,Carmen Jackie Gimenez,2,,,
-Madison,8,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Madison,9,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,10,Governor,"",NPA,Carmen Jackie Gimenez,4,,,
-Madison,11,Governor,"",NPA,Carmen Jackie Gimenez,3,,,
-Madison,2,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,3,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Madison,4,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,5,Governor,"",NPA,Carmen Jackie Gimenez,5,,,
-Madison,6,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,7,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Madison,1,Attorney General,"",REP,Ashley Moody,809,428,272,109
-Madison,8,Attorney General,"",REP,Ashley Moody,585,298,239,48
-Madison,9,Attorney General,"",REP,Ashley Moody,116,,,
-Madison,10,Attorney General,"",REP,Ashley Moody,417,193,159,65
-Madison,11,Attorney General,"",REP,Ashley Moody,248,,,
-Madison,2,Attorney General,"",REP,Ashley Moody,51,,,
-Madison,3,Attorney General,"",REP,Ashley Moody,1223,587,507,129
-Madison,4,Attorney General,"",REP,Ashley Moody,207,,,
-Madison,5,Attorney General,"",REP,Ashley Moody,316,106,166,44
-Madison,6,Attorney General,"",REP,Ashley Moody,184,,,
-Madison,7,Attorney General,"",REP,Ashley Moody,627,318,230,79
-Madison,1,Attorney General,"",DEM,Aramis Ayala,423,169,177,77
-Madison,8,Attorney General,"",DEM,Aramis Ayala,128,,,
-Madison,9,Attorney General,"",DEM,Aramis Ayala,51,,,
-Madison,10,Attorney General,"",DEM,Aramis Ayala,374,141,139,94
-Madison,11,Attorney General,"",DEM,Aramis Ayala,298,116,133,49
-Madison,2,Attorney General,"",DEM,Aramis Ayala,129,43,43,43
-Madison,3,Attorney General,"",DEM,Aramis Ayala,204,79,76,49
-Madison,4,Attorney General,"",DEM,Aramis Ayala,48,,,
-Madison,5,Attorney General,"",DEM,Aramis Ayala,310,71,183,56
-Madison,6,Attorney General,"",DEM,Aramis Ayala,35,,,
-Madison,7,Attorney General,"",DEM,Aramis Ayala,169,78,38,53
-Madison,1,Chief Financial Officer,"",REP,Jimmy Patronis,773,413,256,104
-Madison,8,Chief Financial Officer,"",REP,Jimmy Patronis,565,292,231,42
-Madison,9,Chief Financial Officer,"",REP,Jimmy Patronis,111,,,
-Madison,10,Chief Financial Officer,"",REP,Jimmy Patronis,401,187,151,63
-Madison,11,Chief Financial Officer,"",REP,Jimmy Patronis,227,,,
-Madison,2,Chief Financial Officer,"",REP,Jimmy Patronis,47,,,
-Madison,3,Chief Financial Officer,"",REP,Jimmy Patronis,1194,571,497,126
-Madison,4,Chief Financial Officer,"",REP,Jimmy Patronis,200,,,
-Madison,5,Chief Financial Officer,"",REP,Jimmy Patronis,297,96,157,44
-Madison,6,Chief Financial Officer,"",REP,Jimmy Patronis,179,,,
-Madison,7,Chief Financial Officer,"",REP,Jimmy Patronis,614,317,222,75
-Madison,1,Chief Financial Officer,"",DEM,Adam Hattersley,444,174,188,82
-Madison,8,Chief Financial Officer,"",DEM,Adam Hattersley,147,,,
-Madison,9,Chief Financial Officer,"",DEM,Adam Hattersley,56,,,
-Madison,10,Chief Financial Officer,"",DEM,Adam Hattersley,385,143,147,95
-Madison,11,Chief Financial Officer,"",DEM,Adam Hattersley,315,120,143,52
-Madison,2,Chief Financial Officer,"",DEM,Adam Hattersley,130,47,42,41
-Madison,3,Chief Financial Officer,"",DEM,Adam Hattersley,225,89,85,51
-Madison,4,Chief Financial Officer,"",DEM,Adam Hattersley,50,,,
-Madison,5,Chief Financial Officer,"",DEM,Adam Hattersley,318,78,186,54
-Madison,6,Chief Financial Officer,"",DEM,Adam Hattersley,40,,,
-Madison,7,Chief Financial Officer,"",DEM,Adam Hattersley,178,78,44,56
-Madison,1,Commissioner of Agriculture,"",REP,Wilton Simpson,775,408,262,105
-Madison,8,Commissioner of Agriculture,"",REP,Wilton Simpson,568,294,231,43
-Madison,9,Commissioner of Agriculture,"",REP,Wilton Simpson,113,,,
-Madison,10,Commissioner of Agriculture,"",REP,Wilton Simpson,396,182,151,63
-Madison,11,Commissioner of Agriculture,"",REP,Wilton Simpson,230,,,
-Madison,2,Commissioner of Agriculture,"",REP,Wilton Simpson,52,,,
-Madison,3,Commissioner of Agriculture,"",REP,Wilton Simpson,1209,576,504,129
-Madison,4,Commissioner of Agriculture,"",REP,Wilton Simpson,203,,,
-Madison,5,Commissioner of Agriculture,"",REP,Wilton Simpson,298,98,156,44
-Madison,6,Commissioner of Agriculture,"",REP,Wilton Simpson,182,,,
-Madison,7,Commissioner of Agriculture,"",REP,Wilton Simpson,614,316,222,76
-Madison,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,450,186,183,81
-Madison,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,144,,,
-Madison,9,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,54,,,
-Madison,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,389,149,145,95
-Madison,11,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,315,123,141,51
-Madison,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,126,45,40,41
-Madison,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,214,86,79,49
-Madison,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,48,,,
-Madison,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,326,81,189,56
-Madison,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,37,,,
-Madison,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,180,79,46,55
-Madison,1,State Senate,3,REP,Corey Simon,766,397,265,104
-Madison,8,State Senate,3,REP,Corey Simon,565,291,234,40
-Madison,9,State Senate,3,REP,Corey Simon,111,,,
-Madison,10,State Senate,3,REP,Corey Simon,405,192,150,63
-Madison,11,State Senate,3,REP,Corey Simon,230,,,
-Madison,2,State Senate,3,REP,Corey Simon,47,,,
-Madison,3,State Senate,3,REP,Corey Simon,1178,569,491,118
-Madison,4,State Senate,3,REP,Corey Simon,200,,,
-Madison,5,State Senate,3,REP,Corey Simon,285,89,156,40
-Madison,6,State Senate,3,REP,Corey Simon,181,,,
-Madison,7,State Senate,3,REP,Corey Simon,606,314,215,77
-Madison,1,State Senate,3,DEM,Loranne Ausley,472,201,186,85
-Madison,8,State Senate,3,DEM,Loranne Ausley,144,,,
-Madison,9,State Senate,3,DEM,Loranne Ausley,59,,,
-Madison,10,State Senate,3,DEM,Loranne Ausley,381,137,146,98
-Madison,11,State Senate,3,DEM,Loranne Ausley,315,119,143,53
-Madison,2,State Senate,3,DEM,Loranne Ausley,131,47,41,43
-Madison,3,State Senate,3,DEM,Loranne Ausley,240,93,91,56
-Madison,4,State Senate,3,DEM,Loranne Ausley,53,,,
-Madison,5,State Senate,3,DEM,Loranne Ausley,336,89,191,56
-Madison,6,State Senate,3,DEM,Loranne Ausley,38,,,
-Madison,7,State Senate,3,DEM,Loranne Ausley,188,82,52,54
-Madison,1,Justice of the Supreme Court-Canady,"","",Yes,737,372,261,104
-Madison,8,Justice of the Supreme Court-Canady,"","",Yes,487,259,190,38
-Madison,9,Justice of the Supreme Court-Canady,"","",Yes,95,,,
-Madison,10,Justice of the Supreme Court-Canady,"","",Yes,495,203,200,92
-Madison,11,Justice of the Supreme Court-Canady,"","",Yes,283,130,122,31
-Madison,2,Justice of the Supreme Court-Canady,"","",Yes,96,,,
-Madison,3,Justice of the Supreme Court-Canady,"","",Yes,935,447,396,92
-Madison,4,Justice of the Supreme Court-Canady,"","",Yes,161,,,
-Madison,5,Justice of the Supreme Court-Canady,"","",Yes,377,107,221,49
-Madison,6,Justice of the Supreme Court-Canady,"","",Yes,129,,,
-Madison,7,Justice of the Supreme Court-Canady,"","",Yes,507,250,191,66
-Madison,1,Justice of the Supreme Court-Canady,"","",No,413,190,158,65
-Madison,8,Justice of the Supreme Court-Canady,"","",No,175,,,
-Madison,9,Justice of the Supreme Court-Canady,"","",No,55,,,
-Madison,10,Justice of the Supreme Court-Canady,"","",No,253,112,79,62
-Madison,11,Justice of the Supreme Court-Canady,"","",No,236,103,100,33
-Madison,2,Justice of the Supreme Court-Canady,"","",No,75,,,
-Madison,3,Justice of the Supreme Court-Canady,"","",No,402,178,165,59
-Madison,4,Justice of the Supreme Court-Canady,"","",No,78,,,
-Madison,5,Justice of the Supreme Court-Canady,"","",No,209,62,110,37
-Madison,6,Justice of the Supreme Court-Canady,"","",No,74,,,
-Madison,7,Justice of the Supreme Court-Canady,"","",No,225,114,64,47
-Madison,1,Justice of the Supreme Court-Couriel,"","",Yes,745,381,257,107
-Madison,8,Justice of the Supreme Court-Couriel,"","",Yes,472,251,185,36
-Madison,9,Justice of the Supreme Court-Couriel,"","",Yes,101,,,
-Madison,10,Justice of the Supreme Court-Couriel,"","",Yes,479,196,190,93
-Madison,11,Justice of the Supreme Court-Couriel,"","",Yes,265,,,
-Madison,2,Justice of the Supreme Court-Couriel,"","",Yes,94,,,
-Madison,3,Justice of the Supreme Court-Couriel,"","",Yes,946,452,400,94
-Madison,4,Justice of the Supreme Court-Couriel,"","",Yes,183,,,
-Madison,5,Justice of the Supreme Court-Couriel,"","",Yes,370,100,221,49
-Madison,6,Justice of the Supreme Court-Couriel,"","",Yes,130,,,
-Madison,7,Justice of the Supreme Court-Couriel,"","",Yes,511,253,186,72
-Madison,1,Justice of the Supreme Court-Couriel,"","",No,401,177,162,62
-Madison,8,Justice of the Supreme Court-Couriel,"","",No,184,,,
-Madison,9,Justice of the Supreme Court-Couriel,"","",No,46,,,
-Madison,10,Justice of the Supreme Court-Couriel,"","",No,262,117,87,58
-Madison,11,Justice of the Supreme Court-Couriel,"","",No,246,106,104,36
-Madison,2,Justice of the Supreme Court-Couriel,"","",No,76,,,
-Madison,3,Justice of the Supreme Court-Couriel,"","",No,377,167,153,57
-Madison,4,Justice of the Supreme Court-Couriel,"","",No,53,,,
-Madison,5,Justice of the Supreme Court-Couriel,"","",No,208,66,107,35
-Madison,6,Justice of the Supreme Court-Couriel,"","",No,76,,,
-Madison,7,Justice of the Supreme Court-Couriel,"","",No,213,106,66,41
-Madison,1,Justice of the Supreme Court-Grosshans,"","",Yes,755,387,263,105
-Madison,8,Justice of the Supreme Court-Grosshans,"","",Yes,465,250,179,36
-Madison,9,Justice of the Supreme Court-Grosshans,"","",Yes,95,,,
-Madison,10,Justice of the Supreme Court-Grosshans,"","",Yes,493,206,198,89
-Madison,11,Justice of the Supreme Court-Grosshans,"","",Yes,285,,,
-Madison,2,Justice of the Supreme Court-Grosshans,"","",Yes,97,,,
-Madison,3,Justice of the Supreme Court-Grosshans,"","",Yes,941,452,397,92
-Madison,4,Justice of the Supreme Court-Grosshans,"","",Yes,178,,,
-Madison,5,Justice of the Supreme Court-Grosshans,"","",Yes,358,103,206,49
-Madison,6,Justice of the Supreme Court-Grosshans,"","",Yes,126,,,
-Madison,7,Justice of the Supreme Court-Grosshans,"","",Yes,506,252,185,69
-Madison,1,Justice of the Supreme Court-Grosshans,"","",No,386,168,155,63
-Madison,8,Justice of the Supreme Court-Grosshans,"","",No,194,,,
-Madison,9,Justice of the Supreme Court-Grosshans,"","",No,53,,,
-Madison,10,Justice of the Supreme Court-Grosshans,"","",No,241,103,78,60
-Madison,11,Justice of the Supreme Court-Grosshans,"","",No,228,100,93,35
-Madison,2,Justice of the Supreme Court-Grosshans,"","",No,71,,,
-Madison,3,Justice of the Supreme Court-Grosshans,"","",No,384,166,160,58
-Madison,4,Justice of the Supreme Court-Grosshans,"","",No,61,,,
-Madison,5,Justice of the Supreme Court-Grosshans,"","",No,227,66,124,37
-Madison,6,Justice of the Supreme Court-Grosshans,"","",No,79,,,
-Madison,7,Justice of the Supreme Court-Grosshans,"","",No,220,107,69,44
-Madison,1,Justice of the Supreme Court-Labarga,"","",Yes,515,234,199,82
-Madison,8,Justice of the Supreme Court-Labarga,"","",Yes,300,130,130,40
-Madison,9,Justice of the Supreme Court-Labarga,"","",Yes,68,,,
-Madison,10,Justice of the Supreme Court-Labarga,"","",Yes,392,152,149,91
-Madison,11,Justice of the Supreme Court-Labarga,"","",Yes,206,82,93,31
-Madison,2,Justice of the Supreme Court-Labarga,"","",Yes,80,,,
-Madison,3,Justice of the Supreme Court-Labarga,"","",Yes,548,250,226,72
-Madison,4,Justice of the Supreme Court-Labarga,"","",Yes,104,,,
-Madison,5,Justice of the Supreme Court-Labarga,"","",Yes,300,79,176,45
-Madison,6,Justice of the Supreme Court-Labarga,"","",Yes,92,,,
-Madison,7,Justice of the Supreme Court-Labarga,"","",Yes,316,130,128,58
-Madison,1,Justice of the Supreme Court-Labarga,"","",No,632,329,216,87
-Madison,8,Justice of the Supreme Court-Labarga,"","",No,356,,,
-Madison,9,Justice of the Supreme Court-Labarga,"","",No,81,,,
-Madison,10,Justice of the Supreme Court-Labarga,"","",No,347,159,127,61
-Madison,11,Justice of the Supreme Court-Labarga,"","",No,308,150,125,33
-Madison,2,Justice of the Supreme Court-Labarga,"","",No,91,,,
-Madison,3,Justice of the Supreme Court-Labarga,"","",No,770,366,327,77
-Madison,4,Justice of the Supreme Court-Labarga,"","",No,132,,,
-Madison,5,Justice of the Supreme Court-Labarga,"","",No,276,86,149,41
-Madison,6,Justice of the Supreme Court-Labarga,"","",No,110,,,
-Madison,7,Justice of the Supreme Court-Labarga,"","",No,412,231,125,56
-Madison,1,Justice of the Supreme Court-Polston,"","",Yes,725,365,256,104
-Madison,8,Justice of the Supreme Court-Polston,"","",Yes,465,238,184,43
-Madison,9,Justice of the Supreme Court-Polston,"","",Yes,94,,,
-Madison,10,Justice of the Supreme Court-Polston,"","",Yes,478,203,187,88
-Madison,11,Justice of the Supreme Court-Polston,"","",Yes,266,,,
-Madison,2,Justice of the Supreme Court-Polston,"","",Yes,99,,,
-Madison,3,Justice of the Supreme Court-Polston,"","",Yes,895,424,376,95
-Madison,4,Justice of the Supreme Court-Polston,"","",Yes,157,,,
-Madison,5,Justice of the Supreme Court-Polston,"","",Yes,345,95,206,44
-Madison,6,Justice of the Supreme Court-Polston,"","",Yes,124,,,
-Madison,7,Justice of the Supreme Court-Polston,"","",Yes,487,240,181,66
-Madison,1,Justice of the Supreme Court-Polston,"","",No,420,192,164,64
-Madison,8,Justice of the Supreme Court-Polston,"","",No,191,,,
-Madison,9,Justice of the Supreme Court-Polston,"","",No,56,,,
-Madison,10,Justice of the Supreme Court-Polston,"","",No,261,109,89,63
-Madison,11,Justice of the Supreme Court-Polston,"","",No,245,110,100,35
-Madison,2,Justice of the Supreme Court-Polston,"","",No,74,,,
-Madison,3,Justice of the Supreme Court-Polston,"","",No,425,193,179,53
-Madison,4,Justice of the Supreme Court-Polston,"","",No,81,,,
-Madison,5,Justice of the Supreme Court-Polston,"","",No,228,68,119,41
-Madison,6,Justice of the Supreme Court-Polston,"","",No,79,,,
-Madison,7,Justice of the Supreme Court-Polston,"","",No,235,115,72,48
-Madison,1,First District Court of Appeal-Bilbrey,"","",Yes,736,366,266,104
-Madison,8,First District Court of Appeal-Bilbrey,"","",Yes,466,248,180,38
-Madison,9,First District Court of Appeal-Bilbrey,"","",Yes,96,,,
-Madison,10,First District Court of Appeal-Bilbrey,"","",Yes,491,200,197,94
-Madison,11,First District Court of Appeal-Bilbrey,"","",Yes,279,,,
-Madison,2,First District Court of Appeal-Bilbrey,"","",Yes,97,,,
-Madison,3,First District Court of Appeal-Bilbrey,"","",Yes,889,427,371,91
-Madison,4,First District Court of Appeal-Bilbrey,"","",Yes,170,,,
-Madison,5,First District Court of Appeal-Bilbrey,"","",Yes,366,101,213,52
-Madison,6,First District Court of Appeal-Bilbrey,"","",Yes,125,,,
-Madison,7,First District Court of Appeal-Bilbrey,"","",Yes,502,245,188,69
-Madison,1,First District Court of Appeal-Bilbrey,"","",No,409,190,153,66
-Madison,8,First District Court of Appeal-Bilbrey,"","",No,194,,,
-Madison,9,First District Court of Appeal-Bilbrey,"","",No,48,,,
-Madison,10,First District Court of Appeal-Bilbrey,"","",No,252,113,81,58
-Madison,11,First District Court of Appeal-Bilbrey,"","",No,237,104,94,39
-Madison,2,First District Court of Appeal-Bilbrey,"","",No,75,,,
-Madison,3,First District Court of Appeal-Bilbrey,"","",No,437,192,185,60
-Madison,4,First District Court of Appeal-Bilbrey,"","",No,68,,,
-Madison,5,First District Court of Appeal-Bilbrey,"","",No,214,67,114,33
-Madison,6,First District Court of Appeal-Bilbrey,"","",No,79,,,
-Madison,7,First District Court of Appeal-Bilbrey,"","",No,224,114,65,45
-Madison,1,First District Court of Appeal-Kelsey,"","",Yes,752,373,268,111
-Madison,8,First District Court of Appeal-Kelsey,"","",Yes,470,249,180,41
-Madison,9,First District Court of Appeal-Kelsey,"","",Yes,101,,,
-Madison,10,First District Court of Appeal-Kelsey,"","",Yes,488,200,192,96
-Madison,11,First District Court of Appeal-Kelsey,"","",Yes,289,131,127,31
-Madison,2,First District Court of Appeal-Kelsey,"","",Yes,107,42,33,32
-Madison,3,First District Court of Appeal-Kelsey,"","",Yes,922,443,384,95
-Madison,4,First District Court of Appeal-Kelsey,"","",Yes,168,,,
-Madison,5,First District Court of Appeal-Kelsey,"","",Yes,365,105,212,48
-Madison,6,First District Court of Appeal-Kelsey,"","",Yes,127,,,
-Madison,7,First District Court of Appeal-Kelsey,"","",Yes,508,244,186,78
-Madison,1,First District Court of Appeal-Kelsey,"","",No,388,178,151,59
-Madison,8,First District Court of Appeal-Kelsey,"","",No,189,,,
-Madison,9,First District Court of Appeal-Kelsey,"","",No,46,,,
-Madison,10,First District Court of Appeal-Kelsey,"","",No,255,113,84,58
-Madison,11,First District Court of Appeal-Kelsey,"","",No,227,100,92,35
-Madison,2,First District Court of Appeal-Kelsey,"","",No,64,,,
-Madison,3,First District Court of Appeal-Kelsey,"","",No,399,176,167,56
-Madison,4,First District Court of Appeal-Kelsey,"","",No,73,,,
-Madison,5,First District Court of Appeal-Kelsey,"","",No,215,64,114,37
-Madison,6,First District Court of Appeal-Kelsey,"","",No,78,,,
-Madison,7,First District Court of Appeal-Kelsey,"","",No,219,115,68,36
-Madison,1,First District Court of Appeal-Long,"","",Yes,726,369,255,102
-Madison,8,First District Court of Appeal-Long,"","",Yes,466,251,180,35
-Madison,9,First District Court of Appeal-Long,"","",Yes,102,,,
-Madison,10,First District Court of Appeal-Long,"","",Yes,502,203,203,96
-Madison,11,First District Court of Appeal-Long,"","",Yes,265,,,
-Madison,2,First District Court of Appeal-Long,"","",Yes,104,40,34,30
-Madison,3,First District Court of Appeal-Long,"","",Yes,940,454,393,93
-Madison,4,First District Court of Appeal-Long,"","",Yes,180,,,
-Madison,5,First District Court of Appeal-Long,"","",Yes,370,105,215,50
-Madison,6,First District Court of Appeal-Long,"","",Yes,127,,,
-Madison,7,First District Court of Appeal-Long,"","",Yes,507,252,182,73
-Madison,1,First District Court of Appeal-Long,"","",No,417,190,160,67
-Madison,8,First District Court of Appeal-Long,"","",No,194,,,
-Madison,9,First District Court of Appeal-Long,"","",No,44,,,
-Madison,10,First District Court of Appeal-Long,"","",No,241,111,75,55
-Madison,11,First District Court of Appeal-Long,"","",No,248,110,101,37
-Madison,2,First District Court of Appeal-Long,"","",No,67,,,
-Madison,3,First District Court of Appeal-Long,"","",No,377,165,156,56
-Madison,4,First District Court of Appeal-Long,"","",No,59,,,
-Madison,5,First District Court of Appeal-Long,"","",No,208,63,110,35
-Madison,6,First District Court of Appeal-Long,"","",No,75,,,
-Madison,7,First District Court of Appeal-Long,"","",No,218,107,72,39
-Madison,1,First District Court of Appeal-Rowe,"","",Yes,750,377,262,111
-Madison,8,First District Court of Appeal-Rowe,"","",Yes,465,244,182,39
-Madison,9,First District Court of Appeal-Rowe,"","",Yes,99,,,
-Madison,10,First District Court of Appeal-Rowe,"","",Yes,482,195,198,89
-Madison,11,First District Court of Appeal-Rowe,"","",Yes,282,,,
-Madison,2,First District Court of Appeal-Rowe,"","",Yes,106,40,34,32
-Madison,3,First District Court of Appeal-Rowe,"","",Yes,889,422,377,90
-Madison,4,First District Court of Appeal-Rowe,"","",Yes,155,,,
-Madison,5,First District Court of Appeal-Rowe,"","",Yes,371,103,212,56
-Madison,6,First District Court of Appeal-Rowe,"","",Yes,126,,,
-Madison,7,First District Court of Appeal-Rowe,"","",Yes,482,233,181,68
-Madison,1,First District Court of Appeal-Rowe,"","",No,389,178,151,60
-Madison,8,First District Court of Appeal-Rowe,"","",No,191,,,
-Madison,9,First District Court of Appeal-Rowe,"","",No,47,,,
-Madison,10,First District Court of Appeal-Rowe,"","",No,252,114,78,60
-Madison,11,First District Court of Appeal-Rowe,"","",No,225,104,88,33
-Madison,2,First District Court of Appeal-Rowe,"","",No,65,,,
-Madison,3,First District Court of Appeal-Rowe,"","",No,418,192,167,59
-Madison,4,First District Court of Appeal-Rowe,"","",No,83,,,
-Madison,5,First District Court of Appeal-Rowe,"","",No,202,,,
-Madison,6,First District Court of Appeal-Rowe,"","",No,77,,,
-Madison,7,First District Court of Appeal-Rowe,"","",No,238,122,72,44
-Madison,1,First District Court of Appeal-Winokur,"","",Yes,696,351,244,101
-Madison,8,First District Court of Appeal-Winokur,"","",Yes,469,249,182,38
-Madison,9,First District Court of Appeal-Winokur,"","",Yes,97,,,
-Madison,10,First District Court of Appeal-Winokur,"","",Yes,467,183,193,91
-Madison,11,First District Court of Appeal-Winokur,"","",Yes,255,,,
-Madison,2,First District Court of Appeal-Winokur,"","",Yes,99,,,
-Madison,3,First District Court of Appeal-Winokur,"","",Yes,897,427,378,92
-Madison,4,First District Court of Appeal-Winokur,"","",Yes,170,,,
-Madison,5,First District Court of Appeal-Winokur,"","",Yes,359,104,207,48
-Madison,6,First District Court of Appeal-Winokur,"","",Yes,117,,,
-Madison,7,First District Court of Appeal-Winokur,"","",Yes,479,229,181,69
-Madison,1,First District Court of Appeal-Winokur,"","",No,440,206,168,66
-Madison,8,First District Court of Appeal-Winokur,"","",No,190,,,
-Madison,9,First District Court of Appeal-Winokur,"","",No,48,,,
-Madison,10,First District Court of Appeal-Winokur,"","",No,267,127,80,60
-Madison,11,First District Court of Appeal-Winokur,"","",No,250,107,105,38
-Madison,2,First District Court of Appeal-Winokur,"","",No,72,,,
-Madison,3,First District Court of Appeal-Winokur,"","",No,414,187,170,57
-Madison,4,First District Court of Appeal-Winokur,"","",No,69,,,
-Madison,5,First District Court of Appeal-Winokur,"","",No,211,62,116,33
-Madison,6,First District Court of Appeal-Winokur,"","",No,85,,,
-Madison,7,First District Court of Appeal-Winokur,"","",No,239,125,69,45
-Madison,1,School Board,1,NOP,Katie Knight,657,351,212,94
-Madison,1,School Board,1,NOP,"Marvin ""Merv"" Mattair",543,229,229,85
-Madison,11,School Board,5,NOP,Donnell L. Davis,312,121,146,45
-Madison,3,School Board,5,NOP,Donnell L. Davis,324,145,129,50
-Madison,11,School Board,5,NOP,Devin K. Thompson,206,,,
-Madison,3,School Board,5,NOP,Devin K. Thompson,992,476,411,105
-Madison,1,No. 1 Constitutional Amendment,"","",Yes,549,245,213,91
-Madison,8,No. 1 Constitutional Amendment,"","",Yes,329,163,133,33
-Madison,9,No. 1 Constitutional Amendment,"","",Yes,81,,,
-Madison,10,No. 1 Constitutional Amendment,"","",Yes,352,135,148,69
-Madison,11,No. 1 Constitutional Amendment,"","",Yes,257,118,109,30
-Madison,2,No. 1 Constitutional Amendment,"","",Yes,84,,,
-Madison,3,No. 1 Constitutional Amendment,"","",Yes,698,296,316,86
-Madison,4,No. 1 Constitutional Amendment,"","",Yes,120,,,
-Madison,5,No. 1 Constitutional Amendment,"","",Yes,291,77,167,47
-Madison,6,No. 1 Constitutional Amendment,"","",Yes,97,,,
-Madison,7,No. 1 Constitutional Amendment,"","",Yes,335,148,122,65
-Madison,1,No. 1 Constitutional Amendment,"","",No,623,329,209,85
-Madison,8,No. 1 Constitutional Amendment,"","",No,347,179,137,31
-Madison,9,No. 1 Constitutional Amendment,"","",No,77,,,
-Madison,10,No. 1 Constitutional Amendment,"","",No,400,184,134,82
-Madison,11,No. 1 Constitutional Amendment,"","",No,249,103,109,37
-Madison,2,No. 1 Constitutional Amendment,"","",No,91,,,
-Madison,3,No. 1 Constitutional Amendment,"","",No,665,341,249,75
-Madison,4,No. 1 Constitutional Amendment,"","",No,124,,,
-Madison,5,No. 1 Constitutional Amendment,"","",No,297,93,162,42
-Madison,6,No. 1 Constitutional Amendment,"","",No,109,,,
-Madison,7,No. 1 Constitutional Amendment,"","",No,421,229,134,58
-Madison,1,No. 2 Constitutional Amendment,"","",Yes,526,246,183,97
-Madison,8,No. 2 Constitutional Amendment,"","",Yes,340,167,133,40
-Madison,9,No. 2 Constitutional Amendment,"","",Yes,86,,,
-Madison,10,No. 2 Constitutional Amendment,"","",Yes,338,144,131,63
-Madison,11,No. 2 Constitutional Amendment,"","",Yes,230,,,
-Madison,2,No. 2 Constitutional Amendment,"","",Yes,78,,,
-Madison,3,No. 2 Constitutional Amendment,"","",Yes,694,299,303,92
-Madison,4,No. 2 Constitutional Amendment,"","",Yes,115,,,
-Madison,5,No. 2 Constitutional Amendment,"","",Yes,268,73,157,38
-Madison,6,No. 2 Constitutional Amendment,"","",Yes,98,,,
-Madison,7,No. 2 Constitutional Amendment,"","",Yes,334,141,134,59
-Madison,1,No. 2 Constitutional Amendment,"","",No,635,317,241,77
-Madison,8,No. 2 Constitutional Amendment,"","",No,323,,,
-Madison,9,No. 2 Constitutional Amendment,"","",No,66,,,
-Madison,10,No. 2 Constitutional Amendment,"","",No,395,172,141,82
-Madison,11,No. 2 Constitutional Amendment,"","",No,265,121,109,35
-Madison,2,No. 2 Constitutional Amendment,"","",No,93,,,
-Madison,3,No. 2 Constitutional Amendment,"","",No,639,325,250,64
-Madison,4,No. 2 Constitutional Amendment,"","",No,125,,,
-Madison,5,No. 2 Constitutional Amendment,"","",No,310,97,165,48
-Madison,6,No. 2 Constitutional Amendment,"","",No,105,,,
-Madison,7,No. 2 Constitutional Amendment,"","",No,408,234,112,62
-Madison,1,No. 3 Constitutional Amendment,"","",Yes,619,255,274,90
-Madison,8,No. 3 Constitutional Amendment,"","",Yes,346,152,157,37
-Madison,9,No. 3 Constitutional Amendment,"","",Yes,83,,,
-Madison,10,No. 3 Constitutional Amendment,"","",Yes,415,168,180,67
-Madison,11,No. 3 Constitutional Amendment,"","",Yes,263,,,
-Madison,2,No. 3 Constitutional Amendment,"","",Yes,85,,,
-Madison,3,No. 3 Constitutional Amendment,"","",Yes,701,325,301,75
-Madison,4,No. 3 Constitutional Amendment,"","",Yes,120,,,
-Madison,5,No. 3 Constitutional Amendment,"","",Yes,343,98,200,45
-Madison,6,No. 3 Constitutional Amendment,"","",Yes,91,,,
-Madison,7,No. 3 Constitutional Amendment,"","",Yes,353,160,139,54
-Madison,1,No. 3 Constitutional Amendment,"","",No,569,320,156,93
-Madison,8,No. 3 Constitutional Amendment,"","",No,333,,,
-Madison,9,No. 3 Constitutional Amendment,"","",No,75,,,
-Madison,10,No. 3 Constitutional Amendment,"","",No,332,152,102,78
-Madison,11,No. 3 Constitutional Amendment,"","",No,248,116,95,37
-Madison,2,No. 3 Constitutional Amendment,"","",No,92,,,
-Madison,3,No. 3 Constitutional Amendment,"","",No,668,317,261,90
-Madison,4,No. 3 Constitutional Amendment,"","",No,126,,,
-Madison,5,No. 3 Constitutional Amendment,"","",No,249,75,129,45
-Madison,6,No. 3 Constitutional Amendment,"","",No,115,,,
-Madison,7,No. 3 Constitutional Amendment,"","",No,406,219,116,71
-Madison,5,Town of Greenville Charter,"","",Yes,85,,,
-Madison,5,Town of Greenville Charter,"","",No,145,,,
+county,precinct,office,district,party,candidate,votes
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"",REP,Marco Rubio,743
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"",REP,Marco Rubio,47
+Madison,3:Lee City Hall,U.S. Senate,"",REP,Marco Rubio,1163
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"",REP,Marco Rubio,204
+Madison,5:Greenville American Legion,U.S. Senate,"",REP,Marco Rubio,263
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"",REP,Marco Rubio,179
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"",REP,Marco Rubio,596
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"",REP,Marco Rubio,555
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"",REP,Marco Rubio,106
+Madison,12:Madison County Annex Board Room,U.S. Senate,"",REP,Marco Rubio,401
+Madison,13:Madison County Annex Board Room,U.S. Senate,"",REP,Marco Rubio,219
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"",DEM,Val Demings,485
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"",DEM,Val Demings,132
+Madison,3:Lee City Hall,U.S. Senate,"",DEM,Val Demings,253
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"",DEM,Val Demings,51
+Madison,5:Greenville American Legion,U.S. Senate,"",DEM,Val Demings,357
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"",DEM,Val Demings,39
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"",DEM,Val Demings,200
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"",DEM,Val Demings,154
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"",DEM,Val Demings,58
+Madison,12:Madison County Annex Board Room,U.S. Senate,"",DEM,Val Demings,390
+Madison,13:Madison County Annex Board Room,U.S. Senate,"",DEM,Val Demings,323
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"",LPF,Dennis Misigoy,3
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"",LPF,Dennis Misigoy,2
+Madison,3:Lee City Hall,U.S. Senate,"",LPF,Dennis Misigoy,3
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"",LPF,Dennis Misigoy,0
+Madison,5:Greenville American Legion,U.S. Senate,"",LPF,Dennis Misigoy,1
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"",LPF,Dennis Misigoy,1
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"",LPF,Dennis Misigoy,2
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"",LPF,Dennis Misigoy,4
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"",LPF,Dennis Misigoy,2
+Madison,12:Madison County Annex Board Room,U.S. Senate,"",LPF,Dennis Misigoy,2
+Madison,13:Madison County Annex Board Room,U.S. Senate,"",LPF,Dennis Misigoy,3
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"",NPA,Steven B. Grant,5
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"",NPA,Steven B. Grant,1
+Madison,3:Lee City Hall,U.S. Senate,"",NPA,Steven B. Grant,6
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"",NPA,Steven B. Grant,0
+Madison,5:Greenville American Legion,U.S. Senate,"",NPA,Steven B. Grant,3
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"",NPA,Steven B. Grant,1
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"",NPA,Steven B. Grant,0
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"",NPA,Steven B. Grant,2
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"",NPA,Steven B. Grant,3
+Madison,12:Madison County Annex Board Room,U.S. Senate,"",NPA,Steven B. Grant,2
+Madison,13:Madison County Annex Board Room,U.S. Senate,"",NPA,Steven B. Grant,3
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Madison,3:Lee City Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Madison,5:Greenville American Legion,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Madison,12:Madison County Annex Board Room,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Madison,13:Madison County Annex Board Room,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"","",WriteinVotes,1
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"","",WriteinVotes,0
+Madison,3:Lee City Hall,U.S. Senate,"","",WriteinVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"","",WriteinVotes,0
+Madison,5:Greenville American Legion,U.S. Senate,"","",WriteinVotes,0
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"","",WriteinVotes,0
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"","",WriteinVotes,0
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"","",WriteinVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"","",WriteinVotes,0
+Madison,12:Madison County Annex Board Room,U.S. Senate,"","",WriteinVotes,0
+Madison,13:Madison County Annex Board Room,U.S. Senate,"","",WriteinVotes,0
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"","",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"","",OverVotes,0
+Madison,3:Lee City Hall,U.S. Senate,"","",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"","",OverVotes,0
+Madison,5:Greenville American Legion,U.S. Senate,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"","",OverVotes,0
+Madison,12:Madison County Annex Board Room,U.S. Senate,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,U.S. Senate,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,U.S. Senate,"","",UnderVotes,9
+Madison,2:Madison County Ag. Extension Office,U.S. Senate,"","",UnderVotes,1
+Madison,3:Lee City Hall,U.S. Senate,"","",UnderVotes,12
+Madison,4:Sirmans Vol. Fire Dept.,U.S. Senate,"","",UnderVotes,0
+Madison,5:Greenville American Legion,U.S. Senate,"","",UnderVotes,6
+Madison,8:Cherry Lake Methodist Church,U.S. Senate,"","",UnderVotes,0
+Madison,9:Cherry Lake Methodist Church,U.S. Senate,"","",UnderVotes,3
+Madison,10:Pinetta Vol Fire Dept,U.S. Senate,"","",UnderVotes,2
+Madison,11:Sirmans Vol. Fire Dept.,U.S. Senate,"","",UnderVotes,1
+Madison,12:Madison County Annex Board Room,U.S. Senate,"","",UnderVotes,6
+Madison,13:Madison County Annex Board Room,U.S. Senate,"","",UnderVotes,3
+Madison,1:Madison County Ag. Extension Office,U.S. House,2,REP,Neal Dunn,744
+Madison,2:Madison County Ag. Extension Office,U.S. House,2,REP,Neal Dunn,47
+Madison,3:Lee City Hall,U.S. House,2,REP,Neal Dunn,1183
+Madison,4:Sirmans Vol. Fire Dept.,U.S. House,2,REP,Neal Dunn,203
+Madison,5:Greenville American Legion,U.S. House,2,REP,Neal Dunn,269
+Madison,8:Cherry Lake Methodist Church,U.S. House,2,REP,Neal Dunn,179
+Madison,9:Cherry Lake Methodist Church,U.S. House,2,REP,Neal Dunn,598
+Madison,10:Pinetta Vol Fire Dept,U.S. House,2,REP,Neal Dunn,557
+Madison,11:Sirmans Vol. Fire Dept.,U.S. House,2,REP,Neal Dunn,107
+Madison,12:Madison County Annex Board Room,U.S. House,2,REP,Neal Dunn,393
+Madison,13:Madison County Annex Board Room,U.S. House,2,REP,Neal Dunn,214
+Madison,1:Madison County Ag. Extension Office,U.S. House,2,DEM,Al Lawson,493
+Madison,2:Madison County Ag. Extension Office,U.S. House,2,DEM,Al Lawson,133
+Madison,3:Lee City Hall,U.S. House,2,DEM,Al Lawson,242
+Madison,4:Sirmans Vol. Fire Dept.,U.S. House,2,DEM,Al Lawson,52
+Madison,5:Greenville American Legion,U.S. House,2,DEM,Al Lawson,355
+Madison,8:Cherry Lake Methodist Church,U.S. House,2,DEM,Al Lawson,40
+Madison,9:Cherry Lake Methodist Church,U.S. House,2,DEM,Al Lawson,196
+Madison,10:Pinetta Vol Fire Dept,U.S. House,2,DEM,Al Lawson,159
+Madison,11:Sirmans Vol. Fire Dept.,U.S. House,2,DEM,Al Lawson,62
+Madison,12:Madison County Annex Board Room,U.S. House,2,DEM,Al Lawson,403
+Madison,13:Madison County Annex Board Room,U.S. House,2,DEM,Al Lawson,332
+Madison,1:Madison County Ag. Extension Office,U.S. House,2,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,U.S. House,2,"",OverVotes,0
+Madison,3:Lee City Hall,U.S. House,2,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,U.S. House,2,"",OverVotes,0
+Madison,5:Greenville American Legion,U.S. House,2,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,U.S. House,2,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,U.S. House,2,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,U.S. House,2,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,U.S. House,2,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,U.S. House,2,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,U.S. House,2,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,U.S. House,2,"",UnderVotes,12
+Madison,2:Madison County Ag. Extension Office,U.S. House,2,"",UnderVotes,3
+Madison,3:Lee City Hall,U.S. House,2,"",UnderVotes,14
+Madison,4:Sirmans Vol. Fire Dept.,U.S. House,2,"",UnderVotes,1
+Madison,5:Greenville American Legion,U.S. House,2,"",UnderVotes,7
+Madison,8:Cherry Lake Methodist Church,U.S. House,2,"",UnderVotes,1
+Madison,9:Cherry Lake Methodist Church,U.S. House,2,"",UnderVotes,7
+Madison,10:Pinetta Vol Fire Dept,U.S. House,2,"",UnderVotes,2
+Madison,11:Sirmans Vol. Fire Dept.,U.S. House,2,"",UnderVotes,1
+Madison,12:Madison County Annex Board Room,U.S. House,2,"",UnderVotes,5
+Madison,13:Madison County Annex Board Room,U.S. House,2,"",UnderVotes,6
+Madison,1:Madison County Ag. Extension Office,Governor,"",REP,DeSantis / Nuñez,784
+Madison,2:Madison County Ag. Extension Office,Governor,"",REP,DeSantis / Nuñez,49
+Madison,3:Lee City Hall,Governor,"",REP,DeSantis / Nuñez,1210
+Madison,4:Sirmans Vol. Fire Dept.,Governor,"",REP,DeSantis / Nuñez,207
+Madison,5:Greenville American Legion,Governor,"",REP,DeSantis / Nuñez,292
+Madison,8:Cherry Lake Methodist Church,Governor,"",REP,DeSantis / Nuñez,180
+Madison,9:Cherry Lake Methodist Church,Governor,"",REP,DeSantis / Nuñez,615
+Madison,10:Pinetta Vol Fire Dept,Governor,"",REP,DeSantis / Nuñez,573
+Madison,11:Sirmans Vol. Fire Dept.,Governor,"",REP,DeSantis / Nuñez,115
+Madison,12:Madison County Annex Board Room,Governor,"",REP,DeSantis / Nuñez,408
+Madison,13:Madison County Annex Board Room,Governor,"",REP,DeSantis / Nuñez,228
+Madison,1:Madison County Ag. Extension Office,Governor,"",DEM,Crist / Hernandez,456
+Madison,2:Madison County Ag. Extension Office,Governor,"",DEM,Crist / Hernandez,132
+Madison,3:Lee City Hall,Governor,"",DEM,Crist / Hernandez,218
+Madison,4:Sirmans Vol. Fire Dept.,Governor,"",DEM,Crist / Hernandez,49
+Madison,5:Greenville American Legion,Governor,"",DEM,Crist / Hernandez,329
+Madison,8:Cherry Lake Methodist Church,Governor,"",DEM,Crist / Hernandez,38
+Madison,9:Cherry Lake Methodist Church,Governor,"",DEM,Crist / Hernandez,180
+Madison,10:Pinetta Vol Fire Dept,Governor,"",DEM,Crist / Hernandez,143
+Madison,11:Sirmans Vol. Fire Dept.,Governor,"",DEM,Crist / Hernandez,55
+Madison,12:Madison County Annex Board Room,Governor,"",DEM,Crist / Hernandez,378
+Madison,13:Madison County Annex Board Room,Governor,"",DEM,Crist / Hernandez,315
+Madison,1:Madison County Ag. Extension Office,Governor,"",LPF,Roos / Rorabaugh,3
+Madison,2:Madison County Ag. Extension Office,Governor,"",LPF,Roos / Rorabaugh,1
+Madison,3:Lee City Hall,Governor,"",LPF,Roos / Rorabaugh,0
+Madison,4:Sirmans Vol. Fire Dept.,Governor,"",LPF,Roos / Rorabaugh,0
+Madison,5:Greenville American Legion,Governor,"",LPF,Roos / Rorabaugh,2
+Madison,8:Cherry Lake Methodist Church,Governor,"",LPF,Roos / Rorabaugh,1
+Madison,9:Cherry Lake Methodist Church,Governor,"",LPF,Roos / Rorabaugh,0
+Madison,10:Pinetta Vol Fire Dept,Governor,"",LPF,Roos / Rorabaugh,0
+Madison,11:Sirmans Vol. Fire Dept.,Governor,"",LPF,Roos / Rorabaugh,0
+Madison,12:Madison County Annex Board Room,Governor,"",LPF,Roos / Rorabaugh,2
+Madison,13:Madison County Annex Board Room,Governor,"",LPF,Roos / Rorabaugh,2
+Madison,1:Madison County Ag. Extension Office,Governor,"",NPA,Gimenez / Gibson,2
+Madison,2:Madison County Ag. Extension Office,Governor,"",NPA,Gimenez / Gibson,0
+Madison,3:Lee City Hall,Governor,"",NPA,Gimenez / Gibson,1
+Madison,4:Sirmans Vol. Fire Dept.,Governor,"",NPA,Gimenez / Gibson,0
+Madison,5:Greenville American Legion,Governor,"",NPA,Gimenez / Gibson,5
+Madison,8:Cherry Lake Methodist Church,Governor,"",NPA,Gimenez / Gibson,0
+Madison,9:Cherry Lake Methodist Church,Governor,"",NPA,Gimenez / Gibson,0
+Madison,10:Pinetta Vol Fire Dept,Governor,"",NPA,Gimenez / Gibson,1
+Madison,11:Sirmans Vol. Fire Dept.,Governor,"",NPA,Gimenez / Gibson,0
+Madison,12:Madison County Annex Board Room,Governor,"",NPA,Gimenez / Gibson,4
+Madison,13:Madison County Annex Board Room,Governor,"",NPA,Gimenez / Gibson,3
+Madison,1:Madison County Ag. Extension Office,Governor,"","",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Governor,"","",OverVotes,0
+Madison,3:Lee City Hall,Governor,"","",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Governor,"","",OverVotes,0
+Madison,5:Greenville American Legion,Governor,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Governor,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Governor,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Governor,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Governor,"","",OverVotes,0
+Madison,12:Madison County Annex Board Room,Governor,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,Governor,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Governor,"","",UnderVotes,4
+Madison,2:Madison County Ag. Extension Office,Governor,"","",UnderVotes,1
+Madison,3:Lee City Hall,Governor,"","",UnderVotes,10
+Madison,4:Sirmans Vol. Fire Dept.,Governor,"","",UnderVotes,0
+Madison,5:Greenville American Legion,Governor,"","",UnderVotes,3
+Madison,8:Cherry Lake Methodist Church,Governor,"","",UnderVotes,1
+Madison,9:Cherry Lake Methodist Church,Governor,"","",UnderVotes,6
+Madison,10:Pinetta Vol Fire Dept,Governor,"","",UnderVotes,1
+Madison,11:Sirmans Vol. Fire Dept.,Governor,"","",UnderVotes,0
+Madison,12:Madison County Annex Board Room,Governor,"","",UnderVotes,9
+Madison,13:Madison County Annex Board Room,Governor,"","",UnderVotes,4
+Madison,1:Madison County Ag. Extension Office,Attorney General,"",REP,Ashley Moody,809
+Madison,2:Madison County Ag. Extension Office,Attorney General,"",REP,Ashley Moody,51
+Madison,3:Lee City Hall,Attorney General,"",REP,Ashley Moody,1223
+Madison,4:Sirmans Vol. Fire Dept.,Attorney General,"",REP,Ashley Moody,207
+Madison,5:Greenville American Legion,Attorney General,"",REP,Ashley Moody,316
+Madison,8:Cherry Lake Methodist Church,Attorney General,"",REP,Ashley Moody,184
+Madison,9:Cherry Lake Methodist Church,Attorney General,"",REP,Ashley Moody,627
+Madison,10:Pinetta Vol Fire Dept,Attorney General,"",REP,Ashley Moody,585
+Madison,11:Sirmans Vol. Fire Dept.,Attorney General,"",REP,Ashley Moody,116
+Madison,12:Madison County Annex Board Room,Attorney General,"",REP,Ashley Moody,417
+Madison,13:Madison County Annex Board Room,Attorney General,"",REP,Ashley Moody,248
+Madison,1:Madison County Ag. Extension Office,Attorney General,"",DEM,Aramis Ayala,423
+Madison,2:Madison County Ag. Extension Office,Attorney General,"",DEM,Aramis Ayala,129
+Madison,3:Lee City Hall,Attorney General,"",DEM,Aramis Ayala,204
+Madison,4:Sirmans Vol. Fire Dept.,Attorney General,"",DEM,Aramis Ayala,48
+Madison,5:Greenville American Legion,Attorney General,"",DEM,Aramis Ayala,310
+Madison,8:Cherry Lake Methodist Church,Attorney General,"",DEM,Aramis Ayala,35
+Madison,9:Cherry Lake Methodist Church,Attorney General,"",DEM,Aramis Ayala,169
+Madison,10:Pinetta Vol Fire Dept,Attorney General,"",DEM,Aramis Ayala,128
+Madison,11:Sirmans Vol. Fire Dept.,Attorney General,"",DEM,Aramis Ayala,51
+Madison,12:Madison County Annex Board Room,Attorney General,"",DEM,Aramis Ayala,374
+Madison,13:Madison County Annex Board Room,Attorney General,"",DEM,Aramis Ayala,298
+Madison,1:Madison County Ag. Extension Office,Attorney General,"","",OverVotes,1
+Madison,2:Madison County Ag. Extension Office,Attorney General,"","",OverVotes,0
+Madison,3:Lee City Hall,Attorney General,"","",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Attorney General,"","",OverVotes,0
+Madison,5:Greenville American Legion,Attorney General,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Attorney General,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Attorney General,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Attorney General,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Attorney General,"","",OverVotes,0
+Madison,12:Madison County Annex Board Room,Attorney General,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,Attorney General,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Attorney General,"","",UnderVotes,16
+Madison,2:Madison County Ag. Extension Office,Attorney General,"","",UnderVotes,3
+Madison,3:Lee City Hall,Attorney General,"","",UnderVotes,12
+Madison,4:Sirmans Vol. Fire Dept.,Attorney General,"","",UnderVotes,1
+Madison,5:Greenville American Legion,Attorney General,"","",UnderVotes,5
+Madison,8:Cherry Lake Methodist Church,Attorney General,"","",UnderVotes,1
+Madison,9:Cherry Lake Methodist Church,Attorney General,"","",UnderVotes,5
+Madison,10:Pinetta Vol Fire Dept,Attorney General,"","",UnderVotes,5
+Madison,11:Sirmans Vol. Fire Dept.,Attorney General,"","",UnderVotes,3
+Madison,12:Madison County Annex Board Room,Attorney General,"","",UnderVotes,10
+Madison,13:Madison County Annex Board Room,Attorney General,"","",UnderVotes,6
+Madison,1:Madison County Ag. Extension Office,Chief Financial Officer,"",REP,Jimmy Patronis,773
+Madison,2:Madison County Ag. Extension Office,Chief Financial Officer,"",REP,Jimmy Patronis,47
+Madison,3:Lee City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,1194
+Madison,4:Sirmans Vol. Fire Dept.,Chief Financial Officer,"",REP,Jimmy Patronis,200
+Madison,5:Greenville American Legion,Chief Financial Officer,"",REP,Jimmy Patronis,297
+Madison,8:Cherry Lake Methodist Church,Chief Financial Officer,"",REP,Jimmy Patronis,179
+Madison,9:Cherry Lake Methodist Church,Chief Financial Officer,"",REP,Jimmy Patronis,614
+Madison,10:Pinetta Vol Fire Dept,Chief Financial Officer,"",REP,Jimmy Patronis,565
+Madison,11:Sirmans Vol. Fire Dept.,Chief Financial Officer,"",REP,Jimmy Patronis,111
+Madison,12:Madison County Annex Board Room,Chief Financial Officer,"",REP,Jimmy Patronis,401
+Madison,13:Madison County Annex Board Room,Chief Financial Officer,"",REP,Jimmy Patronis,227
+Madison,1:Madison County Ag. Extension Office,Chief Financial Officer,"",DEM,Adam Hattersley,444
+Madison,2:Madison County Ag. Extension Office,Chief Financial Officer,"",DEM,Adam Hattersley,130
+Madison,3:Lee City Hall,Chief Financial Officer,"",DEM,Adam Hattersley,225
+Madison,4:Sirmans Vol. Fire Dept.,Chief Financial Officer,"",DEM,Adam Hattersley,50
+Madison,5:Greenville American Legion,Chief Financial Officer,"",DEM,Adam Hattersley,318
+Madison,8:Cherry Lake Methodist Church,Chief Financial Officer,"",DEM,Adam Hattersley,40
+Madison,9:Cherry Lake Methodist Church,Chief Financial Officer,"",DEM,Adam Hattersley,178
+Madison,10:Pinetta Vol Fire Dept,Chief Financial Officer,"",DEM,Adam Hattersley,147
+Madison,11:Sirmans Vol. Fire Dept.,Chief Financial Officer,"",DEM,Adam Hattersley,56
+Madison,12:Madison County Annex Board Room,Chief Financial Officer,"",DEM,Adam Hattersley,385
+Madison,13:Madison County Annex Board Room,Chief Financial Officer,"",DEM,Adam Hattersley,315
+Madison,1:Madison County Ag. Extension Office,Chief Financial Officer,"","",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Chief Financial Officer,"","",OverVotes,0
+Madison,3:Lee City Hall,Chief Financial Officer,"","",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Chief Financial Officer,"","",OverVotes,0
+Madison,5:Greenville American Legion,Chief Financial Officer,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Chief Financial Officer,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Chief Financial Officer,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Chief Financial Officer,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Chief Financial Officer,"","",OverVotes,0
+Madison,12:Madison County Annex Board Room,Chief Financial Officer,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,Chief Financial Officer,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Chief Financial Officer,"","",UnderVotes,32
+Madison,2:Madison County Ag. Extension Office,Chief Financial Officer,"","",UnderVotes,6
+Madison,3:Lee City Hall,Chief Financial Officer,"","",UnderVotes,20
+Madison,4:Sirmans Vol. Fire Dept.,Chief Financial Officer,"","",UnderVotes,6
+Madison,5:Greenville American Legion,Chief Financial Officer,"","",UnderVotes,16
+Madison,8:Cherry Lake Methodist Church,Chief Financial Officer,"","",UnderVotes,1
+Madison,9:Cherry Lake Methodist Church,Chief Financial Officer,"","",UnderVotes,9
+Madison,10:Pinetta Vol Fire Dept,Chief Financial Officer,"","",UnderVotes,6
+Madison,11:Sirmans Vol. Fire Dept.,Chief Financial Officer,"","",UnderVotes,3
+Madison,12:Madison County Annex Board Room,Chief Financial Officer,"","",UnderVotes,15
+Madison,13:Madison County Annex Board Room,Chief Financial Officer,"","",UnderVotes,10
+Madison,1:Madison County Ag. Extension Office,Commissioner of Agriculture,"",REP,Wilton Simpson,775
+Madison,2:Madison County Ag. Extension Office,Commissioner of Agriculture,"",REP,Wilton Simpson,52
+Madison,3:Lee City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,1209
+Madison,4:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"",REP,Wilton Simpson,203
+Madison,5:Greenville American Legion,Commissioner of Agriculture,"",REP,Wilton Simpson,298
+Madison,8:Cherry Lake Methodist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,182
+Madison,9:Cherry Lake Methodist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,614
+Madison,10:Pinetta Vol Fire Dept,Commissioner of Agriculture,"",REP,Wilton Simpson,568
+Madison,11:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"",REP,Wilton Simpson,113
+Madison,12:Madison County Annex Board Room,Commissioner of Agriculture,"",REP,Wilton Simpson,396
+Madison,13:Madison County Annex Board Room,Commissioner of Agriculture,"",REP,Wilton Simpson,230
+Madison,1:Madison County Ag. Extension Office,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,450
+Madison,2:Madison County Ag. Extension Office,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,126
+Madison,3:Lee City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,214
+Madison,4:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,48
+Madison,5:Greenville American Legion,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,326
+Madison,8:Cherry Lake Methodist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,37
+Madison,9:Cherry Lake Methodist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,180
+Madison,10:Pinetta Vol Fire Dept,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,144
+Madison,11:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,54
+Madison,12:Madison County Annex Board Room,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,389
+Madison,13:Madison County Annex Board Room,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,315
+Madison,1:Madison County Ag. Extension Office,Commissioner of Agriculture,"","",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Commissioner of Agriculture,"","",OverVotes,0
+Madison,3:Lee City Hall,Commissioner of Agriculture,"","",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"","",OverVotes,0
+Madison,5:Greenville American Legion,Commissioner of Agriculture,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Commissioner of Agriculture,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Commissioner of Agriculture,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Commissioner of Agriculture,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"","",OverVotes,0
+Madison,12:Madison County Annex Board Room,Commissioner of Agriculture,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,Commissioner of Agriculture,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Commissioner of Agriculture,"","",UnderVotes,24
+Madison,2:Madison County Ag. Extension Office,Commissioner of Agriculture,"","",UnderVotes,5
+Madison,3:Lee City Hall,Commissioner of Agriculture,"","",UnderVotes,16
+Madison,4:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"","",UnderVotes,5
+Madison,5:Greenville American Legion,Commissioner of Agriculture,"","",UnderVotes,7
+Madison,8:Cherry Lake Methodist Church,Commissioner of Agriculture,"","",UnderVotes,1
+Madison,9:Cherry Lake Methodist Church,Commissioner of Agriculture,"","",UnderVotes,7
+Madison,10:Pinetta Vol Fire Dept,Commissioner of Agriculture,"","",UnderVotes,6
+Madison,11:Sirmans Vol. Fire Dept.,Commissioner of Agriculture,"","",UnderVotes,3
+Madison,12:Madison County Annex Board Room,Commissioner of Agriculture,"","",UnderVotes,16
+Madison,13:Madison County Annex Board Room,Commissioner of Agriculture,"","",UnderVotes,7
+Madison,1:Madison County Ag. Extension Office,State Senate,3,REP,Corey Simon,766
+Madison,2:Madison County Ag. Extension Office,State Senate,3,REP,Corey Simon,47
+Madison,3:Lee City Hall,State Senate,3,REP,Corey Simon,1178
+Madison,4:Sirmans Vol. Fire Dept.,State Senate,3,REP,Corey Simon,200
+Madison,5:Greenville American Legion,State Senate,3,REP,Corey Simon,285
+Madison,8:Cherry Lake Methodist Church,State Senate,3,REP,Corey Simon,181
+Madison,9:Cherry Lake Methodist Church,State Senate,3,REP,Corey Simon,606
+Madison,10:Pinetta Vol Fire Dept,State Senate,3,REP,Corey Simon,565
+Madison,11:Sirmans Vol. Fire Dept.,State Senate,3,REP,Corey Simon,111
+Madison,12:Madison County Annex Board Room,State Senate,3,REP,Corey Simon,405
+Madison,13:Madison County Annex Board Room,State Senate,3,REP,Corey Simon,230
+Madison,1:Madison County Ag. Extension Office,State Senate,3,DEM,Loranne Ausley,472
+Madison,2:Madison County Ag. Extension Office,State Senate,3,DEM,Loranne Ausley,131
+Madison,3:Lee City Hall,State Senate,3,DEM,Loranne Ausley,240
+Madison,4:Sirmans Vol. Fire Dept.,State Senate,3,DEM,Loranne Ausley,53
+Madison,5:Greenville American Legion,State Senate,3,DEM,Loranne Ausley,336
+Madison,8:Cherry Lake Methodist Church,State Senate,3,DEM,Loranne Ausley,38
+Madison,9:Cherry Lake Methodist Church,State Senate,3,DEM,Loranne Ausley,188
+Madison,10:Pinetta Vol Fire Dept,State Senate,3,DEM,Loranne Ausley,144
+Madison,11:Sirmans Vol. Fire Dept.,State Senate,3,DEM,Loranne Ausley,59
+Madison,12:Madison County Annex Board Room,State Senate,3,DEM,Loranne Ausley,381
+Madison,13:Madison County Annex Board Room,State Senate,3,DEM,Loranne Ausley,315
+Madison,1:Madison County Ag. Extension Office,State Senate,3,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,State Senate,3,"",OverVotes,0
+Madison,3:Lee City Hall,State Senate,3,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,State Senate,3,"",OverVotes,0
+Madison,5:Greenville American Legion,State Senate,3,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,State Senate,3,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,State Senate,3,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,State Senate,3,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,State Senate,3,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,State Senate,3,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,State Senate,3,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,State Senate,3,"",UnderVotes,11
+Madison,2:Madison County Ag. Extension Office,State Senate,3,"",UnderVotes,5
+Madison,3:Lee City Hall,State Senate,3,"",UnderVotes,21
+Madison,4:Sirmans Vol. Fire Dept.,State Senate,3,"",UnderVotes,3
+Madison,5:Greenville American Legion,State Senate,3,"",UnderVotes,10
+Madison,8:Cherry Lake Methodist Church,State Senate,3,"",UnderVotes,1
+Madison,9:Cherry Lake Methodist Church,State Senate,3,"",UnderVotes,7
+Madison,10:Pinetta Vol Fire Dept,State Senate,3,"",UnderVotes,9
+Madison,11:Sirmans Vol. Fire Dept.,State Senate,3,"",UnderVotes,0
+Madison,12:Madison County Annex Board Room,State Senate,3,"",UnderVotes,15
+Madison,13:Madison County Annex Board Room,State Senate,3,"",UnderVotes,7
+Madison,1:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,737
+Madison,2:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,96
+Madison,3:Lee City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,935
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,161
+Madison,5:Greenville American Legion,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,377
+Madison,8:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,129
+Madison,9:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,507
+Madison,10:Pinetta Vol Fire Dept,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,487
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,95
+Madison,12:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,495
+Madison,13:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,283
+Madison,1:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,413
+Madison,2:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,75
+Madison,3:Lee City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,402
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,78
+Madison,5:Greenville American Legion,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,209
+Madison,8:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,74
+Madison,9:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,225
+Madison,10:Pinetta Vol Fire Dept,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,175
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,55
+Madison,12:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,253
+Madison,13:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,236
+Madison,1:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Madison,9:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,99
+Madison,2:Madison County Ag. Extension Office,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,12
+Madison,3:Lee City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,102
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,17
+Madison,5:Greenville American Legion,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,45
+Madison,8:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,16
+Madison,9:Cherry Lake Methodist Church,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,69
+Madison,10:Pinetta Vol Fire Dept,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,55
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,20
+Madison,12:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,53
+Madison,13:Madison County Annex Board Room,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,33
+Madison,1:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,745
+Madison,2:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,94
+Madison,3:Lee City Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,946
+Madison,4:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,183
+Madison,5:Greenville American Legion,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,370
+Madison,8:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,130
+Madison,9:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,511
+Madison,10:Pinetta Vol Fire Dept,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,472
+Madison,11:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,101
+Madison,12:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,479
+Madison,13:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,265
+Madison,1:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,401
+Madison,2:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,76
+Madison,3:Lee City Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,377
+Madison,4:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,53
+Madison,5:Greenville American Legion,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,208
+Madison,8:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,76
+Madison,9:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,213
+Madison,10:Pinetta Vol Fire Dept,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,184
+Madison,11:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,46
+Madison,12:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,262
+Madison,13:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,246
+Madison,1:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,103
+Madison,2:Madison County Ag. Extension Office,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,13
+Madison,3:Lee City Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,116
+Madison,4:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,20
+Madison,5:Greenville American Legion,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,53
+Madison,8:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,14
+Madison,9:Cherry Lake Methodist Church,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,77
+Madison,10:Pinetta Vol Fire Dept,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,62
+Madison,11:Sirmans Vol. Fire Dept.,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,23
+Madison,12:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,60
+Madison,13:Madison County Annex Board Room,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,41
+Madison,1:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,755
+Madison,2:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,97
+Madison,3:Lee City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,941
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,178
+Madison,5:Greenville American Legion,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,358
+Madison,8:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,126
+Madison,9:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,506
+Madison,10:Pinetta Vol Fire Dept,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,465
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,95
+Madison,12:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,493
+Madison,13:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,285
+Madison,1:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,386
+Madison,2:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,71
+Madison,3:Lee City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,384
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,61
+Madison,5:Greenville American Legion,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,227
+Madison,8:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,79
+Madison,9:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,220
+Madison,10:Pinetta Vol Fire Dept,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,194
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,53
+Madison,12:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,241
+Madison,13:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,228
+Madison,1:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Madison,2:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,2
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,107
+Madison,2:Madison County Ag. Extension Office,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,15
+Madison,3:Lee City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,112
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,17
+Madison,5:Greenville American Legion,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,46
+Madison,8:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,15
+Madison,9:Cherry Lake Methodist Church,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,75
+Madison,10:Pinetta Vol Fire Dept,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,59
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,22
+Madison,12:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,67
+Madison,13:Madison County Annex Board Room,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,39
+Madison,1:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,515
+Madison,2:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,80
+Madison,3:Lee City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,548
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,104
+Madison,5:Greenville American Legion,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,300
+Madison,8:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,92
+Madison,9:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,316
+Madison,10:Pinetta Vol Fire Dept,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,300
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,68
+Madison,12:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,392
+Madison,13:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,206
+Madison,1:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,632
+Madison,2:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,91
+Madison,3:Lee City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,770
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,132
+Madison,5:Greenville American Legion,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,276
+Madison,8:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,110
+Madison,9:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,412
+Madison,10:Pinetta Vol Fire Dept,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,356
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,81
+Madison,12:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,347
+Madison,13:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,308
+Madison,1:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,102
+Madison,2:Madison County Ag. Extension Office,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,12
+Madison,3:Lee City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,119
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,20
+Madison,5:Greenville American Legion,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,55
+Madison,8:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,18
+Madison,9:Cherry Lake Methodist Church,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,73
+Madison,10:Pinetta Vol Fire Dept,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,62
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,21
+Madison,12:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,62
+Madison,13:Madison County Annex Board Room,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,38
+Madison,1:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,725
+Madison,2:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,99
+Madison,3:Lee City Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,895
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,157
+Madison,5:Greenville American Legion,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,345
+Madison,8:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,124
+Madison,9:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,487
+Madison,10:Pinetta Vol Fire Dept,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,465
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,94
+Madison,12:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,478
+Madison,13:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,266
+Madison,1:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,420
+Madison,2:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,74
+Madison,3:Lee City Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,425
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,81
+Madison,5:Greenville American Legion,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,228
+Madison,8:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,79
+Madison,9:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,235
+Madison,10:Pinetta Vol Fire Dept,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,191
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,56
+Madison,12:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,261
+Madison,13:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,245
+Madison,1:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,2
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,104
+Madison,2:Madison County Ag. Extension Office,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,10
+Madison,3:Lee City Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,117
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,18
+Madison,5:Greenville American Legion,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,58
+Madison,8:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,17
+Madison,9:Cherry Lake Methodist Church,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,79
+Madison,10:Pinetta Vol Fire Dept,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,62
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,20
+Madison,12:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,62
+Madison,13:Madison County Annex Board Room,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,41
+Madison,1:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,736
+Madison,2:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,97
+Madison,3:Lee City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,889
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,170
+Madison,5:Greenville American Legion,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,366
+Madison,8:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,125
+Madison,9:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,502
+Madison,10:Pinetta Vol Fire Dept,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,466
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,96
+Madison,12:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,491
+Madison,13:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,279
+Madison,1:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,409
+Madison,2:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,75
+Madison,3:Lee City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,437
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,68
+Madison,5:Greenville American Legion,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,214
+Madison,8:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,79
+Madison,9:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,224
+Madison,10:Pinetta Vol Fire Dept,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,194
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,48
+Madison,12:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,252
+Madison,13:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,237
+Madison,1:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Madison,12:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,104
+Madison,2:Madison County Ag. Extension Office,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,11
+Madison,3:Lee City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,113
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,18
+Madison,5:Greenville American Legion,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,51
+Madison,8:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,16
+Madison,9:Cherry Lake Methodist Church,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,75
+Madison,10:Pinetta Vol Fire Dept,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,58
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,25
+Madison,12:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,58
+Madison,13:Madison County Annex Board Room,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,36
+Madison,1:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,752
+Madison,2:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,107
+Madison,3:Lee City Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,922
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,168
+Madison,5:Greenville American Legion,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,365
+Madison,8:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,127
+Madison,9:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,508
+Madison,10:Pinetta Vol Fire Dept,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,470
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,101
+Madison,12:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,488
+Madison,13:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,289
+Madison,1:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,388
+Madison,2:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,64
+Madison,3:Lee City Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,399
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,73
+Madison,5:Greenville American Legion,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,215
+Madison,8:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,78
+Madison,9:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,219
+Madison,10:Pinetta Vol Fire Dept,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,189
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,46
+Madison,12:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,255
+Madison,13:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,227
+Madison,1:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Madison,2:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Madison,12:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,108
+Madison,2:Madison County Ag. Extension Office,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,12
+Madison,3:Lee City Hall,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,118
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,15
+Madison,5:Greenville American Legion,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,51
+Madison,8:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,15
+Madison,9:Cherry Lake Methodist Church,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,74
+Madison,10:Pinetta Vol Fire Dept,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,59
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,22
+Madison,12:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,58
+Madison,13:Madison County Annex Board Room,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,36
+Madison,1:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,726
+Madison,2:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,104
+Madison,3:Lee City Hall,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,940
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,180
+Madison,5:Greenville American Legion,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,370
+Madison,8:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,127
+Madison,9:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,507
+Madison,10:Pinetta Vol Fire Dept,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,466
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,102
+Madison,12:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,502
+Madison,13:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,265
+Madison,1:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,NOP,No,417
+Madison,2:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,NOP,No,67
+Madison,3:Lee City Hall,Retention of Bobby Long,First District Court of Appeal,NOP,No,377
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,NOP,No,59
+Madison,5:Greenville American Legion,Retention of Bobby Long,First District Court of Appeal,NOP,No,208
+Madison,8:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,NOP,No,75
+Madison,9:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,NOP,No,218
+Madison,10:Pinetta Vol Fire Dept,Retention of Bobby Long,First District Court of Appeal,NOP,No,194
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,NOP,No,44
+Madison,12:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,NOP,No,241
+Madison,13:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,NOP,No,248
+Madison,1:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Madison,2:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,105
+Madison,2:Madison County Ag. Extension Office,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,12
+Madison,3:Lee City Hall,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,122
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,17
+Madison,5:Greenville American Legion,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,53
+Madison,8:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,18
+Madison,9:Cherry Lake Methodist Church,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,76
+Madison,10:Pinetta Vol Fire Dept,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,57
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,24
+Madison,12:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,58
+Madison,13:Madison County Annex Board Room,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,39
+Madison,1:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,750
+Madison,2:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,106
+Madison,3:Lee City Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,889
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,155
+Madison,5:Greenville American Legion,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,371
+Madison,8:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,126
+Madison,9:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,482
+Madison,10:Pinetta Vol Fire Dept,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,465
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,99
+Madison,12:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,482
+Madison,13:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,282
+Madison,1:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,389
+Madison,2:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,65
+Madison,3:Lee City Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,418
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,83
+Madison,5:Greenville American Legion,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,202
+Madison,8:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,77
+Madison,9:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,238
+Madison,10:Pinetta Vol Fire Dept,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,191
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,47
+Madison,12:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,252
+Madison,13:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,225
+Madison,1:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Madison,10:Pinetta Vol Fire Dept,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,110
+Madison,2:Madison County Ag. Extension Office,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,12
+Madison,3:Lee City Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,132
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,18
+Madison,5:Greenville American Legion,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,58
+Madison,8:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,17
+Madison,9:Cherry Lake Methodist Church,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,80
+Madison,10:Pinetta Vol Fire Dept,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,62
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,24
+Madison,12:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,67
+Madison,13:Madison County Annex Board Room,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,45
+Madison,1:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,696
+Madison,2:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,99
+Madison,3:Lee City Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,897
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,170
+Madison,5:Greenville American Legion,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,359
+Madison,8:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,117
+Madison,9:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,479
+Madison,10:Pinetta Vol Fire Dept,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,469
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,97
+Madison,12:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,467
+Madison,13:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,255
+Madison,1:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,NOP,No,440
+Madison,2:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,NOP,No,72
+Madison,3:Lee City Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,No,414
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,NOP,No,69
+Madison,5:Greenville American Legion,Retention of Bo Winokur,First District Court of Appeal,NOP,No,211
+Madison,8:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,NOP,No,85
+Madison,9:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,NOP,No,239
+Madison,10:Pinetta Vol Fire Dept,Retention of Bo Winokur,First District Court of Appeal,NOP,No,190
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,NOP,No,48
+Madison,12:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,NOP,No,267
+Madison,13:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,NOP,No,250
+Madison,1:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,5:Greenville American Legion,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,2
+Madison,8:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,12:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Madison,13:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Madison,1:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,113
+Madison,2:Madison County Ag. Extension Office,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,12
+Madison,3:Lee City Hall,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,128
+Madison,4:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,17
+Madison,5:Greenville American Legion,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,59
+Madison,8:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,18
+Madison,9:Cherry Lake Methodist Church,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,83
+Madison,10:Pinetta Vol Fire Dept,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,59
+Madison,11:Sirmans Vol. Fire Dept.,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,25
+Madison,12:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,67
+Madison,13:Madison County Annex Board Room,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,46
+Madison,1:Madison County Ag. Extension Office,School Board,1,NOP,Katie Knight,657
+Madison,1:Madison County Ag. Extension Office,School Board,1,NOP,"Marvin ""Merv"" Mattair",543
+Madison,1:Madison County Ag. Extension Office,School Board,1,"",OverVotes,1
+Madison,1:Madison County Ag. Extension Office,School Board,1,"",UnderVotes,48
+Madison,3:Lee City Hall,School Board,5,NOP,Donnell L Davis,324
+Madison,13:Madison County Annex Board Room,School Board,5,NOP,Donnell L Davis,312
+Madison,3:Lee City Hall,School Board,5,NOP,Devin K Thompson,992
+Madison,13:Madison County Annex Board Room,School Board,5,NOP,Devin K Thompson,206
+Madison,3:Lee City Hall,School Board,5,"",OverVotes,2
+Madison,13:Madison County Annex Board Room,School Board,5,"",OverVotes,0
+Madison,3:Lee City Hall,School Board,5,"",UnderVotes,121
+Madison,13:Madison County Annex Board Room,School Board,5,"",UnderVotes,34
+Madison,1:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,549
+Madison,2:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,84
+Madison,3:Lee City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,698
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,120
+Madison,5:Greenville American Legion,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,291
+Madison,8:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,97
+Madison,9:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,335
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,329
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,81
+Madison,12:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,352
+Madison,13:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,257
+Madison,1:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,623
+Madison,2:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,91
+Madison,3:Lee City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,665
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,124
+Madison,5:Greenville American Legion,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,297
+Madison,8:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,109
+Madison,9:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,421
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,347
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,77
+Madison,12:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,400
+Madison,13:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,249
+Madison,1:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Madison,2:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,5:Greenville American Legion,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,12:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,76
+Madison,2:Madison County Ag. Extension Office,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,8
+Madison,3:Lee City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,75
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,12
+Madison,5:Greenville American Legion,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,43
+Madison,8:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,14
+Madison,9:Cherry Lake Methodist Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,45
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,42
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,12
+Madison,12:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,49
+Madison,13:Madison County Annex Board Room,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,46
+Madison,1:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,526
+Madison,2:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,78
+Madison,3:Lee City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,694
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,115
+Madison,5:Greenville American Legion,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,268
+Madison,8:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,98
+Madison,9:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,334
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,340
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,86
+Madison,12:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,338
+Madison,13:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,230
+Madison,1:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,635
+Madison,2:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,93
+Madison,3:Lee City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,639
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,125
+Madison,5:Greenville American Legion,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,310
+Madison,8:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,105
+Madison,9:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,408
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,323
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,66
+Madison,12:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,395
+Madison,13:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,265
+Madison,1:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,2:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,5:Greenville American Legion,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,12:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,88
+Madison,2:Madison County Ag. Extension Office,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,12
+Madison,3:Lee City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,106
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,16
+Madison,5:Greenville American Legion,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,53
+Madison,8:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,17
+Madison,9:Cherry Lake Methodist Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,59
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,55
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,18
+Madison,12:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,68
+Madison,13:Madison County Annex Board Room,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,57
+Madison,1:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,619
+Madison,2:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,85
+Madison,3:Lee City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,701
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,120
+Madison,5:Greenville American Legion,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,343
+Madison,8:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,91
+Madison,9:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,353
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,346
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,83
+Madison,12:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,415
+Madison,13:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,263
+Madison,1:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,569
+Madison,2:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,92
+Madison,3:Lee City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,668
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,126
+Madison,5:Greenville American Legion,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,249
+Madison,8:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,115
+Madison,9:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,406
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,333
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,75
+Madison,12:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,332
+Madison,13:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,248
+Madison,1:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Madison,2:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,5:Greenville American Legion,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,8:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,9:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Madison,12:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,13:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Madison,1:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,60
+Madison,2:Madison County Ag. Extension Office,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,6
+Madison,3:Lee City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,69
+Madison,4:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,10
+Madison,5:Greenville American Legion,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,39
+Madison,8:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,14
+Madison,9:Cherry Lake Methodist Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,42
+Madison,10:Pinetta Vol Fire Dept,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,39
+Madison,11:Sirmans Vol. Fire Dept.,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,11
+Madison,12:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,54
+Madison,13:Madison County Annex Board Room,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,41
+Madison,1:Madison County Ag. Extension Office,Registered Voters,"","","",2227
+Madison,10:Pinetta Vol Fire Dept,Registered Voters,"","","",1126
+Madison,11:Sirmans Vol. Fire Dept.,Registered Voters,"","","",308
+Madison,12:Madison County Annex Board Room,Registered Voters,"","","",1554
+Madison,13:Madison County Annex Board Room,Registered Voters,"","","",1048
+Madison,2:Madison County Ag. Extension Office,Registered Voters,"","","",425
+Madison,3:Lee City Hall,Registered Voters,"","","",2317
+Madison,4:Sirmans Vol. Fire Dept.,Registered Voters,"","","",432
+Madison,5:Greenville American Legion,Registered Voters,"","","",1181
+Madison,8:Cherry Lake Methodist Church,Registered Voters,"","","",317
+Madison,9:Cherry Lake Methodist Church,Registered Voters,"","","",1278

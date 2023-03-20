@@ -1,442 +1,829 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Baker,Sanderson 1A,U.S. Senate,"",REP,Marco Rubio,1047,416,488,143
-Baker,South Macclenny 2A,U.S. Senate,"",REP,Marco Rubio,1679,718,712,249
-Baker,North Macclenny 3A,U.S. Senate,"",REP,Marco Rubio,1761,834,713,214
-Baker,Baxter 4A,U.S. Senate,"",REP,Marco Rubio,127,,,
-Baker,Taylor 4B,U.S. Senate,"",REP,Marco Rubio,384,73,258,53
-Baker,Macedonia 4C,U.S. Senate,"",REP,Marco Rubio,1443,730,530,183
-Baker,Cuyler 4D,U.S. Senate,"",REP,Marco Rubio,634,234,319,81
-Baker,Glen St. Mary 5A,U.S. Senate,"",REP,Marco Rubio,2228,990,925,313
-Baker,Olustee 6A,U.S. Senate,"",REP,Marco Rubio,128,,,
-Baker,Sanderson 1A,U.S. Senate,"",DEM,Val Demings,322,70,185,67
-Baker,South Macclenny 2A,U.S. Senate,"",DEM,Val Demings,270,75,127,68
-Baker,North Macclenny 3A,U.S. Senate,"",DEM,Val Demings,217,86,69,62
-Baker,Baxter 4A,U.S. Senate,"",DEM,Val Demings,9,,,
-Baker,Taylor 4B,U.S. Senate,"",DEM,Val Demings,23,,,
-Baker,Macedonia 4C,U.S. Senate,"",DEM,Val Demings,96,,,
-Baker,Cuyler 4D,U.S. Senate,"",DEM,Val Demings,42,,,
-Baker,Glen St. Mary 5A,U.S. Senate,"",DEM,Val Demings,159,50,55,54
-Baker,Olustee 6A,U.S. Senate,"",DEM,Val Demings,43,,,
-Baker,Sanderson 1A,U.S. Senate,"",LPF,Dennis Misigoy,9,,,
-Baker,South Macclenny 2A,U.S. Senate,"",LPF,Dennis Misigoy,6,,,
-Baker,North Macclenny 3A,U.S. Senate,"",LPF,Dennis Misigoy,12,,,
-Baker,Baxter 4A,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Baker,Taylor 4B,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Baker,Macedonia 4C,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Baker,Cuyler 4D,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Baker,Glen St. Mary 5A,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
-Baker,Olustee 6A,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Baker,Sanderson 1A,U.S. Senate,"",NPA,Steven B. Grant,9,,,
-Baker,South Macclenny 2A,U.S. Senate,"",NPA,Steven B. Grant,7,,,
-Baker,North Macclenny 3A,U.S. Senate,"",NPA,Steven B. Grant,8,,,
-Baker,Baxter 4A,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
-Baker,Taylor 4B,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
-Baker,Macedonia 4C,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Baker,Cuyler 4D,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Baker,Glen St. Mary 5A,U.S. Senate,"",NPA,Steven B. Grant,4,,,
-Baker,Olustee 6A,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
-Baker,Sanderson 1A,U.S. Senate,"",NPA,Tuan TQ Nquyen,1,,,
-Baker,South Macclenny 2A,U.S. Senate,"",NPA,Tuan TQ Nquyen,1,,,
-Baker,North Macclenny 3A,U.S. Senate,"",NPA,Tuan TQ Nquyen,2,,,
-Baker,Baxter 4A,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
-Baker,Taylor 4B,U.S. Senate,"",NPA,Tuan TQ Nquyen,2,,,
-Baker,Macedonia 4C,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
-Baker,Cuyler 4D,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
-Baker,Glen St. Mary 5A,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
-Baker,Olustee 6A,U.S. Senate,"",NPA,Tuan TQ Nquyen,0,0,0,0
-Baker,Sanderson 1A,U.S. Senate,"","",Write-in,2,,,
-Baker,South Macclenny 2A,U.S. Senate,"","",Write-in,0,0,0,0
-Baker,North Macclenny 3A,U.S. Senate,"","",Write-in,0,0,0,0
-Baker,Baxter 4A,U.S. Senate,"","",Write-in,0,0,0,0
-Baker,Taylor 4B,U.S. Senate,"","",Write-in,0,0,0,0
-Baker,Macedonia 4C,U.S. Senate,"","",Write-in,0,0,0,0
-Baker,Cuyler 4D,U.S. Senate,"","",Write-in,0,0,0,0
-Baker,Glen St. Mary 5A,U.S. Senate,"","",Write-in,2,,,
-Baker,Olustee 6A,U.S. Senate,"","",Write-in,1,,,
-Baker,Sanderson 1A,U.S. House,3,REP,Kat Cammack,1040,418,484,138
-Baker,South Macclenny 2A,U.S. House,3,REP,Kat Cammack,1664,707,714,243
-Baker,North Macclenny 3A,U.S. House,3,REP,Kat Cammack,1766,831,722,213
-Baker,Baxter 4A,U.S. House,3,REP,Kat Cammack,129,,,
-Baker,Taylor 4B,U.S. House,3,REP,Kat Cammack,384,72,259,53
-Baker,Macedonia 4C,U.S. House,3,REP,Kat Cammack,1430,728,529,173
-Baker,Cuyler 4D,U.S. House,3,REP,Kat Cammack,625,232,315,78
-Baker,Glen St. Mary 5A,U.S. House,3,REP,Kat Cammack,2213,979,921,313
-Baker,Olustee 6A,U.S. House,3,REP,Kat Cammack,128,,,
-Baker,Sanderson 1A,U.S. House,3,DEM,Danielle Hawk,322,64,190,68
-Baker,South Macclenny 2A,U.S. House,3,DEM,Danielle Hawk,262,76,120,66
-Baker,North Macclenny 3A,U.S. House,3,DEM,Danielle Hawk,202,86,61,55
-Baker,Baxter 4A,U.S. House,3,DEM,Danielle Hawk,7,,,
-Baker,Taylor 4B,U.S. House,3,DEM,Danielle Hawk,24,,,
-Baker,Macedonia 4C,U.S. House,3,DEM,Danielle Hawk,86,,,
-Baker,Cuyler 4D,U.S. House,3,DEM,Danielle Hawk,42,,,
-Baker,Glen St. Mary 5A,U.S. House,3,DEM,Danielle Hawk,164,53,58,53
-Baker,Olustee 6A,U.S. House,3,DEM,Danielle Hawk,43,,,
-Baker,Sanderson 1A,U.S. House,3,NPA,Linda S. Brooks,18,,,
-Baker,South Macclenny 2A,U.S. House,3,NPA,Linda S. Brooks,15,,,
-Baker,North Macclenny 3A,U.S. House,3,NPA,Linda S. Brooks,18,,,
-Baker,Baxter 4A,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
-Baker,Taylor 4B,U.S. House,3,NPA,Linda S. Brooks,6,,,
-Baker,Macedonia 4C,U.S. House,3,NPA,Linda S. Brooks,7,,,
-Baker,Cuyler 4D,U.S. House,3,NPA,Linda S. Brooks,5,,,
-Baker,Glen St. Mary 5A,U.S. House,3,NPA,Linda S. Brooks,11,,,
-Baker,Olustee 6A,U.S. House,3,NPA,Linda S. Brooks,1,,,
-Baker,Sanderson 1A,Governor,"",REP,Ron DeSantis,1086,423,514,149
-Baker,South Macclenny 2A,Governor,"",REP,Ron DeSantis,1701,721,728,252
-Baker,North Macclenny 3A,Governor,"",REP,Ron DeSantis,1795,845,732,218
-Baker,Baxter 4A,Governor,"",REP,Ron DeSantis,130,,,
-Baker,Taylor 4B,Governor,"",REP,Ron DeSantis,390,76,259,55
-Baker,Macedonia 4C,Governor,"",REP,Ron DeSantis,1460,736,539,185
-Baker,Cuyler 4D,Governor,"",REP,Ron DeSantis,650,236,331,83
-Baker,Glen St. Mary 5A,Governor,"",REP,Ron DeSantis,2252,997,937,318
-Baker,Olustee 6A,Governor,"",REP,Ron DeSantis,130,,,
-Baker,Sanderson 1A,Governor,"",DEM,Charlie Crist,300,62,172,66
-Baker,South Macclenny 2A,Governor,"",DEM,Charlie Crist,256,73,117,66
-Baker,North Macclenny 3A,Governor,"",DEM,Charlie Crist,205,82,62,61
-Baker,Baxter 4A,Governor,"",DEM,Charlie Crist,7,,,
-Baker,Taylor 4B,Governor,"",DEM,Charlie Crist,22,,,
-Baker,Macedonia 4C,Governor,"",DEM,Charlie Crist,83,,,
-Baker,Cuyler 4D,Governor,"",DEM,Charlie Crist,32,,,
-Baker,Glen St. Mary 5A,Governor,"",DEM,Charlie Crist,145,45,49,51
-Baker,Olustee 6A,Governor,"",DEM,Charlie Crist,42,,,
-Baker,Sanderson 1A,Governor,"",LPF,Hector Roos,7,,,
-Baker,South Macclenny 2A,Governor,"",LPF,Hector Roos,5,,,
-Baker,North Macclenny 3A,Governor,"",LPF,Hector Roos,3,,,
-Baker,Baxter 4A,Governor,"",LPF,Hector Roos,0,0,0,0
-Baker,Taylor 4B,Governor,"",LPF,Hector Roos,1,,,
-Baker,Macedonia 4C,Governor,"",LPF,Hector Roos,2,,,
-Baker,Cuyler 4D,Governor,"",LPF,Hector Roos,0,0,0,0
-Baker,Glen St. Mary 5A,Governor,"",LPF,Hector Roos,0,0,0,0
-Baker,Olustee 6A,Governor,"",LPF,Hector Roos,0,0,0,0
-Baker,Sanderson 1A,Governor,"",NPA,Carmen Jackie Gimenez,6,,,
-Baker,South Macclenny 2A,Governor,"",NPA,Carmen Jackie Gimenez,7,,,
-Baker,North Macclenny 3A,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Baker,Baxter 4A,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Baker,Taylor 4B,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Baker,Macedonia 4C,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Baker,Cuyler 4D,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Baker,Glen St. Mary 5A,Governor,"",NPA,Carmen Jackie Gimenez,4,,,
-Baker,Olustee 6A,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Baker,Sanderson 1A,Attorney General,"",REP,Ashley Moody,1078,426,502,150
-Baker,South Macclenny 2A,Attorney General,"",REP,Ashley Moody,1679,714,714,251
-Baker,North Macclenny 3A,Attorney General,"",REP,Ashley Moody,1787,841,725,221
-Baker,Baxter 4A,Attorney General,"",REP,Ashley Moody,130,,,
-Baker,Taylor 4B,Attorney General,"",REP,Ashley Moody,390,76,261,53
-Baker,Macedonia 4C,Attorney General,"",REP,Ashley Moody,1448,732,535,181
-Baker,Cuyler 4D,Attorney General,"",REP,Ashley Moody,639,232,324,83
-Baker,Glen St. Mary 5A,Attorney General,"",REP,Ashley Moody,2237,990,932,315
-Baker,Olustee 6A,Attorney General,"",REP,Ashley Moody,135,,,
-Baker,Sanderson 1A,Attorney General,"",DEM,Aramis Ayala,309,65,178,66
-Baker,South Macclenny 2A,Attorney General,"",DEM,Aramis Ayala,261,71,123,67
-Baker,North Macclenny 3A,Attorney General,"",DEM,Aramis Ayala,192,81,59,52
-Baker,Baxter 4A,Attorney General,"",DEM,Aramis Ayala,5,,,
-Baker,Taylor 4B,Attorney General,"",DEM,Aramis Ayala,21,,,
-Baker,Macedonia 4C,Attorney General,"",DEM,Aramis Ayala,80,,,
-Baker,Cuyler 4D,Attorney General,"",DEM,Aramis Ayala,32,,,
-Baker,Glen St. Mary 5A,Attorney General,"",DEM,Aramis Ayala,144,42,48,54
-Baker,Olustee 6A,Attorney General,"",DEM,Aramis Ayala,37,,,
-Baker,Sanderson 1A,Chief Financial Officer,"",REP,Jimmy Patronis,1027,411,472,144
-Baker,South Macclenny 2A,Chief Financial Officer,"",REP,Jimmy Patronis,1630,686,698,246
-Baker,North Macclenny 3A,Chief Financial Officer,"",REP,Jimmy Patronis,1731,819,706,206
-Baker,Baxter 4A,Chief Financial Officer,"",REP,Jimmy Patronis,125,,,
-Baker,Taylor 4B,Chief Financial Officer,"",REP,Jimmy Patronis,382,76,254,52
-Baker,Macedonia 4C,Chief Financial Officer,"",REP,Jimmy Patronis,1400,708,519,173
-Baker,Cuyler 4D,Chief Financial Officer,"",REP,Jimmy Patronis,621,227,313,81
-Baker,Glen St. Mary 5A,Chief Financial Officer,"",REP,Jimmy Patronis,2172,950,916,306
-Baker,Olustee 6A,Chief Financial Officer,"",REP,Jimmy Patronis,131,,,
-Baker,Sanderson 1A,Chief Financial Officer,"",DEM,Adam Hattersley,320,69,183,68
-Baker,South Macclenny 2A,Chief Financial Officer,"",DEM,Adam Hattersley,263,73,124,66
-Baker,North Macclenny 3A,Chief Financial Officer,"",DEM,Adam Hattersley,211,83,65,63
-Baker,Baxter 4A,Chief Financial Officer,"",DEM,Adam Hattersley,8,,,
-Baker,Taylor 4B,Chief Financial Officer,"",DEM,Adam Hattersley,23,,,
-Baker,Macedonia 4C,Chief Financial Officer,"",DEM,Adam Hattersley,89,,,
-Baker,Cuyler 4D,Chief Financial Officer,"",DEM,Adam Hattersley,38,,,
-Baker,Glen St. Mary 5A,Chief Financial Officer,"",DEM,Adam Hattersley,164,55,53,56
-Baker,Olustee 6A,Chief Financial Officer,"",DEM,Adam Hattersley,39,,,
-Baker,Sanderson 1A,Commissioner of Agriculture,"",REP,Wilton Simpson,1036,416,481,139
-Baker,South Macclenny 2A,Commissioner of Agriculture,"",REP,Wilton Simpson,1645,706,699,240
-Baker,North Macclenny 3A,Commissioner of Agriculture,"",REP,Wilton Simpson,1751,831,710,210
-Baker,Baxter 4A,Commissioner of Agriculture,"",REP,Wilton Simpson,127,,,
-Baker,Taylor 4B,Commissioner of Agriculture,"",REP,Wilton Simpson,384,76,254,54
-Baker,Macedonia 4C,Commissioner of Agriculture,"",REP,Wilton Simpson,1422,724,521,177
-Baker,Cuyler 4D,Commissioner of Agriculture,"",REP,Wilton Simpson,629,232,316,81
-Baker,Glen St. Mary 5A,Commissioner of Agriculture,"",REP,Wilton Simpson,2208,979,917,312
-Baker,Olustee 6A,Commissioner of Agriculture,"",REP,Wilton Simpson,126,,,
-Baker,Sanderson 1A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,326,67,190,69
-Baker,South Macclenny 2A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,273,73,127,73
-Baker,North Macclenny 3A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,213,83,69,61
-Baker,Baxter 4A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,8,,,
-Baker,Taylor 4B,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,23,,,
-Baker,Macedonia 4C,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,90,,,
-Baker,Cuyler 4D,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,34,,,
-Baker,Glen St. Mary 5A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,154,47,56,51
-Baker,Olustee 6A,Commissioner of Agriculture,"",DEM,Naomi Ester Blemur,41,,,
-Baker,Sanderson 1A,Ricky Polston,"","",YES,719,278,352,89
-Baker,South Macclenny 2A,Ricky Polston,"","",YES,1135,457,510,168
-Baker,North Macclenny 3A,Ricky Polston,"","",YES,1161,547,466,148
-Baker,Baxter 4A,Ricky Polston,"","",YES,78,,,
-Baker,Taylor 4B,Ricky Polston,"","",YES,261,48,171,42
-Baker,Macedonia 4C,Ricky Polston,"","",YES,894,447,331,116
-Baker,Cuyler 4D,Ricky Polston,"","",YES,369,131,186,52
-Baker,Glen St. Mary 5A,Ricky Polston,"","",YES,1327,561,558,208
-Baker,Olustee 6A,Ricky Polston,"","",YES,99,,,
-Baker,Sanderson 1A,Ricky Polston,"","",NO,512,156,261,95
-Baker,South Macclenny 2A,Ricky Polston,"","",NO,582,229,250,103
-Baker,North Macclenny 3A,Ricky Polston,"","",NO,623,280,255,88
-Baker,Baxter 4A,Ricky Polston,"","",NO,42,,,
-Baker,Taylor 4B,Ricky Polston,"","",NO,101,,,
-Baker,Macedonia 4C,Ricky Polston,"","",NO,454,223,175,56
-Baker,Cuyler 4D,Ricky Polston,"","",NO,224,,,
-Baker,Glen St. Mary 5A,Ricky Polston,"","",NO,776,336,324,116
-Baker,Olustee 6A,Ricky Polston,"","",NO,48,,,
-Baker,Sanderson 1A,Charles T. Canaday,"","",YES,800,306,391,103
-Baker,South Macclenny 2A,Charles T. Canaday,"","",YES,1229,515,531,183
-Baker,North Macclenny 3A,Charles T. Canaday,"","",YES,1255,586,504,165
-Baker,Baxter 4A,Charles T. Canaday,"","",YES,91,,,
-Baker,Taylor 4B,Charles T. Canaday,"","",YES,288,55,195,38
-Baker,Macedonia 4C,Charles T. Canaday,"","",YES,978,490,364,124
-Baker,Cuyler 4D,Charles T. Canaday,"","",YES,395,141,199,55
-Baker,Glen St. Mary 5A,Charles T. Canaday,"","",YES,1438,602,615,221
-Baker,Olustee 6A,Charles T. Canaday,"","",YES,109,,,
-Baker,Sanderson 1A,Charles T. Canaday,"","",NO,466,144,238,84
-Baker,South Macclenny 2A,Charles T. Canaday,"","",NO,532,197,240,95
-Baker,North Macclenny 3A,Charles T. Canaday,"","",NO,559,258,222,79
-Baker,Baxter 4A,Charles T. Canaday,"","",NO,32,,,
-Baker,Taylor 4B,Charles T. Canaday,"","",NO,89,,,
-Baker,Macedonia 4C,Charles T. Canaday,"","",NO,393,192,150,51
-Baker,Cuyler 4D,Charles T. Canaday,"","",NO,207,,,
-Baker,Glen St. Mary 5A,Charles T. Canaday,"","",NO,710,325,275,110
-Baker,Olustee 6A,Charles T. Canaday,"","",NO,42,,,
-Baker,Sanderson 1A,John D. Couriel,"","",YES,807,312,386,109
-Baker,South Macclenny 2A,John D. Couriel,"","",YES,1260,519,551,190
-Baker,North Macclenny 3A,John D. Couriel,"","",YES,1306,612,533,161
-Baker,Baxter 4A,John D. Couriel,"","",YES,85,,,
-Baker,Taylor 4B,John D. Couriel,"","",YES,279,50,188,41
-Baker,Macedonia 4C,John D. Couriel,"","",YES,1030,509,385,136
-Baker,Cuyler 4D,John D. Couriel,"","",YES,411,144,209,58
-Baker,Glen St. Mary 5A,John D. Couriel,"","",YES,1476,637,611,228
-Baker,Olustee 6A,John D. Couriel,"","",YES,109,,,
-Baker,Sanderson 1A,John D. Couriel,"","",NO,441,132,233,76
-Baker,South Macclenny 2A,John D. Couriel,"","",NO,478,176,216,86
-Baker,North Macclenny 3A,John D. Couriel,"","",NO,500,224,193,83
-Baker,Baxter 4A,John D. Couriel,"","",NO,38,,,
-Baker,Taylor 4B,John D. Couriel,"","",NO,91,,,
-Baker,Macedonia 4C,John D. Couriel,"","",NO,338,172,128,38
-Baker,Cuyler 4D,John D. Couriel,"","",NO,187,,,
-Baker,Glen St. Mary 5A,John D. Couriel,"","",NO,666,287,278,101
-Baker,Olustee 6A,John D. Couriel,"","",NO,43,,,
-Baker,Sanderson 1A,Jorge Labarga,"","",YES,604,220,298,86
-Baker,South Macclenny 2A,Jorge Labarga,"","",YES,945,381,425,139
-Baker,North Macclenny 3A,Jorge Labarga,"","",YES,1025,480,417,128
-Baker,Baxter 4A,Jorge Labarga,"","",YES,62,,,
-Baker,Taylor 4B,Jorge Labarga,"","",YES,212,36,140,36
-Baker,Macedonia 4C,Jorge Labarga,"","",YES,690,362,235,93
-Baker,Cuyler 4D,Jorge Labarga,"","",YES,293,105,138,50
-Baker,Glen St. Mary 5A,Jorge Labarga,"","",YES,1118,466,452,200
-Baker,Olustee 6A,Jorge Labarga,"","",YES,86,,,
-Baker,Sanderson 1A,Jorge Labarga,"","",NO,630,215,317,98
-Baker,South Macclenny 2A,Jorge Labarga,"","",NO,775,307,335,133
-Baker,North Macclenny 3A,Jorge Labarga,"","",NO,759,346,304,109
-Baker,Baxter 4A,Jorge Labarga,"","",NO,60,,,
-Baker,Taylor 4B,Jorge Labarga,"","",NO,152,,,
-Baker,Macedonia 4C,Jorge Labarga,"","",NO,661,309,272,80
-Baker,Cuyler 4D,Jorge Labarga,"","",NO,297,,,
-Baker,Glen St. Mary 5A,Jorge Labarga,"","",NO,988,434,431,123
-Baker,Olustee 6A,Jorge Labarga,"","",NO,61,,,
-Baker,Sanderson 1A,Jamie Grosshans,"","",YES,802,313,385,104
-Baker,South Macclenny 2A,Jamie Grosshans,"","",YES,1246,524,533,189
-Baker,North Macclenny 3A,Jamie Grosshans,"","",YES,1308,611,531,166
-Baker,Baxter 4A,Jamie Grosshans,"","",YES,88,,,
-Baker,Taylor 4B,Jamie Grosshans,"","",YES,284,54,188,42
-Baker,Macedonia 4C,Jamie Grosshans,"","",YES,1024,515,377,132
-Baker,Cuyler 4D,Jamie Grosshans,"","",YES,404,145,202,57
-Baker,Glen St. Mary 5A,Jamie Grosshans,"","",YES,1464,631,605,228
-Baker,Olustee 6A,Jamie Grosshans,"","",YES,103,,,
-Baker,Sanderson 1A,Jamie Grosshans,"","",NO,449,133,232,84
-Baker,South Macclenny 2A,Jamie Grosshans,"","",NO,495,173,235,87
-Baker,North Macclenny 3A,Jamie Grosshans,"","",NO,501,227,196,78
-Baker,Baxter 4A,Jamie Grosshans,"","",NO,36,,,
-Baker,Taylor 4B,Jamie Grosshans,"","",NO,88,,,
-Baker,Macedonia 4C,Jamie Grosshans,"","",NO,340,164,134,42
-Baker,Cuyler 4D,Jamie Grosshans,"","",NO,193,,,
-Baker,Glen St. Mary 5A,Jamie Grosshans,"","",NO,679,294,283,102
-Baker,Olustee 6A,Jamie Grosshans,"","",NO,48,,,
-Baker,Sanderson 1A,Ross L. Bilbrey,"","",YES,769,294,367,108
-Baker,South Macclenny 2A,Ross L. Bilbrey,"","",YES,1165,481,511,173
-Baker,North Macclenny 3A,Ross L. Bilbrey,"","",YES,1212,573,477,162
-Baker,Baxter 4A,Ross L. Bilbrey,"","",YES,80,,,
-Baker,Taylor 4B,Ross L. Bilbrey,"","",YES,277,56,180,41
-Baker,Macedonia 4C,Ross L. Bilbrey,"","",YES,961,495,344,122
-Baker,Cuyler 4D,Ross L. Bilbrey,"","",YES,378,134,190,54
-Baker,Glen St. Mary 5A,Ross L. Bilbrey,"","",YES,1390,601,569,220
-Baker,Olustee 6A,Ross L. Bilbrey,"","",YES,106,,,
-Baker,Sanderson 1A,Ross L. Bilbrey,"","",NO,478,150,249,79
-Baker,South Macclenny 2A,Ross L. Bilbrey,"","",NO,532,201,238,93
-Baker,North Macclenny 3A,Ross L. Bilbrey,"","",NO,570,252,241,77
-Baker,Baxter 4A,Ross L. Bilbrey,"","",NO,41,,,
-Baker,Taylor 4B,Ross L. Bilbrey,"","",NO,89,,,
-Baker,Macedonia 4C,Ross L. Bilbrey,"","",NO,377,175,154,48
-Baker,Cuyler 4D,Ross L. Bilbrey,"","",NO,211,,,
-Baker,Glen St. Mary 5A,Ross L. Bilbrey,"","",NO,719,305,312,102
-Baker,Olustee 6A,Ross L. Bilbrey,"","",NO,43,,,
-Baker,Sanderson 1A,Susan Kelsey,"","",YES,792,294,388,110
-Baker,South Macclenny 2A,Susan Kelsey,"","",YES,1192,500,508,184
-Baker,North Macclenny 3A,Susan Kelsey,"","",YES,1222,567,496,159
-Baker,Baxter 4A,Susan Kelsey,"","",YES,82,,,
-Baker,Taylor 4B,Susan Kelsey,"","",YES,265,54,174,37
-Baker,Macedonia 4C,Susan Kelsey,"","",YES,960,477,359,124
-Baker,Cuyler 4D,Susan Kelsey,"","",YES,388,137,196,55
-Baker,Glen St. Mary 5A,Susan Kelsey,"","",YES,1374,579,574,221
-Baker,Olustee 6A,Susan Kelsey,"","",YES,109,,,
-Baker,Sanderson 1A,Susan Kelsey,"","",NO,447,147,224,76
-Baker,South Macclenny 2A,Susan Kelsey,"","",NO,491,176,236,79
-Baker,North Macclenny 3A,Susan Kelsey,"","",NO,550,249,221,80
-Baker,Baxter 4A,Susan Kelsey,"","",NO,38,,,
-Baker,Taylor 4B,Susan Kelsey,"","",NO,97,,,
-Baker,Macedonia 4C,Susan Kelsey,"","",NO,372,190,136,46
-Baker,Cuyler 4D,Susan Kelsey,"","",NO,200,,,
-Baker,Glen St. Mary 5A,Susan Kelsey,"","",NO,717,320,299,98
-Baker,Olustee 6A,Susan Kelsey,"","",NO,38,,,
-Baker,Sanderson 1A,Bobby Long,"","",YES,791,304,373,114
-Baker,South Macclenny 2A,Bobby Long,"","",YES,1219,510,529,180
-Baker,North Macclenny 3A,Bobby Long,"","",YES,1278,596,519,163
-Baker,Baxter 4A,Bobby Long,"","",YES,87,,,
-Baker,Taylor 4B,Bobby Long,"","",YES,289,55,192,42
-Baker,Macedonia 4C,Bobby Long,"","",YES,1012,504,378,130
-Baker,Cuyler 4D,Bobby Long,"","",YES,413,146,211,56
-Baker,Glen St. Mary 5A,Bobby Long,"","",YES,1449,618,606,225
-Baker,Olustee 6A,Bobby Long,"","",YES,102,,,
-Baker,Sanderson 1A,Bobby Long,"","",NO,452,142,238,72
-Baker,South Macclenny 2A,Bobby Long,"","",NO,471,163,222,86
-Baker,North Macclenny 3A,Bobby Long,"","",NO,501,226,200,75
-Baker,Baxter 4A,Bobby Long,"","",NO,33,,,
-Baker,Taylor 4B,Bobby Long,"","",NO,74,,,
-Baker,Macedonia 4C,Bobby Long,"","",NO,327,165,123,39
-Baker,Cuyler 4D,Bobby Long,"","",NO,172,,,
-Baker,Glen St. Mary 5A,Bobby Long,"","",NO,644,282,268,94
-Baker,Olustee 6A,Bobby Long,"","",NO,44,,,
-Baker,Sanderson 1A,Lori S. Rowe,"","",YES,736,268,362,106
-Baker,South Macclenny 2A,Lori S. Rowe,"","",YES,1136,465,498,173
-Baker,North Macclenny 3A,Lori S. Rowe,"","",YES,1160,533,480,147
-Baker,Baxter 4A,Lori S. Rowe,"","",YES,75,,,
-Baker,Taylor 4B,Lori S. Rowe,"","",YES,250,47,164,39
-Baker,Macedonia 4C,Lori S. Rowe,"","",YES,877,445,322,110
-Baker,Cuyler 4D,Lori S. Rowe,"","",YES,361,128,180,53
-Baker,Glen St. Mary 5A,Lori S. Rowe,"","",YES,1310,559,550,201
-Baker,Olustee 6A,Lori S. Rowe,"","",YES,101,,,
-Baker,Sanderson 1A,Lori S. Rowe,"","",NO,504,178,247,79
-Baker,South Macclenny 2A,Lori S. Rowe,"","",NO,556,209,253,94
-Baker,North Macclenny 3A,Lori S. Rowe,"","",NO,614,287,239,88
-Baker,Baxter 4A,Lori S. Rowe,"","",NO,43,,,
-Baker,Taylor 4B,Lori S. Rowe,"","",NO,115,,,
-Baker,Macedonia 4C,Lori S. Rowe,"","",NO,449,214,177,58
-Baker,Cuyler 4D,Lori S. Rowe,"","",NO,227,,,
-Baker,Glen St. Mary 5A,Lori S. Rowe,"","",NO,774,337,323,114
-Baker,Olustee 6A,Lori S. Rowe,"","",NO,47,,,
-Baker,Sanderson 1A,Bo Winokur,"","",YES,770,298,369,103
-Baker,South Macclenny 2A,Bo Winokur,"","",YES,1169,495,503,171
-Baker,North Macclenny 3A,Bo Winokur,"","",YES,1210,569,483,158
-Baker,Baxter 4A,Bo Winokur,"","",YES,81,,,
-Baker,Taylor 4B,Bo Winokur,"","",YES,280,56,182,42
-Baker,Macedonia 4C,Bo Winokur,"","",YES,983,496,364,123
-Baker,Cuyler 4D,Bo Winokur,"","",YES,389,144,193,52
-Baker,Glen St. Mary 5A,Bo Winokur,"","",YES,1392,602,577,213
-Baker,Olustee 6A,Bo Winokur,"","",YES,110,,,
-Baker,Sanderson 1A,Bo Winokur,"","",NO,473,148,243,82
-Baker,South Macclenny 2A,Bo Winokur,"","",NO,523,181,245,97
-Baker,North Macclenny 3A,Bo Winokur,"","",NO,565,250,238,77
-Baker,Baxter 4A,Bo Winokur,"","",NO,41,,,
-Baker,Taylor 4B,Bo Winokur,"","",NO,83,,,
-Baker,Macedonia 4C,Bo Winokur,"","",NO,356,175,135,46
-Baker,Cuyler 4D,Bo Winokur,"","",NO,198,,,
-Baker,Glen St. Mary 5A,Bo Winokur,"","",NO,709,300,302,107
-Baker,Olustee 6A,Bo Winokur,"","",NO,39,,,
-Baker,Sanderson 1A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1044,401,496,147
-Baker,South Macclenny 2A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1566,664,670,232
-Baker,North Macclenny 3A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1644,770,656,218
-Baker,Baxter 4A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,112,,,
-Baker,Taylor 4B,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,348,69,228,51
-Baker,Macedonia 4C,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1252,618,479,155
-Baker,Cuyler 4D,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,562,200,293,69
-Baker,Glen St. Mary 5A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,1968,853,828,287
-Baker,Olustee 6A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",Sean Brewer,131,,,
-Baker,Sanderson 1A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,210,51,112,47
-Baker,South Macclenny 2A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,194,56,94,44
-Baker,North Macclenny 3A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,190,90,68,32
-Baker,Baxter 4A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,12,,,
-Baker,Taylor 4B,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,25,,,
-Baker,Macedonia 4C,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,106,,,
-Baker,Cuyler 4D,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,42,,,
-Baker,Glen St. Mary 5A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,155,73,45,37
-Baker,Olustee 6A,"Circuit Judge, 8th Judicial Circuit, Group 12","","",AuBroncee Martin,24,,,
-Baker,Sanderson 1A,School Board,4,"",Mandi Canaday,739,245,375,119
-Baker,South Macclenny 2A,School Board,4,"",Mandi Canaday,1053,428,460,165
-Baker,North Macclenny 3A,School Board,4,"",Mandi Canaday,960,417,431,112
-Baker,Baxter 4A,School Board,4,"",Mandi Canaday,67,,,
-Baker,Taylor 4B,School Board,4,"",Mandi Canaday,235,46,156,33
-Baker,Macedonia 4C,School Board,4,"",Mandi Canaday,857,432,323,102
-Baker,Cuyler 4D,School Board,4,"",Mandi Canaday,372,114,223,35
-Baker,Glen St. Mary 5A,School Board,4,"",Mandi Canaday,1250,537,532,181
-Baker,Olustee 6A,School Board,4,"",Mandi Canaday,94,,,
-Baker,Sanderson 1A,School Board,4,"",Michele Hodges,615,233,292,90
-Baker,South Macclenny 2A,School Board,4,"",Michele Hodges,832,336,360,136
-Baker,North Macclenny 3A,School Board,4,"",Michele Hodges,964,477,334,153
-Baker,Baxter 4A,School Board,4,"",Michele Hodges,65,,,
-Baker,Taylor 4B,School Board,4,"",Michele Hodges,160,,,
-Baker,Macedonia 4C,School Board,4,"",Michele Hodges,614,298,225,91
-Baker,Cuyler 4D,School Board,4,"",Michele Hodges,277,119,115,43
-Baker,Glen St. Mary 5A,School Board,4,"",Michele Hodges,1049,470,413,166
-Baker,Olustee 6A,School Board,4,"",Michele Hodges,67,,,
-Baker,Sanderson 1A,Amendment 1,"","",YES,691,264,336,91
-Baker,South Macclenny 2A,Amendment 1,"","",YES,993,407,434,152
-Baker,North Macclenny 3A,Amendment 1,"","",YES,1077,499,430,148
-Baker,Baxter 4A,Amendment 1,"","",YES,66,,,
-Baker,Taylor 4B,Amendment 1,"","",YES,214,,,
-Baker,Macedonia 4C,Amendment 1,"","",YES,762,381,273,108
-Baker,Cuyler 4D,Amendment 1,"","",YES,314,109,163,42
-Baker,Glen St. Mary 5A,Amendment 1,"","",YES,1230,520,513,197
-Baker,Olustee 6A,Amendment 1,"","",YES,88,,,
-Baker,Sanderson 1A,Amendment 1,"","",NO,593,194,299,100
-Baker,South Macclenny 2A,Amendment 1,"","",NO,808,314,362,132
-Baker,North Macclenny 3A,Amendment 1,"","",NO,776,366,310,100
-Baker,Baxter 4A,Amendment 1,"","",NO,60,,,
-Baker,Taylor 4B,Amendment 1,"","",NO,170,,,
-Baker,Macedonia 4C,Amendment 1,"","",NO,629,317,244,68
-Baker,Cuyler 4D,Amendment 1,"","",NO,310,124,150,36
-Baker,Glen St. Mary 5A,Amendment 1,"","",NO,956,440,380,136
-Baker,Olustee 6A,Amendment 1,"","",NO,70,,,
-Baker,Sanderson 1A,Amendment 2,"","",YES,662,246,317,99
-Baker,South Macclenny 2A,Amendment 2,"","",YES,1003,415,433,155
-Baker,North Macclenny 3A,Amendment 2,"","",YES,1021,498,393,130
-Baker,Baxter 4A,Amendment 2,"","",YES,59,,,
-Baker,Taylor 4B,Amendment 2,"","",YES,216,47,137,32
-Baker,Macedonia 4C,Amendment 2,"","",YES,760,390,275,95
-Baker,Cuyler 4D,Amendment 2,"","",YES,317,103,159,55
-Baker,Glen St. Mary 5A,Amendment 2,"","",YES,1210,524,494,192
-Baker,Olustee 6A,Amendment 2,"","",YES,97,,,
-Baker,Sanderson 1A,Amendment 2,"","",NO,614,211,311,92
-Baker,South Macclenny 2A,Amendment 2,"","",NO,780,297,358,125
-Baker,North Macclenny 3A,Amendment 2,"","",NO,831,370,343,118
-Baker,Baxter 4A,Amendment 2,"","",NO,69,,,
-Baker,Taylor 4B,Amendment 2,"","",NO,167,,,
-Baker,Macedonia 4C,Amendment 2,"","",NO,622,303,241,78
-Baker,Cuyler 4D,Amendment 2,"","",NO,298,,,
-Baker,Glen St. Mary 5A,Amendment 2,"","",NO,980,437,403,140
-Baker,Olustee 6A,Amendment 2,"","",NO,64,,,
-Baker,Sanderson 1A,Amendment 3,"","",YES,722,238,378,106
-Baker,South Macclenny 2A,Amendment 3,"","",YES,1140,451,529,160
-Baker,North Macclenny 3A,Amendment 3,"","",YES,1173,562,465,146
-Baker,Baxter 4A,Amendment 3,"","",YES,65,,,
-Baker,Taylor 4B,Amendment 3,"","",YES,231,51,148,32
-Baker,Macedonia 4C,Amendment 3,"","",YES,822,427,307,88
-Baker,Cuyler 4D,Amendment 3,"","",YES,372,138,189,45
-Baker,Glen St. Mary 5A,Amendment 3,"","",YES,1266,546,555,165
-Baker,Olustee 6A,Amendment 3,"","",YES,92,,,
-Baker,Sanderson 1A,Amendment 3,"","",NO,587,226,271,90
-Baker,South Macclenny 2A,Amendment 3,"","",NO,723,296,293,134
-Baker,North Macclenny 3A,Amendment 3,"","",NO,729,328,298,103
-Baker,Baxter 4A,Amendment 3,"","",NO,65,,,
-Baker,Taylor 4B,Amendment 3,"","",NO,163,,,
-Baker,Macedonia 4C,Amendment 3,"","",NO,632,305,230,97
-Baker,Cuyler 4D,Amendment 3,"","",NO,262,98,132,32
-Baker,Glen St. Mary 5A,Amendment 3,"","",NO,999,445,376,178
-Baker,Olustee 6A,Amendment 3,"","",NO,69,,,
+county,precinct,office,district,party,candidate,votes
+Baker,1A:Sanderson Community Center,U.S. Senate,"",REP,Marco Rubio,1047
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"",REP,Marco Rubio,1679
+Baker,3A:Center of the Agriculture,U.S. Senate,"",REP,Marco Rubio,1761
+Baker,4A:Baxter Fire Station,U.S. Senate,"",REP,Marco Rubio,127
+Baker,4B:Taylor Voting House,U.S. Senate,"",REP,Marco Rubio,384
+Baker,4C:Center of the Agriculture,U.S. Senate,"",REP,Marco Rubio,1443
+Baker,4D:Cuyler Church Hall,U.S. Senate,"",REP,Marco Rubio,634
+Baker,5A:Glen Baptist Hall,U.S. Senate,"",REP,Marco Rubio,2228
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"",REP,Marco Rubio,128
+Baker,1A:Sanderson Community Center,U.S. Senate,"",DEM,Val Demings,322
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"",DEM,Val Demings,270
+Baker,3A:Center of the Agriculture,U.S. Senate,"",DEM,Val Demings,217
+Baker,4A:Baxter Fire Station,U.S. Senate,"",DEM,Val Demings,9
+Baker,4B:Taylor Voting House,U.S. Senate,"",DEM,Val Demings,23
+Baker,4C:Center of the Agriculture,U.S. Senate,"",DEM,Val Demings,96
+Baker,4D:Cuyler Church Hall,U.S. Senate,"",DEM,Val Demings,42
+Baker,5A:Glen Baptist Hall,U.S. Senate,"",DEM,Val Demings,159
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"",DEM,Val Demings,43
+Baker,1A:Sanderson Community Center,U.S. Senate,"",LPF,Dennis Misigoy,9
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"",LPF,Dennis Misigoy,6
+Baker,3A:Center of the Agriculture,U.S. Senate,"",LPF,Dennis Misigoy,12
+Baker,4A:Baxter Fire Station,U.S. Senate,"",LPF,Dennis Misigoy,1
+Baker,4B:Taylor Voting House,U.S. Senate,"",LPF,Dennis Misigoy,3
+Baker,4C:Center of the Agriculture,U.S. Senate,"",LPF,Dennis Misigoy,4
+Baker,4D:Cuyler Church Hall,U.S. Senate,"",LPF,Dennis Misigoy,1
+Baker,5A:Glen Baptist Hall,U.S. Senate,"",LPF,Dennis Misigoy,7
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"",LPF,Dennis Misigoy,0
+Baker,1A:Sanderson Community Center,U.S. Senate,"",NPA,Steven B. Grant,9
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"",NPA,Steven B. Grant,7
+Baker,3A:Center of the Agriculture,U.S. Senate,"",NPA,Steven B. Grant,8
+Baker,4A:Baxter Fire Station,U.S. Senate,"",NPA,Steven B. Grant,0
+Baker,4B:Taylor Voting House,U.S. Senate,"",NPA,Steven B. Grant,0
+Baker,4C:Center of the Agriculture,U.S. Senate,"",NPA,Steven B. Grant,1
+Baker,4D:Cuyler Church Hall,U.S. Senate,"",NPA,Steven B. Grant,2
+Baker,5A:Glen Baptist Hall,U.S. Senate,"",NPA,Steven B. Grant,4
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"",NPA,Steven B. Grant,0
+Baker,1A:Sanderson Community Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Baker,3A:Center of the Agriculture,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Baker,4A:Baxter Fire Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Baker,4B:Taylor Voting House,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Baker,4C:Center of the Agriculture,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Baker,4D:Cuyler Church Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Baker,5A:Glen Baptist Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Baker,1A:Sanderson Community Center,U.S. Senate,"","",WriteinVotes,2
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"","",WriteinVotes,0
+Baker,3A:Center of the Agriculture,U.S. Senate,"","",WriteinVotes,0
+Baker,4A:Baxter Fire Station,U.S. Senate,"","",WriteinVotes,0
+Baker,4B:Taylor Voting House,U.S. Senate,"","",WriteinVotes,0
+Baker,4C:Center of the Agriculture,U.S. Senate,"","",WriteinVotes,0
+Baker,4D:Cuyler Church Hall,U.S. Senate,"","",WriteinVotes,0
+Baker,5A:Glen Baptist Hall,U.S. Senate,"","",WriteinVotes,2
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"","",WriteinVotes,1
+Baker,1A:Sanderson Community Center,U.S. Senate,"","",OverVotes,1
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"","",OverVotes,0
+Baker,3A:Center of the Agriculture,U.S. Senate,"","",OverVotes,0
+Baker,4A:Baxter Fire Station,U.S. Senate,"","",OverVotes,0
+Baker,4B:Taylor Voting House,U.S. Senate,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,U.S. Senate,"","",OverVotes,0
+Baker,4D:Cuyler Church Hall,U.S. Senate,"","",OverVotes,0
+Baker,5A:Glen Baptist Hall,U.S. Senate,"","",OverVotes,0
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,U.S. Senate,"","",UnderVotes,10
+Baker,2A:Macclenny Baptist Gym,U.S. Senate,"","",UnderVotes,9
+Baker,3A:Center of the Agriculture,U.S. Senate,"","",UnderVotes,4
+Baker,4A:Baxter Fire Station,U.S. Senate,"","",UnderVotes,0
+Baker,4B:Taylor Voting House,U.S. Senate,"","",UnderVotes,2
+Baker,4C:Center of the Agriculture,U.S. Senate,"","",UnderVotes,5
+Baker,4D:Cuyler Church Hall,U.S. Senate,"","",UnderVotes,4
+Baker,5A:Glen Baptist Hall,U.S. Senate,"","",UnderVotes,4
+Baker,6A:Olustee Baptist Hall,U.S. Senate,"","",UnderVotes,0
+Baker,1A:Sanderson Community Center,U.S. House,3,REP,Kat Cammack,1040
+Baker,2A:Macclenny Baptist Gym,U.S. House,3,REP,Kat Cammack,1664
+Baker,3A:Center of the Agriculture,U.S. House,3,REP,Kat Cammack,1766
+Baker,4A:Baxter Fire Station,U.S. House,3,REP,Kat Cammack,129
+Baker,4B:Taylor Voting House,U.S. House,3,REP,Kat Cammack,384
+Baker,4C:Center of the Agriculture,U.S. House,3,REP,Kat Cammack,1430
+Baker,4D:Cuyler Church Hall,U.S. House,3,REP,Kat Cammack,625
+Baker,5A:Glen Baptist Hall,U.S. House,3,REP,Kat Cammack,2213
+Baker,6A:Olustee Baptist Hall,U.S. House,3,REP,Kat Cammack,128
+Baker,1A:Sanderson Community Center,U.S. House,3,DEM,Danielle Hawk,322
+Baker,2A:Macclenny Baptist Gym,U.S. House,3,DEM,Danielle Hawk,262
+Baker,3A:Center of the Agriculture,U.S. House,3,DEM,Danielle Hawk,202
+Baker,4A:Baxter Fire Station,U.S. House,3,DEM,Danielle Hawk,7
+Baker,4B:Taylor Voting House,U.S. House,3,DEM,Danielle Hawk,24
+Baker,4C:Center of the Agriculture,U.S. House,3,DEM,Danielle Hawk,86
+Baker,4D:Cuyler Church Hall,U.S. House,3,DEM,Danielle Hawk,42
+Baker,5A:Glen Baptist Hall,U.S. House,3,DEM,Danielle Hawk,164
+Baker,6A:Olustee Baptist Hall,U.S. House,3,DEM,Danielle Hawk,43
+Baker,1A:Sanderson Community Center,U.S. House,3,NPA,Linda S. Brooks,18
+Baker,2A:Macclenny Baptist Gym,U.S. House,3,NPA,Linda S. Brooks,15
+Baker,3A:Center of the Agriculture,U.S. House,3,NPA,Linda S. Brooks,18
+Baker,4A:Baxter Fire Station,U.S. House,3,NPA,Linda S. Brooks,0
+Baker,4B:Taylor Voting House,U.S. House,3,NPA,Linda S. Brooks,6
+Baker,4C:Center of the Agriculture,U.S. House,3,NPA,Linda S. Brooks,7
+Baker,4D:Cuyler Church Hall,U.S. House,3,NPA,Linda S. Brooks,5
+Baker,5A:Glen Baptist Hall,U.S. House,3,NPA,Linda S. Brooks,11
+Baker,6A:Olustee Baptist Hall,U.S. House,3,NPA,Linda S. Brooks,1
+Baker,1A:Sanderson Community Center,U.S. House,3,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,U.S. House,3,"",OverVotes,0
+Baker,3A:Center of the Agriculture,U.S. House,3,"",OverVotes,0
+Baker,4A:Baxter Fire Station,U.S. House,3,"",OverVotes,0
+Baker,4B:Taylor Voting House,U.S. House,3,"",OverVotes,0
+Baker,4C:Center of the Agriculture,U.S. House,3,"",OverVotes,0
+Baker,4D:Cuyler Church Hall,U.S. House,3,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,U.S. House,3,"",OverVotes,0
+Baker,6A:Olustee Baptist Hall,U.S. House,3,"",OverVotes,0
+Baker,1A:Sanderson Community Center,U.S. House,3,"",UnderVotes,21
+Baker,2A:Macclenny Baptist Gym,U.S. House,3,"",UnderVotes,31
+Baker,3A:Center of the Agriculture,U.S. House,3,"",UnderVotes,18
+Baker,4A:Baxter Fire Station,U.S. House,3,"",UnderVotes,1
+Baker,4B:Taylor Voting House,U.S. House,3,"",UnderVotes,0
+Baker,4C:Center of the Agriculture,U.S. House,3,"",UnderVotes,26
+Baker,4D:Cuyler Church Hall,U.S. House,3,"",UnderVotes,11
+Baker,5A:Glen Baptist Hall,U.S. House,3,"",UnderVotes,16
+Baker,6A:Olustee Baptist Hall,U.S. House,3,"",UnderVotes,0
+Baker,1A:Sanderson Community Center,Governor,"",REP,DeSantis / Nuñez,1086
+Baker,2A:Macclenny Baptist Gym,Governor,"",REP,DeSantis / Nuñez,1701
+Baker,3A:Center of the Agriculture,Governor,"",REP,DeSantis / Nuñez,1795
+Baker,4A:Baxter Fire Station,Governor,"",REP,DeSantis / Nuñez,130
+Baker,4B:Taylor Voting House,Governor,"",REP,DeSantis / Nuñez,390
+Baker,4C:Center of the Agriculture,Governor,"",REP,DeSantis / Nuñez,1460
+Baker,4D:Cuyler Church Hall,Governor,"",REP,DeSantis / Nuñez,650
+Baker,5A:Glen Baptist Hall,Governor,"",REP,DeSantis / Nuñez,2252
+Baker,6A:Olustee Baptist Hall,Governor,"",REP,DeSantis / Nuñez,130
+Baker,1A:Sanderson Community Center,Governor,"",DEM,Crist / Hernandez,300
+Baker,2A:Macclenny Baptist Gym,Governor,"",DEM,Crist / Hernandez,256
+Baker,3A:Center of the Agriculture,Governor,"",DEM,Crist / Hernandez,205
+Baker,4A:Baxter Fire Station,Governor,"",DEM,Crist / Hernandez,7
+Baker,4B:Taylor Voting House,Governor,"",DEM,Crist / Hernandez,22
+Baker,4C:Center of the Agriculture,Governor,"",DEM,Crist / Hernandez,83
+Baker,4D:Cuyler Church Hall,Governor,"",DEM,Crist / Hernandez,32
+Baker,5A:Glen Baptist Hall,Governor,"",DEM,Crist / Hernandez,145
+Baker,6A:Olustee Baptist Hall,Governor,"",DEM,Crist / Hernandez,42
+Baker,1A:Sanderson Community Center,Governor,"",LPF,Roos / Rorabaugh,7
+Baker,2A:Macclenny Baptist Gym,Governor,"",LPF,Roos / Rorabaugh,5
+Baker,3A:Center of the Agriculture,Governor,"",LPF,Roos / Rorabaugh,3
+Baker,4A:Baxter Fire Station,Governor,"",LPF,Roos / Rorabaugh,0
+Baker,4B:Taylor Voting House,Governor,"",LPF,Roos / Rorabaugh,1
+Baker,4C:Center of the Agriculture,Governor,"",LPF,Roos / Rorabaugh,2
+Baker,4D:Cuyler Church Hall,Governor,"",LPF,Roos / Rorabaugh,0
+Baker,5A:Glen Baptist Hall,Governor,"",LPF,Roos / Rorabaugh,0
+Baker,6A:Olustee Baptist Hall,Governor,"",LPF,Roos / Rorabaugh,0
+Baker,1A:Sanderson Community Center,Governor,"",NPA,Gimenez / Gibson,6
+Baker,2A:Macclenny Baptist Gym,Governor,"",NPA,Gimenez / Gibson,7
+Baker,3A:Center of the Agriculture,Governor,"",NPA,Gimenez / Gibson,1
+Baker,4A:Baxter Fire Station,Governor,"",NPA,Gimenez / Gibson,0
+Baker,4B:Taylor Voting House,Governor,"",NPA,Gimenez / Gibson,1
+Baker,4C:Center of the Agriculture,Governor,"",NPA,Gimenez / Gibson,1
+Baker,4D:Cuyler Church Hall,Governor,"",NPA,Gimenez / Gibson,1
+Baker,5A:Glen Baptist Hall,Governor,"",NPA,Gimenez / Gibson,4
+Baker,6A:Olustee Baptist Hall,Governor,"",NPA,Gimenez / Gibson,0
+Baker,1A:Sanderson Community Center,Governor,"","",OverVotes,1
+Baker,2A:Macclenny Baptist Gym,Governor,"","",OverVotes,0
+Baker,3A:Center of the Agriculture,Governor,"","",OverVotes,0
+Baker,4A:Baxter Fire Station,Governor,"","",OverVotes,0
+Baker,4B:Taylor Voting House,Governor,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,Governor,"","",OverVotes,0
+Baker,4D:Cuyler Church Hall,Governor,"","",OverVotes,0
+Baker,5A:Glen Baptist Hall,Governor,"","",OverVotes,0
+Baker,6A:Olustee Baptist Hall,Governor,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,Governor,"","",UnderVotes,1
+Baker,2A:Macclenny Baptist Gym,Governor,"","",UnderVotes,3
+Baker,3A:Center of the Agriculture,Governor,"","",UnderVotes,0
+Baker,4A:Baxter Fire Station,Governor,"","",UnderVotes,0
+Baker,4B:Taylor Voting House,Governor,"","",UnderVotes,0
+Baker,4C:Center of the Agriculture,Governor,"","",UnderVotes,3
+Baker,4D:Cuyler Church Hall,Governor,"","",UnderVotes,0
+Baker,5A:Glen Baptist Hall,Governor,"","",UnderVotes,3
+Baker,6A:Olustee Baptist Hall,Governor,"","",UnderVotes,0
+Baker,1A:Sanderson Community Center,Attorney General,"",REP,Ashley Moody,1078
+Baker,2A:Macclenny Baptist Gym,Attorney General,"",REP,Ashley Moody,1679
+Baker,3A:Center of the Agriculture,Attorney General,"",REP,Ashley Moody,1787
+Baker,4A:Baxter Fire Station,Attorney General,"",REP,Ashley Moody,130
+Baker,4B:Taylor Voting House,Attorney General,"",REP,Ashley Moody,390
+Baker,4C:Center of the Agriculture,Attorney General,"",REP,Ashley Moody,1448
+Baker,4D:Cuyler Church Hall,Attorney General,"",REP,Ashley Moody,639
+Baker,5A:Glen Baptist Hall,Attorney General,"",REP,Ashley Moody,2237
+Baker,6A:Olustee Baptist Hall,Attorney General,"",REP,Ashley Moody,135
+Baker,1A:Sanderson Community Center,Attorney General,"",DEM,Aramis Ayala,309
+Baker,2A:Macclenny Baptist Gym,Attorney General,"",DEM,Aramis Ayala,261
+Baker,3A:Center of the Agriculture,Attorney General,"",DEM,Aramis Ayala,192
+Baker,4A:Baxter Fire Station,Attorney General,"",DEM,Aramis Ayala,5
+Baker,4B:Taylor Voting House,Attorney General,"",DEM,Aramis Ayala,21
+Baker,4C:Center of the Agriculture,Attorney General,"",DEM,Aramis Ayala,80
+Baker,4D:Cuyler Church Hall,Attorney General,"",DEM,Aramis Ayala,32
+Baker,5A:Glen Baptist Hall,Attorney General,"",DEM,Aramis Ayala,144
+Baker,6A:Olustee Baptist Hall,Attorney General,"",DEM,Aramis Ayala,37
+Baker,1A:Sanderson Community Center,Attorney General,"","",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Attorney General,"","",OverVotes,0
+Baker,3A:Center of the Agriculture,Attorney General,"","",OverVotes,0
+Baker,4A:Baxter Fire Station,Attorney General,"","",OverVotes,0
+Baker,4B:Taylor Voting House,Attorney General,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,Attorney General,"","",OverVotes,0
+Baker,4D:Cuyler Church Hall,Attorney General,"","",OverVotes,0
+Baker,5A:Glen Baptist Hall,Attorney General,"","",OverVotes,0
+Baker,6A:Olustee Baptist Hall,Attorney General,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,Attorney General,"","",UnderVotes,14
+Baker,2A:Macclenny Baptist Gym,Attorney General,"","",UnderVotes,32
+Baker,3A:Center of the Agriculture,Attorney General,"","",UnderVotes,25
+Baker,4A:Baxter Fire Station,Attorney General,"","",UnderVotes,2
+Baker,4B:Taylor Voting House,Attorney General,"","",UnderVotes,3
+Baker,4C:Center of the Agriculture,Attorney General,"","",UnderVotes,21
+Baker,4D:Cuyler Church Hall,Attorney General,"","",UnderVotes,12
+Baker,5A:Glen Baptist Hall,Attorney General,"","",UnderVotes,23
+Baker,6A:Olustee Baptist Hall,Attorney General,"","",UnderVotes,0
+Baker,1A:Sanderson Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,1027
+Baker,2A:Macclenny Baptist Gym,Chief Financial Officer,"",REP,Jimmy Patronis,1630
+Baker,3A:Center of the Agriculture,Chief Financial Officer,"",REP,Jimmy Patronis,1731
+Baker,4A:Baxter Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,125
+Baker,4B:Taylor Voting House,Chief Financial Officer,"",REP,Jimmy Patronis,382
+Baker,4C:Center of the Agriculture,Chief Financial Officer,"",REP,Jimmy Patronis,1400
+Baker,4D:Cuyler Church Hall,Chief Financial Officer,"",REP,Jimmy Patronis,621
+Baker,5A:Glen Baptist Hall,Chief Financial Officer,"",REP,Jimmy Patronis,2172
+Baker,6A:Olustee Baptist Hall,Chief Financial Officer,"",REP,Jimmy Patronis,131
+Baker,1A:Sanderson Community Center,Chief Financial Officer,"",DEM,Adam Hattersley,320
+Baker,2A:Macclenny Baptist Gym,Chief Financial Officer,"",DEM,Adam Hattersley,263
+Baker,3A:Center of the Agriculture,Chief Financial Officer,"",DEM,Adam Hattersley,211
+Baker,4A:Baxter Fire Station,Chief Financial Officer,"",DEM,Adam Hattersley,8
+Baker,4B:Taylor Voting House,Chief Financial Officer,"",DEM,Adam Hattersley,23
+Baker,4C:Center of the Agriculture,Chief Financial Officer,"",DEM,Adam Hattersley,89
+Baker,4D:Cuyler Church Hall,Chief Financial Officer,"",DEM,Adam Hattersley,38
+Baker,5A:Glen Baptist Hall,Chief Financial Officer,"",DEM,Adam Hattersley,164
+Baker,6A:Olustee Baptist Hall,Chief Financial Officer,"",DEM,Adam Hattersley,39
+Baker,1A:Sanderson Community Center,Chief Financial Officer,"","",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Chief Financial Officer,"","",OverVotes,0
+Baker,3A:Center of the Agriculture,Chief Financial Officer,"","",OverVotes,0
+Baker,4A:Baxter Fire Station,Chief Financial Officer,"","",OverVotes,0
+Baker,4B:Taylor Voting House,Chief Financial Officer,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,Chief Financial Officer,"","",OverVotes,0
+Baker,4D:Cuyler Church Hall,Chief Financial Officer,"","",OverVotes,0
+Baker,5A:Glen Baptist Hall,Chief Financial Officer,"","",OverVotes,0
+Baker,6A:Olustee Baptist Hall,Chief Financial Officer,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,Chief Financial Officer,"","",UnderVotes,54
+Baker,2A:Macclenny Baptist Gym,Chief Financial Officer,"","",UnderVotes,79
+Baker,3A:Center of the Agriculture,Chief Financial Officer,"","",UnderVotes,62
+Baker,4A:Baxter Fire Station,Chief Financial Officer,"","",UnderVotes,4
+Baker,4B:Taylor Voting House,Chief Financial Officer,"","",UnderVotes,9
+Baker,4C:Center of the Agriculture,Chief Financial Officer,"","",UnderVotes,60
+Baker,4D:Cuyler Church Hall,Chief Financial Officer,"","",UnderVotes,24
+Baker,5A:Glen Baptist Hall,Chief Financial Officer,"","",UnderVotes,68
+Baker,6A:Olustee Baptist Hall,Chief Financial Officer,"","",UnderVotes,2
+Baker,1A:Sanderson Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,1036
+Baker,2A:Macclenny Baptist Gym,Commissioner of Agriculture,"",REP,Wilton Simpson,1645
+Baker,3A:Center of the Agriculture,Commissioner of Agriculture,"",REP,Wilton Simpson,1751
+Baker,4A:Baxter Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,127
+Baker,4B:Taylor Voting House,Commissioner of Agriculture,"",REP,Wilton Simpson,384
+Baker,4C:Center of the Agriculture,Commissioner of Agriculture,"",REP,Wilton Simpson,1422
+Baker,4D:Cuyler Church Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,629
+Baker,5A:Glen Baptist Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,2208
+Baker,6A:Olustee Baptist Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,126
+Baker,1A:Sanderson Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,326
+Baker,2A:Macclenny Baptist Gym,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,273
+Baker,3A:Center of the Agriculture,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,213
+Baker,4A:Baxter Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,8
+Baker,4B:Taylor Voting House,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23
+Baker,4C:Center of the Agriculture,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,90
+Baker,4D:Cuyler Church Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,34
+Baker,5A:Glen Baptist Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,154
+Baker,6A:Olustee Baptist Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
+Baker,1A:Sanderson Community Center,Commissioner of Agriculture,"","",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Commissioner of Agriculture,"","",OverVotes,0
+Baker,3A:Center of the Agriculture,Commissioner of Agriculture,"","",OverVotes,0
+Baker,4A:Baxter Fire Station,Commissioner of Agriculture,"","",OverVotes,0
+Baker,4B:Taylor Voting House,Commissioner of Agriculture,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,Commissioner of Agriculture,"","",OverVotes,0
+Baker,4D:Cuyler Church Hall,Commissioner of Agriculture,"","",OverVotes,0
+Baker,5A:Glen Baptist Hall,Commissioner of Agriculture,"","",OverVotes,0
+Baker,6A:Olustee Baptist Hall,Commissioner of Agriculture,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,Commissioner of Agriculture,"","",UnderVotes,39
+Baker,2A:Macclenny Baptist Gym,Commissioner of Agriculture,"","",UnderVotes,54
+Baker,3A:Center of the Agriculture,Commissioner of Agriculture,"","",UnderVotes,40
+Baker,4A:Baxter Fire Station,Commissioner of Agriculture,"","",UnderVotes,2
+Baker,4B:Taylor Voting House,Commissioner of Agriculture,"","",UnderVotes,7
+Baker,4C:Center of the Agriculture,Commissioner of Agriculture,"","",UnderVotes,37
+Baker,4D:Cuyler Church Hall,Commissioner of Agriculture,"","",UnderVotes,20
+Baker,5A:Glen Baptist Hall,Commissioner of Agriculture,"","",UnderVotes,42
+Baker,6A:Olustee Baptist Hall,Commissioner of Agriculture,"","",UnderVotes,5
+Baker,1A:Sanderson Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,719
+Baker,2A:Macclenny Baptist Gym,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1135
+Baker,3A:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1161
+Baker,4A:Baxter Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,78
+Baker,4B:Taylor Voting House,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,261
+Baker,4C:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,894
+Baker,4D:Cuyler Church Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,369
+Baker,5A:Glen Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1327
+Baker,6A:Olustee Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,99
+Baker,1A:Sanderson Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,512
+Baker,2A:Macclenny Baptist Gym,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,582
+Baker,3A:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,623
+Baker,4A:Baxter Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,42
+Baker,4B:Taylor Voting House,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,101
+Baker,4C:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,454
+Baker,4D:Cuyler Church Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,224
+Baker,5A:Glen Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,776
+Baker,6A:Olustee Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,48
+Baker,1A:Sanderson Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Baker,3A:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Baker,4A:Baxter Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Baker,4B:Taylor Voting House,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Baker,4D:Cuyler Church Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,3
+Baker,6A:Olustee Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,170
+Baker,2A:Macclenny Baptist Gym,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,255
+Baker,3A:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,220
+Baker,4A:Baxter Fire Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,16
+Baker,4B:Taylor Voting House,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,52
+Baker,4C:Center of the Agriculture,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,201
+Baker,4D:Cuyler Church Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,90
+Baker,5A:Glen Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,298
+Baker,6A:Olustee Baptist Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,25
+Baker,1A:Sanderson Community Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,800
+Baker,2A:Macclenny Baptist Gym,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1229
+Baker,3A:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1255
+Baker,4A:Baxter Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,91
+Baker,4B:Taylor Voting House,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,288
+Baker,4C:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,978
+Baker,4D:Cuyler Church Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,395
+Baker,5A:Glen Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1438
+Baker,6A:Olustee Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,109
+Baker,1A:Sanderson Community Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,466
+Baker,2A:Macclenny Baptist Gym,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,532
+Baker,3A:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,559
+Baker,4A:Baxter Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,32
+Baker,4B:Taylor Voting House,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,89
+Baker,4C:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,393
+Baker,4D:Cuyler Church Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,207
+Baker,5A:Glen Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,710
+Baker,6A:Olustee Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,42
+Baker,1A:Sanderson Community Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Baker,3A:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Baker,4A:Baxter Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Baker,4D:Cuyler Church Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,4
+Baker,6A:Olustee Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,135
+Baker,2A:Macclenny Baptist Gym,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,211
+Baker,3A:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,190
+Baker,4A:Baxter Fire Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,14
+Baker,4B:Taylor Voting House,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,37
+Baker,4C:Center of the Agriculture,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,177
+Baker,4D:Cuyler Church Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,81
+Baker,5A:Glen Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,252
+Baker,6A:Olustee Baptist Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,21
+Baker,1A:Sanderson Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,807
+Baker,2A:Macclenny Baptist Gym,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1260
+Baker,3A:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1306
+Baker,4A:Baxter Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,85
+Baker,4B:Taylor Voting House,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,279
+Baker,4C:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1030
+Baker,4D:Cuyler Church Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,411
+Baker,5A:Glen Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1476
+Baker,6A:Olustee Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,109
+Baker,1A:Sanderson Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,441
+Baker,2A:Macclenny Baptist Gym,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,478
+Baker,3A:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,500
+Baker,4A:Baxter Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,38
+Baker,4B:Taylor Voting House,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,91
+Baker,4C:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,338
+Baker,4D:Cuyler Church Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,187
+Baker,5A:Glen Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,666
+Baker,6A:Olustee Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,43
+Baker,1A:Sanderson Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,2
+Baker,2A:Macclenny Baptist Gym,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,4
+Baker,3A:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Baker,4A:Baxter Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,2
+Baker,4D:Cuyler Church Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Baker,5A:Glen Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Baker,6A:Olustee Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,151
+Baker,2A:Macclenny Baptist Gym,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,230
+Baker,3A:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,197
+Baker,4A:Baxter Fire Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,14
+Baker,4B:Taylor Voting House,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,44
+Baker,4C:Center of the Agriculture,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,179
+Baker,4D:Cuyler Church Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,84
+Baker,5A:Glen Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,261
+Baker,6A:Olustee Baptist Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,20
+Baker,1A:Sanderson Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,604
+Baker,2A:Macclenny Baptist Gym,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,945
+Baker,3A:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1025
+Baker,4A:Baxter Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,62
+Baker,4B:Taylor Voting House,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,212
+Baker,4C:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,690
+Baker,4D:Cuyler Church Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,293
+Baker,5A:Glen Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1118
+Baker,6A:Olustee Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,86
+Baker,1A:Sanderson Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,630
+Baker,2A:Macclenny Baptist Gym,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,775
+Baker,3A:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,759
+Baker,4A:Baxter Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,60
+Baker,4B:Taylor Voting House,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,152
+Baker,4C:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,661
+Baker,4D:Cuyler Church Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,297
+Baker,5A:Glen Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,988
+Baker,6A:Olustee Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,61
+Baker,1A:Sanderson Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Baker,2A:Macclenny Baptist Gym,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,3
+Baker,3A:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Baker,4A:Baxter Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Baker,4B:Taylor Voting House,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Baker,4D:Cuyler Church Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,6
+Baker,6A:Olustee Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Baker,1A:Sanderson Community Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,166
+Baker,2A:Macclenny Baptist Gym,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,249
+Baker,3A:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,218
+Baker,4A:Baxter Fire Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,14
+Baker,4B:Taylor Voting House,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,50
+Baker,4C:Center of the Agriculture,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,196
+Baker,4D:Cuyler Church Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,93
+Baker,5A:Glen Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,292
+Baker,6A:Olustee Baptist Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,24
+Baker,1A:Sanderson Community Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,802
+Baker,2A:Macclenny Baptist Gym,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1246
+Baker,3A:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1308
+Baker,4A:Baxter Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,88
+Baker,4B:Taylor Voting House,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,284
+Baker,4C:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1024
+Baker,4D:Cuyler Church Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,404
+Baker,5A:Glen Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1464
+Baker,6A:Olustee Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,103
+Baker,1A:Sanderson Community Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,449
+Baker,2A:Macclenny Baptist Gym,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,495
+Baker,3A:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,501
+Baker,4A:Baxter Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,36
+Baker,4B:Taylor Voting House,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,88
+Baker,4C:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,340
+Baker,4D:Cuyler Church Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,193
+Baker,5A:Glen Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,679
+Baker,6A:Olustee Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,48
+Baker,1A:Sanderson Community Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,3A:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,4A:Baxter Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,4D:Cuyler Church Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Baker,6A:Olustee Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,150
+Baker,2A:Macclenny Baptist Gym,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,231
+Baker,3A:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,195
+Baker,4A:Baxter Fire Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,13
+Baker,4B:Taylor Voting House,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,42
+Baker,4C:Center of the Agriculture,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,185
+Baker,4D:Cuyler Church Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,86
+Baker,5A:Glen Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,260
+Baker,6A:Olustee Baptist Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,21
+Baker,1A:Sanderson Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,769
+Baker,2A:Macclenny Baptist Gym,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1165
+Baker,3A:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1212
+Baker,4A:Baxter Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,80
+Baker,4B:Taylor Voting House,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,277
+Baker,4C:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,961
+Baker,4D:Cuyler Church Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,378
+Baker,5A:Glen Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1390
+Baker,6A:Olustee Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,106
+Baker,1A:Sanderson Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,478
+Baker,2A:Macclenny Baptist Gym,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,532
+Baker,3A:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,570
+Baker,4A:Baxter Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,41
+Baker,4B:Taylor Voting House,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,89
+Baker,4C:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,377
+Baker,4D:Cuyler Church Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,211
+Baker,5A:Glen Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,719
+Baker,6A:Olustee Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,43
+Baker,1A:Sanderson Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Baker,3A:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Baker,4A:Baxter Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,2
+Baker,4D:Cuyler Church Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Baker,6A:Olustee Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,154
+Baker,2A:Macclenny Baptist Gym,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,275
+Baker,3A:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,221
+Baker,4A:Baxter Fire Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,16
+Baker,4B:Taylor Voting House,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,48
+Baker,4C:Center of the Agriculture,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,209
+Baker,4D:Cuyler Church Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,94
+Baker,5A:Glen Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,294
+Baker,6A:Olustee Baptist Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,23
+Baker,1A:Sanderson Community Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,792
+Baker,2A:Macclenny Baptist Gym,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1192
+Baker,3A:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1222
+Baker,4A:Baxter Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,82
+Baker,4B:Taylor Voting House,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,265
+Baker,4C:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,960
+Baker,4D:Cuyler Church Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,388
+Baker,5A:Glen Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1374
+Baker,6A:Olustee Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,109
+Baker,1A:Sanderson Community Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,447
+Baker,2A:Macclenny Baptist Gym,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,491
+Baker,3A:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,550
+Baker,4A:Baxter Fire Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,38
+Baker,4B:Taylor Voting House,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,97
+Baker,4C:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,372
+Baker,4D:Cuyler Church Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,200
+Baker,5A:Glen Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,717
+Baker,6A:Olustee Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,38
+Baker,1A:Sanderson Community Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Baker,3A:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Baker,4A:Baxter Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Baker,4D:Cuyler Church Hall,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
+Baker,5A:Glen Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
+Baker,6A:Olustee Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,162
+Baker,2A:Macclenny Baptist Gym,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,288
+Baker,3A:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,231
+Baker,4A:Baxter Fire Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,17
+Baker,4B:Taylor Voting House,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,52
+Baker,4C:Center of the Agriculture,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,216
+Baker,4D:Cuyler Church Hall,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,93
+Baker,5A:Glen Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,311
+Baker,6A:Olustee Baptist Hall,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,25
+Baker,1A:Sanderson Community Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,791
+Baker,2A:Macclenny Baptist Gym,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1219
+Baker,3A:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1278
+Baker,4A:Baxter Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,87
+Baker,4B:Taylor Voting House,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,289
+Baker,4C:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1012
+Baker,4D:Cuyler Church Hall,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,413
+Baker,5A:Glen Baptist Hall,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1449
+Baker,6A:Olustee Baptist Hall,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,102
+Baker,1A:Sanderson Community Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,452
+Baker,2A:Macclenny Baptist Gym,Retention of Bobby Long,First District Court of Appeal,NOP,No,471
+Baker,3A:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,NOP,No,501
+Baker,4A:Baxter Fire Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,33
+Baker,4B:Taylor Voting House,Retention of Bobby Long,First District Court of Appeal,NOP,No,74
+Baker,4C:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,NOP,No,327
+Baker,4D:Cuyler Church Hall,Retention of Bobby Long,First District Court of Appeal,NOP,No,172
+Baker,5A:Glen Baptist Hall,Retention of Bobby Long,First District Court of Appeal,NOP,No,644
+Baker,6A:Olustee Baptist Hall,Retention of Bobby Long,First District Court of Appeal,NOP,No,44
+Baker,1A:Sanderson Community Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Baker,3A:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Baker,4A:Baxter Fire Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Baker,4D:Cuyler Church Hall,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Baker,5A:Glen Baptist Hall,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Baker,6A:Olustee Baptist Hall,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,158
+Baker,2A:Macclenny Baptist Gym,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,281
+Baker,3A:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,225
+Baker,4A:Baxter Fire Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,17
+Baker,4B:Taylor Voting House,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,51
+Baker,4C:Center of the Agriculture,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,210
+Baker,4D:Cuyler Church Hall,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,97
+Baker,5A:Glen Baptist Hall,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,310
+Baker,6A:Olustee Baptist Hall,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,26
+Baker,1A:Sanderson Community Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,736
+Baker,2A:Macclenny Baptist Gym,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1136
+Baker,3A:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1160
+Baker,4A:Baxter Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,75
+Baker,4B:Taylor Voting House,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,250
+Baker,4C:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,877
+Baker,4D:Cuyler Church Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,361
+Baker,5A:Glen Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1310
+Baker,6A:Olustee Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,101
+Baker,1A:Sanderson Community Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,504
+Baker,2A:Macclenny Baptist Gym,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,556
+Baker,3A:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,614
+Baker,4A:Baxter Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,43
+Baker,4B:Taylor Voting House,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,115
+Baker,4C:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,449
+Baker,4D:Cuyler Church Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,227
+Baker,5A:Glen Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,774
+Baker,6A:Olustee Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,47
+Baker,1A:Sanderson Community Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,3A:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,4A:Baxter Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,4D:Cuyler Church Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,3
+Baker,6A:Olustee Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,161
+Baker,2A:Macclenny Baptist Gym,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,280
+Baker,3A:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,230
+Baker,4A:Baxter Fire Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,19
+Baker,4B:Taylor Voting House,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,49
+Baker,4C:Center of the Agriculture,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,223
+Baker,4D:Cuyler Church Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,95
+Baker,5A:Glen Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,317
+Baker,6A:Olustee Baptist Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,24
+Baker,1A:Sanderson Community Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,770
+Baker,2A:Macclenny Baptist Gym,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1169
+Baker,3A:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1210
+Baker,4A:Baxter Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,81
+Baker,4B:Taylor Voting House,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,280
+Baker,4C:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,983
+Baker,4D:Cuyler Church Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,389
+Baker,5A:Glen Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1392
+Baker,6A:Olustee Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,110
+Baker,1A:Sanderson Community Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,473
+Baker,2A:Macclenny Baptist Gym,Retention of Bo Winokur,First District Court of Appeal,NOP,No,523
+Baker,3A:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,NOP,No,565
+Baker,4A:Baxter Fire Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,41
+Baker,4B:Taylor Voting House,Retention of Bo Winokur,First District Court of Appeal,NOP,No,83
+Baker,4C:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,NOP,No,356
+Baker,4D:Cuyler Church Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,No,198
+Baker,5A:Glen Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,No,709
+Baker,6A:Olustee Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,No,39
+Baker,1A:Sanderson Community Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Baker,3A:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Baker,4A:Baxter Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Baker,4B:Taylor Voting House,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Baker,4C:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Baker,4D:Cuyler Church Hall,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,2
+Baker,6A:Olustee Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Baker,1A:Sanderson Community Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,158
+Baker,2A:Macclenny Baptist Gym,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,279
+Baker,3A:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,229
+Baker,4A:Baxter Fire Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,15
+Baker,4B:Taylor Voting House,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,51
+Baker,4C:Center of the Agriculture,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,210
+Baker,4D:Cuyler Church Hall,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,96
+Baker,5A:Glen Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,301
+Baker,6A:Olustee Baptist Hall,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,23
+Baker,1A:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1044
+Baker,2A:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1566
+Baker,3A:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1644
+Baker,4A:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,112
+Baker,4B:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,348
+Baker,4C:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1252
+Baker,4D:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,562
+Baker,5A:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,1968
+Baker,6A:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,131
+Baker,1A:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,210
+Baker,2A:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,194
+Baker,3A:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,190
+Baker,4A:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,12
+Baker,4B:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,25
+Baker,4C:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,106
+Baker,4D:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,42
+Baker,5A:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,155
+Baker,6A:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,24
+Baker,1A:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Baker,3A:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,1
+Baker,4A:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Baker,4B:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Baker,4C:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Baker,4D:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Baker,5A:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,1
+Baker,6A:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12","",OverVotes,0
+Baker,1A:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,147
+Baker,2A:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,212
+Baker,3A:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,169
+Baker,4A:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,13
+Baker,4B:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,41
+Baker,4C:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,191
+Baker,4D:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,79
+Baker,5A:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,280
+Baker,6A:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12","",UnderVotes,17
+Baker,1A:Sanderson Community Center,School Board,4,NOP,Mandi Canaday,739
+Baker,2A:Macclenny Baptist Gym,School Board,4,NOP,Mandi Canaday,1053
+Baker,3A:Center of the Agriculture,School Board,4,NOP,Mandi Canaday,960
+Baker,4A:Baxter Fire Station,School Board,4,NOP,Mandi Canaday,67
+Baker,4B:Taylor Voting House,School Board,4,NOP,Mandi Canaday,235
+Baker,4C:Center of the Agriculture,School Board,4,NOP,Mandi Canaday,857
+Baker,4D:Cuyler Church Hall,School Board,4,NOP,Mandi Canaday,372
+Baker,5A:Glen Baptist Hall,School Board,4,NOP,Mandi Canaday,1250
+Baker,6A:Olustee Baptist Hall,School Board,4,NOP,Mandi Canaday,94
+Baker,1A:Sanderson Community Center,School Board,4,NOP,Michele Hodges,615
+Baker,2A:Macclenny Baptist Gym,School Board,4,NOP,Michele Hodges,832
+Baker,3A:Center of the Agriculture,School Board,4,NOP,Michele Hodges,964
+Baker,4A:Baxter Fire Station,School Board,4,NOP,Michele Hodges,65
+Baker,4B:Taylor Voting House,School Board,4,NOP,Michele Hodges,160
+Baker,4C:Center of the Agriculture,School Board,4,NOP,Michele Hodges,614
+Baker,4D:Cuyler Church Hall,School Board,4,NOP,Michele Hodges,277
+Baker,5A:Glen Baptist Hall,School Board,4,NOP,Michele Hodges,1049
+Baker,6A:Olustee Baptist Hall,School Board,4,NOP,Michele Hodges,67
+Baker,1A:Sanderson Community Center,School Board,4,"",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,School Board,4,"",OverVotes,0
+Baker,3A:Center of the Agriculture,School Board,4,"",OverVotes,0
+Baker,4A:Baxter Fire Station,School Board,4,"",OverVotes,0
+Baker,4B:Taylor Voting House,School Board,4,"",OverVotes,0
+Baker,4C:Center of the Agriculture,School Board,4,"",OverVotes,0
+Baker,4D:Cuyler Church Hall,School Board,4,"",OverVotes,0
+Baker,5A:Glen Baptist Hall,School Board,4,"",OverVotes,0
+Baker,6A:Olustee Baptist Hall,School Board,4,"",OverVotes,0
+Baker,1A:Sanderson Community Center,School Board,4,"",UnderVotes,47
+Baker,2A:Macclenny Baptist Gym,School Board,4,"",UnderVotes,87
+Baker,3A:Center of the Agriculture,School Board,4,"",UnderVotes,80
+Baker,4A:Baxter Fire Station,School Board,4,"",UnderVotes,5
+Baker,4B:Taylor Voting House,School Board,4,"",UnderVotes,19
+Baker,4C:Center of the Agriculture,School Board,4,"",UnderVotes,78
+Baker,4D:Cuyler Church Hall,School Board,4,"",UnderVotes,34
+Baker,5A:Glen Baptist Hall,School Board,4,"",UnderVotes,105
+Baker,6A:Olustee Baptist Hall,School Board,4,"",UnderVotes,11
+Baker,1A:Sanderson Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,691
+Baker,2A:Macclenny Baptist Gym,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,993
+Baker,3A:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1077
+Baker,4A:Baxter Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,66
+Baker,4B:Taylor Voting House,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,214
+Baker,4C:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,762
+Baker,4D:Cuyler Church Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,314
+Baker,5A:Glen Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1230
+Baker,6A:Olustee Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,88
+Baker,1A:Sanderson Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,593
+Baker,2A:Macclenny Baptist Gym,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,808
+Baker,3A:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,776
+Baker,4A:Baxter Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,60
+Baker,4B:Taylor Voting House,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,170
+Baker,4C:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,629
+Baker,4D:Cuyler Church Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,310
+Baker,5A:Glen Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,956
+Baker,6A:Olustee Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,70
+Baker,1A:Sanderson Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Baker,3A:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Baker,4A:Baxter Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Baker,4B:Taylor Voting House,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,4
+Baker,4D:Cuyler Church Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Baker,5A:Glen Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Baker,6A:Olustee Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,117
+Baker,2A:Macclenny Baptist Gym,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,171
+Baker,3A:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,151
+Baker,4A:Baxter Fire Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,11
+Baker,4B:Taylor Voting House,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,30
+Baker,4C:Center of the Agriculture,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,154
+Baker,4D:Cuyler Church Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,58
+Baker,5A:Glen Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,217
+Baker,6A:Olustee Baptist Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,14
+Baker,1A:Sanderson Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,662
+Baker,2A:Macclenny Baptist Gym,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1003
+Baker,3A:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1021
+Baker,4A:Baxter Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,59
+Baker,4B:Taylor Voting House,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,216
+Baker,4C:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,760
+Baker,4D:Cuyler Church Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,317
+Baker,5A:Glen Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1210
+Baker,6A:Olustee Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,97
+Baker,1A:Sanderson Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,614
+Baker,2A:Macclenny Baptist Gym,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,780
+Baker,3A:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,831
+Baker,4A:Baxter Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,69
+Baker,4B:Taylor Voting House,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,167
+Baker,4C:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,622
+Baker,4D:Cuyler Church Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,298
+Baker,5A:Glen Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,980
+Baker,6A:Olustee Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,64
+Baker,1A:Sanderson Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Baker,2A:Macclenny Baptist Gym,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Baker,3A:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Baker,4A:Baxter Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Baker,4B:Taylor Voting House,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,2
+Baker,4D:Cuyler Church Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Baker,5A:Glen Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Baker,6A:Olustee Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,125
+Baker,2A:Macclenny Baptist Gym,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,188
+Baker,3A:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,152
+Baker,4A:Baxter Fire Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,9
+Baker,4B:Taylor Voting House,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,31
+Baker,4C:Center of the Agriculture,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,165
+Baker,4D:Cuyler Church Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,68
+Baker,5A:Glen Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,214
+Baker,6A:Olustee Baptist Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,11
+Baker,1A:Sanderson Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,722
+Baker,2A:Macclenny Baptist Gym,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1140
+Baker,3A:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1173
+Baker,4A:Baxter Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,65
+Baker,4B:Taylor Voting House,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,231
+Baker,4C:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,822
+Baker,4D:Cuyler Church Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,372
+Baker,5A:Glen Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1266
+Baker,6A:Olustee Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,92
+Baker,1A:Sanderson Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,587
+Baker,2A:Macclenny Baptist Gym,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,723
+Baker,3A:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,729
+Baker,4A:Baxter Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,65
+Baker,4B:Taylor Voting House,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,163
+Baker,4C:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,632
+Baker,4D:Cuyler Church Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,262
+Baker,5A:Glen Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,999
+Baker,6A:Olustee Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,69
+Baker,1A:Sanderson Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Baker,2A:Macclenny Baptist Gym,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Baker,3A:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Baker,4A:Baxter Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Baker,4B:Taylor Voting House,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Baker,4C:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Baker,4D:Cuyler Church Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Baker,5A:Glen Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
+Baker,6A:Olustee Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Baker,1A:Sanderson Community Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,91
+Baker,2A:Macclenny Baptist Gym,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,109
+Baker,3A:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,101
+Baker,4A:Baxter Fire Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
+Baker,4B:Taylor Voting House,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,20
+Baker,4C:Center of the Agriculture,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,95
+Baker,4D:Cuyler Church Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,49
+Baker,5A:Glen Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,137
+Baker,6A:Olustee Baptist Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,11
+Baker,1A:Sanderson Community Center,Registered Voters,"","","",2370
+Baker,2A:Macclenny Baptist Gym,Registered Voters,"","","",3523
+Baker,3A:Center of the Agriculture,Registered Voters,"","","",3472
+Baker,4A:Baxter Fire Station,Registered Voters,"","","",217
+Baker,4B:Taylor Voting House,Registered Voters,"","","",677
+Baker,4C:Center of the Agriculture,Registered Voters,"","","",2198
+Baker,4D:Cuyler Church Hall,Registered Voters,"","","",1121
+Baker,5A:Glen Baptist Hall,Registered Voters,"","","",3635
+Baker,6A:Olustee Baptist Hall,Registered Voters,"","","",299

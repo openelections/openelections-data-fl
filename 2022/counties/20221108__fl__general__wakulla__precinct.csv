@@ -1,719 +1,1249 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Wakulla,01 Wakulla Station,U.S. Senate,"",REP,Marco Rubio,1296,,,
-Wakulla,10 Ochlockonee,U.S. Senate,"",REP,Marco Rubio,269,,,
-Wakulla,11 Bethel Church,U.S. Senate,"",REP,Marco Rubio,892,,,
-Wakulla,12 Shadeville,U.S. Senate,"",REP,Marco Rubio,992,,,
-Wakulla,02 Crawfordville,U.S. Senate,"",REP,Marco Rubio,2732,1210,1122,400
-Wakulla,03 Sopchoppy,U.S. Senate,"",REP,Marco Rubio,668,,,
-Wakulla,04 Smith Creek,U.S. Senate,"",REP,Marco Rubio,150,,,
-Wakulla,05 St. Marks,U.S. Senate,"",REP,Marco Rubio,195,,,
-Wakulla,06 Medart,U.S. Senate,"",REP,Marco Rubio,842,,,
-Wakulla,07 Ivan,U.S. Senate,"",REP,Marco Rubio,1750,722,662,366
-Wakulla,08 Shell Point,U.S. Senate,"",REP,Marco Rubio,429,,,
-Wakulla,09 Panacea,U.S. Senate,"",REP,Marco Rubio,270,,,
-Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,Val Demings,625,126,240,259
-Wakulla,10 Ochlockonee,U.S. Senate,"",DEM,Val Demings,97,,,
-Wakulla,11 Bethel Church,U.S. Senate,"",DEM,Val Demings,436,,,
-Wakulla,12 Shadeville,U.S. Senate,"",DEM,Val Demings,466,,,
-Wakulla,02 Crawfordville,U.S. Senate,"",DEM,Val Demings,1180,391,399,390
-Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,Val Demings,285,,,
-Wakulla,04 Smith Creek,U.S. Senate,"",DEM,Val Demings,18,,,
-Wakulla,05 St. Marks,U.S. Senate,"",DEM,Val Demings,73,,,
-Wakulla,06 Medart,U.S. Senate,"",DEM,Val Demings,220,,,
-Wakulla,07 Ivan,U.S. Senate,"",DEM,Val Demings,657,,,
-Wakulla,08 Shell Point,U.S. Senate,"",DEM,Val Demings,200,,,
-Wakulla,09 Panacea,U.S. Senate,"",DEM,Val Demings,86,,,
-Wakulla,01 Wakulla Station,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
-Wakulla,10 Ochlockonee,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Wakulla,11 Bethel Church,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
-Wakulla,12 Shadeville,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Wakulla,02 Crawfordville,U.S. Senate,"",LPF,Dennis Misigoy,23,,,
-Wakulla,03 Sopchoppy,U.S. Senate,"",LPF,Dennis Misigoy,5,,,
-Wakulla,04 Smith Creek,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Wakulla,05 St. Marks,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Wakulla,06 Medart,U.S. Senate,"",LPF,Dennis Misigoy,5,,,
-Wakulla,07 Ivan,U.S. Senate,"",LPF,Dennis Misigoy,16,,,
-Wakulla,08 Shell Point,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Wakulla,09 Panacea,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Wakulla,01 Wakulla Station,U.S. Senate,"",NPA,Steven B. Grant,9,,,
-Wakulla,10 Ochlockonee,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Wakulla,11 Bethel Church,U.S. Senate,"",NPA,Steven B. Grant,4,,,
-Wakulla,12 Shadeville,U.S. Senate,"",NPA,Steven B. Grant,16,,,
-Wakulla,02 Crawfordville,U.S. Senate,"",NPA,Steven B. Grant,16,,,
-Wakulla,03 Sopchoppy,U.S. Senate,"",NPA,Steven B. Grant,4,,,
-Wakulla,04 Smith Creek,U.S. Senate,"",NPA,Steven B. Grant,0,0,0,0
-Wakulla,05 St. Marks,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Wakulla,06 Medart,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Wakulla,07 Ivan,U.S. Senate,"",NPA,Steven B. Grant,4,,,
-Wakulla,08 Shell Point,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Wakulla,09 Panacea,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Wakulla,01 Wakulla Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,5,,,
-Wakulla,10 Ochlockonee,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Wakulla,11 Bethel Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Wakulla,12 Shadeville,U.S. Senate,"",NPA,Tuan TQ Nguyen,5,,,
-Wakulla,02 Crawfordville,U.S. Senate,"",NPA,Tuan TQ Nguyen,8,,,
-Wakulla,03 Sopchoppy,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
-Wakulla,04 Smith Creek,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Wakulla,05 St. Marks,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Wakulla,06 Medart,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
-Wakulla,07 Ivan,U.S. Senate,"",NPA,Tuan TQ Nguyen,7,,,
-Wakulla,08 Shell Point,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Wakulla,09 Panacea,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Wakulla,01 Wakulla Station,U.S. Senate,"",NON,WRITE-IN,2,,,
-Wakulla,10 Ochlockonee,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,11 Bethel Church,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,12 Shadeville,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,02 Crawfordville,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,03 Sopchoppy,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,04 Smith Creek,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,05 St. Marks,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,06 Medart,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,07 Ivan,U.S. Senate,"",NON,WRITE-IN,4,,,
-Wakulla,08 Shell Point,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,09 Panacea,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Wakulla,01 Wakulla Station,U.S. House,2,REP,Neal Dunn,1342,,,
-Wakulla,10 Ochlockonee,U.S. House,2,REP,Neal Dunn,276,,,
-Wakulla,11 Bethel Church,U.S. House,2,REP,Neal Dunn,906,,,
-Wakulla,12 Shadeville,U.S. House,2,REP,Neal Dunn,1031,,,
-Wakulla,02 Crawfordville,U.S. House,2,REP,Neal Dunn,2797,1223,1134,440
-Wakulla,03 Sopchoppy,U.S. House,2,REP,Neal Dunn,675,,,
-Wakulla,04 Smith Creek,U.S. House,2,REP,Neal Dunn,151,,,
-Wakulla,05 St. Marks,U.S. House,2,REP,Neal Dunn,203,,,
-Wakulla,06 Medart,U.S. House,2,REP,Neal Dunn,846,,,
-Wakulla,07 Ivan,U.S. House,2,REP,Neal Dunn,1784,739,671,374
-Wakulla,08 Shell Point,U.S. House,2,REP,Neal Dunn,431,,,
-Wakulla,09 Panacea,U.S. House,2,REP,Neal Dunn,278,,,
-Wakulla,01 Wakulla Station,U.S. House,2,DEM,Al Lawson,594,116,225,253
-Wakulla,10 Ochlockonee,U.S. House,2,DEM,Al Lawson,94,,,
-Wakulla,11 Bethel Church,U.S. House,2,DEM,Al Lawson,429,,,
-Wakulla,12 Shadeville,U.S. House,2,DEM,Al Lawson,455,,,
-Wakulla,02 Crawfordville,U.S. House,2,DEM,Al Lawson,1156,394,400,362
-Wakulla,03 Sopchoppy,U.S. House,2,DEM,Al Lawson,288,,,
-Wakulla,04 Smith Creek,U.S. House,2,DEM,Al Lawson,17,,,
-Wakulla,05 St. Marks,U.S. House,2,DEM,Al Lawson,70,,,
-Wakulla,06 Medart,U.S. House,2,DEM,Al Lawson,228,,,
-Wakulla,07 Ivan,U.S. House,2,DEM,Al Lawson,648,,,
-Wakulla,08 Shell Point,U.S. House,2,DEM,Al Lawson,199,,,
-Wakulla,09 Panacea,U.S. House,2,DEM,Al Lawson,80,,,
-Wakulla,01 Wakulla Station,Governor,"",REP,Ron DeSantis,1379,,,
-Wakulla,10 Ochlockonee,Governor,"",REP,Ron DeSantis,277,,,
-Wakulla,11 Bethel Church,Governor,"",REP,Ron DeSantis,925,,,
-Wakulla,12 Shadeville,Governor,"",REP,Ron DeSantis,1063,,,
-Wakulla,02 Crawfordville,Governor,"",REP,Ron DeSantis,2878,1249,1183,446
-Wakulla,03 Sopchoppy,Governor,"",REP,Ron DeSantis,703,,,
-Wakulla,04 Smith Creek,Governor,"",REP,Ron DeSantis,155,,,
-Wakulla,05 St. Marks,Governor,"",REP,Ron DeSantis,209,,,
-Wakulla,06 Medart,Governor,"",REP,Ron DeSantis,870,,,
-Wakulla,07 Ivan,Governor,"",REP,Ron DeSantis,1844,758,699,387
-Wakulla,08 Shell Point,Governor,"",REP,Ron DeSantis,442,,,
-Wakulla,09 Panacea,Governor,"",REP,Ron DeSantis,288,,,
-Wakulla,01 Wakulla Station,Governor,"",DEM,Charlie Crist,561,113,198,250
-Wakulla,10 Ochlockonee,Governor,"",DEM,Charlie Crist,96,,,
-Wakulla,11 Bethel Church,Governor,"",DEM,Charlie Crist,416,,,
-Wakulla,12 Shadeville,Governor,"",DEM,Charlie Crist,420,,,
-Wakulla,02 Crawfordville,Governor,"",DEM,Charlie Crist,1057,361,349,347
-Wakulla,03 Sopchoppy,Governor,"",DEM,Charlie Crist,253,,,
-Wakulla,04 Smith Creek,Governor,"",DEM,Charlie Crist,13,,,
-Wakulla,05 St. Marks,Governor,"",DEM,Charlie Crist,65,,,
-Wakulla,06 Medart,Governor,"",DEM,Charlie Crist,202,,,
-Wakulla,07 Ivan,Governor,"",DEM,Charlie Crist,579,,,
-Wakulla,08 Shell Point,Governor,"",DEM,Charlie Crist,188,,,
-Wakulla,09 Panacea,Governor,"",DEM,Charlie Crist,70,,,
-Wakulla,01 Wakulla Station,Governor,"",LPF,Hector Roos,6,,,
-Wakulla,10 Ochlockonee,Governor,"",LPF,Hector Roos,0,0,0,0
-Wakulla,11 Bethel Church,Governor,"",LPF,Hector Roos,1,,,
-Wakulla,12 Shadeville,Governor,"",LPF,Hector Roos,2,,,
-Wakulla,02 Crawfordville,Governor,"",LPF,Hector Roos,15,,,
-Wakulla,03 Sopchoppy,Governor,"",LPF,Hector Roos,3,,,
-Wakulla,04 Smith Creek,Governor,"",LPF,Hector Roos,1,,,
-Wakulla,05 St. Marks,Governor,"",LPF,Hector Roos,0,0,0,0
-Wakulla,06 Medart,Governor,"",LPF,Hector Roos,2,,,
-Wakulla,07 Ivan,Governor,"",LPF,Hector Roos,7,,,
-Wakulla,08 Shell Point,Governor,"",LPF,Hector Roos,2,,,
-Wakulla,09 Panacea,Governor,"",LPF,Hector Roos,3,,,
-Wakulla,01 Wakulla Station,Governor,"",NPA,Carmen Jackie Gimenez,8,,,
-Wakulla,10 Ochlockonee,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Wakulla,11 Bethel Church,Governor,"",NPA,Carmen Jackie Gimenez,3,,,
-Wakulla,12 Shadeville,Governor,"",NPA,Carmen Jackie Gimenez,9,,,
-Wakulla,02 Crawfordville,Governor,"",NPA,Carmen Jackie Gimenez,14,,,
-Wakulla,03 Sopchoppy,Governor,"",NPA,Carmen Jackie Gimenez,9,,,
-Wakulla,04 Smith Creek,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Wakulla,05 St. Marks,Governor,"",NPA,Carmen Jackie Gimenez,0,0,0,0
-Wakulla,06 Medart,Governor,"",NPA,Carmen Jackie Gimenez,5,,,
-Wakulla,07 Ivan,Governor,"",NPA,Carmen Jackie Gimenez,18,,,
-Wakulla,08 Shell Point,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Wakulla,09 Panacea,Governor,"",NPA,Carmen Jackie Gimenez,1,,,
-Wakulla,01 Wakulla Station,Attorney General,"",REP,Ashley Moody,1411,,,
-Wakulla,10 Ochlockonee,Attorney General,"",REP,Ashley Moody,285,,,
-Wakulla,11 Bethel Church,Attorney General,"",REP,Ashley Moody,950,,,
-Wakulla,12 Shadeville,Attorney General,"",REP,Ashley Moody,1071,,,
-Wakulla,02 Crawfordville,Attorney General,"",REP,Ashley Moody,2966,1290,1205,471
-Wakulla,03 Sopchoppy,Attorney General,"",REP,Ashley Moody,710,,,
-Wakulla,04 Smith Creek,Attorney General,"",REP,Ashley Moody,156,,,
-Wakulla,05 St. Marks,Attorney General,"",REP,Ashley Moody,207,,,
-Wakulla,06 Medart,Attorney General,"",REP,Ashley Moody,869,,,
-Wakulla,07 Ivan,Attorney General,"",REP,Ashley Moody,1871,762,706,403
-Wakulla,08 Shell Point,Attorney General,"",REP,Ashley Moody,454,,,
-Wakulla,09 Panacea,Attorney General,"",REP,Ashley Moody,286,,,
-Wakulla,01 Wakulla Station,Attorney General,"",DEM,Aramis Ayala,520,,,
-Wakulla,10 Ochlockonee,Attorney General,"",DEM,Aramis Ayala,79,,,
-Wakulla,11 Bethel Church,Attorney General,"",DEM,Aramis Ayala,385,,,
-Wakulla,12 Shadeville,Attorney General,"",DEM,Aramis Ayala,405,,,
-Wakulla,02 Crawfordville,Attorney General,"",DEM,Aramis Ayala,976,325,330,321
-Wakulla,03 Sopchoppy,Attorney General,"",DEM,Aramis Ayala,247,,,
-Wakulla,04 Smith Creek,Attorney General,"",DEM,Aramis Ayala,11,,,
-Wakulla,05 St. Marks,Attorney General,"",DEM,Aramis Ayala,65,,,
-Wakulla,06 Medart,Attorney General,"",DEM,Aramis Ayala,192,,,
-Wakulla,07 Ivan,Attorney General,"",DEM,Aramis Ayala,555,,,
-Wakulla,08 Shell Point,Attorney General,"",DEM,Aramis Ayala,173,,,
-Wakulla,09 Panacea,Attorney General,"",DEM,Aramis Ayala,68,,,
-Wakulla,01 Wakulla Station,Chief Financial Officer,"",REP,Jimmy Patronis,1375,,,
-Wakulla,10 Ochlockonee,Chief Financial Officer,"",REP,Jimmy Patronis,287,,,
-Wakulla,11 Bethel Church,Chief Financial Officer,"",REP,Jimmy Patronis,929,,,
-Wakulla,12 Shadeville,Chief Financial Officer,"",REP,Jimmy Patronis,1052,,,
-Wakulla,02 Crawfordville,Chief Financial Officer,"",REP,Jimmy Patronis,2909,1272,1179,458
-Wakulla,03 Sopchoppy,Chief Financial Officer,"",REP,Jimmy Patronis,702,,,
-Wakulla,04 Smith Creek,Chief Financial Officer,"",REP,Jimmy Patronis,151,,,
-Wakulla,05 St. Marks,Chief Financial Officer,"",REP,Jimmy Patronis,210,,,
-Wakulla,06 Medart,Chief Financial Officer,"",REP,Jimmy Patronis,858,,,
-Wakulla,07 Ivan,Chief Financial Officer,"",REP,Jimmy Patronis,1840,753,692,395
-Wakulla,08 Shell Point,Chief Financial Officer,"",REP,Jimmy Patronis,448,,,
-Wakulla,09 Panacea,Chief Financial Officer,"",REP,Jimmy Patronis,290,,,
-Wakulla,01 Wakulla Station,Chief Financial Officer,"",DEM,Adam Hattersley,544,109,201,234
-Wakulla,10 Ochlockonee,Chief Financial Officer,"",DEM,Adam Hattersley,74,,,
-Wakulla,11 Bethel Church,Chief Financial Officer,"",DEM,Adam Hattersley,397,,,
-Wakulla,12 Shadeville,Chief Financial Officer,"",DEM,Adam Hattersley,426,,,
-Wakulla,02 Crawfordville,Chief Financial Officer,"",DEM,Adam Hattersley,1022,338,352,332
-Wakulla,03 Sopchoppy,Chief Financial Officer,"",DEM,Adam Hattersley,254,,,
-Wakulla,04 Smith Creek,Chief Financial Officer,"",DEM,Adam Hattersley,15,,,
-Wakulla,05 St. Marks,Chief Financial Officer,"",DEM,Adam Hattersley,61,,,
-Wakulla,06 Medart,Chief Financial Officer,"",DEM,Adam Hattersley,204,,,
-Wakulla,07 Ivan,Chief Financial Officer,"",DEM,Adam Hattersley,571,,,
-Wakulla,08 Shell Point,Chief Financial Officer,"",DEM,Adam Hattersley,176,,,
-Wakulla,09 Panacea,Chief Financial Officer,"",DEM,Adam Hattersley,65,,,
-Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",REP,Wilton Simpson,1356,,,
-Wakulla,10 Ochlockonee,Commissioner of Agriculture,"",REP,Wilton Simpson,283,,,
-Wakulla,11 Bethel Church,Commissioner of Agriculture,"",REP,Wilton Simpson,912,,,
-Wakulla,12 Shadeville,Commissioner of Agriculture,"",REP,Wilton Simpson,1018,,,
-Wakulla,02 Crawfordville,Commissioner of Agriculture,"",REP,Wilton Simpson,2855,1250,1155,450
-Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",REP,Wilton Simpson,687,,,
-Wakulla,04 Smith Creek,Commissioner of Agriculture,"",REP,Wilton Simpson,152,,,
-Wakulla,05 St. Marks,Commissioner of Agriculture,"",REP,Wilton Simpson,210,,,
-Wakulla,06 Medart,Commissioner of Agriculture,"",REP,Wilton Simpson,855,,,
-Wakulla,07 Ivan,Commissioner of Agriculture,"",REP,Wilton Simpson,1816,737,686,393
-Wakulla,08 Shell Point,Commissioner of Agriculture,"",REP,Wilton Simpson,440,,,
-Wakulla,09 Panacea,Commissioner of Agriculture,"",REP,Wilton Simpson,285,,,
-Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,564,,,
-Wakulla,10 Ochlockonee,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82,,,
-Wakulla,11 Bethel Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,414,,,
-Wakulla,12 Shadeville,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,451,107,175,169
-Wakulla,02 Crawfordville,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1074,356,372,346
-Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,267,,,
-Wakulla,04 Smith Creek,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,13,,,
-Wakulla,05 St. Marks,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,60,,,
-Wakulla,06 Medart,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,205,,,
-Wakulla,07 Ivan,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,592,,,
-Wakulla,08 Shell Point,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,180,,,
-Wakulla,09 Panacea,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,69,,,
-Wakulla,01 Wakulla Station,State Senate,3,REP,Corey Simon,1306,,,
-Wakulla,10 Ochlockonee,State Senate,3,REP,Corey Simon,267,,,
-Wakulla,11 Bethel Church,State Senate,3,REP,Corey Simon,889,,,
-Wakulla,12 Shadeville,State Senate,3,REP,Corey Simon,1017,,,
-Wakulla,02 Crawfordville,State Senate,3,REP,Corey Simon,2760,1208,1131,421
-Wakulla,03 Sopchoppy,State Senate,3,REP,Corey Simon,675,,,
-Wakulla,04 Smith Creek,State Senate,3,REP,Corey Simon,152,,,
-Wakulla,05 St. Marks,State Senate,3,REP,Corey Simon,196,,,
-Wakulla,06 Medart,State Senate,3,REP,Corey Simon,835,,,
-Wakulla,07 Ivan,State Senate,3,REP,Corey Simon,1771,726,685,360
-Wakulla,08 Shell Point,State Senate,3,REP,Corey Simon,433,,,
-Wakulla,09 Panacea,State Senate,3,REP,Corey Simon,271,,,
-Wakulla,01 Wakulla Station,State Senate,3,DEM,Loranne Ausley,605,121,233,251
-Wakulla,10 Ochlockonee,State Senate,3,DEM,Loranne Ausley,99,,,
-Wakulla,11 Bethel Church,State Senate,3,DEM,Loranne Ausley,418,,,
-Wakulla,12 Shadeville,State Senate,3,DEM,Loranne Ausley,444,,,
-Wakulla,02 Crawfordville,State Senate,3,DEM,Loranne Ausley,1145,389,391,365
-Wakulla,03 Sopchoppy,State Senate,3,DEM,Loranne Ausley,276,,,
-Wakulla,04 Smith Creek,State Senate,3,DEM,Loranne Ausley,15,,,
-Wakulla,05 St. Marks,State Senate,3,DEM,Loranne Ausley,69,,,
-Wakulla,06 Medart,State Senate,3,DEM,Loranne Ausley,218,,,
-Wakulla,07 Ivan,State Senate,3,DEM,Loranne Ausley,636,,,
-Wakulla,08 Shell Point,State Senate,3,DEM,Loranne Ausley,191,,,
-Wakulla,09 Panacea,State Senate,3,DEM,Loranne Ausley,81,,,
-Wakulla,01 Wakulla Station,County Commissioner,2,REP,Fred Nichols II,1253,,,
-Wakulla,10 Ochlockonee,County Commissioner,2,REP,Fred Nichols II,249,,,
-Wakulla,11 Bethel Church,County Commissioner,2,REP,Fred Nichols II,834,,,
-Wakulla,12 Shadeville,County Commissioner,2,REP,Fred Nichols II,955,,,
-Wakulla,02 Crawfordville,County Commissioner,2,REP,Fred Nichols II,2627,1118,1098,411
-Wakulla,03 Sopchoppy,County Commissioner,2,REP,Fred Nichols II,639,,,
-Wakulla,04 Smith Creek,County Commissioner,2,REP,Fred Nichols II,131,,,
-Wakulla,05 St. Marks,County Commissioner,2,REP,Fred Nichols II,183,,,
-Wakulla,06 Medart,County Commissioner,2,REP,Fred Nichols II,822,,,
-Wakulla,07 Ivan,County Commissioner,2,REP,Fred Nichols II,1632,656,632,344
-Wakulla,08 Shell Point,County Commissioner,2,REP,Fred Nichols II,379,,,
-Wakulla,09 Panacea,County Commissioner,2,REP,Fred Nichols II,256,,,
-Wakulla,01 Wakulla Station,County Commissioner,2,DEM,John Quinton,660,136,272,252
-Wakulla,10 Ochlockonee,County Commissioner,2,DEM,John Quinton,116,,,
-Wakulla,11 Bethel Church,County Commissioner,2,DEM,John Quinton,484,,,
-Wakulla,12 Shadeville,County Commissioner,2,DEM,John Quinton,514,,,
-Wakulla,02 Crawfordville,County Commissioner,2,DEM,John Quinton,1297,491,425,381
-Wakulla,03 Sopchoppy,County Commissioner,2,DEM,John Quinton,312,,,
-Wakulla,04 Smith Creek,County Commissioner,2,DEM,John Quinton,32,,,
-Wakulla,05 St. Marks,County Commissioner,2,DEM,John Quinton,83,,,
-Wakulla,06 Medart,County Commissioner,2,DEM,John Quinton,243,,,
-Wakulla,07 Ivan,County Commissioner,2,DEM,John Quinton,776,296,232,248
-Wakulla,08 Shell Point,County Commissioner,2,DEM,John Quinton,240,,,
-Wakulla,09 Panacea,County Commissioner,2,DEM,John Quinton,101,,,
-Wakulla,01 Wakulla Station,County Commissioner,4,REP,Quincee Messersmith,1128,,,
-Wakulla,10 Ochlockonee,County Commissioner,4,REP,Quincee Messersmith,238,,,
-Wakulla,11 Bethel Church,County Commissioner,4,REP,Quincee Messersmith,712,,,
-Wakulla,12 Shadeville,County Commissioner,4,REP,Quincee Messersmith,769,,,
-Wakulla,02 Crawfordville,County Commissioner,4,REP,Quincee Messersmith,2268,974,898,396
-Wakulla,03 Sopchoppy,County Commissioner,4,REP,Quincee Messersmith,574,,,
-Wakulla,04 Smith Creek,County Commissioner,4,REP,Quincee Messersmith,122,,,
-Wakulla,05 St. Marks,County Commissioner,4,REP,Quincee Messersmith,185,,,
-Wakulla,06 Medart,County Commissioner,4,REP,Quincee Messersmith,684,,,
-Wakulla,07 Ivan,County Commissioner,4,REP,Quincee Messersmith,1463,575,546,342
-Wakulla,08 Shell Point,County Commissioner,4,REP,Quincee Messersmith,359,,,
-Wakulla,09 Panacea,County Commissioner,4,REP,Quincee Messersmith,223,,,
-Wakulla,01 Wakulla Station,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",784,156,366,262
-Wakulla,10 Ochlockonee,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",123,,,
-Wakulla,11 Bethel Church,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",614,,,
-Wakulla,12 Shadeville,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",704,,,
-Wakulla,02 Crawfordville,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",1643,622,624,397
-Wakulla,03 Sopchoppy,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",380,,,
-Wakulla,04 Smith Creek,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",41,,,
-Wakulla,05 St. Marks,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",81,,,
-Wakulla,06 Medart,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",376,,,
-Wakulla,07 Ivan,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",953,,,
-Wakulla,08 Shell Point,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",266,,,
-Wakulla,09 Panacea,County Commissioner,4,DEM,"Samuel G. McGrew, Jr.",133,,,
-Wakulla,01 Wakulla Station,County Commissioner,4,NON,WRITE-IN,2,,,
-Wakulla,10 Ochlockonee,County Commissioner,4,NON,WRITE-IN,1,,,
-Wakulla,11 Bethel Church,County Commissioner,4,NON,WRITE-IN,3,,,
-Wakulla,12 Shadeville,County Commissioner,4,NON,WRITE-IN,2,,,
-Wakulla,02 Crawfordville,County Commissioner,4,NON,WRITE-IN,14,,,
-Wakulla,03 Sopchoppy,County Commissioner,4,NON,WRITE-IN,2,,,
-Wakulla,04 Smith Creek,County Commissioner,4,NON,WRITE-IN,0,0,0,0
-Wakulla,05 St. Marks,County Commissioner,4,NON,WRITE-IN,2,,,
-Wakulla,06 Medart,County Commissioner,4,NON,WRITE-IN,4,,,
-Wakulla,07 Ivan,County Commissioner,4,NON,WRITE-IN,3,,,
-Wakulla,08 Shell Point,County Commissioner,4,NON,WRITE-IN,3,,,
-Wakulla,09 Panacea,County Commissioner,4,NON,WRITE-IN,1,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,1115,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,241,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,809,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,870,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,2378,994,934,450
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,547,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,98,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,165,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,624,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,1458,592,512,354
-Wakulla,08 Shell Point,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,363,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Charles T. Canady,"",NON,Yes,193,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Charles T. Canady,"",NON,No,622,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Charles T. Canady,"",NON,No,81,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Charles T. Canady,"",NON,No,414,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Charles T. Canady,"",NON,No,487,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Charles T. Canady,"",NON,No,1184,465,452,267
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Charles T. Canady,"",NON,No,311,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Charles T. Canady,"",NON,No,52,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Charles T. Canady,"",NON,No,71,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Charles T. Canady,"",NON,No,314,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Charles T. Canady,"",NON,No,760,,,
-Wakulla,08 Shell Point,Justice of the Supreme Court - Charles T. Canady,"",NON,No,182,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Charles T. Canady,"",NON,No,125,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,1099,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,241,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,809,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,890,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,2390,1023,924,443
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,548,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,103,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,163,,,
-Wakulla,06 Medart,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,619,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,1462,602,512,348
-Wakulla,08 Shell Point,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,351,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - John D. Couriel,"",NON,Yes,205,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - John D. Couriel,"",NON,No,631,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - John D. Couriel,"",NON,No,81,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - John D. Couriel,"",NON,No,406,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - John D. Couriel,"",NON,No,466,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - John D. Couriel,"",NON,No,1167,433,460,274
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - John D. Couriel,"",NON,No,306,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - John D. Couriel,"",NON,No,47,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - John D. Couriel,"",NON,No,72,,,
-Wakulla,06 Medart,Justice of the Supreme Court - John D. Couriel,"",NON,No,310,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - John D. Couriel,"",NON,No,748,,,
-Wakulla,08 Shell Point,Justice of the Supreme Court - John D. Couriel,"",NON,No,183,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - John D. Couriel,"",NON,No,113,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,1101,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,236,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,806,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,891,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,2395,1015,934,446
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,535,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,96,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,163,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,619,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,1472,606,513,353
-Wakulla,08 Shell Point,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,345,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Jamie Grosshans,"",NON,Yes,197,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,620,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,82,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,408,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,462,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,1150,436,443,271
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,316,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,52,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,72,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,312,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,730,,,
-Wakulla,08 Shell Point,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,189,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Jamie Grosshans,"",NON,No,119,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,996,227,503,266
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,207,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,766,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,819,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,2171,867,828,476
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,502,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,81,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,152,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,559,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,1330,510,468,352
-Wakulla,08 Shell Point,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,351,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Jorge Labarga,"",NON,Yes,182,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Jorge Labarga,"",NON,No,735,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Jorge Labarga,"",NON,No,113,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Jorge Labarga,"",NON,No,450,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Jorge Labarga,"",NON,No,531,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Jorge Labarga,"",NON,No,1362,576,549,237
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Jorge Labarga,"",NON,No,353,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Jorge Labarga,"",NON,No,67,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Jorge Labarga,"",NON,No,82,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Jorge Labarga,"",NON,No,370,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Jorge Labarga,"",NON,No,876,,,
-Wakulla,08 Shell Point,Justice of the Supreme Court - Jorge Labarga,"",NON,No,185,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Jorge Labarga,"",NON,No,132,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,1099,254,570,275
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,228,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,807,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,871,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,2352,978,908,466
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,540,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,94,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,168,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,617,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,1437,576,510,351
-Wakulla,08 Shell Point,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,354,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Ricky Polston,"",NON,Yes,188,,,
-Wakulla,01 Wakulla Station,Justice of the Supreme Court - Ricky Polston,"",NON,No,630,,,
-Wakulla,10 Ochlockonee,Justice of the Supreme Court - Ricky Polston,"",NON,No,92,,,
-Wakulla,11 Bethel Church,Justice of the Supreme Court - Ricky Polston,"",NON,No,408,,,
-Wakulla,12 Shadeville,Justice of the Supreme Court - Ricky Polston,"",NON,No,483,,,
-Wakulla,02 Crawfordville,Justice of the Supreme Court - Ricky Polston,"",NON,No,1185,467,469,249
-Wakulla,03 Sopchoppy,Justice of the Supreme Court - Ricky Polston,"",NON,No,315,,,
-Wakulla,04 Smith Creek,Justice of the Supreme Court - Ricky Polston,"",NON,No,54,,,
-Wakulla,05 St. Marks,Justice of the Supreme Court - Ricky Polston,"",NON,No,66,,,
-Wakulla,06 Medart,Justice of the Supreme Court - Ricky Polston,"",NON,No,313,,,
-Wakulla,07 Ivan,Justice of the Supreme Court - Ricky Polston,"",NON,No,771,,,
-Wakulla,08 Shell Point,Justice of the Supreme Court - Ricky Polston,"",NON,No,180,,,
-Wakulla,09 Panacea,Justice of the Supreme Court - Ricky Polston,"",NON,No,128,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,1047,248,552,247
-Wakulla,10 Ochlockonee,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,227,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,788,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,828,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,2343,990,891,462
-Wakulla,03 Sopchoppy,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,525,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,90,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,158,,,
-Wakulla,06 Medart,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,609,,,
-Wakulla,07 Ivan,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,1424,584,499,341
-Wakulla,08 Shell Point,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,332,,,
-Wakulla,09 Panacea,First District Court of Appeal - Ross L. Bilbrey,"",NON,Yes,203,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,635,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,82,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,394,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,495,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,1130,442,453,235
-Wakulla,03 Sopchoppy,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,324,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,55,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,67,,,
-Wakulla,06 Medart,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,304,,,
-Wakulla,07 Ivan,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,714,,,
-Wakulla,08 Shell Point,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,183,,,
-Wakulla,09 Panacea,First District Court of Appeal - Ross L. Bilbrey,"",NON,No,109,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Susan Kelsey,"",NON,Yes,1078,244,585,249
-Wakulla,10 Ochlockonee,First District Court of Appeal - Susan Kelsey,"",NON,Yes,222,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Susan Kelsey,"",NON,Yes,795,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Susan Kelsey,"",NON,Yes,870,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Susan Kelsey,"",NON,Yes,2339,983,909,447
-Wakulla,03 Sopchoppy,First District Court of Appeal - Susan Kelsey,"",NON,Yes,537,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Susan Kelsey,"",NON,Yes,93,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Susan Kelsey,"",NON,Yes,156,,,
-Wakulla,06 Medart,First District Court of Appeal - Susan Kelsey,"",NON,Yes,613,,,
-Wakulla,07 Ivan,First District Court of Appeal - Susan Kelsey,"",NON,Yes,1446,581,510,355
-Wakulla,08 Shell Point,First District Court of Appeal - Susan Kelsey,"",NON,Yes,356,,,
-Wakulla,09 Panacea,First District Court of Appeal - Susan Kelsey,"",NON,Yes,198,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Susan Kelsey,"",NON,No,602,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Susan Kelsey,"",NON,No,83,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Susan Kelsey,"",NON,No,391,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Susan Kelsey,"",NON,No,451,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Susan Kelsey,"",NON,No,1113,440,432,241
-Wakulla,03 Sopchoppy,First District Court of Appeal - Susan Kelsey,"",NON,No,306,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Susan Kelsey,"",NON,No,54,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Susan Kelsey,"",NON,No,69,,,
-Wakulla,06 Medart,First District Court of Appeal - Susan Kelsey,"",NON,No,295,,,
-Wakulla,07 Ivan,First District Court of Appeal - Susan Kelsey,"",NON,No,687,,,
-Wakulla,08 Shell Point,First District Court of Appeal - Susan Kelsey,"",NON,No,162,,,
-Wakulla,09 Panacea,First District Court of Appeal - Susan Kelsey,"",NON,No,111,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Bobby Long,"",NON,Yes,1081,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Bobby Long,"",NON,Yes,221,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Bobby Long,"",NON,Yes,789,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Bobby Long,"",NON,Yes,853,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Bobby Long,"",NON,Yes,2335,995,903,437
-Wakulla,03 Sopchoppy,First District Court of Appeal - Bobby Long,"",NON,Yes,539,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Bobby Long,"",NON,Yes,95,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Bobby Long,"",NON,Yes,161,,,
-Wakulla,06 Medart,First District Court of Appeal - Bobby Long,"",NON,Yes,623,,,
-Wakulla,07 Ivan,First District Court of Appeal - Bobby Long,"",NON,Yes,1431,586,509,336
-Wakulla,08 Shell Point,First District Court of Appeal - Bobby Long,"",NON,Yes,333,,,
-Wakulla,09 Panacea,First District Court of Appeal - Bobby Long,"",NON,Yes,205,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Bobby Long,"",NON,No,595,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Bobby Long,"",NON,No,86,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Bobby Long,"",NON,No,392,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Bobby Long,"",NON,No,468,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Bobby Long,"",NON,No,1117,430,434,253
-Wakulla,03 Sopchoppy,First District Court of Appeal - Bobby Long,"",NON,No,300,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Bobby Long,"",NON,No,52,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Bobby Long,"",NON,No,65,,,
-Wakulla,06 Medart,First District Court of Appeal - Bobby Long,"",NON,No,283,,,
-Wakulla,07 Ivan,First District Court of Appeal - Bobby Long,"",NON,No,691,,,
-Wakulla,08 Shell Point,First District Court of Appeal - Bobby Long,"",NON,No,181,,,
-Wakulla,09 Panacea,First District Court of Appeal - Bobby Long,"",NON,No,106,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,1044,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,207,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,787,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,856,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,2280,941,884,455
-Wakulla,03 Sopchoppy,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,538,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,87,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,159,,,
-Wakulla,06 Medart,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,617,,,
-Wakulla,07 Ivan,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,1378,551,494,333
-Wakulla,08 Shell Point,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,349,,,
-Wakulla,09 Panacea,First District Court of Appeal - Lori S. Rowe,"",NON,Yes,187,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Lori S. Rowe,"",NON,No,629,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Lori S. Rowe,"",NON,No,98,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Lori S. Rowe,"",NON,No,392,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Lori S. Rowe,"",NON,No,461,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Lori S. Rowe,"",NON,No,1166,479,453,234
-Wakulla,03 Sopchoppy,First District Court of Appeal - Lori S. Rowe,"",NON,No,304,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Lori S. Rowe,"",NON,No,60,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Lori S. Rowe,"",NON,No,66,,,
-Wakulla,06 Medart,First District Court of Appeal - Lori S. Rowe,"",NON,No,292,,,
-Wakulla,07 Ivan,First District Court of Appeal - Lori S. Rowe,"",NON,No,749,,,
-Wakulla,08 Shell Point,First District Court of Appeal - Lori S. Rowe,"",NON,No,166,,,
-Wakulla,09 Panacea,First District Court of Appeal - Lori S. Rowe,"",NON,No,125,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Bo Winokur,"",NON,Yes,1032,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Bo Winokur,"",NON,Yes,219,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Bo Winokur,"",NON,Yes,794,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Bo Winokur,"",NON,Yes,818,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Bo Winokur,"",NON,Yes,2266,963,867,436
-Wakulla,03 Sopchoppy,First District Court of Appeal - Bo Winokur,"",NON,Yes,521,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Bo Winokur,"",NON,Yes,96,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Bo Winokur,"",NON,Yes,158,,,
-Wakulla,06 Medart,First District Court of Appeal - Bo Winokur,"",NON,Yes,604,,,
-Wakulla,07 Ivan,First District Court of Appeal - Bo Winokur,"",NON,Yes,1389,566,494,329
-Wakulla,08 Shell Point,First District Court of Appeal - Bo Winokur,"",NON,Yes,323,,,
-Wakulla,09 Panacea,First District Court of Appeal - Bo Winokur,"",NON,Yes,197,,,
-Wakulla,01 Wakulla Station,First District Court of Appeal - Bo Winokur,"",NON,No,640,,,
-Wakulla,10 Ochlockonee,First District Court of Appeal - Bo Winokur,"",NON,No,86,,,
-Wakulla,11 Bethel Church,First District Court of Appeal - Bo Winokur,"",NON,No,387,,,
-Wakulla,12 Shadeville,First District Court of Appeal - Bo Winokur,"",NON,No,499,,,
-Wakulla,02 Crawfordville,First District Court of Appeal - Bo Winokur,"",NON,No,1161,452,463,246
-Wakulla,03 Sopchoppy,First District Court of Appeal - Bo Winokur,"",NON,No,324,,,
-Wakulla,04 Smith Creek,First District Court of Appeal - Bo Winokur,"",NON,No,50,,,
-Wakulla,05 St. Marks,First District Court of Appeal - Bo Winokur,"",NON,No,65,,,
-Wakulla,06 Medart,First District Court of Appeal - Bo Winokur,"",NON,No,302,,,
-Wakulla,07 Ivan,First District Court of Appeal - Bo Winokur,"",NON,No,733,,,
-Wakulla,08 Shell Point,First District Court of Appeal - Bo Winokur,"",NON,No,188,,,
-Wakulla,09 Panacea,First District Court of Appeal - Bo Winokur,"",NON,No,112,,,
-Wakulla,01 Wakulla Station,County Court Judge Group 1,"",NON,Eddie Evans,716,,,
-Wakulla,10 Ochlockonee,County Court Judge Group 1,"",NON,Eddie Evans,146,,,
-Wakulla,11 Bethel Church,County Court Judge Group 1,"",NON,Eddie Evans,550,,,
-Wakulla,12 Shadeville,County Court Judge Group 1,"",NON,Eddie Evans,630,,,
-Wakulla,02 Crawfordville,County Court Judge Group 1,"",NON,Eddie Evans,1573,672,564,337
-Wakulla,03 Sopchoppy,County Court Judge Group 1,"",NON,Eddie Evans,568,,,
-Wakulla,04 Smith Creek,County Court Judge Group 1,"",NON,Eddie Evans,48,,,
-Wakulla,05 St. Marks,County Court Judge Group 1,"",NON,Eddie Evans,96,,,
-Wakulla,06 Medart,County Court Judge Group 1,"",NON,Eddie Evans,481,,,
-Wakulla,07 Ivan,County Court Judge Group 1,"",NON,Eddie Evans,1015,409,337,269
-Wakulla,08 Shell Point,County Court Judge Group 1,"",NON,Eddie Evans,233,,,
-Wakulla,09 Panacea,County Court Judge Group 1,"",NON,Eddie Evans,137,,,
-Wakulla,01 Wakulla Station,County Court Judge Group 1,"",NON,Brian Miller,1006,242,529,235
-Wakulla,10 Ochlockonee,County Court Judge Group 1,"",NON,Brian Miller,169,,,
-Wakulla,11 Bethel Church,County Court Judge Group 1,"",NON,Brian Miller,620,,,
-Wakulla,12 Shadeville,County Court Judge Group 1,"",NON,Brian Miller,719,,,
-Wakulla,02 Crawfordville,County Court Judge Group 1,"",NON,Brian Miller,2013,811,808,394
-Wakulla,03 Sopchoppy,County Court Judge Group 1,"",NON,Brian Miller,346,,,
-Wakulla,04 Smith Creek,County Court Judge Group 1,"",NON,Brian Miller,110,,,
-Wakulla,05 St. Marks,County Court Judge Group 1,"",NON,Brian Miller,131,,,
-Wakulla,06 Medart,County Court Judge Group 1,"",NON,Brian Miller,494,,,
-Wakulla,07 Ivan,County Court Judge Group 1,"",NON,Brian Miller,1165,,,
-Wakulla,08 Shell Point,County Court Judge Group 1,"",NON,Brian Miller,307,,,
-Wakulla,09 Panacea,County Court Judge Group 1,"",NON,Brian Miller,185,,,
-Wakulla,01 Wakulla Station,School Board,1,NON,Eddie Hand,846,,,
-Wakulla,10 Ochlockonee,School Board,1,NON,Eddie Hand,153,,,
-Wakulla,11 Bethel Church,School Board,1,NON,Eddie Hand,633,,,
-Wakulla,12 Shadeville,School Board,1,NON,Eddie Hand,706,,,
-Wakulla,02 Crawfordville,School Board,1,NON,Eddie Hand,1996,838,799,359
-Wakulla,03 Sopchoppy,School Board,1,NON,Eddie Hand,470,,,
-Wakulla,04 Smith Creek,School Board,1,NON,Eddie Hand,86,,,
-Wakulla,05 St. Marks,School Board,1,NON,Eddie Hand,98,,,
-Wakulla,06 Medart,School Board,1,NON,Eddie Hand,518,,,
-Wakulla,07 Ivan,School Board,1,NON,Eddie Hand,1140,441,437,262
-Wakulla,08 Shell Point,School Board,1,NON,Eddie Hand,275,,,
-Wakulla,09 Panacea,School Board,1,NON,Eddie Hand,159,,,
-Wakulla,01 Wakulla Station,School Board,1,NON,Dod Walker,870,206,438,226
-Wakulla,10 Ochlockonee,School Board,1,NON,Dod Walker,147,,,
-Wakulla,11 Bethel Church,School Board,1,NON,Dod Walker,556,,,
-Wakulla,12 Shadeville,School Board,1,NON,Dod Walker,628,,,
-Wakulla,02 Crawfordville,School Board,1,NON,Dod Walker,1590,645,575,370
-Wakulla,03 Sopchoppy,School Board,1,NON,Dod Walker,415,,,
-Wakulla,04 Smith Creek,School Board,1,NON,Dod Walker,63,,,
-Wakulla,05 St. Marks,School Board,1,NON,Dod Walker,135,,,
-Wakulla,06 Medart,School Board,1,NON,Dod Walker,461,,,
-Wakulla,07 Ivan,School Board,1,NON,Dod Walker,1032,421,340,271
-Wakulla,08 Shell Point,School Board,1,NON,Dod Walker,246,,,
-Wakulla,09 Panacea,School Board,1,NON,Dod Walker,154,,,
-Wakulla,03 Sopchoppy,Sopchoppy City Commissioner City of Sopchoppy,"",NON,"Corey ""DJ Butch"" Benedict",97,,,
-Wakulla,03 Sopchoppy,Sopchoppy City Commissioner City of Sopchoppy,"",NON,Lara Edwards,108,,,
-Wakulla,03 Sopchoppy,Sopchoppy City Commissioner City of Sopchoppy,"",NON,Fred McClendon,120,,,
-Wakulla,03 Sopchoppy,Sopchoppy City Commissioner City of Sopchoppy,"",NON,Thomas E. Porter II,28,,,
-Wakulla,05 St. Marks,St. Marks City Commissioner Seat 1 City of St. Marks,"",NON,Dan Albers,92,,,
-Wakulla,05 St. Marks,St. Marks City Commissioner Seat 1 City of St. Marks,"",NON,Richard Chichetti,90,,,
-Wakulla,05 St. Marks,St. Marks City Commissioner Seat 4 City of St. Marks,"",NON,Paula Bell,116,,,
-Wakulla,05 St. Marks,St. Marks City Commissioner Seat 4 City of St. Marks,"",NON,Joe Crousore,63,,,
-Wakulla,05 St. Marks,St. Marks City Commissioner Seat 5 City of St. Marks,"",NON,Ryder Rudd,124,,,
-Wakulla,05 St. Marks,St. Marks City Commissioner Seat 5 City of St. Marks,"",NON,Murray Stokes,60,,,
-Wakulla,01 Wakulla Station,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,926,207,472,247
-Wakulla,10 Ochlockonee,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,220,,,
-Wakulla,11 Bethel Church,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,636,,,
-Wakulla,12 Shadeville,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,713,,,
-Wakulla,02 Crawfordville,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,1921,813,721,387
-Wakulla,03 Sopchoppy,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,409,,,
-Wakulla,04 Smith Creek,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,75,,,
-Wakulla,05 St. Marks,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,146,,,
-Wakulla,06 Medart,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,538,,,
-Wakulla,07 Ivan,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,1181,474,405,302
-Wakulla,08 Shell Point,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,325,,,
-Wakulla,09 Panacea,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,Yes,172,,,
-Wakulla,01 Wakulla Station,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,865,,,
-Wakulla,10 Ochlockonee,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,130,,,
-Wakulla,11 Bethel Church,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,609,,,
-Wakulla,12 Shadeville,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,659,,,
-Wakulla,02 Crawfordville,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,1743,702,678,363
-Wakulla,03 Sopchoppy,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,498,,,
-Wakulla,04 Smith Creek,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,81,,,
-Wakulla,05 St. Marks,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,110,,,
-Wakulla,06 Medart,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,447,,,
-Wakulla,07 Ivan,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,1080,428,388,264
-Wakulla,08 Shell Point,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,258,,,
-Wakulla,09 Panacea,"No. 1 Constitutional Amendment, Article Vii Section 4;","",NON,No,160,,,
-Wakulla,01 Wakulla Station,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,868,,,
-Wakulla,10 Ochlockonee,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,188,,,
-Wakulla,11 Bethel Church,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,640,,,
-Wakulla,12 Shadeville,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,695,,,
-Wakulla,02 Crawfordville,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,1866,791,704,371
-Wakulla,03 Sopchoppy,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,417,,,
-Wakulla,04 Smith Creek,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,76,,,
-Wakulla,05 St. Marks,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,132,,,
-Wakulla,06 Medart,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,504,,,
-Wakulla,07 Ivan,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,1122,456,384,282
-Wakulla,08 Shell Point,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,290,,,
-Wakulla,09 Panacea,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,Yes,166,,,
-Wakulla,01 Wakulla Station,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,922,,,
-Wakulla,10 Ochlockonee,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,159,,,
-Wakulla,11 Bethel Church,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,590,,,
-Wakulla,12 Shadeville,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,664,,,
-Wakulla,02 Crawfordville,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,1782,716,688,378
-Wakulla,03 Sopchoppy,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,479,,,
-Wakulla,04 Smith Creek,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,77,,,
-Wakulla,05 St. Marks,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,120,,,
-Wakulla,06 Medart,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,476,,,
-Wakulla,07 Ivan,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,1112,,,
-Wakulla,08 Shell Point,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,284,,,
-Wakulla,09 Panacea,"No. 2 Constitutional Amendment, Article Ii, Section 5;","",NON,No,165,,,
-Wakulla,01 Wakulla Station,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,958,,,
-Wakulla,10 Ochlockonee,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,163,,,
-Wakulla,11 Bethel Church,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,692,,,
-Wakulla,12 Shadeville,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,866,,,
-Wakulla,02 Crawfordville,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,2253,919,942,392
-Wakulla,03 Sopchoppy,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,484,,,
-Wakulla,04 Smith Creek,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,89,,,
-Wakulla,05 St. Marks,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,120,,,
-Wakulla,06 Medart,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,533,,,
-Wakulla,07 Ivan,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,1307,532,475,300
-Wakulla,08 Shell Point,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,306,,,
-Wakulla,09 Panacea,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,Yes,181,,,
-Wakulla,01 Wakulla Station,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,888,208,419,261
-Wakulla,10 Ochlockonee,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,188,,,
-Wakulla,11 Bethel Church,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,562,,,
-Wakulla,12 Shadeville,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,537,,,
-Wakulla,02 Crawfordville,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,1512,629,505,378
-Wakulla,03 Sopchoppy,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,435,,,
-Wakulla,04 Smith Creek,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,69,,,
-Wakulla,05 St. Marks,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,139,,,
-Wakulla,06 Medart,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,466,,,
-Wakulla,07 Ivan,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,979,380,326,273
-Wakulla,08 Shell Point,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,292,,,
-Wakulla,09 Panacea,"No. 3 Constitutional Amendment, Article Vii, Section 6;","",NON,No,156,,,
-Wakulla,01 Wakulla Station,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,744,,,
-Wakulla,10 Ochlockonee,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,151,,,
-Wakulla,11 Bethel Church,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,498,,,
-Wakulla,12 Shadeville,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,599,,,
-Wakulla,02 Crawfordville,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,1656,670,697,289
-Wakulla,03 Sopchoppy,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,381,,,
-Wakulla,04 Smith Creek,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,72,,,
-Wakulla,05 St. Marks,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,120,,,
-Wakulla,06 Medart,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,426,,,
-Wakulla,07 Ivan,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,1021,398,396,227
-Wakulla,08 Shell Point,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,238,,,
-Wakulla,09 Panacea,Wakulla County Ordinance No. 2022-08,"",NON,Yes - For authority to grant exemp,149,,,
-Wakulla,01 Wakulla Station,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,1094,,,
-Wakulla,10 Ochlockonee,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,202,,,
-Wakulla,11 Bethel Church,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,761,,,
-Wakulla,12 Shadeville,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,806,,,
-Wakulla,02 Crawfordville,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,2116,886,751,479
-Wakulla,03 Sopchoppy,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,542,,,
-Wakulla,04 Smith Creek,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,87,,,
-Wakulla,05 St. Marks,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,140,,,
-Wakulla,06 Medart,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,585,,,
-Wakulla,07 Ivan,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,1276,519,411,346
-Wakulla,08 Shell Point,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,365,,,
-Wakulla,09 Panacea,Wakulla County Ordinance No. 2022-08,"",NON,No - Against authority to grant ex,189,,,
-Wakulla,01 Wakulla Station,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,979,,,
-Wakulla,10 Ochlockonee,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,167,,,
-Wakulla,11 Bethel Church,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,658,,,
-Wakulla,12 Shadeville,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,794,,,
-Wakulla,02 Crawfordville,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,2098,834,864,400
-Wakulla,03 Sopchoppy,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,474,,,
-Wakulla,04 Smith Creek,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,73,,,
-Wakulla,05 St. Marks,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,124,,,
-Wakulla,06 Medart,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,506,,,
-Wakulla,07 Ivan,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,1227,466,456,305
-Wakulla,08 Shell Point,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,302,,,
-Wakulla,09 Panacea,Wakulla County School Board Resolution No. 2022-21,"",NON,Yes - For the one-half percent tax,185,,,
-Wakulla,01 Wakulla Station,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,884,,,
-Wakulla,10 Ochlockonee,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,195,,,
-Wakulla,11 Bethel Church,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,623,,,
-Wakulla,12 Shadeville,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,630,,,
-Wakulla,02 Crawfordville,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,1728,744,603,381
-Wakulla,03 Sopchoppy,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,464,,,
-Wakulla,04 Smith Creek,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,87,,,
-Wakulla,05 St. Marks,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,134,,,
-Wakulla,06 Medart,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,528,,,
-Wakulla,07 Ivan,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,1107,466,366,275
-Wakulla,08 Shell Point,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,311,,,
-Wakulla,09 Panacea,Wakulla County School Board Resolution No. 2022-21,"",NON,No - Against the one-half percent,163,,,
+county,precinct,office,district,party,candidate,votes
+Wakulla,01 Wakulla Station,U.S. Senate,"",REP,Marco Rubio,1296
+Wakulla,02 Crawfordville,U.S. Senate,"",REP,Marco Rubio,2732
+Wakulla,03 Sopchoppy,U.S. Senate,"",REP,Marco Rubio,668
+Wakulla,04 Smith Creek,U.S. Senate,"",REP,Marco Rubio,150
+Wakulla,05 St. Marks,U.S. Senate,"",REP,Marco Rubio,195
+Wakulla,06 Medart,U.S. Senate,"",REP,Marco Rubio,842
+Wakulla,07 Ivan,U.S. Senate,"",REP,Marco Rubio,1750
+Wakulla,08 Shell Point,U.S. Senate,"",REP,Marco Rubio,429
+Wakulla,09 Panacea,U.S. Senate,"",REP,Marco Rubio,270
+Wakulla,10 Ochlockonee,U.S. Senate,"",REP,Marco Rubio,269
+Wakulla,11 Bethel Church,U.S. Senate,"",REP,Marco Rubio,892
+Wakulla,12 Shadeville,U.S. Senate,"",REP,Marco Rubio,992
+Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,Val Demings,625
+Wakulla,02 Crawfordville,U.S. Senate,"",DEM,Val Demings,1180
+Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,Val Demings,285
+Wakulla,04 Smith Creek,U.S. Senate,"",DEM,Val Demings,18
+Wakulla,05 St. Marks,U.S. Senate,"",DEM,Val Demings,73
+Wakulla,06 Medart,U.S. Senate,"",DEM,Val Demings,220
+Wakulla,07 Ivan,U.S. Senate,"",DEM,Val Demings,657
+Wakulla,08 Shell Point,U.S. Senate,"",DEM,Val Demings,200
+Wakulla,09 Panacea,U.S. Senate,"",DEM,Val Demings,86
+Wakulla,10 Ochlockonee,U.S. Senate,"",DEM,Val Demings,97
+Wakulla,11 Bethel Church,U.S. Senate,"",DEM,Val Demings,436
+Wakulla,12 Shadeville,U.S. Senate,"",DEM,Val Demings,466
+Wakulla,01 Wakulla Station,U.S. Senate,"",LPF,Dennis Misigoy,7
+Wakulla,02 Crawfordville,U.S. Senate,"",LPF,Dennis Misigoy,23
+Wakulla,03 Sopchoppy,U.S. Senate,"",LPF,Dennis Misigoy,5
+Wakulla,04 Smith Creek,U.S. Senate,"",LPF,Dennis Misigoy,0
+Wakulla,05 St. Marks,U.S. Senate,"",LPF,Dennis Misigoy,1
+Wakulla,06 Medart,U.S. Senate,"",LPF,Dennis Misigoy,5
+Wakulla,07 Ivan,U.S. Senate,"",LPF,Dennis Misigoy,16
+Wakulla,08 Shell Point,U.S. Senate,"",LPF,Dennis Misigoy,0
+Wakulla,09 Panacea,U.S. Senate,"",LPF,Dennis Misigoy,1
+Wakulla,10 Ochlockonee,U.S. Senate,"",LPF,Dennis Misigoy,0
+Wakulla,11 Bethel Church,U.S. Senate,"",LPF,Dennis Misigoy,7
+Wakulla,12 Shadeville,U.S. Senate,"",LPF,Dennis Misigoy,4
+Wakulla,01 Wakulla Station,U.S. Senate,"",NPA,Steven B. Grant,9
+Wakulla,02 Crawfordville,U.S. Senate,"",NPA,Steven B. Grant,16
+Wakulla,03 Sopchoppy,U.S. Senate,"",NPA,Steven B. Grant,4
+Wakulla,04 Smith Creek,U.S. Senate,"",NPA,Steven B. Grant,0
+Wakulla,05 St. Marks,U.S. Senate,"",NPA,Steven B. Grant,2
+Wakulla,06 Medart,U.S. Senate,"",NPA,Steven B. Grant,3
+Wakulla,07 Ivan,U.S. Senate,"",NPA,Steven B. Grant,4
+Wakulla,08 Shell Point,U.S. Senate,"",NPA,Steven B. Grant,3
+Wakulla,09 Panacea,U.S. Senate,"",NPA,Steven B. Grant,3
+Wakulla,10 Ochlockonee,U.S. Senate,"",NPA,Steven B. Grant,1
+Wakulla,11 Bethel Church,U.S. Senate,"",NPA,Steven B. Grant,4
+Wakulla,12 Shadeville,U.S. Senate,"",NPA,Steven B. Grant,16
+Wakulla,01 Wakulla Station,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Wakulla,02 Crawfordville,U.S. Senate,"",NPA,Tuan TQ Nguyen,8
+Wakulla,03 Sopchoppy,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Wakulla,04 Smith Creek,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Wakulla,05 St. Marks,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Wakulla,06 Medart,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Wakulla,07 Ivan,U.S. Senate,"",NPA,Tuan TQ Nguyen,7
+Wakulla,08 Shell Point,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Wakulla,09 Panacea,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Wakulla,10 Ochlockonee,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Wakulla,11 Bethel Church,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Wakulla,12 Shadeville,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Wakulla,01 Wakulla Station,U.S. Senate,"","",WriteinVotes,2
+Wakulla,02 Crawfordville,U.S. Senate,"","",WriteinVotes,0
+Wakulla,03 Sopchoppy,U.S. Senate,"","",WriteinVotes,0
+Wakulla,04 Smith Creek,U.S. Senate,"","",WriteinVotes,0
+Wakulla,05 St. Marks,U.S. Senate,"","",WriteinVotes,0
+Wakulla,06 Medart,U.S. Senate,"","",WriteinVotes,0
+Wakulla,07 Ivan,U.S. Senate,"","",WriteinVotes,4
+Wakulla,08 Shell Point,U.S. Senate,"","",WriteinVotes,0
+Wakulla,09 Panacea,U.S. Senate,"","",WriteinVotes,0
+Wakulla,10 Ochlockonee,U.S. Senate,"","",WriteinVotes,0
+Wakulla,11 Bethel Church,U.S. Senate,"","",WriteinVotes,0
+Wakulla,12 Shadeville,U.S. Senate,"","",WriteinVotes,0
+Wakulla,01 Wakulla Station,U.S. Senate,"","",OverVotes,0
+Wakulla,02 Crawfordville,U.S. Senate,"","",OverVotes,0
+Wakulla,03 Sopchoppy,U.S. Senate,"","",OverVotes,0
+Wakulla,04 Smith Creek,U.S. Senate,"","",OverVotes,0
+Wakulla,05 St. Marks,U.S. Senate,"","",OverVotes,0
+Wakulla,06 Medart,U.S. Senate,"","",OverVotes,1
+Wakulla,07 Ivan,U.S. Senate,"","",OverVotes,0
+Wakulla,08 Shell Point,U.S. Senate,"","",OverVotes,0
+Wakulla,09 Panacea,U.S. Senate,"","",OverVotes,0
+Wakulla,10 Ochlockonee,U.S. Senate,"","",OverVotes,1
+Wakulla,11 Bethel Church,U.S. Senate,"","",OverVotes,0
+Wakulla,12 Shadeville,U.S. Senate,"","",OverVotes,1
+Wakulla,01 Wakulla Station,U.S. Senate,"","",UnderVotes,13
+Wakulla,02 Crawfordville,U.S. Senate,"","",UnderVotes,22
+Wakulla,03 Sopchoppy,U.S. Senate,"","",UnderVotes,7
+Wakulla,04 Smith Creek,U.S. Senate,"","",UnderVotes,1
+Wakulla,05 St. Marks,U.S. Senate,"","",UnderVotes,3
+Wakulla,06 Medart,U.S. Senate,"","",UnderVotes,9
+Wakulla,07 Ivan,U.S. Senate,"","",UnderVotes,19
+Wakulla,08 Shell Point,U.S. Senate,"","",UnderVotes,5
+Wakulla,09 Panacea,U.S. Senate,"","",UnderVotes,1
+Wakulla,10 Ochlockonee,U.S. Senate,"","",UnderVotes,6
+Wakulla,11 Bethel Church,U.S. Senate,"","",UnderVotes,9
+Wakulla,12 Shadeville,U.S. Senate,"","",UnderVotes,12
+Wakulla,01 Wakulla Station,U.S. House,2,REP,Neal Dunn,1342
+Wakulla,02 Crawfordville,U.S. House,2,REP,Neal Dunn,2797
+Wakulla,03 Sopchoppy,U.S. House,2,REP,Neal Dunn,675
+Wakulla,04 Smith Creek,U.S. House,2,REP,Neal Dunn,151
+Wakulla,05 St. Marks,U.S. House,2,REP,Neal Dunn,203
+Wakulla,06 Medart,U.S. House,2,REP,Neal Dunn,846
+Wakulla,07 Ivan,U.S. House,2,REP,Neal Dunn,1784
+Wakulla,08 Shell Point,U.S. House,2,REP,Neal Dunn,431
+Wakulla,09 Panacea,U.S. House,2,REP,Neal Dunn,278
+Wakulla,10 Ochlockonee,U.S. House,2,REP,Neal Dunn,276
+Wakulla,11 Bethel Church,U.S. House,2,REP,Neal Dunn,906
+Wakulla,12 Shadeville,U.S. House,2,REP,Neal Dunn,1031
+Wakulla,01 Wakulla Station,U.S. House,2,DEM,Al Lawson,594
+Wakulla,02 Crawfordville,U.S. House,2,DEM,Al Lawson,1156
+Wakulla,03 Sopchoppy,U.S. House,2,DEM,Al Lawson,288
+Wakulla,04 Smith Creek,U.S. House,2,DEM,Al Lawson,17
+Wakulla,05 St. Marks,U.S. House,2,DEM,Al Lawson,70
+Wakulla,06 Medart,U.S. House,2,DEM,Al Lawson,228
+Wakulla,07 Ivan,U.S. House,2,DEM,Al Lawson,648
+Wakulla,08 Shell Point,U.S. House,2,DEM,Al Lawson,199
+Wakulla,09 Panacea,U.S. House,2,DEM,Al Lawson,80
+Wakulla,10 Ochlockonee,U.S. House,2,DEM,Al Lawson,94
+Wakulla,11 Bethel Church,U.S. House,2,DEM,Al Lawson,429
+Wakulla,12 Shadeville,U.S. House,2,DEM,Al Lawson,455
+Wakulla,01 Wakulla Station,U.S. House,2,"",OverVotes,0
+Wakulla,02 Crawfordville,U.S. House,2,"",OverVotes,1
+Wakulla,03 Sopchoppy,U.S. House,2,"",OverVotes,1
+Wakulla,04 Smith Creek,U.S. House,2,"",OverVotes,0
+Wakulla,05 St. Marks,U.S. House,2,"",OverVotes,0
+Wakulla,06 Medart,U.S. House,2,"",OverVotes,0
+Wakulla,07 Ivan,U.S. House,2,"",OverVotes,1
+Wakulla,08 Shell Point,U.S. House,2,"",OverVotes,0
+Wakulla,09 Panacea,U.S. House,2,"",OverVotes,0
+Wakulla,10 Ochlockonee,U.S. House,2,"",OverVotes,0
+Wakulla,11 Bethel Church,U.S. House,2,"",OverVotes,0
+Wakulla,12 Shadeville,U.S. House,2,"",OverVotes,0
+Wakulla,01 Wakulla Station,U.S. House,2,"",UnderVotes,21
+Wakulla,02 Crawfordville,U.S. House,2,"",UnderVotes,27
+Wakulla,03 Sopchoppy,U.S. House,2,"",UnderVotes,8
+Wakulla,04 Smith Creek,U.S. House,2,"",UnderVotes,1
+Wakulla,05 St. Marks,U.S. House,2,"",UnderVotes,1
+Wakulla,06 Medart,U.S. House,2,"",UnderVotes,9
+Wakulla,07 Ivan,U.S. House,2,"",UnderVotes,24
+Wakulla,08 Shell Point,U.S. House,2,"",UnderVotes,7
+Wakulla,09 Panacea,U.S. House,2,"",UnderVotes,5
+Wakulla,10 Ochlockonee,U.S. House,2,"",UnderVotes,4
+Wakulla,11 Bethel Church,U.S. House,2,"",UnderVotes,15
+Wakulla,12 Shadeville,U.S. House,2,"",UnderVotes,10
+Wakulla,01 Wakulla Station,Governor,"",REP,DeSantis / Nuñez,1379
+Wakulla,02 Crawfordville,Governor,"",REP,DeSantis / Nuñez,2878
+Wakulla,03 Sopchoppy,Governor,"",REP,DeSantis / Nuñez,703
+Wakulla,04 Smith Creek,Governor,"",REP,DeSantis / Nuñez,155
+Wakulla,05 St. Marks,Governor,"",REP,DeSantis / Nuñez,209
+Wakulla,06 Medart,Governor,"",REP,DeSantis / Nuñez,870
+Wakulla,07 Ivan,Governor,"",REP,DeSantis / Nuñez,1844
+Wakulla,08 Shell Point,Governor,"",REP,DeSantis / Nuñez,442
+Wakulla,09 Panacea,Governor,"",REP,DeSantis / Nuñez,288
+Wakulla,10 Ochlockonee,Governor,"",REP,DeSantis / Nuñez,277
+Wakulla,11 Bethel Church,Governor,"",REP,DeSantis / Nuñez,925
+Wakulla,12 Shadeville,Governor,"",REP,DeSantis / Nuñez,1063
+Wakulla,01 Wakulla Station,Governor,"",DEM,Crist / Hernandez,561
+Wakulla,02 Crawfordville,Governor,"",DEM,Crist / Hernandez,1057
+Wakulla,03 Sopchoppy,Governor,"",DEM,Crist / Hernandez,253
+Wakulla,04 Smith Creek,Governor,"",DEM,Crist / Hernandez,13
+Wakulla,05 St. Marks,Governor,"",DEM,Crist / Hernandez,65
+Wakulla,06 Medart,Governor,"",DEM,Crist / Hernandez,202
+Wakulla,07 Ivan,Governor,"",DEM,Crist / Hernandez,579
+Wakulla,08 Shell Point,Governor,"",DEM,Crist / Hernandez,188
+Wakulla,09 Panacea,Governor,"",DEM,Crist / Hernandez,70
+Wakulla,10 Ochlockonee,Governor,"",DEM,Crist / Hernandez,96
+Wakulla,11 Bethel Church,Governor,"",DEM,Crist / Hernandez,416
+Wakulla,12 Shadeville,Governor,"",DEM,Crist / Hernandez,420
+Wakulla,01 Wakulla Station,Governor,"",LPF,Roos / Rorabaugh,6
+Wakulla,02 Crawfordville,Governor,"",LPF,Roos / Rorabaugh,15
+Wakulla,03 Sopchoppy,Governor,"",LPF,Roos / Rorabaugh,3
+Wakulla,04 Smith Creek,Governor,"",LPF,Roos / Rorabaugh,1
+Wakulla,05 St. Marks,Governor,"",LPF,Roos / Rorabaugh,0
+Wakulla,06 Medart,Governor,"",LPF,Roos / Rorabaugh,2
+Wakulla,07 Ivan,Governor,"",LPF,Roos / Rorabaugh,7
+Wakulla,08 Shell Point,Governor,"",LPF,Roos / Rorabaugh,2
+Wakulla,09 Panacea,Governor,"",LPF,Roos / Rorabaugh,3
+Wakulla,10 Ochlockonee,Governor,"",LPF,Roos / Rorabaugh,0
+Wakulla,11 Bethel Church,Governor,"",LPF,Roos / Rorabaugh,1
+Wakulla,12 Shadeville,Governor,"",LPF,Roos / Rorabaugh,2
+Wakulla,01 Wakulla Station,Governor,"",NPA,Gimenez / Gibson,8
+Wakulla,02 Crawfordville,Governor,"",NPA,Gimenez / Gibson,14
+Wakulla,03 Sopchoppy,Governor,"",NPA,Gimenez / Gibson,9
+Wakulla,04 Smith Creek,Governor,"",NPA,Gimenez / Gibson,0
+Wakulla,05 St. Marks,Governor,"",NPA,Gimenez / Gibson,0
+Wakulla,06 Medart,Governor,"",NPA,Gimenez / Gibson,5
+Wakulla,07 Ivan,Governor,"",NPA,Gimenez / Gibson,18
+Wakulla,08 Shell Point,Governor,"",NPA,Gimenez / Gibson,1
+Wakulla,09 Panacea,Governor,"",NPA,Gimenez / Gibson,1
+Wakulla,10 Ochlockonee,Governor,"",NPA,Gimenez / Gibson,0
+Wakulla,11 Bethel Church,Governor,"",NPA,Gimenez / Gibson,3
+Wakulla,12 Shadeville,Governor,"",NPA,Gimenez / Gibson,9
+Wakulla,01 Wakulla Station,Governor,"","",OverVotes,0
+Wakulla,02 Crawfordville,Governor,"","",OverVotes,4
+Wakulla,03 Sopchoppy,Governor,"","",OverVotes,0
+Wakulla,04 Smith Creek,Governor,"","",OverVotes,0
+Wakulla,05 St. Marks,Governor,"","",OverVotes,0
+Wakulla,06 Medart,Governor,"","",OverVotes,1
+Wakulla,07 Ivan,Governor,"","",OverVotes,0
+Wakulla,08 Shell Point,Governor,"","",OverVotes,1
+Wakulla,09 Panacea,Governor,"","",OverVotes,0
+Wakulla,10 Ochlockonee,Governor,"","",OverVotes,0
+Wakulla,11 Bethel Church,Governor,"","",OverVotes,1
+Wakulla,12 Shadeville,Governor,"","",OverVotes,0
+Wakulla,01 Wakulla Station,Governor,"","",UnderVotes,3
+Wakulla,02 Crawfordville,Governor,"","",UnderVotes,13
+Wakulla,03 Sopchoppy,Governor,"","",UnderVotes,4
+Wakulla,04 Smith Creek,Governor,"","",UnderVotes,0
+Wakulla,05 St. Marks,Governor,"","",UnderVotes,0
+Wakulla,06 Medart,Governor,"","",UnderVotes,3
+Wakulla,07 Ivan,Governor,"","",UnderVotes,9
+Wakulla,08 Shell Point,Governor,"","",UnderVotes,3
+Wakulla,09 Panacea,Governor,"","",UnderVotes,1
+Wakulla,10 Ochlockonee,Governor,"","",UnderVotes,1
+Wakulla,11 Bethel Church,Governor,"","",UnderVotes,4
+Wakulla,12 Shadeville,Governor,"","",UnderVotes,2
+Wakulla,01 Wakulla Station,Attorney General,"",REP,Ashley Moody,1411
+Wakulla,02 Crawfordville,Attorney General,"",REP,Ashley Moody,2966
+Wakulla,03 Sopchoppy,Attorney General,"",REP,Ashley Moody,710
+Wakulla,04 Smith Creek,Attorney General,"",REP,Ashley Moody,156
+Wakulla,05 St. Marks,Attorney General,"",REP,Ashley Moody,207
+Wakulla,06 Medart,Attorney General,"",REP,Ashley Moody,869
+Wakulla,07 Ivan,Attorney General,"",REP,Ashley Moody,1871
+Wakulla,08 Shell Point,Attorney General,"",REP,Ashley Moody,454
+Wakulla,09 Panacea,Attorney General,"",REP,Ashley Moody,286
+Wakulla,10 Ochlockonee,Attorney General,"",REP,Ashley Moody,285
+Wakulla,11 Bethel Church,Attorney General,"",REP,Ashley Moody,950
+Wakulla,12 Shadeville,Attorney General,"",REP,Ashley Moody,1071
+Wakulla,01 Wakulla Station,Attorney General,"",DEM,Aramis Ayala,520
+Wakulla,02 Crawfordville,Attorney General,"",DEM,Aramis Ayala,976
+Wakulla,03 Sopchoppy,Attorney General,"",DEM,Aramis Ayala,247
+Wakulla,04 Smith Creek,Attorney General,"",DEM,Aramis Ayala,11
+Wakulla,05 St. Marks,Attorney General,"",DEM,Aramis Ayala,65
+Wakulla,06 Medart,Attorney General,"",DEM,Aramis Ayala,192
+Wakulla,07 Ivan,Attorney General,"",DEM,Aramis Ayala,555
+Wakulla,08 Shell Point,Attorney General,"",DEM,Aramis Ayala,173
+Wakulla,09 Panacea,Attorney General,"",DEM,Aramis Ayala,68
+Wakulla,10 Ochlockonee,Attorney General,"",DEM,Aramis Ayala,79
+Wakulla,11 Bethel Church,Attorney General,"",DEM,Aramis Ayala,385
+Wakulla,12 Shadeville,Attorney General,"",DEM,Aramis Ayala,405
+Wakulla,01 Wakulla Station,Attorney General,"","",OverVotes,0
+Wakulla,02 Crawfordville,Attorney General,"","",OverVotes,0
+Wakulla,03 Sopchoppy,Attorney General,"","",OverVotes,1
+Wakulla,04 Smith Creek,Attorney General,"","",OverVotes,0
+Wakulla,05 St. Marks,Attorney General,"","",OverVotes,0
+Wakulla,06 Medart,Attorney General,"","",OverVotes,0
+Wakulla,07 Ivan,Attorney General,"","",OverVotes,0
+Wakulla,08 Shell Point,Attorney General,"","",OverVotes,0
+Wakulla,09 Panacea,Attorney General,"","",OverVotes,0
+Wakulla,10 Ochlockonee,Attorney General,"","",OverVotes,0
+Wakulla,11 Bethel Church,Attorney General,"","",OverVotes,0
+Wakulla,12 Shadeville,Attorney General,"","",OverVotes,0
+Wakulla,01 Wakulla Station,Attorney General,"","",UnderVotes,26
+Wakulla,02 Crawfordville,Attorney General,"","",UnderVotes,39
+Wakulla,03 Sopchoppy,Attorney General,"","",UnderVotes,14
+Wakulla,04 Smith Creek,Attorney General,"","",UnderVotes,2
+Wakulla,05 St. Marks,Attorney General,"","",UnderVotes,2
+Wakulla,06 Medart,Attorney General,"","",UnderVotes,22
+Wakulla,07 Ivan,Attorney General,"","",UnderVotes,31
+Wakulla,08 Shell Point,Attorney General,"","",UnderVotes,10
+Wakulla,09 Panacea,Attorney General,"","",UnderVotes,9
+Wakulla,10 Ochlockonee,Attorney General,"","",UnderVotes,10
+Wakulla,11 Bethel Church,Attorney General,"","",UnderVotes,15
+Wakulla,12 Shadeville,Attorney General,"","",UnderVotes,20
+Wakulla,01 Wakulla Station,Chief Financial Officer,"",REP,Jimmy Patronis,1375
+Wakulla,02 Crawfordville,Chief Financial Officer,"",REP,Jimmy Patronis,2909
+Wakulla,03 Sopchoppy,Chief Financial Officer,"",REP,Jimmy Patronis,702
+Wakulla,04 Smith Creek,Chief Financial Officer,"",REP,Jimmy Patronis,151
+Wakulla,05 St. Marks,Chief Financial Officer,"",REP,Jimmy Patronis,210
+Wakulla,06 Medart,Chief Financial Officer,"",REP,Jimmy Patronis,858
+Wakulla,07 Ivan,Chief Financial Officer,"",REP,Jimmy Patronis,1840
+Wakulla,08 Shell Point,Chief Financial Officer,"",REP,Jimmy Patronis,448
+Wakulla,09 Panacea,Chief Financial Officer,"",REP,Jimmy Patronis,290
+Wakulla,10 Ochlockonee,Chief Financial Officer,"",REP,Jimmy Patronis,287
+Wakulla,11 Bethel Church,Chief Financial Officer,"",REP,Jimmy Patronis,929
+Wakulla,12 Shadeville,Chief Financial Officer,"",REP,Jimmy Patronis,1052
+Wakulla,01 Wakulla Station,Chief Financial Officer,"",DEM,Adam Hattersley,544
+Wakulla,02 Crawfordville,Chief Financial Officer,"",DEM,Adam Hattersley,1022
+Wakulla,03 Sopchoppy,Chief Financial Officer,"",DEM,Adam Hattersley,254
+Wakulla,04 Smith Creek,Chief Financial Officer,"",DEM,Adam Hattersley,15
+Wakulla,05 St. Marks,Chief Financial Officer,"",DEM,Adam Hattersley,61
+Wakulla,06 Medart,Chief Financial Officer,"",DEM,Adam Hattersley,204
+Wakulla,07 Ivan,Chief Financial Officer,"",DEM,Adam Hattersley,571
+Wakulla,08 Shell Point,Chief Financial Officer,"",DEM,Adam Hattersley,176
+Wakulla,09 Panacea,Chief Financial Officer,"",DEM,Adam Hattersley,65
+Wakulla,10 Ochlockonee,Chief Financial Officer,"",DEM,Adam Hattersley,74
+Wakulla,11 Bethel Church,Chief Financial Officer,"",DEM,Adam Hattersley,397
+Wakulla,12 Shadeville,Chief Financial Officer,"",DEM,Adam Hattersley,426
+Wakulla,01 Wakulla Station,Chief Financial Officer,"","",OverVotes,0
+Wakulla,02 Crawfordville,Chief Financial Officer,"","",OverVotes,0
+Wakulla,03 Sopchoppy,Chief Financial Officer,"","",OverVotes,0
+Wakulla,04 Smith Creek,Chief Financial Officer,"","",OverVotes,0
+Wakulla,05 St. Marks,Chief Financial Officer,"","",OverVotes,0
+Wakulla,06 Medart,Chief Financial Officer,"","",OverVotes,0
+Wakulla,07 Ivan,Chief Financial Officer,"","",OverVotes,1
+Wakulla,08 Shell Point,Chief Financial Officer,"","",OverVotes,0
+Wakulla,09 Panacea,Chief Financial Officer,"","",OverVotes,0
+Wakulla,10 Ochlockonee,Chief Financial Officer,"","",OverVotes,0
+Wakulla,11 Bethel Church,Chief Financial Officer,"","",OverVotes,0
+Wakulla,12 Shadeville,Chief Financial Officer,"","",OverVotes,0
+Wakulla,01 Wakulla Station,Chief Financial Officer,"","",UnderVotes,38
+Wakulla,02 Crawfordville,Chief Financial Officer,"","",UnderVotes,50
+Wakulla,03 Sopchoppy,Chief Financial Officer,"","",UnderVotes,16
+Wakulla,04 Smith Creek,Chief Financial Officer,"","",UnderVotes,3
+Wakulla,05 St. Marks,Chief Financial Officer,"","",UnderVotes,3
+Wakulla,06 Medart,Chief Financial Officer,"","",UnderVotes,21
+Wakulla,07 Ivan,Chief Financial Officer,"","",UnderVotes,45
+Wakulla,08 Shell Point,Chief Financial Officer,"","",UnderVotes,13
+Wakulla,09 Panacea,Chief Financial Officer,"","",UnderVotes,8
+Wakulla,10 Ochlockonee,Chief Financial Officer,"","",UnderVotes,13
+Wakulla,11 Bethel Church,Chief Financial Officer,"","",UnderVotes,24
+Wakulla,12 Shadeville,Chief Financial Officer,"","",UnderVotes,18
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",REP,Wilton Simpson,1356
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",REP,Wilton Simpson,2855
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",REP,Wilton Simpson,687
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",REP,Wilton Simpson,152
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",REP,Wilton Simpson,210
+Wakulla,06 Medart,Commissioner of Agriculture,"",REP,Wilton Simpson,855
+Wakulla,07 Ivan,Commissioner of Agriculture,"",REP,Wilton Simpson,1816
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",REP,Wilton Simpson,440
+Wakulla,09 Panacea,Commissioner of Agriculture,"",REP,Wilton Simpson,285
+Wakulla,10 Ochlockonee,Commissioner of Agriculture,"",REP,Wilton Simpson,283
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",REP,Wilton Simpson,912
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",REP,Wilton Simpson,1018
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,564
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1074
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,267
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,13
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,60
+Wakulla,06 Medart,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,205
+Wakulla,07 Ivan,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,592
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,180
+Wakulla,09 Panacea,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,69
+Wakulla,10 Ochlockonee,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,414
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,451
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,05 St. Marks,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,06 Medart,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,07 Ivan,Commissioner of Agriculture,"","",OverVotes,1
+Wakulla,08 Shell Point,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,09 Panacea,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,10 Ochlockonee,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,12 Shadeville,Commissioner of Agriculture,"","",OverVotes,0
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"","",UnderVotes,37
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"","",UnderVotes,52
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"","",UnderVotes,18
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"","",UnderVotes,4
+Wakulla,05 St. Marks,Commissioner of Agriculture,"","",UnderVotes,4
+Wakulla,06 Medart,Commissioner of Agriculture,"","",UnderVotes,23
+Wakulla,07 Ivan,Commissioner of Agriculture,"","",UnderVotes,48
+Wakulla,08 Shell Point,Commissioner of Agriculture,"","",UnderVotes,17
+Wakulla,09 Panacea,Commissioner of Agriculture,"","",UnderVotes,9
+Wakulla,10 Ochlockonee,Commissioner of Agriculture,"","",UnderVotes,9
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"","",UnderVotes,24
+Wakulla,12 Shadeville,Commissioner of Agriculture,"","",UnderVotes,27
+Wakulla,01 Wakulla Station,State Senate,3,REP,Corey Simon,1306
+Wakulla,02 Crawfordville,State Senate,3,REP,Corey Simon,2760
+Wakulla,03 Sopchoppy,State Senate,3,REP,Corey Simon,675
+Wakulla,04 Smith Creek,State Senate,3,REP,Corey Simon,152
+Wakulla,05 St. Marks,State Senate,3,REP,Corey Simon,196
+Wakulla,06 Medart,State Senate,3,REP,Corey Simon,835
+Wakulla,07 Ivan,State Senate,3,REP,Corey Simon,1771
+Wakulla,08 Shell Point,State Senate,3,REP,Corey Simon,433
+Wakulla,09 Panacea,State Senate,3,REP,Corey Simon,271
+Wakulla,10 Ochlockonee,State Senate,3,REP,Corey Simon,267
+Wakulla,11 Bethel Church,State Senate,3,REP,Corey Simon,889
+Wakulla,12 Shadeville,State Senate,3,REP,Corey Simon,1017
+Wakulla,01 Wakulla Station,State Senate,3,DEM,Loranne Ausley,605
+Wakulla,02 Crawfordville,State Senate,3,DEM,Loranne Ausley,1145
+Wakulla,03 Sopchoppy,State Senate,3,DEM,Loranne Ausley,276
+Wakulla,04 Smith Creek,State Senate,3,DEM,Loranne Ausley,15
+Wakulla,05 St. Marks,State Senate,3,DEM,Loranne Ausley,69
+Wakulla,06 Medart,State Senate,3,DEM,Loranne Ausley,218
+Wakulla,07 Ivan,State Senate,3,DEM,Loranne Ausley,636
+Wakulla,08 Shell Point,State Senate,3,DEM,Loranne Ausley,191
+Wakulla,09 Panacea,State Senate,3,DEM,Loranne Ausley,81
+Wakulla,10 Ochlockonee,State Senate,3,DEM,Loranne Ausley,99
+Wakulla,11 Bethel Church,State Senate,3,DEM,Loranne Ausley,418
+Wakulla,12 Shadeville,State Senate,3,DEM,Loranne Ausley,444
+Wakulla,01 Wakulla Station,State Senate,3,"",OverVotes,0
+Wakulla,02 Crawfordville,State Senate,3,"",OverVotes,0
+Wakulla,03 Sopchoppy,State Senate,3,"",OverVotes,0
+Wakulla,04 Smith Creek,State Senate,3,"",OverVotes,0
+Wakulla,05 St. Marks,State Senate,3,"",OverVotes,0
+Wakulla,06 Medart,State Senate,3,"",OverVotes,0
+Wakulla,07 Ivan,State Senate,3,"",OverVotes,0
+Wakulla,08 Shell Point,State Senate,3,"",OverVotes,0
+Wakulla,09 Panacea,State Senate,3,"",OverVotes,0
+Wakulla,10 Ochlockonee,State Senate,3,"",OverVotes,0
+Wakulla,11 Bethel Church,State Senate,3,"",OverVotes,0
+Wakulla,12 Shadeville,State Senate,3,"",OverVotes,0
+Wakulla,01 Wakulla Station,State Senate,3,"",UnderVotes,46
+Wakulla,02 Crawfordville,State Senate,3,"",UnderVotes,76
+Wakulla,03 Sopchoppy,State Senate,3,"",UnderVotes,21
+Wakulla,04 Smith Creek,State Senate,3,"",UnderVotes,2
+Wakulla,05 St. Marks,State Senate,3,"",UnderVotes,9
+Wakulla,06 Medart,State Senate,3,"",UnderVotes,30
+Wakulla,07 Ivan,State Senate,3,"",UnderVotes,50
+Wakulla,08 Shell Point,State Senate,3,"",UnderVotes,13
+Wakulla,09 Panacea,State Senate,3,"",UnderVotes,11
+Wakulla,10 Ochlockonee,State Senate,3,"",UnderVotes,8
+Wakulla,11 Bethel Church,State Senate,3,"",UnderVotes,43
+Wakulla,12 Shadeville,State Senate,3,"",UnderVotes,35
+Wakulla,01 Wakulla Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1115
+Wakulla,02 Crawfordville,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,2378
+Wakulla,03 Sopchoppy,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,547
+Wakulla,04 Smith Creek,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,98
+Wakulla,05 St. Marks,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,165
+Wakulla,06 Medart,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,624
+Wakulla,07 Ivan,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1458
+Wakulla,08 Shell Point,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,363
+Wakulla,09 Panacea,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,193
+Wakulla,10 Ochlockonee,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,241
+Wakulla,11 Bethel Church,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,809
+Wakulla,12 Shadeville,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,870
+Wakulla,01 Wakulla Station,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,622
+Wakulla,02 Crawfordville,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,1184
+Wakulla,03 Sopchoppy,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,311
+Wakulla,04 Smith Creek,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,52
+Wakulla,05 St. Marks,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,71
+Wakulla,06 Medart,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,314
+Wakulla,07 Ivan,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,760
+Wakulla,08 Shell Point,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,182
+Wakulla,09 Panacea,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,125
+Wakulla,10 Ochlockonee,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,81
+Wakulla,11 Bethel Church,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,414
+Wakulla,12 Shadeville,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,487
+Wakulla,01 Wakulla Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,03 Sopchoppy,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Wakulla,04 Smith Creek,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,06 Medart,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,07 Ivan,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,3
+Wakulla,08 Shell Point,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,09 Panacea,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,12 Shadeville,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,01 Wakulla Station,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,220
+Wakulla,02 Crawfordville,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,419
+Wakulla,03 Sopchoppy,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,113
+Wakulla,04 Smith Creek,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,19
+Wakulla,05 St. Marks,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,38
+Wakulla,06 Medart,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,145
+Wakulla,07 Ivan,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,236
+Wakulla,08 Shell Point,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,92
+Wakulla,09 Panacea,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,45
+Wakulla,10 Ochlockonee,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,52
+Wakulla,11 Bethel Church,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,127
+Wakulla,12 Shadeville,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,139
+Wakulla,01 Wakulla Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1099
+Wakulla,02 Crawfordville,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,2390
+Wakulla,03 Sopchoppy,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,548
+Wakulla,04 Smith Creek,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,103
+Wakulla,05 St. Marks,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,163
+Wakulla,06 Medart,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,619
+Wakulla,07 Ivan,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1462
+Wakulla,08 Shell Point,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,351
+Wakulla,09 Panacea,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,205
+Wakulla,10 Ochlockonee,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,241
+Wakulla,11 Bethel Church,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,809
+Wakulla,12 Shadeville,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,890
+Wakulla,01 Wakulla Station,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,631
+Wakulla,02 Crawfordville,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,1167
+Wakulla,03 Sopchoppy,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,306
+Wakulla,04 Smith Creek,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,47
+Wakulla,05 St. Marks,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,72
+Wakulla,06 Medart,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,310
+Wakulla,07 Ivan,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,748
+Wakulla,08 Shell Point,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,183
+Wakulla,09 Panacea,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,113
+Wakulla,10 Ochlockonee,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,81
+Wakulla,11 Bethel Church,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,406
+Wakulla,12 Shadeville,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,466
+Wakulla,01 Wakulla Station,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,03 Sopchoppy,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,04 Smith Creek,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,06 Medart,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,2
+Wakulla,07 Ivan,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,08 Shell Point,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,09 Panacea,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,12 Shadeville,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,01 Wakulla Station,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,227
+Wakulla,02 Crawfordville,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,424
+Wakulla,03 Sopchoppy,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,118
+Wakulla,04 Smith Creek,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,19
+Wakulla,05 St. Marks,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,39
+Wakulla,06 Medart,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,152
+Wakulla,07 Ivan,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,247
+Wakulla,08 Shell Point,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,103
+Wakulla,09 Panacea,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,45
+Wakulla,10 Ochlockonee,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,52
+Wakulla,11 Bethel Church,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,135
+Wakulla,12 Shadeville,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,140
+Wakulla,01 Wakulla Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1101
+Wakulla,02 Crawfordville,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,2395
+Wakulla,03 Sopchoppy,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,535
+Wakulla,04 Smith Creek,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,96
+Wakulla,05 St. Marks,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,163
+Wakulla,06 Medart,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,619
+Wakulla,07 Ivan,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1472
+Wakulla,08 Shell Point,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,345
+Wakulla,09 Panacea,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,197
+Wakulla,10 Ochlockonee,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,236
+Wakulla,11 Bethel Church,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,806
+Wakulla,12 Shadeville,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,891
+Wakulla,01 Wakulla Station,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,620
+Wakulla,02 Crawfordville,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,1150
+Wakulla,03 Sopchoppy,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,316
+Wakulla,04 Smith Creek,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,52
+Wakulla,05 St. Marks,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,72
+Wakulla,06 Medart,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,312
+Wakulla,07 Ivan,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,730
+Wakulla,08 Shell Point,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,189
+Wakulla,09 Panacea,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,119
+Wakulla,10 Ochlockonee,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,82
+Wakulla,11 Bethel Church,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,408
+Wakulla,12 Shadeville,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,462
+Wakulla,01 Wakulla Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,3
+Wakulla,03 Sopchoppy,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,04 Smith Creek,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,06 Medart,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Wakulla,07 Ivan,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Wakulla,08 Shell Point,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Wakulla,09 Panacea,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Wakulla,12 Shadeville,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Wakulla,01 Wakulla Station,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,236
+Wakulla,02 Crawfordville,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,433
+Wakulla,03 Sopchoppy,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,121
+Wakulla,04 Smith Creek,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,21
+Wakulla,05 St. Marks,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,39
+Wakulla,06 Medart,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,151
+Wakulla,07 Ivan,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,254
+Wakulla,08 Shell Point,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,102
+Wakulla,09 Panacea,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,47
+Wakulla,10 Ochlockonee,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,56
+Wakulla,11 Bethel Church,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,135
+Wakulla,12 Shadeville,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,142
+Wakulla,01 Wakulla Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,996
+Wakulla,02 Crawfordville,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,2171
+Wakulla,03 Sopchoppy,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,502
+Wakulla,04 Smith Creek,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,81
+Wakulla,05 St. Marks,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,152
+Wakulla,06 Medart,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,559
+Wakulla,07 Ivan,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1330
+Wakulla,08 Shell Point,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,351
+Wakulla,09 Panacea,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,182
+Wakulla,10 Ochlockonee,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,207
+Wakulla,11 Bethel Church,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,766
+Wakulla,12 Shadeville,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,819
+Wakulla,01 Wakulla Station,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,735
+Wakulla,02 Crawfordville,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,1362
+Wakulla,03 Sopchoppy,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,353
+Wakulla,04 Smith Creek,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,67
+Wakulla,05 St. Marks,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,82
+Wakulla,06 Medart,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,370
+Wakulla,07 Ivan,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,876
+Wakulla,08 Shell Point,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,185
+Wakulla,09 Panacea,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,132
+Wakulla,10 Ochlockonee,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,113
+Wakulla,11 Bethel Church,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,450
+Wakulla,12 Shadeville,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,531
+Wakulla,01 Wakulla Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,4
+Wakulla,03 Sopchoppy,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Wakulla,04 Smith Creek,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,06 Medart,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,07 Ivan,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,3
+Wakulla,08 Shell Point,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Wakulla,09 Panacea,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,12 Shadeville,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,01 Wakulla Station,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,226
+Wakulla,02 Crawfordville,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,444
+Wakulla,03 Sopchoppy,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,116
+Wakulla,04 Smith Creek,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,21
+Wakulla,05 St. Marks,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,40
+Wakulla,06 Medart,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,154
+Wakulla,07 Ivan,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,248
+Wakulla,08 Shell Point,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,99
+Wakulla,09 Panacea,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,49
+Wakulla,10 Ochlockonee,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,54
+Wakulla,11 Bethel Church,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,134
+Wakulla,12 Shadeville,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,146
+Wakulla,01 Wakulla Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1099
+Wakulla,02 Crawfordville,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,2352
+Wakulla,03 Sopchoppy,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,540
+Wakulla,04 Smith Creek,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,94
+Wakulla,05 St. Marks,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,168
+Wakulla,06 Medart,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,617
+Wakulla,07 Ivan,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1437
+Wakulla,08 Shell Point,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,354
+Wakulla,09 Panacea,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,188
+Wakulla,10 Ochlockonee,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,228
+Wakulla,11 Bethel Church,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,807
+Wakulla,12 Shadeville,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,871
+Wakulla,01 Wakulla Station,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,630
+Wakulla,02 Crawfordville,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,1185
+Wakulla,03 Sopchoppy,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,315
+Wakulla,04 Smith Creek,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,54
+Wakulla,05 St. Marks,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,66
+Wakulla,06 Medart,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,313
+Wakulla,07 Ivan,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,771
+Wakulla,08 Shell Point,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,180
+Wakulla,09 Panacea,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,128
+Wakulla,10 Ochlockonee,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,92
+Wakulla,11 Bethel Church,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,408
+Wakulla,12 Shadeville,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,483
+Wakulla,01 Wakulla Station,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,03 Sopchoppy,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,04 Smith Creek,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,06 Medart,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,07 Ivan,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,08 Shell Point,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,2
+Wakulla,09 Panacea,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,12 Shadeville,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Wakulla,01 Wakulla Station,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,228
+Wakulla,02 Crawfordville,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,444
+Wakulla,03 Sopchoppy,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,117
+Wakulla,04 Smith Creek,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,21
+Wakulla,05 St. Marks,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,40
+Wakulla,06 Medart,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,153
+Wakulla,07 Ivan,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,249
+Wakulla,08 Shell Point,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,101
+Wakulla,09 Panacea,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,47
+Wakulla,10 Ochlockonee,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,54
+Wakulla,11 Bethel Church,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,135
+Wakulla,12 Shadeville,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,142
+Wakulla,01 Wakulla Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1047
+Wakulla,02 Crawfordville,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,2343
+Wakulla,03 Sopchoppy,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,525
+Wakulla,04 Smith Creek,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,90
+Wakulla,05 St. Marks,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,158
+Wakulla,06 Medart,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,609
+Wakulla,07 Ivan,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,1424
+Wakulla,08 Shell Point,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,332
+Wakulla,09 Panacea,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,203
+Wakulla,10 Ochlockonee,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,227
+Wakulla,11 Bethel Church,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,788
+Wakulla,12 Shadeville,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,828
+Wakulla,01 Wakulla Station,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,635
+Wakulla,02 Crawfordville,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,1130
+Wakulla,03 Sopchoppy,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,324
+Wakulla,04 Smith Creek,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,55
+Wakulla,05 St. Marks,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,67
+Wakulla,06 Medart,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,304
+Wakulla,07 Ivan,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,714
+Wakulla,08 Shell Point,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,183
+Wakulla,09 Panacea,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,109
+Wakulla,10 Ochlockonee,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,82
+Wakulla,11 Bethel Church,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,394
+Wakulla,12 Shadeville,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,495
+Wakulla,01 Wakulla Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,2
+Wakulla,03 Sopchoppy,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,04 Smith Creek,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Wakulla,06 Medart,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,07 Ivan,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,08 Shell Point,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,09 Panacea,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Wakulla,12 Shadeville,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Wakulla,01 Wakulla Station,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,275
+Wakulla,02 Crawfordville,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,506
+Wakulla,03 Sopchoppy,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,123
+Wakulla,04 Smith Creek,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,24
+Wakulla,05 St. Marks,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,48
+Wakulla,06 Medart,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,170
+Wakulla,07 Ivan,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,319
+Wakulla,08 Shell Point,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,122
+Wakulla,09 Panacea,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,51
+Wakulla,10 Ochlockonee,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,65
+Wakulla,11 Bethel Church,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,167
+Wakulla,12 Shadeville,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,173
+Wakulla,01 Wakulla Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1078
+Wakulla,02 Crawfordville,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,2339
+Wakulla,03 Sopchoppy,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,537
+Wakulla,04 Smith Creek,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,93
+Wakulla,05 St. Marks,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,156
+Wakulla,06 Medart,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,613
+Wakulla,07 Ivan,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,1446
+Wakulla,08 Shell Point,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,356
+Wakulla,09 Panacea,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,198
+Wakulla,10 Ochlockonee,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,222
+Wakulla,11 Bethel Church,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,795
+Wakulla,12 Shadeville,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,870
+Wakulla,01 Wakulla Station,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,602
+Wakulla,02 Crawfordville,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,1113
+Wakulla,03 Sopchoppy,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,306
+Wakulla,04 Smith Creek,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,54
+Wakulla,05 St. Marks,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,69
+Wakulla,06 Medart,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,295
+Wakulla,07 Ivan,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,687
+Wakulla,08 Shell Point,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,162
+Wakulla,09 Panacea,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,111
+Wakulla,10 Ochlockonee,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,83
+Wakulla,11 Bethel Church,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,391
+Wakulla,12 Shadeville,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,451
+Wakulla,01 Wakulla Station,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
+Wakulla,03 Sopchoppy,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Wakulla,04 Smith Creek,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,06 Medart,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,07 Ivan,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,08 Shell Point,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,09 Panacea,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Wakulla,10 Ochlockonee,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Wakulla,12 Shadeville,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,2
+Wakulla,01 Wakulla Station,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,277
+Wakulla,02 Crawfordville,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,527
+Wakulla,03 Sopchoppy,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,128
+Wakulla,04 Smith Creek,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,22
+Wakulla,05 St. Marks,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,49
+Wakulla,06 Medart,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,175
+Wakulla,07 Ivan,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,324
+Wakulla,08 Shell Point,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,119
+Wakulla,09 Panacea,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,53
+Wakulla,10 Ochlockonee,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,69
+Wakulla,11 Bethel Church,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,164
+Wakulla,12 Shadeville,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,173
+Wakulla,01 Wakulla Station,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1081
+Wakulla,02 Crawfordville,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,2335
+Wakulla,03 Sopchoppy,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,539
+Wakulla,04 Smith Creek,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,95
+Wakulla,05 St. Marks,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,161
+Wakulla,06 Medart,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,623
+Wakulla,07 Ivan,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1431
+Wakulla,08 Shell Point,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,333
+Wakulla,09 Panacea,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,205
+Wakulla,10 Ochlockonee,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,221
+Wakulla,11 Bethel Church,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,789
+Wakulla,12 Shadeville,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,853
+Wakulla,01 Wakulla Station,Retention of Bobby Long,First District Court of Appeal,NOP,No,595
+Wakulla,02 Crawfordville,Retention of Bobby Long,First District Court of Appeal,NOP,No,1117
+Wakulla,03 Sopchoppy,Retention of Bobby Long,First District Court of Appeal,NOP,No,300
+Wakulla,04 Smith Creek,Retention of Bobby Long,First District Court of Appeal,NOP,No,52
+Wakulla,05 St. Marks,Retention of Bobby Long,First District Court of Appeal,NOP,No,65
+Wakulla,06 Medart,Retention of Bobby Long,First District Court of Appeal,NOP,No,283
+Wakulla,07 Ivan,Retention of Bobby Long,First District Court of Appeal,NOP,No,691
+Wakulla,08 Shell Point,Retention of Bobby Long,First District Court of Appeal,NOP,No,181
+Wakulla,09 Panacea,Retention of Bobby Long,First District Court of Appeal,NOP,No,106
+Wakulla,10 Ochlockonee,Retention of Bobby Long,First District Court of Appeal,NOP,No,86
+Wakulla,11 Bethel Church,Retention of Bobby Long,First District Court of Appeal,NOP,No,392
+Wakulla,12 Shadeville,Retention of Bobby Long,First District Court of Appeal,NOP,No,468
+Wakulla,01 Wakulla Station,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Wakulla,02 Crawfordville,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Wakulla,03 Sopchoppy,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Wakulla,04 Smith Creek,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Wakulla,06 Medart,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Wakulla,07 Ivan,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Wakulla,08 Shell Point,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Wakulla,09 Panacea,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Wakulla,12 Shadeville,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Wakulla,01 Wakulla Station,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,280
+Wakulla,02 Crawfordville,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,528
+Wakulla,03 Sopchoppy,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,133
+Wakulla,04 Smith Creek,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,22
+Wakulla,05 St. Marks,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,48
+Wakulla,06 Medart,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,176
+Wakulla,07 Ivan,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,335
+Wakulla,08 Shell Point,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,122
+Wakulla,09 Panacea,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,52
+Wakulla,10 Ochlockonee,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,67
+Wakulla,11 Bethel Church,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,168
+Wakulla,12 Shadeville,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,174
+Wakulla,01 Wakulla Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1044
+Wakulla,02 Crawfordville,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,2280
+Wakulla,03 Sopchoppy,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,538
+Wakulla,04 Smith Creek,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,87
+Wakulla,05 St. Marks,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,159
+Wakulla,06 Medart,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,617
+Wakulla,07 Ivan,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,1378
+Wakulla,08 Shell Point,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,349
+Wakulla,09 Panacea,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,187
+Wakulla,10 Ochlockonee,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,207
+Wakulla,11 Bethel Church,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,787
+Wakulla,12 Shadeville,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,856
+Wakulla,01 Wakulla Station,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,629
+Wakulla,02 Crawfordville,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,1166
+Wakulla,03 Sopchoppy,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,304
+Wakulla,04 Smith Creek,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,60
+Wakulla,05 St. Marks,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,66
+Wakulla,06 Medart,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,292
+Wakulla,07 Ivan,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,749
+Wakulla,08 Shell Point,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,166
+Wakulla,09 Panacea,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,125
+Wakulla,10 Ochlockonee,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,98
+Wakulla,11 Bethel Church,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,392
+Wakulla,12 Shadeville,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,461
+Wakulla,01 Wakulla Station,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Wakulla,03 Sopchoppy,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,2
+Wakulla,04 Smith Creek,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Wakulla,05 St. Marks,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Wakulla,06 Medart,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Wakulla,07 Ivan,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Wakulla,08 Shell Point,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Wakulla,09 Panacea,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Wakulla,12 Shadeville,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,3
+Wakulla,01 Wakulla Station,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,284
+Wakulla,02 Crawfordville,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,534
+Wakulla,03 Sopchoppy,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,128
+Wakulla,04 Smith Creek,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,21
+Wakulla,05 St. Marks,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,48
+Wakulla,06 Medart,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,174
+Wakulla,07 Ivan,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,330
+Wakulla,08 Shell Point,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,122
+Wakulla,09 Panacea,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,51
+Wakulla,10 Ochlockonee,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,69
+Wakulla,11 Bethel Church,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,171
+Wakulla,12 Shadeville,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,176
+Wakulla,01 Wakulla Station,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1032
+Wakulla,02 Crawfordville,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,2266
+Wakulla,03 Sopchoppy,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,521
+Wakulla,04 Smith Creek,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,96
+Wakulla,05 St. Marks,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,158
+Wakulla,06 Medart,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,604
+Wakulla,07 Ivan,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,1389
+Wakulla,08 Shell Point,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,323
+Wakulla,09 Panacea,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,197
+Wakulla,10 Ochlockonee,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,219
+Wakulla,11 Bethel Church,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,794
+Wakulla,12 Shadeville,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,818
+Wakulla,01 Wakulla Station,Retention of Bo Winokur,First District Court of Appeal,NOP,No,640
+Wakulla,02 Crawfordville,Retention of Bo Winokur,First District Court of Appeal,NOP,No,1161
+Wakulla,03 Sopchoppy,Retention of Bo Winokur,First District Court of Appeal,NOP,No,324
+Wakulla,04 Smith Creek,Retention of Bo Winokur,First District Court of Appeal,NOP,No,50
+Wakulla,05 St. Marks,Retention of Bo Winokur,First District Court of Appeal,NOP,No,65
+Wakulla,06 Medart,Retention of Bo Winokur,First District Court of Appeal,NOP,No,302
+Wakulla,07 Ivan,Retention of Bo Winokur,First District Court of Appeal,NOP,No,733
+Wakulla,08 Shell Point,Retention of Bo Winokur,First District Court of Appeal,NOP,No,188
+Wakulla,09 Panacea,Retention of Bo Winokur,First District Court of Appeal,NOP,No,112
+Wakulla,10 Ochlockonee,Retention of Bo Winokur,First District Court of Appeal,NOP,No,86
+Wakulla,11 Bethel Church,Retention of Bo Winokur,First District Court of Appeal,NOP,No,387
+Wakulla,12 Shadeville,Retention of Bo Winokur,First District Court of Appeal,NOP,No,499
+Wakulla,01 Wakulla Station,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,02 Crawfordville,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Wakulla,03 Sopchoppy,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,04 Smith Creek,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,05 St. Marks,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,06 Medart,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,07 Ivan,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,08 Shell Point,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,09 Panacea,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,10 Ochlockonee,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,11 Bethel Church,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,12 Shadeville,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Wakulla,01 Wakulla Station,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,285
+Wakulla,02 Crawfordville,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,553
+Wakulla,03 Sopchoppy,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,127
+Wakulla,04 Smith Creek,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,23
+Wakulla,05 St. Marks,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,51
+Wakulla,06 Medart,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,177
+Wakulla,07 Ivan,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,335
+Wakulla,08 Shell Point,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,126
+Wakulla,09 Panacea,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,54
+Wakulla,10 Ochlockonee,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,69
+Wakulla,11 Bethel Church,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,169
+Wakulla,12 Shadeville,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,179
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,NOP,Eddie Evans,716
+Wakulla,02 Crawfordville,County Court Judge,Group 1,NOP,Eddie Evans,1573
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,NOP,Eddie Evans,568
+Wakulla,04 Smith Creek,County Court Judge,Group 1,NOP,Eddie Evans,48
+Wakulla,05 St. Marks,County Court Judge,Group 1,NOP,Eddie Evans,96
+Wakulla,06 Medart,County Court Judge,Group 1,NOP,Eddie Evans,481
+Wakulla,07 Ivan,County Court Judge,Group 1,NOP,Eddie Evans,1015
+Wakulla,08 Shell Point,County Court Judge,Group 1,NOP,Eddie Evans,233
+Wakulla,09 Panacea,County Court Judge,Group 1,NOP,Eddie Evans,137
+Wakulla,10 Ochlockonee,County Court Judge,Group 1,NOP,Eddie Evans,146
+Wakulla,11 Bethel Church,County Court Judge,Group 1,NOP,Eddie Evans,550
+Wakulla,12 Shadeville,County Court Judge,Group 1,NOP,Eddie Evans,630
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,NOP,Brian Miller,1006
+Wakulla,02 Crawfordville,County Court Judge,Group 1,NOP,Brian Miller,2013
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,NOP,Brian Miller,346
+Wakulla,04 Smith Creek,County Court Judge,Group 1,NOP,Brian Miller,110
+Wakulla,05 St. Marks,County Court Judge,Group 1,NOP,Brian Miller,131
+Wakulla,06 Medart,County Court Judge,Group 1,NOP,Brian Miller,494
+Wakulla,07 Ivan,County Court Judge,Group 1,NOP,Brian Miller,1165
+Wakulla,08 Shell Point,County Court Judge,Group 1,NOP,Brian Miller,307
+Wakulla,09 Panacea,County Court Judge,Group 1,NOP,Brian Miller,185
+Wakulla,10 Ochlockonee,County Court Judge,Group 1,NOP,Brian Miller,169
+Wakulla,11 Bethel Church,County Court Judge,Group 1,NOP,Brian Miller,620
+Wakulla,12 Shadeville,County Court Judge,Group 1,NOP,Brian Miller,719
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,"",OverVotes,1
+Wakulla,02 Crawfordville,County Court Judge,Group 1,"",OverVotes,4
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,"",OverVotes,1
+Wakulla,04 Smith Creek,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,05 St. Marks,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,06 Medart,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,07 Ivan,County Court Judge,Group 1,"",OverVotes,3
+Wakulla,08 Shell Point,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,09 Panacea,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,10 Ochlockonee,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,11 Bethel Church,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,12 Shadeville,County Court Judge,Group 1,"",OverVotes,0
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,"",UnderVotes,234
+Wakulla,02 Crawfordville,County Court Judge,Group 1,"",UnderVotes,391
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,"",UnderVotes,57
+Wakulla,04 Smith Creek,County Court Judge,Group 1,"",UnderVotes,11
+Wakulla,05 St. Marks,County Court Judge,Group 1,"",UnderVotes,47
+Wakulla,06 Medart,County Court Judge,Group 1,"",UnderVotes,108
+Wakulla,07 Ivan,County Court Judge,Group 1,"",UnderVotes,274
+Wakulla,08 Shell Point,County Court Judge,Group 1,"",UnderVotes,97
+Wakulla,09 Panacea,County Court Judge,Group 1,"",UnderVotes,41
+Wakulla,10 Ochlockonee,County Court Judge,Group 1,"",UnderVotes,59
+Wakulla,11 Bethel Church,County Court Judge,Group 1,"",UnderVotes,180
+Wakulla,12 Shadeville,County Court Judge,Group 1,"",UnderVotes,147
+Wakulla,01 Wakulla Station,School Board,1,NOP,Eddie Hand,846
+Wakulla,02 Crawfordville,School Board,1,NOP,Eddie Hand,1996
+Wakulla,03 Sopchoppy,School Board,1,NOP,Eddie Hand,470
+Wakulla,04 Smith Creek,School Board,1,NOP,Eddie Hand,86
+Wakulla,05 St. Marks,School Board,1,NOP,Eddie Hand,98
+Wakulla,06 Medart,School Board,1,NOP,Eddie Hand,518
+Wakulla,07 Ivan,School Board,1,NOP,Eddie Hand,1140
+Wakulla,08 Shell Point,School Board,1,NOP,Eddie Hand,275
+Wakulla,09 Panacea,School Board,1,NOP,Eddie Hand,159
+Wakulla,10 Ochlockonee,School Board,1,NOP,Eddie Hand,153
+Wakulla,11 Bethel Church,School Board,1,NOP,Eddie Hand,633
+Wakulla,12 Shadeville,School Board,1,NOP,Eddie Hand,706
+Wakulla,01 Wakulla Station,School Board,1,NOP,Dod Walker,870
+Wakulla,02 Crawfordville,School Board,1,NOP,Dod Walker,1590
+Wakulla,03 Sopchoppy,School Board,1,NOP,Dod Walker,415
+Wakulla,04 Smith Creek,School Board,1,NOP,Dod Walker,63
+Wakulla,05 St. Marks,School Board,1,NOP,Dod Walker,135
+Wakulla,06 Medart,School Board,1,NOP,Dod Walker,461
+Wakulla,07 Ivan,School Board,1,NOP,Dod Walker,1032
+Wakulla,08 Shell Point,School Board,1,NOP,Dod Walker,246
+Wakulla,09 Panacea,School Board,1,NOP,Dod Walker,154
+Wakulla,10 Ochlockonee,School Board,1,NOP,Dod Walker,147
+Wakulla,11 Bethel Church,School Board,1,NOP,Dod Walker,556
+Wakulla,12 Shadeville,School Board,1,NOP,Dod Walker,628
+Wakulla,01 Wakulla Station,School Board,1,"",OverVotes,0
+Wakulla,02 Crawfordville,School Board,1,"",OverVotes,0
+Wakulla,03 Sopchoppy,School Board,1,"",OverVotes,1
+Wakulla,04 Smith Creek,School Board,1,"",OverVotes,0
+Wakulla,05 St. Marks,School Board,1,"",OverVotes,1
+Wakulla,06 Medart,School Board,1,"",OverVotes,0
+Wakulla,07 Ivan,School Board,1,"",OverVotes,1
+Wakulla,08 Shell Point,School Board,1,"",OverVotes,0
+Wakulla,09 Panacea,School Board,1,"",OverVotes,0
+Wakulla,10 Ochlockonee,School Board,1,"",OverVotes,0
+Wakulla,11 Bethel Church,School Board,1,"",OverVotes,0
+Wakulla,12 Shadeville,School Board,1,"",OverVotes,0
+Wakulla,01 Wakulla Station,School Board,1,"",UnderVotes,241
+Wakulla,02 Crawfordville,School Board,1,"",UnderVotes,395
+Wakulla,03 Sopchoppy,School Board,1,"",UnderVotes,86
+Wakulla,04 Smith Creek,School Board,1,"",UnderVotes,20
+Wakulla,05 St. Marks,School Board,1,"",UnderVotes,40
+Wakulla,06 Medart,School Board,1,"",UnderVotes,104
+Wakulla,07 Ivan,School Board,1,"",UnderVotes,284
+Wakulla,08 Shell Point,School Board,1,"",UnderVotes,116
+Wakulla,09 Panacea,School Board,1,"",UnderVotes,50
+Wakulla,10 Ochlockonee,School Board,1,"",UnderVotes,74
+Wakulla,11 Bethel Church,School Board,1,"",UnderVotes,161
+Wakulla,12 Shadeville,School Board,1,"",UnderVotes,162
+Wakulla,01 Wakulla Station,County Commissioner,2,REP,Fred Nichols II,1253
+Wakulla,02 Crawfordville,County Commissioner,2,REP,Fred Nichols II,2627
+Wakulla,03 Sopchoppy,County Commissioner,2,REP,Fred Nichols II,639
+Wakulla,04 Smith Creek,County Commissioner,2,REP,Fred Nichols II,131
+Wakulla,05 St. Marks,County Commissioner,2,REP,Fred Nichols II,183
+Wakulla,06 Medart,County Commissioner,2,REP,Fred Nichols II,822
+Wakulla,07 Ivan,County Commissioner,2,REP,Fred Nichols II,1632
+Wakulla,08 Shell Point,County Commissioner,2,REP,Fred Nichols II,379
+Wakulla,09 Panacea,County Commissioner,2,REP,Fred Nichols II,256
+Wakulla,10 Ochlockonee,County Commissioner,2,REP,Fred Nichols II,249
+Wakulla,11 Bethel Church,County Commissioner,2,REP,Fred Nichols II,834
+Wakulla,12 Shadeville,County Commissioner,2,REP,Fred Nichols II,955
+Wakulla,01 Wakulla Station,County Commissioner,2,DEM,John Quinton,660
+Wakulla,02 Crawfordville,County Commissioner,2,DEM,John Quinton,1297
+Wakulla,03 Sopchoppy,County Commissioner,2,DEM,John Quinton,312
+Wakulla,04 Smith Creek,County Commissioner,2,DEM,John Quinton,32
+Wakulla,05 St. Marks,County Commissioner,2,DEM,John Quinton,83
+Wakulla,06 Medart,County Commissioner,2,DEM,John Quinton,243
+Wakulla,07 Ivan,County Commissioner,2,DEM,John Quinton,776
+Wakulla,08 Shell Point,County Commissioner,2,DEM,John Quinton,240
+Wakulla,09 Panacea,County Commissioner,2,DEM,John Quinton,101
+Wakulla,10 Ochlockonee,County Commissioner,2,DEM,John Quinton,116
+Wakulla,11 Bethel Church,County Commissioner,2,DEM,John Quinton,484
+Wakulla,12 Shadeville,County Commissioner,2,DEM,John Quinton,514
+Wakulla,01 Wakulla Station,County Commissioner,2,"",OverVotes,0
+Wakulla,02 Crawfordville,County Commissioner,2,"",OverVotes,1
+Wakulla,03 Sopchoppy,County Commissioner,2,"",OverVotes,0
+Wakulla,04 Smith Creek,County Commissioner,2,"",OverVotes,0
+Wakulla,05 St. Marks,County Commissioner,2,"",OverVotes,0
+Wakulla,06 Medart,County Commissioner,2,"",OverVotes,0
+Wakulla,07 Ivan,County Commissioner,2,"",OverVotes,0
+Wakulla,08 Shell Point,County Commissioner,2,"",OverVotes,0
+Wakulla,09 Panacea,County Commissioner,2,"",OverVotes,0
+Wakulla,10 Ochlockonee,County Commissioner,2,"",OverVotes,0
+Wakulla,11 Bethel Church,County Commissioner,2,"",OverVotes,0
+Wakulla,12 Shadeville,County Commissioner,2,"",OverVotes,0
+Wakulla,01 Wakulla Station,County Commissioner,2,"",UnderVotes,44
+Wakulla,02 Crawfordville,County Commissioner,2,"",UnderVotes,56
+Wakulla,03 Sopchoppy,County Commissioner,2,"",UnderVotes,21
+Wakulla,04 Smith Creek,County Commissioner,2,"",UnderVotes,6
+Wakulla,05 St. Marks,County Commissioner,2,"",UnderVotes,8
+Wakulla,06 Medart,County Commissioner,2,"",UnderVotes,18
+Wakulla,07 Ivan,County Commissioner,2,"",UnderVotes,49
+Wakulla,08 Shell Point,County Commissioner,2,"",UnderVotes,18
+Wakulla,09 Panacea,County Commissioner,2,"",UnderVotes,6
+Wakulla,10 Ochlockonee,County Commissioner,2,"",UnderVotes,9
+Wakulla,11 Bethel Church,County Commissioner,2,"",UnderVotes,32
+Wakulla,12 Shadeville,County Commissioner,2,"",UnderVotes,27
+Wakulla,01 Wakulla Station,County Commissioner,4,REP,Quincee Messersmith,1128
+Wakulla,02 Crawfordville,County Commissioner,4,REP,Quincee Messersmith,2268
+Wakulla,03 Sopchoppy,County Commissioner,4,REP,Quincee Messersmith,574
+Wakulla,04 Smith Creek,County Commissioner,4,REP,Quincee Messersmith,122
+Wakulla,05 St. Marks,County Commissioner,4,REP,Quincee Messersmith,185
+Wakulla,06 Medart,County Commissioner,4,REP,Quincee Messersmith,684
+Wakulla,07 Ivan,County Commissioner,4,REP,Quincee Messersmith,1463
+Wakulla,08 Shell Point,County Commissioner,4,REP,Quincee Messersmith,359
+Wakulla,09 Panacea,County Commissioner,4,REP,Quincee Messersmith,223
+Wakulla,10 Ochlockonee,County Commissioner,4,REP,Quincee Messersmith,238
+Wakulla,11 Bethel Church,County Commissioner,4,REP,Quincee Messersmith,712
+Wakulla,12 Shadeville,County Commissioner,4,REP,Quincee Messersmith,769
+Wakulla,01 Wakulla Station,County Commissioner,4,DEM,Samuel G McGrew Jr.,784
+Wakulla,02 Crawfordville,County Commissioner,4,DEM,Samuel G McGrew Jr.,1643
+Wakulla,03 Sopchoppy,County Commissioner,4,DEM,Samuel G McGrew Jr.,380
+Wakulla,04 Smith Creek,County Commissioner,4,DEM,Samuel G McGrew Jr.,41
+Wakulla,05 St. Marks,County Commissioner,4,DEM,Samuel G McGrew Jr.,81
+Wakulla,06 Medart,County Commissioner,4,DEM,Samuel G McGrew Jr.,376
+Wakulla,07 Ivan,County Commissioner,4,DEM,Samuel G McGrew Jr.,953
+Wakulla,08 Shell Point,County Commissioner,4,DEM,Samuel G McGrew Jr.,266
+Wakulla,09 Panacea,County Commissioner,4,DEM,Samuel G McGrew Jr.,133
+Wakulla,10 Ochlockonee,County Commissioner,4,DEM,Samuel G McGrew Jr.,123
+Wakulla,11 Bethel Church,County Commissioner,4,DEM,Samuel G McGrew Jr.,614
+Wakulla,12 Shadeville,County Commissioner,4,DEM,Samuel G McGrew Jr.,704
+Wakulla,01 Wakulla Station,County Commissioner,4,"",WriteinVotes,2
+Wakulla,02 Crawfordville,County Commissioner,4,"",WriteinVotes,14
+Wakulla,03 Sopchoppy,County Commissioner,4,"",WriteinVotes,2
+Wakulla,04 Smith Creek,County Commissioner,4,"",WriteinVotes,0
+Wakulla,05 St. Marks,County Commissioner,4,"",WriteinVotes,2
+Wakulla,06 Medart,County Commissioner,4,"",WriteinVotes,4
+Wakulla,07 Ivan,County Commissioner,4,"",WriteinVotes,3
+Wakulla,08 Shell Point,County Commissioner,4,"",WriteinVotes,3
+Wakulla,09 Panacea,County Commissioner,4,"",WriteinVotes,1
+Wakulla,10 Ochlockonee,County Commissioner,4,"",WriteinVotes,1
+Wakulla,11 Bethel Church,County Commissioner,4,"",WriteinVotes,3
+Wakulla,12 Shadeville,County Commissioner,4,"",WriteinVotes,2
+Wakulla,01 Wakulla Station,County Commissioner,4,"",OverVotes,0
+Wakulla,02 Crawfordville,County Commissioner,4,"",OverVotes,0
+Wakulla,03 Sopchoppy,County Commissioner,4,"",OverVotes,0
+Wakulla,04 Smith Creek,County Commissioner,4,"",OverVotes,0
+Wakulla,05 St. Marks,County Commissioner,4,"",OverVotes,0
+Wakulla,06 Medart,County Commissioner,4,"",OverVotes,0
+Wakulla,07 Ivan,County Commissioner,4,"",OverVotes,0
+Wakulla,08 Shell Point,County Commissioner,4,"",OverVotes,0
+Wakulla,09 Panacea,County Commissioner,4,"",OverVotes,0
+Wakulla,10 Ochlockonee,County Commissioner,4,"",OverVotes,0
+Wakulla,11 Bethel Church,County Commissioner,4,"",OverVotes,0
+Wakulla,12 Shadeville,County Commissioner,4,"",OverVotes,0
+Wakulla,01 Wakulla Station,County Commissioner,4,"",UnderVotes,43
+Wakulla,02 Crawfordville,County Commissioner,4,"",UnderVotes,56
+Wakulla,03 Sopchoppy,County Commissioner,4,"",UnderVotes,16
+Wakulla,04 Smith Creek,County Commissioner,4,"",UnderVotes,6
+Wakulla,05 St. Marks,County Commissioner,4,"",UnderVotes,6
+Wakulla,06 Medart,County Commissioner,4,"",UnderVotes,19
+Wakulla,07 Ivan,County Commissioner,4,"",UnderVotes,38
+Wakulla,08 Shell Point,County Commissioner,4,"",UnderVotes,9
+Wakulla,09 Panacea,County Commissioner,4,"",UnderVotes,6
+Wakulla,10 Ochlockonee,County Commissioner,4,"",UnderVotes,12
+Wakulla,11 Bethel Church,County Commissioner,4,"",UnderVotes,21
+Wakulla,12 Shadeville,County Commissioner,4,"",UnderVotes,21
+Wakulla,01 Wakulla Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,926
+Wakulla,02 Crawfordville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1921
+Wakulla,03 Sopchoppy,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,409
+Wakulla,04 Smith Creek,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,75
+Wakulla,05 St. Marks,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,146
+Wakulla,06 Medart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,538
+Wakulla,07 Ivan,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1181
+Wakulla,08 Shell Point,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,325
+Wakulla,09 Panacea,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,172
+Wakulla,10 Ochlockonee,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,220
+Wakulla,11 Bethel Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,636
+Wakulla,12 Shadeville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,713
+Wakulla,01 Wakulla Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,865
+Wakulla,02 Crawfordville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1743
+Wakulla,03 Sopchoppy,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,498
+Wakulla,04 Smith Creek,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,81
+Wakulla,05 St. Marks,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,110
+Wakulla,06 Medart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,447
+Wakulla,07 Ivan,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,1080
+Wakulla,08 Shell Point,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,258
+Wakulla,09 Panacea,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,160
+Wakulla,10 Ochlockonee,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,130
+Wakulla,11 Bethel Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,609
+Wakulla,12 Shadeville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,659
+Wakulla,01 Wakulla Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,02 Crawfordville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,03 Sopchoppy,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,04 Smith Creek,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,05 St. Marks,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Wakulla,06 Medart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,07 Ivan,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Wakulla,08 Shell Point,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,09 Panacea,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,10 Ochlockonee,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,11 Bethel Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,12 Shadeville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Wakulla,01 Wakulla Station,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,166
+Wakulla,02 Crawfordville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,317
+Wakulla,03 Sopchoppy,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,65
+Wakulla,04 Smith Creek,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,13
+Wakulla,05 St. Marks,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,16
+Wakulla,06 Medart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,98
+Wakulla,07 Ivan,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,194
+Wakulla,08 Shell Point,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,54
+Wakulla,09 Panacea,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,31
+Wakulla,10 Ochlockonee,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,24
+Wakulla,11 Bethel Church,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,105
+Wakulla,12 Shadeville,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,124
+Wakulla,01 Wakulla Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,868
+Wakulla,02 Crawfordville,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1866
+Wakulla,03 Sopchoppy,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,417
+Wakulla,04 Smith Creek,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,76
+Wakulla,05 St. Marks,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,132
+Wakulla,06 Medart,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,504
+Wakulla,07 Ivan,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1122
+Wakulla,08 Shell Point,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,290
+Wakulla,09 Panacea,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,166
+Wakulla,10 Ochlockonee,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,188
+Wakulla,11 Bethel Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,640
+Wakulla,12 Shadeville,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,695
+Wakulla,01 Wakulla Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,922
+Wakulla,02 Crawfordville,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,1782
+Wakulla,03 Sopchoppy,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,479
+Wakulla,04 Smith Creek,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,77
+Wakulla,05 St. Marks,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,120
+Wakulla,06 Medart,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,476
+Wakulla,07 Ivan,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,1112
+Wakulla,08 Shell Point,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,284
+Wakulla,09 Panacea,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,165
+Wakulla,10 Ochlockonee,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,159
+Wakulla,11 Bethel Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,590
+Wakulla,12 Shadeville,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,664
+Wakulla,01 Wakulla Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,02 Crawfordville,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Wakulla,03 Sopchoppy,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,04 Smith Creek,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,05 St. Marks,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Wakulla,06 Medart,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,07 Ivan,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Wakulla,08 Shell Point,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,09 Panacea,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,10 Ochlockonee,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,11 Bethel Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Wakulla,12 Shadeville,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,2
+Wakulla,01 Wakulla Station,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,167
+Wakulla,02 Crawfordville,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,332
+Wakulla,03 Sopchoppy,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,76
+Wakulla,04 Smith Creek,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,16
+Wakulla,05 St. Marks,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,21
+Wakulla,06 Medart,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,103
+Wakulla,07 Ivan,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,222
+Wakulla,08 Shell Point,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,63
+Wakulla,09 Panacea,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,32
+Wakulla,10 Ochlockonee,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
+Wakulla,11 Bethel Church,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,120
+Wakulla,12 Shadeville,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,135
+Wakulla,01 Wakulla Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,958
+Wakulla,02 Crawfordville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,2253
+Wakulla,03 Sopchoppy,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,484
+Wakulla,04 Smith Creek,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,89
+Wakulla,05 St. Marks,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,120
+Wakulla,06 Medart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,533
+Wakulla,07 Ivan,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1307
+Wakulla,08 Shell Point,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,306
+Wakulla,09 Panacea,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,181
+Wakulla,10 Ochlockonee,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,163
+Wakulla,11 Bethel Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,692
+Wakulla,12 Shadeville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,866
+Wakulla,01 Wakulla Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,888
+Wakulla,02 Crawfordville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,1512
+Wakulla,03 Sopchoppy,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,435
+Wakulla,04 Smith Creek,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,69
+Wakulla,05 St. Marks,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,139
+Wakulla,06 Medart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,466
+Wakulla,07 Ivan,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,979
+Wakulla,08 Shell Point,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,292
+Wakulla,09 Panacea,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,156
+Wakulla,10 Ochlockonee,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,188
+Wakulla,11 Bethel Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,562
+Wakulla,12 Shadeville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,537
+Wakulla,01 Wakulla Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,02 Crawfordville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
+Wakulla,03 Sopchoppy,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,04 Smith Creek,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,05 St. Marks,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,06 Medart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,07 Ivan,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,08 Shell Point,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,09 Panacea,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,10 Ochlockonee,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,11 Bethel Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,12 Shadeville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Wakulla,01 Wakulla Station,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,111
+Wakulla,02 Crawfordville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,214
+Wakulla,03 Sopchoppy,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,53
+Wakulla,04 Smith Creek,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,11
+Wakulla,05 St. Marks,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,15
+Wakulla,06 Medart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,84
+Wakulla,07 Ivan,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,171
+Wakulla,08 Shell Point,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,39
+Wakulla,09 Panacea,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,26
+Wakulla,10 Ochlockonee,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,23
+Wakulla,11 Bethel Church,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,96
+Wakulla,12 Shadeville,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,93
+Wakulla,01 Wakulla Station,Registered Voters,"","","",2917
+Wakulla,02 Crawfordville,Registered Voters,"","","",6424
+Wakulla,03 Sopchoppy,Registered Voters,"","","",1429
+Wakulla,04 Smith Creek,Registered Voters,"","","",222
+Wakulla,05 St. Marks,Registered Voters,"","","",380
+Wakulla,06 Medart,Registered Voters,"","","",1704
+Wakulla,07 Ivan,Registered Voters,"","","",3776
+Wakulla,08 Shell Point,Registered Voters,"","","",924
+Wakulla,09 Panacea,Registered Voters,"","","",648
+Wakulla,10 Ochlockonee,Registered Voters,"","","",518
+Wakulla,11 Bethel Church,Registered Voters,"","","",2000
+Wakulla,12 Shadeville,Registered Voters,"","","",2678

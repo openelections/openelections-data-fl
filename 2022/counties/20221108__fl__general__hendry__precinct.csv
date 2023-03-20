@@ -1,1037 +1,991 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Hendry,01,U.S. Senate,"",REP,Marco Rubio,387,184,154,49
-Hendry,10,U.S. Senate,"",REP,Marco Rubio,357,112,205,40
-Hendry,02,U.S. Senate,"",REP,Marco Rubio,1512,701,531,280
-Hendry,03,U.S. Senate,"",REP,Marco Rubio,1107,501,368,238
-Hendry,04,U.S. Senate,"",REP,Marco Rubio,50,,,
-Hendry,05,U.S. Senate,"",REP,Marco Rubio,187,,,
-Hendry,06,U.S. Senate,"",REP,Marco Rubio,500,206,212,82
-Hendry,07,U.S. Senate,"",REP,Marco Rubio,1030,545,330,155
-Hendry,08,U.S. Senate,"",REP,Marco Rubio,264,70,162,32
-Hendry,09,U.S. Senate,"",REP,Marco Rubio,614,260,280,74
-Hendry,01,U.S. Senate,"",DEM,Val Demings,704,287,272,145
-Hendry,10,U.S. Senate,"",DEM,Val Demings,127,,,
-Hendry,02,U.S. Senate,"",DEM,Val Demings,365,139,87,139
-Hendry,03,U.S. Senate,"",DEM,Val Demings,234,83,61,90
-Hendry,04,U.S. Senate,"",DEM,Val Demings,40,,,
-Hendry,05,U.S. Senate,"",DEM,Val Demings,21,,,
-Hendry,06,U.S. Senate,"",DEM,Val Demings,113,47,30,36
-Hendry,07,U.S. Senate,"",DEM,Val Demings,169,59,74,36
-Hendry,08,U.S. Senate,"",DEM,Val Demings,70,,,
-Hendry,09,U.S. Senate,"",DEM,Val Demings,278,84,116,78
-Hendry,01,U.S. Senate,"",LPF,Dennis Misigoy,10,,,
-Hendry,10,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Hendry,02,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
-Hendry,03,U.S. Senate,"",LPF,Dennis Misigoy,7,,,
-Hendry,04,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Hendry,05,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Hendry,06,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Hendry,07,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Hendry,08,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Hendry,09,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Hendry,01,U.S. Senate,"",NPA,Steven B. Grant,13,,,
-Hendry,10,U.S. Senate,"",NPA,Steven B. Grant,8,,,
-Hendry,02,U.S. Senate,"",NPA,Steven B. Grant,8,,,
-Hendry,03,U.S. Senate,"",NPA,Steven B. Grant,6,,,
-Hendry,04,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Hendry,05,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Hendry,06,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Hendry,07,U.S. Senate,"",NPA,Steven B. Grant,7,,,
-Hendry,08,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Hendry,09,U.S. Senate,"",NPA,Steven B. Grant,6,,,
-Hendry,01,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Hendry,10,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Hendry,02,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Hendry,03,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Hendry,04,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Hendry,05,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Hendry,06,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Hendry,07,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Hendry,08,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Hendry,09,U.S. Senate,"",NPA,Tuan TQ Nguyen,5,,,
-Hendry,01,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,10,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,02,U.S. Senate,"",NON,WRITE-IN,1,,,
-Hendry,03,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,04,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,05,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,06,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,07,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,08,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hendry,09,U.S. Senate,"",NON,WRITE-IN,1,,,
-Hendry,01,U.S. Senate,"",STATS,OVER VOTES,1,,,
-Hendry,10,U.S. Senate,"",STATS,OVER VOTES,1,,,
-Hendry,02,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,U.S. Senate,"",STATS,UNDER VOTES,5,,,
-Hendry,10,U.S. Senate,"",STATS,UNDER VOTES,10,,,
-Hendry,02,U.S. Senate,"",STATS,UNDER VOTES,9,,,
-Hendry,03,U.S. Senate,"",STATS,UNDER VOTES,1,,,
-Hendry,04,U.S. Senate,"",STATS,UNDER VOTES,1,,,
-Hendry,05,U.S. Senate,"",STATS,UNDER VOTES,0,0,0,0
-Hendry,06,U.S. Senate,"",STATS,UNDER VOTES,5,,,
-Hendry,07,U.S. Senate,"",STATS,UNDER VOTES,22,,,
-Hendry,08,U.S. Senate,"",STATS,UNDER VOTES,0,0,0,0
-Hendry,09,U.S. Senate,"",STATS,UNDER VOTES,3,,,
-Hendry,01,U.S. House,"",REP,Scott Franklin,447,214,177,56
-Hendry,10,U.S. House,"",REP,Scott Franklin,362,115,208,39
-Hendry,02,U.S. House,"",REP,Scott Franklin,1517,704,529,284
-Hendry,03,U.S. House,"",REP,Scott Franklin,1105,498,370,237
-Hendry,04,U.S. House,"",REP,Scott Franklin,50,,,
-Hendry,05,U.S. House,"",REP,Scott Franklin,181,,,
-Hendry,06,U.S. House,"",REP,Scott Franklin,500,208,210,82
-Hendry,07,U.S. House,"",REP,Scott Franklin,1035,538,341,156
-Hendry,08,U.S. House,"",REP,Scott Franklin,266,72,162,32
-Hendry,09,U.S. House,"",REP,Scott Franklin,651,265,306,80
-Hendry,01,U.S. House,"",NPA,Keith R. Hayden Jr,499,197,200,102
-Hendry,10,U.S. House,"",NPA,Keith R. Hayden Jr,102,,,
-Hendry,02,U.S. House,"",NPA,Keith R. Hayden Jr,319,119,81,119
-Hendry,03,U.S. House,"",NPA,Keith R. Hayden Jr,213,81,58,74
-Hendry,04,U.S. House,"",NPA,Keith R. Hayden Jr,34,,,
-Hendry,05,U.S. House,"",NPA,Keith R. Hayden Jr,23,,,
-Hendry,06,U.S. House,"",NPA,Keith R. Hayden Jr,97,,,
-Hendry,07,U.S. House,"",NPA,Keith R. Hayden Jr,129,,,
-Hendry,08,U.S. House,"",NPA,Keith R. Hayden Jr,61,,,
-Hendry,09,U.S. House,"",NPA,Keith R. Hayden Jr,211,64,88,59
-Hendry,01,U.S. House,"",NON,WRITE-IN,11,,,
-Hendry,10,U.S. House,"",NON,WRITE-IN,6,,,
-Hendry,02,U.S. House,"",NON,WRITE-IN,6,,,
-Hendry,03,U.S. House,"",NON,WRITE-IN,4,,,
-Hendry,04,U.S. House,"",NON,WRITE-IN,1,,,
-Hendry,05,U.S. House,"",NON,WRITE-IN,0,0,0,0
-Hendry,06,U.S. House,"",NON,WRITE-IN,2,,,
-Hendry,07,U.S. House,"",NON,WRITE-IN,3,,,
-Hendry,08,U.S. House,"",NON,WRITE-IN,0,0,0,0
-Hendry,09,U.S. House,"",NON,WRITE-IN,5,,,
-Hendry,01,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,U.S. House,"",STATS,OVER VOTES,1,,,
-Hendry,02,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,U.S. House,"",STATS,OVER VOTES,1,,,
-Hendry,08,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,U.S. House,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,U.S. House,"",STATS,UNDER VOTES,164,70,58,36
-Hendry,10,U.S. House,"",STATS,UNDER VOTES,33,,,
-Hendry,02,U.S. House,"",STATS,UNDER VOTES,62,,,
-Hendry,03,U.S. House,"",STATS,UNDER VOTES,35,,,
-Hendry,04,U.S. House,"",STATS,UNDER VOTES,8,,,
-Hendry,05,U.S. House,"",STATS,UNDER VOTES,6,,,
-Hendry,06,U.S. House,"",STATS,UNDER VOTES,25,,,
-Hendry,07,U.S. House,"",STATS,UNDER VOTES,62,,,
-Hendry,08,U.S. House,"",STATS,UNDER VOTES,12,,,
-Hendry,09,U.S. House,"",STATS,UNDER VOTES,44,,,
-Hendry,01,Governor,"",REP,DeSantis / Nunez,406,188,166,52
-Hendry,10,Governor,"",REP,DeSantis / Nunez,374,114,220,40
-Hendry,02,Governor,"",REP,DeSantis / Nunez,1536,707,537,292
-Hendry,03,Governor,"",REP,DeSantis / Nunez,1116,504,374,238
-Hendry,04,Governor,"",REP,DeSantis / Nunez,52,,,
-Hendry,05,Governor,"",REP,DeSantis / Nunez,186,,,
-Hendry,06,Governor,"",REP,DeSantis / Nunez,507,207,216,84
-Hendry,07,Governor,"",REP,DeSantis / Nunez,1058,551,344,163
-Hendry,08,Governor,"",REP,DeSantis / Nunez,263,70,159,34
-Hendry,09,Governor,"",REP,DeSantis / Nunez,636,264,296,76
-Hendry,01,Governor,"",DEM,Crist / Hernandez,692,288,260,144
-Hendry,10,Governor,"",DEM,Crist / Hernandez,117,,,
-Hendry,02,Governor,"",DEM,Crist / Hernandez,354,138,86,130
-Hendry,03,Governor,"",DEM,Crist / Hernandez,231,86,55,90
-Hendry,04,Governor,"",DEM,Crist / Hernandez,38,,,
-Hendry,05,Governor,"",DEM,Crist / Hernandez,23,,,
-Hendry,06,Governor,"",DEM,Crist / Hernandez,107,,,
-Hendry,07,Governor,"",DEM,Crist / Hernandez,154,58,63,33
-Hendry,08,Governor,"",DEM,Crist / Hernandez,72,,,
-Hendry,09,Governor,"",DEM,Crist / Hernandez,264,84,108,72
-Hendry,01,Governor,"",LPF,Roos / Rorabaugh,4,,,
-Hendry,10,Governor,"",LPF,Roos / Rorabaugh,1,,,
-Hendry,02,Governor,"",LPF,Roos / Rorabaugh,1,,,
-Hendry,03,Governor,"",LPF,Roos / Rorabaugh,5,,,
-Hendry,04,Governor,"",LPF,Roos / Rorabaugh,1,,,
-Hendry,05,Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
-Hendry,06,Governor,"",LPF,Roos / Rorabaugh,3,,,
-Hendry,07,Governor,"",LPF,Roos / Rorabaugh,5,,,
-Hendry,08,Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
-Hendry,09,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Hendry,01,Governor,"",NPA,Gimenez / Gibson,14,,,
-Hendry,10,Governor,"",NPA,Gimenez / Gibson,7,,,
-Hendry,02,Governor,"",NPA,Gimenez / Gibson,8,,,
-Hendry,03,Governor,"",NPA,Gimenez / Gibson,4,,,
-Hendry,04,Governor,"",NPA,Gimenez / Gibson,2,,,
-Hendry,05,Governor,"",NPA,Gimenez / Gibson,1,,,
-Hendry,06,Governor,"",NPA,Gimenez / Gibson,3,,,
-Hendry,07,Governor,"",NPA,Gimenez / Gibson,4,,,
-Hendry,08,Governor,"",NPA,Gimenez / Gibson,4,,,
-Hendry,09,Governor,"",NPA,Gimenez / Gibson,6,,,
-Hendry,01,Governor,"",STATS,OVER VOTES,2,,,
-Hendry,10,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hendry,02,Governor,"",STATS,OVER VOTES,1,,,
-Hendry,03,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Governor,"",STATS,OVER VOTES,1,,,
-Hendry,07,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Governor,"",STATS,UNDER VOTES,3,,,
-Hendry,10,Governor,"",STATS,UNDER VOTES,5,,,
-Hendry,02,Governor,"",STATS,UNDER VOTES,4,,,
-Hendry,03,Governor,"",STATS,UNDER VOTES,1,,,
-Hendry,04,Governor,"",STATS,UNDER VOTES,0,0,0,0
-Hendry,05,Governor,"",STATS,UNDER VOTES,0,0,0,0
-Hendry,06,Governor,"",STATS,UNDER VOTES,3,,,
-Hendry,07,Governor,"",STATS,UNDER VOTES,9,,,
-Hendry,08,Governor,"",STATS,UNDER VOTES,0,0,0,0
-Hendry,09,Governor,"",STATS,UNDER VOTES,3,,,
-Hendry,01,Attorney General,"",REP,Ashley Moody,388,185,151,52
-Hendry,10,Attorney General,"",REP,Ashley Moody,362,113,208,41
-Hendry,02,Attorney General,"",REP,Ashley Moody,1518,702,525,291
-Hendry,03,Attorney General,"",REP,Ashley Moody,1119,504,370,245
-Hendry,04,Attorney General,"",REP,Ashley Moody,51,,,
-Hendry,05,Attorney General,"",REP,Ashley Moody,182,,,
-Hendry,06,Attorney General,"",REP,Ashley Moody,488,200,204,84
-Hendry,07,Attorney General,"",REP,Ashley Moody,1036,541,339,156
-Hendry,08,Attorney General,"",REP,Ashley Moody,265,70,163,32
-Hendry,09,Attorney General,"",REP,Ashley Moody,629,263,289,77
-Hendry,01,Attorney General,"",DEM,Aramis Ayala,703,284,276,143
-Hendry,10,Attorney General,"",DEM,Aramis Ayala,127,,,
-Hendry,02,Attorney General,"",DEM,Aramis Ayala,361,136,95,130
-Hendry,03,Attorney General,"",DEM,Aramis Ayala,228,84,61,83
-Hendry,04,Attorney General,"",DEM,Aramis Ayala,42,,,
-Hendry,05,Attorney General,"",DEM,Aramis Ayala,26,,,
-Hendry,06,Attorney General,"",DEM,Aramis Ayala,122,50,37,35
-Hendry,07,Attorney General,"",DEM,Aramis Ayala,154,60,64,30
-Hendry,08,Attorney General,"",DEM,Aramis Ayala,74,,,
-Hendry,09,Attorney General,"",DEM,Aramis Ayala,273,85,113,75
-Hendry,01,Attorney General,"",STATS,OVER VOTES,1,,,
-Hendry,10,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,02,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,Attorney General,"",STATS,OVER VOTES,1,,,
-Hendry,08,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Attorney General,"",STATS,UNDER VOTES,29,,,
-Hendry,10,Attorney General,"",STATS,UNDER VOTES,15,,,
-Hendry,02,Attorney General,"",STATS,UNDER VOTES,25,,,
-Hendry,03,Attorney General,"",STATS,UNDER VOTES,10,,,
-Hendry,04,Attorney General,"",STATS,UNDER VOTES,0,0,0,0
-Hendry,05,Attorney General,"",STATS,UNDER VOTES,2,,,
-Hendry,06,Attorney General,"",STATS,UNDER VOTES,14,,,
-Hendry,07,Attorney General,"",STATS,UNDER VOTES,39,,,
-Hendry,08,Attorney General,"",STATS,UNDER VOTES,0,0,0,0
-Hendry,09,Attorney General,"",STATS,UNDER VOTES,9,,,
-Hendry,01,Chief Financial Officer,"",REP,Jimmy Patronis,377,177,153,47
-Hendry,10,Chief Financial Officer,"",REP,Jimmy Patronis,355,114,203,38
-Hendry,02,Chief Financial Officer,"",REP,Jimmy Patronis,1486,695,519,272
-Hendry,03,Chief Financial Officer,"",REP,Jimmy Patronis,1101,496,368,237
-Hendry,04,Chief Financial Officer,"",REP,Jimmy Patronis,44,,,
-Hendry,05,Chief Financial Officer,"",REP,Jimmy Patronis,177,,,
-Hendry,06,Chief Financial Officer,"",REP,Jimmy Patronis,485,199,206,80
-Hendry,07,Chief Financial Officer,"",REP,Jimmy Patronis,1011,528,327,156
-Hendry,08,Chief Financial Officer,"",REP,Jimmy Patronis,261,70,159,32
-Hendry,09,Chief Financial Officer,"",REP,Jimmy Patronis,622,261,286,75
-Hendry,01,Chief Financial Officer,"",DEM,Adam Hattersley,706,289,270,147
-Hendry,10,Chief Financial Officer,"",DEM,Adam Hattersley,128,,,
-Hendry,02,Chief Financial Officer,"",DEM,Adam Hattersley,379,142,96,141
-Hendry,03,Chief Financial Officer,"",DEM,Adam Hattersley,240,88,63,89
-Hendry,04,Chief Financial Officer,"",DEM,Adam Hattersley,44,,,
-Hendry,05,Chief Financial Officer,"",DEM,Adam Hattersley,28,,,
-Hendry,06,Chief Financial Officer,"",DEM,Adam Hattersley,122,50,33,39
-Hendry,07,Chief Financial Officer,"",DEM,Adam Hattersley,162,,,
-Hendry,08,Chief Financial Officer,"",DEM,Adam Hattersley,74,,,
-Hendry,09,Chief Financial Officer,"",DEM,Adam Hattersley,278,85,117,76
-Hendry,01,Chief Financial Officer,"",STATS,OVER VOTES,1,,,
-Hendry,10,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hendry,02,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Chief Financial Officer,"",STATS,OVER VOTES,1,,,
-Hendry,06,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,Chief Financial Officer,"",STATS,OVER VOTES,1,,,
-Hendry,08,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Chief Financial Officer,"",STATS,UNDER VOTES,37,,,
-Hendry,10,Chief Financial Officer,"",STATS,UNDER VOTES,21,,,
-Hendry,02,Chief Financial Officer,"",STATS,UNDER VOTES,39,,,
-Hendry,03,Chief Financial Officer,"",STATS,UNDER VOTES,16,,,
-Hendry,04,Chief Financial Officer,"",STATS,UNDER VOTES,5,,,
-Hendry,05,Chief Financial Officer,"",STATS,UNDER VOTES,4,,,
-Hendry,06,Chief Financial Officer,"",STATS,UNDER VOTES,17,,,
-Hendry,07,Chief Financial Officer,"",STATS,UNDER VOTES,56,,,
-Hendry,08,Chief Financial Officer,"",STATS,UNDER VOTES,4,,,
-Hendry,09,Chief Financial Officer,"",STATS,UNDER VOTES,11,,,
-Hendry,01,Commissioner of Agriculture,"",REP,Wilton Simpson,375,176,148,51
-Hendry,10,Commissioner of Agriculture,"",REP,Wilton Simpson,352,110,204,38
-Hendry,02,Commissioner of Agriculture,"",REP,Wilton Simpson,1509,701,522,286
-Hendry,03,Commissioner of Agriculture,"",REP,Wilton Simpson,1097,495,365,237
-Hendry,04,Commissioner of Agriculture,"",REP,Wilton Simpson,46,,,
-Hendry,05,Commissioner of Agriculture,"",REP,Wilton Simpson,187,,,
-Hendry,06,Commissioner of Agriculture,"",REP,Wilton Simpson,496,203,211,82
-Hendry,07,Commissioner of Agriculture,"",REP,Wilton Simpson,1053,554,338,161
-Hendry,08,Commissioner of Agriculture,"",REP,Wilton Simpson,265,70,162,33
-Hendry,09,Commissioner of Agriculture,"",REP,Wilton Simpson,608,258,282,68
-Hendry,01,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,712,290,279,143
-Hendry,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,131,,,
-Hendry,02,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,362,134,97,131
-Hendry,03,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,238,88,64,86
-Hendry,04,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,44,,,
-Hendry,05,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,22,,,
-Hendry,06,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,110,,,
-Hendry,07,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,140,,,
-Hendry,08,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,71,,,
-Hendry,09,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,287,86,120,81
-Hendry,01,Commissioner of Agriculture,"",STATS,OVER VOTES,1,,,
-Hendry,10,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,02,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Commissioner of Agriculture,"",STATS,UNDER VOTES,33,,,
-Hendry,10,Commissioner of Agriculture,"",STATS,UNDER VOTES,21,,,
-Hendry,02,Commissioner of Agriculture,"",STATS,UNDER VOTES,33,,,
-Hendry,03,Commissioner of Agriculture,"",STATS,UNDER VOTES,22,,,
-Hendry,04,Commissioner of Agriculture,"",STATS,UNDER VOTES,3,,,
-Hendry,05,Commissioner of Agriculture,"",STATS,UNDER VOTES,1,,,
-Hendry,06,Commissioner of Agriculture,"",STATS,UNDER VOTES,18,,,
-Hendry,07,Commissioner of Agriculture,"",STATS,UNDER VOTES,37,,,
-Hendry,08,Commissioner of Agriculture,"",STATS,UNDER VOTES,3,,,
-Hendry,09,Commissioner of Agriculture,"",STATS,UNDER VOTES,16,,,
-Hendry,01,Supreme Canady,"",NON,Yes,592,274,233,85
-Hendry,10,Supreme Canady,"",NON,Yes,317,85,189,43
-Hendry,02,Supreme Canady,"",NON,Yes,1203,550,397,256
-Hendry,03,Supreme Canady,"",NON,Yes,873,392,270,211
-Hendry,04,Supreme Canady,"",NON,Yes,46,,,
-Hendry,05,Supreme Canady,"",NON,Yes,129,,,
-Hendry,06,Supreme Canady,"",NON,Yes,372,133,168,71
-Hendry,07,Supreme Canady,"",NON,Yes,838,424,287,127
-Hendry,08,Supreme Canady,"",NON,Yes,211,53,126,32
-Hendry,09,Supreme Canady,"",NON,Yes,571,240,251,80
-Hendry,01,Supreme Canady,"",NON,No,400,137,166,97
-Hendry,10,Supreme Canady,"",NON,No,142,35,76,31
-Hendry,02,Supreme Canady,"",NON,No,480,204,155,121
-Hendry,03,Supreme Canady,"",NON,No,323,136,104,83
-Hendry,04,Supreme Canady,"",NON,No,34,,,
-Hendry,05,Supreme Canady,"",NON,No,60,,,
-Hendry,06,Supreme Canady,"",NON,No,173,87,52,34
-Hendry,07,Supreme Canady,"",NON,No,217,,,
-Hendry,08,Supreme Canady,"",NON,No,92,,,
-Hendry,09,Supreme Canady,"",NON,No,258,77,126,55
-Hendry,01,Supreme Canady,"",STATS,OVER VOTES,2,,,
-Hendry,10,Supreme Canady,"",STATS,OVER VOTES,2,,,
-Hendry,02,Supreme Canady,"",STATS,OVER VOTES,2,,,
-Hendry,03,Supreme Canady,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Supreme Canady,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Supreme Canady,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Supreme Canady,"",STATS,OVER VOTES,2,,,
-Hendry,07,Supreme Canady,"",STATS,OVER VOTES,1,,,
-Hendry,08,Supreme Canady,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Supreme Canady,"",STATS,OVER VOTES,1,,,
-Hendry,01,Supreme Canady,"",STATS,UNDER VOTES,127,,,
-Hendry,10,Supreme Canady,"",STATS,UNDER VOTES,43,,,
-Hendry,02,Supreme Canady,"",STATS,UNDER VOTES,219,94,75,50
-Hendry,03,Supreme Canady,"",STATS,UNDER VOTES,161,63,61,37
-Hendry,04,Supreme Canady,"",STATS,UNDER VOTES,13,,,
-Hendry,05,Supreme Canady,"",STATS,UNDER VOTES,21,,,
-Hendry,06,Supreme Canady,"",STATS,UNDER VOTES,77,,,
-Hendry,07,Supreme Canady,"",STATS,UNDER VOTES,174,82,50,42
-Hendry,08,Supreme Canady,"",STATS,UNDER VOTES,36,,,
-Hendry,09,Supreme Canady,"",STATS,UNDER VOTES,81,,,
-Hendry,01,Supreme Couriel,"",NON,Yes,609,266,245,98
-Hendry,10,Supreme Couriel,"",NON,Yes,327,87,199,41
-Hendry,02,Supreme Couriel,"",NON,Yes,1225,559,406,260
-Hendry,03,Supreme Couriel,"",NON,Yes,892,404,261,227
-Hendry,04,Supreme Couriel,"",NON,Yes,48,,,
-Hendry,05,Supreme Couriel,"",NON,Yes,140,,,
-Hendry,06,Supreme Couriel,"",NON,Yes,365,136,164,65
-Hendry,07,Supreme Couriel,"",NON,Yes,841,437,277,127
-Hendry,08,Supreme Couriel,"",NON,Yes,203,47,122,34
-Hendry,09,Supreme Couriel,"",NON,Yes,576,245,257,74
-Hendry,01,Supreme Couriel,"",NON,No,383,145,151,87
-Hendry,10,Supreme Couriel,"",NON,No,129,33,62,34
-Hendry,02,Supreme Couriel,"",NON,No,462,191,150,121
-Hendry,03,Supreme Couriel,"",NON,No,309,128,112,69
-Hendry,04,Supreme Couriel,"",NON,No,33,,,
-Hendry,05,Supreme Couriel,"",NON,No,49,,,
-Hendry,06,Supreme Couriel,"",NON,No,181,84,55,42
-Hendry,07,Supreme Couriel,"",NON,No,219,,,
-Hendry,08,Supreme Couriel,"",NON,No,93,,,
-Hendry,09,Supreme Couriel,"",NON,No,251,72,121,58
-Hendry,01,Supreme Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,Supreme Couriel,"",STATS,OVER VOTES,2,,,
-Hendry,02,Supreme Couriel,"",STATS,OVER VOTES,1,,,
-Hendry,03,Supreme Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Supreme Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Supreme Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Supreme Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,Supreme Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,Supreme Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Supreme Couriel,"",STATS,OVER VOTES,1,,,
-Hendry,01,Supreme Couriel,"",STATS,UNDER VOTES,129,,,
-Hendry,10,Supreme Couriel,"",STATS,UNDER VOTES,46,,,
-Hendry,02,Supreme Couriel,"",STATS,UNDER VOTES,216,99,71,46
-Hendry,03,Supreme Couriel,"",STATS,UNDER VOTES,156,59,62,35
-Hendry,04,Supreme Couriel,"",STATS,UNDER VOTES,12,,,
-Hendry,05,Supreme Couriel,"",STATS,UNDER VOTES,21,,,
-Hendry,06,Supreme Couriel,"",STATS,UNDER VOTES,78,,,
-Hendry,07,Supreme Couriel,"",STATS,UNDER VOTES,170,79,49,42
-Hendry,08,Supreme Couriel,"",STATS,UNDER VOTES,43,,,
-Hendry,09,Supreme Couriel,"",STATS,UNDER VOTES,83,,,
-Hendry,01,Supreme Grosshans,"",NON,Yes,604,273,241,90
-Hendry,10,Supreme Grosshans,"",NON,Yes,321,85,193,43
-Hendry,02,Supreme Grosshans,"",NON,Yes,1219,559,406,254
-Hendry,03,Supreme Grosshans,"",NON,Yes,891,401,260,230
-Hendry,04,Supreme Grosshans,"",NON,Yes,45,,,
-Hendry,05,Supreme Grosshans,"",NON,Yes,134,,,
-Hendry,06,Supreme Grosshans,"",NON,Yes,358,131,162,65
-Hendry,07,Supreme Grosshans,"",NON,Yes,831,427,275,129
-Hendry,08,Supreme Grosshans,"",NON,Yes,204,47,122,35
-Hendry,09,Supreme Grosshans,"",NON,Yes,571,242,250,79
-Hendry,01,Supreme Grosshans,"",NON,No,385,137,156,92
-Hendry,10,Supreme Grosshans,"",NON,No,134,34,68,32
-Hendry,02,Supreme Grosshans,"",NON,No,463,192,147,124
-Hendry,03,Supreme Grosshans,"",NON,No,306,128,110,68
-Hendry,04,Supreme Grosshans,"",NON,No,36,,,
-Hendry,05,Supreme Grosshans,"",NON,No,54,,,
-Hendry,06,Supreme Grosshans,"",NON,No,183,89,54,40
-Hendry,07,Supreme Grosshans,"",NON,No,222,,,
-Hendry,08,Supreme Grosshans,"",NON,No,90,,,
-Hendry,09,Supreme Grosshans,"",NON,No,245,72,119,54
-Hendry,01,Supreme Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,Supreme Grosshans,"",STATS,OVER VOTES,1,,,
-Hendry,02,Supreme Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Supreme Grosshans,"",STATS,OVER VOTES,1,,,
-Hendry,04,Supreme Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Supreme Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Supreme Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,Supreme Grosshans,"",STATS,OVER VOTES,1,,,
-Hendry,08,Supreme Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Supreme Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Supreme Grosshans,"",STATS,UNDER VOTES,132,,,
-Hendry,10,Supreme Grosshans,"",STATS,UNDER VOTES,48,,,
-Hendry,02,Supreme Grosshans,"",STATS,UNDER VOTES,222,98,75,49
-Hendry,03,Supreme Grosshans,"",STATS,UNDER VOTES,159,61,65,33
-Hendry,04,Supreme Grosshans,"",STATS,UNDER VOTES,12,,,
-Hendry,05,Supreme Grosshans,"",STATS,UNDER VOTES,22,,,
-Hendry,06,Supreme Grosshans,"",STATS,UNDER VOTES,83,,,
-Hendry,07,Supreme Grosshans,"",STATS,UNDER VOTES,176,84,51,41
-Hendry,08,Supreme Grosshans,"",STATS,UNDER VOTES,45,,,
-Hendry,09,Supreme Grosshans,"",STATS,UNDER VOTES,95,,,
-Hendry,01,Supreme Labarga,"",NON,Yes,590,258,227,105
-Hendry,10,Supreme Labarga,"",NON,Yes,310,82,178,50
-Hendry,02,Supreme Labarga,"",NON,Yes,1012,443,327,242
-Hendry,03,Supreme Labarga,"",NON,Yes,745,341,209,195
-Hendry,04,Supreme Labarga,"",NON,Yes,48,,,
-Hendry,05,Supreme Labarga,"",NON,Yes,102,,,
-Hendry,06,Supreme Labarga,"",NON,Yes,321,120,134,67
-Hendry,07,Supreme Labarga,"",NON,Yes,675,337,235,103
-Hendry,08,Supreme Labarga,"",NON,Yes,183,45,105,33
-Hendry,09,Supreme Labarga,"",NON,Yes,521,210,231,80
-Hendry,01,Supreme Labarga,"",NON,No,395,152,164,79
-Hendry,10,Supreme Labarga,"",NON,No,144,,,
-Hendry,02,Supreme Labarga,"",NON,No,670,304,228,138
-Hendry,03,Supreme Labarga,"",NON,No,442,183,158,101
-Hendry,04,Supreme Labarga,"",NON,No,33,,,
-Hendry,05,Supreme Labarga,"",NON,No,86,,,
-Hendry,06,Supreme Labarga,"",NON,No,218,99,79,40
-Hendry,07,Supreme Labarga,"",NON,No,382,202,128,52
-Hendry,08,Supreme Labarga,"",NON,No,111,,,
-Hendry,09,Supreme Labarga,"",NON,No,303,106,140,57
-Hendry,01,Supreme Labarga,"",STATS,OVER VOTES,1,,,
-Hendry,10,Supreme Labarga,"",STATS,OVER VOTES,1,,,
-Hendry,02,Supreme Labarga,"",STATS,OVER VOTES,1,,,
-Hendry,03,Supreme Labarga,"",STATS,OVER VOTES,3,,,
-Hendry,04,Supreme Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Supreme Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Supreme Labarga,"",STATS,OVER VOTES,1,,,
-Hendry,07,Supreme Labarga,"",STATS,OVER VOTES,2,,,
-Hendry,08,Supreme Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Supreme Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Supreme Labarga,"",STATS,UNDER VOTES,135,,,
-Hendry,10,Supreme Labarga,"",STATS,UNDER VOTES,49,,,
-Hendry,02,Supreme Labarga,"",STATS,UNDER VOTES,221,101,73,47
-Hendry,03,Supreme Labarga,"",STATS,UNDER VOTES,167,66,67,34
-Hendry,04,Supreme Labarga,"",STATS,UNDER VOTES,12,,,
-Hendry,05,Supreme Labarga,"",STATS,UNDER VOTES,22,,,
-Hendry,06,Supreme Labarga,"",STATS,UNDER VOTES,84,,,
-Hendry,07,Supreme Labarga,"",STATS,UNDER VOTES,171,81,50,40
-Hendry,08,Supreme Labarga,"",STATS,UNDER VOTES,45,,,
-Hendry,09,Supreme Labarga,"",STATS,UNDER VOTES,87,,,
-Hendry,01,Supreme Polston,"",NON,Yes,586,263,230,93
-Hendry,10,Supreme Polston,"",NON,Yes,310,80,184,46
-Hendry,02,Supreme Polston,"",NON,Yes,1167,528,378,261
-Hendry,03,Supreme Polston,"",NON,Yes,843,379,257,207
-Hendry,04,Supreme Polston,"",NON,Yes,48,,,
-Hendry,05,Supreme Polston,"",NON,Yes,133,,,
-Hendry,06,Supreme Polston,"",NON,Yes,358,134,154,70
-Hendry,07,Supreme Polston,"",NON,Yes,825,424,271,130
-Hendry,08,Supreme Polston,"",NON,Yes,187,,,
-Hendry,09,Supreme Polston,"",NON,Yes,576,243,249,84
-Hendry,01,Supreme Polston,"",NON,No,401,142,169,90
-Hendry,10,Supreme Polston,"",NON,No,145,,,
-Hendry,02,Supreme Polston,"",NON,No,519,220,177,122
-Hendry,03,Supreme Polston,"",NON,No,354,152,114,88
-Hendry,04,Supreme Polston,"",NON,No,34,,,
-Hendry,05,Supreme Polston,"",NON,No,56,,,
-Hendry,06,Supreme Polston,"",NON,No,183,87,60,36
-Hendry,07,Supreme Polston,"",NON,No,231,,,
-Hendry,08,Supreme Polston,"",NON,No,106,32,43,31
-Hendry,09,Supreme Polston,"",NON,No,252,76,126,50
-Hendry,01,Supreme Polston,"",STATS,OVER VOTES,1,,,
-Hendry,10,Supreme Polston,"",STATS,OVER VOTES,1,,,
-Hendry,02,Supreme Polston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Supreme Polston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Supreme Polston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Supreme Polston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Supreme Polston,"",STATS,OVER VOTES,1,,,
-Hendry,07,Supreme Polston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,Supreme Polston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Supreme Polston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Supreme Polston,"",STATS,UNDER VOTES,133,,,
-Hendry,10,Supreme Polston,"",STATS,UNDER VOTES,48,,,
-Hendry,02,Supreme Polston,"",STATS,UNDER VOTES,218,101,73,44
-Hendry,03,Supreme Polston,"",STATS,UNDER VOTES,160,60,64,36
-Hendry,04,Supreme Polston,"",STATS,UNDER VOTES,11,,,
-Hendry,05,Supreme Polston,"",STATS,UNDER VOTES,21,,,
-Hendry,06,Supreme Polston,"",STATS,UNDER VOTES,82,,,
-Hendry,07,Supreme Polston,"",STATS,UNDER VOTES,174,84,49,41
-Hendry,08,Supreme Polston,"",STATS,UNDER VOTES,46,,,
-Hendry,09,Supreme Polston,"",STATS,UNDER VOTES,83,,,
-Hendry,01,2nd Dca Kelly,"",NON,Yes,652,283,265,104
-Hendry,10,2nd Dca Kelly,"",NON,Yes,325,84,193,48
-Hendry,02,2nd Dca Kelly,"",NON,Yes,1146,515,367,264
-Hendry,03,2nd Dca Kelly,"",NON,Yes,835,382,236,217
-Hendry,04,2nd Dca Kelly,"",NON,Yes,49,,,
-Hendry,05,2nd Dca Kelly,"",NON,Yes,120,,,
-Hendry,06,2nd Dca Kelly,"",NON,Yes,338,119,150,69
-Hendry,07,2nd Dca Kelly,"",NON,Yes,760,379,265,116
-Hendry,08,2nd Dca Kelly,"",NON,Yes,194,45,108,41
-Hendry,09,2nd Dca Kelly,"",NON,Yes,601,251,260,90
-Hendry,01,2nd Dca Kelly,"",NON,No,339,128,135,76
-Hendry,10,2nd Dca Kelly,"",NON,No,127,,,
-Hendry,02,2nd Dca Kelly,"",NON,No,540,236,185,119
-Hendry,03,2nd Dca Kelly,"",NON,No,346,140,129,77
-Hendry,04,2nd Dca Kelly,"",NON,No,31,,,
-Hendry,05,2nd Dca Kelly,"",NON,No,66,,,
-Hendry,06,2nd Dca Kelly,"",NON,No,196,97,62,37
-Hendry,07,2nd Dca Kelly,"",NON,No,267,146,90,31
-Hendry,08,2nd Dca Kelly,"",NON,No,91,,,
-Hendry,09,2nd Dca Kelly,"",NON,No,223,67,112,44
-Hendry,01,2nd Dca Kelly,"",STATS,OVER VOTES,3,,,
-Hendry,10,2nd Dca Kelly,"",STATS,OVER VOTES,1,,,
-Hendry,02,2nd Dca Kelly,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,2nd Dca Kelly,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,2nd Dca Kelly,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Kelly,"",STATS,OVER VOTES,1,,,
-Hendry,06,2nd Dca Kelly,"",STATS,OVER VOTES,1,,,
-Hendry,07,2nd Dca Kelly,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Kelly,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Kelly,"",STATS,OVER VOTES,1,,,
-Hendry,01,2nd Dca Kelly,"",STATS,UNDER VOTES,127,,,
-Hendry,10,2nd Dca Kelly,"",STATS,UNDER VOTES,51,,,
-Hendry,02,2nd Dca Kelly,"",STATS,UNDER VOTES,218,98,76,44
-Hendry,03,2nd Dca Kelly,"",STATS,UNDER VOTES,176,69,70,37
-Hendry,04,2nd Dca Kelly,"",STATS,UNDER VOTES,13,,,
-Hendry,05,2nd Dca Kelly,"",STATS,UNDER VOTES,23,,,
-Hendry,06,2nd Dca Kelly,"",STATS,UNDER VOTES,89,,,
-Hendry,07,2nd Dca Kelly,"",STATS,UNDER VOTES,203,96,58,49
-Hendry,08,2nd Dca Kelly,"",STATS,UNDER VOTES,54,,,
-Hendry,09,2nd Dca Kelly,"",STATS,UNDER VOTES,86,,,
-Hendry,01,2nd Dca Khouzam,"",NON,Yes,625,270,256,99
-Hendry,10,2nd Dca Khouzam,"",NON,Yes,315,84,183,48
-Hendry,02,2nd Dca Khouzam,"",NON,Yes,1138,507,373,258
-Hendry,03,2nd Dca Khouzam,"",NON,Yes,803,362,237,204
-Hendry,04,2nd Dca Khouzam,"",NON,Yes,48,,,
-Hendry,05,2nd Dca Khouzam,"",NON,Yes,127,,,
-Hendry,06,2nd Dca Khouzam,"",NON,Yes,336,119,148,69
-Hendry,07,2nd Dca Khouzam,"",NON,Yes,775,399,258,118
-Hendry,08,2nd Dca Khouzam,"",NON,Yes,191,45,109,37
-Hendry,09,2nd Dca Khouzam,"",NON,Yes,570,240,247,83
-Hendry,01,2nd Dca Khouzam,"",NON,No,353,134,138,81
-Hendry,10,2nd Dca Khouzam,"",NON,No,134,,,
-Hendry,02,2nd Dca Khouzam,"",NON,No,531,234,176,121
-Hendry,03,2nd Dca Khouzam,"",NON,No,370,156,124,90
-Hendry,04,2nd Dca Khouzam,"",NON,No,32,,,
-Hendry,05,2nd Dca Khouzam,"",NON,No,60,,,
-Hendry,06,2nd Dca Khouzam,"",NON,No,200,96,66,38
-Hendry,07,2nd Dca Khouzam,"",NON,No,248,,,
-Hendry,08,2nd Dca Khouzam,"",NON,No,93,,,
-Hendry,09,2nd Dca Khouzam,"",NON,No,246,75,122,49
-Hendry,01,2nd Dca Khouzam,"",STATS,OVER VOTES,2,,,
-Hendry,10,2nd Dca Khouzam,"",STATS,OVER VOTES,1,,,
-Hendry,02,2nd Dca Khouzam,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,2nd Dca Khouzam,"",STATS,OVER VOTES,2,,,
-Hendry,04,2nd Dca Khouzam,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Khouzam,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,2nd Dca Khouzam,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,2nd Dca Khouzam,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Khouzam,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Khouzam,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,2nd Dca Khouzam,"",STATS,UNDER VOTES,141,,,
-Hendry,10,2nd Dca Khouzam,"",STATS,UNDER VOTES,54,,,
-Hendry,02,2nd Dca Khouzam,"",STATS,UNDER VOTES,235,108,79,48
-Hendry,03,2nd Dca Khouzam,"",STATS,UNDER VOTES,182,72,73,37
-Hendry,04,2nd Dca Khouzam,"",STATS,UNDER VOTES,13,,,
-Hendry,05,2nd Dca Khouzam,"",STATS,UNDER VOTES,23,,,
-Hendry,06,2nd Dca Khouzam,"",STATS,UNDER VOTES,88,,,
-Hendry,07,2nd Dca Khouzam,"",STATS,UNDER VOTES,207,98,59,50
-Hendry,08,2nd Dca Khouzam,"",STATS,UNDER VOTES,55,,,
-Hendry,09,2nd Dca Khouzam,"",STATS,UNDER VOTES,95,,,
-Hendry,01,2nd Dca Labrit,"",NON,Yes,626,275,253,98
-Hendry,10,2nd Dca Labrit,"",NON,Yes,333,86,200,47
-Hendry,02,2nd Dca Labrit,"",NON,Yes,1222,545,406,271
-Hendry,03,2nd Dca Labrit,"",NON,Yes,867,385,258,224
-Hendry,04,2nd Dca Labrit,"",NON,Yes,46,,,
-Hendry,05,2nd Dca Labrit,"",NON,Yes,127,,,
-Hendry,06,2nd Dca Labrit,"",NON,Yes,355,134,152,69
-Hendry,07,2nd Dca Labrit,"",NON,Yes,801,407,269,125
-Hendry,08,2nd Dca Labrit,"",NON,Yes,188,48,106,34
-Hendry,09,2nd Dca Labrit,"",NON,Yes,576,244,254,78
-Hendry,01,2nd Dca Labrit,"",NON,No,350,126,140,84
-Hendry,10,2nd Dca Labrit,"",NON,No,115,,,
-Hendry,02,2nd Dca Labrit,"",NON,No,448,195,142,111
-Hendry,03,2nd Dca Labrit,"",NON,No,302,134,103,65
-Hendry,04,2nd Dca Labrit,"",NON,No,35,,,
-Hendry,05,2nd Dca Labrit,"",NON,No,58,,,
-Hendry,06,2nd Dca Labrit,"",NON,No,180,83,59,38
-Hendry,07,2nd Dca Labrit,"",NON,No,229,,,
-Hendry,08,2nd Dca Labrit,"",NON,No,94,,,
-Hendry,09,2nd Dca Labrit,"",NON,No,236,69,114,53
-Hendry,01,2nd Dca Labrit,"",STATS,OVER VOTES,1,,,
-Hendry,10,2nd Dca Labrit,"",STATS,OVER VOTES,2,,,
-Hendry,02,2nd Dca Labrit,"",STATS,OVER VOTES,1,,,
-Hendry,03,2nd Dca Labrit,"",STATS,OVER VOTES,1,,,
-Hendry,04,2nd Dca Labrit,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Labrit,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,2nd Dca Labrit,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,2nd Dca Labrit,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Labrit,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Labrit,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,2nd Dca Labrit,"",STATS,UNDER VOTES,144,,,
-Hendry,10,2nd Dca Labrit,"",STATS,UNDER VOTES,54,,,
-Hendry,02,2nd Dca Labrit,"",STATS,UNDER VOTES,233,109,79,45
-Hendry,03,2nd Dca Labrit,"",STATS,UNDER VOTES,187,72,74,41
-Hendry,04,2nd Dca Labrit,"",STATS,UNDER VOTES,12,,,
-Hendry,05,2nd Dca Labrit,"",STATS,UNDER VOTES,25,,,
-Hendry,06,2nd Dca Labrit,"",STATS,UNDER VOTES,89,,,
-Hendry,07,2nd Dca Labrit,"",STATS,UNDER VOTES,200,95,55,50
-Hendry,08,2nd Dca Labrit,"",STATS,UNDER VOTES,57,,,
-Hendry,09,2nd Dca Labrit,"",STATS,UNDER VOTES,99,,,
-Hendry,01,2nd Dca Lucas,"",NON,Yes,620,275,251,94
-Hendry,10,2nd Dca Lucas,"",NON,Yes,329,82,197,50
-Hendry,02,2nd Dca Lucas,"",NON,Yes,1187,536,384,267
-Hendry,03,2nd Dca Lucas,"",NON,Yes,864,390,266,208
-Hendry,04,2nd Dca Lucas,"",NON,Yes,47,,,
-Hendry,05,2nd Dca Lucas,"",NON,Yes,130,,,
-Hendry,06,2nd Dca Lucas,"",NON,Yes,348,127,157,64
-Hendry,07,2nd Dca Lucas,"",NON,Yes,790,402,269,119
-Hendry,08,2nd Dca Lucas,"",NON,Yes,186,,,
-Hendry,09,2nd Dca Lucas,"",NON,Yes,585,248,256,81
-Hendry,01,2nd Dca Lucas,"",NON,No,356,126,141,89
-Hendry,10,2nd Dca Lucas,"",NON,No,120,,,
-Hendry,02,2nd Dca Lucas,"",NON,No,483,207,163,113
-Hendry,03,2nd Dca Lucas,"",NON,No,311,129,98,84
-Hendry,04,2nd Dca Lucas,"",NON,No,32,,,
-Hendry,05,2nd Dca Lucas,"",NON,No,54,,,
-Hendry,06,2nd Dca Lucas,"",NON,No,184,86,57,41
-Hendry,07,2nd Dca Lucas,"",NON,No,232,,,
-Hendry,08,2nd Dca Lucas,"",NON,No,97,,,
-Hendry,09,2nd Dca Lucas,"",NON,No,230,67,113,50
-Hendry,01,2nd Dca Lucas,"",STATS,OVER VOTES,1,,,
-Hendry,10,2nd Dca Lucas,"",STATS,OVER VOTES,1,,,
-Hendry,02,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Lucas,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,2nd Dca Lucas,"",STATS,UNDER VOTES,144,,,
-Hendry,10,2nd Dca Lucas,"",STATS,UNDER VOTES,54,,,
-Hendry,02,2nd Dca Lucas,"",STATS,UNDER VOTES,234,106,81,47
-Hendry,03,2nd Dca Lucas,"",STATS,UNDER VOTES,182,72,71,39
-Hendry,04,2nd Dca Lucas,"",STATS,UNDER VOTES,14,,,
-Hendry,05,2nd Dca Lucas,"",STATS,UNDER VOTES,26,,,
-Hendry,06,2nd Dca Lucas,"",STATS,UNDER VOTES,92,,,
-Hendry,07,2nd Dca Lucas,"",STATS,UNDER VOTES,208,100,59,49
-Hendry,08,2nd Dca Lucas,"",STATS,UNDER VOTES,56,,,
-Hendry,09,2nd Dca Lucas,"",STATS,UNDER VOTES,96,,,
-Hendry,01,2nd Dca Morris,"",NON,Yes,620,270,245,105
-Hendry,10,2nd Dca Morris,"",NON,Yes,308,80,182,46
-Hendry,02,2nd Dca Morris,"",NON,Yes,1072,474,347,251
-Hendry,03,2nd Dca Morris,"",NON,Yes,781,356,231,194
-Hendry,04,2nd Dca Morris,"",NON,Yes,47,,,
-Hendry,05,2nd Dca Morris,"",NON,Yes,121,,,
-Hendry,06,2nd Dca Morris,"",NON,Yes,334,117,147,70
-Hendry,07,2nd Dca Morris,"",NON,Yes,737,373,260,104
-Hendry,08,2nd Dca Morris,"",NON,Yes,182,45,106,31
-Hendry,09,2nd Dca Morris,"",NON,Yes,573,235,253,85
-Hendry,01,2nd Dca Morris,"",NON,No,363,134,151,78
-Hendry,10,2nd Dca Morris,"",NON,No,142,,,
-Hendry,02,2nd Dca Morris,"",NON,No,605,269,205,131
-Hendry,03,2nd Dca Morris,"",NON,No,395,167,130,98
-Hendry,04,2nd Dca Morris,"",NON,No,33,,,
-Hendry,05,2nd Dca Morris,"",NON,No,62,,,
-Hendry,06,2nd Dca Morris,"",NON,No,198,98,67,33
-Hendry,07,2nd Dca Morris,"",NON,No,287,150,95,42
-Hendry,08,2nd Dca Morris,"",NON,No,102,,,
-Hendry,09,2nd Dca Morris,"",NON,No,243,78,119,46
-Hendry,01,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,2nd Dca Morris,"",STATS,OVER VOTES,1,,,
-Hendry,02,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Morris,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,2nd Dca Morris,"",STATS,UNDER VOTES,138,,,
-Hendry,10,2nd Dca Morris,"",STATS,UNDER VOTES,53,,,
-Hendry,02,2nd Dca Morris,"",STATS,UNDER VOTES,227,106,76,45
-Hendry,03,2nd Dca Morris,"",STATS,UNDER VOTES,181,68,74,39
-Hendry,04,2nd Dca Morris,"",STATS,UNDER VOTES,13,,,
-Hendry,05,2nd Dca Morris,"",STATS,UNDER VOTES,27,,,
-Hendry,06,2nd Dca Morris,"",STATS,UNDER VOTES,92,,,
-Hendry,07,2nd Dca Morris,"",STATS,UNDER VOTES,206,98,58,50
-Hendry,08,2nd Dca Morris,"",STATS,UNDER VOTES,55,,,
-Hendry,09,2nd Dca Morris,"",STATS,UNDER VOTES,95,,,
-Hendry,01,2nd Dca Northcutt,"",NON,Yes,593,261,228,104
-Hendry,10,2nd Dca Northcutt,"",NON,Yes,289,72,170,47
-Hendry,02,2nd Dca Northcutt,"",NON,Yes,1014,451,322,241
-Hendry,03,2nd Dca Northcutt,"",NON,Yes,738,344,211,183
-Hendry,04,2nd Dca Northcutt,"",NON,Yes,49,,,
-Hendry,05,2nd Dca Northcutt,"",NON,Yes,108,,,
-Hendry,06,2nd Dca Northcutt,"",NON,Yes,308,119,127,62
-Hendry,07,2nd Dca Northcutt,"",NON,Yes,628,312,220,96
-Hendry,08,2nd Dca Northcutt,"",NON,Yes,172,,,
-Hendry,09,2nd Dca Northcutt,"",NON,Yes,527,223,229,75
-Hendry,01,2nd Dca Northcutt,"",NON,No,375,142,166,67
-Hendry,10,2nd Dca Northcutt,"",NON,No,148,,,
-Hendry,02,2nd Dca Northcutt,"",NON,No,633,281,219,133
-Hendry,03,2nd Dca Northcutt,"",NON,No,429,176,150,103
-Hendry,04,2nd Dca Northcutt,"",NON,No,28,,,
-Hendry,05,2nd Dca Northcutt,"",NON,No,72,,,
-Hendry,06,2nd Dca Northcutt,"",NON,No,220,96,83,41
-Hendry,07,2nd Dca Northcutt,"",NON,No,378,203,124,51
-Hendry,08,2nd Dca Northcutt,"",NON,No,99,,,
-Hendry,09,2nd Dca Northcutt,"",NON,No,279,92,135,52
-Hendry,01,2nd Dca Northcutt,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,2nd Dca Northcutt,"",STATS,OVER VOTES,1,,,
-Hendry,02,2nd Dca Northcutt,"",STATS,OVER VOTES,1,,,
-Hendry,03,2nd Dca Northcutt,"",STATS,OVER VOTES,1,,,
-Hendry,04,2nd Dca Northcutt,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Northcutt,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,2nd Dca Northcutt,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,2nd Dca Northcutt,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Northcutt,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Northcutt,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,2nd Dca Northcutt,"",STATS,UNDER VOTES,153,,,
-Hendry,10,2nd Dca Northcutt,"",STATS,UNDER VOTES,66,,,
-Hendry,02,2nd Dca Northcutt,"",STATS,UNDER VOTES,256,116,87,53
-Hendry,03,2nd Dca Northcutt,"",STATS,UNDER VOTES,189,70,74,45
-Hendry,04,2nd Dca Northcutt,"",STATS,UNDER VOTES,16,,,
-Hendry,05,2nd Dca Northcutt,"",STATS,UNDER VOTES,30,,,
-Hendry,06,2nd Dca Northcutt,"",STATS,UNDER VOTES,96,,,
-Hendry,07,2nd Dca Northcutt,"",STATS,UNDER VOTES,224,106,69,49
-Hendry,08,2nd Dca Northcutt,"",STATS,UNDER VOTES,68,,,
-Hendry,09,2nd Dca Northcutt,"",STATS,UNDER VOTES,105,,,
-Hendry,01,2nd Dca Stargel,"",NON,Yes,594,268,230,96
-Hendry,10,2nd Dca Stargel,"",NON,Yes,302,83,177,42
-Hendry,02,2nd Dca Stargel,"",NON,Yes,1181,533,394,254
-Hendry,03,2nd Dca Stargel,"",NON,Yes,867,387,260,220
-Hendry,04,2nd Dca Stargel,"",NON,Yes,47,,,
-Hendry,05,2nd Dca Stargel,"",NON,Yes,128,,,
-Hendry,06,2nd Dca Stargel,"",NON,Yes,343,126,148,69
-Hendry,07,2nd Dca Stargel,"",NON,Yes,782,399,260,123
-Hendry,08,2nd Dca Stargel,"",NON,Yes,173,,,
-Hendry,09,2nd Dca Stargel,"",NON,Yes,569,248,248,73
-Hendry,01,2nd Dca Stargel,"",NON,No,367,132,161,74
-Hendry,10,2nd Dca Stargel,"",NON,No,137,34,72,31
-Hendry,02,2nd Dca Stargel,"",NON,No,456,196,145,115
-Hendry,03,2nd Dca Stargel,"",NON,No,296,131,100,65
-Hendry,04,2nd Dca Stargel,"",NON,No,30,,,
-Hendry,05,2nd Dca Stargel,"",NON,No,50,,,
-Hendry,06,2nd Dca Stargel,"",NON,No,184,90,60,34
-Hendry,07,2nd Dca Stargel,"",NON,No,221,,,
-Hendry,08,2nd Dca Stargel,"",NON,No,97,,,
-Hendry,09,2nd Dca Stargel,"",NON,No,230,63,115,52
-Hendry,01,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,2nd Dca Stargel,"",STATS,OVER VOTES,1,,,
-Hendry,02,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,2nd Dca Stargel,"",STATS,OVER VOTES,1,,,
-Hendry,04,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Stargel,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,2nd Dca Stargel,"",STATS,UNDER VOTES,160,,,
-Hendry,10,2nd Dca Stargel,"",STATS,UNDER VOTES,64,,,
-Hendry,02,2nd Dca Stargel,"",STATS,UNDER VOTES,267,120,89,58
-Hendry,03,2nd Dca Stargel,"",STATS,UNDER VOTES,193,73,74,46
-Hendry,04,2nd Dca Stargel,"",STATS,UNDER VOTES,16,,,
-Hendry,05,2nd Dca Stargel,"",STATS,UNDER VOTES,32,,,
-Hendry,06,2nd Dca Stargel,"",STATS,UNDER VOTES,97,,,
-Hendry,07,2nd Dca Stargel,"",STATS,UNDER VOTES,227,108,70,49
-Hendry,08,2nd Dca Stargel,"",STATS,UNDER VOTES,69,,,
-Hendry,09,2nd Dca Stargel,"",STATS,UNDER VOTES,112,39,43,30
-Hendry,01,2nd Dca Villanti,"",NON,Yes,576,255,230,91
-Hendry,10,2nd Dca Villanti,"",NON,Yes,295,83,163,49
-Hendry,02,2nd Dca Villanti,"",NON,Yes,1081,485,359,237
-Hendry,03,2nd Dca Villanti,"",NON,Yes,787,362,224,201
-Hendry,04,2nd Dca Villanti,"",NON,Yes,45,,,
-Hendry,05,2nd Dca Villanti,"",NON,Yes,108,,,
-Hendry,06,2nd Dca Villanti,"",NON,Yes,326,117,140,69
-Hendry,07,2nd Dca Villanti,"",NON,Yes,720,366,246,108
-Hendry,08,2nd Dca Villanti,"",NON,Yes,181,,,
-Hendry,09,2nd Dca Villanti,"",NON,Yes,552,236,233,83
-Hendry,01,2nd Dca Villanti,"",NON,No,381,146,157,78
-Hendry,10,2nd Dca Villanti,"",NON,No,135,,,
-Hendry,02,2nd Dca Villanti,"",NON,No,557,244,178,135
-Hendry,03,2nd Dca Villanti,"",NON,No,361,148,133,80
-Hendry,04,2nd Dca Villanti,"",NON,No,31,,,
-Hendry,05,2nd Dca Villanti,"",NON,No,71,,,
-Hendry,06,2nd Dca Villanti,"",NON,No,197,97,66,34
-Hendry,07,2nd Dca Villanti,"",NON,No,283,147,96,40
-Hendry,08,2nd Dca Villanti,"",NON,No,87,,,
-Hendry,09,2nd Dca Villanti,"",NON,No,255,79,129,47
-Hendry,01,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,2nd Dca Villanti,"",STATS,OVER VOTES,1,,,
-Hendry,02,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,2nd Dca Villanti,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,2nd Dca Villanti,"",STATS,UNDER VOTES,164,83,51,30
-Hendry,10,2nd Dca Villanti,"",STATS,UNDER VOTES,73,,,
-Hendry,02,2nd Dca Villanti,"",STATS,UNDER VOTES,266,120,91,55
-Hendry,03,2nd Dca Villanti,"",STATS,UNDER VOTES,209,81,78,50
-Hendry,04,2nd Dca Villanti,"",STATS,UNDER VOTES,17,,,
-Hendry,05,2nd Dca Villanti,"",STATS,UNDER VOTES,31,,,
-Hendry,06,2nd Dca Villanti,"",STATS,UNDER VOTES,101,,,
-Hendry,07,2nd Dca Villanti,"",STATS,UNDER VOTES,227,108,71,48
-Hendry,08,2nd Dca Villanti,"",STATS,UNDER VOTES,71,,,
-Hendry,09,2nd Dca Villanti,"",STATS,UNDER VOTES,104,,,
-Hendry,10,School Board,4,NON,Stephanie Busin,99,,,
-Hendry,07,School Board,4,NON,Stephanie Busin,499,253,163,83
-Hendry,09,School Board,4,NON,Stephanie Busin,506,213,205,88
-Hendry,10,School Board,4,NON,Joe Whitehead,59,,,
-Hendry,07,School Board,4,NON,Joe Whitehead,692,348,233,111
-Hendry,09,School Board,4,NON,Joe Whitehead,341,116,178,47
-Hendry,10,School Board,4,STATS,OVER VOTES,0,0,0,0
-Hendry,07,School Board,4,STATS,OVER VOTES,0,0,0,0
-Hendry,09,School Board,4,STATS,OVER VOTES,3,,,
-Hendry,10,School Board,4,STATS,UNDER VOTES,17,,,
-Hendry,07,School Board,4,STATS,UNDER VOTES,39,,,
-Hendry,09,School Board,4,STATS,UNDER VOTES,61,,,
-Hendry,01,City of Clewiston,"",NON,Barbara Edmonds,212,84,86,42
-Hendry,07,City of Clewiston,"",NON,Barbara Edmonds,537,280,143,114
-Hendry,01,City of Clewiston,"",NON,"Rolando ""Roly"" Gonzalez",254,102,112,40
-Hendry,07,City of Clewiston,"",NON,"Rolando ""Roly"" Gonzalez",303,160,110,33
-Hendry,01,City of Clewiston,"",NON,Hillary Hyslope,235,101,96,38
-Hendry,07,City of Clewiston,"",NON,Hillary Hyslope,669,335,215,119
-Hendry,01,City of Clewiston,"",NON,Ian Stone,174,75,68,31
-Hendry,07,City of Clewiston,"",NON,Ian Stone,500,259,172,69
-Hendry,01,City of Clewiston,"",NON,Michael Swangler,64,,,
-Hendry,07,City of Clewiston,"",NON,Michael Swangler,54,,,
-Hendry,01,City of Clewiston,"",NON,Greg Thompson,245,97,107,41
-Hendry,07,City of Clewiston,"",NON,Greg Thompson,473,254,140,79
-Hendry,01,City of Clewiston,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,City of Clewiston,"",STATS,OVER VOTES,3,,,
-Hendry,01,City of Clewiston,"",STATS,UNDER VOTES,595,307,200,88
-Hendry,07,City of Clewiston,"",STATS,UNDER VOTES,884,384,374,126
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",NON,Julie Camp,51,,,
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",NON,David Deetscreek,31,,,
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",NON,David A. Lenahan II,12,,,
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",STATS,UNDER VOTES,22,,,
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",NON,Mike Bonacolta,45,,,
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",NON,Tim Cooley,35,,,
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",NON,Chris Sola-Martinez,16,,,
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Lehigh Acres Municipal Services Improvement District Sea,"",STATS,UNDER VOTES,20,,,
-Hendry,02,Port Labelle Community Development District Seat 1,"",NON,Liz Garcia,82,,,
-Hendry,09,Port Labelle Community Development District Seat 1,"",NON,Liz Garcia,318,123,159,36
-Hendry,02,Port Labelle Community Development District Seat 1,"",NON,Nancy V. Imhoff,47,,,
-Hendry,09,Port Labelle Community Development District Seat 1,"",NON,Nancy V. Imhoff,175,,,
-Hendry,02,Port Labelle Community Development District Seat 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Port Labelle Community Development District Seat 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,02,Port Labelle Community Development District Seat 1,"",STATS,UNDER VOTES,22,,,
-Hendry,09,Port Labelle Community Development District Seat 1,"",STATS,UNDER VOTES,54,,,
-Hendry,01,Amendment 1,"",NON,Yes,543,228,240,75
-Hendry,10,Amendment 1,"",NON,Yes,249,69,142,38
-Hendry,02,Amendment 1,"",NON,Yes,1027,462,317,248
-Hendry,03,Amendment 1,"",NON,Yes,756,334,235,187
-Hendry,04,Amendment 1,"",NON,Yes,48,,,
-Hendry,05,Amendment 1,"",NON,Yes,93,,,
-Hendry,06,Amendment 1,"",NON,Yes,304,117,115,72
-Hendry,07,Amendment 1,"",NON,Yes,637,313,227,97
-Hendry,08,Amendment 1,"",NON,Yes,162,46,85,31
-Hendry,09,Amendment 1,"",NON,Yes,453,170,208,75
-Hendry,01,Amendment 1,"",NON,No,447,179,165,103
-Hendry,10,Amendment 1,"",NON,No,201,53,112,36
-Hendry,02,Amendment 1,"",NON,No,681,304,233,144
-Hendry,03,Amendment 1,"",NON,No,473,204,159,110
-Hendry,04,Amendment 1,"",NON,No,34,,,
-Hendry,05,Amendment 1,"",NON,No,97,,,
-Hendry,06,Amendment 1,"",NON,No,251,111,107,33
-Hendry,07,Amendment 1,"",NON,No,414,223,133,58
-Hendry,08,Amendment 1,"",NON,No,141,,,
-Hendry,09,Amendment 1,"",NON,No,386,155,167,64
-Hendry,01,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,10,Amendment 1,"",STATS,OVER VOTES,1,,,
-Hendry,02,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,Amendment 1,"",STATS,OVER VOTES,1,,,
-Hendry,04,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Amendment 1,"",STATS,OVER VOTES,2,,,
-Hendry,07,Amendment 1,"",STATS,OVER VOTES,1,,,
-Hendry,08,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Amendment 1,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Amendment 1,"",STATS,UNDER VOTES,131,,,
-Hendry,10,Amendment 1,"",STATS,UNDER VOTES,53,,,
-Hendry,02,Amendment 1,"",STATS,UNDER VOTES,196,83,78,35
-Hendry,03,Amendment 1,"",STATS,UNDER VOTES,127,53,40,34
-Hendry,04,Amendment 1,"",STATS,UNDER VOTES,11,,,
-Hendry,05,Amendment 1,"",STATS,UNDER VOTES,20,,,
-Hendry,06,Amendment 1,"",STATS,UNDER VOTES,67,,,
-Hendry,07,Amendment 1,"",STATS,UNDER VOTES,178,84,53,41
-Hendry,08,Amendment 1,"",STATS,UNDER VOTES,36,,,
-Hendry,09,Amendment 1,"",STATS,UNDER VOTES,72,,,
-Hendry,01,Amendment 2,"",NON,Yes,487,197,210,80
-Hendry,10,Amendment 2,"",NON,Yes,240,62,147,31
-Hendry,02,Amendment 2,"",NON,Yes,965,433,300,232
-Hendry,03,Amendment 2,"",NON,Yes,732,326,224,182
-Hendry,04,Amendment 2,"",NON,Yes,44,,,
-Hendry,05,Amendment 2,"",NON,Yes,98,,,
-Hendry,06,Amendment 2,"",NON,Yes,293,112,120,61
-Hendry,07,Amendment 2,"",NON,Yes,610,301,207,102
-Hendry,08,Amendment 2,"",NON,Yes,128,,,
-Hendry,09,Amendment 2,"",NON,Yes,467,176,215,76
-Hendry,01,Amendment 2,"",NON,No,493,208,187,98
-Hendry,10,Amendment 2,"",NON,No,206,60,102,44
-Hendry,02,Amendment 2,"",NON,No,724,325,242,157
-Hendry,03,Amendment 2,"",NON,No,498,213,165,120
-Hendry,04,Amendment 2,"",NON,No,37,,,
-Hendry,05,Amendment 2,"",NON,No,90,,,
-Hendry,06,Amendment 2,"",NON,No,262,118,101,43
-Hendry,07,Amendment 2,"",NON,No,439,234,153,52
-Hendry,08,Amendment 2,"",NON,No,169,42,90,37
-Hendry,09,Amendment 2,"",NON,No,364,147,159,58
-Hendry,01,Amendment 2,"",STATS,OVER VOTES,1,,,
-Hendry,10,Amendment 2,"",STATS,OVER VOTES,2,,,
-Hendry,02,Amendment 2,"",STATS,OVER VOTES,2,,,
-Hendry,03,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
-Hendry,07,Amendment 2,"",STATS,OVER VOTES,1,,,
-Hendry,08,Amendment 2,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Amendment 2,"",STATS,OVER VOTES,3,,,
-Hendry,01,Amendment 2,"",STATS,UNDER VOTES,140,,,
-Hendry,10,Amendment 2,"",STATS,UNDER VOTES,56,,,
-Hendry,02,Amendment 2,"",STATS,UNDER VOTES,213,90,85,38
-Hendry,03,Amendment 2,"",STATS,UNDER VOTES,127,,,
-Hendry,04,Amendment 2,"",STATS,UNDER VOTES,12,,,
-Hendry,05,Amendment 2,"",STATS,UNDER VOTES,22,,,
-Hendry,06,Amendment 2,"",STATS,UNDER VOTES,69,,,
-Hendry,07,Amendment 2,"",STATS,UNDER VOTES,180,85,53,42
-Hendry,08,Amendment 2,"",STATS,UNDER VOTES,42,,,
-Hendry,09,Amendment 2,"",STATS,UNDER VOTES,77,,,
-Hendry,01,Amendment 3,"",NON,Yes,649,265,271,113
-Hendry,10,Amendment 3,"",NON,Yes,285,67,171,47
-Hendry,02,Amendment 3,"",NON,Yes,1046,451,346,249
-Hendry,03,Amendment 3,"",NON,Yes,762,313,250,199
-Hendry,04,Amendment 3,"",NON,Yes,48,,,
-Hendry,05,Amendment 3,"",NON,Yes,94,,,
-Hendry,06,Amendment 3,"",NON,Yes,329,130,142,57
-Hendry,07,Amendment 3,"",NON,Yes,600,292,217,91
-Hendry,08,Amendment 3,"",NON,Yes,164,,,
-Hendry,09,Amendment 3,"",NON,Yes,586,230,263,93
-Hendry,01,Amendment 3,"",NON,No,350,147,133,70
-Hendry,10,Amendment 3,"",NON,No,167,,,
-Hendry,02,Amendment 3,"",NON,No,703,334,221,148
-Hendry,03,Amendment 3,"",NON,No,505,241,154,110
-Hendry,04,Amendment 3,"",NON,No,38,,,
-Hendry,05,Amendment 3,"",NON,No,99,,,
-Hendry,06,Amendment 3,"",NON,No,236,101,85,50
-Hendry,07,Amendment 3,"",NON,No,502,269,153,80
-Hendry,08,Amendment 3,"",NON,No,145,36,78,31
-Hendry,09,Amendment 3,"",NON,No,268,100,119,49
-Hendry,01,Amendment 3,"",STATS,OVER VOTES,1,,,
-Hendry,10,Amendment 3,"",STATS,OVER VOTES,1,,,
-Hendry,02,Amendment 3,"",STATS,OVER VOTES,1,,,
-Hendry,03,Amendment 3,"",STATS,OVER VOTES,2,,,
-Hendry,04,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,Amendment 3,"",STATS,OVER VOTES,1,,,
-Hendry,07,Amendment 3,"",STATS,OVER VOTES,2,,,
-Hendry,08,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,Amendment 3,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,Amendment 3,"",STATS,UNDER VOTES,121,,,
-Hendry,10,Amendment 3,"",STATS,UNDER VOTES,51,,,
-Hendry,02,Amendment 3,"",STATS,UNDER VOTES,154,64,60,30
-Hendry,03,Amendment 3,"",STATS,UNDER VOTES,88,,,
-Hendry,04,Amendment 3,"",STATS,UNDER VOTES,7,,,
-Hendry,05,Amendment 3,"",STATS,UNDER VOTES,17,,,
-Hendry,06,Amendment 3,"",STATS,UNDER VOTES,58,,,
-Hendry,07,Amendment 3,"",STATS,UNDER VOTES,126,,,
-Hendry,08,Amendment 3,"",STATS,UNDER VOTES,30,,,
-Hendry,09,Amendment 3,"",STATS,UNDER VOTES,57,,,
-Hendry,01,School Referendum,"",NON,For the Half-Cent Tax,602,234,266,102
-Hendry,10,School Referendum,"",NON,For the Half-Cent Tax,212,41,132,39
-Hendry,02,School Referendum,"",NON,For the Half-Cent Tax,923,404,317,202
-Hendry,03,School Referendum,"",NON,For the Half-Cent Tax,645,281,202,162
-Hendry,04,School Referendum,"",NON,For the Half-Cent Tax,59,,,
-Hendry,05,School Referendum,"",NON,For the Half-Cent Tax,87,,,
-Hendry,06,School Referendum,"",NON,For the Half-Cent Tax,296,115,126,55
-Hendry,07,School Referendum,"",NON,For the Half-Cent Tax,583,300,197,86
-Hendry,08,School Referendum,"",NON,For the Half-Cent Tax,139,,,
-Hendry,09,School Referendum,"",NON,For the Half-Cent Tax,518,201,227,90
-Hendry,01,School Referendum,"",NON,Against the Half-Cent Tax,407,179,146,82
-Hendry,10,School Referendum,"",NON,Against the Half-Cent Tax,244,82,126,36
-Hendry,02,School Referendum,"",NON,Against the Half-Cent Tax,850,391,259,200
-Hendry,03,School Referendum,"",NON,Against the Half-Cent Tax,639,277,213,149
-Hendry,04,School Referendum,"",NON,Against the Half-Cent Tax,28,,,
-Hendry,05,School Referendum,"",NON,Against the Half-Cent Tax,109,,,
-Hendry,06,School Referendum,"",NON,Against the Half-Cent Tax,280,122,102,56
-Hendry,07,School Referendum,"",NON,Against the Half-Cent Tax,543,273,185,85
-Hendry,08,School Referendum,"",NON,Against the Half-Cent Tax,171,48,89,34
-Hendry,09,School Referendum,"",NON,Against the Half-Cent Tax,350,138,158,54
-Hendry,01,School Referendum,"",STATS,OVER VOTES,4,,,
-Hendry,10,School Referendum,"",STATS,OVER VOTES,2,,,
-Hendry,02,School Referendum,"",STATS,OVER VOTES,0,0,0,0
-Hendry,03,School Referendum,"",STATS,OVER VOTES,0,0,0,0
-Hendry,04,School Referendum,"",STATS,OVER VOTES,0,0,0,0
-Hendry,05,School Referendum,"",STATS,OVER VOTES,0,0,0,0
-Hendry,06,School Referendum,"",STATS,OVER VOTES,1,,,
-Hendry,07,School Referendum,"",STATS,OVER VOTES,0,0,0,0
-Hendry,08,School Referendum,"",STATS,OVER VOTES,0,0,0,0
-Hendry,09,School Referendum,"",STATS,OVER VOTES,0,0,0,0
-Hendry,01,School Referendum,"",STATS,UNDER VOTES,108,,,
-Hendry,10,School Referendum,"",STATS,UNDER VOTES,46,,,
-Hendry,02,School Referendum,"",STATS,UNDER VOTES,131,,,
-Hendry,03,School Referendum,"",STATS,UNDER VOTES,73,,,
-Hendry,04,School Referendum,"",STATS,UNDER VOTES,6,,,
-Hendry,05,School Referendum,"",STATS,UNDER VOTES,14,,,
-Hendry,06,School Referendum,"",STATS,UNDER VOTES,47,,,
-Hendry,07,School Referendum,"",STATS,UNDER VOTES,104,,,
-Hendry,08,School Referendum,"",STATS,UNDER VOTES,29,,,
-Hendry,09,School Referendum,"",STATS,UNDER VOTES,43,,,
+county,precinct,office,district,party,candidate,votes
+Hendry,01,U.S. Senate,"",REP,Marco Rubio,387
+Hendry,02,U.S. Senate,"",REP,Marco Rubio,1512
+Hendry,03,U.S. Senate,"",REP,Marco Rubio,1107
+Hendry,04,U.S. Senate,"",REP,Marco Rubio,50
+Hendry,05,U.S. Senate,"",REP,Marco Rubio,187
+Hendry,06,U.S. Senate,"",REP,Marco Rubio,500
+Hendry,07,U.S. Senate,"",REP,Marco Rubio,1030
+Hendry,08,U.S. Senate,"",REP,Marco Rubio,264
+Hendry,09,U.S. Senate,"",REP,Marco Rubio,614
+Hendry,10,U.S. Senate,"",REP,Marco Rubio,357
+Hendry,01,U.S. Senate,"",DEM,Val Demings,704
+Hendry,02,U.S. Senate,"",DEM,Val Demings,365
+Hendry,03,U.S. Senate,"",DEM,Val Demings,234
+Hendry,04,U.S. Senate,"",DEM,Val Demings,40
+Hendry,05,U.S. Senate,"",DEM,Val Demings,21
+Hendry,06,U.S. Senate,"",DEM,Val Demings,113
+Hendry,07,U.S. Senate,"",DEM,Val Demings,169
+Hendry,08,U.S. Senate,"",DEM,Val Demings,70
+Hendry,09,U.S. Senate,"",DEM,Val Demings,278
+Hendry,10,U.S. Senate,"",DEM,Val Demings,127
+Hendry,01,U.S. Senate,"",LPF,Dennis Misigoy,10
+Hendry,02,U.S. Senate,"",LPF,Dennis Misigoy,7
+Hendry,03,U.S. Senate,"",LPF,Dennis Misigoy,7
+Hendry,04,U.S. Senate,"",LPF,Dennis Misigoy,1
+Hendry,05,U.S. Senate,"",LPF,Dennis Misigoy,1
+Hendry,06,U.S. Senate,"",LPF,Dennis Misigoy,3
+Hendry,07,U.S. Senate,"",LPF,Dennis Misigoy,2
+Hendry,08,U.S. Senate,"",LPF,Dennis Misigoy,1
+Hendry,09,U.S. Senate,"",LPF,Dennis Misigoy,4
+Hendry,10,U.S. Senate,"",LPF,Dennis Misigoy,0
+Hendry,01,U.S. Senate,"",NPA,Steven B. Grant,13
+Hendry,02,U.S. Senate,"",NPA,Steven B. Grant,8
+Hendry,03,U.S. Senate,"",NPA,Steven B. Grant,6
+Hendry,04,U.S. Senate,"",NPA,Steven B. Grant,1
+Hendry,05,U.S. Senate,"",NPA,Steven B. Grant,1
+Hendry,06,U.S. Senate,"",NPA,Steven B. Grant,2
+Hendry,07,U.S. Senate,"",NPA,Steven B. Grant,7
+Hendry,08,U.S. Senate,"",NPA,Steven B. Grant,2
+Hendry,09,U.S. Senate,"",NPA,Steven B. Grant,6
+Hendry,10,U.S. Senate,"",NPA,Steven B. Grant,8
+Hendry,01,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Hendry,02,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Hendry,03,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Hendry,04,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Hendry,05,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Hendry,06,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Hendry,07,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Hendry,08,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Hendry,09,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Hendry,10,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Hendry,01,U.S. Senate,"","",WriteinVotes,0
+Hendry,02,U.S. Senate,"","",WriteinVotes,1
+Hendry,03,U.S. Senate,"","",WriteinVotes,0
+Hendry,04,U.S. Senate,"","",WriteinVotes,0
+Hendry,05,U.S. Senate,"","",WriteinVotes,0
+Hendry,06,U.S. Senate,"","",WriteinVotes,0
+Hendry,07,U.S. Senate,"","",WriteinVotes,0
+Hendry,08,U.S. Senate,"","",WriteinVotes,0
+Hendry,09,U.S. Senate,"","",WriteinVotes,1
+Hendry,10,U.S. Senate,"","",WriteinVotes,0
+Hendry,01,U.S. Senate,"","",OverVotes,1
+Hendry,02,U.S. Senate,"","",OverVotes,0
+Hendry,03,U.S. Senate,"","",OverVotes,0
+Hendry,04,U.S. Senate,"","",OverVotes,0
+Hendry,05,U.S. Senate,"","",OverVotes,0
+Hendry,06,U.S. Senate,"","",OverVotes,0
+Hendry,07,U.S. Senate,"","",OverVotes,0
+Hendry,08,U.S. Senate,"","",OverVotes,0
+Hendry,09,U.S. Senate,"","",OverVotes,0
+Hendry,10,U.S. Senate,"","",OverVotes,1
+Hendry,01,U.S. Senate,"","",UnderVotes,5
+Hendry,02,U.S. Senate,"","",UnderVotes,9
+Hendry,03,U.S. Senate,"","",UnderVotes,1
+Hendry,04,U.S. Senate,"","",UnderVotes,1
+Hendry,05,U.S. Senate,"","",UnderVotes,0
+Hendry,06,U.S. Senate,"","",UnderVotes,5
+Hendry,07,U.S. Senate,"","",UnderVotes,22
+Hendry,08,U.S. Senate,"","",UnderVotes,0
+Hendry,09,U.S. Senate,"","",UnderVotes,3
+Hendry,10,U.S. Senate,"","",UnderVotes,10
+Hendry,01,U.S. House,18,REP,Scott Franklin,447
+Hendry,02,U.S. House,18,REP,Scott Franklin,1517
+Hendry,03,U.S. House,18,REP,Scott Franklin,1105
+Hendry,04,U.S. House,18,REP,Scott Franklin,50
+Hendry,05,U.S. House,18,REP,Scott Franklin,181
+Hendry,06,U.S. House,18,REP,Scott Franklin,500
+Hendry,07,U.S. House,18,REP,Scott Franklin,1035
+Hendry,08,U.S. House,18,REP,Scott Franklin,266
+Hendry,09,U.S. House,18,REP,Scott Franklin,651
+Hendry,10,U.S. House,18,REP,Scott Franklin,362
+Hendry,01,U.S. House,18,NPA,Keith R. Hayden Jr,499
+Hendry,02,U.S. House,18,NPA,Keith R. Hayden Jr,319
+Hendry,03,U.S. House,18,NPA,Keith R. Hayden Jr,213
+Hendry,04,U.S. House,18,NPA,Keith R. Hayden Jr,34
+Hendry,05,U.S. House,18,NPA,Keith R. Hayden Jr,23
+Hendry,06,U.S. House,18,NPA,Keith R. Hayden Jr,97
+Hendry,07,U.S. House,18,NPA,Keith R. Hayden Jr,129
+Hendry,08,U.S. House,18,NPA,Keith R. Hayden Jr,61
+Hendry,09,U.S. House,18,NPA,Keith R. Hayden Jr,211
+Hendry,10,U.S. House,18,NPA,Keith R. Hayden Jr,102
+Hendry,01,U.S. House,18,"",WriteinVotes,11
+Hendry,02,U.S. House,18,"",WriteinVotes,6
+Hendry,03,U.S. House,18,"",WriteinVotes,4
+Hendry,04,U.S. House,18,"",WriteinVotes,1
+Hendry,05,U.S. House,18,"",WriteinVotes,0
+Hendry,06,U.S. House,18,"",WriteinVotes,2
+Hendry,07,U.S. House,18,"",WriteinVotes,3
+Hendry,08,U.S. House,18,"",WriteinVotes,0
+Hendry,09,U.S. House,18,"",WriteinVotes,5
+Hendry,10,U.S. House,18,"",WriteinVotes,6
+Hendry,01,U.S. House,18,"",OverVotes,0
+Hendry,02,U.S. House,18,"",OverVotes,0
+Hendry,03,U.S. House,18,"",OverVotes,0
+Hendry,04,U.S. House,18,"",OverVotes,0
+Hendry,05,U.S. House,18,"",OverVotes,0
+Hendry,06,U.S. House,18,"",OverVotes,0
+Hendry,07,U.S. House,18,"",OverVotes,1
+Hendry,08,U.S. House,18,"",OverVotes,0
+Hendry,09,U.S. House,18,"",OverVotes,0
+Hendry,10,U.S. House,18,"",OverVotes,1
+Hendry,01,U.S. House,18,"",UnderVotes,164
+Hendry,02,U.S. House,18,"",UnderVotes,62
+Hendry,03,U.S. House,18,"",UnderVotes,35
+Hendry,04,U.S. House,18,"",UnderVotes,8
+Hendry,05,U.S. House,18,"",UnderVotes,6
+Hendry,06,U.S. House,18,"",UnderVotes,25
+Hendry,07,U.S. House,18,"",UnderVotes,62
+Hendry,08,U.S. House,18,"",UnderVotes,12
+Hendry,09,U.S. House,18,"",UnderVotes,44
+Hendry,10,U.S. House,18,"",UnderVotes,33
+Hendry,01,Governor,"",REP,DeSantis / Nuñez,406
+Hendry,02,Governor,"",REP,DeSantis / Nuñez,1536
+Hendry,03,Governor,"",REP,DeSantis / Nuñez,1116
+Hendry,04,Governor,"",REP,DeSantis / Nuñez,52
+Hendry,05,Governor,"",REP,DeSantis / Nuñez,186
+Hendry,06,Governor,"",REP,DeSantis / Nuñez,507
+Hendry,07,Governor,"",REP,DeSantis / Nuñez,1058
+Hendry,08,Governor,"",REP,DeSantis / Nuñez,263
+Hendry,09,Governor,"",REP,DeSantis / Nuñez,636
+Hendry,10,Governor,"",REP,DeSantis / Nuñez,374
+Hendry,01,Governor,"",DEM,Crist / Hernandez,692
+Hendry,02,Governor,"",DEM,Crist / Hernandez,354
+Hendry,03,Governor,"",DEM,Crist / Hernandez,231
+Hendry,04,Governor,"",DEM,Crist / Hernandez,38
+Hendry,05,Governor,"",DEM,Crist / Hernandez,23
+Hendry,06,Governor,"",DEM,Crist / Hernandez,107
+Hendry,07,Governor,"",DEM,Crist / Hernandez,154
+Hendry,08,Governor,"",DEM,Crist / Hernandez,72
+Hendry,09,Governor,"",DEM,Crist / Hernandez,264
+Hendry,10,Governor,"",DEM,Crist / Hernandez,117
+Hendry,01,Governor,"",LPF,Roos / Rorabaugh,4
+Hendry,02,Governor,"",LPF,Roos / Rorabaugh,1
+Hendry,03,Governor,"",LPF,Roos / Rorabaugh,5
+Hendry,04,Governor,"",LPF,Roos / Rorabaugh,1
+Hendry,05,Governor,"",LPF,Roos / Rorabaugh,0
+Hendry,06,Governor,"",LPF,Roos / Rorabaugh,3
+Hendry,07,Governor,"",LPF,Roos / Rorabaugh,5
+Hendry,08,Governor,"",LPF,Roos / Rorabaugh,0
+Hendry,09,Governor,"",LPF,Roos / Rorabaugh,2
+Hendry,10,Governor,"",LPF,Roos / Rorabaugh,1
+Hendry,01,Governor,"",NPA,Gimenez / Gibson,14
+Hendry,02,Governor,"",NPA,Gimenez / Gibson,8
+Hendry,03,Governor,"",NPA,Gimenez / Gibson,4
+Hendry,04,Governor,"",NPA,Gimenez / Gibson,2
+Hendry,05,Governor,"",NPA,Gimenez / Gibson,1
+Hendry,06,Governor,"",NPA,Gimenez / Gibson,3
+Hendry,07,Governor,"",NPA,Gimenez / Gibson,4
+Hendry,08,Governor,"",NPA,Gimenez / Gibson,4
+Hendry,09,Governor,"",NPA,Gimenez / Gibson,6
+Hendry,10,Governor,"",NPA,Gimenez / Gibson,7
+Hendry,01,Governor,"","",OverVotes,2
+Hendry,02,Governor,"","",OverVotes,1
+Hendry,03,Governor,"","",OverVotes,0
+Hendry,04,Governor,"","",OverVotes,0
+Hendry,05,Governor,"","",OverVotes,0
+Hendry,06,Governor,"","",OverVotes,1
+Hendry,07,Governor,"","",OverVotes,0
+Hendry,08,Governor,"","",OverVotes,0
+Hendry,09,Governor,"","",OverVotes,0
+Hendry,10,Governor,"","",OverVotes,0
+Hendry,01,Governor,"","",UnderVotes,3
+Hendry,02,Governor,"","",UnderVotes,4
+Hendry,03,Governor,"","",UnderVotes,1
+Hendry,04,Governor,"","",UnderVotes,0
+Hendry,05,Governor,"","",UnderVotes,0
+Hendry,06,Governor,"","",UnderVotes,3
+Hendry,07,Governor,"","",UnderVotes,9
+Hendry,08,Governor,"","",UnderVotes,0
+Hendry,09,Governor,"","",UnderVotes,3
+Hendry,10,Governor,"","",UnderVotes,5
+Hendry,01,Attorney General,"",REP,Ashley Moody,388
+Hendry,02,Attorney General,"",REP,Ashley Moody,1518
+Hendry,03,Attorney General,"",REP,Ashley Moody,1119
+Hendry,04,Attorney General,"",REP,Ashley Moody,51
+Hendry,05,Attorney General,"",REP,Ashley Moody,182
+Hendry,06,Attorney General,"",REP,Ashley Moody,488
+Hendry,07,Attorney General,"",REP,Ashley Moody,1036
+Hendry,08,Attorney General,"",REP,Ashley Moody,265
+Hendry,09,Attorney General,"",REP,Ashley Moody,629
+Hendry,10,Attorney General,"",REP,Ashley Moody,362
+Hendry,01,Attorney General,"",DEM,Aramis Ayala,703
+Hendry,02,Attorney General,"",DEM,Aramis Ayala,361
+Hendry,03,Attorney General,"",DEM,Aramis Ayala,228
+Hendry,04,Attorney General,"",DEM,Aramis Ayala,42
+Hendry,05,Attorney General,"",DEM,Aramis Ayala,26
+Hendry,06,Attorney General,"",DEM,Aramis Ayala,122
+Hendry,07,Attorney General,"",DEM,Aramis Ayala,154
+Hendry,08,Attorney General,"",DEM,Aramis Ayala,74
+Hendry,09,Attorney General,"",DEM,Aramis Ayala,273
+Hendry,10,Attorney General,"",DEM,Aramis Ayala,127
+Hendry,01,Attorney General,"","",OverVotes,1
+Hendry,02,Attorney General,"","",OverVotes,0
+Hendry,03,Attorney General,"","",OverVotes,0
+Hendry,04,Attorney General,"","",OverVotes,0
+Hendry,05,Attorney General,"","",OverVotes,0
+Hendry,06,Attorney General,"","",OverVotes,0
+Hendry,07,Attorney General,"","",OverVotes,1
+Hendry,08,Attorney General,"","",OverVotes,0
+Hendry,09,Attorney General,"","",OverVotes,0
+Hendry,10,Attorney General,"","",OverVotes,0
+Hendry,01,Attorney General,"","",UnderVotes,29
+Hendry,02,Attorney General,"","",UnderVotes,25
+Hendry,03,Attorney General,"","",UnderVotes,10
+Hendry,04,Attorney General,"","",UnderVotes,0
+Hendry,05,Attorney General,"","",UnderVotes,2
+Hendry,06,Attorney General,"","",UnderVotes,14
+Hendry,07,Attorney General,"","",UnderVotes,39
+Hendry,08,Attorney General,"","",UnderVotes,0
+Hendry,09,Attorney General,"","",UnderVotes,9
+Hendry,10,Attorney General,"","",UnderVotes,15
+Hendry,01,Chief Financial Officer,"",REP,Jimmy Patronis,377
+Hendry,02,Chief Financial Officer,"",REP,Jimmy Patronis,1486
+Hendry,03,Chief Financial Officer,"",REP,Jimmy Patronis,1101
+Hendry,04,Chief Financial Officer,"",REP,Jimmy Patronis,44
+Hendry,05,Chief Financial Officer,"",REP,Jimmy Patronis,177
+Hendry,06,Chief Financial Officer,"",REP,Jimmy Patronis,485
+Hendry,07,Chief Financial Officer,"",REP,Jimmy Patronis,1011
+Hendry,08,Chief Financial Officer,"",REP,Jimmy Patronis,261
+Hendry,09,Chief Financial Officer,"",REP,Jimmy Patronis,622
+Hendry,10,Chief Financial Officer,"",REP,Jimmy Patronis,355
+Hendry,01,Chief Financial Officer,"",DEM,Adam Hattersley,706
+Hendry,02,Chief Financial Officer,"",DEM,Adam Hattersley,379
+Hendry,03,Chief Financial Officer,"",DEM,Adam Hattersley,240
+Hendry,04,Chief Financial Officer,"",DEM,Adam Hattersley,44
+Hendry,05,Chief Financial Officer,"",DEM,Adam Hattersley,28
+Hendry,06,Chief Financial Officer,"",DEM,Adam Hattersley,122
+Hendry,07,Chief Financial Officer,"",DEM,Adam Hattersley,162
+Hendry,08,Chief Financial Officer,"",DEM,Adam Hattersley,74
+Hendry,09,Chief Financial Officer,"",DEM,Adam Hattersley,278
+Hendry,10,Chief Financial Officer,"",DEM,Adam Hattersley,128
+Hendry,01,Chief Financial Officer,"","",OverVotes,1
+Hendry,02,Chief Financial Officer,"","",OverVotes,0
+Hendry,03,Chief Financial Officer,"","",OverVotes,0
+Hendry,04,Chief Financial Officer,"","",OverVotes,0
+Hendry,05,Chief Financial Officer,"","",OverVotes,1
+Hendry,06,Chief Financial Officer,"","",OverVotes,0
+Hendry,07,Chief Financial Officer,"","",OverVotes,1
+Hendry,08,Chief Financial Officer,"","",OverVotes,0
+Hendry,09,Chief Financial Officer,"","",OverVotes,0
+Hendry,10,Chief Financial Officer,"","",OverVotes,0
+Hendry,01,Chief Financial Officer,"","",UnderVotes,37
+Hendry,02,Chief Financial Officer,"","",UnderVotes,39
+Hendry,03,Chief Financial Officer,"","",UnderVotes,16
+Hendry,04,Chief Financial Officer,"","",UnderVotes,5
+Hendry,05,Chief Financial Officer,"","",UnderVotes,4
+Hendry,06,Chief Financial Officer,"","",UnderVotes,17
+Hendry,07,Chief Financial Officer,"","",UnderVotes,56
+Hendry,08,Chief Financial Officer,"","",UnderVotes,4
+Hendry,09,Chief Financial Officer,"","",UnderVotes,11
+Hendry,10,Chief Financial Officer,"","",UnderVotes,21
+Hendry,01,Commissioner of Agriculture,"",REP,Wilton Simpson,375
+Hendry,02,Commissioner of Agriculture,"",REP,Wilton Simpson,1509
+Hendry,03,Commissioner of Agriculture,"",REP,Wilton Simpson,1097
+Hendry,04,Commissioner of Agriculture,"",REP,Wilton Simpson,46
+Hendry,05,Commissioner of Agriculture,"",REP,Wilton Simpson,187
+Hendry,06,Commissioner of Agriculture,"",REP,Wilton Simpson,496
+Hendry,07,Commissioner of Agriculture,"",REP,Wilton Simpson,1053
+Hendry,08,Commissioner of Agriculture,"",REP,Wilton Simpson,265
+Hendry,09,Commissioner of Agriculture,"",REP,Wilton Simpson,608
+Hendry,10,Commissioner of Agriculture,"",REP,Wilton Simpson,352
+Hendry,01,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,712
+Hendry,02,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,362
+Hendry,03,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,238
+Hendry,04,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,44
+Hendry,05,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,22
+Hendry,06,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,110
+Hendry,07,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,140
+Hendry,08,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,71
+Hendry,09,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,287
+Hendry,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,131
+Hendry,01,Commissioner of Agriculture,"","",OverVotes,1
+Hendry,02,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,03,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,04,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,05,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,06,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,07,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,08,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,09,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,10,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,01,Commissioner of Agriculture,"","",UnderVotes,33
+Hendry,02,Commissioner of Agriculture,"","",UnderVotes,33
+Hendry,03,Commissioner of Agriculture,"","",UnderVotes,22
+Hendry,04,Commissioner of Agriculture,"","",UnderVotes,3
+Hendry,05,Commissioner of Agriculture,"","",UnderVotes,1
+Hendry,06,Commissioner of Agriculture,"","",UnderVotes,18
+Hendry,07,Commissioner of Agriculture,"","",UnderVotes,37
+Hendry,08,Commissioner of Agriculture,"","",UnderVotes,3
+Hendry,09,Commissioner of Agriculture,"","",UnderVotes,16
+Hendry,10,Commissioner of Agriculture,"","",UnderVotes,21
+Hendry,01,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,592
+Hendry,02,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1203
+Hendry,03,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,873
+Hendry,04,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,46
+Hendry,05,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,129
+Hendry,06,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,372
+Hendry,07,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,838
+Hendry,08,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,211
+Hendry,09,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,571
+Hendry,10,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,317
+Hendry,01,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,400
+Hendry,02,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,480
+Hendry,03,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,323
+Hendry,04,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,34
+Hendry,05,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,60
+Hendry,06,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,173
+Hendry,07,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,217
+Hendry,08,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,92
+Hendry,09,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,258
+Hendry,10,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,142
+Hendry,01,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Hendry,02,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Hendry,03,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hendry,04,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hendry,05,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hendry,06,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Hendry,07,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Hendry,08,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hendry,09,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Hendry,10,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,2
+Hendry,01,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,127
+Hendry,02,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,219
+Hendry,03,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,161
+Hendry,04,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,13
+Hendry,05,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,21
+Hendry,06,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,77
+Hendry,07,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,174
+Hendry,08,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,36
+Hendry,09,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,81
+Hendry,10,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,43
+Hendry,01,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,609
+Hendry,02,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1225
+Hendry,03,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,892
+Hendry,04,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,48
+Hendry,05,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,140
+Hendry,06,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,365
+Hendry,07,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,841
+Hendry,08,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,203
+Hendry,09,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,576
+Hendry,10,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,327
+Hendry,01,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,383
+Hendry,02,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,462
+Hendry,03,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,309
+Hendry,04,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,33
+Hendry,05,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,49
+Hendry,06,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,181
+Hendry,07,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,219
+Hendry,08,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,93
+Hendry,09,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,251
+Hendry,10,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,129
+Hendry,01,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hendry,02,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Hendry,03,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hendry,04,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hendry,05,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hendry,06,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hendry,07,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hendry,08,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hendry,09,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Hendry,10,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,2
+Hendry,01,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,129
+Hendry,02,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,216
+Hendry,03,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,156
+Hendry,04,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,12
+Hendry,05,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,21
+Hendry,06,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,78
+Hendry,07,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,170
+Hendry,08,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,43
+Hendry,09,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,83
+Hendry,10,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,46
+Hendry,01,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,604
+Hendry,02,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1219
+Hendry,03,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,891
+Hendry,04,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,45
+Hendry,05,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,134
+Hendry,06,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,358
+Hendry,07,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,831
+Hendry,08,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,204
+Hendry,09,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,571
+Hendry,10,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,321
+Hendry,01,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,385
+Hendry,02,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,463
+Hendry,03,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,306
+Hendry,04,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,36
+Hendry,05,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,54
+Hendry,06,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,183
+Hendry,07,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,222
+Hendry,08,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,90
+Hendry,09,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,245
+Hendry,10,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,134
+Hendry,01,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hendry,02,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hendry,03,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Hendry,04,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hendry,05,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hendry,06,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hendry,07,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Hendry,08,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hendry,09,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hendry,10,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Hendry,01,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,132
+Hendry,02,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,222
+Hendry,03,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,159
+Hendry,04,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,12
+Hendry,05,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,22
+Hendry,06,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,83
+Hendry,07,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,176
+Hendry,08,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,45
+Hendry,09,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,95
+Hendry,10,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,48
+Hendry,01,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,590
+Hendry,02,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1012
+Hendry,03,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,745
+Hendry,04,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,48
+Hendry,05,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,102
+Hendry,06,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,321
+Hendry,07,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,675
+Hendry,08,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,183
+Hendry,09,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,521
+Hendry,10,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,310
+Hendry,01,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,395
+Hendry,02,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,670
+Hendry,03,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,442
+Hendry,04,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,33
+Hendry,05,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,86
+Hendry,06,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,218
+Hendry,07,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,382
+Hendry,08,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,111
+Hendry,09,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,303
+Hendry,10,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,144
+Hendry,01,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Hendry,02,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Hendry,03,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,3
+Hendry,04,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hendry,05,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hendry,06,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Hendry,07,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Hendry,08,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hendry,09,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hendry,10,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Hendry,01,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,135
+Hendry,02,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,221
+Hendry,03,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,167
+Hendry,04,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,12
+Hendry,05,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,22
+Hendry,06,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,84
+Hendry,07,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,171
+Hendry,08,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,45
+Hendry,09,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,87
+Hendry,10,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,49
+Hendry,01,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,586
+Hendry,02,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1167
+Hendry,03,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,843
+Hendry,04,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,48
+Hendry,05,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,133
+Hendry,06,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,358
+Hendry,07,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,825
+Hendry,08,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,187
+Hendry,09,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,576
+Hendry,10,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,310
+Hendry,01,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,401
+Hendry,02,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,519
+Hendry,03,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,354
+Hendry,04,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,34
+Hendry,05,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,56
+Hendry,06,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,183
+Hendry,07,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,231
+Hendry,08,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,106
+Hendry,09,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,252
+Hendry,10,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,145
+Hendry,01,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Hendry,02,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hendry,03,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hendry,04,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hendry,05,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hendry,06,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Hendry,07,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hendry,08,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hendry,09,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hendry,10,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Hendry,01,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,133
+Hendry,02,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,218
+Hendry,03,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,160
+Hendry,04,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,11
+Hendry,05,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,21
+Hendry,06,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,82
+Hendry,07,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,174
+Hendry,08,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,46
+Hendry,09,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,83
+Hendry,10,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,48
+Hendry,01,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,652
+Hendry,02,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,1146
+Hendry,03,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,835
+Hendry,04,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,49
+Hendry,05,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,120
+Hendry,06,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,338
+Hendry,07,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,760
+Hendry,08,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,194
+Hendry,09,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,601
+Hendry,10,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,Yes,325
+Hendry,01,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,339
+Hendry,02,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,540
+Hendry,03,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,346
+Hendry,04,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,31
+Hendry,05,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,66
+Hendry,06,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,196
+Hendry,07,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,267
+Hendry,08,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,91
+Hendry,09,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,223
+Hendry,10,Retention of Patricia Joan Kelly,Second District Court of Appeal,NOP,No,127
+Hendry,01,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,3
+Hendry,02,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,0
+Hendry,03,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,0
+Hendry,04,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,1
+Hendry,06,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,1
+Hendry,07,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,1
+Hendry,10,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",OverVotes,1
+Hendry,01,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,127
+Hendry,02,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,218
+Hendry,03,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,176
+Hendry,04,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,13
+Hendry,05,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,23
+Hendry,06,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,89
+Hendry,07,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,203
+Hendry,08,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,54
+Hendry,09,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,86
+Hendry,10,Retention of Patricia Joan Kelly,Second District Court of Appeal,"",UnderVotes,51
+Hendry,01,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,625
+Hendry,02,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,1138
+Hendry,03,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,803
+Hendry,04,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,48
+Hendry,05,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,127
+Hendry,06,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,336
+Hendry,07,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,775
+Hendry,08,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,191
+Hendry,09,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,570
+Hendry,10,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,Yes,315
+Hendry,01,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,353
+Hendry,02,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,531
+Hendry,03,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,370
+Hendry,04,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,32
+Hendry,05,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,60
+Hendry,06,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,200
+Hendry,07,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,248
+Hendry,08,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,93
+Hendry,09,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,246
+Hendry,10,Retention of Nelly N. Khouzam,Second District Court of Appeal,NOP,No,134
+Hendry,01,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,2
+Hendry,02,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,0
+Hendry,03,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,2
+Hendry,04,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,0
+Hendry,06,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,0
+Hendry,07,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,0
+Hendry,10,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",OverVotes,1
+Hendry,01,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,141
+Hendry,02,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,235
+Hendry,03,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,182
+Hendry,04,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,13
+Hendry,05,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,23
+Hendry,06,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,88
+Hendry,07,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,207
+Hendry,08,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,55
+Hendry,09,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,95
+Hendry,10,Retention of Nelly N. Khouzam,Second District Court of Appeal,"",UnderVotes,54
+Hendry,01,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,626
+Hendry,02,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,1222
+Hendry,03,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,867
+Hendry,04,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,46
+Hendry,05,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,127
+Hendry,06,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,355
+Hendry,07,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,801
+Hendry,08,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,188
+Hendry,09,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,576
+Hendry,10,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,Yes,333
+Hendry,01,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,350
+Hendry,02,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,448
+Hendry,03,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,302
+Hendry,04,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,35
+Hendry,05,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,58
+Hendry,06,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,180
+Hendry,07,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,229
+Hendry,08,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,94
+Hendry,09,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,236
+Hendry,10,Retention of Suzanne Y. Labrit,Second District Court of Appeal,NOP,No,115
+Hendry,01,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,1
+Hendry,02,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,1
+Hendry,03,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,1
+Hendry,04,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,0
+Hendry,06,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,0
+Hendry,07,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,0
+Hendry,10,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",OverVotes,2
+Hendry,01,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,144
+Hendry,02,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,233
+Hendry,03,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,187
+Hendry,04,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,12
+Hendry,05,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,25
+Hendry,06,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,89
+Hendry,07,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,200
+Hendry,08,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,57
+Hendry,09,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,99
+Hendry,10,Retention of Suzanne Y. Labrit,Second District Court of Appeal,"",UnderVotes,54
+Hendry,01,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,620
+Hendry,02,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,1187
+Hendry,03,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,864
+Hendry,04,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,47
+Hendry,05,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,130
+Hendry,06,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,348
+Hendry,07,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,790
+Hendry,08,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,186
+Hendry,09,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,585
+Hendry,10,Retention of Matt Lucas,Second District Court of Appeal,NOP,Yes,329
+Hendry,01,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,356
+Hendry,02,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,483
+Hendry,03,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,311
+Hendry,04,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,32
+Hendry,05,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,54
+Hendry,06,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,184
+Hendry,07,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,232
+Hendry,08,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,97
+Hendry,09,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,230
+Hendry,10,Retention of Matt Lucas,Second District Court of Appeal,NOP,No,120
+Hendry,01,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,1
+Hendry,02,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,03,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,04,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,06,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,07,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,0
+Hendry,10,Retention of Matt Lucas,Second District Court of Appeal,"",OverVotes,1
+Hendry,01,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,144
+Hendry,02,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,234
+Hendry,03,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,182
+Hendry,04,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,14
+Hendry,05,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,26
+Hendry,06,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,92
+Hendry,07,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,208
+Hendry,08,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,56
+Hendry,09,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,96
+Hendry,10,Retention of Matt Lucas,Second District Court of Appeal,"",UnderVotes,54
+Hendry,01,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,620
+Hendry,02,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,1072
+Hendry,03,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,781
+Hendry,04,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,47
+Hendry,05,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,121
+Hendry,06,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,334
+Hendry,07,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,737
+Hendry,08,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,182
+Hendry,09,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,573
+Hendry,10,Retention of Robert Morris,Second District Court of Appeal,NOP,Yes,308
+Hendry,01,Retention of Robert Morris,Second District Court of Appeal,NOP,No,363
+Hendry,02,Retention of Robert Morris,Second District Court of Appeal,NOP,No,605
+Hendry,03,Retention of Robert Morris,Second District Court of Appeal,NOP,No,395
+Hendry,04,Retention of Robert Morris,Second District Court of Appeal,NOP,No,33
+Hendry,05,Retention of Robert Morris,Second District Court of Appeal,NOP,No,62
+Hendry,06,Retention of Robert Morris,Second District Court of Appeal,NOP,No,198
+Hendry,07,Retention of Robert Morris,Second District Court of Appeal,NOP,No,287
+Hendry,08,Retention of Robert Morris,Second District Court of Appeal,NOP,No,102
+Hendry,09,Retention of Robert Morris,Second District Court of Appeal,NOP,No,243
+Hendry,10,Retention of Robert Morris,Second District Court of Appeal,NOP,No,142
+Hendry,01,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,02,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,03,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,04,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,06,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,07,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,0
+Hendry,10,Retention of Robert Morris,Second District Court of Appeal,"",OverVotes,1
+Hendry,01,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,138
+Hendry,02,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,227
+Hendry,03,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,181
+Hendry,04,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,13
+Hendry,05,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,27
+Hendry,06,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,92
+Hendry,07,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,206
+Hendry,08,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,55
+Hendry,09,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,95
+Hendry,10,Retention of Robert Morris,Second District Court of Appeal,"",UnderVotes,53
+Hendry,01,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,593
+Hendry,02,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,1014
+Hendry,03,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,738
+Hendry,04,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,49
+Hendry,05,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,108
+Hendry,06,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,308
+Hendry,07,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,628
+Hendry,08,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,172
+Hendry,09,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,527
+Hendry,10,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,Yes,289
+Hendry,01,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,375
+Hendry,02,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,633
+Hendry,03,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,429
+Hendry,04,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,28
+Hendry,05,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,72
+Hendry,06,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,220
+Hendry,07,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,378
+Hendry,08,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,99
+Hendry,09,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,279
+Hendry,10,Retention of Stevan Travis Northcutt,Second District Court of Appeal,NOP,No,148
+Hendry,01,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,0
+Hendry,02,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,1
+Hendry,03,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,1
+Hendry,04,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,0
+Hendry,06,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,0
+Hendry,07,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,0
+Hendry,10,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",OverVotes,1
+Hendry,01,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,153
+Hendry,02,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,256
+Hendry,03,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,189
+Hendry,04,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,16
+Hendry,05,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,30
+Hendry,06,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,96
+Hendry,07,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,224
+Hendry,08,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,68
+Hendry,09,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,105
+Hendry,10,Retention of Stevan Travis Northcutt,Second District Court of Appeal,"",UnderVotes,66
+Hendry,01,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,594
+Hendry,02,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,1181
+Hendry,03,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,867
+Hendry,04,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,47
+Hendry,05,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,128
+Hendry,06,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,343
+Hendry,07,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,782
+Hendry,08,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,173
+Hendry,09,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,569
+Hendry,10,Retention of John K. Stargel,Second District Court of Appeal,NOP,Yes,302
+Hendry,01,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,367
+Hendry,02,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,456
+Hendry,03,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,296
+Hendry,04,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,30
+Hendry,05,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,50
+Hendry,06,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,184
+Hendry,07,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,221
+Hendry,08,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,97
+Hendry,09,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,230
+Hendry,10,Retention of John K. Stargel,Second District Court of Appeal,NOP,No,137
+Hendry,01,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,02,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,03,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,1
+Hendry,04,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,06,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,07,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,0
+Hendry,10,Retention of John K. Stargel,Second District Court of Appeal,"",OverVotes,1
+Hendry,01,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,160
+Hendry,02,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,267
+Hendry,03,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,193
+Hendry,04,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,16
+Hendry,05,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,32
+Hendry,06,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,97
+Hendry,07,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,227
+Hendry,08,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,69
+Hendry,09,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,112
+Hendry,10,Retention of John K. Stargel,Second District Court of Appeal,"",UnderVotes,64
+Hendry,01,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,576
+Hendry,02,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,1081
+Hendry,03,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,787
+Hendry,04,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,45
+Hendry,05,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,108
+Hendry,06,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,326
+Hendry,07,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,720
+Hendry,08,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,181
+Hendry,09,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,552
+Hendry,10,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,Yes,295
+Hendry,01,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,381
+Hendry,02,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,557
+Hendry,03,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,361
+Hendry,04,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,31
+Hendry,05,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,71
+Hendry,06,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,197
+Hendry,07,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,283
+Hendry,08,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,87
+Hendry,09,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,255
+Hendry,10,Retention of Craig C. Villanti,Second District Court of Appeal,NOP,No,135
+Hendry,01,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,02,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,03,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,04,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,05,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,06,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,07,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,08,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,09,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,0
+Hendry,10,Retention of Craig C. Villanti,Second District Court of Appeal,"",OverVotes,1
+Hendry,01,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,164
+Hendry,02,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,266
+Hendry,03,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,209
+Hendry,04,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,17
+Hendry,05,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,31
+Hendry,06,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,101
+Hendry,07,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,227
+Hendry,08,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,71
+Hendry,09,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,104
+Hendry,10,Retention of Craig C. Villanti,Second District Court of Appeal,"",UnderVotes,73
+Hendry,07,School Board,4,NOP,Stephanie Busin,499
+Hendry,09,School Board,4,NOP,Stephanie Busin,506
+Hendry,10,School Board,4,NOP,Stephanie Busin,99
+Hendry,07,School Board,4,NOP,Joe Whitehead,692
+Hendry,09,School Board,4,NOP,Joe Whitehead,341
+Hendry,10,School Board,4,NOP,Joe Whitehead,59
+Hendry,07,School Board,4,"",OverVotes,0
+Hendry,09,School Board,4,"",OverVotes,3
+Hendry,10,School Board,4,"",OverVotes,0
+Hendry,07,School Board,4,"",UnderVotes,39
+Hendry,09,School Board,4,"",UnderVotes,61
+Hendry,10,School Board,4,"",UnderVotes,17
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 2,NOP,Julie Camp,51
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 2,NOP,David Deetscreek,31
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 2,NOP,David A. Lenahan II,12
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 2,"",OverVotes,0
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 2,"",UnderVotes,22
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 4,NOP,Mike Bonacolta,45
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 4,NOP,Tim Cooley,35
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 4,NOP,Chris Sola-Martinez,16
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 4,"",OverVotes,0
+Hendry,03,Lehigh Acres Municipal Services Improvement District,Seat 4,"",UnderVotes,20
+Hendry,02,Port Labelle Community Development District,Seat 1,NOP,Liz Garcia,82
+Hendry,09,Port Labelle Community Development District,Seat 1,NOP,Liz Garcia,318
+Hendry,02,Port Labelle Community Development District,Seat 1,NOP,Nancy V. Imhoff,47
+Hendry,09,Port Labelle Community Development District,Seat 1,NOP,Nancy V. Imhoff,175
+Hendry,02,Port Labelle Community Development District,Seat 1,"",OverVotes,0
+Hendry,09,Port Labelle Community Development District,Seat 1,"",OverVotes,0
+Hendry,02,Port Labelle Community Development District,Seat 1,"",UnderVotes,22
+Hendry,09,Port Labelle Community Development District,Seat 1,"",UnderVotes,54
+Hendry,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,543
+Hendry,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1027
+Hendry,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,756
+Hendry,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,48
+Hendry,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,93
+Hendry,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,304
+Hendry,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,637
+Hendry,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,162
+Hendry,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,453
+Hendry,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,249
+Hendry,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,447
+Hendry,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,681
+Hendry,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,473
+Hendry,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,34
+Hendry,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,97
+Hendry,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,251
+Hendry,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,414
+Hendry,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,141
+Hendry,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,386
+Hendry,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,201
+Hendry,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hendry,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hendry,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Hendry,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hendry,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hendry,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Hendry,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Hendry,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hendry,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hendry,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Hendry,01,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,131
+Hendry,02,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,196
+Hendry,03,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,127
+Hendry,04,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,11
+Hendry,05,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,20
+Hendry,06,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,67
+Hendry,07,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,178
+Hendry,08,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,36
+Hendry,09,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,72
+Hendry,10,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,53
+Hendry,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,487
+Hendry,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,965
+Hendry,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,732
+Hendry,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,44
+Hendry,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,98
+Hendry,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,293
+Hendry,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,610
+Hendry,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,128
+Hendry,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,467
+Hendry,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,240
+Hendry,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,493
+Hendry,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,724
+Hendry,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,498
+Hendry,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,37
+Hendry,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,90
+Hendry,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,262
+Hendry,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,439
+Hendry,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,169
+Hendry,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,364
+Hendry,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,206
+Hendry,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Hendry,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,2
+Hendry,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hendry,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hendry,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hendry,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hendry,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Hendry,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hendry,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,3
+Hendry,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,2
+Hendry,01,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,140
+Hendry,02,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,213
+Hendry,03,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,127
+Hendry,04,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,12
+Hendry,05,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,22
+Hendry,06,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,69
+Hendry,07,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,180
+Hendry,08,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,42
+Hendry,09,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,77
+Hendry,10,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,56
+Hendry,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,649
+Hendry,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1046
+Hendry,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,762
+Hendry,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,48
+Hendry,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,94
+Hendry,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,329
+Hendry,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,600
+Hendry,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,164
+Hendry,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,586
+Hendry,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,285
+Hendry,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,350
+Hendry,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,703
+Hendry,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,505
+Hendry,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,38
+Hendry,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,99
+Hendry,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,236
+Hendry,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,502
+Hendry,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,145
+Hendry,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,268
+Hendry,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,167
+Hendry,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Hendry,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Hendry,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
+Hendry,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hendry,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hendry,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Hendry,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,2
+Hendry,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hendry,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hendry,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Hendry,01,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,121
+Hendry,02,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,154
+Hendry,03,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,88
+Hendry,04,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,7
+Hendry,05,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,17
+Hendry,06,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,58
+Hendry,07,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,126
+Hendry,08,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,30
+Hendry,09,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,57
+Hendry,10,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,51
+Hendry,01,Registered Voters,"","","",3498
+Hendry,02,Registered Voters,"","","",4209
+Hendry,03,Registered Voters,"","","",3063
+Hendry,04,Registered Voters,"","","",295
+Hendry,05,Registered Voters,"","","",425
+Hendry,06,Registered Voters,"","","",1637
+Hendry,07,Registered Voters,"","","",1869
+Hendry,08,Registered Voters,"","","",682
+Hendry,09,Registered Voters,"","","",2365
+Hendry,10,Registered Voters,"","","",1564

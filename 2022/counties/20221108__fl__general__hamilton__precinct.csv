@@ -1,707 +1,715 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",REP,Marco Rubio,198,56,100,42
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",REP,Marco Rubio,216,70,86,60
-Hamilton,3 - White Springs Library,U.S. Senate,"",REP,Marco Rubio,339,75,198,66
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",REP,Marco Rubio,638,194,262,182
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",REP,Marco Rubio,131,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",REP,Marco Rubio,349,98,172,79
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",REP,Marco Rubio,361,76,188,97
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",REP,Marco Rubio,798,255,384,159
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",DEM,Val Demings,85,,,
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",DEM,Val Demings,332,91,155,86
-Hamilton,3 - White Springs Library,U.S. Senate,"",DEM,Val Demings,200,,,
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",DEM,Val Demings,172,49,73,50
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",DEM,Val Demings,22,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",DEM,Val Demings,113,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",DEM,Val Demings,147,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",DEM,Val Demings,144,33,54,57
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Hamilton,3 - White Springs Library,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Hamilton,3 - White Springs Library,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Hamilton,3 - White Springs Library,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",NON,WRITE-IN,1,,,
-Hamilton,3 - White Springs Library,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",NON,WRITE-IN,0,0,0,0
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,1 - Jennings City Hall,U.S. Senate,"",STATS,UNDER VOTES,2,,,
-Hamilton,2 - Jasper Courthouse,U.S. Senate,"",STATS,UNDER VOTES,2,,,
-Hamilton,3 - White Springs Library,U.S. Senate,"",STATS,UNDER VOTES,9,,,
-Hamilton,4 - Jasper Civic Center,U.S. Senate,"",STATS,UNDER VOTES,9,,,
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",STATS,UNDER VOTES,1,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",STATS,UNDER VOTES,5,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",STATS,UNDER VOTES,4,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",STATS,UNDER VOTES,5,,,
-Hamilton,1 - Jennings City Hall,U.S. House,3,REP,Kat Cammack,203,56,103,44
-Hamilton,2 - Jasper Courthouse,U.S. House,3,REP,Kat Cammack,220,72,88,60
-Hamilton,3 - White Springs Library,U.S. House,3,REP,Kat Cammack,340,74,199,67
-Hamilton,4 - Jasper Civic Center,U.S. House,3,REP,Kat Cammack,639,197,265,177
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,REP,Kat Cammack,129,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,REP,Kat Cammack,352,97,172,83
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,REP,Kat Cammack,363,76,191,96
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,REP,Kat Cammack,807,256,386,165
-Hamilton,1 - Jennings City Hall,U.S. House,3,DEM,Danielle Hawk,79,,,
-Hamilton,2 - Jasper Courthouse,U.S. House,3,DEM,Danielle Hawk,321,85,151,85
-Hamilton,3 - White Springs Library,U.S. House,3,DEM,Danielle Hawk,194,,,
-Hamilton,4 - Jasper Civic Center,U.S. House,3,DEM,Danielle Hawk,170,46,71,53
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,DEM,Danielle Hawk,24,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,DEM,Danielle Hawk,105,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,DEM,Danielle Hawk,137,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,DEM,Danielle Hawk,125,31,44,50
-Hamilton,1 - Jennings City Hall,U.S. House,3,NPA,Linda S. Brooks,3,,,
-Hamilton,2 - Jasper Courthouse,U.S. House,3,NPA,Linda S. Brooks,5,,,
-Hamilton,3 - White Springs Library,U.S. House,3,NPA,Linda S. Brooks,5,,,
-Hamilton,4 - Jasper Civic Center,U.S. House,3,NPA,Linda S. Brooks,3,,,
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,NPA,Linda S. Brooks,2,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,NPA,Linda S. Brooks,6,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,NPA,Linda S. Brooks,4,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,NPA,Linda S. Brooks,8,,,
-Hamilton,1 - Jennings City Hall,U.S. House,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,U.S. House,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,U.S. House,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,U.S. House,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,STATS,OVER VOTES,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,1 - Jennings City Hall,U.S. House,3,STATS,UNDER VOTES,5,,,
-Hamilton,2 - Jasper Courthouse,U.S. House,3,STATS,UNDER VOTES,10,,,
-Hamilton,3 - White Springs Library,U.S. House,3,STATS,UNDER VOTES,15,,,
-Hamilton,4 - Jasper Civic Center,U.S. House,3,STATS,UNDER VOTES,13,,,
-Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,STATS,UNDER VOTES,2,,,
-Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,STATS,UNDER VOTES,7,,,
-Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,STATS,UNDER VOTES,11,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,STATS,UNDER VOTES,12,,,
-Hamilton,1 - Jennings City Hall,Governor,"",REP,DeSantis / Nunez,206,57,104,45
-Hamilton,2 - Jasper Courthouse,Governor,"",REP,DeSantis / Nunez,229,72,95,62
-Hamilton,3 - White Springs Library,Governor,"",REP,DeSantis / Nunez,355,77,208,70
-Hamilton,4 - Jasper Civic Center,Governor,"",REP,DeSantis / Nunez,658,199,273,186
-Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",REP,DeSantis / Nunez,135,,,
-Hamilton,6 - Genoa Vol. Fire Department,Governor,"",REP,DeSantis / Nunez,367,99,180,88
-Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",REP,DeSantis / Nunez,373,76,197,100
-Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",REP,DeSantis / Nunez,822,256,398,168
-Hamilton,1 - Jennings City Hall,Governor,"",DEM,Crist / Hernandez,75,,,
-Hamilton,2 - Jasper Courthouse,Governor,"",DEM,Crist / Hernandez,321,88,147,86
-Hamilton,3 - White Springs Library,Governor,"",DEM,Crist / Hernandez,188,,,
-Hamilton,4 - Jasper Civic Center,Governor,"",DEM,Crist / Hernandez,161,46,66,49
-Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",DEM,Crist / Hernandez,20,,,
-Hamilton,6 - Genoa Vol. Fire Department,Governor,"",DEM,Crist / Hernandez,97,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",DEM,Crist / Hernandez,138,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",DEM,Crist / Hernandez,120,32,43,45
-Hamilton,1 - Jennings City Hall,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Hamilton,2 - Jasper Courthouse,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Hamilton,3 - White Springs Library,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Hamilton,4 - Jasper Civic Center,Governor,"",LPF,Roos / Rorabaugh,1,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",LPF,Roos / Rorabaugh,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Governor,"",LPF,Roos / Rorabaugh,1,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",LPF,Roos / Rorabaugh,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",LPF,Roos / Rorabaugh,2,,,
-Hamilton,1 - Jennings City Hall,Governor,"",NPA,Gimenez / Gibson,2,,,
-Hamilton,2 - Jasper Courthouse,Governor,"",NPA,Gimenez / Gibson,2,,,
-Hamilton,3 - White Springs Library,Governor,"",NPA,Gimenez / Gibson,2,,,
-Hamilton,4 - Jasper Civic Center,Governor,"",NPA,Gimenez / Gibson,1,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",NPA,Gimenez / Gibson,2,,,
-Hamilton,6 - Genoa Vol. Fire Department,Governor,"",NPA,Gimenez / Gibson,2,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",NPA,Gimenez / Gibson,2,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",NPA,Gimenez / Gibson,4,,,
-Hamilton,1 - Jennings City Hall,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Governor,"",STATS,OVER VOTES,2,,,
-Hamilton,3 - White Springs Library,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Governor,"",STATS,OVER VOTES,1,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",STATS,OVER VOTES,2,,,
-Hamilton,1 - Jennings City Hall,Governor,"",STATS,UNDER VOTES,5,,,
-Hamilton,2 - Jasper Courthouse,Governor,"",STATS,UNDER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Governor,"",STATS,UNDER VOTES,7,,,
-Hamilton,4 - Jasper Civic Center,Governor,"",STATS,UNDER VOTES,3,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",STATS,UNDER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Governor,"",STATS,UNDER VOTES,3,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",STATS,UNDER VOTES,2,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",STATS,UNDER VOTES,2,,,
-Hamilton,1 - Jennings City Hall,Attorney General,"",REP,Ashley Moody,209,57,105,47
-Hamilton,2 - Jasper Courthouse,Attorney General,"",REP,Ashley Moody,243,78,101,64
-Hamilton,3 - White Springs Library,Attorney General,"",REP,Ashley Moody,359,76,211,72
-Hamilton,4 - Jasper Civic Center,Attorney General,"",REP,Ashley Moody,657,200,270,187
-Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"",REP,Ashley Moody,137,,,
-Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"",REP,Ashley Moody,359,98,178,83
-Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"",REP,Ashley Moody,376,78,199,99
-Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"",REP,Ashley Moody,830,258,400,172
-Hamilton,1 - Jennings City Hall,Attorney General,"",DEM,Aramis Ayala,79,,,
-Hamilton,2 - Jasper Courthouse,Attorney General,"",DEM,Aramis Ayala,306,83,138,85
-Hamilton,3 - White Springs Library,Attorney General,"",DEM,Aramis Ayala,184,,,
-Hamilton,4 - Jasper Civic Center,Attorney General,"",DEM,Aramis Ayala,158,45,64,49
-Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"",DEM,Aramis Ayala,19,,,
-Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"",DEM,Aramis Ayala,101,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"",DEM,Aramis Ayala,131,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"",DEM,Aramis Ayala,112,30,39,43
-Hamilton,1 - Jennings City Hall,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Attorney General,"",STATS,OVER VOTES,1,,,
-Hamilton,3 - White Springs Library,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"",STATS,OVER VOTES,1,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,1 - Jennings City Hall,Attorney General,"",STATS,UNDER VOTES,2,,,
-Hamilton,2 - Jasper Courthouse,Attorney General,"",STATS,UNDER VOTES,6,,,
-Hamilton,3 - White Springs Library,Attorney General,"",STATS,UNDER VOTES,11,,,
-Hamilton,4 - Jasper Civic Center,Attorney General,"",STATS,UNDER VOTES,10,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"",STATS,UNDER VOTES,1,,,
-Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"",STATS,UNDER VOTES,9,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"",STATS,UNDER VOTES,9,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"",STATS,UNDER VOTES,10,,,
-Hamilton,1 - Jennings City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,200,57,101,42
-Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"",REP,Jimmy Patronis,223,70,92,61
-Hamilton,3 - White Springs Library,Chief Financial Officer,"",REP,Jimmy Patronis,343,74,198,71
-Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"",REP,Jimmy Patronis,638,199,257,182
-Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"",REP,Jimmy Patronis,130,,,
-Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"",REP,Jimmy Patronis,348,98,169,81
-Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"",REP,Jimmy Patronis,359,75,187,97
-Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"",REP,Jimmy Patronis,814,256,391,167
-Hamilton,1 - Jennings City Hall,Chief Financial Officer,"",DEM,Adam Hattersley,82,,,
-Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"",DEM,Adam Hattersley,324,90,148,86
-Hamilton,3 - White Springs Library,Chief Financial Officer,"",DEM,Adam Hattersley,194,,,
-Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"",DEM,Adam Hattersley,168,45,74,49
-Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"",DEM,Adam Hattersley,23,,,
-Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"",DEM,Adam Hattersley,112,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"",DEM,Adam Hattersley,144,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"",DEM,Adam Hattersley,127,32,47,48
-Hamilton,1 - Jennings City Hall,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,1 - Jennings City Hall,Chief Financial Officer,"",STATS,UNDER VOTES,8,,,
-Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"",STATS,UNDER VOTES,9,,,
-Hamilton,3 - White Springs Library,Chief Financial Officer,"",STATS,UNDER VOTES,17,,,
-Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"",STATS,UNDER VOTES,19,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"",STATS,UNDER VOTES,4,,,
-Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"",STATS,UNDER VOTES,10,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"",STATS,UNDER VOTES,13,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"",STATS,UNDER VOTES,11,,,
-Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,207,56,105,46
-Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"",REP,Wilton Simpson,223,71,90,62
-Hamilton,3 - White Springs Library,Commissioner of Agriculture,"",REP,Wilton Simpson,344,75,198,71
-Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"",REP,Wilton Simpson,640,195,262,183
-Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"",REP,Wilton Simpson,135,,,
-Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"",REP,Wilton Simpson,355,99,170,86
-Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"",REP,Wilton Simpson,366,78,191,97
-Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"",REP,Wilton Simpson,809,252,387,170
-Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,77,,,
-Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,320,88,149,83
-Hamilton,3 - White Springs Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,192,,,
-Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,167,48,70,49
-Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21,,,
-Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,139,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,131,34,50,47
-Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"",STATS,UNDER VOTES,6,,,
-Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"",STATS,UNDER VOTES,13,,,
-Hamilton,3 - White Springs Library,Commissioner of Agriculture,"",STATS,UNDER VOTES,18,,,
-Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"",STATS,UNDER VOTES,18,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"",STATS,UNDER VOTES,1,,,
-Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"",STATS,UNDER VOTES,9,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"",STATS,UNDER VOTES,11,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"",STATS,UNDER VOTES,12,,,
-Hamilton,1 - Jennings City Hall,State Senate,3,REP,Corey Simon,195,53,101,41
-Hamilton,2 - Jasper Courthouse,State Senate,3,REP,Corey Simon,226,69,96,61
-Hamilton,3 - White Springs Library,State Senate,3,REP,Corey Simon,338,75,194,69
-Hamilton,4 - Jasper Civic Center,State Senate,3,REP,Corey Simon,629,196,260,173
-Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,REP,Corey Simon,130,,,
-Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,REP,Corey Simon,344,96,170,78
-Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,REP,Corey Simon,364,74,196,94
-Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,REP,Corey Simon,799,249,387,163
-Hamilton,1 - Jennings City Hall,State Senate,3,DEM,Loranne Ausley,83,,,
-Hamilton,2 - Jasper Courthouse,State Senate,3,DEM,Loranne Ausley,310,88,137,85
-Hamilton,3 - White Springs Library,State Senate,3,DEM,Loranne Ausley,195,,,
-Hamilton,4 - Jasper Civic Center,State Senate,3,DEM,Loranne Ausley,179,47,73,59
-Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,DEM,Loranne Ausley,23,,,
-Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,DEM,Loranne Ausley,109,,,
-Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,DEM,Loranne Ausley,138,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,DEM,Loranne Ausley,143,35,52,56
-Hamilton,1 - Jennings City Hall,State Senate,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,State Senate,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,State Senate,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,State Senate,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,STATS,OVER VOTES,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,STATS,OVER VOTES,0,0,0,0
-Hamilton,1 - Jennings City Hall,State Senate,3,STATS,UNDER VOTES,12,,,
-Hamilton,2 - Jasper Courthouse,State Senate,3,STATS,UNDER VOTES,20,,,
-Hamilton,3 - White Springs Library,State Senate,3,STATS,UNDER VOTES,21,,,
-Hamilton,4 - Jasper Civic Center,State Senate,3,STATS,UNDER VOTES,17,,,
-Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,STATS,UNDER VOTES,4,,,
-Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,STATS,UNDER VOTES,17,,,
-Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,STATS,UNDER VOTES,13,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,STATS,UNDER VOTES,10,,,
-Hamilton,3 - White Springs Library,Board of County Commissioners,4,REP,Travis Erixton,227,44,133,50
-Hamilton,6 - Genoa Vol. Fire Department,Board of County Commissioners,4,REP,Travis Erixton,216,64,98,54
-Hamilton,3 - White Springs Library,Board of County Commissioners,4,DEM,Kenny B. Morgan,123,,,
-Hamilton,6 - Genoa Vol. Fire Department,Board of County Commissioners,4,DEM,Kenny B. Morgan,163,38,90,35
-Hamilton,3 - White Springs Library,Board of County Commissioners,4,NPA,Scott Gay,201,,,
-Hamilton,6 - Genoa Vol. Fire Department,Board of County Commissioners,4,NPA,Scott Gay,86,,,
-Hamilton,3 - White Springs Library,Board of County Commissioners,4,STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Board of County Commissioners,4,STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Board of County Commissioners,4,STATS,UNDER VOTES,3,,,
-Hamilton,6 - Genoa Vol. Fire Department,Board of County Commissioners,4,STATS,UNDER VOTES,5,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Charles T. Canady,"",NON,Yes,178,41,104,33
-Hamilton,2 - Jasper Courthouse,Retain Justice Charles T. Canady,"",NON,Yes,330,95,141,94
-Hamilton,3 - White Springs Library,Retain Justice Charles T. Canady,"",NON,Yes,279,49,160,70
-Hamilton,4 - Jasper Civic Center,Retain Justice Charles T. Canady,"",NON,Yes,481,151,201,129
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Charles T. Canady,"",NON,Yes,94,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Charles T. Canady,"",NON,Yes,261,68,129,64
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Charles T. Canady,"",NON,Yes,324,57,176,91
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Charles T. Canady,"",NON,Yes,561,178,268,115
-Hamilton,1 - Jennings City Hall,Retain Justice Charles T. Canady,"",NON,No,78,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Charles T. Canady,"",NON,No,173,52,80,41
-Hamilton,3 - White Springs Library,Retain Justice Charles T. Canady,"",NON,No,216,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice Charles T. Canady,"",NON,No,253,80,110,63
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Charles T. Canady,"",NON,No,53,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Charles T. Canady,"",NON,No,161,42,89,30
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Charles T. Canady,"",NON,No,128,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Charles T. Canady,"",NON,No,310,89,140,81
-Hamilton,1 - Jennings City Hall,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,1,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,1,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Charles T. Canady,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,34,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,53,,,
-Hamilton,3 - White Springs Library,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,59,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,90,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,10,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,47,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,64,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Charles T. Canady,"",STATS,UNDER VOTES,80,,,
-Hamilton,1 - Jennings City Hall,Retain Justice John D. Couriel,"",NON,Yes,175,41,99,35
-Hamilton,2 - Jasper Courthouse,Retain Justice John D. Couriel,"",NON,Yes,312,87,131,94
-Hamilton,3 - White Springs Library,Retain Justice John D. Couriel,"",NON,Yes,277,51,159,67
-Hamilton,4 - Jasper Civic Center,Retain Justice John D. Couriel,"",NON,Yes,486,148,206,132
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice John D. Couriel,"",NON,Yes,98,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice John D. Couriel,"",NON,Yes,266,72,131,63
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice John D. Couriel,"",NON,Yes,316,63,165,88
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice John D. Couriel,"",NON,Yes,561,177,263,121
-Hamilton,1 - Jennings City Hall,Retain Justice John D. Couriel,"",NON,No,75,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice John D. Couriel,"",NON,No,187,59,87,41
-Hamilton,3 - White Springs Library,Retain Justice John D. Couriel,"",NON,No,211,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice John D. Couriel,"",NON,No,235,74,101,60
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice John D. Couriel,"",NON,No,48,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice John D. Couriel,"",NON,No,156,37,87,32
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice John D. Couriel,"",NON,No,131,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice John D. Couriel,"",NON,No,301,89,135,77
-Hamilton,1 - Jennings City Hall,Retain Justice John D. Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Justice John D. Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Retain Justice John D. Couriel,"",STATS,OVER VOTES,1,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice John D. Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice John D. Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice John D. Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice John D. Couriel,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice John D. Couriel,"",STATS,OVER VOTES,2,,,
-Hamilton,1 - Jennings City Hall,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,40,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,57,,,
-Hamilton,3 - White Springs Library,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,65,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,104,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,11,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,48,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,69,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice John D. Couriel,"",STATS,UNDER VOTES,88,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Jamie Grosshans,"",NON,Yes,177,41,101,35
-Hamilton,2 - Jasper Courthouse,Retain Justice Jamie Grosshans,"",NON,Yes,317,90,133,94
-Hamilton,3 - White Springs Library,Retain Justice Jamie Grosshans,"",NON,Yes,283,51,162,70
-Hamilton,4 - Jasper Civic Center,Retain Justice Jamie Grosshans,"",NON,Yes,485,147,207,131
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jamie Grosshans,"",NON,Yes,94,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jamie Grosshans,"",NON,Yes,268,72,132,64
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jamie Grosshans,"",NON,Yes,310,57,167,86
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jamie Grosshans,"",NON,Yes,565,178,268,119
-Hamilton,1 - Jennings City Hall,Retain Justice Jamie Grosshans,"",NON,No,75,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Jamie Grosshans,"",NON,No,180,54,85,41
-Hamilton,3 - White Springs Library,Retain Justice Jamie Grosshans,"",NON,No,209,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice Jamie Grosshans,"",NON,No,239,77,101,61
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jamie Grosshans,"",NON,No,51,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jamie Grosshans,"",NON,No,153,37,85,31
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jamie Grosshans,"",NON,No,137,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jamie Grosshans,"",NON,No,295,87,131,77
-Hamilton,1 - Jennings City Hall,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,1,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jamie Grosshans,"",STATS,OVER VOTES,2,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,38,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,59,,,
-Hamilton,3 - White Springs Library,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,62,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,100,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,12,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,49,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,69,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jamie Grosshans,"",STATS,UNDER VOTES,90,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Jorge Labarga,"",NON,Yes,138,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Jorge Labarga,"",NON,Yes,301,92,127,82
-Hamilton,3 - White Springs Library,Retain Justice Jorge Labarga,"",NON,Yes,258,42,144,72
-Hamilton,4 - Jasper Civic Center,Retain Justice Jorge Labarga,"",NON,Yes,389,132,154,103
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jorge Labarga,"",NON,Yes,85,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jorge Labarga,"",NON,Yes,220,51,117,52
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jorge Labarga,"",NON,Yes,273,47,147,79
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jorge Labarga,"",NON,Yes,441,134,213,94
-Hamilton,1 - Jennings City Hall,Retain Justice Jorge Labarga,"",NON,No,108,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Jorge Labarga,"",NON,No,197,54,91,52
-Hamilton,3 - White Springs Library,Retain Justice Jorge Labarga,"",NON,No,238,32,141,65
-Hamilton,4 - Jasper Civic Center,Retain Justice Jorge Labarga,"",NON,No,333,95,151,87
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jorge Labarga,"",NON,No,61,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jorge Labarga,"",NON,No,201,58,100,43
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jorge Labarga,"",NON,No,172,33,82,57
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jorge Labarga,"",NON,No,414,131,186,97
-Hamilton,1 - Jennings City Hall,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,1,,,
-Hamilton,3 - White Springs Library,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,2,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jorge Labarga,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,44,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,57,,,
-Hamilton,3 - White Springs Library,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,58,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,101,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,11,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,49,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,70,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Jorge Labarga,"",STATS,UNDER VOTES,96,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Ricky Polston,"",NON,Yes,171,40,98,33
-Hamilton,2 - Jasper Courthouse,Retain Justice Ricky Polston,"",NON,Yes,324,93,140,91
-Hamilton,3 - White Springs Library,Retain Justice Ricky Polston,"",NON,Yes,272,45,155,72
-Hamilton,4 - Jasper Civic Center,Retain Justice Ricky Polston,"",NON,Yes,450,145,181,124
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Ricky Polston,"",NON,Yes,88,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Ricky Polston,"",NON,Yes,247,68,125,54
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Ricky Polston,"",NON,Yes,313,58,168,87
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Ricky Polston,"",NON,Yes,545,171,265,109
-Hamilton,1 - Jennings City Hall,Retain Justice Ricky Polston,"",NON,No,81,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Ricky Polston,"",NON,No,173,52,79,42
-Hamilton,3 - White Springs Library,Retain Justice Ricky Polston,"",NON,No,216,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice Ricky Polston,"",NON,No,277,82,128,67
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Ricky Polston,"",NON,No,58,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Ricky Polston,"",NON,No,171,40,91,40
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Ricky Polston,"",NON,No,135,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Ricky Polston,"",NON,No,319,94,137,88
-Hamilton,1 - Jennings City Hall,Retain Justice Ricky Polston,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Justice Ricky Polston,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Retain Justice Ricky Polston,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Justice Ricky Polston,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Ricky Polston,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Ricky Polston,"",STATS,OVER VOTES,1,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Ricky Polston,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Ricky Polston,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,38,,,
-Hamilton,2 - Jasper Courthouse,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,59,,,
-Hamilton,3 - White Springs Library,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,66,,,
-Hamilton,4 - Jasper Civic Center,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,98,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,11,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,51,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,68,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Justice Ricky Polston,"",STATS,UNDER VOTES,87,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Ross L. Bilbrey,"",NON,Yes,166,40,96,30
-Hamilton,2 - Jasper Courthouse,Retain Judge Ross L. Bilbrey,"",NON,Yes,323,95,141,87
-Hamilton,3 - White Springs Library,Retain Judge Ross L. Bilbrey,"",NON,Yes,276,46,155,75
-Hamilton,4 - Jasper Civic Center,Retain Judge Ross L. Bilbrey,"",NON,Yes,457,149,187,121
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Ross L. Bilbrey,"",NON,Yes,97,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Ross L. Bilbrey,"",NON,Yes,250,67,125,58
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Ross L. Bilbrey,"",NON,Yes,313,59,167,87
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Ross L. Bilbrey,"",NON,Yes,548,167,262,119
-Hamilton,1 - Jennings City Hall,Retain Judge Ross L. Bilbrey,"",NON,No,79,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Ross L. Bilbrey,"",NON,No,167,48,76,43
-Hamilton,3 - White Springs Library,Retain Judge Ross L. Bilbrey,"",NON,No,210,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Ross L. Bilbrey,"",NON,No,258,73,118,67
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Ross L. Bilbrey,"",NON,No,48,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Ross L. Bilbrey,"",NON,No,165,40,88,37
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Ross L. Bilbrey,"",NON,No,135,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Ross L. Bilbrey,"",NON,No,311,97,138,76
-Hamilton,1 - Jennings City Hall,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,1,,,
-Hamilton,3 - White Springs Library,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,2,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Ross L. Bilbrey,"",STATS,OVER VOTES,2,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,45,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,65,,,
-Hamilton,3 - White Springs Library,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,68,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,108,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,12,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,55,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,68,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Ross L. Bilbrey,"",STATS,UNDER VOTES,91,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Susan Kelsey,"",NON,Yes,166,39,93,34
-Hamilton,2 - Jasper Courthouse,Retain Judge Susan Kelsey,"",NON,Yes,331,90,147,94
-Hamilton,3 - White Springs Library,Retain Judge Susan Kelsey,"",NON,Yes,289,47,156,86
-Hamilton,4 - Jasper Civic Center,Retain Judge Susan Kelsey,"",NON,Yes,460,143,195,122
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Susan Kelsey,"",NON,Yes,99,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Susan Kelsey,"",NON,Yes,262,69,132,61
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Susan Kelsey,"",NON,Yes,315,57,167,91
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Susan Kelsey,"",NON,Yes,554,174,266,114
-Hamilton,1 - Jennings City Hall,Retain Judge Susan Kelsey,"",NON,No,78,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Susan Kelsey,"",NON,No,158,53,69,36
-Hamilton,3 - White Springs Library,Retain Judge Susan Kelsey,"",NON,No,200,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Susan Kelsey,"",NON,No,250,79,106,65
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Susan Kelsey,"",NON,No,47,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Susan Kelsey,"",NON,No,158,40,84,34
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Susan Kelsey,"",NON,No,129,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Susan Kelsey,"",NON,No,306,89,138,79
-Hamilton,1 - Jennings City Hall,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Susan Kelsey,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,46,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,67,,,
-Hamilton,3 - White Springs Library,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,65,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,115,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,11,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,50,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,71,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Susan Kelsey,"",STATS,UNDER VOTES,91,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Bobby Long,"",NON,Yes,172,41,96,35
-Hamilton,2 - Jasper Courthouse,Retain Judge Bobby Long,"",NON,Yes,322,92,144,86
-Hamilton,3 - White Springs Library,Retain Judge Bobby Long,"",NON,Yes,275,48,157,70
-Hamilton,4 - Jasper Civic Center,Retain Judge Bobby Long,"",NON,Yes,462,142,199,121
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bobby Long,"",NON,Yes,95,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bobby Long,"",NON,Yes,257,69,128,60
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bobby Long,"",NON,Yes,322,61,170,91
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bobby Long,"",NON,Yes,561,175,269,117
-Hamilton,1 - Jennings City Hall,Retain Judge Bobby Long,"",NON,No,72,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Bobby Long,"",NON,No,165,52,71,42
-Hamilton,3 - White Springs Library,Retain Judge Bobby Long,"",NON,No,212,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Bobby Long,"",NON,No,252,81,105,66
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bobby Long,"",NON,No,50,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bobby Long,"",NON,No,160,40,85,35
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bobby Long,"",NON,No,126,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bobby Long,"",NON,No,294,87,130,77
-Hamilton,1 - Jennings City Hall,Retain Judge Bobby Long,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Judge Bobby Long,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Retain Judge Bobby Long,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Judge Bobby Long,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bobby Long,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bobby Long,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bobby Long,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bobby Long,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Bobby Long,"",STATS,UNDER VOTES,46,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Bobby Long,"",STATS,UNDER VOTES,69,,,
-Hamilton,3 - White Springs Library,Retain Judge Bobby Long,"",STATS,UNDER VOTES,67,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Bobby Long,"",STATS,UNDER VOTES,111,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bobby Long,"",STATS,UNDER VOTES,12,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bobby Long,"",STATS,UNDER VOTES,53,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bobby Long,"",STATS,UNDER VOTES,68,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bobby Long,"",STATS,UNDER VOTES,96,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Lori S. Rowe,"",NON,Yes,166,38,96,32
-Hamilton,2 - Jasper Courthouse,Retain Judge Lori S. Rowe,"",NON,Yes,325,91,148,86
-Hamilton,3 - White Springs Library,Retain Judge Lori S. Rowe,"",NON,Yes,279,42,156,81
-Hamilton,4 - Jasper Civic Center,Retain Judge Lori S. Rowe,"",NON,Yes,428,134,180,114
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Lori S. Rowe,"",NON,Yes,88,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Lori S. Rowe,"",NON,Yes,251,70,129,52
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Lori S. Rowe,"",NON,Yes,306,56,164,86
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Lori S. Rowe,"",NON,Yes,528,168,256,104
-Hamilton,1 - Jennings City Hall,Retain Judge Lori S. Rowe,"",NON,No,79,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Lori S. Rowe,"",NON,No,165,53,70,42
-Hamilton,3 - White Springs Library,Retain Judge Lori S. Rowe,"",NON,No,205,30,122,53
-Hamilton,4 - Jasper Civic Center,Retain Judge Lori S. Rowe,"",NON,No,284,87,125,72
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Lori S. Rowe,"",NON,No,57,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Lori S. Rowe,"",NON,No,167,39,86,42
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Lori S. Rowe,"",NON,No,141,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Lori S. Rowe,"",NON,No,325,92,144,89
-Hamilton,1 - Jennings City Hall,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,1,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,1,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Lori S. Rowe,"",STATS,OVER VOTES,2,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,45,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,66,,,
-Hamilton,3 - White Springs Library,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,70,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,112,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,12,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,52,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,68,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Lori S. Rowe,"",STATS,UNDER VOTES,97,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Bo Winokur,"",NON,Yes,173,39,100,34
-Hamilton,2 - Jasper Courthouse,Retain Judge Bo Winokur,"",NON,Yes,316,88,146,82
-Hamilton,3 - White Springs Library,Retain Judge Bo Winokur,"",NON,Yes,267,44,157,66
-Hamilton,4 - Jasper Civic Center,Retain Judge Bo Winokur,"",NON,Yes,439,136,179,124
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bo Winokur,"",NON,Yes,92,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bo Winokur,"",NON,Yes,256,68,127,61
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bo Winokur,"",NON,Yes,320,59,171,90
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bo Winokur,"",NON,Yes,540,169,257,114
-Hamilton,1 - Jennings City Hall,Retain Judge Bo Winokur,"",NON,No,76,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Bo Winokur,"",NON,No,176,55,74,47
-Hamilton,3 - White Springs Library,Retain Judge Bo Winokur,"",NON,No,220,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Bo Winokur,"",NON,No,281,86,129,66
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bo Winokur,"",NON,No,54,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bo Winokur,"",NON,No,163,41,88,34
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bo Winokur,"",NON,No,126,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bo Winokur,"",NON,No,314,92,143,79
-Hamilton,1 - Jennings City Hall,Retain Judge Bo Winokur,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,Retain Judge Bo Winokur,"",STATS,OVER VOTES,1,,,
-Hamilton,3 - White Springs Library,Retain Judge Bo Winokur,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,Retain Judge Bo Winokur,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bo Winokur,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bo Winokur,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bo Winokur,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bo Winokur,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,41,,,
-Hamilton,2 - Jasper Courthouse,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,63,,,
-Hamilton,3 - White Springs Library,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,67,,,
-Hamilton,4 - Jasper Civic Center,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,105,,,
-Hamilton,5 - Bright Pond Fellowship Hal,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,11,,,
-Hamilton,6 - Genoa Vol. Fire Department,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,51,,,
-Hamilton,7 - Bellville Vol. Fire Depart,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,70,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,Retain Judge Bo Winokur,"",STATS,UNDER VOTES,97,,,
-Hamilton,1 - Jennings City Hall,No. 1 Constitutional Amendment,"",NON,Yes,143,,,
-Hamilton,2 - Jasper Courthouse,No. 1 Constitutional Amendment,"",NON,Yes,241,72,97,72
-Hamilton,3 - White Springs Library,No. 1 Constitutional Amendment,"",NON,Yes,235,40,122,73
-Hamilton,4 - Jasper Civic Center,No. 1 Constitutional Amendment,"",NON,Yes,384,116,159,109
-Hamilton,5 - Bright Pond Fellowship Hal,No. 1 Constitutional Amendment,"",NON,Yes,61,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 1 Constitutional Amendment,"",NON,Yes,211,55,102,54
-Hamilton,7 - Bellville Vol. Fire Depart,No. 1 Constitutional Amendment,"",NON,Yes,268,49,128,91
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 1 Constitutional Amendment,"",NON,Yes,465,142,216,107
-Hamilton,1 - Jennings City Hall,No. 1 Constitutional Amendment,"",NON,No,110,,,
-Hamilton,2 - Jasper Courthouse,No. 1 Constitutional Amendment,"",NON,No,196,63,77,56
-Hamilton,3 - White Springs Library,No. 1 Constitutional Amendment,"",NON,No,233,31,135,67
-Hamilton,4 - Jasper Civic Center,No. 1 Constitutional Amendment,"",NON,No,302,89,126,87
-Hamilton,5 - Bright Pond Fellowship Hal,No. 1 Constitutional Amendment,"",NON,No,82,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 1 Constitutional Amendment,"",NON,No,211,54,113,44
-Hamilton,7 - Bellville Vol. Fire Depart,No. 1 Constitutional Amendment,"",NON,No,170,31,86,53
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 1 Constitutional Amendment,"",NON,No,369,117,163,89
-Hamilton,1 - Jennings City Hall,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,1,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 1 Constitutional Amendment,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,37,,,
-Hamilton,2 - Jasper Courthouse,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,119,,,
-Hamilton,3 - White Springs Library,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,86,,,
-Hamilton,4 - Jasper Civic Center,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,139,41,55,43
-Hamilton,5 - Bright Pond Fellowship Hal,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,13,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,48,,,
-Hamilton,7 - Bellville Vol. Fire Depart,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,78,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 1 Constitutional Amendment,"",STATS,UNDER VOTES,117,,,
-Hamilton,1 - Jennings City Hall,No. 2 Constitutional Amendment,"",NON,Yes,144,,,
-Hamilton,2 - Jasper Courthouse,No. 2 Constitutional Amendment,"",NON,Yes,220,66,89,65
-Hamilton,3 - White Springs Library,No. 2 Constitutional Amendment,"",NON,Yes,226,37,119,70
-Hamilton,4 - Jasper Civic Center,No. 2 Constitutional Amendment,"",NON,Yes,370,119,143,108
-Hamilton,5 - Bright Pond Fellowship Hal,No. 2 Constitutional Amendment,"",NON,Yes,70,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 2 Constitutional Amendment,"",NON,Yes,226,59,107,60
-Hamilton,7 - Bellville Vol. Fire Depart,No. 2 Constitutional Amendment,"",NON,Yes,219,33,103,83
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 2 Constitutional Amendment,"",NON,Yes,419,134,188,97
-Hamilton,1 - Jennings City Hall,No. 2 Constitutional Amendment,"",NON,No,105,,,
-Hamilton,2 - Jasper Courthouse,No. 2 Constitutional Amendment,"",NON,No,216,68,83,65
-Hamilton,3 - White Springs Library,No. 2 Constitutional Amendment,"",NON,No,230,,,
-Hamilton,4 - Jasper Civic Center,No. 2 Constitutional Amendment,"",NON,No,308,84,139,85
-Hamilton,5 - Bright Pond Fellowship Hal,No. 2 Constitutional Amendment,"",NON,No,71,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 2 Constitutional Amendment,"",NON,No,192,47,108,37
-Hamilton,7 - Bellville Vol. Fire Depart,No. 2 Constitutional Amendment,"",NON,No,208,42,107,59
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 2 Constitutional Amendment,"",NON,No,410,123,188,99
-Hamilton,1 - Jennings City Hall,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 2 Constitutional Amendment,"",STATS,OVER VOTES,2,,,
-Hamilton,1 - Jennings City Hall,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,41,,,
-Hamilton,2 - Jasper Courthouse,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,120,,,
-Hamilton,3 - White Springs Library,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,98,,,
-Hamilton,4 - Jasper Civic Center,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,147,43,58,46
-Hamilton,5 - Bright Pond Fellowship Hal,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,16,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,52,,,
-Hamilton,7 - Bellville Vol. Fire Depart,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,89,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 2 Constitutional Amendment,"",STATS,UNDER VOTES,121,,,
-Hamilton,1 - Jennings City Hall,No. 3 Constitutional Amendment,"",NON,Yes,158,,,
-Hamilton,2 - Jasper Courthouse,No. 3 Constitutional Amendment,"",NON,Yes,276,67,126,83
-Hamilton,3 - White Springs Library,No. 3 Constitutional Amendment,"",NON,Yes,257,37,148,72
-Hamilton,4 - Jasper Civic Center,No. 3 Constitutional Amendment,"",NON,Yes,401,116,178,107
-Hamilton,5 - Bright Pond Fellowship Hal,No. 3 Constitutional Amendment,"",NON,Yes,65,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 3 Constitutional Amendment,"",NON,Yes,227,57,107,63
-Hamilton,7 - Bellville Vol. Fire Depart,No. 3 Constitutional Amendment,"",NON,Yes,289,48,156,85
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 3 Constitutional Amendment,"",NON,Yes,472,139,217,116
-Hamilton,1 - Jennings City Hall,No. 3 Constitutional Amendment,"",NON,No,104,,,
-Hamilton,2 - Jasper Courthouse,No. 3 Constitutional Amendment,"",NON,No,171,69,52,50
-Hamilton,3 - White Springs Library,No. 3 Constitutional Amendment,"",NON,No,218,35,112,71
-Hamilton,4 - Jasper Civic Center,No. 3 Constitutional Amendment,"",NON,No,301,94,111,96
-Hamilton,5 - Bright Pond Fellowship Hal,No. 3 Constitutional Amendment,"",NON,No,79,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 3 Constitutional Amendment,"",NON,No,202,53,110,39
-Hamilton,7 - Bellville Vol. Fire Depart,No. 3 Constitutional Amendment,"",NON,No,156,33,62,61
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 3 Constitutional Amendment,"",NON,No,374,121,169,84
-Hamilton,1 - Jennings City Hall,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,2 - Jasper Courthouse,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,3 - White Springs Library,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,4 - Jasper Civic Center,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,5 - Bright Pond Fellowship Hal,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,6 - Genoa Vol. Fire Department,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,7 - Bellville Vol. Fire Depart,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,0,0,0,0
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 3 Constitutional Amendment,"",STATS,OVER VOTES,1,,,
-Hamilton,1 - Jennings City Hall,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,28,,,
-Hamilton,2 - Jasper Courthouse,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,109,,,
-Hamilton,3 - White Springs Library,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,79,,,
-Hamilton,4 - Jasper Civic Center,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,123,36,51,36
-Hamilton,5 - Bright Pond Fellowship Hal,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,13,,,
-Hamilton,6 - Genoa Vol. Fire Department,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,41,,,
-Hamilton,7 - Bellville Vol. Fire Depart,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,71,,,
-Hamilton,8 - Cross Roads Vol. Fire Depa,No. 3 Constitutional Amendment,"",STATS,UNDER VOTES,105,,,
+county,precinct,office,district,party,candidate,votes
+Hamilton,1 - Jennings City Hall,U.S. Senate,"",REP,Marco Rubio,198
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"",REP,Marco Rubio,216
+Hamilton,3 - White Springs Library,U.S. Senate,"",REP,Marco Rubio,339
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"",REP,Marco Rubio,638
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",REP,Marco Rubio,131
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",REP,Marco Rubio,349
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",REP,Marco Rubio,361
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",REP,Marco Rubio,798
+Hamilton,1 - Jennings City Hall,U.S. Senate,"",DEM,Val Demings,85
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"",DEM,Val Demings,332
+Hamilton,3 - White Springs Library,U.S. Senate,"",DEM,Val Demings,200
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"",DEM,Val Demings,172
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",DEM,Val Demings,22
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",DEM,Val Demings,113
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",DEM,Val Demings,147
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",DEM,Val Demings,144
+Hamilton,1 - Jennings City Hall,U.S. Senate,"",LPF,Dennis Misigoy,2
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"",LPF,Dennis Misigoy,3
+Hamilton,3 - White Springs Library,U.S. Senate,"",LPF,Dennis Misigoy,3
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"",LPF,Dennis Misigoy,2
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",LPF,Dennis Misigoy,2
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",LPF,Dennis Misigoy,1
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",LPF,Dennis Misigoy,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",LPF,Dennis Misigoy,4
+Hamilton,1 - Jennings City Hall,U.S. Senate,"",NPA,Steven B. Grant,3
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"",NPA,Steven B. Grant,2
+Hamilton,3 - White Springs Library,U.S. Senate,"",NPA,Steven B. Grant,2
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"",NPA,Steven B. Grant,3
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",NPA,Steven B. Grant,1
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",NPA,Steven B. Grant,1
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",NPA,Steven B. Grant,2
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",NPA,Steven B. Grant,1
+Hamilton,1 - Jennings City Hall,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Hamilton,3 - White Springs Library,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Hamilton,1 - Jennings City Hall,U.S. Senate,"","",WriteinVotes,0
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"","",WriteinVotes,1
+Hamilton,3 - White Springs Library,U.S. Senate,"","",WriteinVotes,0
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"","",WriteinVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"","",WriteinVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"","",WriteinVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"","",WriteinVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"","",WriteinVotes,0
+Hamilton,1 - Jennings City Hall,U.S. Senate,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"","",OverVotes,0
+Hamilton,3 - White Springs Library,U.S. Senate,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"","",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"","",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"","",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"","",OverVotes,0
+Hamilton,1 - Jennings City Hall,U.S. Senate,"","",UnderVotes,2
+Hamilton,2 - Jasper Courthouse,U.S. Senate,"","",UnderVotes,2
+Hamilton,3 - White Springs Library,U.S. Senate,"","",UnderVotes,9
+Hamilton,4 - Jasper Civic Center,U.S. Senate,"","",UnderVotes,9
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. Senate,"","",UnderVotes,1
+Hamilton,6 - Genoa Vol. Fire Department,U.S. Senate,"","",UnderVotes,5
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. Senate,"","",UnderVotes,4
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. Senate,"","",UnderVotes,5
+Hamilton,1 - Jennings City Hall,U.S. House,3,REP,Kat Cammack,203
+Hamilton,2 - Jasper Courthouse,U.S. House,3,REP,Kat Cammack,220
+Hamilton,3 - White Springs Library,U.S. House,3,REP,Kat Cammack,340
+Hamilton,4 - Jasper Civic Center,U.S. House,3,REP,Kat Cammack,639
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,REP,Kat Cammack,129
+Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,REP,Kat Cammack,352
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,REP,Kat Cammack,363
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,REP,Kat Cammack,807
+Hamilton,1 - Jennings City Hall,U.S. House,3,DEM,Danielle Hawk,79
+Hamilton,2 - Jasper Courthouse,U.S. House,3,DEM,Danielle Hawk,321
+Hamilton,3 - White Springs Library,U.S. House,3,DEM,Danielle Hawk,194
+Hamilton,4 - Jasper Civic Center,U.S. House,3,DEM,Danielle Hawk,170
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,DEM,Danielle Hawk,24
+Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,DEM,Danielle Hawk,105
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,DEM,Danielle Hawk,137
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,DEM,Danielle Hawk,125
+Hamilton,1 - Jennings City Hall,U.S. House,3,NPA,Linda S. Brooks,3
+Hamilton,2 - Jasper Courthouse,U.S. House,3,NPA,Linda S. Brooks,5
+Hamilton,3 - White Springs Library,U.S. House,3,NPA,Linda S. Brooks,5
+Hamilton,4 - Jasper Civic Center,U.S. House,3,NPA,Linda S. Brooks,3
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,NPA,Linda S. Brooks,2
+Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,NPA,Linda S. Brooks,6
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,NPA,Linda S. Brooks,4
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,NPA,Linda S. Brooks,8
+Hamilton,1 - Jennings City Hall,U.S. House,3,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,U.S. House,3,"",OverVotes,0
+Hamilton,3 - White Springs Library,U.S. House,3,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,U.S. House,3,"",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,"",OverVotes,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,"",OverVotes,0
+Hamilton,1 - Jennings City Hall,U.S. House,3,"",UnderVotes,5
+Hamilton,2 - Jasper Courthouse,U.S. House,3,"",UnderVotes,10
+Hamilton,3 - White Springs Library,U.S. House,3,"",UnderVotes,15
+Hamilton,4 - Jasper Civic Center,U.S. House,3,"",UnderVotes,13
+Hamilton,5 - Bright Pond Fellowship Hal,U.S. House,3,"",UnderVotes,2
+Hamilton,6 - Genoa Vol. Fire Department,U.S. House,3,"",UnderVotes,7
+Hamilton,7 - Bellville Vol. Fire Depart,U.S. House,3,"",UnderVotes,11
+Hamilton,8 - Cross Roads Vol. Fire Depa,U.S. House,3,"",UnderVotes,12
+Hamilton,1 - Jennings City Hall,Governor,"",REP,DeSantis / Nuñez,206
+Hamilton,2 - Jasper Courthouse,Governor,"",REP,DeSantis / Nuñez,229
+Hamilton,3 - White Springs Library,Governor,"",REP,DeSantis / Nuñez,355
+Hamilton,4 - Jasper Civic Center,Governor,"",REP,DeSantis / Nuñez,658
+Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",REP,DeSantis / Nuñez,135
+Hamilton,6 - Genoa Vol. Fire Department,Governor,"",REP,DeSantis / Nuñez,367
+Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",REP,DeSantis / Nuñez,373
+Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",REP,DeSantis / Nuñez,822
+Hamilton,1 - Jennings City Hall,Governor,"",DEM,Crist / Hernandez,75
+Hamilton,2 - Jasper Courthouse,Governor,"",DEM,Crist / Hernandez,321
+Hamilton,3 - White Springs Library,Governor,"",DEM,Crist / Hernandez,188
+Hamilton,4 - Jasper Civic Center,Governor,"",DEM,Crist / Hernandez,161
+Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",DEM,Crist / Hernandez,20
+Hamilton,6 - Genoa Vol. Fire Department,Governor,"",DEM,Crist / Hernandez,97
+Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",DEM,Crist / Hernandez,138
+Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",DEM,Crist / Hernandez,120
+Hamilton,1 - Jennings City Hall,Governor,"",LPF,Roos / Rorabaugh,2
+Hamilton,2 - Jasper Courthouse,Governor,"",LPF,Roos / Rorabaugh,2
+Hamilton,3 - White Springs Library,Governor,"",LPF,Roos / Rorabaugh,2
+Hamilton,4 - Jasper Civic Center,Governor,"",LPF,Roos / Rorabaugh,1
+Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",LPF,Roos / Rorabaugh,0
+Hamilton,6 - Genoa Vol. Fire Department,Governor,"",LPF,Roos / Rorabaugh,1
+Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",LPF,Roos / Rorabaugh,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",LPF,Roos / Rorabaugh,2
+Hamilton,1 - Jennings City Hall,Governor,"",NPA,Gimenez / Gibson,2
+Hamilton,2 - Jasper Courthouse,Governor,"",NPA,Gimenez / Gibson,2
+Hamilton,3 - White Springs Library,Governor,"",NPA,Gimenez / Gibson,2
+Hamilton,4 - Jasper Civic Center,Governor,"",NPA,Gimenez / Gibson,1
+Hamilton,5 - Bright Pond Fellowship Hal,Governor,"",NPA,Gimenez / Gibson,2
+Hamilton,6 - Genoa Vol. Fire Department,Governor,"",NPA,Gimenez / Gibson,2
+Hamilton,7 - Bellville Vol. Fire Depart,Governor,"",NPA,Gimenez / Gibson,2
+Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"",NPA,Gimenez / Gibson,4
+Hamilton,1 - Jennings City Hall,Governor,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Governor,"","",OverVotes,2
+Hamilton,3 - White Springs Library,Governor,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Governor,"","",OverVotes,1
+Hamilton,5 - Bright Pond Fellowship Hal,Governor,"","",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Governor,"","",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Governor,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"","",OverVotes,2
+Hamilton,1 - Jennings City Hall,Governor,"","",UnderVotes,5
+Hamilton,2 - Jasper Courthouse,Governor,"","",UnderVotes,0
+Hamilton,3 - White Springs Library,Governor,"","",UnderVotes,7
+Hamilton,4 - Jasper Civic Center,Governor,"","",UnderVotes,3
+Hamilton,5 - Bright Pond Fellowship Hal,Governor,"","",UnderVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Governor,"","",UnderVotes,3
+Hamilton,7 - Bellville Vol. Fire Depart,Governor,"","",UnderVotes,2
+Hamilton,8 - Cross Roads Vol. Fire Depa,Governor,"","",UnderVotes,2
+Hamilton,1 - Jennings City Hall,Attorney General,"",REP,Ashley Moody,209
+Hamilton,2 - Jasper Courthouse,Attorney General,"",REP,Ashley Moody,243
+Hamilton,3 - White Springs Library,Attorney General,"",REP,Ashley Moody,359
+Hamilton,4 - Jasper Civic Center,Attorney General,"",REP,Ashley Moody,657
+Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"",REP,Ashley Moody,137
+Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"",REP,Ashley Moody,359
+Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"",REP,Ashley Moody,376
+Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"",REP,Ashley Moody,830
+Hamilton,1 - Jennings City Hall,Attorney General,"",DEM,Aramis Ayala,79
+Hamilton,2 - Jasper Courthouse,Attorney General,"",DEM,Aramis Ayala,306
+Hamilton,3 - White Springs Library,Attorney General,"",DEM,Aramis Ayala,184
+Hamilton,4 - Jasper Civic Center,Attorney General,"",DEM,Aramis Ayala,158
+Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"",DEM,Aramis Ayala,19
+Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"",DEM,Aramis Ayala,101
+Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"",DEM,Aramis Ayala,131
+Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"",DEM,Aramis Ayala,112
+Hamilton,1 - Jennings City Hall,Attorney General,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Attorney General,"","",OverVotes,1
+Hamilton,3 - White Springs Library,Attorney General,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Attorney General,"","",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"","",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"","",OverVotes,1
+Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"","",OverVotes,0
+Hamilton,1 - Jennings City Hall,Attorney General,"","",UnderVotes,2
+Hamilton,2 - Jasper Courthouse,Attorney General,"","",UnderVotes,6
+Hamilton,3 - White Springs Library,Attorney General,"","",UnderVotes,11
+Hamilton,4 - Jasper Civic Center,Attorney General,"","",UnderVotes,10
+Hamilton,5 - Bright Pond Fellowship Hal,Attorney General,"","",UnderVotes,1
+Hamilton,6 - Genoa Vol. Fire Department,Attorney General,"","",UnderVotes,9
+Hamilton,7 - Bellville Vol. Fire Depart,Attorney General,"","",UnderVotes,9
+Hamilton,8 - Cross Roads Vol. Fire Depa,Attorney General,"","",UnderVotes,10
+Hamilton,1 - Jennings City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,200
+Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"",REP,Jimmy Patronis,223
+Hamilton,3 - White Springs Library,Chief Financial Officer,"",REP,Jimmy Patronis,343
+Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"",REP,Jimmy Patronis,638
+Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"",REP,Jimmy Patronis,130
+Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"",REP,Jimmy Patronis,348
+Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"",REP,Jimmy Patronis,359
+Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"",REP,Jimmy Patronis,814
+Hamilton,1 - Jennings City Hall,Chief Financial Officer,"",DEM,Adam Hattersley,82
+Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"",DEM,Adam Hattersley,324
+Hamilton,3 - White Springs Library,Chief Financial Officer,"",DEM,Adam Hattersley,194
+Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"",DEM,Adam Hattersley,168
+Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"",DEM,Adam Hattersley,23
+Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"",DEM,Adam Hattersley,112
+Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"",DEM,Adam Hattersley,144
+Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"",DEM,Adam Hattersley,127
+Hamilton,1 - Jennings City Hall,Chief Financial Officer,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"","",OverVotes,0
+Hamilton,3 - White Springs Library,Chief Financial Officer,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"","",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"","",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"","",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"","",OverVotes,0
+Hamilton,1 - Jennings City Hall,Chief Financial Officer,"","",UnderVotes,8
+Hamilton,2 - Jasper Courthouse,Chief Financial Officer,"","",UnderVotes,9
+Hamilton,3 - White Springs Library,Chief Financial Officer,"","",UnderVotes,17
+Hamilton,4 - Jasper Civic Center,Chief Financial Officer,"","",UnderVotes,19
+Hamilton,5 - Bright Pond Fellowship Hal,Chief Financial Officer,"","",UnderVotes,4
+Hamilton,6 - Genoa Vol. Fire Department,Chief Financial Officer,"","",UnderVotes,10
+Hamilton,7 - Bellville Vol. Fire Depart,Chief Financial Officer,"","",UnderVotes,13
+Hamilton,8 - Cross Roads Vol. Fire Depa,Chief Financial Officer,"","",UnderVotes,11
+Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,207
+Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"",REP,Wilton Simpson,223
+Hamilton,3 - White Springs Library,Commissioner of Agriculture,"",REP,Wilton Simpson,344
+Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"",REP,Wilton Simpson,640
+Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"",REP,Wilton Simpson,135
+Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"",REP,Wilton Simpson,355
+Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"",REP,Wilton Simpson,366
+Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"",REP,Wilton Simpson,809
+Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,77
+Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,320
+Hamilton,3 - White Springs Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,192
+Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,167
+Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,139
+Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,131
+Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,3 - White Springs Library,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,1 - Jennings City Hall,Commissioner of Agriculture,"","",UnderVotes,6
+Hamilton,2 - Jasper Courthouse,Commissioner of Agriculture,"","",UnderVotes,13
+Hamilton,3 - White Springs Library,Commissioner of Agriculture,"","",UnderVotes,18
+Hamilton,4 - Jasper Civic Center,Commissioner of Agriculture,"","",UnderVotes,18
+Hamilton,5 - Bright Pond Fellowship Hal,Commissioner of Agriculture,"","",UnderVotes,1
+Hamilton,6 - Genoa Vol. Fire Department,Commissioner of Agriculture,"","",UnderVotes,9
+Hamilton,7 - Bellville Vol. Fire Depart,Commissioner of Agriculture,"","",UnderVotes,11
+Hamilton,8 - Cross Roads Vol. Fire Depa,Commissioner of Agriculture,"","",UnderVotes,12
+Hamilton,1 - Jennings City Hall,State Senate,3,REP,Corey Simon,195
+Hamilton,2 - Jasper Courthouse,State Senate,3,REP,Corey Simon,226
+Hamilton,3 - White Springs Library,State Senate,3,REP,Corey Simon,338
+Hamilton,4 - Jasper Civic Center,State Senate,3,REP,Corey Simon,629
+Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,REP,Corey Simon,130
+Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,REP,Corey Simon,344
+Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,REP,Corey Simon,364
+Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,REP,Corey Simon,799
+Hamilton,1 - Jennings City Hall,State Senate,3,DEM,Loranne Ausley,83
+Hamilton,2 - Jasper Courthouse,State Senate,3,DEM,Loranne Ausley,310
+Hamilton,3 - White Springs Library,State Senate,3,DEM,Loranne Ausley,195
+Hamilton,4 - Jasper Civic Center,State Senate,3,DEM,Loranne Ausley,179
+Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,DEM,Loranne Ausley,23
+Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,DEM,Loranne Ausley,109
+Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,DEM,Loranne Ausley,138
+Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,DEM,Loranne Ausley,143
+Hamilton,1 - Jennings City Hall,State Senate,3,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,State Senate,3,"",OverVotes,0
+Hamilton,3 - White Springs Library,State Senate,3,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,State Senate,3,"",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,"",OverVotes,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,"",OverVotes,0
+Hamilton,1 - Jennings City Hall,State Senate,3,"",UnderVotes,12
+Hamilton,2 - Jasper Courthouse,State Senate,3,"",UnderVotes,20
+Hamilton,3 - White Springs Library,State Senate,3,"",UnderVotes,21
+Hamilton,4 - Jasper Civic Center,State Senate,3,"",UnderVotes,17
+Hamilton,5 - Bright Pond Fellowship Hal,State Senate,3,"",UnderVotes,4
+Hamilton,6 - Genoa Vol. Fire Department,State Senate,3,"",UnderVotes,17
+Hamilton,7 - Bellville Vol. Fire Depart,State Senate,3,"",UnderVotes,13
+Hamilton,8 - Cross Roads Vol. Fire Depa,State Senate,3,"",UnderVotes,10
+Hamilton,3 - White Springs Library,County Commissioner,4,REP,Travis Erixton,227
+Hamilton,6 - Genoa Vol. Fire Department,County Commissioner,4,REP,Travis Erixton,216
+Hamilton,3 - White Springs Library,County Commissioner,4,DEM,Kenny B. Morgan,123
+Hamilton,6 - Genoa Vol. Fire Department,County Commissioner,4,DEM,Kenny B. Morgan,163
+Hamilton,3 - White Springs Library,County Commissioner,4,NPA,Scott Gay,201
+Hamilton,6 - Genoa Vol. Fire Department,County Commissioner,4,NPA,Scott Gay,86
+Hamilton,3 - White Springs Library,County Commissioner,4,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,County Commissioner,4,"",OverVotes,0
+Hamilton,3 - White Springs Library,County Commissioner,4,"",UnderVotes,3
+Hamilton,6 - Genoa Vol. Fire Department,County Commissioner,4,"",UnderVotes,5
+Hamilton,1 - Jennings City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,178
+Hamilton,2 - Jasper Courthouse,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,330
+Hamilton,3 - White Springs Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,279
+Hamilton,4 - Jasper Civic Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,481
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,94
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,261
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,324
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,561
+Hamilton,1 - Jennings City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,78
+Hamilton,2 - Jasper Courthouse,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,173
+Hamilton,3 - White Springs Library,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,216
+Hamilton,4 - Jasper Civic Center,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,253
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,53
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,161
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,128
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,310
+Hamilton,1 - Jennings City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,3 - White Springs Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,1 - Jennings City Hall,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,34
+Hamilton,2 - Jasper Courthouse,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,53
+Hamilton,3 - White Springs Library,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,59
+Hamilton,4 - Jasper Civic Center,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,90
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,10
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,47
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,64
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,80
+Hamilton,1 - Jennings City Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,175
+Hamilton,2 - Jasper Courthouse,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,312
+Hamilton,3 - White Springs Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,277
+Hamilton,4 - Jasper Civic Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,486
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,98
+Hamilton,6 - Genoa Vol. Fire Department,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,266
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,316
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,561
+Hamilton,1 - Jennings City Hall,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,75
+Hamilton,2 - Jasper Courthouse,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,187
+Hamilton,3 - White Springs Library,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,211
+Hamilton,4 - Jasper Civic Center,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,235
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,48
+Hamilton,6 - Genoa Vol. Fire Department,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,156
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,131
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,301
+Hamilton,1 - Jennings City Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,3 - White Springs Library,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,4 - Jasper Civic Center,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,2
+Hamilton,1 - Jennings City Hall,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,40
+Hamilton,2 - Jasper Courthouse,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,57
+Hamilton,3 - White Springs Library,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,65
+Hamilton,4 - Jasper Civic Center,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,104
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,11
+Hamilton,6 - Genoa Vol. Fire Department,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,48
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,69
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,88
+Hamilton,1 - Jennings City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,177
+Hamilton,2 - Jasper Courthouse,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,317
+Hamilton,3 - White Springs Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,283
+Hamilton,4 - Jasper Civic Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,485
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,94
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,268
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,310
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,565
+Hamilton,1 - Jennings City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,75
+Hamilton,2 - Jasper Courthouse,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,180
+Hamilton,3 - White Springs Library,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,209
+Hamilton,4 - Jasper Civic Center,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,239
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,51
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,153
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,137
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,295
+Hamilton,1 - Jennings City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,3 - White Springs Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,2
+Hamilton,1 - Jennings City Hall,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,38
+Hamilton,2 - Jasper Courthouse,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,59
+Hamilton,3 - White Springs Library,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,62
+Hamilton,4 - Jasper Civic Center,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,100
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,12
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,49
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,69
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,90
+Hamilton,1 - Jennings City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,138
+Hamilton,2 - Jasper Courthouse,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,301
+Hamilton,3 - White Springs Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,258
+Hamilton,4 - Jasper Civic Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,389
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,85
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,220
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,273
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,441
+Hamilton,1 - Jennings City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,108
+Hamilton,2 - Jasper Courthouse,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,197
+Hamilton,3 - White Springs Library,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,238
+Hamilton,4 - Jasper Civic Center,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,333
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,61
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,201
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,172
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,414
+Hamilton,1 - Jennings City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,3 - White Springs Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,2
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,1 - Jennings City Hall,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,44
+Hamilton,2 - Jasper Courthouse,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,57
+Hamilton,3 - White Springs Library,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,58
+Hamilton,4 - Jasper Civic Center,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,101
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,11
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,49
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,70
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,96
+Hamilton,1 - Jennings City Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,171
+Hamilton,2 - Jasper Courthouse,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,324
+Hamilton,3 - White Springs Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,272
+Hamilton,4 - Jasper Civic Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,450
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,88
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,247
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,313
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,545
+Hamilton,1 - Jennings City Hall,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,81
+Hamilton,2 - Jasper Courthouse,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,173
+Hamilton,3 - White Springs Library,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,216
+Hamilton,4 - Jasper Civic Center,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,277
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,58
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,171
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,135
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,319
+Hamilton,1 - Jennings City Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,3 - White Springs Library,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,1 - Jennings City Hall,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,38
+Hamilton,2 - Jasper Courthouse,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,59
+Hamilton,3 - White Springs Library,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,66
+Hamilton,4 - Jasper Civic Center,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,98
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,11
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,51
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,68
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,87
+Hamilton,1 - Jennings City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,166
+Hamilton,2 - Jasper Courthouse,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,323
+Hamilton,3 - White Springs Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,276
+Hamilton,4 - Jasper Civic Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,457
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,97
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,250
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,313
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,548
+Hamilton,1 - Jennings City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,79
+Hamilton,2 - Jasper Courthouse,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,167
+Hamilton,3 - White Springs Library,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,210
+Hamilton,4 - Jasper Civic Center,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,258
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,48
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,165
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,135
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,311
+Hamilton,1 - Jennings City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Hamilton,3 - White Springs Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,2
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,2
+Hamilton,1 - Jennings City Hall,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,45
+Hamilton,2 - Jasper Courthouse,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,65
+Hamilton,3 - White Springs Library,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,68
+Hamilton,4 - Jasper Civic Center,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,108
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,12
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,55
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,68
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,91
+Hamilton,1 - Jennings City Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,166
+Hamilton,2 - Jasper Courthouse,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,331
+Hamilton,3 - White Springs Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,289
+Hamilton,4 - Jasper Civic Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,460
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,99
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,262
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,315
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,554
+Hamilton,1 - Jennings City Hall,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,78
+Hamilton,2 - Jasper Courthouse,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,158
+Hamilton,3 - White Springs Library,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,200
+Hamilton,4 - Jasper Civic Center,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,250
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,47
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,158
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,129
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,306
+Hamilton,1 - Jennings City Hall,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Hamilton,3 - White Springs Library,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Hamilton,1 - Jennings City Hall,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,46
+Hamilton,2 - Jasper Courthouse,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,67
+Hamilton,3 - White Springs Library,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,65
+Hamilton,4 - Jasper Civic Center,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,115
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,11
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,50
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,71
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,91
+Hamilton,1 - Jennings City Hall,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,172
+Hamilton,2 - Jasper Courthouse,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,322
+Hamilton,3 - White Springs Library,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,275
+Hamilton,4 - Jasper Civic Center,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,462
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,95
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,257
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,322
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,561
+Hamilton,1 - Jennings City Hall,Retention of Bobby Long,First District Court of Appeal,NOP,No,72
+Hamilton,2 - Jasper Courthouse,Retention of Bobby Long,First District Court of Appeal,NOP,No,165
+Hamilton,3 - White Springs Library,Retention of Bobby Long,First District Court of Appeal,NOP,No,212
+Hamilton,4 - Jasper Civic Center,Retention of Bobby Long,First District Court of Appeal,NOP,No,252
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bobby Long,First District Court of Appeal,NOP,No,50
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bobby Long,First District Court of Appeal,NOP,No,160
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bobby Long,First District Court of Appeal,NOP,No,126
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bobby Long,First District Court of Appeal,NOP,No,294
+Hamilton,1 - Jennings City Hall,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Hamilton,3 - White Springs Library,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Hamilton,1 - Jennings City Hall,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,46
+Hamilton,2 - Jasper Courthouse,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,69
+Hamilton,3 - White Springs Library,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,67
+Hamilton,4 - Jasper Civic Center,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,111
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,12
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,53
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,68
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,96
+Hamilton,1 - Jennings City Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,166
+Hamilton,2 - Jasper Courthouse,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,325
+Hamilton,3 - White Springs Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,279
+Hamilton,4 - Jasper Civic Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,428
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,88
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,251
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,306
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,528
+Hamilton,1 - Jennings City Hall,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,79
+Hamilton,2 - Jasper Courthouse,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,165
+Hamilton,3 - White Springs Library,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,205
+Hamilton,4 - Jasper Civic Center,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,284
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,57
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,167
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,141
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,325
+Hamilton,1 - Jennings City Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Hamilton,3 - White Springs Library,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,2
+Hamilton,1 - Jennings City Hall,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,45
+Hamilton,2 - Jasper Courthouse,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,66
+Hamilton,3 - White Springs Library,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,70
+Hamilton,4 - Jasper Civic Center,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,112
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,12
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,52
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,68
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,97
+Hamilton,1 - Jennings City Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,173
+Hamilton,2 - Jasper Courthouse,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,316
+Hamilton,3 - White Springs Library,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,267
+Hamilton,4 - Jasper Civic Center,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,439
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,92
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,256
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,320
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,540
+Hamilton,1 - Jennings City Hall,Retention of Bo Winokur,First District Court of Appeal,NOP,No,76
+Hamilton,2 - Jasper Courthouse,Retention of Bo Winokur,First District Court of Appeal,NOP,No,176
+Hamilton,3 - White Springs Library,Retention of Bo Winokur,First District Court of Appeal,NOP,No,220
+Hamilton,4 - Jasper Civic Center,Retention of Bo Winokur,First District Court of Appeal,NOP,No,281
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bo Winokur,First District Court of Appeal,NOP,No,54
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bo Winokur,First District Court of Appeal,NOP,No,163
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bo Winokur,First District Court of Appeal,NOP,No,126
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bo Winokur,First District Court of Appeal,NOP,No,314
+Hamilton,1 - Jennings City Hall,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Hamilton,3 - White Springs Library,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Hamilton,1 - Jennings City Hall,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,41
+Hamilton,2 - Jasper Courthouse,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,63
+Hamilton,3 - White Springs Library,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,67
+Hamilton,4 - Jasper Civic Center,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,105
+Hamilton,5 - Bright Pond Fellowship Hal,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,11
+Hamilton,6 - Genoa Vol. Fire Department,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,51
+Hamilton,7 - Bellville Vol. Fire Depart,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,70
+Hamilton,8 - Cross Roads Vol. Fire Depa,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,97
+Hamilton,1 - Jennings City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,143
+Hamilton,2 - Jasper Courthouse,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,241
+Hamilton,3 - White Springs Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,235
+Hamilton,4 - Jasper Civic Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,384
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,61
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,211
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,268
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,465
+Hamilton,1 - Jennings City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,110
+Hamilton,2 - Jasper Courthouse,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,196
+Hamilton,3 - White Springs Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,233
+Hamilton,4 - Jasper Civic Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,302
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,82
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,211
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,170
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,369
+Hamilton,1 - Jennings City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hamilton,3 - White Springs Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Hamilton,1 - Jennings City Hall,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,37
+Hamilton,2 - Jasper Courthouse,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,119
+Hamilton,3 - White Springs Library,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,86
+Hamilton,4 - Jasper Civic Center,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,139
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,13
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,48
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,78
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,117
+Hamilton,1 - Jennings City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,144
+Hamilton,2 - Jasper Courthouse,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,220
+Hamilton,3 - White Springs Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,226
+Hamilton,4 - Jasper Civic Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,370
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,70
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,226
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,219
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,419
+Hamilton,1 - Jennings City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,105
+Hamilton,2 - Jasper Courthouse,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,216
+Hamilton,3 - White Springs Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,230
+Hamilton,4 - Jasper Civic Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,308
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,71
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,192
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,208
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,410
+Hamilton,1 - Jennings City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hamilton,3 - White Springs Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,2
+Hamilton,1 - Jennings City Hall,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,41
+Hamilton,2 - Jasper Courthouse,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,120
+Hamilton,3 - White Springs Library,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,98
+Hamilton,4 - Jasper Civic Center,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,147
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,16
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,52
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,89
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,121
+Hamilton,1 - Jennings City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,158
+Hamilton,2 - Jasper Courthouse,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,276
+Hamilton,3 - White Springs Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,257
+Hamilton,4 - Jasper Civic Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,401
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,65
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,227
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,289
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,472
+Hamilton,1 - Jennings City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,104
+Hamilton,2 - Jasper Courthouse,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,171
+Hamilton,3 - White Springs Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,218
+Hamilton,4 - Jasper Civic Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,301
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,79
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,202
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,156
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,374
+Hamilton,1 - Jennings City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hamilton,2 - Jasper Courthouse,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hamilton,3 - White Springs Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hamilton,4 - Jasper Civic Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Hamilton,1 - Jennings City Hall,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,28
+Hamilton,2 - Jasper Courthouse,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,109
+Hamilton,3 - White Springs Library,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,79
+Hamilton,4 - Jasper Civic Center,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,123
+Hamilton,5 - Bright Pond Fellowship Hal,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,13
+Hamilton,6 - Genoa Vol. Fire Department,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,41
+Hamilton,7 - Bellville Vol. Fire Depart,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,71
+Hamilton,8 - Cross Roads Vol. Fire Depa,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,105
+Hamilton,1 - Jennings City Hall,Registered Voters,"","","",574
+Hamilton,2 - Jasper Courthouse,Registered Voters,"","","",1290
+Hamilton,3 - White Springs Library,Registered Voters,"","","",957
+Hamilton,4 - Jasper Civic Center,Registered Voters,"","","",1529
+Hamilton,5 - Bright Pond Fellowship Hal,Registered Voters,"","","",265
+Hamilton,6 - Genoa Vol. Fire Department,Registered Voters,"","","",797
+Hamilton,7 - Bellville Vol. Fire Depart,Registered Voters,"","","",907
+Hamilton,8 - Cross Roads Vol. Fire Depa,Registered Voters,"","","",1527

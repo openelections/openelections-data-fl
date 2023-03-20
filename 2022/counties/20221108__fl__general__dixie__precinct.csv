@@ -1,501 +1,931 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"",REP,Marco Rubio,1303,307,635,361
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"",REP,Marco Rubio,211,42,110,59
-Dixie,2 MASONIC LODGE,U.S. Senate,"",REP,Marco Rubio,226,89,87,50
-Dixie,4 Old Town CTR,U.S. Senate,"",REP,Marco Rubio,1434,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"",REP,Marco Rubio,261,47,158,56
-Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"",REP,Marco Rubio,539,,,
-Dixie,7 CO BLDG WARD AVE,U.S. Senate,"",REP,Marco Rubio,191,41,98,52
-Dixie,9 CITY HALL,U.S. Senate,"",REP,Marco Rubio,488,166,198,124
-Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"",REP,Marco Rubio,313,85,144,84
-Dixie,11 JENA COM. CENTER,U.S. Senate,"",REP,Marco Rubio,259,52,168,39
-Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"",DEM,Val Demings,190,32,62,96
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"",DEM,Val Demings,25,,,
-Dixie,2 MASONIC LODGE,U.S. Senate,"",DEM,Val Demings,39,,,
-Dixie,4 Old Town CTR,U.S. Senate,"",DEM,Val Demings,240,48,67,125
-Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"",DEM,Val Demings,14,,,
-Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"",DEM,Val Demings,50,,,
-Dixie,7 CO BLDG WARD AVE,U.S. Senate,"",DEM,Val Demings,21,,,
-Dixie,9 CITY HALL,U.S. Senate,"",DEM,Val Demings,187,46,66,75
-Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"",DEM,Val Demings,22,,,
-Dixie,11 JENA COM. CENTER,U.S. Senate,"",DEM,Val Demings,38,,,
-Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"",LPF,Dennis Misigoy,6,,,
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Dixie,2 MASONIC LODGE,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Dixie,4 Old Town CTR,U.S. Senate,"",LPF,Dennis Misigoy,8,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Dixie,7 CO BLDG WARD AVE,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Dixie,9 CITY HALL,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Dixie,11 JENA COM. CENTER,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"",NPA,Steven B. Grant,12,,,
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Dixie,2 MASONIC LODGE,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Dixie,4 Old Town CTR,U.S. Senate,"",NPA,Steven B. Grant,15,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"",NPA,Steven B. Grant,5,,,
-Dixie,7 CO BLDG WARD AVE,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Dixie,9 CITY HALL,U.S. Senate,"",NPA,Steven B. Grant,9,,,
-Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"",NPA,Steven B. Grant,2,,,
-Dixie,11 JENA COM. CENTER,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Dixie,2 MASONIC LODGE,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Dixie,4 Old Town CTR,U.S. Senate,"",NPA,Tuan TQ Nguyen,5,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Dixie,7 CO BLDG WARD AVE,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Dixie,9 CITY HALL,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Dixie,11 JENA COM. CENTER,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"","",Write-in,2,,,
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"","",Write-in,1,,,
-Dixie,2 MASONIC LODGE,U.S. Senate,"","",Write-in,0,0,0,0
-Dixie,4 Old Town CTR,U.S. Senate,"","",Write-in,3,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"","",Write-in,0,0,0,0
-Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"","",Write-in,1,,,
-Dixie,7 CO BLDG WARD AVE,U.S. Senate,"","",Write-in,0,0,0,0
-Dixie,9 CITY HALL,U.S. Senate,"","",Write-in,3,,,
-Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"","",Write-in,0,0,0,0
-Dixie,11 JENA COM. CENTER,U.S. Senate,"","",Write-in,0,0,0,0
-Dixie,1 1ST DIST. COM. BLDG,U.S. House,3,REP,Kat Cammack,1316,307,642,367
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. House,3,REP,Kat Cammack,211,41,112,58
-Dixie,2 MASONIC LODGE,U.S. House,3,REP,Kat Cammack,224,88,86,50
-Dixie,4 Old Town CTR,U.S. House,3,REP,Kat Cammack,1450,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. House,3,REP,Kat Cammack,260,47,158,55
-Dixie,6 COM. BUILDING HWY 55A,U.S. House,3,REP,Kat Cammack,543,,,
-Dixie,7 CO BLDG WARD AVE,U.S. House,3,REP,Kat Cammack,192,42,98,52
-Dixie,9 CITY HALL,U.S. House,3,REP,Kat Cammack,483,163,192,128
-Dixie,10 COUNTY BLDG 292 Ave,U.S. House,3,REP,Kat Cammack,316,87,146,83
-Dixie,11 JENA COM. CENTER,U.S. House,3,REP,Kat Cammack,263,52,168,43
-Dixie,1 1ST DIST. COM. BLDG,U.S. House,3,DEM,Danielle Hawk,182,32,54,96
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. House,3,DEM,Danielle Hawk,26,,,
-Dixie,2 MASONIC LODGE,U.S. House,3,DEM,Danielle Hawk,35,,,
-Dixie,4 Old Town CTR,U.S. House,3,DEM,Danielle Hawk,222,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. House,3,DEM,Danielle Hawk,18,,,
-Dixie,6 COM. BUILDING HWY 55A,U.S. House,3,DEM,Danielle Hawk,47,,,
-Dixie,7 CO BLDG WARD AVE,U.S. House,3,DEM,Danielle Hawk,22,,,
-Dixie,9 CITY HALL,U.S. House,3,DEM,Danielle Hawk,185,41,69,75
-Dixie,10 COUNTY BLDG 292 Ave,U.S. House,3,DEM,Danielle Hawk,23,,,
-Dixie,11 JENA COM. CENTER,U.S. House,3,DEM,Danielle Hawk,33,,,
-Dixie,1 1ST DIST. COM. BLDG,U.S. House,3,NPA,Linda S. Brooks,21,,,
-Dixie,12 HORSESHOE BCH CITY HALL,U.S. House,3,NPA,Linda S. Brooks,1,,,
-Dixie,2 MASONIC LODGE,U.S. House,3,NPA,Linda S. Brooks,5,,,
-Dixie,4 Old Town CTR,U.S. House,3,NPA,Linda S. Brooks,30,,,
-Dixie,5 SUWANNEE COM. CENTER,U.S. House,3,NPA,Linda S. Brooks,0,0,0,0
-Dixie,6 COM. BUILDING HWY 55A,U.S. House,3,NPA,Linda S. Brooks,8,,,
-Dixie,7 CO BLDG WARD AVE,U.S. House,3,NPA,Linda S. Brooks,1,,,
-Dixie,9 CITY HALL,U.S. House,3,NPA,Linda S. Brooks,14,,,
-Dixie,10 COUNTY BLDG 292 Ave,U.S. House,3,NPA,Linda S. Brooks,2,,,
-Dixie,11 JENA COM. CENTER,U.S. House,3,NPA,Linda S. Brooks,3,,,
-Dixie,1 1ST DIST. COM. BLDG,Governor,"",REP,DeSantis and Nuñez,1343,310,651,382
-Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",REP,DeSantis and Nuñez,214,43,113,58
-Dixie,2 MASONIC LODGE,Governor,"",REP,DeSantis and Nuñez,229,90,89,50
-Dixie,4 Old Town CTR,Governor,"",REP,DeSantis and Nuñez,1489,,,
-Dixie,5 SUWANNEE COM. CENTER,Governor,"",REP,DeSantis and Nuñez,260,47,157,56
-Dixie,6 COM. BUILDING HWY 55A,Governor,"",REP,DeSantis and Nuñez,556,,,
-Dixie,7 CO BLDG WARD AVE,Governor,"",REP,DeSantis and Nuñez,201,44,105,52
-Dixie,9 CITY HALL,Governor,"",REP,DeSantis and Nuñez,512,172,204,136
-Dixie,10 COUNTY BLDG 292 Ave,Governor,"",REP,DeSantis and Nuñez,323,87,151,85
-Dixie,11 JENA COM. CENTER,Governor,"",REP,DeSantis and Nuñez,267,52,170,45
-Dixie,1 1ST DIST. COM. BLDG,Governor,"",DEM,Crist and Hernandez,167,32,50,85
-Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",DEM,Crist and Hernandez,24,,,
-Dixie,2 MASONIC LODGE,Governor,"",DEM,Crist and Hernandez,34,,,
-Dixie,4 Old Town CTR,Governor,"",DEM,Crist and Hernandez,209,40,53,116
-Dixie,5 SUWANNEE COM. CENTER,Governor,"",DEM,Crist and Hernandez,16,,,
-Dixie,6 COM. BUILDING HWY 55A,Governor,"",DEM,Crist and Hernandez,41,,,
-Dixie,7 CO BLDG WARD AVE,Governor,"",DEM,Crist and Hernandez,16,,,
-Dixie,9 CITY HALL,Governor,"",DEM,Crist and Hernandez,177,43,67,67
-Dixie,10 COUNTY BLDG 292 Ave,Governor,"",DEM,Crist and Hernandez,20,,,
-Dixie,11 JENA COM. CENTER,Governor,"",DEM,Crist and Hernandez,31,,,
-Dixie,1 1ST DIST. COM. BLDG,Governor,"",LPF,Roos and Rorabaugh,4,,,
-Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",LPF,Roos and Rorabaugh,2,,,
-Dixie,2 MASONIC LODGE,Governor,"",LPF,Roos and Rorabaugh,1,,,
-Dixie,4 Old Town CTR,Governor,"",LPF,Roos and Rorabaugh,0,0,0,0
-Dixie,5 SUWANNEE COM. CENTER,Governor,"",LPF,Roos and Rorabaugh,0,0,0,0
-Dixie,6 COM. BUILDING HWY 55A,Governor,"",LPF,Roos and Rorabaugh,1,,,
-Dixie,7 CO BLDG WARD AVE,Governor,"",LPF,Roos and Rorabaugh,1,,,
-Dixie,9 CITY HALL,Governor,"",LPF,Roos and Rorabaugh,2,,,
-Dixie,10 COUNTY BLDG 292 Ave,Governor,"",LPF,Roos and Rorabaugh,0,0,0,0
-Dixie,11 JENA COM. CENTER,Governor,"",LPF,Roos and Rorabaugh,3,,,
-Dixie,1 1ST DIST. COM. BLDG,Governor,"",NPA,Gimenez and Gibson,7,,,
-Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",NPA,Gimenez and Gibson,0,0,0,0
-Dixie,2 MASONIC LODGE,Governor,"",NPA,Gimenez and Gibson,2,,,
-Dixie,4 Old Town CTR,Governor,"",NPA,Gimenez and Gibson,11,,,
-Dixie,5 SUWANNEE COM. CENTER,Governor,"",NPA,Gimenez and Gibson,2,,,
-Dixie,6 COM. BUILDING HWY 55A,Governor,"",NPA,Gimenez and Gibson,4,,,
-Dixie,7 CO BLDG WARD AVE,Governor,"",NPA,Gimenez and Gibson,2,,,
-Dixie,9 CITY HALL,Governor,"",NPA,Gimenez and Gibson,7,,,
-Dixie,10 COUNTY BLDG 292 Ave,Governor,"",NPA,Gimenez and Gibson,1,,,
-Dixie,11 JENA COM. CENTER,Governor,"",NPA,Gimenez and Gibson,0,0,0,0
-Dixie,1 1ST DIST. COM. BLDG,Attorney General,"",REP,Ashley Moody,1345,307,654,384
-Dixie,12 HORSESHOE BCH CITY HALL,Attorney General,"",REP,Ashley Moody,213,42,113,58
-Dixie,2 MASONIC LODGE,Attorney General,"",REP,Ashley Moody,227,88,89,50
-Dixie,4 Old Town CTR,Attorney General,"",REP,Ashley Moody,1488,,,
-Dixie,5 SUWANNEE COM. CENTER,Attorney General,"",REP,Ashley Moody,264,47,161,56
-Dixie,6 COM. BUILDING HWY 55A,Attorney General,"",REP,Ashley Moody,549,,,
-Dixie,7 CO BLDG WARD AVE,Attorney General,"",REP,Ashley Moody,193,43,98,52
-Dixie,9 CITY HALL,Attorney General,"",REP,Ashley Moody,508,171,199,138
-Dixie,10 COUNTY BLDG 292 Ave,Attorney General,"",REP,Ashley Moody,320,88,147,85
-Dixie,11 JENA COM. CENTER,Attorney General,"",REP,Ashley Moody,268,53,169,46
-Dixie,1 1ST DIST. COM. BLDG,Attorney General,"",DEM,Aramis Ayala,170,36,47,87
-Dixie,12 HORSESHOE BCH CITY HALL,Attorney General,"",DEM,Aramis Ayala,22,,,
-Dixie,2 MASONIC LODGE,Attorney General,"",DEM,Aramis Ayala,37,,,
-Dixie,4 Old Town CTR,Attorney General,"",DEM,Aramis Ayala,208,39,59,110
-Dixie,5 SUWANNEE COM. CENTER,Attorney General,"",DEM,Aramis Ayala,13,,,
-Dixie,6 COM. BUILDING HWY 55A,Attorney General,"",DEM,Aramis Ayala,45,,,
-Dixie,7 CO BLDG WARD AVE,Attorney General,"",DEM,Aramis Ayala,20,,,
-Dixie,9 CITY HALL,Attorney General,"",DEM,Aramis Ayala,181,41,72,68
-Dixie,10 COUNTY BLDG 292 Ave,Attorney General,"",DEM,Aramis Ayala,21,,,
-Dixie,11 JENA COM. CENTER,Attorney General,"",DEM,Aramis Ayala,30,,,
-Dixie,1 1ST DIST. COM. BLDG,Chief Financial Officer,"",REP,Jimmy Patronis,1257,292,616,349
-Dixie,12 HORSESHOE BCH CITY HALL,Chief Financial Officer,"",REP,Jimmy Patronis,202,39,107,56
-Dixie,2 MASONIC LODGE,Chief Financial Officer,"",REP,Jimmy Patronis,219,84,86,49
-Dixie,4 Old Town CTR,Chief Financial Officer,"",REP,Jimmy Patronis,1404,,,
-Dixie,5 SUWANNEE COM. CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,256,46,157,53
-Dixie,6 COM. BUILDING HWY 55A,Chief Financial Officer,"",REP,Jimmy Patronis,516,,,
-Dixie,7 CO BLDG WARD AVE,Chief Financial Officer,"",REP,Jimmy Patronis,184,40,93,51
-Dixie,9 CITY HALL,Chief Financial Officer,"",REP,Jimmy Patronis,464,156,180,128
-Dixie,10 COUNTY BLDG 292 Ave,Chief Financial Officer,"",REP,Jimmy Patronis,310,83,144,83
-Dixie,11 JENA COM. CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,254,51,160,43
-Dixie,1 1ST DIST. COM. BLDG,Chief Financial Officer,"",DEM,Adam Hattersley,192,31,60,101
-Dixie,12 HORSESHOE BCH CITY HALL,Chief Financial Officer,"",DEM,Adam Hattersley,24,,,
-Dixie,2 MASONIC LODGE,Chief Financial Officer,"",DEM,Adam Hattersley,34,,,
-Dixie,4 Old Town CTR,Chief Financial Officer,"",DEM,Adam Hattersley,233,43,68,122
-Dixie,5 SUWANNEE COM. CENTER,Chief Financial Officer,"",DEM,Adam Hattersley,17,,,
-Dixie,6 COM. BUILDING HWY 55A,Chief Financial Officer,"",DEM,Adam Hattersley,53,,,
-Dixie,7 CO BLDG WARD AVE,Chief Financial Officer,"",DEM,Adam Hattersley,21,,,
-Dixie,9 CITY HALL,Chief Financial Officer,"",DEM,Adam Hattersley,195,49,74,72
-Dixie,10 COUNTY BLDG 292 Ave,Chief Financial Officer,"",DEM,Adam Hattersley,20,,,
-Dixie,11 JENA COM. CENTER,Chief Financial Officer,"",DEM,Adam Hattersley,37,,,
-Dixie,1 1ST DIST. COM. BLDG,Commissioner of Agriculture,"",REP,Wilton Simpson,1308,305,636,367
-Dixie,12 HORSESHOE BCH CITY HALL,Commissioner of Agriculture,"",REP,Wilton Simpson,209,41,112,56
-Dixie,2 MASONIC LODGE,Commissioner of Agriculture,"",REP,Wilton Simpson,223,89,86,48
-Dixie,4 Old Town CTR,Commissioner of Agriculture,"",REP,Wilton Simpson,1469,,,
-Dixie,5 SUWANNEE COM. CENTER,Commissioner of Agriculture,"",REP,Wilton Simpson,260,47,158,55
-Dixie,6 COM. BUILDING HWY 55A,Commissioner of Agriculture,"",REP,Wilton Simpson,541,,,
-Dixie,7 CO BLDG WARD AVE,Commissioner of Agriculture,"",REP,Wilton Simpson,190,41,97,52
-Dixie,9 CITY HALL,Commissioner of Agriculture,"",REP,Wilton Simpson,489,162,197,130
-Dixie,10 COUNTY BLDG 292 Ave,Commissioner of Agriculture,"",REP,Wilton Simpson,318,88,147,83
-Dixie,11 JENA COM. CENTER,Commissioner of Agriculture,"",REP,Wilton Simpson,263,53,167,43
-Dixie,1 1ST DIST. COM. BLDG,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,193,34,58,101
-Dixie,12 HORSESHOE BCH CITY HALL,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,26,,,
-Dixie,2 MASONIC LODGE,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,39,,,
-Dixie,4 Old Town CTR,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,222,41,65,116
-Dixie,5 SUWANNEE COM. CENTER,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,15,,,
-Dixie,6 COM. BUILDING HWY 55A,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,53,,,
-Dixie,7 CO BLDG WARD AVE,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23,,,
-Dixie,9 CITY HALL,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,190,47,72,71
-Dixie,10 COUNTY BLDG 292 Ave,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21,,,
-Dixie,11 JENA COM. CENTER,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,32,,,
-Dixie,1 1ST DIST. COM. BLDG,State Senate,3,REP,Corey Simon,1298,308,632,358
-Dixie,12 HORSESHOE BCH CITY HALL,State Senate,3,REP,Corey Simon,203,41,106,56
-Dixie,2 MASONIC LODGE,State Senate,3,REP,Corey Simon,228,89,88,51
-Dixie,4 Old Town CTR,State Senate,3,REP,Corey Simon,1448,,,
-Dixie,5 SUWANNEE COM. CENTER,State Senate,3,REP,Corey Simon,255,47,155,53
-Dixie,6 COM. BUILDING HWY 55A,State Senate,3,REP,Corey Simon,538,,,
-Dixie,7 CO BLDG WARD AVE,State Senate,3,REP,Corey Simon,187,41,94,52
-Dixie,9 CITY HALL,State Senate,3,REP,Corey Simon,492,167,197,128
-Dixie,10 COUNTY BLDG 292 Ave,State Senate,3,REP,Corey Simon,310,81,144,85
-Dixie,11 JENA COM. CENTER,State Senate,3,REP,Corey Simon,265,52,170,43
-Dixie,1 1ST DIST. COM. BLDG,State Senate,3,DEM,Loranne Ausley,200,33,62,105
-Dixie,12 HORSESHOE BCH CITY HALL,State Senate,3,DEM,Loranne Ausley,28,,,
-Dixie,2 MASONIC LODGE,State Senate,3,DEM,Loranne Ausley,32,,,
-Dixie,4 Old Town CTR,State Senate,3,DEM,Loranne Ausley,238,49,64,125
-Dixie,5 SUWANNEE COM. CENTER,State Senate,3,DEM,Loranne Ausley,17,,,
-Dixie,6 COM. BUILDING HWY 55A,State Senate,3,DEM,Loranne Ausley,47,,,
-Dixie,7 CO BLDG WARD AVE,State Senate,3,DEM,Loranne Ausley,23,,,
-Dixie,9 CITY HALL,State Senate,3,DEM,Loranne Ausley,182,42,68,72
-Dixie,10 COUNTY BLDG 292 Ave,State Senate,3,DEM,Loranne Ausley,25,,,
-Dixie,11 JENA COM. CENTER,State Senate,3,DEM,Loranne Ausley,33,,,
-Dixie,1 1ST DIST. COM. BLDG,County Commissioner,2,REP,"Daniel Wood, III",1103,266,519,318
-Dixie,12 HORSESHOE BCH CITY HALL,County Commissioner,2,REP,"Daniel Wood, III",172,35,82,55
-Dixie,2 MASONIC LODGE,County Commissioner,2,REP,"Daniel Wood, III",167,61,59,47
-Dixie,4 Old Town CTR,County Commissioner,2,REP,"Daniel Wood, III",1061,,,
-Dixie,5 SUWANNEE COM. CENTER,County Commissioner,2,REP,"Daniel Wood, III",184,32,116,36
-Dixie,6 COM. BUILDING HWY 55A,County Commissioner,2,REP,"Daniel Wood, III",332,,,
-Dixie,7 CO BLDG WARD AVE,County Commissioner,2,REP,"Daniel Wood, III",101,,,
-Dixie,9 CITY HALL,County Commissioner,2,REP,"Daniel Wood, III",345,106,141,98
-Dixie,10 COUNTY BLDG 292 Ave,County Commissioner,2,REP,"Daniel Wood, III",197,53,91,53
-Dixie,11 JENA COM. CENTER,County Commissioner,2,REP,"Daniel Wood, III",220,43,141,36
-Dixie,1 1ST DIST. COM. BLDG,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",201,31,66,104
-Dixie,12 HORSESHOE BCH CITY HALL,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",24,,,
-Dixie,2 MASONIC LODGE,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",35,,,
-Dixie,4 Old Town CTR,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",236,,,
-Dixie,5 SUWANNEE COM. CENTER,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",13,,,
-Dixie,6 COM. BUILDING HWY 55A,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",62,,,
-Dixie,7 CO BLDG WARD AVE,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",23,,,
-Dixie,9 CITY HALL,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",202,49,79,74
-Dixie,10 COUNTY BLDG 292 Ave,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",23,,,
-Dixie,11 JENA COM. CENTER,County Commissioner,2,DEM,"Jaffry ""Big Jeff"" Crawl",33,,,
-Dixie,1 1ST DIST. COM. BLDG,County Commissioner,2,"",Write-in,179,40,94,45
-Dixie,12 HORSESHOE BCH CITY HALL,County Commissioner,2,"",Write-in,38,,,
-Dixie,2 MASONIC LODGE,County Commissioner,2,"",Write-in,55,,,
-Dixie,4 Old Town CTR,County Commissioner,2,"",Write-in,341,84,180,77
-Dixie,5 SUWANNEE COM. CENTER,County Commissioner,2,"",Write-in,66,,,
-Dixie,6 COM. BUILDING HWY 55A,County Commissioner,2,"",Write-in,166,41,78,47
-Dixie,7 CO BLDG WARD AVE,County Commissioner,2,"",Write-in,83,,,
-Dixie,9 CITY HALL,County Commissioner,2,"",Write-in,126,,,
-Dixie,10 COUNTY BLDG 292 Ave,County Commissioner,2,"",Write-in,105,,,
-Dixie,11 JENA COM. CENTER,County Commissioner,2,"",Write-in,33,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court C. Canady,"","",Yes,870,188,401,281
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court C. Canady,"","",Yes,139,32,67,40
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court C. Canady,"","",Yes,112,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court C. Canady,"","",Yes,975,,,
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court C. Canady,"","",Yes,170,31,99,40
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court C. Canady,"","",Yes,307,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court C. Canady,"","",Yes,101,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court C. Canady,"","",Yes,378,106,153,119
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court C. Canady,"","",Yes,169,41,82,46
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court C. Canady,"","",Yes,151,32,85,34
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court C. Canady,"","",No,510,116,249,145
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court C. Canady,"","",No,72,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court C. Canady,"","",No,121,37,53,31
-Dixie,4 Old Town CTR,Justice of the Supreme Court C. Canady,"","",No,563,133,272,158
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court C. Canady,"","",No,84,,,
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court C. Canady,"","",No,240,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court C. Canady,"","",No,93,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court C. Canady,"","",No,237,86,88,63
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court C. Canady,"","",No,133,40,60,33
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court C. Canady,"","",No,116,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court J. Couriel,"","",Yes,910,202,416,292
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court J. Couriel,"","",Yes,142,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court J. Couriel,"","",Yes,126,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court J. Couriel,"","",Yes,1049,,,
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court J. Couriel,"","",Yes,173,33,103,37
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court J. Couriel,"","",Yes,365,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court J. Couriel,"","",Yes,122,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court J. Couriel,"","",Yes,405,114,165,126
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court J. Couriel,"","",Yes,218,54,105,59
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court J. Couriel,"","",Yes,167,33,104,30
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court J. Couriel,"","",No,455,101,222,132
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court J. Couriel,"","",No,67,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court J. Couriel,"","",No,107,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court J. Couriel,"","",No,482,105,226,151
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court J. Couriel,"","",No,82,,,
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court J. Couriel,"","",No,179,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court J. Couriel,"","",No,74,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court J. Couriel,"","",No,207,75,74,58
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court J. Couriel,"","",No,85,,,
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court J. Couriel,"","",No,98,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court J. Grosshans,"","",Yes,914,200,418,296
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court J. Grosshans,"","",Yes,137,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court J. Grosshans,"","",Yes,136,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court J. Grosshans,"","",Yes,1037,,,
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court J. Grosshans,"","",Yes,177,33,107,37
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court J. Grosshans,"","",Yes,365,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court J. Grosshans,"","",Yes,120,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court J. Grosshans,"","",Yes,407,118,161,128
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court J. Grosshans,"","",Yes,218,56,103,59
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court J. Grosshans,"","",Yes,158,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court J. Grosshans,"","",No,443,102,217,124
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court J. Grosshans,"","",No,70,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court J. Grosshans,"","",No,99,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court J. Grosshans,"","",No,487,109,237,141
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court J. Grosshans,"","",No,74,,,
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court J. Grosshans,"","",No,180,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court J. Grosshans,"","",No,76,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court J. Grosshans,"","",No,203,71,77,55
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court J. Grosshans,"","",No,87,,,
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court J. Grosshans,"","",No,108,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court J. Labarga,"","",Yes,739,160,333,246
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court J. Labarga,"","",Yes,108,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court J. Labarga,"","",Yes,93,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court J. Labarga,"","",Yes,849,,,
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court J. Labarga,"","",Yes,134,,,
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court J. Labarga,"","",Yes,237,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court J. Labarga,"","",Yes,85,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court J. Labarga,"","",Yes,336,92,130,114
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court J. Labarga,"","",Yes,130,33,59,38
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court J. Labarga,"","",Yes,132,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court J. Labarga,"","",No,623,143,306,174
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court J. Labarga,"","",No,102,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court J. Labarga,"","",No,140,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court J. Labarga,"","",No,677,,,
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court J. Labarga,"","",No,118,,,
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court J. Labarga,"","",No,303,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court J. Labarga,"","",No,111,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court J. Labarga,"","",No,272,98,107,67
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court J. Labarga,"","",No,168,46,80,42
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court J. Labarga,"","",No,135,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court R. Polston,"","",Yes,803,169,367,267
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court R. Polston,"","",Yes,113,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court R. Polston,"","",Yes,115,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court R. Polston,"","",Yes,875,,,
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court R. Polston,"","",Yes,166,31,102,33
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court R. Polston,"","",Yes,306,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court R. Polston,"","",Yes,95,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court R. Polston,"","",Yes,366,99,158,109
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court R. Polston,"","",Yes,160,38,72,50
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court R. Polston,"","",Yes,152,,,
-Dixie,1 1ST DIST. COM. BLDG,Justice of the Supreme Court R. Polston,"","",No,537,132,253,152
-Dixie,12 HORSESHOE BCH CITY HALL,Justice of the Supreme Court R. Polston,"","",No,89,,,
-Dixie,2 MASONIC LODGE,Justice of the Supreme Court R. Polston,"","",No,115,,,
-Dixie,4 Old Town CTR,Justice of the Supreme Court R. Polston,"","",No,609,141,281,187
-Dixie,5 SUWANNEE COM. CENTER,Justice of the Supreme Court R. Polston,"","",No,84,,,
-Dixie,6 COM. BUILDING HWY 55A,Justice of the Supreme Court R. Polston,"","",No,233,,,
-Dixie,7 CO BLDG WARD AVE,Justice of the Supreme Court R. Polston,"","",No,94,,,
-Dixie,9 CITY HALL,Justice of the Supreme Court R. Polston,"","",No,241,91,77,73
-Dixie,10 COUNTY BLDG 292 Ave,Justice of the Supreme Court R. Polston,"","",No,134,,,
-Dixie,11 JENA COM. CENTER,Justice of the Supreme Court R. Polston,"","",No,107,,,
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal R. Bilbrey,"","",Yes,856,180,399,277
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal R. Bilbrey,"","",Yes,131,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal R. Bilbrey,"","",Yes,136,55,50,31
-Dixie,4 Old Town CTR,First District Court of Appeal R. Bilbrey,"","",Yes,962,,,
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal R. Bilbrey,"","",Yes,160,33,94,33
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal R. Bilbrey,"","",Yes,318,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal R. Bilbrey,"","",Yes,108,,,
-Dixie,9 CITY HALL,First District Court of Appeal R. Bilbrey,"","",Yes,388,113,155,120
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal R. Bilbrey,"","",Yes,196,48,89,59
-Dixie,11 JENA COM. CENTER,First District Court of Appeal R. Bilbrey,"","",Yes,160,32,93,35
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal R. Bilbrey,"","",No,474,117,220,137
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal R. Bilbrey,"","",No,71,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal R. Bilbrey,"","",No,94,,,
-Dixie,4 Old Town CTR,First District Court of Appeal R. Bilbrey,"","",No,510,120,240,150
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal R. Bilbrey,"","",No,85,,,
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal R. Bilbrey,"","",No,216,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal R. Bilbrey,"","",No,80,,,
-Dixie,9 CITY HALL,First District Court of Appeal R. Bilbrey,"","",No,211,74,76,61
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal R. Bilbrey,"","",No,94,,,
-Dixie,11 JENA COM. CENTER,First District Court of Appeal R. Bilbrey,"","",No,98,,,
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal S. Kelsey,"","",Yes,872,180,405,287
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal S. Kelsey,"","",Yes,131,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal S. Kelsey,"","",Yes,136,,,
-Dixie,4 Old Town CTR,First District Court of Appeal S. Kelsey,"","",Yes,971,,,
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal S. Kelsey,"","",Yes,159,32,94,33
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal S. Kelsey,"","",Yes,336,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal S. Kelsey,"","",Yes,109,,,
-Dixie,9 CITY HALL,First District Court of Appeal S. Kelsey,"","",Yes,406,117,158,131
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal S. Kelsey,"","",Yes,195,50,88,57
-Dixie,11 JENA COM. CENTER,First District Court of Appeal S. Kelsey,"","",Yes,160,32,93,35
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal S. Kelsey,"","",No,454,118,207,129
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal S. Kelsey,"","",No,67,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal S. Kelsey,"","",No,94,,,
-Dixie,4 Old Town CTR,First District Court of Appeal S. Kelsey,"","",No,499,118,229,152
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal S. Kelsey,"","",No,88,,,
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal S. Kelsey,"","",No,197,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal S. Kelsey,"","",No,80,,,
-Dixie,9 CITY HALL,First District Court of Appeal S. Kelsey,"","",No,198,73,73,52
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal S. Kelsey,"","",No,100,,,
-Dixie,11 JENA COM. CENTER,First District Court of Appeal S. Kelsey,"","",No,99,,,
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal B. Long,"","",Yes,905,194,423,288
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal B. Long,"","",Yes,135,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal B. Long,"","",Yes,140,,,
-Dixie,4 Old Town CTR,First District Court of Appeal B. Long,"","",Yes,1011,,,
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal B. Long,"","",Yes,166,34,98,34
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal B. Long,"","",Yes,353,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal B. Long,"","",Yes,104,,,
-Dixie,9 CITY HALL,First District Court of Appeal B. Long,"","",Yes,395,111,159,125
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal B. Long,"","",Yes,204,52,93,59
-Dixie,11 JENA COM. CENTER,First District Court of Appeal B. Long,"","",Yes,174,35,102,37
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal B. Long,"","",No,427,105,195,127
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal B. Long,"","",No,67,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal B. Long,"","",No,91,,,
-Dixie,4 Old Town CTR,First District Court of Appeal B. Long,"","",No,464,107,215,142
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal B. Long,"","",No,78,,,
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal B. Long,"","",No,178,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal B. Long,"","",No,83,,,
-Dixie,9 CITY HALL,First District Court of Appeal B. Long,"","",No,208,77,74,57
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal B. Long,"","",No,89,,,
-Dixie,11 JENA COM. CENTER,First District Court of Appeal B. Long,"","",No,86,,,
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal L. Rowe,"","",Yes,820,172,378,270
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal L. Rowe,"","",Yes,116,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal L. Rowe,"","",Yes,124,45,49,30
-Dixie,4 Old Town CTR,First District Court of Appeal L. Rowe,"","",Yes,864,,,
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal L. Rowe,"","",Yes,152,,,
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal L. Rowe,"","",Yes,291,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal L. Rowe,"","",Yes,89,,,
-Dixie,9 CITY HALL,First District Court of Appeal L. Rowe,"","",Yes,375,102,148,125
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal L. Rowe,"","",Yes,160,36,75,49
-Dixie,11 JENA COM. CENTER,First District Court of Appeal L. Rowe,"","",Yes,153,,,
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal L. Rowe,"","",No,509,126,238,145
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal L. Rowe,"","",No,84,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal L. Rowe,"","",No,107,,,
-Dixie,4 Old Town CTR,First District Court of Appeal L. Rowe,"","",No,610,145,284,181
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal L. Rowe,"","",No,93,,,
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal L. Rowe,"","",No,239,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal L. Rowe,"","",No,98,,,
-Dixie,9 CITY HALL,First District Court of Appeal L. Rowe,"","",No,230,89,85,56
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal L. Rowe,"","",No,132,42,59,31
-Dixie,11 JENA COM. CENTER,First District Court of Appeal L. Rowe,"","",No,105,,,
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal B. Winokur,"","",Yes,834,188,383,263
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal B. Winokur,"","",Yes,127,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal B. Winokur,"","",Yes,129,,,
-Dixie,4 Old Town CTR,First District Court of Appeal B. Winokur,"","",Yes,940,,,
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal B. Winokur,"","",Yes,158,32,93,33
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal B. Winokur,"","",Yes,313,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal B. Winokur,"","",Yes,107,,,
-Dixie,9 CITY HALL,First District Court of Appeal B. Winokur,"","",Yes,372,109,149,114
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal B. Winokur,"","",Yes,202,48,93,61
-Dixie,11 JENA COM. CENTER,First District Court of Appeal B. Winokur,"","",Yes,153,,,
-Dixie,1 1ST DIST. COM. BLDG,First District Court of Appeal B. Winokur,"","",No,477,105,225,147
-Dixie,12 HORSESHOE BCH CITY HALL,First District Court of Appeal B. Winokur,"","",No,74,,,
-Dixie,2 MASONIC LODGE,First District Court of Appeal B. Winokur,"","",No,101,,,
-Dixie,4 Old Town CTR,First District Court of Appeal B. Winokur,"","",No,523,118,243,162
-Dixie,5 SUWANNEE COM. CENTER,First District Court of Appeal B. Winokur,"","",No,84,,,
-Dixie,6 COM. BUILDING HWY 55A,First District Court of Appeal B. Winokur,"","",No,210,,,
-Dixie,7 CO BLDG WARD AVE,First District Court of Appeal B. Winokur,"","",No,75,,,
-Dixie,9 CITY HALL,First District Court of Appeal B. Winokur,"","",No,220,75,77,68
-Dixie,10 COUNTY BLDG 292 Ave,First District Court of Appeal B. Winokur,"","",No,88,,,
-Dixie,11 JENA COM. CENTER,First District Court of Appeal B. Winokur,"","",No,105,,,
-Dixie,1 1ST DIST. COM. BLDG,Constitutional Amendment 1,"","",Yes,802,185,363,254
-Dixie,12 HORSESHOE BCH CITY HALL,Constitutional Amendment 1,"","",Yes,125,,,
-Dixie,2 MASONIC LODGE,Constitutional Amendment 1,"","",Yes,123,49,44,30
-Dixie,4 Old Town CTR,Constitutional Amendment 1,"","",Yes,825,,,
-Dixie,5 SUWANNEE COM. CENTER,Constitutional Amendment 1,"","",Yes,176,32,107,37
-Dixie,6 COM. BUILDING HWY 55A,Constitutional Amendment 1,"","",Yes,260,55,117,88
-Dixie,7 CO BLDG WARD AVE,Constitutional Amendment 1,"","",Yes,96,,,
-Dixie,9 CITY HALL,Constitutional Amendment 1,"","",Yes,341,105,140,96
-Dixie,10 COUNTY BLDG 292 Ave,Constitutional Amendment 1,"","",Yes,153,41,70,42
-Dixie,11 JENA COM. CENTER,Constitutional Amendment 1,"","",Yes,139,,,
-Dixie,1 1ST DIST. COM. BLDG,Constitutional Amendment 1,"","",No,598,133,277,188
-Dixie,12 HORSESHOE BCH CITY HALL,Constitutional Amendment 1,"","",No,93,,,
-Dixie,2 MASONIC LODGE,Constitutional Amendment 1,"","",No,121,36,54,31
-Dixie,4 Old Town CTR,Constitutional Amendment 1,"","",No,741,,,
-Dixie,5 SUWANNEE COM. CENTER,Constitutional Amendment 1,"","",No,86,,,
-Dixie,6 COM. BUILDING HWY 55A,Constitutional Amendment 1,"","",No,288,,,
-Dixie,7 CO BLDG WARD AVE,Constitutional Amendment 1,"","",No,101,,,
-Dixie,9 CITY HALL,Constitutional Amendment 1,"","",No,278,88,98,92
-Dixie,10 COUNTY BLDG 292 Ave,Constitutional Amendment 1,"","",No,161,48,72,41
-Dixie,11 JENA COM. CENTER,Constitutional Amendment 1,"","",No,131,,,
-Dixie,1 1ST DIST. COM. BLDG,Constitutional Amendment 2,"","",Yes,756,184,328,244
-Dixie,12 HORSESHOE BCH CITY HALL,Constitutional Amendment 2,"","",Yes,123,,,
-Dixie,2 MASONIC LODGE,Constitutional Amendment 2,"","",Yes,131,45,50,36
-Dixie,4 Old Town CTR,Constitutional Amendment 2,"","",Yes,885,,,
-Dixie,5 SUWANNEE COM. CENTER,Constitutional Amendment 2,"","",Yes,166,34,92,40
-Dixie,6 COM. BUILDING HWY 55A,Constitutional Amendment 2,"","",Yes,288,,,
-Dixie,7 CO BLDG WARD AVE,Constitutional Amendment 2,"","",Yes,94,,,
-Dixie,9 CITY HALL,Constitutional Amendment 2,"","",Yes,350,104,130,116
-Dixie,10 COUNTY BLDG 292 Ave,Constitutional Amendment 2,"","",Yes,161,38,73,50
-Dixie,11 JENA COM. CENTER,Constitutional Amendment 2,"","",Yes,126,,,
-Dixie,1 1ST DIST. COM. BLDG,Constitutional Amendment 2,"","",No,644,136,314,194
-Dixie,12 HORSESHOE BCH CITY HALL,Constitutional Amendment 2,"","",No,90,,,
-Dixie,2 MASONIC LODGE,Constitutional Amendment 2,"","",No,108,,,
-Dixie,4 Old Town CTR,Constitutional Amendment 2,"","",No,676,,,
-Dixie,5 SUWANNEE COM. CENTER,Constitutional Amendment 2,"","",No,91,,,
-Dixie,6 COM. BUILDING HWY 55A,Constitutional Amendment 2,"","",No,247,,,
-Dixie,7 CO BLDG WARD AVE,Constitutional Amendment 2,"","",No,105,,,
-Dixie,9 CITY HALL,Constitutional Amendment 2,"","",No,276,91,115,70
-Dixie,10 COUNTY BLDG 292 Ave,Constitutional Amendment 2,"","",No,152,52,66,34
-Dixie,11 JENA COM. CENTER,Constitutional Amendment 2,"","",No,141,,,
-Dixie,1 1ST DIST. COM. BLDG,Constitutional Amendment 3,"","",Yes,777,181,388,208
-Dixie,12 HORSESHOE BCH CITY HALL,Constitutional Amendment 3,"","",Yes,109,,,
-Dixie,2 MASONIC LODGE,Constitutional Amendment 3,"","",Yes,164,59,60,45
-Dixie,4 Old Town CTR,Constitutional Amendment 3,"","",Yes,904,,,
-Dixie,5 SUWANNEE COM. CENTER,Constitutional Amendment 3,"","",Yes,140,,,
-Dixie,6 COM. BUILDING HWY 55A,Constitutional Amendment 3,"","",Yes,303,66,150,87
-Dixie,7 CO BLDG WARD AVE,Constitutional Amendment 3,"","",Yes,106,,,
-Dixie,9 CITY HALL,Constitutional Amendment 3,"","",Yes,365,112,148,105
-Dixie,10 COUNTY BLDG 292 Ave,Constitutional Amendment 3,"","",Yes,165,44,79,42
-Dixie,11 JENA COM. CENTER,Constitutional Amendment 3,"","",Yes,170,,,
-Dixie,1 1ST DIST. COM. BLDG,Constitutional Amendment 3,"","",No,674,151,277,246
-Dixie,12 HORSESHOE BCH CITY HALL,Constitutional Amendment 3,"","",No,115,,,
-Dixie,2 MASONIC LODGE,Constitutional Amendment 3,"","",No,89,,,
-Dixie,4 Old Town CTR,Constitutional Amendment 3,"","",No,721,,,
-Dixie,5 SUWANNEE COM. CENTER,Constitutional Amendment 3,"","",No,128,,,
-Dixie,6 COM. BUILDING HWY 55A,Constitutional Amendment 3,"","",No,261,,,
-Dixie,7 CO BLDG WARD AVE,Constitutional Amendment 3,"","",No,96,,,
-Dixie,9 CITY HALL,Constitutional Amendment 3,"","",No,281,91,101,89
-Dixie,10 COUNTY BLDG 292 Ave,Constitutional Amendment 3,"","",No,160,48,66,46
-Dixie,11 JENA COM. CENTER,Constitutional Amendment 3,"","",No,112,,,
+county,precinct,office,district,party,candidate,votes
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"",REP,Marco Rubio,1303
+Dixie,MASONIC LODGE,U.S. Senate,"",REP,Marco Rubio,226
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"",REP,Marco Rubio,1434
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"",REP,Marco Rubio,261
+Dixie,55A COM. BUILDING,U.S. Senate,"",REP,Marco Rubio,539
+Dixie,WARD AVE,U.S. Senate,"",REP,Marco Rubio,191
+Dixie,CITY HALL,U.S. Senate,"",REP,Marco Rubio,488
+Dixie,COUNTY BLDG,U.S. Senate,"",REP,Marco Rubio,313
+Dixie,JENA COM. CENTER,U.S. Senate,"",REP,Marco Rubio,259
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"",REP,Marco Rubio,211
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"",DEM,Val Demings,190
+Dixie,MASONIC LODGE,U.S. Senate,"",DEM,Val Demings,39
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"",DEM,Val Demings,240
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"",DEM,Val Demings,14
+Dixie,55A COM. BUILDING,U.S. Senate,"",DEM,Val Demings,50
+Dixie,WARD AVE,U.S. Senate,"",DEM,Val Demings,21
+Dixie,CITY HALL,U.S. Senate,"",DEM,Val Demings,187
+Dixie,COUNTY BLDG,U.S. Senate,"",DEM,Val Demings,22
+Dixie,JENA COM. CENTER,U.S. Senate,"",DEM,Val Demings,38
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"",DEM,Val Demings,25
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"",LPF,Dennis Misigoy,6
+Dixie,MASONIC LODGE,U.S. Senate,"",LPF,Dennis Misigoy,0
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"",LPF,Dennis Misigoy,8
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"",LPF,Dennis Misigoy,0
+Dixie,55A COM. BUILDING,U.S. Senate,"",LPF,Dennis Misigoy,1
+Dixie,WARD AVE,U.S. Senate,"",LPF,Dennis Misigoy,0
+Dixie,CITY HALL,U.S. Senate,"",LPF,Dennis Misigoy,4
+Dixie,COUNTY BLDG,U.S. Senate,"",LPF,Dennis Misigoy,0
+Dixie,JENA COM. CENTER,U.S. Senate,"",LPF,Dennis Misigoy,2
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"",LPF,Dennis Misigoy,0
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"",NPA,Steven B. Grant,12
+Dixie,MASONIC LODGE,U.S. Senate,"",NPA,Steven B. Grant,1
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"",NPA,Steven B. Grant,15
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"",NPA,Steven B. Grant,3
+Dixie,55A COM. BUILDING,U.S. Senate,"",NPA,Steven B. Grant,5
+Dixie,WARD AVE,U.S. Senate,"",NPA,Steven B. Grant,3
+Dixie,CITY HALL,U.S. Senate,"",NPA,Steven B. Grant,9
+Dixie,COUNTY BLDG,U.S. Senate,"",NPA,Steven B. Grant,2
+Dixie,JENA COM. CENTER,U.S. Senate,"",NPA,Steven B. Grant,1
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"",NPA,Steven B. Grant,1
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Dixie,MASONIC LODGE,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"",NPA,Tuan TQ Nguyen,5
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Dixie,55A COM. BUILDING,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Dixie,WARD AVE,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Dixie,CITY HALL,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Dixie,COUNTY BLDG,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Dixie,JENA COM. CENTER,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"","",WriteinVotes,2
+Dixie,MASONIC LODGE,U.S. Senate,"","",WriteinVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"","",WriteinVotes,3
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"","",WriteinVotes,0
+Dixie,55A COM. BUILDING,U.S. Senate,"","",WriteinVotes,1
+Dixie,WARD AVE,U.S. Senate,"","",WriteinVotes,0
+Dixie,CITY HALL,U.S. Senate,"","",WriteinVotes,3
+Dixie,COUNTY BLDG,U.S. Senate,"","",WriteinVotes,0
+Dixie,JENA COM. CENTER,U.S. Senate,"","",WriteinVotes,0
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"","",WriteinVotes,1
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"","",OverVotes,1
+Dixie,MASONIC LODGE,U.S. Senate,"","",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"","",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"","",OverVotes,0
+Dixie,55A COM. BUILDING,U.S. Senate,"","",OverVotes,0
+Dixie,WARD AVE,U.S. Senate,"","",OverVotes,0
+Dixie,CITY HALL,U.S. Senate,"","",OverVotes,0
+Dixie,COUNTY BLDG,U.S. Senate,"","",OverVotes,0
+Dixie,JENA COM. CENTER,U.S. Senate,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,U.S. Senate,"","",UnderVotes,7
+Dixie,MASONIC LODGE,U.S. Senate,"","",UnderVotes,1
+Dixie,SCHOOL BD MTG. FACILITY,U.S. Senate,"","",UnderVotes,7
+Dixie,SUWANNEE COM. CENTER,U.S. Senate,"","",UnderVotes,1
+Dixie,55A COM. BUILDING,U.S. Senate,"","",UnderVotes,7
+Dixie,WARD AVE,U.S. Senate,"","",UnderVotes,4
+Dixie,CITY HALL,U.S. Senate,"","",UnderVotes,10
+Dixie,COUNTY BLDG,U.S. Senate,"","",UnderVotes,6
+Dixie,JENA COM. CENTER,U.S. Senate,"","",UnderVotes,2
+Dixie,HORSESHOE BCH COM.CTR,U.S. Senate,"","",UnderVotes,2
+Dixie,FIRST DIST.COM. BLDG,U.S. House,3,REP,Kat Cammack,1316
+Dixie,MASONIC LODGE,U.S. House,3,REP,Kat Cammack,224
+Dixie,SCHOOL BD MTG. FACILITY,U.S. House,3,REP,Kat Cammack,1450
+Dixie,SUWANNEE COM. CENTER,U.S. House,3,REP,Kat Cammack,260
+Dixie,55A COM. BUILDING,U.S. House,3,REP,Kat Cammack,543
+Dixie,WARD AVE,U.S. House,3,REP,Kat Cammack,192
+Dixie,CITY HALL,U.S. House,3,REP,Kat Cammack,483
+Dixie,COUNTY BLDG,U.S. House,3,REP,Kat Cammack,316
+Dixie,JENA COM. CENTER,U.S. House,3,REP,Kat Cammack,263
+Dixie,HORSESHOE BCH COM.CTR,U.S. House,3,REP,Kat Cammack,211
+Dixie,FIRST DIST.COM. BLDG,U.S. House,3,DEM,Danielle Hawk,182
+Dixie,MASONIC LODGE,U.S. House,3,DEM,Danielle Hawk,35
+Dixie,SCHOOL BD MTG. FACILITY,U.S. House,3,DEM,Danielle Hawk,222
+Dixie,SUWANNEE COM. CENTER,U.S. House,3,DEM,Danielle Hawk,18
+Dixie,55A COM. BUILDING,U.S. House,3,DEM,Danielle Hawk,47
+Dixie,WARD AVE,U.S. House,3,DEM,Danielle Hawk,22
+Dixie,CITY HALL,U.S. House,3,DEM,Danielle Hawk,185
+Dixie,COUNTY BLDG,U.S. House,3,DEM,Danielle Hawk,23
+Dixie,JENA COM. CENTER,U.S. House,3,DEM,Danielle Hawk,33
+Dixie,HORSESHOE BCH COM.CTR,U.S. House,3,DEM,Danielle Hawk,26
+Dixie,FIRST DIST.COM. BLDG,U.S. House,3,NPA,Linda S. Brooks,21
+Dixie,MASONIC LODGE,U.S. House,3,NPA,Linda S. Brooks,5
+Dixie,SCHOOL BD MTG. FACILITY,U.S. House,3,NPA,Linda S. Brooks,30
+Dixie,SUWANNEE COM. CENTER,U.S. House,3,NPA,Linda S. Brooks,0
+Dixie,55A COM. BUILDING,U.S. House,3,NPA,Linda S. Brooks,8
+Dixie,WARD AVE,U.S. House,3,NPA,Linda S. Brooks,1
+Dixie,CITY HALL,U.S. House,3,NPA,Linda S. Brooks,14
+Dixie,COUNTY BLDG,U.S. House,3,NPA,Linda S. Brooks,2
+Dixie,JENA COM. CENTER,U.S. House,3,NPA,Linda S. Brooks,3
+Dixie,HORSESHOE BCH COM.CTR,U.S. House,3,NPA,Linda S. Brooks,1
+Dixie,FIRST DIST.COM. BLDG,U.S. House,3,"",OverVotes,0
+Dixie,MASONIC LODGE,U.S. House,3,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,U.S. House,3,"",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,U.S. House,3,"",OverVotes,0
+Dixie,55A COM. BUILDING,U.S. House,3,"",OverVotes,0
+Dixie,WARD AVE,U.S. House,3,"",OverVotes,0
+Dixie,CITY HALL,U.S. House,3,"",OverVotes,0
+Dixie,COUNTY BLDG,U.S. House,3,"",OverVotes,0
+Dixie,JENA COM. CENTER,U.S. House,3,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,U.S. House,3,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,U.S. House,3,"",UnderVotes,4
+Dixie,MASONIC LODGE,U.S. House,3,"",UnderVotes,3
+Dixie,SCHOOL BD MTG. FACILITY,U.S. House,3,"",UnderVotes,11
+Dixie,SUWANNEE COM. CENTER,U.S. House,3,"",UnderVotes,1
+Dixie,55A COM. BUILDING,U.S. House,3,"",UnderVotes,5
+Dixie,WARD AVE,U.S. House,3,"",UnderVotes,5
+Dixie,CITY HALL,U.S. House,3,"",UnderVotes,20
+Dixie,COUNTY BLDG,U.S. House,3,"",UnderVotes,3
+Dixie,JENA COM. CENTER,U.S. House,3,"",UnderVotes,3
+Dixie,HORSESHOE BCH COM.CTR,U.S. House,3,"",UnderVotes,2
+Dixie,FIRST DIST.COM. BLDG,Governor,"",REP,DeSantis / Nuñez,1343
+Dixie,MASONIC LODGE,Governor,"",REP,DeSantis / Nuñez,229
+Dixie,SCHOOL BD MTG. FACILITY,Governor,"",REP,DeSantis / Nuñez,1489
+Dixie,SUWANNEE COM. CENTER,Governor,"",REP,DeSantis / Nuñez,260
+Dixie,55A COM. BUILDING,Governor,"",REP,DeSantis / Nuñez,556
+Dixie,WARD AVE,Governor,"",REP,DeSantis / Nuñez,201
+Dixie,CITY HALL,Governor,"",REP,DeSantis / Nuñez,512
+Dixie,COUNTY BLDG,Governor,"",REP,DeSantis / Nuñez,323
+Dixie,JENA COM. CENTER,Governor,"",REP,DeSantis / Nuñez,267
+Dixie,HORSESHOE BCH COM.CTR,Governor,"",REP,DeSantis / Nuñez,214
+Dixie,FIRST DIST.COM. BLDG,Governor,"",DEM,Crist / Hernandez,167
+Dixie,MASONIC LODGE,Governor,"",DEM,Crist / Hernandez,34
+Dixie,SCHOOL BD MTG. FACILITY,Governor,"",DEM,Crist / Hernandez,209
+Dixie,SUWANNEE COM. CENTER,Governor,"",DEM,Crist / Hernandez,16
+Dixie,55A COM. BUILDING,Governor,"",DEM,Crist / Hernandez,41
+Dixie,WARD AVE,Governor,"",DEM,Crist / Hernandez,16
+Dixie,CITY HALL,Governor,"",DEM,Crist / Hernandez,177
+Dixie,COUNTY BLDG,Governor,"",DEM,Crist / Hernandez,20
+Dixie,JENA COM. CENTER,Governor,"",DEM,Crist / Hernandez,31
+Dixie,HORSESHOE BCH COM.CTR,Governor,"",DEM,Crist / Hernandez,24
+Dixie,FIRST DIST.COM. BLDG,Governor,"",LPF,Roos / Rorabaugh,4
+Dixie,MASONIC LODGE,Governor,"",LPF,Roos / Rorabaugh,1
+Dixie,SCHOOL BD MTG. FACILITY,Governor,"",LPF,Roos / Rorabaugh,0
+Dixie,SUWANNEE COM. CENTER,Governor,"",LPF,Roos / Rorabaugh,0
+Dixie,55A COM. BUILDING,Governor,"",LPF,Roos / Rorabaugh,1
+Dixie,WARD AVE,Governor,"",LPF,Roos / Rorabaugh,1
+Dixie,CITY HALL,Governor,"",LPF,Roos / Rorabaugh,2
+Dixie,COUNTY BLDG,Governor,"",LPF,Roos / Rorabaugh,0
+Dixie,JENA COM. CENTER,Governor,"",LPF,Roos / Rorabaugh,3
+Dixie,HORSESHOE BCH COM.CTR,Governor,"",LPF,Roos / Rorabaugh,2
+Dixie,FIRST DIST.COM. BLDG,Governor,"",NPA,Gimenez / Gibson,7
+Dixie,MASONIC LODGE,Governor,"",NPA,Gimenez / Gibson,2
+Dixie,SCHOOL BD MTG. FACILITY,Governor,"",NPA,Gimenez / Gibson,11
+Dixie,SUWANNEE COM. CENTER,Governor,"",NPA,Gimenez / Gibson,2
+Dixie,55A COM. BUILDING,Governor,"",NPA,Gimenez / Gibson,4
+Dixie,WARD AVE,Governor,"",NPA,Gimenez / Gibson,2
+Dixie,CITY HALL,Governor,"",NPA,Gimenez / Gibson,7
+Dixie,COUNTY BLDG,Governor,"",NPA,Gimenez / Gibson,1
+Dixie,JENA COM. CENTER,Governor,"",NPA,Gimenez / Gibson,0
+Dixie,HORSESHOE BCH COM.CTR,Governor,"",NPA,Gimenez / Gibson,0
+Dixie,FIRST DIST.COM. BLDG,Governor,"","",OverVotes,0
+Dixie,MASONIC LODGE,Governor,"","",OverVotes,1
+Dixie,SCHOOL BD MTG. FACILITY,Governor,"","",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Governor,"","",OverVotes,0
+Dixie,55A COM. BUILDING,Governor,"","",OverVotes,0
+Dixie,WARD AVE,Governor,"","",OverVotes,0
+Dixie,CITY HALL,Governor,"","",OverVotes,0
+Dixie,COUNTY BLDG,Governor,"","",OverVotes,0
+Dixie,JENA COM. CENTER,Governor,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Governor,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Governor,"","",UnderVotes,2
+Dixie,MASONIC LODGE,Governor,"","",UnderVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Governor,"","",UnderVotes,4
+Dixie,SUWANNEE COM. CENTER,Governor,"","",UnderVotes,1
+Dixie,55A COM. BUILDING,Governor,"","",UnderVotes,1
+Dixie,WARD AVE,Governor,"","",UnderVotes,0
+Dixie,CITY HALL,Governor,"","",UnderVotes,4
+Dixie,COUNTY BLDG,Governor,"","",UnderVotes,0
+Dixie,JENA COM. CENTER,Governor,"","",UnderVotes,1
+Dixie,HORSESHOE BCH COM.CTR,Governor,"","",UnderVotes,0
+Dixie,FIRST DIST.COM. BLDG,Attorney General,"",REP,Ashley Moody,1345
+Dixie,MASONIC LODGE,Attorney General,"",REP,Ashley Moody,227
+Dixie,SCHOOL BD MTG. FACILITY,Attorney General,"",REP,Ashley Moody,1488
+Dixie,SUWANNEE COM. CENTER,Attorney General,"",REP,Ashley Moody,264
+Dixie,55A COM. BUILDING,Attorney General,"",REP,Ashley Moody,549
+Dixie,WARD AVE,Attorney General,"",REP,Ashley Moody,193
+Dixie,CITY HALL,Attorney General,"",REP,Ashley Moody,508
+Dixie,COUNTY BLDG,Attorney General,"",REP,Ashley Moody,320
+Dixie,JENA COM. CENTER,Attorney General,"",REP,Ashley Moody,268
+Dixie,HORSESHOE BCH COM.CTR,Attorney General,"",REP,Ashley Moody,213
+Dixie,FIRST DIST.COM. BLDG,Attorney General,"",DEM,Aramis Ayala,170
+Dixie,MASONIC LODGE,Attorney General,"",DEM,Aramis Ayala,37
+Dixie,SCHOOL BD MTG. FACILITY,Attorney General,"",DEM,Aramis Ayala,208
+Dixie,SUWANNEE COM. CENTER,Attorney General,"",DEM,Aramis Ayala,13
+Dixie,55A COM. BUILDING,Attorney General,"",DEM,Aramis Ayala,45
+Dixie,WARD AVE,Attorney General,"",DEM,Aramis Ayala,20
+Dixie,CITY HALL,Attorney General,"",DEM,Aramis Ayala,181
+Dixie,COUNTY BLDG,Attorney General,"",DEM,Aramis Ayala,21
+Dixie,JENA COM. CENTER,Attorney General,"",DEM,Aramis Ayala,30
+Dixie,HORSESHOE BCH COM.CTR,Attorney General,"",DEM,Aramis Ayala,22
+Dixie,FIRST DIST.COM. BLDG,Attorney General,"","",OverVotes,0
+Dixie,MASONIC LODGE,Attorney General,"","",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Attorney General,"","",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Attorney General,"","",OverVotes,0
+Dixie,55A COM. BUILDING,Attorney General,"","",OverVotes,0
+Dixie,WARD AVE,Attorney General,"","",OverVotes,0
+Dixie,CITY HALL,Attorney General,"","",OverVotes,0
+Dixie,COUNTY BLDG,Attorney General,"","",OverVotes,0
+Dixie,JENA COM. CENTER,Attorney General,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Attorney General,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Attorney General,"","",UnderVotes,8
+Dixie,MASONIC LODGE,Attorney General,"","",UnderVotes,3
+Dixie,SCHOOL BD MTG. FACILITY,Attorney General,"","",UnderVotes,17
+Dixie,SUWANNEE COM. CENTER,Attorney General,"","",UnderVotes,2
+Dixie,55A COM. BUILDING,Attorney General,"","",UnderVotes,9
+Dixie,WARD AVE,Attorney General,"","",UnderVotes,7
+Dixie,CITY HALL,Attorney General,"","",UnderVotes,13
+Dixie,COUNTY BLDG,Attorney General,"","",UnderVotes,3
+Dixie,JENA COM. CENTER,Attorney General,"","",UnderVotes,4
+Dixie,HORSESHOE BCH COM.CTR,Attorney General,"","",UnderVotes,5
+Dixie,FIRST DIST.COM. BLDG,Chief Financial Officer,"",REP,Jimmy Patronis,1257
+Dixie,MASONIC LODGE,Chief Financial Officer,"",REP,Jimmy Patronis,219
+Dixie,SCHOOL BD MTG. FACILITY,Chief Financial Officer,"",REP,Jimmy Patronis,1404
+Dixie,SUWANNEE COM. CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,256
+Dixie,55A COM. BUILDING,Chief Financial Officer,"",REP,Jimmy Patronis,516
+Dixie,WARD AVE,Chief Financial Officer,"",REP,Jimmy Patronis,184
+Dixie,CITY HALL,Chief Financial Officer,"",REP,Jimmy Patronis,464
+Dixie,COUNTY BLDG,Chief Financial Officer,"",REP,Jimmy Patronis,310
+Dixie,JENA COM. CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,254
+Dixie,HORSESHOE BCH COM.CTR,Chief Financial Officer,"",REP,Jimmy Patronis,202
+Dixie,FIRST DIST.COM. BLDG,Chief Financial Officer,"",DEM,Adam Hattersley,192
+Dixie,MASONIC LODGE,Chief Financial Officer,"",DEM,Adam Hattersley,34
+Dixie,SCHOOL BD MTG. FACILITY,Chief Financial Officer,"",DEM,Adam Hattersley,233
+Dixie,SUWANNEE COM. CENTER,Chief Financial Officer,"",DEM,Adam Hattersley,17
+Dixie,55A COM. BUILDING,Chief Financial Officer,"",DEM,Adam Hattersley,53
+Dixie,WARD AVE,Chief Financial Officer,"",DEM,Adam Hattersley,21
+Dixie,CITY HALL,Chief Financial Officer,"",DEM,Adam Hattersley,195
+Dixie,COUNTY BLDG,Chief Financial Officer,"",DEM,Adam Hattersley,20
+Dixie,JENA COM. CENTER,Chief Financial Officer,"",DEM,Adam Hattersley,37
+Dixie,HORSESHOE BCH COM.CTR,Chief Financial Officer,"",DEM,Adam Hattersley,24
+Dixie,FIRST DIST.COM. BLDG,Chief Financial Officer,"","",OverVotes,0
+Dixie,MASONIC LODGE,Chief Financial Officer,"","",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Chief Financial Officer,"","",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Chief Financial Officer,"","",OverVotes,0
+Dixie,55A COM. BUILDING,Chief Financial Officer,"","",OverVotes,0
+Dixie,WARD AVE,Chief Financial Officer,"","",OverVotes,0
+Dixie,CITY HALL,Chief Financial Officer,"","",OverVotes,0
+Dixie,COUNTY BLDG,Chief Financial Officer,"","",OverVotes,0
+Dixie,JENA COM. CENTER,Chief Financial Officer,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Chief Financial Officer,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Chief Financial Officer,"","",UnderVotes,74
+Dixie,MASONIC LODGE,Chief Financial Officer,"","",UnderVotes,14
+Dixie,SCHOOL BD MTG. FACILITY,Chief Financial Officer,"","",UnderVotes,76
+Dixie,SUWANNEE COM. CENTER,Chief Financial Officer,"","",UnderVotes,6
+Dixie,55A COM. BUILDING,Chief Financial Officer,"","",UnderVotes,34
+Dixie,WARD AVE,Chief Financial Officer,"","",UnderVotes,15
+Dixie,CITY HALL,Chief Financial Officer,"","",UnderVotes,43
+Dixie,COUNTY BLDG,Chief Financial Officer,"","",UnderVotes,14
+Dixie,JENA COM. CENTER,Chief Financial Officer,"","",UnderVotes,11
+Dixie,HORSESHOE BCH COM.CTR,Chief Financial Officer,"","",UnderVotes,14
+Dixie,FIRST DIST.COM. BLDG,Commissioner of Agriculture,"",REP,Wilton Simpson,1308
+Dixie,MASONIC LODGE,Commissioner of Agriculture,"",REP,Wilton Simpson,223
+Dixie,SCHOOL BD MTG. FACILITY,Commissioner of Agriculture,"",REP,Wilton Simpson,1469
+Dixie,SUWANNEE COM. CENTER,Commissioner of Agriculture,"",REP,Wilton Simpson,260
+Dixie,55A COM. BUILDING,Commissioner of Agriculture,"",REP,Wilton Simpson,541
+Dixie,WARD AVE,Commissioner of Agriculture,"",REP,Wilton Simpson,190
+Dixie,CITY HALL,Commissioner of Agriculture,"",REP,Wilton Simpson,489
+Dixie,COUNTY BLDG,Commissioner of Agriculture,"",REP,Wilton Simpson,318
+Dixie,JENA COM. CENTER,Commissioner of Agriculture,"",REP,Wilton Simpson,263
+Dixie,HORSESHOE BCH COM.CTR,Commissioner of Agriculture,"",REP,Wilton Simpson,209
+Dixie,FIRST DIST.COM. BLDG,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,193
+Dixie,MASONIC LODGE,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,39
+Dixie,SCHOOL BD MTG. FACILITY,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,222
+Dixie,SUWANNEE COM. CENTER,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,15
+Dixie,55A COM. BUILDING,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,53
+Dixie,WARD AVE,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23
+Dixie,CITY HALL,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,190
+Dixie,COUNTY BLDG,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Dixie,JENA COM. CENTER,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,32
+Dixie,HORSESHOE BCH COM.CTR,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,26
+Dixie,FIRST DIST.COM. BLDG,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,MASONIC LODGE,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,55A COM. BUILDING,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,WARD AVE,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,CITY HALL,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,COUNTY BLDG,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,JENA COM. CENTER,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Commissioner of Agriculture,"","",UnderVotes,22
+Dixie,MASONIC LODGE,Commissioner of Agriculture,"","",UnderVotes,5
+Dixie,SCHOOL BD MTG. FACILITY,Commissioner of Agriculture,"","",UnderVotes,22
+Dixie,SUWANNEE COM. CENTER,Commissioner of Agriculture,"","",UnderVotes,4
+Dixie,55A COM. BUILDING,Commissioner of Agriculture,"","",UnderVotes,9
+Dixie,WARD AVE,Commissioner of Agriculture,"","",UnderVotes,7
+Dixie,CITY HALL,Commissioner of Agriculture,"","",UnderVotes,23
+Dixie,COUNTY BLDG,Commissioner of Agriculture,"","",UnderVotes,5
+Dixie,JENA COM. CENTER,Commissioner of Agriculture,"","",UnderVotes,7
+Dixie,HORSESHOE BCH COM.CTR,Commissioner of Agriculture,"","",UnderVotes,5
+Dixie,FIRST DIST.COM. BLDG,State Senate,3,REP,Corey Simon,1298
+Dixie,MASONIC LODGE,State Senate,3,REP,Corey Simon,228
+Dixie,SCHOOL BD MTG. FACILITY,State Senate,3,REP,Corey Simon,1448
+Dixie,SUWANNEE COM. CENTER,State Senate,3,REP,Corey Simon,255
+Dixie,55A COM. BUILDING,State Senate,3,REP,Corey Simon,538
+Dixie,WARD AVE,State Senate,3,REP,Corey Simon,187
+Dixie,CITY HALL,State Senate,3,REP,Corey Simon,492
+Dixie,COUNTY BLDG,State Senate,3,REP,Corey Simon,310
+Dixie,JENA COM. CENTER,State Senate,3,REP,Corey Simon,265
+Dixie,HORSESHOE BCH COM.CTR,State Senate,3,REP,Corey Simon,203
+Dixie,FIRST DIST.COM. BLDG,State Senate,3,DEM,Loranne Ausley,200
+Dixie,MASONIC LODGE,State Senate,3,DEM,Loranne Ausley,32
+Dixie,SCHOOL BD MTG. FACILITY,State Senate,3,DEM,Loranne Ausley,238
+Dixie,SUWANNEE COM. CENTER,State Senate,3,DEM,Loranne Ausley,17
+Dixie,55A COM. BUILDING,State Senate,3,DEM,Loranne Ausley,47
+Dixie,WARD AVE,State Senate,3,DEM,Loranne Ausley,23
+Dixie,CITY HALL,State Senate,3,DEM,Loranne Ausley,182
+Dixie,COUNTY BLDG,State Senate,3,DEM,Loranne Ausley,25
+Dixie,JENA COM. CENTER,State Senate,3,DEM,Loranne Ausley,33
+Dixie,HORSESHOE BCH COM.CTR,State Senate,3,DEM,Loranne Ausley,28
+Dixie,FIRST DIST.COM. BLDG,State Senate,3,"",OverVotes,0
+Dixie,MASONIC LODGE,State Senate,3,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,State Senate,3,"",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,State Senate,3,"",OverVotes,0
+Dixie,55A COM. BUILDING,State Senate,3,"",OverVotes,0
+Dixie,WARD AVE,State Senate,3,"",OverVotes,0
+Dixie,CITY HALL,State Senate,3,"",OverVotes,0
+Dixie,COUNTY BLDG,State Senate,3,"",OverVotes,0
+Dixie,JENA COM. CENTER,State Senate,3,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,State Senate,3,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,State Senate,3,"",UnderVotes,25
+Dixie,MASONIC LODGE,State Senate,3,"",UnderVotes,7
+Dixie,SCHOOL BD MTG. FACILITY,State Senate,3,"",UnderVotes,27
+Dixie,SUWANNEE COM. CENTER,State Senate,3,"",UnderVotes,7
+Dixie,55A COM. BUILDING,State Senate,3,"",UnderVotes,18
+Dixie,WARD AVE,State Senate,3,"",UnderVotes,10
+Dixie,CITY HALL,State Senate,3,"",UnderVotes,28
+Dixie,COUNTY BLDG,State Senate,3,"",UnderVotes,9
+Dixie,JENA COM. CENTER,State Senate,3,"",UnderVotes,4
+Dixie,HORSESHOE BCH COM.CTR,State Senate,3,"",UnderVotes,9
+Dixie,FIRST DIST.COM. BLDG,County Commissioner,2,REP,Daniel Wood III,1103
+Dixie,MASONIC LODGE,County Commissioner,2,REP,Daniel Wood III,167
+Dixie,SCHOOL BD MTG. FACILITY,County Commissioner,2,REP,Daniel Wood III,1061
+Dixie,SUWANNEE COM. CENTER,County Commissioner,2,REP,Daniel Wood III,184
+Dixie,55A COM. BUILDING,County Commissioner,2,REP,Daniel Wood III,332
+Dixie,WARD AVE,County Commissioner,2,REP,Daniel Wood III,101
+Dixie,CITY HALL,County Commissioner,2,REP,Daniel Wood III,345
+Dixie,COUNTY BLDG,County Commissioner,2,REP,Daniel Wood III,197
+Dixie,JENA COM. CENTER,County Commissioner,2,REP,Daniel Wood III,220
+Dixie,HORSESHOE BCH COM.CTR,County Commissioner,2,REP,Daniel Wood III,172
+Dixie,FIRST DIST.COM. BLDG,County Commissioner,2,DEM,Jaffry L Crawl,201
+Dixie,MASONIC LODGE,County Commissioner,2,DEM,Jaffry L Crawl,35
+Dixie,SCHOOL BD MTG. FACILITY,County Commissioner,2,DEM,Jaffry L Crawl,236
+Dixie,SUWANNEE COM. CENTER,County Commissioner,2,DEM,Jaffry L Crawl,13
+Dixie,55A COM. BUILDING,County Commissioner,2,DEM,Jaffry L Crawl,62
+Dixie,WARD AVE,County Commissioner,2,DEM,Jaffry L Crawl,23
+Dixie,CITY HALL,County Commissioner,2,DEM,Jaffry L Crawl,202
+Dixie,COUNTY BLDG,County Commissioner,2,DEM,Jaffry L Crawl,23
+Dixie,JENA COM. CENTER,County Commissioner,2,DEM,Jaffry L Crawl,33
+Dixie,HORSESHOE BCH COM.CTR,County Commissioner,2,DEM,Jaffry L Crawl,24
+Dixie,FIRST DIST.COM. BLDG,County Commissioner,2,"",WriteinVotes,179
+Dixie,MASONIC LODGE,County Commissioner,2,"",WriteinVotes,55
+Dixie,SCHOOL BD MTG. FACILITY,County Commissioner,2,"",WriteinVotes,341
+Dixie,SUWANNEE COM. CENTER,County Commissioner,2,"",WriteinVotes,66
+Dixie,55A COM. BUILDING,County Commissioner,2,"",WriteinVotes,166
+Dixie,WARD AVE,County Commissioner,2,"",WriteinVotes,83
+Dixie,CITY HALL,County Commissioner,2,"",WriteinVotes,126
+Dixie,COUNTY BLDG,County Commissioner,2,"",WriteinVotes,105
+Dixie,JENA COM. CENTER,County Commissioner,2,"",WriteinVotes,33
+Dixie,HORSESHOE BCH COM.CTR,County Commissioner,2,"",WriteinVotes,38
+Dixie,FIRST DIST.COM. BLDG,County Commissioner,2,"",OverVotes,0
+Dixie,MASONIC LODGE,County Commissioner,2,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,County Commissioner,2,"",OverVotes,2
+Dixie,SUWANNEE COM. CENTER,County Commissioner,2,"",OverVotes,1
+Dixie,55A COM. BUILDING,County Commissioner,2,"",OverVotes,0
+Dixie,WARD AVE,County Commissioner,2,"",OverVotes,0
+Dixie,CITY HALL,County Commissioner,2,"",OverVotes,1
+Dixie,COUNTY BLDG,County Commissioner,2,"",OverVotes,0
+Dixie,JENA COM. CENTER,County Commissioner,2,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,County Commissioner,2,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,County Commissioner,2,"",UnderVotes,40
+Dixie,MASONIC LODGE,County Commissioner,2,"",UnderVotes,10
+Dixie,SCHOOL BD MTG. FACILITY,County Commissioner,2,"",UnderVotes,73
+Dixie,SUWANNEE COM. CENTER,County Commissioner,2,"",UnderVotes,15
+Dixie,55A COM. BUILDING,County Commissioner,2,"",UnderVotes,43
+Dixie,WARD AVE,County Commissioner,2,"",UnderVotes,13
+Dixie,CITY HALL,County Commissioner,2,"",UnderVotes,28
+Dixie,COUNTY BLDG,County Commissioner,2,"",UnderVotes,19
+Dixie,JENA COM. CENTER,County Commissioner,2,"",UnderVotes,16
+Dixie,HORSESHOE BCH COM.CTR,County Commissioner,2,"",UnderVotes,6
+Dixie,FIRST DIST.COM. BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,870
+Dixie,MASONIC LODGE,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,112
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,975
+Dixie,SUWANNEE COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,170
+Dixie,55A COM. BUILDING,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,307
+Dixie,WARD AVE,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,101
+Dixie,CITY HALL,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,378
+Dixie,COUNTY BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,169
+Dixie,JENA COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,151
+Dixie,HORSESHOE BCH COM.CTR,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,139
+Dixie,FIRST DIST.COM. BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,510
+Dixie,MASONIC LODGE,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,121
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,563
+Dixie,SUWANNEE COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,84
+Dixie,55A COM. BUILDING,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,240
+Dixie,WARD AVE,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,93
+Dixie,CITY HALL,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,237
+Dixie,COUNTY BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,133
+Dixie,JENA COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,116
+Dixie,HORSESHOE BCH COM.CTR,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,72
+Dixie,FIRST DIST.COM. BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Dixie,WARD AVE,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Dixie,CITY HALL,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Dixie,COUNTY BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Dixie,JENA COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,143
+Dixie,MASONIC LODGE,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,34
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,174
+Dixie,SUWANNEE COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,25
+Dixie,55A COM. BUILDING,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,55
+Dixie,WARD AVE,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,26
+Dixie,CITY HALL,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,86
+Dixie,COUNTY BLDG,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,42
+Dixie,JENA COM. CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,35
+Dixie,HORSESHOE BCH COM.CTR,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,29
+Dixie,FIRST DIST.COM. BLDG,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,910
+Dixie,MASONIC LODGE,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,126
+Dixie,SCHOOL BD MTG. FACILITY,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1049
+Dixie,SUWANNEE COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,173
+Dixie,55A COM. BUILDING,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,365
+Dixie,WARD AVE,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,122
+Dixie,CITY HALL,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,405
+Dixie,COUNTY BLDG,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,218
+Dixie,JENA COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,167
+Dixie,HORSESHOE BCH COM.CTR,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,142
+Dixie,FIRST DIST.COM. BLDG,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,455
+Dixie,MASONIC LODGE,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,107
+Dixie,SCHOOL BD MTG. FACILITY,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,482
+Dixie,SUWANNEE COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,82
+Dixie,55A COM. BUILDING,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,179
+Dixie,WARD AVE,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,74
+Dixie,CITY HALL,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,207
+Dixie,COUNTY BLDG,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,85
+Dixie,JENA COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,98
+Dixie,HORSESHOE BCH COM.CTR,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,67
+Dixie,FIRST DIST.COM. BLDG,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,WARD AVE,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,CITY HALL,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,COUNTY BLDG,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Dixie,JENA COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,158
+Dixie,MASONIC LODGE,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,34
+Dixie,SCHOOL BD MTG. FACILITY,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,182
+Dixie,SUWANNEE COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,24
+Dixie,55A COM. BUILDING,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,59
+Dixie,WARD AVE,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,24
+Dixie,CITY HALL,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,90
+Dixie,COUNTY BLDG,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,40
+Dixie,JENA COM. CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,37
+Dixie,HORSESHOE BCH COM.CTR,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,31
+Dixie,FIRST DIST.COM. BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,914
+Dixie,MASONIC LODGE,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,136
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1037
+Dixie,SUWANNEE COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,177
+Dixie,55A COM. BUILDING,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,365
+Dixie,WARD AVE,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,120
+Dixie,CITY HALL,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,407
+Dixie,COUNTY BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,218
+Dixie,JENA COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,158
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,137
+Dixie,FIRST DIST.COM. BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,443
+Dixie,MASONIC LODGE,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,99
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,487
+Dixie,SUWANNEE COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,74
+Dixie,55A COM. BUILDING,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,180
+Dixie,WARD AVE,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,76
+Dixie,CITY HALL,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,203
+Dixie,COUNTY BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,87
+Dixie,JENA COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,108
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,70
+Dixie,FIRST DIST.COM. BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,WARD AVE,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,CITY HALL,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Dixie,COUNTY BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,JENA COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,166
+Dixie,MASONIC LODGE,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,32
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,188
+Dixie,SUWANNEE COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,28
+Dixie,55A COM. BUILDING,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,58
+Dixie,WARD AVE,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,24
+Dixie,CITY HALL,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,91
+Dixie,COUNTY BLDG,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,39
+Dixie,JENA COM. CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,36
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,33
+Dixie,FIRST DIST.COM. BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,739
+Dixie,MASONIC LODGE,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,93
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,849
+Dixie,SUWANNEE COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,134
+Dixie,55A COM. BUILDING,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,237
+Dixie,WARD AVE,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,85
+Dixie,CITY HALL,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,336
+Dixie,COUNTY BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,130
+Dixie,JENA COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,132
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,108
+Dixie,FIRST DIST.COM. BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,623
+Dixie,MASONIC LODGE,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,140
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,677
+Dixie,SUWANNEE COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,118
+Dixie,55A COM. BUILDING,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,303
+Dixie,WARD AVE,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,111
+Dixie,CITY HALL,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,272
+Dixie,COUNTY BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,168
+Dixie,JENA COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,135
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,102
+Dixie,FIRST DIST.COM. BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,WARD AVE,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,CITY HALL,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,COUNTY BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,JENA COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,161
+Dixie,MASONIC LODGE,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,34
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,186
+Dixie,SUWANNEE COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,27
+Dixie,55A COM. BUILDING,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,63
+Dixie,WARD AVE,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,24
+Dixie,CITY HALL,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,94
+Dixie,COUNTY BLDG,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,46
+Dixie,JENA COM. CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,35
+Dixie,HORSESHOE BCH COM.CTR,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,30
+Dixie,FIRST DIST.COM. BLDG,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,803
+Dixie,MASONIC LODGE,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,115
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,875
+Dixie,SUWANNEE COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,166
+Dixie,55A COM. BUILDING,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,306
+Dixie,WARD AVE,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,95
+Dixie,CITY HALL,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,366
+Dixie,COUNTY BLDG,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,160
+Dixie,JENA COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,152
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,113
+Dixie,FIRST DIST.COM. BLDG,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,537
+Dixie,MASONIC LODGE,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,115
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,609
+Dixie,SUWANNEE COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,84
+Dixie,55A COM. BUILDING,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,233
+Dixie,WARD AVE,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,94
+Dixie,CITY HALL,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,241
+Dixie,COUNTY BLDG,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,134
+Dixie,JENA COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,107
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,89
+Dixie,FIRST DIST.COM. BLDG,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,WARD AVE,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,CITY HALL,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,COUNTY BLDG,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Dixie,JENA COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Dixie,FIRST DIST.COM. BLDG,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,183
+Dixie,MASONIC LODGE,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,37
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,229
+Dixie,SUWANNEE COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,29
+Dixie,55A COM. BUILDING,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,64
+Dixie,WARD AVE,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,31
+Dixie,CITY HALL,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,95
+Dixie,COUNTY BLDG,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,49
+Dixie,JENA COM. CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,43
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,37
+Dixie,FIRST DIST.COM. BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,856
+Dixie,MASONIC LODGE,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,136
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,962
+Dixie,SUWANNEE COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,160
+Dixie,55A COM. BUILDING,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,318
+Dixie,WARD AVE,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,108
+Dixie,CITY HALL,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,388
+Dixie,COUNTY BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,196
+Dixie,JENA COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,160
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,Yes,131
+Dixie,FIRST DIST.COM. BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,474
+Dixie,MASONIC LODGE,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,94
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,510
+Dixie,SUWANNEE COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,85
+Dixie,55A COM. BUILDING,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,216
+Dixie,WARD AVE,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,80
+Dixie,CITY HALL,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,211
+Dixie,COUNTY BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,94
+Dixie,JENA COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,98
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ross L. Bilbrey,First District Court of Appeal,NOP,No,71
+Dixie,FIRST DIST.COM. BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Dixie,MASONIC LODGE,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,WARD AVE,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,CITY HALL,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,COUNTY BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,1
+Dixie,JENA COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ross L. Bilbrey,First District Court of Appeal,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,192
+Dixie,MASONIC LODGE,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,37
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,241
+Dixie,SUWANNEE COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,34
+Dixie,55A COM. BUILDING,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,69
+Dixie,WARD AVE,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,32
+Dixie,CITY HALL,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,103
+Dixie,COUNTY BLDG,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,53
+Dixie,JENA COM. CENTER,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,44
+Dixie,HORSESHOE BCH COM.CTR,Retention of Ross L. Bilbrey,First District Court of Appeal,"",UnderVotes,38
+Dixie,FIRST DIST.COM. BLDG,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,872
+Dixie,MASONIC LODGE,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,136
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,971
+Dixie,SUWANNEE COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,159
+Dixie,55A COM. BUILDING,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,336
+Dixie,WARD AVE,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,109
+Dixie,CITY HALL,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,406
+Dixie,COUNTY BLDG,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,195
+Dixie,JENA COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,160
+Dixie,HORSESHOE BCH COM.CTR,Retention of Susan Kelsey,First District Court of Appeal,NOP,Yes,131
+Dixie,FIRST DIST.COM. BLDG,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,454
+Dixie,MASONIC LODGE,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,94
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,499
+Dixie,SUWANNEE COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,88
+Dixie,55A COM. BUILDING,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,197
+Dixie,WARD AVE,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,80
+Dixie,CITY HALL,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,198
+Dixie,COUNTY BLDG,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,100
+Dixie,JENA COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,99
+Dixie,HORSESHOE BCH COM.CTR,Retention of Susan Kelsey,First District Court of Appeal,NOP,No,67
+Dixie,FIRST DIST.COM. BLDG,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,WARD AVE,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,CITY HALL,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,1
+Dixie,COUNTY BLDG,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,JENA COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Susan Kelsey,First District Court of Appeal,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,197
+Dixie,MASONIC LODGE,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,37
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,242
+Dixie,SUWANNEE COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,32
+Dixie,55A COM. BUILDING,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,70
+Dixie,WARD AVE,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,31
+Dixie,CITY HALL,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,97
+Dixie,COUNTY BLDG,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,49
+Dixie,JENA COM. CENTER,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,43
+Dixie,HORSESHOE BCH COM.CTR,Retention of Susan Kelsey,First District Court of Appeal,"",UnderVotes,42
+Dixie,FIRST DIST.COM. BLDG,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,905
+Dixie,MASONIC LODGE,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,140
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,1011
+Dixie,SUWANNEE COM. CENTER,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,166
+Dixie,55A COM. BUILDING,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,353
+Dixie,WARD AVE,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,104
+Dixie,CITY HALL,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,395
+Dixie,COUNTY BLDG,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,204
+Dixie,JENA COM. CENTER,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,174
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bobby Long,First District Court of Appeal,NOP,Yes,135
+Dixie,FIRST DIST.COM. BLDG,Retention of Bobby Long,First District Court of Appeal,NOP,No,427
+Dixie,MASONIC LODGE,Retention of Bobby Long,First District Court of Appeal,NOP,No,91
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bobby Long,First District Court of Appeal,NOP,No,464
+Dixie,SUWANNEE COM. CENTER,Retention of Bobby Long,First District Court of Appeal,NOP,No,78
+Dixie,55A COM. BUILDING,Retention of Bobby Long,First District Court of Appeal,NOP,No,178
+Dixie,WARD AVE,Retention of Bobby Long,First District Court of Appeal,NOP,No,83
+Dixie,CITY HALL,Retention of Bobby Long,First District Court of Appeal,NOP,No,208
+Dixie,COUNTY BLDG,Retention of Bobby Long,First District Court of Appeal,NOP,No,89
+Dixie,JENA COM. CENTER,Retention of Bobby Long,First District Court of Appeal,NOP,No,86
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bobby Long,First District Court of Appeal,NOP,No,67
+Dixie,FIRST DIST.COM. BLDG,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Dixie,MASONIC LODGE,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,WARD AVE,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,CITY HALL,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,COUNTY BLDG,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,JENA COM. CENTER,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bobby Long,First District Court of Appeal,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,190
+Dixie,MASONIC LODGE,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,36
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,237
+Dixie,SUWANNEE COM. CENTER,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,35
+Dixie,55A COM. BUILDING,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,72
+Dixie,WARD AVE,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,33
+Dixie,CITY HALL,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,99
+Dixie,COUNTY BLDG,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,51
+Dixie,JENA COM. CENTER,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,42
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bobby Long,First District Court of Appeal,"",UnderVotes,38
+Dixie,FIRST DIST.COM. BLDG,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,820
+Dixie,MASONIC LODGE,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,124
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,864
+Dixie,SUWANNEE COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,152
+Dixie,55A COM. BUILDING,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,291
+Dixie,WARD AVE,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,89
+Dixie,CITY HALL,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,375
+Dixie,COUNTY BLDG,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,160
+Dixie,JENA COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,153
+Dixie,HORSESHOE BCH COM.CTR,Retention of Lori S. Rowe,First District Court of Appeal,NOP,Yes,116
+Dixie,FIRST DIST.COM. BLDG,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,509
+Dixie,MASONIC LODGE,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,107
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,610
+Dixie,SUWANNEE COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,93
+Dixie,55A COM. BUILDING,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,239
+Dixie,WARD AVE,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,98
+Dixie,CITY HALL,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,230
+Dixie,COUNTY BLDG,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,132
+Dixie,JENA COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,105
+Dixie,HORSESHOE BCH COM.CTR,Retention of Lori S. Rowe,First District Court of Appeal,NOP,No,84
+Dixie,FIRST DIST.COM. BLDG,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,WARD AVE,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,CITY HALL,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,1
+Dixie,COUNTY BLDG,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,JENA COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Lori S. Rowe,First District Court of Appeal,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,194
+Dixie,MASONIC LODGE,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,36
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,238
+Dixie,SUWANNEE COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,34
+Dixie,55A COM. BUILDING,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,73
+Dixie,WARD AVE,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,33
+Dixie,CITY HALL,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,96
+Dixie,COUNTY BLDG,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,52
+Dixie,JENA COM. CENTER,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,44
+Dixie,HORSESHOE BCH COM.CTR,Retention of Lori S. Rowe,First District Court of Appeal,"",UnderVotes,40
+Dixie,FIRST DIST.COM. BLDG,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,834
+Dixie,MASONIC LODGE,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,129
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,940
+Dixie,SUWANNEE COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,158
+Dixie,55A COM. BUILDING,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,313
+Dixie,WARD AVE,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,107
+Dixie,CITY HALL,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,372
+Dixie,COUNTY BLDG,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,202
+Dixie,JENA COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,153
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bo Winokur,First District Court of Appeal,NOP,Yes,127
+Dixie,FIRST DIST.COM. BLDG,Retention of Bo Winokur,First District Court of Appeal,NOP,No,477
+Dixie,MASONIC LODGE,Retention of Bo Winokur,First District Court of Appeal,NOP,No,101
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bo Winokur,First District Court of Appeal,NOP,No,523
+Dixie,SUWANNEE COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,NOP,No,84
+Dixie,55A COM. BUILDING,Retention of Bo Winokur,First District Court of Appeal,NOP,No,210
+Dixie,WARD AVE,Retention of Bo Winokur,First District Court of Appeal,NOP,No,75
+Dixie,CITY HALL,Retention of Bo Winokur,First District Court of Appeal,NOP,No,220
+Dixie,COUNTY BLDG,Retention of Bo Winokur,First District Court of Appeal,NOP,No,88
+Dixie,JENA COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,NOP,No,105
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bo Winokur,First District Court of Appeal,NOP,No,74
+Dixie,FIRST DIST.COM. BLDG,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,MASONIC LODGE,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,55A COM. BUILDING,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,WARD AVE,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,1
+Dixie,CITY HALL,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,COUNTY BLDG,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,JENA COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bo Winokur,First District Court of Appeal,"",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,212
+Dixie,MASONIC LODGE,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,37
+Dixie,SCHOOL BD MTG. FACILITY,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,250
+Dixie,SUWANNEE COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,37
+Dixie,55A COM. BUILDING,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,80
+Dixie,WARD AVE,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,37
+Dixie,CITY HALL,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,110
+Dixie,COUNTY BLDG,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,54
+Dixie,JENA COM. CENTER,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,44
+Dixie,HORSESHOE BCH COM.CTR,Retention of Bo Winokur,First District Court of Appeal,"",UnderVotes,39
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,802
+Dixie,MASONIC LODGE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,123
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,825
+Dixie,SUWANNEE COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,176
+Dixie,55A COM. BUILDING,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,260
+Dixie,WARD AVE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,96
+Dixie,CITY HALL,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,341
+Dixie,COUNTY BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,153
+Dixie,JENA COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,139
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,125
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,598
+Dixie,MASONIC LODGE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,121
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,741
+Dixie,SUWANNEE COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,86
+Dixie,55A COM. BUILDING,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,288
+Dixie,WARD AVE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,101
+Dixie,CITY HALL,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,278
+Dixie,COUNTY BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,161
+Dixie,JENA COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,131
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,93
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,2
+Dixie,MASONIC LODGE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,55A COM. BUILDING,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,WARD AVE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,CITY HALL,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,COUNTY BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,JENA COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,121
+Dixie,MASONIC LODGE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,23
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,146
+Dixie,SUWANNEE COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,17
+Dixie,55A COM. BUILDING,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,55
+Dixie,WARD AVE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,23
+Dixie,CITY HALL,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,83
+Dixie,COUNTY BLDG,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,30
+Dixie,JENA COM. CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,32
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,22
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,756
+Dixie,MASONIC LODGE,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,131
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,885
+Dixie,SUWANNEE COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,166
+Dixie,55A COM. BUILDING,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,288
+Dixie,WARD AVE,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,94
+Dixie,CITY HALL,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,350
+Dixie,COUNTY BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,161
+Dixie,JENA COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,126
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,123
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,644
+Dixie,MASONIC LODGE,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,108
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,676
+Dixie,SUWANNEE COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,91
+Dixie,55A COM. BUILDING,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,247
+Dixie,WARD AVE,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,105
+Dixie,CITY HALL,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,276
+Dixie,COUNTY BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,152
+Dixie,JENA COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,141
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,90
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Dixie,MASONIC LODGE,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Dixie,SUWANNEE COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Dixie,55A COM. BUILDING,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Dixie,WARD AVE,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Dixie,CITY HALL,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Dixie,COUNTY BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Dixie,JENA COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,122
+Dixie,MASONIC LODGE,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,151
+Dixie,SUWANNEE COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,22
+Dixie,55A COM. BUILDING,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,68
+Dixie,WARD AVE,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,21
+Dixie,CITY HALL,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,76
+Dixie,COUNTY BLDG,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,31
+Dixie,JENA COM. CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,35
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,27
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,777
+Dixie,MASONIC LODGE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,164
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,904
+Dixie,SUWANNEE COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,140
+Dixie,55A COM. BUILDING,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,303
+Dixie,WARD AVE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,106
+Dixie,CITY HALL,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,365
+Dixie,COUNTY BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,165
+Dixie,JENA COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,170
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,109
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,674
+Dixie,MASONIC LODGE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,89
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,721
+Dixie,SUWANNEE COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,128
+Dixie,55A COM. BUILDING,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,261
+Dixie,WARD AVE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,96
+Dixie,CITY HALL,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,281
+Dixie,COUNTY BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,160
+Dixie,JENA COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,112
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,115
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Dixie,MASONIC LODGE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,SUWANNEE COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,55A COM. BUILDING,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,WARD AVE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,CITY HALL,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Dixie,COUNTY BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,JENA COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Dixie,FIRST DIST.COM. BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,71
+Dixie,MASONIC LODGE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,14
+Dixie,SCHOOL BD MTG. FACILITY,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,88
+Dixie,SUWANNEE COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,11
+Dixie,55A COM. BUILDING,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,39
+Dixie,WARD AVE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,18
+Dixie,CITY HALL,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,55
+Dixie,COUNTY BLDG,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,19
+Dixie,JENA COM. CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,20
+Dixie,HORSESHOE BCH COM.CTR,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,16
+Dixie,55A COM. BUILDING,Registered Voters,"","","",1080
+Dixie,CITY HALL,Registered Voters,"","","",1396
+Dixie,COUNTY BLDG,Registered Voters,"","","",514
+Dixie,FIRST DIST.COM. BLDG,Registered Voters,"","","",2537
+Dixie,HORSESHOE BCH COM.CTR,Registered Voters,"","","",372
+Dixie,JENA COM. CENTER,Registered Voters,"","","",436
+Dixie,MASONIC LODGE,Registered Voters,"","","",470
+Dixie,SCHOOL BD MTG. FACILITY,Registered Voters,"","","",3042
+Dixie,SUWANNEE COM. CENTER,Registered Voters,"","","",395
+Dixie,WARD AVE,Registered Voters,"","","",375

@@ -1,547 +1,1013 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,mail
-Okeechobee,1.1,U.S. Senate,"",REP,Marco Rubio,651,,,
-Okeechobee,8.1,U.S. Senate,"",REP,Marco Rubio,1480,,,
-Okeechobee,9.1,U.S. Senate,"",REP,Marco Rubio,688,210,381,97
-Okeechobee,10.1,U.S. Senate,"",REP,Marco Rubio,533,149,266,118
-Okeechobee,11.1,U.S. Senate,"",REP,Marco Rubio,667,209,328,130
-Okeechobee,2.1,U.S. Senate,"",REP,Marco Rubio,390,89,232,69
-Okeechobee,3.1,U.S. Senate,"",REP,Marco Rubio,1182,,,
-Okeechobee,4.1,U.S. Senate,"",REP,Marco Rubio,706,234,376,96
-Okeechobee,5.1,U.S. Senate,"",REP,Marco Rubio,674,216,298,160
-Okeechobee,6,U.S. Senate,"",REP,Marco Rubio,1129,402,513,214
-Okeechobee,7.1,U.S. Senate,"",REP,Marco Rubio,432,133,214,85
-Okeechobee,1.1,U.S. Senate,"",DEM,Val Demings,111,,,
-Okeechobee,8.1,U.S. Senate,"",DEM,Val Demings,401,91,152,158
-Okeechobee,9.1,U.S. Senate,"",DEM,Val Demings,161,41,77,43
-Okeechobee,10.1,U.S. Senate,"",DEM,Val Demings,112,,,
-Okeechobee,11.1,U.S. Senate,"",DEM,Val Demings,149,37,51,61
-Okeechobee,2.1,U.S. Senate,"",DEM,Val Demings,64,,,
-Okeechobee,3.1,U.S. Senate,"",DEM,Val Demings,256,68,75,113
-Okeechobee,4.1,U.S. Senate,"",DEM,Val Demings,259,66,126,67
-Okeechobee,5.1,U.S. Senate,"",DEM,Val Demings,183,52,48,83
-Okeechobee,6,U.S. Senate,"",DEM,Val Demings,383,110,133,140
-Okeechobee,7.1,U.S. Senate,"",DEM,Val Demings,139,33,60,46
-Okeechobee,1.1,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Okeechobee,8.1,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Okeechobee,9.1,U.S. Senate,"",LPF,Dennis Misigoy,0,0,0,0
-Okeechobee,10.1,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Okeechobee,11.1,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Okeechobee,2.1,U.S. Senate,"",LPF,Dennis Misigoy,1,,,
-Okeechobee,3.1,U.S. Senate,"",LPF,Dennis Misigoy,4,,,
-Okeechobee,4.1,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Okeechobee,5.1,U.S. Senate,"",LPF,Dennis Misigoy,2,,,
-Okeechobee,6,U.S. Senate,"",LPF,Dennis Misigoy,12,,,
-Okeechobee,7.1,U.S. Senate,"",LPF,Dennis Misigoy,3,,,
-Okeechobee,1.1,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Okeechobee,8.1,U.S. Senate,"",NPA,Steven B. Grant,10,,,
-Okeechobee,9.1,U.S. Senate,"",NPA,Steven B. Grant,8,,,
-Okeechobee,10.1,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Okeechobee,11.1,U.S. Senate,"",NPA,Steven B. Grant,7,,,
-Okeechobee,2.1,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Okeechobee,3.1,U.S. Senate,"",NPA,Steven B. Grant,8,,,
-Okeechobee,4.1,U.S. Senate,"",NPA,Steven B. Grant,3,,,
-Okeechobee,5.1,U.S. Senate,"",NPA,Steven B. Grant,6,,,
-Okeechobee,6,U.S. Senate,"",NPA,Steven B. Grant,11,,,
-Okeechobee,7.1,U.S. Senate,"",NPA,Steven B. Grant,1,,,
-Okeechobee,1.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Okeechobee,8.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Okeechobee,9.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Okeechobee,10.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,1,,,
-Okeechobee,11.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Okeechobee,2.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,0,0,0,0
-Okeechobee,3.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
-Okeechobee,4.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Okeechobee,5.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,3,,,
-Okeechobee,6,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Okeechobee,7.1,U.S. Senate,"",NPA,Tuan TQ Nguyen,2,,,
-Okeechobee,1.1,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,8.1,U.S. Senate,"","",Write-in,1,,,
-Okeechobee,9.1,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,10.1,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,11.1,U.S. Senate,"","",Write-in,1,,,
-Okeechobee,2.1,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,3.1,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,4.1,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,5.1,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,6,U.S. Senate,"","",Write-in,0,0,0,0
-Okeechobee,7.1,U.S. Senate,"","",Write-in,2,,,
-Okeechobee,1.1,U.S. House,18,REP,Scott Franklin,650,,,
-Okeechobee,8.1,U.S. House,18,REP,Scott Franklin,1514,,,
-Okeechobee,9.1,U.S. House,18,REP,Scott Franklin,702,212,390,100
-Okeechobee,10.1,U.S. House,18,REP,Scott Franklin,521,148,258,115
-Okeechobee,11.1,U.S. House,18,REP,Scott Franklin,670,209,324,137
-Okeechobee,2.1,U.S. House,18,REP,Scott Franklin,391,89,232,70
-Okeechobee,3.1,U.S. House,18,REP,Scott Franklin,1176,,,
-Okeechobee,4.1,U.S. House,18,REP,Scott Franklin,716,243,374,99
-Okeechobee,5.1,U.S. House,18,REP,Scott Franklin,676,217,297,162
-Okeechobee,6,U.S. House,18,REP,Scott Franklin,1113,392,511,210
-Okeechobee,7.1,U.S. House,18,REP,Scott Franklin,432,135,214,83
-Okeechobee,1.1,U.S. House,18,NPA,Keith R. Hayden Jr,81,,,
-Okeechobee,8.1,U.S. House,18,NPA,Keith R. Hayden Jr,316,80,112,124
-Okeechobee,9.1,U.S. House,18,NPA,Keith R. Hayden Jr,138,38,63,37
-Okeechobee,10.1,U.S. House,18,NPA,Keith R. Hayden Jr,103,,,
-Okeechobee,11.1,U.S. House,18,NPA,Keith R. Hayden Jr,117,36,43,38
-Okeechobee,2.1,U.S. House,18,NPA,Keith R. Hayden Jr,57,,,
-Okeechobee,3.1,U.S. House,18,NPA,Keith R. Hayden Jr,219,66,65,88
-Okeechobee,4.1,U.S. House,18,NPA,Keith R. Hayden Jr,213,52,113,48
-Okeechobee,5.1,U.S. House,18,NPA,Keith R. Hayden Jr,155,45,37,73
-Okeechobee,6,U.S. House,18,NPA,Keith R. Hayden Jr,348,99,128,121
-Okeechobee,7.1,U.S. House,18,NPA,Keith R. Hayden Jr,113,,,
-Okeechobee,1.1,U.S. House,18,"",Write-in,6,,,
-Okeechobee,8.1,U.S. House,18,"",Write-in,4,,,
-Okeechobee,9.1,U.S. House,18,"",Write-in,1,,,
-Okeechobee,10.1,U.S. House,18,"",Write-in,2,,,
-Okeechobee,11.1,U.S. House,18,"",Write-in,2,,,
-Okeechobee,2.1,U.S. House,18,"",Write-in,1,,,
-Okeechobee,3.1,U.S. House,18,"",Write-in,5,,,
-Okeechobee,4.1,U.S. House,18,"",Write-in,2,,,
-Okeechobee,5.1,U.S. House,18,"",Write-in,2,,,
-Okeechobee,6,U.S. House,18,"",Write-in,4,,,
-Okeechobee,7.1,U.S. House,18,"",Write-in,1,,,
-Okeechobee,1.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,670,,,
-Okeechobee,8.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,1516,,,
-Okeechobee,9.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,704,213,391,100
-Okeechobee,10.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,543,149,267,127
-Okeechobee,11.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,684,213,334,137
-Okeechobee,2.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,395,87,239,69
-Okeechobee,3.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,1228,,,
-Okeechobee,4.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,723,239,384,100
-Okeechobee,5.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,691,221,302,168
-Okeechobee,6,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,1159,409,534,216
-Okeechobee,7.1,Governor,"",REP,Ron DeSantis / Jeanette Nuñez,433,133,215,85
-Okeechobee,1.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,91,,,
-Okeechobee,8.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,373,88,135,150
-Okeechobee,9.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,153,41,72,40
-Okeechobee,10.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,109,,,
-Okeechobee,11.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,137,35,47,55
-Okeechobee,2.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,60,,,
-Okeechobee,3.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,220,63,61,96
-Okeechobee,4.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,243,58,123,62
-Okeechobee,5.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,176,46,49,81
-Okeechobee,6,Governor,"",DEM,Charlie Crist / Karla Hernandez,377,107,124,146
-Okeechobee,7.1,Governor,"",DEM,Charlie Crist / Karla Hernandez,140,33,62,45
-Okeechobee,1.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",0,0,0,0
-Okeechobee,8.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",5,,,
-Okeechobee,9.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",2,,,
-Okeechobee,10.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",3,,,
-Okeechobee,11.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",3,,,
-Okeechobee,2.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",0,0,0,0
-Okeechobee,3.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",2,,,
-Okeechobee,4.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",0,0,0,0
-Okeechobee,5.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",2,,,
-Okeechobee,6,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",0,0,0,0
-Okeechobee,7.1,Governor,"",LPF,"Hector Roos / Jerry ""Tub"" Rorabaugh",1,,,
-Okeechobee,1.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,3,,,
-Okeechobee,8.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,5,,,
-Okeechobee,9.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,2,,,
-Okeechobee,10.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,1,,,
-Okeechobee,11.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,1,,,
-Okeechobee,2.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,1,,,
-Okeechobee,3.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,7,,,
-Okeechobee,4.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,8,,,
-Okeechobee,5.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,3,,,
-Okeechobee,6,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,8,,,
-Okeechobee,7.1,Governor,"",NPA,Carmen Jackie Gimenez / Kyle “KC” Gibson,4,,,
-Okeechobee,1.1,Attorney General,"",REP,Ashley Moody,653,,,
-Okeechobee,8.1,Attorney General,"",REP,Ashley Moody,1533,,,
-Okeechobee,9.1,Attorney General,"",REP,Ashley Moody,711,213,393,105
-Okeechobee,10.1,Attorney General,"",REP,Ashley Moody,544,152,266,126
-Okeechobee,11.1,Attorney General,"",REP,Ashley Moody,682,216,328,138
-Okeechobee,2.1,Attorney General,"",REP,Ashley Moody,395,89,237,69
-Okeechobee,3.1,Attorney General,"",REP,Ashley Moody,1205,,,
-Okeechobee,4.1,Attorney General,"",REP,Ashley Moody,713,236,375,102
-Okeechobee,5.1,Attorney General,"",REP,Ashley Moody,690,221,298,171
-Okeechobee,6,Attorney General,"",REP,Ashley Moody,1147,407,526,214
-Okeechobee,7.1,Attorney General,"",REP,Ashley Moody,431,135,212,84
-Okeechobee,1.1,Attorney General,"",DEM,Aramis Ayala,100,,,
-Okeechobee,8.1,Attorney General,"",DEM,Aramis Ayala,340,82,124,134
-Okeechobee,9.1,Attorney General,"",DEM,Aramis Ayala,141,39,65,37
-Okeechobee,10.1,Attorney General,"",DEM,Aramis Ayala,104,,,
-Okeechobee,11.1,Attorney General,"",DEM,Aramis Ayala,133,31,47,55
-Okeechobee,2.1,Attorney General,"",DEM,Aramis Ayala,60,,,
-Okeechobee,3.1,Attorney General,"",DEM,Aramis Ayala,227,65,63,99
-Okeechobee,4.1,Attorney General,"",DEM,Aramis Ayala,248,61,127,60
-Okeechobee,5.1,Attorney General,"",DEM,Aramis Ayala,166,44,42,80
-Okeechobee,6,Attorney General,"",DEM,Aramis Ayala,366,102,126,138
-Okeechobee,7.1,Attorney General,"",DEM,Aramis Ayala,140,31,63,46
-Okeechobee,1.1,Chief Financial Officer,"",REP,Jimmy Patronis,642,,,
-Okeechobee,8.1,Chief Financial Officer,"",REP,Jimmy Patronis,1477,,,
-Okeechobee,9.1,Chief Financial Officer,"",REP,Jimmy Patronis,693,209,385,99
-Okeechobee,10.1,Chief Financial Officer,"",REP,Jimmy Patronis,531,151,259,121
-Okeechobee,11.1,Chief Financial Officer,"",REP,Jimmy Patronis,661,213,318,130
-Okeechobee,2.1,Chief Financial Officer,"",REP,Jimmy Patronis,382,86,229,67
-Okeechobee,3.1,Chief Financial Officer,"",REP,Jimmy Patronis,1168,442,545,181
-Okeechobee,4.1,Chief Financial Officer,"",REP,Jimmy Patronis,689,231,368,90
-Okeechobee,5.1,Chief Financial Officer,"",REP,Jimmy Patronis,669,214,294,161
-Okeechobee,6,Chief Financial Officer,"",REP,Jimmy Patronis,1095,391,500,204
-Okeechobee,7.1,Chief Financial Officer,"",REP,Jimmy Patronis,421,133,209,79
-Okeechobee,1.1,Chief Financial Officer,"",DEM,Adam Hattersley,109,,,
-Okeechobee,8.1,Chief Financial Officer,"",DEM,Adam Hattersley,377,92,138,147
-Okeechobee,9.1,Chief Financial Officer,"",DEM,Adam Hattersley,149,41,69,39
-Okeechobee,10.1,Chief Financial Officer,"",DEM,Adam Hattersley,113,,,
-Okeechobee,11.1,Chief Financial Officer,"",DEM,Adam Hattersley,137,34,47,56
-Okeechobee,2.1,Chief Financial Officer,"",DEM,Adam Hattersley,66,,,
-Okeechobee,3.1,Chief Financial Officer,"",DEM,Adam Hattersley,250,,,
-Okeechobee,4.1,Chief Financial Officer,"",DEM,Adam Hattersley,255,66,126,63
-Okeechobee,5.1,Chief Financial Officer,"",DEM,Adam Hattersley,182,48,46,88
-Okeechobee,6,Chief Financial Officer,"",DEM,Adam Hattersley,395,114,142,139
-Okeechobee,7.1,Chief Financial Officer,"",DEM,Adam Hattersley,146,33,64,49
-Okeechobee,1.1,Commissioner of Agriculture,"",REP,Wilton Simpson,655,,,
-Okeechobee,8.1,Commissioner of Agriculture,"",REP,Wilton Simpson,1497,,,
-Okeechobee,9.1,Commissioner of Agriculture,"",REP,Wilton Simpson,709,210,391,108
-Okeechobee,10.1,Commissioner of Agriculture,"",REP,Wilton Simpson,541,151,266,124
-Okeechobee,11.1,Commissioner of Agriculture,"",REP,Wilton Simpson,671,207,332,132
-Okeechobee,2.1,Commissioner of Agriculture,"",REP,Wilton Simpson,392,89,236,67
-Okeechobee,3.1,Commissioner of Agriculture,"",REP,Wilton Simpson,1210,,,
-Okeechobee,4.1,Commissioner of Agriculture,"",REP,Wilton Simpson,688,237,359,92
-Okeechobee,5.1,Commissioner of Agriculture,"",REP,Wilton Simpson,673,213,293,167
-Okeechobee,6,Commissioner of Agriculture,"",REP,Wilton Simpson,1122,397,513,212
-Okeechobee,7.1,Commissioner of Agriculture,"",REP,Wilton Simpson,430,135,210,85
-Okeechobee,1.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,102,,,
-Okeechobee,8.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,357,85,134,138
-Okeechobee,9.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,137,38,66,33
-Okeechobee,10.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106,,,
-Okeechobee,11.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,135,37,42,56
-Okeechobee,2.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,62,,,
-Okeechobee,3.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,220,63,62,95
-Okeechobee,4.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,264,61,137,66
-Okeechobee,5.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,184,50,48,86
-Okeechobee,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,377,104,134,139
-Okeechobee,7.1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,143,33,65,45
-Okeechobee,1.1,Charles T. Canady - Supreme Court Justice,"","",Yes,485,,,
-Okeechobee,8.1,Charles T. Canady - Supreme Court Justice,"","",Yes,1270,,,
-Okeechobee,9.1,Charles T. Canady - Supreme Court Justice,"","",Yes,530,167,277,86
-Okeechobee,10.1,Charles T. Canady - Supreme Court Justice,"","",Yes,414,113,196,105
-Okeechobee,11.1,Charles T. Canady - Supreme Court Justice,"","",Yes,526,185,225,116
-Okeechobee,2.1,Charles T. Canady - Supreme Court Justice,"","",Yes,290,75,166,49
-Okeechobee,3.1,Charles T. Canady - Supreme Court Justice,"","",Yes,894,315,393,186
-Okeechobee,4.1,Charles T. Canady - Supreme Court Justice,"","",Yes,616,199,313,104
-Okeechobee,5.1,Charles T. Canady - Supreme Court Justice,"","",Yes,592,192,234,166
-Okeechobee,6,Charles T. Canady - Supreme Court Justice,"","",Yes,978,343,421,214
-Okeechobee,7.1,Charles T. Canady - Supreme Court Justice,"","",Yes,385,118,179,88
-Okeechobee,1.1,Charles T. Canady - Supreme Court Justice,"","",No,186,46,98,42
-Okeechobee,8.1,Charles T. Canady - Supreme Court Justice,"","",No,444,118,215,111
-Okeechobee,9.1,Charles T. Canady - Supreme Court Justice,"","",No,241,68,124,49
-Okeechobee,10.1,Charles T. Canady - Supreme Court Justice,"","",No,164,32,72,60
-Okeechobee,11.1,Charles T. Canady - Supreme Court Justice,"","",No,153,32,76,45
-Okeechobee,2.1,Charles T. Canady - Supreme Court Justice,"","",No,114,,,
-Okeechobee,3.1,Charles T. Canady - Supreme Court Justice,"","",No,390,,,
-Okeechobee,4.1,Charles T. Canady - Supreme Court Justice,"","",No,245,72,128,45
-Okeechobee,5.1,Charles T. Canady - Supreme Court Justice,"","",No,173,38,77,58
-Okeechobee,6,Charles T. Canady - Supreme Court Justice,"","",No,390,126,167,97
-Okeechobee,7.1,Charles T. Canady - Supreme Court Justice,"","",No,133,34,68,31
-Okeechobee,1.1,John D. Couriel - Supreme Court Justice,"","",Yes,499,,,
-Okeechobee,8.1,John D. Couriel - Supreme Court Justice,"","",Yes,1260,,,
-Okeechobee,9.1,John D. Couriel - Supreme Court Justice,"","",Yes,552,163,300,89
-Okeechobee,10.1,John D. Couriel - Supreme Court Justice,"","",Yes,421,116,202,103
-Okeechobee,11.1,John D. Couriel - Supreme Court Justice,"","",Yes,525,183,224,118
-Okeechobee,2.1,John D. Couriel - Supreme Court Justice,"","",Yes,297,73,168,56
-Okeechobee,3.1,John D. Couriel - Supreme Court Justice,"","",Yes,938,340,418,180
-Okeechobee,4.1,John D. Couriel - Supreme Court Justice,"","",Yes,619,195,316,108
-Okeechobee,5.1,John D. Couriel - Supreme Court Justice,"","",Yes,585,188,230,167
-Okeechobee,6,John D. Couriel - Supreme Court Justice,"","",Yes,967,334,426,207
-Okeechobee,7.1,John D. Couriel - Supreme Court Justice,"","",Yes,395,117,185,93
-Okeechobee,1.1,John D. Couriel - Supreme Court Justice,"","",No,171,42,93,36
-Okeechobee,8.1,John D. Couriel - Supreme Court Justice,"","",No,436,123,201,112
-Okeechobee,9.1,John D. Couriel - Supreme Court Justice,"","",No,217,72,99,46
-Okeechobee,10.1,John D. Couriel - Supreme Court Justice,"","",No,154,,,
-Okeechobee,11.1,John D. Couriel - Supreme Court Justice,"","",No,149,33,73,43
-Okeechobee,2.1,John D. Couriel - Supreme Court Justice,"","",No,106,,,
-Okeechobee,3.1,John D. Couriel - Supreme Court Justice,"","",No,340,,,
-Okeechobee,4.1,John D. Couriel - Supreme Court Justice,"","",No,236,75,120,41
-Okeechobee,5.1,John D. Couriel - Supreme Court Justice,"","",No,174,39,79,56
-Okeechobee,6,John D. Couriel - Supreme Court Justice,"","",No,386,131,152,103
-Okeechobee,7.1,John D. Couriel - Supreme Court Justice,"","",No,120,,,
-Okeechobee,1.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,503,,,
-Okeechobee,8.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,1255,,,
-Okeechobee,9.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,554,168,297,89
-Okeechobee,10.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,427,117,204,106
-Okeechobee,11.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,516,177,219,120
-Okeechobee,2.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,291,73,161,57
-Okeechobee,3.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,931,331,423,177
-Okeechobee,4.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,627,202,314,111
-Okeechobee,5.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,589,185,235,169
-Okeechobee,6,Jamie Grosshans - Supreme Court Justice,"","",Yes,967,332,422,213
-Okeechobee,7.1,Jamie Grosshans - Supreme Court Justice,"","",Yes,396,115,186,95
-Okeechobee,1.1,Jamie Grosshans - Supreme Court Justice,"","",No,167,39,93,35
-Okeechobee,8.1,Jamie Grosshans - Supreme Court Justice,"","",No,437,130,203,104
-Okeechobee,9.1,Jamie Grosshans - Supreme Court Justice,"","",No,215,66,103,46
-Okeechobee,10.1,Jamie Grosshans - Supreme Court Justice,"","",No,149,,,
-Okeechobee,11.1,Jamie Grosshans - Supreme Court Justice,"","",No,155,37,76,42
-Okeechobee,2.1,Jamie Grosshans - Supreme Court Justice,"","",No,107,,,
-Okeechobee,3.1,Jamie Grosshans - Supreme Court Justice,"","",No,344,,,
-Okeechobee,4.1,Jamie Grosshans - Supreme Court Justice,"","",No,229,68,124,37
-Okeechobee,5.1,Jamie Grosshans - Supreme Court Justice,"","",No,164,38,72,54
-Okeechobee,6,Jamie Grosshans - Supreme Court Justice,"","",No,386,135,154,97
-Okeechobee,7.1,Jamie Grosshans - Supreme Court Justice,"","",No,115,,,
-Okeechobee,1.1,Jorge Labarga - Supreme Court Justice,"","",Yes,358,,,
-Okeechobee,8.1,Jorge Labarga - Supreme Court Justice,"","",Yes,1082,360,476,246
-Okeechobee,9.1,Jorge Labarga - Supreme Court Justice,"","",Yes,460,143,240,77
-Okeechobee,10.1,Jorge Labarga - Supreme Court Justice,"","",Yes,363,94,170,99
-Okeechobee,11.1,Jorge Labarga - Supreme Court Justice,"","",Yes,457,157,192,108
-Okeechobee,2.1,Jorge Labarga - Supreme Court Justice,"","",Yes,248,69,137,42
-Okeechobee,3.1,Jorge Labarga - Supreme Court Justice,"","",Yes,741,265,294,182
-Okeechobee,4.1,Jorge Labarga - Supreme Court Justice,"","",Yes,575,176,282,117
-Okeechobee,5.1,Jorge Labarga - Supreme Court Justice,"","",Yes,504,167,183,154
-Okeechobee,6,Jorge Labarga - Supreme Court Justice,"","",Yes,845,283,360,202
-Okeechobee,7.1,Jorge Labarga - Supreme Court Justice,"","",Yes,311,90,150,71
-Okeechobee,1.1,Jorge Labarga - Supreme Court Justice,"","",No,309,87,160,62
-Okeechobee,8.1,Jorge Labarga - Supreme Court Justice,"","",No,613,,,
-Okeechobee,9.1,Jorge Labarga - Supreme Court Justice,"","",No,309,92,160,57
-Okeechobee,10.1,Jorge Labarga - Supreme Court Justice,"","",No,210,49,97,64
-Okeechobee,11.1,Jorge Labarga - Supreme Court Justice,"","",No,217,59,105,53
-Okeechobee,2.1,Jorge Labarga - Supreme Court Justice,"","",No,152,,,
-Okeechobee,3.1,Jorge Labarga - Supreme Court Justice,"","",No,539,,,
-Okeechobee,4.1,Jorge Labarga - Supreme Court Justice,"","",No,283,95,156,32
-Okeechobee,5.1,Jorge Labarga - Supreme Court Justice,"","",No,252,58,124,70
-Okeechobee,6,Jorge Labarga - Supreme Court Justice,"","",No,504,179,218,107
-Okeechobee,7.1,Jorge Labarga - Supreme Court Justice,"","",No,194,59,90,45
-Okeechobee,1.1,Ricky Polston - Supreme Court Justice,"","",Yes,461,,,
-Okeechobee,8.1,Ricky Polston - Supreme Court Justice,"","",Yes,1219,,,
-Okeechobee,9.1,Ricky Polston - Supreme Court Justice,"","",Yes,524,166,276,82
-Okeechobee,10.1,Ricky Polston - Supreme Court Justice,"","",Yes,401,105,197,99
-Okeechobee,11.1,Ricky Polston - Supreme Court Justice,"","",Yes,500,172,210,118
-Okeechobee,2.1,Ricky Polston - Supreme Court Justice,"","",Yes,280,72,156,52
-Okeechobee,3.1,Ricky Polston - Supreme Court Justice,"","",Yes,887,317,387,183
-Okeechobee,4.1,Ricky Polston - Supreme Court Justice,"","",Yes,602,189,301,112
-Okeechobee,5.1,Ricky Polston - Supreme Court Justice,"","",Yes,578,182,228,168
-Okeechobee,6,Ricky Polston - Supreme Court Justice,"","",Yes,959,332,416,211
-Okeechobee,7.1,Ricky Polston - Supreme Court Justice,"","",Yes,384,111,180,93
-Okeechobee,1.1,Ricky Polston - Supreme Court Justice,"","",No,207,48,116,43
-Okeechobee,8.1,Ricky Polston - Supreme Court Justice,"","",No,465,148,210,107
-Okeechobee,9.1,Ricky Polston - Supreme Court Justice,"","",No,245,70,124,51
-Okeechobee,10.1,Ricky Polston - Supreme Court Justice,"","",No,174,38,72,64
-Okeechobee,11.1,Ricky Polston - Supreme Court Justice,"","",No,172,42,86,44
-Okeechobee,2.1,Ricky Polston - Supreme Court Justice,"","",No,119,,,
-Okeechobee,3.1,Ricky Polston - Supreme Court Justice,"","",No,394,,,
-Okeechobee,4.1,Ricky Polston - Supreme Court Justice,"","",No,256,81,138,37
-Okeechobee,5.1,Ricky Polston - Supreme Court Justice,"","",No,181,45,81,55
-Okeechobee,6,Ricky Polston - Supreme Court Justice,"","",No,390,130,160,100
-Okeechobee,7.1,Ricky Polston - Supreme Court Justice,"","",No,131,,,
-Okeechobee,1.1,Ed Artau - 4th District Court of Appeal,"","",Yes,474,,,
-Okeechobee,8.1,Ed Artau - 4th District Court of Appeal,"","",Yes,1233,,,
-Okeechobee,9.1,Ed Artau - 4th District Court of Appeal,"","",Yes,542,164,288,90
-Okeechobee,10.1,Ed Artau - 4th District Court of Appeal,"","",Yes,407,111,198,98
-Okeechobee,11.1,Ed Artau - 4th District Court of Appeal,"","",Yes,503,180,208,115
-Okeechobee,2.1,Ed Artau - 4th District Court of Appeal,"","",Yes,288,73,164,51
-Okeechobee,3.1,Ed Artau - 4th District Court of Appeal,"","",Yes,898,324,395,179
-Okeechobee,4.1,Ed Artau - 4th District Court of Appeal,"","",Yes,613,191,311,111
-Okeechobee,5.1,Ed Artau - 4th District Court of Appeal,"","",Yes,568,179,227,162
-Okeechobee,6,Ed Artau - 4th District Court of Appeal,"","",Yes,958,332,416,210
-Okeechobee,7.1,Ed Artau - 4th District Court of Appeal,"","",Yes,385,108,184,93
-Okeechobee,1.1,Ed Artau - 4th District Court of Appeal,"","",No,187,46,106,35
-Okeechobee,8.1,Ed Artau - 4th District Court of Appeal,"","",No,445,140,204,101
-Okeechobee,9.1,Ed Artau - 4th District Court of Appeal,"","",No,224,71,110,43
-Okeechobee,10.1,Ed Artau - 4th District Court of Appeal,"","",No,161,32,68,61
-Okeechobee,11.1,Ed Artau - 4th District Court of Appeal,"","",No,161,36,80,45
-Okeechobee,2.1,Ed Artau - 4th District Court of Appeal,"","",No,111,,,
-Okeechobee,3.1,Ed Artau - 4th District Court of Appeal,"","",No,373,,,
-Okeechobee,4.1,Ed Artau - 4th District Court of Appeal,"","",No,242,77,127,38
-Okeechobee,5.1,Ed Artau - 4th District Court of Appeal,"","",No,181,46,78,57
-Okeechobee,6,Ed Artau - 4th District Court of Appeal,"","",No,380,127,157,96
-Okeechobee,7.1,Ed Artau - 4th District Court of Appeal,"","",No,124,,,
-Okeechobee,1.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,394,112,194,88
-Okeechobee,8.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,1113,364,491,258
-Okeechobee,9.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,480,159,241,80
-Okeechobee,10.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,344,89,164,91
-Okeechobee,11.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,461,159,190,112
-Okeechobee,2.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,258,67,145,46
-Okeechobee,3.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,788,269,337,182
-Okeechobee,4.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,557,174,276,107
-Okeechobee,5.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,517,171,188,158
-Okeechobee,6,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,859,279,376,204
-Okeechobee,7.1,Cory J. Ciklin - 4th District Court of Appeal,"","",Yes,323,84,162,77
-Okeechobee,1.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,262,,,
-Okeechobee,8.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,555,,,
-Okeechobee,9.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,282,76,153,53
-Okeechobee,10.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,220,54,99,67
-Okeechobee,11.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,200,55,97,48
-Okeechobee,2.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,139,,,
-Okeechobee,3.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,474,,,
-Okeechobee,4.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,291,92,160,39
-Okeechobee,5.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,228,53,116,59
-Okeechobee,6,Cory J. Ciklin - 4th District Court of Appeal,"","",No,476,176,194,106
-Okeechobee,7.1,Cory J. Ciklin - 4th District Court of Appeal,"","",No,181,64,76,41
-Okeechobee,1.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,441,141,214,86
-Okeechobee,8.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,1172,,,
-Okeechobee,9.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,520,164,276,80
-Okeechobee,10.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,375,104,175,96
-Okeechobee,11.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,484,173,198,113
-Okeechobee,2.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,270,75,148,47
-Okeechobee,3.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,838,293,362,183
-Okeechobee,4.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,592,185,289,118
-Okeechobee,5.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,548,179,210,159
-Okeechobee,6,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,915,322,386,207
-Okeechobee,7.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",Yes,346,93,167,86
-Okeechobee,1.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,217,,,
-Okeechobee,8.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,489,155,226,108
-Okeechobee,9.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,242,71,118,53
-Okeechobee,10.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,191,39,90,62
-Okeechobee,11.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,177,42,88,47
-Okeechobee,2.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,129,,,
-Okeechobee,3.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,420,,,
-Okeechobee,4.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,261,83,147,31
-Okeechobee,5.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,194,43,95,56
-Okeechobee,6,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,415,130,184,101
-Okeechobee,7.1,Dorian K. Damoorgian - 4th District Court of Appeal,"","",No,156,53,72,31
-Okeechobee,1.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,465,150,221,94
-Okeechobee,8.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,1238,,,
-Okeechobee,9.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,544,168,290,86
-Okeechobee,10.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,404,116,191,97
-Okeechobee,11.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,502,179,205,118
-Okeechobee,2.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,287,74,158,55
-Okeechobee,3.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,876,309,379,188
-Okeechobee,4.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,609,191,302,116
-Okeechobee,5.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,580,182,230,168
-Okeechobee,6,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,951,323,413,215
-Okeechobee,7.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",Yes,361,98,174,89
-Okeechobee,1.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,194,,,
-Okeechobee,8.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,429,129,203,97
-Okeechobee,9.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,219,66,106,47
-Okeechobee,10.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,160,,,
-Okeechobee,11.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,159,36,81,42
-Okeechobee,2.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,114,,,
-Okeechobee,3.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,385,,,
-Okeechobee,4.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,243,76,134,33
-Okeechobee,5.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,169,42,76,51
-Okeechobee,6,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,380,129,157,94
-Okeechobee,7.1,Jonathan D. Gerber - 4th District Court of Appeal,"","",No,142,,,
-Okeechobee,1.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,437,141,210,86
-Okeechobee,8.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,1169,,,
-Okeechobee,9.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,494,157,247,90
-Okeechobee,10.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,387,102,185,100
-Okeechobee,11.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,487,179,201,107
-Okeechobee,2.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,258,70,143,45
-Okeechobee,3.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,823,290,354,179
-Okeechobee,4.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,579,175,292,112
-Okeechobee,5.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,536,173,194,169
-Okeechobee,6,Robert M. Gross - 4th District Court of Appeal,"","",Yes,912,311,396,205
-Okeechobee,7.1,Robert M. Gross - 4th District Court of Appeal,"","",Yes,339,92,160,87
-Okeechobee,1.1,Robert M. Gross - 4th District Court of Appeal,"","",No,224,,,
-Okeechobee,8.1,Robert M. Gross - 4th District Court of Appeal,"","",No,491,146,236,109
-Okeechobee,9.1,Robert M. Gross - 4th District Court of Appeal,"","",No,258,77,138,43
-Okeechobee,10.1,Robert M. Gross - 4th District Court of Appeal,"","",No,177,39,79,59
-Okeechobee,11.1,Robert M. Gross - 4th District Court of Appeal,"","",No,174,37,88,49
-Okeechobee,2.1,Robert M. Gross - 4th District Court of Appeal,"","",No,130,,,
-Okeechobee,3.1,Robert M. Gross - 4th District Court of Appeal,"","",No,420,,,
-Okeechobee,4.1,Robert M. Gross - 4th District Court of Appeal,"","",No,262,85,140,37
-Okeechobee,5.1,Robert M. Gross - 4th District Court of Appeal,"","",No,188,46,96,46
-Okeechobee,6,Robert M. Gross - 4th District Court of Appeal,"","",No,412,141,170,101
-Okeechobee,7.1,Robert M. Gross - 4th District Court of Appeal,"","",No,156,,,
-Okeechobee,1.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,457,142,216,99
-Okeechobee,8.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,1193,,,
-Okeechobee,9.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,509,164,257,88
-Okeechobee,10.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,380,103,180,97
-Okeechobee,11.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,493,180,206,107
-Okeechobee,2.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,270,71,148,51
-Okeechobee,3.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,835,289,368,178
-Okeechobee,4.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,585,184,289,112
-Okeechobee,5.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,536,169,203,164
-Okeechobee,6,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,918,309,402,207
-Okeechobee,7.1,Spencer D. Levine - 4th District Court of Appeal,"","",Yes,352,95,168,89
-Okeechobee,1.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,198,,,
-Okeechobee,8.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,466,145,215,106
-Okeechobee,9.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,241,70,126,45
-Okeechobee,10.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,174,36,81,57
-Okeechobee,11.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,164,34,83,47
-Okeechobee,2.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,119,,,
-Okeechobee,3.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,403,,,
-Okeechobee,4.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,252,77,139,36
-Okeechobee,5.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,182,45,86,51
-Okeechobee,6,Spencer D. Levine - 4th District Court of Appeal,"","",No,395,136,161,98
-Okeechobee,7.1,Spencer D. Levine - 4th District Court of Appeal,"","",No,143,,,
-Okeechobee,1.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,477,,,
-Okeechobee,8.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,1251,,,
-Okeechobee,9.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,530,166,266,98
-Okeechobee,10.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,405,113,186,106
-Okeechobee,11.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,503,180,204,119
-Okeechobee,2.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,273,77,147,49
-Okeechobee,3.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,865,304,381,180
-Okeechobee,4.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,618,197,301,120
-Okeechobee,5.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,554,179,204,171
-Okeechobee,6,Melanie G. May - 4th District Court of Appeal,"","",Yes,954,324,407,223
-Okeechobee,7.1,Melanie G. May - 4th District Court of Appeal,"","",Yes,370,103,177,90
-Okeechobee,1.1,Melanie G. May - 4th District Court of Appeal,"","",No,181,43,106,32
-Okeechobee,8.1,Melanie G. May - 4th District Court of Appeal,"","",No,419,130,198,91
-Okeechobee,9.1,Melanie G. May - 4th District Court of Appeal,"","",No,224,67,122,35
-Okeechobee,10.1,Melanie G. May - 4th District Court of Appeal,"","",No,155,,,
-Okeechobee,11.1,Melanie G. May - 4th District Court of Appeal,"","",No,150,33,81,36
-Okeechobee,2.1,Melanie G. May - 4th District Court of Appeal,"","",No,116,,,
-Okeechobee,3.1,Melanie G. May - 4th District Court of Appeal,"","",No,375,,,
-Okeechobee,4.1,Melanie G. May - 4th District Court of Appeal,"","",No,218,,,
-Okeechobee,5.1,Melanie G. May - 4th District Court of Appeal,"","",No,170,40,86,44
-Okeechobee,6,Melanie G. May - 4th District Court of Appeal,"","",No,351,122,148,81
-Okeechobee,7.1,Melanie G. May - 4th District Court of Appeal,"","",No,125,,,
-Okeechobee,6,City Council Members,"","",Jon Folbrecht,343,105,162,76
-Okeechobee,6,City Council Members,"","",Bob Jarriel,751,270,310,171
-Okeechobee,6,City Council Members,"","",David R. McAuley,544,191,220,133
-Okeechobee,6,City Council Members,"","",Christopher Adam Martin,358,124,143,91
-Okeechobee,6,City Council Members,"","",Dowling R. Watford Jr,848,282,351,215
-Okeechobee,1.1,No. 1 Constitutional Amendment,"","",Yes,391,,,
-Okeechobee,8.1,No. 1 Constitutional Amendment,"","",Yes,1036,348,459,229
-Okeechobee,9.1,No. 1 Constitutional Amendment,"","",Yes,421,138,203,80
-Okeechobee,10.1,No. 1 Constitutional Amendment,"","",Yes,323,82,139,102
-Okeechobee,11.1,No. 1 Constitutional Amendment,"","",Yes,446,153,192,101
-Okeechobee,2.1,No. 1 Constitutional Amendment,"","",Yes,217,53,122,42
-Okeechobee,3.1,No. 1 Constitutional Amendment,"","",Yes,741,261,318,162
-Okeechobee,4.1,No. 1 Constitutional Amendment,"","",Yes,464,151,229,84
-Okeechobee,5.1,No. 1 Constitutional Amendment,"","",Yes,457,151,179,127
-Okeechobee,6,No. 1 Constitutional Amendment,"","",Yes,754,284,293,177
-Okeechobee,7.1,No. 1 Constitutional Amendment,"","",Yes,309,86,145,78
-Okeechobee,1.1,No. 1 Constitutional Amendment,"","",No,300,72,163,65
-Okeechobee,8.1,No. 1 Constitutional Amendment,"","",No,735,,,
-Okeechobee,9.1,No. 1 Constitutional Amendment,"","",No,365,103,206,56
-Okeechobee,10.1,No. 1 Constitutional Amendment,"","",No,275,73,141,61
-Okeechobee,11.1,No. 1 Constitutional Amendment,"","",No,281,78,134,69
-Okeechobee,2.1,No. 1 Constitutional Amendment,"","",No,212,45,126,41
-Okeechobee,3.1,No. 1 Constitutional Amendment,"","",No,606,,,
-Okeechobee,4.1,No. 1 Constitutional Amendment,"","",No,432,136,230,66
-Okeechobee,5.1,No. 1 Constitutional Amendment,"","",No,322,93,121,108
-Okeechobee,6,No. 1 Constitutional Amendment,"","",No,649,202,300,147
-Okeechobee,7.1,No. 1 Constitutional Amendment,"","",No,213,73,100,40
-Okeechobee,1.1,No. 2 Constitutional Amendment,"","",Yes,362,,,
-Okeechobee,8.1,No. 2 Constitutional Amendment,"","",Yes,1022,,,
-Okeechobee,9.1,No. 2 Constitutional Amendment,"","",Yes,456,155,224,77
-Okeechobee,10.1,No. 2 Constitutional Amendment,"","",Yes,305,75,144,86
-Okeechobee,11.1,No. 2 Constitutional Amendment,"","",Yes,441,139,200,102
-Okeechobee,2.1,No. 2 Constitutional Amendment,"","",Yes,223,54,130,39
-Okeechobee,3.1,No. 2 Constitutional Amendment,"","",Yes,719,255,311,153
-Okeechobee,4.1,No. 2 Constitutional Amendment,"","",Yes,477,166,225,86
-Okeechobee,5.1,No. 2 Constitutional Amendment,"","",Yes,414,125,170,119
-Okeechobee,6,No. 2 Constitutional Amendment,"","",Yes,741,269,305,167
-Okeechobee,7.1,No. 2 Constitutional Amendment,"","",Yes,295,87,140,68
-Okeechobee,1.1,No. 2 Constitutional Amendment,"","",No,323,104,161,58
-Okeechobee,8.1,No. 2 Constitutional Amendment,"","",No,739,227,349,163
-Okeechobee,9.1,No. 2 Constitutional Amendment,"","",No,326,89,179,58
-Okeechobee,10.1,No. 2 Constitutional Amendment,"","",No,289,80,132,77
-Okeechobee,11.1,No. 2 Constitutional Amendment,"","",No,287,92,129,66
-Okeechobee,2.1,No. 2 Constitutional Amendment,"","",No,199,42,115,42
-Okeechobee,3.1,No. 2 Constitutional Amendment,"","",No,615,,,
-Okeechobee,4.1,No. 2 Constitutional Amendment,"","",No,417,120,232,65
-Okeechobee,5.1,No. 2 Constitutional Amendment,"","",No,359,113,133,113
-Okeechobee,6,No. 2 Constitutional Amendment,"","",No,646,209,285,152
-Okeechobee,7.1,No. 2 Constitutional Amendment,"","",No,221,66,106,49
-Okeechobee,1.1,No. 3 Constitutional Amendment,"","",Yes,399,99,211,89
-Okeechobee,8.1,No. 3 Constitutional Amendment,"","",Yes,1107,,,
-Okeechobee,9.1,No. 3 Constitutional Amendment,"","",Yes,488,153,261,74
-Okeechobee,10.1,No. 3 Constitutional Amendment,"","",Yes,371,100,185,86
-Okeechobee,11.1,No. 3 Constitutional Amendment,"","",Yes,466,143,211,112
-Okeechobee,2.1,No. 3 Constitutional Amendment,"","",Yes,246,56,138,52
-Okeechobee,3.1,No. 3 Constitutional Amendment,"","",Yes,763,281,330,152
-Okeechobee,4.1,No. 3 Constitutional Amendment,"","",Yes,600,182,317,101
-Okeechobee,5.1,No. 3 Constitutional Amendment,"","",Yes,483,153,189,141
-Okeechobee,6,No. 3 Constitutional Amendment,"","",Yes,881,298,406,177
-Okeechobee,7.1,No. 3 Constitutional Amendment,"","",Yes,317,93,154,70
-Okeechobee,1.1,No. 3 Constitutional Amendment,"","",No,324,,,
-Okeechobee,8.1,No. 3 Constitutional Amendment,"","",No,712,217,322,173
-Okeechobee,9.1,No. 3 Constitutional Amendment,"","",No,322,94,164,64
-Okeechobee,10.1,No. 3 Constitutional Amendment,"","",No,252,64,104,84
-Okeechobee,11.1,No. 3 Constitutional Amendment,"","",No,291,93,134,64
-Okeechobee,2.1,No. 3 Constitutional Amendment,"","",No,195,46,116,33
-Okeechobee,3.1,No. 3 Constitutional Amendment,"","",No,628,,,
-Okeechobee,4.1,No. 3 Constitutional Amendment,"","",No,313,107,151,55
-Okeechobee,5.1,No. 3 Constitutional Amendment,"","",No,326,97,124,105
-Okeechobee,6,No. 3 Constitutional Amendment,"","",No,556,197,200,159
-Okeechobee,7.1,No. 3 Constitutional Amendment,"","",No,219,65,102,52
-Okeechobee,6,City Charter Amendment,"","",Yes,829,273,366,190
-Okeechobee,6,City Charter Amendment,"","",No,492,180,201,111
+county,precinct,office,district,party,candidate,votes
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"",REP,Marco Rubio,651
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"",REP,Marco Rubio,390
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"",REP,Marco Rubio,1182
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"",REP,Marco Rubio,706
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"",REP,Marco Rubio,674
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"",REP,Marco Rubio,1129
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"",REP,Marco Rubio,432
+Okeechobee,8-KOA,U.S. Senate,"",REP,Marco Rubio,1480
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"",REP,Marco Rubio,688
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"",REP,Marco Rubio,533
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"",REP,Marco Rubio,667
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"",DEM,Val Demings,111
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"",DEM,Val Demings,64
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"",DEM,Val Demings,256
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"",DEM,Val Demings,259
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"",DEM,Val Demings,183
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"",DEM,Val Demings,383
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"",DEM,Val Demings,139
+Okeechobee,8-KOA,U.S. Senate,"",DEM,Val Demings,401
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"",DEM,Val Demings,161
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"",DEM,Val Demings,112
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"",DEM,Val Demings,149
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"",LPF,Dennis Misigoy,3
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"",LPF,Dennis Misigoy,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"",LPF,Dennis Misigoy,4
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"",LPF,Dennis Misigoy,2
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"",LPF,Dennis Misigoy,2
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"",LPF,Dennis Misigoy,12
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"",LPF,Dennis Misigoy,3
+Okeechobee,8-KOA,U.S. Senate,"",LPF,Dennis Misigoy,3
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"",LPF,Dennis Misigoy,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"",LPF,Dennis Misigoy,4
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"",LPF,Dennis Misigoy,4
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"",NPA,Steven B. Grant,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"",NPA,Steven B. Grant,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"",NPA,Steven B. Grant,8
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"",NPA,Steven B. Grant,3
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"",NPA,Steven B. Grant,6
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"",NPA,Steven B. Grant,11
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"",NPA,Steven B. Grant,1
+Okeechobee,8-KOA,U.S. Senate,"",NPA,Steven B. Grant,10
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"",NPA,Steven B. Grant,8
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"",NPA,Steven B. Grant,3
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"",NPA,Steven B. Grant,7
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"",NPA,Tuan TQ Nguyen,3
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Okeechobee,8-KOA,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"",NPA,Tuan TQ Nguyen,2
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"",NPA,Tuan TQ Nguyen,1
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"",NPA,Tuan TQ Nguyen,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"","",WriteinVotes,2
+Okeechobee,8-KOA,U.S. Senate,"","",WriteinVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"","",WriteinVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"","",WriteinVotes,1
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"","",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"","",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"","",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"","",OverVotes,1
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"","",OverVotes,1
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"","",OverVotes,0
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"","",OverVotes,1
+Okeechobee,8-KOA,U.S. Senate,"","",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"","",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"","",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. Senate,"","",UnderVotes,3
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. Senate,"","",UnderVotes,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. Senate,"","",UnderVotes,9
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. Senate,"","",UnderVotes,6
+Okeechobee,5-FREEDOM RANCH,U.S. Senate,"","",UnderVotes,8
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. Senate,"","",UnderVotes,12
+Okeechobee,7 - HAMPTON INN,U.S. Senate,"","",UnderVotes,1
+Okeechobee,8-KOA,U.S. Senate,"","",UnderVotes,11
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. Senate,"","",UnderVotes,4
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. Senate,"","",UnderVotes,6
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. Senate,"","",UnderVotes,3
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. House,18,REP,Scott Franklin,650
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. House,18,REP,Scott Franklin,391
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. House,18,REP,Scott Franklin,1176
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. House,18,REP,Scott Franklin,716
+Okeechobee,5-FREEDOM RANCH,U.S. House,18,REP,Scott Franklin,676
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. House,18,REP,Scott Franklin,1113
+Okeechobee,7 - HAMPTON INN,U.S. House,18,REP,Scott Franklin,432
+Okeechobee,8-KOA,U.S. House,18,REP,Scott Franklin,1514
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. House,18,REP,Scott Franklin,702
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. House,18,REP,Scott Franklin,521
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. House,18,REP,Scott Franklin,670
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. House,18,NPA,Keith R. Hayden Jr,81
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. House,18,NPA,Keith R. Hayden Jr,57
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. House,18,NPA,Keith R. Hayden Jr,219
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. House,18,NPA,Keith R. Hayden Jr,213
+Okeechobee,5-FREEDOM RANCH,U.S. House,18,NPA,Keith R. Hayden Jr,155
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. House,18,NPA,Keith R. Hayden Jr,348
+Okeechobee,7 - HAMPTON INN,U.S. House,18,NPA,Keith R. Hayden Jr,113
+Okeechobee,8-KOA,U.S. House,18,NPA,Keith R. Hayden Jr,316
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. House,18,NPA,Keith R. Hayden Jr,138
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. House,18,NPA,Keith R. Hayden Jr,103
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. House,18,NPA,Keith R. Hayden Jr,117
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. House,18,"",WriteinVotes,6
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. House,18,"",WriteinVotes,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. House,18,"",WriteinVotes,5
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. House,18,"",WriteinVotes,2
+Okeechobee,5-FREEDOM RANCH,U.S. House,18,"",WriteinVotes,2
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. House,18,"",WriteinVotes,4
+Okeechobee,7 - HAMPTON INN,U.S. House,18,"",WriteinVotes,1
+Okeechobee,8-KOA,U.S. House,18,"",WriteinVotes,4
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. House,18,"",WriteinVotes,1
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. House,18,"",WriteinVotes,2
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. House,18,"",WriteinVotes,2
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. House,18,"",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. House,18,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. House,18,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. House,18,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,U.S. House,18,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. House,18,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,U.S. House,18,"",OverVotes,0
+Okeechobee,8-KOA,U.S. House,18,"",OverVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. House,18,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. House,18,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. House,18,"",OverVotes,1
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,U.S. House,18,"",UnderVotes,32
+Okeechobee,2-BASINGER COMMUNITY CENTER,U.S. House,18,"",UnderVotes,8
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,U.S. House,18,"",UnderVotes,62
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,U.S. House,18,"",UnderVotes,48
+Okeechobee,5-FREEDOM RANCH,U.S. House,18,"",UnderVotes,44
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,U.S. House,18,"",UnderVotes,84
+Okeechobee,7 - HAMPTON INN,U.S. House,18,"",UnderVotes,35
+Okeechobee,8-KOA,U.S. House,18,"",UnderVotes,72
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,U.S. House,18,"",UnderVotes,22
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,U.S. House,18,"",UnderVotes,33
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,U.S. House,18,"",UnderVotes,41
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Governor,"",REP,DeSantis / Nuñez,670
+Okeechobee,2-BASINGER COMMUNITY CENTER,Governor,"",REP,DeSantis / Nuñez,395
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Governor,"",REP,DeSantis / Nuñez,1228
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Governor,"",REP,DeSantis / Nuñez,723
+Okeechobee,5-FREEDOM RANCH,Governor,"",REP,DeSantis / Nuñez,691
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Governor,"",REP,DeSantis / Nuñez,1159
+Okeechobee,7 - HAMPTON INN,Governor,"",REP,DeSantis / Nuñez,433
+Okeechobee,8-KOA,Governor,"",REP,DeSantis / Nuñez,1516
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Governor,"",REP,DeSantis / Nuñez,704
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Governor,"",REP,DeSantis / Nuñez,543
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Governor,"",REP,DeSantis / Nuñez,684
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Governor,"",DEM,Crist / Hernandez,91
+Okeechobee,2-BASINGER COMMUNITY CENTER,Governor,"",DEM,Crist / Hernandez,60
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Governor,"",DEM,Crist / Hernandez,220
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Governor,"",DEM,Crist / Hernandez,243
+Okeechobee,5-FREEDOM RANCH,Governor,"",DEM,Crist / Hernandez,176
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Governor,"",DEM,Crist / Hernandez,377
+Okeechobee,7 - HAMPTON INN,Governor,"",DEM,Crist / Hernandez,140
+Okeechobee,8-KOA,Governor,"",DEM,Crist / Hernandez,373
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Governor,"",DEM,Crist / Hernandez,153
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Governor,"",DEM,Crist / Hernandez,109
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Governor,"",DEM,Crist / Hernandez,137
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Governor,"",LPF,Roos / Rorabaugh,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Governor,"",LPF,Roos / Rorabaugh,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Governor,"",LPF,Roos / Rorabaugh,2
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Governor,"",LPF,Roos / Rorabaugh,0
+Okeechobee,5-FREEDOM RANCH,Governor,"",LPF,Roos / Rorabaugh,2
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Governor,"",LPF,Roos / Rorabaugh,0
+Okeechobee,7 - HAMPTON INN,Governor,"",LPF,Roos / Rorabaugh,1
+Okeechobee,8-KOA,Governor,"",LPF,Roos / Rorabaugh,5
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Governor,"",LPF,Roos / Rorabaugh,2
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Governor,"",LPF,Roos / Rorabaugh,3
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Governor,"",LPF,Roos / Rorabaugh,3
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Governor,"",NPA,Gimenez / Gibson,3
+Okeechobee,2-BASINGER COMMUNITY CENTER,Governor,"",NPA,Gimenez / Gibson,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Governor,"",NPA,Gimenez / Gibson,7
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Governor,"",NPA,Gimenez / Gibson,8
+Okeechobee,5-FREEDOM RANCH,Governor,"",NPA,Gimenez / Gibson,3
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Governor,"",NPA,Gimenez / Gibson,8
+Okeechobee,7 - HAMPTON INN,Governor,"",NPA,Gimenez / Gibson,4
+Okeechobee,8-KOA,Governor,"",NPA,Gimenez / Gibson,5
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Governor,"",NPA,Gimenez / Gibson,2
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Governor,"",NPA,Gimenez / Gibson,1
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Governor,"",NPA,Gimenez / Gibson,1
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Governor,"","",OverVotes,2
+Okeechobee,2-BASINGER COMMUNITY CENTER,Governor,"","",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Governor,"","",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Governor,"","",OverVotes,1
+Okeechobee,5-FREEDOM RANCH,Governor,"","",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Governor,"","",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Governor,"","",OverVotes,2
+Okeechobee,8-KOA,Governor,"","",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Governor,"","",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Governor,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Governor,"","",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Governor,"","",UnderVotes,3
+Okeechobee,2-BASINGER COMMUNITY CENTER,Governor,"","",UnderVotes,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Governor,"","",UnderVotes,5
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Governor,"","",UnderVotes,4
+Okeechobee,5-FREEDOM RANCH,Governor,"","",UnderVotes,5
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Governor,"","",UnderVotes,5
+Okeechobee,7 - HAMPTON INN,Governor,"","",UnderVotes,1
+Okeechobee,8-KOA,Governor,"","",UnderVotes,8
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Governor,"","",UnderVotes,2
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Governor,"","",UnderVotes,3
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Governor,"","",UnderVotes,6
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Attorney General,"",REP,Ashley Moody,653
+Okeechobee,2-BASINGER COMMUNITY CENTER,Attorney General,"",REP,Ashley Moody,395
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Attorney General,"",REP,Ashley Moody,1205
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Attorney General,"",REP,Ashley Moody,713
+Okeechobee,5-FREEDOM RANCH,Attorney General,"",REP,Ashley Moody,690
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Attorney General,"",REP,Ashley Moody,1147
+Okeechobee,7 - HAMPTON INN,Attorney General,"",REP,Ashley Moody,431
+Okeechobee,8-KOA,Attorney General,"",REP,Ashley Moody,1533
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Attorney General,"",REP,Ashley Moody,711
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Attorney General,"",REP,Ashley Moody,544
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Attorney General,"",REP,Ashley Moody,682
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Attorney General,"",DEM,Aramis Ayala,100
+Okeechobee,2-BASINGER COMMUNITY CENTER,Attorney General,"",DEM,Aramis Ayala,60
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Attorney General,"",DEM,Aramis Ayala,227
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Attorney General,"",DEM,Aramis Ayala,248
+Okeechobee,5-FREEDOM RANCH,Attorney General,"",DEM,Aramis Ayala,166
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Attorney General,"",DEM,Aramis Ayala,366
+Okeechobee,7 - HAMPTON INN,Attorney General,"",DEM,Aramis Ayala,140
+Okeechobee,8-KOA,Attorney General,"",DEM,Aramis Ayala,340
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Attorney General,"",DEM,Aramis Ayala,141
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Attorney General,"",DEM,Aramis Ayala,104
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Attorney General,"",DEM,Aramis Ayala,133
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Attorney General,"","",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Attorney General,"","",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Attorney General,"","",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Attorney General,"","",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Attorney General,"","",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Attorney General,"","",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Attorney General,"","",OverVotes,0
+Okeechobee,8-KOA,Attorney General,"","",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Attorney General,"","",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Attorney General,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Attorney General,"","",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Attorney General,"","",UnderVotes,16
+Okeechobee,2-BASINGER COMMUNITY CENTER,Attorney General,"","",UnderVotes,2
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Attorney General,"","",UnderVotes,30
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Attorney General,"","",UnderVotes,18
+Okeechobee,5-FREEDOM RANCH,Attorney General,"","",UnderVotes,21
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Attorney General,"","",UnderVotes,36
+Okeechobee,7 - HAMPTON INN,Attorney General,"","",UnderVotes,10
+Okeechobee,8-KOA,Attorney General,"","",UnderVotes,34
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Attorney General,"","",UnderVotes,11
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Attorney General,"","",UnderVotes,11
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Attorney General,"","",UnderVotes,16
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,642
+Okeechobee,2-BASINGER COMMUNITY CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,382
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Chief Financial Officer,"",REP,Jimmy Patronis,1168
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,689
+Okeechobee,5-FREEDOM RANCH,Chief Financial Officer,"",REP,Jimmy Patronis,669
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Chief Financial Officer,"",REP,Jimmy Patronis,1095
+Okeechobee,7 - HAMPTON INN,Chief Financial Officer,"",REP,Jimmy Patronis,421
+Okeechobee,8-KOA,Chief Financial Officer,"",REP,Jimmy Patronis,1477
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Chief Financial Officer,"",REP,Jimmy Patronis,693
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Chief Financial Officer,"",REP,Jimmy Patronis,531
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Chief Financial Officer,"",REP,Jimmy Patronis,661
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Chief Financial Officer,"",DEM,Adam Hattersley,109
+Okeechobee,2-BASINGER COMMUNITY CENTER,Chief Financial Officer,"",DEM,Adam Hattersley,66
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Chief Financial Officer,"",DEM,Adam Hattersley,250
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Chief Financial Officer,"",DEM,Adam Hattersley,255
+Okeechobee,5-FREEDOM RANCH,Chief Financial Officer,"",DEM,Adam Hattersley,182
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Chief Financial Officer,"",DEM,Adam Hattersley,395
+Okeechobee,7 - HAMPTON INN,Chief Financial Officer,"",DEM,Adam Hattersley,146
+Okeechobee,8-KOA,Chief Financial Officer,"",DEM,Adam Hattersley,377
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Chief Financial Officer,"",DEM,Adam Hattersley,149
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Chief Financial Officer,"",DEM,Adam Hattersley,113
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Chief Financial Officer,"",DEM,Adam Hattersley,137
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Chief Financial Officer,"","",OverVotes,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,8-KOA,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Chief Financial Officer,"","",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Chief Financial Officer,"","",UnderVotes,18
+Okeechobee,2-BASINGER COMMUNITY CENTER,Chief Financial Officer,"","",UnderVotes,8
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Chief Financial Officer,"","",UnderVotes,44
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Chief Financial Officer,"","",UnderVotes,35
+Okeechobee,5-FREEDOM RANCH,Chief Financial Officer,"","",UnderVotes,26
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Chief Financial Officer,"","",UnderVotes,59
+Okeechobee,7 - HAMPTON INN,Chief Financial Officer,"","",UnderVotes,14
+Okeechobee,8-KOA,Chief Financial Officer,"","",UnderVotes,53
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Chief Financial Officer,"","",UnderVotes,21
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Chief Financial Officer,"","",UnderVotes,15
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Chief Financial Officer,"","",UnderVotes,33
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Commissioner of Agriculture,"",REP,Wilton Simpson,655
+Okeechobee,2-BASINGER COMMUNITY CENTER,Commissioner of Agriculture,"",REP,Wilton Simpson,392
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Commissioner of Agriculture,"",REP,Wilton Simpson,1210
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Commissioner of Agriculture,"",REP,Wilton Simpson,688
+Okeechobee,5-FREEDOM RANCH,Commissioner of Agriculture,"",REP,Wilton Simpson,673
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Commissioner of Agriculture,"",REP,Wilton Simpson,1122
+Okeechobee,7 - HAMPTON INN,Commissioner of Agriculture,"",REP,Wilton Simpson,430
+Okeechobee,8-KOA,Commissioner of Agriculture,"",REP,Wilton Simpson,1497
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Commissioner of Agriculture,"",REP,Wilton Simpson,709
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Commissioner of Agriculture,"",REP,Wilton Simpson,541
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Commissioner of Agriculture,"",REP,Wilton Simpson,671
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,102
+Okeechobee,2-BASINGER COMMUNITY CENTER,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,62
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,220
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,264
+Okeechobee,5-FREEDOM RANCH,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,184
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,377
+Okeechobee,7 - HAMPTON INN,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,143
+Okeechobee,8-KOA,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,357
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,137
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,135
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,8-KOA,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Commissioner of Agriculture,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Commissioner of Agriculture,"","",OverVotes,1
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Commissioner of Agriculture,"","",UnderVotes,12
+Okeechobee,2-BASINGER COMMUNITY CENTER,Commissioner of Agriculture,"","",UnderVotes,3
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Commissioner of Agriculture,"","",UnderVotes,32
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Commissioner of Agriculture,"","",UnderVotes,27
+Okeechobee,5-FREEDOM RANCH,Commissioner of Agriculture,"","",UnderVotes,20
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Commissioner of Agriculture,"","",UnderVotes,50
+Okeechobee,7 - HAMPTON INN,Commissioner of Agriculture,"","",UnderVotes,8
+Okeechobee,8-KOA,Commissioner of Agriculture,"","",UnderVotes,53
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Commissioner of Agriculture,"","",UnderVotes,17
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Commissioner of Agriculture,"","",UnderVotes,12
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Commissioner of Agriculture,"","",UnderVotes,24
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,485
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,290
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,894
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,616
+Okeechobee,5-FREEDOM RANCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,592
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,978
+Okeechobee,7 - HAMPTON INN,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,385
+Okeechobee,8-KOA,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,1270
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,530
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,414
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,Yes,526
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,186
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,114
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,390
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,245
+Okeechobee,5-FREEDOM RANCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,173
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,390
+Okeechobee,7 - HAMPTON INN,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,133
+Okeechobee,8-KOA,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,444
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,241
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,164
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Charles T. Canady,Justice of the Supreme Court,NOP,No,153
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,8-KOA,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Charles T. Canady,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,98
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,53
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,178
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,118
+Okeechobee,5-FREEDOM RANCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,112
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,181
+Okeechobee,7 - HAMPTON INN,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,63
+Okeechobee,8-KOA,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,192
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,91
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,81
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Charles T. Canady,Justice of the Supreme Court,"",UnderVotes,151
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,499
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,297
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,938
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,619
+Okeechobee,5-FREEDOM RANCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,585
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,967
+Okeechobee,7 - HAMPTON INN,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,395
+Okeechobee,8-KOA,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,1260
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,552
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,421
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of John D. Couriel,Justice of the Supreme Court,NOP,Yes,525
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,171
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,106
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,340
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,236
+Okeechobee,5-FREEDOM RANCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,174
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,386
+Okeechobee,7 - HAMPTON INN,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,120
+Okeechobee,8-KOA,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,436
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,217
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,154
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of John D. Couriel,Justice of the Supreme Court,NOP,No,149
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,8-KOA,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of John D. Couriel,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,98
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,54
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,184
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,124
+Okeechobee,5-FREEDOM RANCH,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,118
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,196
+Okeechobee,7 - HAMPTON INN,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,66
+Okeechobee,8-KOA,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,211
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,94
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,84
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of John D. Couriel,Justice of the Supreme Court,"",UnderVotes,157
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,503
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,291
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,931
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,627
+Okeechobee,5-FREEDOM RANCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,589
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,967
+Okeechobee,7 - HAMPTON INN,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,396
+Okeechobee,8-KOA,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,1255
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,554
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,427
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,Yes,516
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,167
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,107
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,344
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,229
+Okeechobee,5-FREEDOM RANCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,164
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,386
+Okeechobee,7 - HAMPTON INN,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,115
+Okeechobee,8-KOA,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,437
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,215
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,149
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jamie Grosshans,Justice of the Supreme Court,NOP,No,155
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,8-KOA,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jamie Grosshans,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,98
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,59
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,187
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,123
+Okeechobee,5-FREEDOM RANCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,124
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,196
+Okeechobee,7 - HAMPTON INN,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,70
+Okeechobee,8-KOA,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,214
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,94
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,83
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jamie Grosshans,Justice of the Supreme Court,"",UnderVotes,160
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,358
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,248
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,741
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,575
+Okeechobee,5-FREEDOM RANCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,504
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,845
+Okeechobee,7 - HAMPTON INN,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,311
+Okeechobee,8-KOA,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,1082
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,460
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,363
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,Yes,457
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,309
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,152
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,539
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,283
+Okeechobee,5-FREEDOM RANCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,252
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,504
+Okeechobee,7 - HAMPTON INN,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,194
+Okeechobee,8-KOA,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,613
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,309
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,210
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jorge Labarga,Justice of the Supreme Court,NOP,No,217
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,5-FREEDOM RANCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,8-KOA,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jorge Labarga,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,101
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,57
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,182
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,120
+Okeechobee,5-FREEDOM RANCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,121
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,200
+Okeechobee,7 - HAMPTON INN,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,75
+Okeechobee,8-KOA,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,212
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,94
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,86
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jorge Labarga,Justice of the Supreme Court,"",UnderVotes,157
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,461
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,280
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,887
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,602
+Okeechobee,5-FREEDOM RANCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,578
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,959
+Okeechobee,7 - HAMPTON INN,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,384
+Okeechobee,8-KOA,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,1219
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,524
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,401
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ricky Polston,Justice of the Supreme Court,NOP,Yes,500
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,207
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,119
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,394
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,256
+Okeechobee,5-FREEDOM RANCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,181
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,390
+Okeechobee,7 - HAMPTON INN,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,131
+Okeechobee,8-KOA,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,465
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,245
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,174
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ricky Polston,Justice of the Supreme Court,NOP,No,172
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,2
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,5-FREEDOM RANCH,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,8-KOA,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ricky Polston,Justice of the Supreme Court,"",OverVotes,1
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,99
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,58
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,181
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,120
+Okeechobee,5-FREEDOM RANCH,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,117
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,200
+Okeechobee,7 - HAMPTON INN,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,66
+Okeechobee,8-KOA,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,222
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,93
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,84
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ricky Polston,Justice of the Supreme Court,"",UnderVotes,158
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,474
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,288
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,898
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,613
+Okeechobee,5-FREEDOM RANCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,568
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,958
+Okeechobee,7 - HAMPTON INN,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,385
+Okeechobee,8-KOA,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,1233
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,542
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,407
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ed Artau,Fourth District Court of Appeal,NOP,Yes,503
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,187
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,111
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,373
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,242
+Okeechobee,5-FREEDOM RANCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,181
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,380
+Okeechobee,7 - HAMPTON INN,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,124
+Okeechobee,8-KOA,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,445
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,224
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,161
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ed Artau,Fourth District Court of Appeal,NOP,No,161
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,7 - HAMPTON INN,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,8-KOA,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ed Artau,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,107
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,58
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,191
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,124
+Okeechobee,5-FREEDOM RANCH,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,127
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,210
+Okeechobee,7 - HAMPTON INN,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,72
+Okeechobee,8-KOA,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,229
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,97
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,91
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Ed Artau,Fourth District Court of Appeal,"",UnderVotes,167
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,394
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,258
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,788
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,557
+Okeechobee,5-FREEDOM RANCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,517
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,859
+Okeechobee,7 - HAMPTON INN,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,323
+Okeechobee,8-KOA,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,1113
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,480
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,344
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,Yes,461
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,262
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,139
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,474
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,291
+Okeechobee,5-FREEDOM RANCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,228
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,476
+Okeechobee,7 - HAMPTON INN,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,181
+Okeechobee,8-KOA,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,555
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,282
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,220
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Cory J. Ciklin,Fourth District Court of Appeal,NOP,No,200
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,2
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,8-KOA,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,111
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,59
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,200
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,131
+Okeechobee,5-FREEDOM RANCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,131
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,214
+Okeechobee,7 - HAMPTON INN,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,77
+Okeechobee,8-KOA,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,239
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,100
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,95
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Cory J. Ciklin,Fourth District Court of Appeal,"",UnderVotes,170
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,441
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,270
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,838
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,592
+Okeechobee,5-FREEDOM RANCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,548
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,915
+Okeechobee,7 - HAMPTON INN,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,346
+Okeechobee,8-KOA,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,1172
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,520
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,375
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,Yes,484
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,217
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,129
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,420
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,261
+Okeechobee,5-FREEDOM RANCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,194
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,415
+Okeechobee,7 - HAMPTON INN,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,156
+Okeechobee,8-KOA,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,489
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,242
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,191
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,NOP,No,177
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,7 - HAMPTON INN,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,8-KOA,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,111
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,58
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,204
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,126
+Okeechobee,5-FREEDOM RANCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,135
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,218
+Okeechobee,7 - HAMPTON INN,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,78
+Okeechobee,8-KOA,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,245
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,100
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,93
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Dorian K. Damoorgian,Fourth District Court of Appeal,"",UnderVotes,170
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,465
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,287
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,876
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,609
+Okeechobee,5-FREEDOM RANCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,580
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,951
+Okeechobee,7 - HAMPTON INN,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,361
+Okeechobee,8-KOA,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,1238
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,544
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,404
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,Yes,502
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,194
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,114
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,385
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,243
+Okeechobee,5-FREEDOM RANCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,169
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,380
+Okeechobee,7 - HAMPTON INN,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,142
+Okeechobee,8-KOA,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,429
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,219
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,160
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,NOP,No,159
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,8-KOA,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,109
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,56
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,200
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,127
+Okeechobee,5-FREEDOM RANCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,128
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,218
+Okeechobee,7 - HAMPTON INN,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,78
+Okeechobee,8-KOA,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,240
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,100
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,95
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Jonathan D. Gerber,Fourth District Court of Appeal,"",UnderVotes,170
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,437
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,258
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,823
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,579
+Okeechobee,5-FREEDOM RANCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,536
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,912
+Okeechobee,7 - HAMPTON INN,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,339
+Okeechobee,8-KOA,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,1169
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,494
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,387
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,Yes,487
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,224
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,130
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,420
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,262
+Okeechobee,5-FREEDOM RANCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,188
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,412
+Okeechobee,7 - HAMPTON INN,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,156
+Okeechobee,8-KOA,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,491
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,258
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,177
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Robert M. Gross,Fourth District Court of Appeal,NOP,No,174
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,5-FREEDOM RANCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,8-KOA,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,4
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Robert M. Gross,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,107
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,69
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,218
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,137
+Okeechobee,5-FREEDOM RANCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,152
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,225
+Okeechobee,7 - HAMPTON INN,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,85
+Okeechobee,8-KOA,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,243
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,111
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,94
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Robert M. Gross,Fourth District Court of Appeal,"",UnderVotes,170
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,457
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,270
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,835
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,585
+Okeechobee,5-FREEDOM RANCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,536
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,918
+Okeechobee,7 - HAMPTON INN,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,352
+Okeechobee,8-KOA,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,1193
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,509
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,380
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,Yes,493
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,198
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,119
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,403
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,252
+Okeechobee,5-FREEDOM RANCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,182
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,395
+Okeechobee,7 - HAMPTON INN,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,143
+Okeechobee,8-KOA,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,466
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,241
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,174
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Spencer D. Levine,Fourth District Court of Appeal,NOP,No,164
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,3
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,2
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,8-KOA,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,111
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,68
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,222
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,142
+Okeechobee,5-FREEDOM RANCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,158
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,236
+Okeechobee,7 - HAMPTON INN,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,85
+Okeechobee,8-KOA,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,248
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,112
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,104
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Spencer D. Levine,Fourth District Court of Appeal,"",UnderVotes,174
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,477
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,273
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,865
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,618
+Okeechobee,5-FREEDOM RANCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,554
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,954
+Okeechobee,7 - HAMPTON INN,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,370
+Okeechobee,8-KOA,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,1251
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,530
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,405
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,Yes,503
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,181
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,116
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,375
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,218
+Okeechobee,5-FREEDOM RANCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,170
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,351
+Okeechobee,7 - HAMPTON INN,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,125
+Okeechobee,8-KOA,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,419
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,224
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,155
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Melanie G. May,Fourth District Court of Appeal,NOP,No,150
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,1
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,7 - HAMPTON INN,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,8-KOA,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Melanie G. May,Fourth District Court of Appeal,"",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,110
+Okeechobee,2-BASINGER COMMUNITY CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,68
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,222
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,143
+Okeechobee,5-FREEDOM RANCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,153
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,244
+Okeechobee,7 - HAMPTON INN,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,86
+Okeechobee,8-KOA,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,237
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,109
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,99
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Retention of Melanie G. May,Fourth District Court of Appeal,"",UnderVotes,178
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,391
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,217
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,741
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,464
+Okeechobee,5-FREEDOM RANCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,457
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,754
+Okeechobee,7 - HAMPTON INN,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,309
+Okeechobee,8-KOA,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,1036
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,421
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,323
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,Yes for Approval,446
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,300
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,212
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,606
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,432
+Okeechobee,5-FREEDOM RANCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,322
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,649
+Okeechobee,7 - HAMPTON INN,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,213
+Okeechobee,8-KOA,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,735
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,365
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,275
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"",NOP,No for Rejection,281
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Okeechobee,7 - HAMPTON INN,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okeechobee,8-KOA,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",OverVotes,1
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,78
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,28
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,114
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,83
+Okeechobee,5-FREEDOM RANCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,98
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,145
+Okeechobee,7 - HAMPTON INN,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,59
+Okeechobee,8-KOA,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,135
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,77
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,61
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 1: Limitation On Assessment of Real Property Used For Residential Purposes,"","",UnderVotes,103
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,362
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,223
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,719
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,477
+Okeechobee,5-FREEDOM RANCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,414
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,741
+Okeechobee,7 - HAMPTON INN,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,295
+Okeechobee,8-KOA,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,1022
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,456
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,305
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,Yes for Approval,441
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,323
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,199
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,615
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,417
+Okeechobee,5-FREEDOM RANCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,359
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,646
+Okeechobee,7 - HAMPTON INN,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,221
+Okeechobee,8-KOA,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,739
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,326
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,289
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 2: Abolishing the Constitution Revision Commission,"",NOP,No for Rejection,287
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Okeechobee,7 - HAMPTON INN,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,8-KOA,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,3
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,1
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,84
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,35
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,128
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,85
+Okeechobee,5-FREEDOM RANCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,104
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,161
+Okeechobee,7 - HAMPTON INN,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,65
+Okeechobee,8-KOA,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,143
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,80
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,65
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 2: Abolishing the Constitution Revision Commission,"","",UnderVotes,103
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,399
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,246
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,763
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,600
+Okeechobee,5-FREEDOM RANCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,483
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,881
+Okeechobee,7 - HAMPTON INN,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,317
+Okeechobee,8-KOA,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,1107
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,488
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,371
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,Yes for Approval,466
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,324
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,195
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,628
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,313
+Okeechobee,5-FREEDOM RANCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,326
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,556
+Okeechobee,7 - HAMPTON INN,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,219
+Okeechobee,8-KOA,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,712
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,322
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,252
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"",NOP,No for Rejection,291
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,5-FREEDOM RANCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Okeechobee,7 - HAMPTON INN,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,8-KOA,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,1
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",OverVotes,0
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,46
+Okeechobee,2-BASINGER COMMUNITY CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,16
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,71
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,66
+Okeechobee,5-FREEDOM RANCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,68
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,111
+Okeechobee,7 - HAMPTON INN,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,45
+Okeechobee,8-KOA,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,87
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,53
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,36
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Amendment No. 3: Additional Homestead Property Tax Exemption For Specified Critical Public Services Workforce,"","",UnderVotes,74
+Okeechobee,1-ABIDING HOPE WORSHIP CENTER,Registered Voters,"","","",1584
+Okeechobee,10-FT DRUM COMMUNITY CHURCH,Registered Voters,"","","",1227
+Okeechobee,11-PALM VILLAGE RANCH CLUBHOUSE,Registered Voters,"","","",1353
+Okeechobee,2-BASINGER COMMUNITY CENTER,Registered Voters,"","","",959
+Okeechobee,3-OAKVIEW BAPTIST CHURCH,Registered Voters,"","","",2403
+Okeechobee,4-OKEECHOBEE CIVIC CENTER,Registered Voters,"","","",3052
+Okeechobee,5-FREEDOM RANCH,Registered Voters,"","","",1658
+Okeechobee,6-FIRST BAPTIST CHURCH ROC,Registered Voters,"","","",3380
+Okeechobee,7 - HAMPTON INN,Registered Voters,"","","",1355
+Okeechobee,8-KOA,Registered Voters,"","","",3865
+Okeechobee,9-NEW TESTAMENT BAPTIST CHURCH,Registered Voters,"","","",1921
