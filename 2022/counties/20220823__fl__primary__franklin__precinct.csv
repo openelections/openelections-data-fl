@@ -1,0 +1,232 @@
+county,precinct,office,district,party,candidate,votes
+Franklin,1 Eastpoint,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Franklin,2 Alligator Point,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Franklin,3 Holy Family Center,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Franklin,4 Holy Family Center,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Franklin,5 Senior Center,U.S. Senate,"",DEM,Ricardo De La Fuente,10
+Franklin,6 Chillas Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Franklin,7 St. George Island,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Franklin,8 American Legion,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Franklin,1 Eastpoint,U.S. Senate,"",DEM,Val Demings,67
+Franklin,2 Alligator Point,U.S. Senate,"",DEM,Val Demings,46
+Franklin,3 Holy Family Center,U.S. Senate,"",DEM,Val Demings,219
+Franklin,4 Holy Family Center,U.S. Senate,"",DEM,Val Demings,68
+Franklin,5 Senior Center,U.S. Senate,"",DEM,Val Demings,102
+Franklin,6 Chillas Hall,U.S. Senate,"",DEM,Val Demings,41
+Franklin,7 St. George Island,U.S. Senate,"",DEM,Val Demings,107
+Franklin,8 American Legion,U.S. Senate,"",DEM,Val Demings,38
+Franklin,1 Eastpoint,U.S. Senate,"",DEM,Brian Rush,20
+Franklin,2 Alligator Point,U.S. Senate,"",DEM,Brian Rush,4
+Franklin,3 Holy Family Center,U.S. Senate,"",DEM,Brian Rush,19
+Franklin,4 Holy Family Center,U.S. Senate,"",DEM,Brian Rush,12
+Franklin,5 Senior Center,U.S. Senate,"",DEM,Brian Rush,37
+Franklin,6 Chillas Hall,U.S. Senate,"",DEM,Brian Rush,7
+Franklin,7 St. George Island,U.S. Senate,"",DEM,Brian Rush,8
+Franklin,8 American Legion,U.S. Senate,"",DEM,Brian Rush,18
+Franklin,1 Eastpoint,U.S. Senate,"",DEM,William Sanchez,9
+Franklin,2 Alligator Point,U.S. Senate,"",DEM,William Sanchez,5
+Franklin,3 Holy Family Center,U.S. Senate,"",DEM,William Sanchez,16
+Franklin,4 Holy Family Center,U.S. Senate,"",DEM,William Sanchez,7
+Franklin,5 Senior Center,U.S. Senate,"",DEM,William Sanchez,25
+Franklin,6 Chillas Hall,U.S. Senate,"",DEM,William Sanchez,9
+Franklin,7 St. George Island,U.S. Senate,"",DEM,William Sanchez,0
+Franklin,8 American Legion,U.S. Senate,"",DEM,William Sanchez,10
+Franklin,1 Eastpoint,U.S. Senate,"",DEM,OverVotes,0
+Franklin,2 Alligator Point,U.S. Senate,"",DEM,OverVotes,0
+Franklin,3 Holy Family Center,U.S. Senate,"",DEM,OverVotes,0
+Franklin,4 Holy Family Center,U.S. Senate,"",DEM,OverVotes,0
+Franklin,5 Senior Center,U.S. Senate,"",DEM,OverVotes,0
+Franklin,6 Chillas Hall,U.S. Senate,"",DEM,OverVotes,0
+Franklin,7 St. George Island,U.S. Senate,"",DEM,OverVotes,0
+Franklin,8 American Legion,U.S. Senate,"",DEM,OverVotes,0
+Franklin,1 Eastpoint,U.S. Senate,"",DEM,UnderVotes,2
+Franklin,2 Alligator Point,U.S. Senate,"",DEM,UnderVotes,1
+Franklin,3 Holy Family Center,U.S. Senate,"",DEM,UnderVotes,4
+Franklin,4 Holy Family Center,U.S. Senate,"",DEM,UnderVotes,1
+Franklin,5 Senior Center,U.S. Senate,"",DEM,UnderVotes,27
+Franklin,6 Chillas Hall,U.S. Senate,"",DEM,UnderVotes,7
+Franklin,7 St. George Island,U.S. Senate,"",DEM,UnderVotes,3
+Franklin,8 American Legion,U.S. Senate,"",DEM,UnderVotes,3
+Franklin,1 Eastpoint,Governor,"",DEM,Charlie Crist,50
+Franklin,2 Alligator Point,Governor,"",DEM,Charlie Crist,34
+Franklin,3 Holy Family Center,Governor,"",DEM,Charlie Crist,118
+Franklin,4 Holy Family Center,Governor,"",DEM,Charlie Crist,33
+Franklin,5 Senior Center,Governor,"",DEM,Charlie Crist,73
+Franklin,6 Chillas Hall,Governor,"",DEM,Charlie Crist,39
+Franklin,7 St. George Island,Governor,"",DEM,Charlie Crist,60
+Franklin,8 American Legion,Governor,"",DEM,Charlie Crist,30
+Franklin,1 Eastpoint,Governor,"",DEM,Cadance Daniel,8
+Franklin,2 Alligator Point,Governor,"",DEM,Cadance Daniel,2
+Franklin,3 Holy Family Center,Governor,"",DEM,Cadance Daniel,11
+Franklin,4 Holy Family Center,Governor,"",DEM,Cadance Daniel,2
+Franklin,5 Senior Center,Governor,"",DEM,Cadance Daniel,9
+Franklin,6 Chillas Hall,Governor,"",DEM,Cadance Daniel,4
+Franklin,7 St. George Island,Governor,"",DEM,Cadance Daniel,0
+Franklin,8 American Legion,Governor,"",DEM,Cadance Daniel,2
+Franklin,1 Eastpoint,Governor,"",DEM,"Nicole ""Nikki"" Fried",45
+Franklin,2 Alligator Point,Governor,"",DEM,"Nicole ""Nikki"" Fried",19
+Franklin,3 Holy Family Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",132
+Franklin,4 Holy Family Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",52
+Franklin,5 Senior Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",77
+Franklin,6 Chillas Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Franklin,7 St. George Island,Governor,"",DEM,"Nicole ""Nikki"" Fried",57
+Franklin,8 American Legion,Governor,"",DEM,"Nicole ""Nikki"" Fried",33
+Franklin,1 Eastpoint,Governor,"",DEM,Robert L. Willis,2
+Franklin,2 Alligator Point,Governor,"",DEM,Robert L. Willis,3
+Franklin,3 Holy Family Center,Governor,"",DEM,Robert L. Willis,6
+Franklin,4 Holy Family Center,Governor,"",DEM,Robert L. Willis,6
+Franklin,5 Senior Center,Governor,"",DEM,Robert L. Willis,21
+Franklin,6 Chillas Hall,Governor,"",DEM,Robert L. Willis,5
+Franklin,7 St. George Island,Governor,"",DEM,Robert L. Willis,1
+Franklin,8 American Legion,Governor,"",DEM,Robert L. Willis,7
+Franklin,1 Eastpoint,Governor,"",DEM,OverVotes,0
+Franklin,2 Alligator Point,Governor,"",DEM,OverVotes,0
+Franklin,3 Holy Family Center,Governor,"",DEM,OverVotes,1
+Franklin,4 Holy Family Center,Governor,"",DEM,OverVotes,0
+Franklin,5 Senior Center,Governor,"",DEM,OverVotes,0
+Franklin,6 Chillas Hall,Governor,"",DEM,OverVotes,0
+Franklin,7 St. George Island,Governor,"",DEM,OverVotes,0
+Franklin,8 American Legion,Governor,"",DEM,OverVotes,0
+Franklin,1 Eastpoint,Governor,"",DEM,UnderVotes,1
+Franklin,2 Alligator Point,Governor,"",DEM,UnderVotes,0
+Franklin,3 Holy Family Center,Governor,"",DEM,UnderVotes,1
+Franklin,4 Holy Family Center,Governor,"",DEM,UnderVotes,0
+Franklin,5 Senior Center,Governor,"",DEM,UnderVotes,21
+Franklin,6 Chillas Hall,Governor,"",DEM,UnderVotes,3
+Franklin,7 St. George Island,Governor,"",DEM,UnderVotes,0
+Franklin,8 American Legion,Governor,"",DEM,UnderVotes,1
+Franklin,1 Eastpoint,Attorney General,"",DEM,Aramis Ayala,30
+Franklin,2 Alligator Point,Attorney General,"",DEM,Aramis Ayala,13
+Franklin,3 Holy Family Center,Attorney General,"",DEM,Aramis Ayala,132
+Franklin,4 Holy Family Center,Attorney General,"",DEM,Aramis Ayala,37
+Franklin,5 Senior Center,Attorney General,"",DEM,Aramis Ayala,46
+Franklin,6 Chillas Hall,Attorney General,"",DEM,Aramis Ayala,17
+Franklin,7 St. George Island,Attorney General,"",DEM,Aramis Ayala,30
+Franklin,8 American Legion,Attorney General,"",DEM,Aramis Ayala,19
+Franklin,1 Eastpoint,Attorney General,"",DEM,Jim Lewis,28
+Franklin,2 Alligator Point,Attorney General,"",DEM,Jim Lewis,12
+Franklin,3 Holy Family Center,Attorney General,"",DEM,Jim Lewis,58
+Franklin,4 Holy Family Center,Attorney General,"",DEM,Jim Lewis,25
+Franklin,5 Senior Center,Attorney General,"",DEM,Jim Lewis,81
+Franklin,6 Chillas Hall,Attorney General,"",DEM,Jim Lewis,26
+Franklin,7 St. George Island,Attorney General,"",DEM,Jim Lewis,26
+Franklin,8 American Legion,Attorney General,"",DEM,Jim Lewis,24
+Franklin,1 Eastpoint,Attorney General,"",DEM,Daniel Uhlfelder,43
+Franklin,2 Alligator Point,Attorney General,"",DEM,Daniel Uhlfelder,30
+Franklin,3 Holy Family Center,Attorney General,"",DEM,Daniel Uhlfelder,70
+Franklin,4 Holy Family Center,Attorney General,"",DEM,Daniel Uhlfelder,25
+Franklin,5 Senior Center,Attorney General,"",DEM,Daniel Uhlfelder,42
+Franklin,6 Chillas Hall,Attorney General,"",DEM,Daniel Uhlfelder,16
+Franklin,7 St. George Island,Attorney General,"",DEM,Daniel Uhlfelder,55
+Franklin,8 American Legion,Attorney General,"",DEM,Daniel Uhlfelder,27
+Franklin,1 Eastpoint,Attorney General,"",DEM,OverVotes,0
+Franklin,2 Alligator Point,Attorney General,"",DEM,OverVotes,0
+Franklin,3 Holy Family Center,Attorney General,"",DEM,OverVotes,0
+Franklin,4 Holy Family Center,Attorney General,"",DEM,OverVotes,0
+Franklin,5 Senior Center,Attorney General,"",DEM,OverVotes,0
+Franklin,6 Chillas Hall,Attorney General,"",DEM,OverVotes,0
+Franklin,7 St. George Island,Attorney General,"",DEM,OverVotes,0
+Franklin,8 American Legion,Attorney General,"",DEM,OverVotes,0
+Franklin,1 Eastpoint,Attorney General,"",DEM,UnderVotes,5
+Franklin,2 Alligator Point,Attorney General,"",DEM,UnderVotes,3
+Franklin,3 Holy Family Center,Attorney General,"",DEM,UnderVotes,9
+Franklin,4 Holy Family Center,Attorney General,"",DEM,UnderVotes,6
+Franklin,5 Senior Center,Attorney General,"",DEM,UnderVotes,32
+Franklin,6 Chillas Hall,Attorney General,"",DEM,UnderVotes,8
+Franklin,7 St. George Island,Attorney General,"",DEM,UnderVotes,7
+Franklin,8 American Legion,Attorney General,"",DEM,UnderVotes,3
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",REP,James W. Shaw,40
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",REP,James W. Shaw,42
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",REP,James W. Shaw,20
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",REP,James W. Shaw,12
+Franklin,5 Senior Center,Commissioner of Agriculture,"",REP,James W. Shaw,88
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",REP,James W. Shaw,61
+Franklin,7 St. George Island,Commissioner of Agriculture,"",REP,James W. Shaw,28
+Franklin,8 American Legion,Commissioner of Agriculture,"",REP,James W. Shaw,15
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",REP,Wilton Simpson,140
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",REP,Wilton Simpson,81
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",REP,Wilton Simpson,45
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",REP,Wilton Simpson,33
+Franklin,5 Senior Center,Commissioner of Agriculture,"",REP,Wilton Simpson,167
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,102
+Franklin,7 St. George Island,Commissioner of Agriculture,"",REP,Wilton Simpson,105
+Franklin,8 American Legion,Commissioner of Agriculture,"",REP,Wilton Simpson,41
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,5 Senior Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,7 St. George Island,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,8 American Legion,Commissioner of Agriculture,"",REP,OverVotes,0
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",REP,UnderVotes,1
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",REP,UnderVotes,11
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",REP,UnderVotes,1
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",REP,UnderVotes,2
+Franklin,5 Senior Center,Commissioner of Agriculture,"",REP,UnderVotes,7
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",REP,UnderVotes,14
+Franklin,7 St. George Island,Commissioner of Agriculture,"",REP,UnderVotes,0
+Franklin,8 American Legion,Commissioner of Agriculture,"",REP,UnderVotes,0
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,33
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,25
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,150
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
+Franklin,5 Senior Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,53
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,24
+Franklin,7 St. George Island,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
+Franklin,8 American Legion,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,22
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",DEM,J. R. Gaillot,36
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",DEM,J. R. Gaillot,9
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,42
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,18
+Franklin,5 Senior Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,39
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,9
+Franklin,7 St. George Island,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Franklin,8 American Legion,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",DEM,Ryan Morales,32
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",DEM,Ryan Morales,21
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",DEM,Ryan Morales,66
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",DEM,Ryan Morales,30
+Franklin,5 Senior Center,Commissioner of Agriculture,"",DEM,Ryan Morales,75
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,23
+Franklin,7 St. George Island,Commissioner of Agriculture,"",DEM,Ryan Morales,44
+Franklin,8 American Legion,Commissioner of Agriculture,"",DEM,Ryan Morales,32
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,5 Senior Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,7 St. George Island,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,8 American Legion,Commissioner of Agriculture,"",DEM,OverVotes,0
+Franklin,1 Eastpoint,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Franklin,2 Alligator Point,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Franklin,3 Holy Family Center,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Franklin,4 Holy Family Center,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Franklin,5 Senior Center,Commissioner of Agriculture,"",DEM,UnderVotes,34
+Franklin,6 Chillas Hall,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Franklin,7 St. George Island,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Franklin,8 American Legion,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Franklin,2 Alligator Point,County Commissioner,2,REP,Bert B. Boldt II,94
+Franklin,5 Senior Center,County Commissioner,2,REP,Bert B. Boldt II,48
+Franklin,6 Chillas Hall,County Commissioner,2,REP,Bert B. Boldt II,62
+Franklin,2 Alligator Point,County Commissioner,2,REP,Christopher Crosby,68
+Franklin,5 Senior Center,County Commissioner,2,REP,Christopher Crosby,70
+Franklin,6 Chillas Hall,County Commissioner,2,REP,Christopher Crosby,125
+Franklin,2 Alligator Point,County Commissioner,2,REP,Cheryl K. Sanders,61
+Franklin,5 Senior Center,County Commissioner,2,REP,Cheryl K. Sanders,150
+Franklin,6 Chillas Hall,County Commissioner,2,REP,Cheryl K. Sanders,97
+Franklin,2 Alligator Point,County Commissioner,2,REP,OverVotes,0
+Franklin,5 Senior Center,County Commissioner,2,REP,OverVotes,0
+Franklin,6 Chillas Hall,County Commissioner,2,REP,OverVotes,0
+Franklin,2 Alligator Point,County Commissioner,2,REP,UnderVotes,0
+Franklin,5 Senior Center,County Commissioner,2,REP,UnderVotes,0
+Franklin,6 Chillas Hall,County Commissioner,2,REP,UnderVotes,3
+Franklin,1 Eastpoint,Registered Voters,"","","",1702
+Franklin,2 Alligator Point,Registered Voters,"","","",388
+Franklin,3 Holy Family Center,Registered Voters,"","","",1309
+Franklin,4 Holy Family Center,Registered Voters,"","","",370
+Franklin,5 Senior Center,Registered Voters,"","","",1681
+Franklin,6 Chillas Hall,Registered Voters,"","","",622
+Franklin,7 St. George Island,Registered Voters,"","","",925
+Franklin,8 American Legion,Registered Voters,"","","",887

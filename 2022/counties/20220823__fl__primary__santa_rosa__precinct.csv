@@ -1,0 +1,2616 @@
+county,precinct,office,district,party,candidate,votes
+Santa Rosa,1 South Milton,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Santa Rosa,2 Wallace,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Santa Rosa,3 Coon Hill,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Santa Rosa,4 Jay,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Santa Rosa,5 McLellan,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Santa Rosa,6 Red Rock,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Santa Rosa,7 Munson,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Santa Rosa,8 North Milton,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Santa Rosa,9 Ward Basin,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Santa Rosa,10 Holley,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Santa Rosa,11 Coldwater,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Santa Rosa,12 Point Baker,U.S. Senate,"",DEM,Ricardo De La Fuente,15
+Santa Rosa,13 Allentown,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Santa Rosa,14 Harold,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Santa Rosa,15 Ferris Hill,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Santa Rosa,16 Bagdad,U.S. Senate,"",DEM,Ricardo De La Fuente,22
+Santa Rosa,17 Fidelis,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Santa Rosa,18 Berryhill,U.S. Senate,"",DEM,Ricardo De La Fuente,12
+Santa Rosa,19 Chumuckla,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Santa Rosa,20 Pace,U.S. Senate,"",DEM,Ricardo De La Fuente,12
+Santa Rosa,21 Avalon,U.S. Senate,"",DEM,Ricardo De La Fuente,10
+Santa Rosa,22 Gulf Breeze,U.S. Senate,"",DEM,Ricardo De La Fuente,21
+Santa Rosa,23 Midway,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Santa Rosa,24 Pea Ridge,U.S. Senate,"",DEM,Ricardo De La Fuente,15
+Santa Rosa,25 Oriole Beach,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Santa Rosa,26 East Navarre,U.S. Senate,"",DEM,Ricardo De La Fuente,27
+Santa Rosa,27 Woodbine,U.S. Senate,"",DEM,Ricardo De La Fuente,15
+Santa Rosa,28 Tiger Point,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Santa Rosa,29 West Navarre,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Santa Rosa,30 Pine Terrace,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Santa Rosa,31 Floridatown,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Santa Rosa,32 Grand Pointe,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Santa Rosa,33 East Milton,U.S. Senate,"",DEM,Ricardo De La Fuente,12
+Santa Rosa,34 Hidden Creek,U.S. Senate,"",DEM,Ricardo De La Fuente,39
+Santa Rosa,35 Biscayne Pointe,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Santa Rosa,36 Mill Creek,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Santa Rosa,37 Soundside,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Santa Rosa,38 Navarre Beach,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Santa Rosa,39 Garcon Point,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Santa Rosa,40 Parkway,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Santa Rosa,41 Woodlawn,U.S. Senate,"",DEM,Ricardo De La Fuente,10
+Santa Rosa,1 South Milton,U.S. Senate,"",DEM,Val Demings,78
+Santa Rosa,2 Wallace,U.S. Senate,"",DEM,Val Demings,113
+Santa Rosa,3 Coon Hill,U.S. Senate,"",DEM,Val Demings,3
+Santa Rosa,4 Jay,U.S. Senate,"",DEM,Val Demings,23
+Santa Rosa,5 McLellan,U.S. Senate,"",DEM,Val Demings,1
+Santa Rosa,6 Red Rock,U.S. Senate,"",DEM,Val Demings,0
+Santa Rosa,7 Munson,U.S. Senate,"",DEM,Val Demings,0
+Santa Rosa,8 North Milton,U.S. Senate,"",DEM,Val Demings,65
+Santa Rosa,9 Ward Basin,U.S. Senate,"",DEM,Val Demings,90
+Santa Rosa,10 Holley,U.S. Senate,"",DEM,Val Demings,44
+Santa Rosa,11 Coldwater,U.S. Senate,"",DEM,Val Demings,25
+Santa Rosa,12 Point Baker,U.S. Senate,"",DEM,Val Demings,138
+Santa Rosa,13 Allentown,U.S. Senate,"",DEM,Val Demings,30
+Santa Rosa,14 Harold,U.S. Senate,"",DEM,Val Demings,14
+Santa Rosa,15 Ferris Hill,U.S. Senate,"",DEM,Val Demings,137
+Santa Rosa,16 Bagdad,U.S. Senate,"",DEM,Val Demings,143
+Santa Rosa,17 Fidelis,U.S. Senate,"",DEM,Val Demings,8
+Santa Rosa,18 Berryhill,U.S. Senate,"",DEM,Val Demings,165
+Santa Rosa,19 Chumuckla,U.S. Senate,"",DEM,Val Demings,20
+Santa Rosa,20 Pace,U.S. Senate,"",DEM,Val Demings,153
+Santa Rosa,21 Avalon,U.S. Senate,"",DEM,Val Demings,152
+Santa Rosa,22 Gulf Breeze,U.S. Senate,"",DEM,Val Demings,265
+Santa Rosa,23 Midway,U.S. Senate,"",DEM,Val Demings,145
+Santa Rosa,24 Pea Ridge,U.S. Senate,"",DEM,Val Demings,199
+Santa Rosa,25 Oriole Beach,U.S. Senate,"",DEM,Val Demings,139
+Santa Rosa,26 East Navarre,U.S. Senate,"",DEM,Val Demings,283
+Santa Rosa,27 Woodbine,U.S. Senate,"",DEM,Val Demings,177
+Santa Rosa,28 Tiger Point,U.S. Senate,"",DEM,Val Demings,133
+Santa Rosa,29 West Navarre,U.S. Senate,"",DEM,Val Demings,85
+Santa Rosa,30 Pine Terrace,U.S. Senate,"",DEM,Val Demings,108
+Santa Rosa,31 Floridatown,U.S. Senate,"",DEM,Val Demings,32
+Santa Rosa,32 Grand Pointe,U.S. Senate,"",DEM,Val Demings,141
+Santa Rosa,33 East Milton,U.S. Senate,"",DEM,Val Demings,95
+Santa Rosa,34 Hidden Creek,U.S. Senate,"",DEM,Val Demings,382
+Santa Rosa,35 Biscayne Pointe,U.S. Senate,"",DEM,Val Demings,186
+Santa Rosa,36 Mill Creek,U.S. Senate,"",DEM,Val Demings,80
+Santa Rosa,37 Soundside,U.S. Senate,"",DEM,Val Demings,94
+Santa Rosa,38 Navarre Beach,U.S. Senate,"",DEM,Val Demings,45
+Santa Rosa,39 Garcon Point,U.S. Senate,"",DEM,Val Demings,77
+Santa Rosa,40 Parkway,U.S. Senate,"",DEM,Val Demings,79
+Santa Rosa,41 Woodlawn,U.S. Senate,"",DEM,Val Demings,148
+Santa Rosa,1 South Milton,U.S. Senate,"",DEM,Brian Rush,10
+Santa Rosa,2 Wallace,U.S. Senate,"",DEM,Brian Rush,21
+Santa Rosa,3 Coon Hill,U.S. Senate,"",DEM,Brian Rush,4
+Santa Rosa,4 Jay,U.S. Senate,"",DEM,Brian Rush,10
+Santa Rosa,5 McLellan,U.S. Senate,"",DEM,Brian Rush,0
+Santa Rosa,6 Red Rock,U.S. Senate,"",DEM,Brian Rush,1
+Santa Rosa,7 Munson,U.S. Senate,"",DEM,Brian Rush,4
+Santa Rosa,8 North Milton,U.S. Senate,"",DEM,Brian Rush,17
+Santa Rosa,9 Ward Basin,U.S. Senate,"",DEM,Brian Rush,22
+Santa Rosa,10 Holley,U.S. Senate,"",DEM,Brian Rush,7
+Santa Rosa,11 Coldwater,U.S. Senate,"",DEM,Brian Rush,18
+Santa Rosa,12 Point Baker,U.S. Senate,"",DEM,Brian Rush,38
+Santa Rosa,13 Allentown,U.S. Senate,"",DEM,Brian Rush,9
+Santa Rosa,14 Harold,U.S. Senate,"",DEM,Brian Rush,8
+Santa Rosa,15 Ferris Hill,U.S. Senate,"",DEM,Brian Rush,26
+Santa Rosa,16 Bagdad,U.S. Senate,"",DEM,Brian Rush,40
+Santa Rosa,17 Fidelis,U.S. Senate,"",DEM,Brian Rush,7
+Santa Rosa,18 Berryhill,U.S. Senate,"",DEM,Brian Rush,35
+Santa Rosa,19 Chumuckla,U.S. Senate,"",DEM,Brian Rush,4
+Santa Rosa,20 Pace,U.S. Senate,"",DEM,Brian Rush,35
+Santa Rosa,21 Avalon,U.S. Senate,"",DEM,Brian Rush,24
+Santa Rosa,22 Gulf Breeze,U.S. Senate,"",DEM,Brian Rush,32
+Santa Rosa,23 Midway,U.S. Senate,"",DEM,Brian Rush,15
+Santa Rosa,24 Pea Ridge,U.S. Senate,"",DEM,Brian Rush,43
+Santa Rosa,25 Oriole Beach,U.S. Senate,"",DEM,Brian Rush,15
+Santa Rosa,26 East Navarre,U.S. Senate,"",DEM,Brian Rush,36
+Santa Rosa,27 Woodbine,U.S. Senate,"",DEM,Brian Rush,24
+Santa Rosa,28 Tiger Point,U.S. Senate,"",DEM,Brian Rush,16
+Santa Rosa,29 West Navarre,U.S. Senate,"",DEM,Brian Rush,11
+Santa Rosa,30 Pine Terrace,U.S. Senate,"",DEM,Brian Rush,25
+Santa Rosa,31 Floridatown,U.S. Senate,"",DEM,Brian Rush,11
+Santa Rosa,32 Grand Pointe,U.S. Senate,"",DEM,Brian Rush,22
+Santa Rosa,33 East Milton,U.S. Senate,"",DEM,Brian Rush,28
+Santa Rosa,34 Hidden Creek,U.S. Senate,"",DEM,Brian Rush,43
+Santa Rosa,35 Biscayne Pointe,U.S. Senate,"",DEM,Brian Rush,37
+Santa Rosa,36 Mill Creek,U.S. Senate,"",DEM,Brian Rush,15
+Santa Rosa,37 Soundside,U.S. Senate,"",DEM,Brian Rush,5
+Santa Rosa,38 Navarre Beach,U.S. Senate,"",DEM,Brian Rush,2
+Santa Rosa,39 Garcon Point,U.S. Senate,"",DEM,Brian Rush,7
+Santa Rosa,40 Parkway,U.S. Senate,"",DEM,Brian Rush,8
+Santa Rosa,41 Woodlawn,U.S. Senate,"",DEM,Brian Rush,20
+Santa Rosa,1 South Milton,U.S. Senate,"",DEM,William Sanchez,12
+Santa Rosa,2 Wallace,U.S. Senate,"",DEM,William Sanchez,23
+Santa Rosa,3 Coon Hill,U.S. Senate,"",DEM,William Sanchez,2
+Santa Rosa,4 Jay,U.S. Senate,"",DEM,William Sanchez,5
+Santa Rosa,5 McLellan,U.S. Senate,"",DEM,William Sanchez,1
+Santa Rosa,6 Red Rock,U.S. Senate,"",DEM,William Sanchez,1
+Santa Rosa,7 Munson,U.S. Senate,"",DEM,William Sanchez,2
+Santa Rosa,8 North Milton,U.S. Senate,"",DEM,William Sanchez,13
+Santa Rosa,9 Ward Basin,U.S. Senate,"",DEM,William Sanchez,22
+Santa Rosa,10 Holley,U.S. Senate,"",DEM,William Sanchez,8
+Santa Rosa,11 Coldwater,U.S. Senate,"",DEM,William Sanchez,14
+Santa Rosa,12 Point Baker,U.S. Senate,"",DEM,William Sanchez,41
+Santa Rosa,13 Allentown,U.S. Senate,"",DEM,William Sanchez,7
+Santa Rosa,14 Harold,U.S. Senate,"",DEM,William Sanchez,4
+Santa Rosa,15 Ferris Hill,U.S. Senate,"",DEM,William Sanchez,29
+Santa Rosa,16 Bagdad,U.S. Senate,"",DEM,William Sanchez,37
+Santa Rosa,17 Fidelis,U.S. Senate,"",DEM,William Sanchez,9
+Santa Rosa,18 Berryhill,U.S. Senate,"",DEM,William Sanchez,31
+Santa Rosa,19 Chumuckla,U.S. Senate,"",DEM,William Sanchez,2
+Santa Rosa,20 Pace,U.S. Senate,"",DEM,William Sanchez,31
+Santa Rosa,21 Avalon,U.S. Senate,"",DEM,William Sanchez,27
+Santa Rosa,22 Gulf Breeze,U.S. Senate,"",DEM,William Sanchez,38
+Santa Rosa,23 Midway,U.S. Senate,"",DEM,William Sanchez,22
+Santa Rosa,24 Pea Ridge,U.S. Senate,"",DEM,William Sanchez,35
+Santa Rosa,25 Oriole Beach,U.S. Senate,"",DEM,William Sanchez,15
+Santa Rosa,26 East Navarre,U.S. Senate,"",DEM,William Sanchez,37
+Santa Rosa,27 Woodbine,U.S. Senate,"",DEM,William Sanchez,19
+Santa Rosa,28 Tiger Point,U.S. Senate,"",DEM,William Sanchez,15
+Santa Rosa,29 West Navarre,U.S. Senate,"",DEM,William Sanchez,11
+Santa Rosa,30 Pine Terrace,U.S. Senate,"",DEM,William Sanchez,24
+Santa Rosa,31 Floridatown,U.S. Senate,"",DEM,William Sanchez,5
+Santa Rosa,32 Grand Pointe,U.S. Senate,"",DEM,William Sanchez,25
+Santa Rosa,33 East Milton,U.S. Senate,"",DEM,William Sanchez,17
+Santa Rosa,34 Hidden Creek,U.S. Senate,"",DEM,William Sanchez,52
+Santa Rosa,35 Biscayne Pointe,U.S. Senate,"",DEM,William Sanchez,34
+Santa Rosa,36 Mill Creek,U.S. Senate,"",DEM,William Sanchez,14
+Santa Rosa,37 Soundside,U.S. Senate,"",DEM,William Sanchez,15
+Santa Rosa,38 Navarre Beach,U.S. Senate,"",DEM,William Sanchez,3
+Santa Rosa,39 Garcon Point,U.S. Senate,"",DEM,William Sanchez,7
+Santa Rosa,40 Parkway,U.S. Senate,"",DEM,William Sanchez,11
+Santa Rosa,41 Woodlawn,U.S. Senate,"",DEM,William Sanchez,12
+Santa Rosa,1 South Milton,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,2 Wallace,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,3 Coon Hill,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,4 Jay,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,5 McLellan,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,6 Red Rock,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,7 Munson,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,8 North Milton,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,9 Ward Basin,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,10 Holley,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,11 Coldwater,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,12 Point Baker,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,13 Allentown,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,14 Harold,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,15 Ferris Hill,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,16 Bagdad,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,17 Fidelis,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,18 Berryhill,U.S. Senate,"",DEM,OverVotes,1
+Santa Rosa,19 Chumuckla,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,20 Pace,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,21 Avalon,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,22 Gulf Breeze,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,23 Midway,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,24 Pea Ridge,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,25 Oriole Beach,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,26 East Navarre,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,27 Woodbine,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,28 Tiger Point,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,29 West Navarre,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,30 Pine Terrace,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,31 Floridatown,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,32 Grand Pointe,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,33 East Milton,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,34 Hidden Creek,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,36 Mill Creek,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,37 Soundside,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,38 Navarre Beach,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,39 Garcon Point,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,40 Parkway,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,41 Woodlawn,U.S. Senate,"",DEM,OverVotes,0
+Santa Rosa,1 South Milton,U.S. Senate,"",DEM,UnderVotes,3
+Santa Rosa,2 Wallace,U.S. Senate,"",DEM,UnderVotes,6
+Santa Rosa,3 Coon Hill,U.S. Senate,"",DEM,UnderVotes,1
+Santa Rosa,4 Jay,U.S. Senate,"",DEM,UnderVotes,1
+Santa Rosa,5 McLellan,U.S. Senate,"",DEM,UnderVotes,0
+Santa Rosa,6 Red Rock,U.S. Senate,"",DEM,UnderVotes,0
+Santa Rosa,7 Munson,U.S. Senate,"",DEM,UnderVotes,2
+Santa Rosa,8 North Milton,U.S. Senate,"",DEM,UnderVotes,5
+Santa Rosa,9 Ward Basin,U.S. Senate,"",DEM,UnderVotes,4
+Santa Rosa,10 Holley,U.S. Senate,"",DEM,UnderVotes,2
+Santa Rosa,11 Coldwater,U.S. Senate,"",DEM,UnderVotes,2
+Santa Rosa,12 Point Baker,U.S. Senate,"",DEM,UnderVotes,13
+Santa Rosa,13 Allentown,U.S. Senate,"",DEM,UnderVotes,5
+Santa Rosa,14 Harold,U.S. Senate,"",DEM,UnderVotes,3
+Santa Rosa,15 Ferris Hill,U.S. Senate,"",DEM,UnderVotes,5
+Santa Rosa,16 Bagdad,U.S. Senate,"",DEM,UnderVotes,5
+Santa Rosa,17 Fidelis,U.S. Senate,"",DEM,UnderVotes,4
+Santa Rosa,18 Berryhill,U.S. Senate,"",DEM,UnderVotes,8
+Santa Rosa,19 Chumuckla,U.S. Senate,"",DEM,UnderVotes,2
+Santa Rosa,20 Pace,U.S. Senate,"",DEM,UnderVotes,11
+Santa Rosa,21 Avalon,U.S. Senate,"",DEM,UnderVotes,13
+Santa Rosa,22 Gulf Breeze,U.S. Senate,"",DEM,UnderVotes,13
+Santa Rosa,23 Midway,U.S. Senate,"",DEM,UnderVotes,6
+Santa Rosa,24 Pea Ridge,U.S. Senate,"",DEM,UnderVotes,4
+Santa Rosa,25 Oriole Beach,U.S. Senate,"",DEM,UnderVotes,15
+Santa Rosa,26 East Navarre,U.S. Senate,"",DEM,UnderVotes,9
+Santa Rosa,27 Woodbine,U.S. Senate,"",DEM,UnderVotes,6
+Santa Rosa,28 Tiger Point,U.S. Senate,"",DEM,UnderVotes,11
+Santa Rosa,29 West Navarre,U.S. Senate,"",DEM,UnderVotes,3
+Santa Rosa,30 Pine Terrace,U.S. Senate,"",DEM,UnderVotes,6
+Santa Rosa,31 Floridatown,U.S. Senate,"",DEM,UnderVotes,0
+Santa Rosa,32 Grand Pointe,U.S. Senate,"",DEM,UnderVotes,13
+Santa Rosa,33 East Milton,U.S. Senate,"",DEM,UnderVotes,2
+Santa Rosa,34 Hidden Creek,U.S. Senate,"",DEM,UnderVotes,11
+Santa Rosa,35 Biscayne Pointe,U.S. Senate,"",DEM,UnderVotes,3
+Santa Rosa,36 Mill Creek,U.S. Senate,"",DEM,UnderVotes,4
+Santa Rosa,37 Soundside,U.S. Senate,"",DEM,UnderVotes,7
+Santa Rosa,38 Navarre Beach,U.S. Senate,"",DEM,UnderVotes,2
+Santa Rosa,39 Garcon Point,U.S. Senate,"",DEM,UnderVotes,5
+Santa Rosa,40 Parkway,U.S. Senate,"",DEM,UnderVotes,1
+Santa Rosa,41 Woodlawn,U.S. Senate,"",DEM,UnderVotes,5
+Santa Rosa,1 South Milton,U.S. House,1,REP,Matt Gaetz,149
+Santa Rosa,2 Wallace,U.S. House,1,REP,Matt Gaetz,919
+Santa Rosa,3 Coon Hill,U.S. House,1,REP,Matt Gaetz,197
+Santa Rosa,4 Jay,U.S. House,1,REP,Matt Gaetz,417
+Santa Rosa,5 McLellan,U.S. House,1,REP,Matt Gaetz,29
+Santa Rosa,6 Red Rock,U.S. House,1,REP,Matt Gaetz,36
+Santa Rosa,7 Munson,U.S. House,1,REP,Matt Gaetz,77
+Santa Rosa,8 North Milton,U.S. House,1,REP,Matt Gaetz,227
+Santa Rosa,9 Ward Basin,U.S. House,1,REP,Matt Gaetz,561
+Santa Rosa,10 Holley,U.S. House,1,REP,Matt Gaetz,310
+Santa Rosa,11 Coldwater,U.S. House,1,REP,Matt Gaetz,285
+Santa Rosa,12 Point Baker,U.S. House,1,REP,Matt Gaetz,591
+Santa Rosa,13 Allentown,U.S. House,1,REP,Matt Gaetz,376
+Santa Rosa,14 Harold,U.S. House,1,REP,Matt Gaetz,177
+Santa Rosa,15 Ferris Hill,U.S. House,1,REP,Matt Gaetz,483
+Santa Rosa,16 Bagdad,U.S. House,1,REP,Matt Gaetz,544
+Santa Rosa,17 Fidelis,U.S. House,1,REP,Matt Gaetz,184
+Santa Rosa,18 Berryhill,U.S. House,1,REP,Matt Gaetz,949
+Santa Rosa,19 Chumuckla,U.S. House,1,REP,Matt Gaetz,428
+Santa Rosa,20 Pace,U.S. House,1,REP,Matt Gaetz,1016
+Santa Rosa,21 Avalon,U.S. House,1,REP,Matt Gaetz,733
+Santa Rosa,22 Gulf Breeze,U.S. House,1,REP,Matt Gaetz,724
+Santa Rosa,23 Midway,U.S. House,1,REP,Matt Gaetz,524
+Santa Rosa,24 Pea Ridge,U.S. House,1,REP,Matt Gaetz,1058
+Santa Rosa,25 Oriole Beach,U.S. House,1,REP,Matt Gaetz,528
+Santa Rosa,26 East Navarre,U.S. House,1,REP,Matt Gaetz,1096
+Santa Rosa,27 Woodbine,U.S. House,1,REP,Matt Gaetz,902
+Santa Rosa,28 Tiger Point,U.S. House,1,REP,Matt Gaetz,577
+Santa Rosa,29 West Navarre,U.S. House,1,REP,Matt Gaetz,408
+Santa Rosa,30 Pine Terrace,U.S. House,1,REP,Matt Gaetz,756
+Santa Rosa,31 Floridatown,U.S. House,1,REP,Matt Gaetz,298
+Santa Rosa,32 Grand Pointe,U.S. House,1,REP,Matt Gaetz,522
+Santa Rosa,33 East Milton,U.S. House,1,REP,Matt Gaetz,534
+Santa Rosa,34 Hidden Creek,U.S. House,1,REP,Matt Gaetz,1655
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,REP,Matt Gaetz,648
+Santa Rosa,36 Mill Creek,U.S. House,1,REP,Matt Gaetz,370
+Santa Rosa,37 Soundside,U.S. House,1,REP,Matt Gaetz,361
+Santa Rosa,38 Navarre Beach,U.S. House,1,REP,Matt Gaetz,199
+Santa Rosa,39 Garcon Point,U.S. House,1,REP,Matt Gaetz,375
+Santa Rosa,40 Parkway,U.S. House,1,REP,Matt Gaetz,240
+Santa Rosa,41 Woodlawn,U.S. House,1,REP,Matt Gaetz,469
+Santa Rosa,1 South Milton,U.S. House,1,REP,Mark Lombardo,42
+Santa Rosa,2 Wallace,U.S. House,1,REP,Mark Lombardo,318
+Santa Rosa,3 Coon Hill,U.S. House,1,REP,Mark Lombardo,37
+Santa Rosa,4 Jay,U.S. House,1,REP,Mark Lombardo,77
+Santa Rosa,5 McLellan,U.S. House,1,REP,Mark Lombardo,8
+Santa Rosa,6 Red Rock,U.S. House,1,REP,Mark Lombardo,6
+Santa Rosa,7 Munson,U.S. House,1,REP,Mark Lombardo,13
+Santa Rosa,8 North Milton,U.S. House,1,REP,Mark Lombardo,57
+Santa Rosa,9 Ward Basin,U.S. House,1,REP,Mark Lombardo,124
+Santa Rosa,10 Holley,U.S. House,1,REP,Mark Lombardo,73
+Santa Rosa,11 Coldwater,U.S. House,1,REP,Mark Lombardo,55
+Santa Rosa,12 Point Baker,U.S. House,1,REP,Mark Lombardo,136
+Santa Rosa,13 Allentown,U.S. House,1,REP,Mark Lombardo,81
+Santa Rosa,14 Harold,U.S. House,1,REP,Mark Lombardo,29
+Santa Rosa,15 Ferris Hill,U.S. House,1,REP,Mark Lombardo,164
+Santa Rosa,16 Bagdad,U.S. House,1,REP,Mark Lombardo,172
+Santa Rosa,17 Fidelis,U.S. House,1,REP,Mark Lombardo,27
+Santa Rosa,18 Berryhill,U.S. House,1,REP,Mark Lombardo,287
+Santa Rosa,19 Chumuckla,U.S. House,1,REP,Mark Lombardo,150
+Santa Rosa,20 Pace,U.S. House,1,REP,Mark Lombardo,313
+Santa Rosa,21 Avalon,U.S. House,1,REP,Mark Lombardo,209
+Santa Rosa,22 Gulf Breeze,U.S. House,1,REP,Mark Lombardo,420
+Santa Rosa,23 Midway,U.S. House,1,REP,Mark Lombardo,163
+Santa Rosa,24 Pea Ridge,U.S. House,1,REP,Mark Lombardo,320
+Santa Rosa,25 Oriole Beach,U.S. House,1,REP,Mark Lombardo,223
+Santa Rosa,26 East Navarre,U.S. House,1,REP,Mark Lombardo,323
+Santa Rosa,27 Woodbine,U.S. House,1,REP,Mark Lombardo,407
+Santa Rosa,28 Tiger Point,U.S. House,1,REP,Mark Lombardo,244
+Santa Rosa,29 West Navarre,U.S. House,1,REP,Mark Lombardo,95
+Santa Rosa,30 Pine Terrace,U.S. House,1,REP,Mark Lombardo,223
+Santa Rosa,31 Floridatown,U.S. House,1,REP,Mark Lombardo,33
+Santa Rosa,32 Grand Pointe,U.S. House,1,REP,Mark Lombardo,204
+Santa Rosa,33 East Milton,U.S. House,1,REP,Mark Lombardo,119
+Santa Rosa,34 Hidden Creek,U.S. House,1,REP,Mark Lombardo,449
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,REP,Mark Lombardo,173
+Santa Rosa,36 Mill Creek,U.S. House,1,REP,Mark Lombardo,114
+Santa Rosa,37 Soundside,U.S. House,1,REP,Mark Lombardo,143
+Santa Rosa,38 Navarre Beach,U.S. House,1,REP,Mark Lombardo,59
+Santa Rosa,39 Garcon Point,U.S. House,1,REP,Mark Lombardo,137
+Santa Rosa,40 Parkway,U.S. House,1,REP,Mark Lombardo,72
+Santa Rosa,41 Woodlawn,U.S. House,1,REP,Mark Lombardo,140
+Santa Rosa,1 South Milton,U.S. House,1,REP,Greg Merk,12
+Santa Rosa,2 Wallace,U.S. House,1,REP,Greg Merk,101
+Santa Rosa,3 Coon Hill,U.S. House,1,REP,Greg Merk,15
+Santa Rosa,4 Jay,U.S. House,1,REP,Greg Merk,14
+Santa Rosa,5 McLellan,U.S. House,1,REP,Greg Merk,1
+Santa Rosa,6 Red Rock,U.S. House,1,REP,Greg Merk,0
+Santa Rosa,7 Munson,U.S. House,1,REP,Greg Merk,2
+Santa Rosa,8 North Milton,U.S. House,1,REP,Greg Merk,29
+Santa Rosa,9 Ward Basin,U.S. House,1,REP,Greg Merk,36
+Santa Rosa,10 Holley,U.S. House,1,REP,Greg Merk,12
+Santa Rosa,11 Coldwater,U.S. House,1,REP,Greg Merk,20
+Santa Rosa,12 Point Baker,U.S. House,1,REP,Greg Merk,51
+Santa Rosa,13 Allentown,U.S. House,1,REP,Greg Merk,21
+Santa Rosa,14 Harold,U.S. House,1,REP,Greg Merk,10
+Santa Rosa,15 Ferris Hill,U.S. House,1,REP,Greg Merk,31
+Santa Rosa,16 Bagdad,U.S. House,1,REP,Greg Merk,37
+Santa Rosa,17 Fidelis,U.S. House,1,REP,Greg Merk,7
+Santa Rosa,18 Berryhill,U.S. House,1,REP,Greg Merk,78
+Santa Rosa,19 Chumuckla,U.S. House,1,REP,Greg Merk,16
+Santa Rosa,20 Pace,U.S. House,1,REP,Greg Merk,83
+Santa Rosa,21 Avalon,U.S. House,1,REP,Greg Merk,63
+Santa Rosa,22 Gulf Breeze,U.S. House,1,REP,Greg Merk,75
+Santa Rosa,23 Midway,U.S. House,1,REP,Greg Merk,38
+Santa Rosa,24 Pea Ridge,U.S. House,1,REP,Greg Merk,89
+Santa Rosa,25 Oriole Beach,U.S. House,1,REP,Greg Merk,34
+Santa Rosa,26 East Navarre,U.S. House,1,REP,Greg Merk,76
+Santa Rosa,27 Woodbine,U.S. House,1,REP,Greg Merk,87
+Santa Rosa,28 Tiger Point,U.S. House,1,REP,Greg Merk,36
+Santa Rosa,29 West Navarre,U.S. House,1,REP,Greg Merk,21
+Santa Rosa,30 Pine Terrace,U.S. House,1,REP,Greg Merk,59
+Santa Rosa,31 Floridatown,U.S. House,1,REP,Greg Merk,18
+Santa Rosa,32 Grand Pointe,U.S. House,1,REP,Greg Merk,40
+Santa Rosa,33 East Milton,U.S. House,1,REP,Greg Merk,33
+Santa Rosa,34 Hidden Creek,U.S. House,1,REP,Greg Merk,99
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,REP,Greg Merk,39
+Santa Rosa,36 Mill Creek,U.S. House,1,REP,Greg Merk,44
+Santa Rosa,37 Soundside,U.S. House,1,REP,Greg Merk,32
+Santa Rosa,38 Navarre Beach,U.S. House,1,REP,Greg Merk,8
+Santa Rosa,39 Garcon Point,U.S. House,1,REP,Greg Merk,34
+Santa Rosa,40 Parkway,U.S. House,1,REP,Greg Merk,15
+Santa Rosa,41 Woodlawn,U.S. House,1,REP,Greg Merk,35
+Santa Rosa,1 South Milton,U.S. House,1,REP,OverVotes,0
+Santa Rosa,2 Wallace,U.S. House,1,REP,OverVotes,0
+Santa Rosa,3 Coon Hill,U.S. House,1,REP,OverVotes,0
+Santa Rosa,4 Jay,U.S. House,1,REP,OverVotes,0
+Santa Rosa,5 McLellan,U.S. House,1,REP,OverVotes,0
+Santa Rosa,6 Red Rock,U.S. House,1,REP,OverVotes,0
+Santa Rosa,7 Munson,U.S. House,1,REP,OverVotes,0
+Santa Rosa,8 North Milton,U.S. House,1,REP,OverVotes,0
+Santa Rosa,9 Ward Basin,U.S. House,1,REP,OverVotes,0
+Santa Rosa,10 Holley,U.S. House,1,REP,OverVotes,0
+Santa Rosa,11 Coldwater,U.S. House,1,REP,OverVotes,0
+Santa Rosa,12 Point Baker,U.S. House,1,REP,OverVotes,0
+Santa Rosa,13 Allentown,U.S. House,1,REP,OverVotes,0
+Santa Rosa,14 Harold,U.S. House,1,REP,OverVotes,0
+Santa Rosa,15 Ferris Hill,U.S. House,1,REP,OverVotes,1
+Santa Rosa,16 Bagdad,U.S. House,1,REP,OverVotes,0
+Santa Rosa,17 Fidelis,U.S. House,1,REP,OverVotes,0
+Santa Rosa,18 Berryhill,U.S. House,1,REP,OverVotes,0
+Santa Rosa,19 Chumuckla,U.S. House,1,REP,OverVotes,0
+Santa Rosa,20 Pace,U.S. House,1,REP,OverVotes,0
+Santa Rosa,21 Avalon,U.S. House,1,REP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,U.S. House,1,REP,OverVotes,0
+Santa Rosa,23 Midway,U.S. House,1,REP,OverVotes,1
+Santa Rosa,24 Pea Ridge,U.S. House,1,REP,OverVotes,0
+Santa Rosa,25 Oriole Beach,U.S. House,1,REP,OverVotes,0
+Santa Rosa,26 East Navarre,U.S. House,1,REP,OverVotes,0
+Santa Rosa,27 Woodbine,U.S. House,1,REP,OverVotes,0
+Santa Rosa,28 Tiger Point,U.S. House,1,REP,OverVotes,0
+Santa Rosa,29 West Navarre,U.S. House,1,REP,OverVotes,1
+Santa Rosa,30 Pine Terrace,U.S. House,1,REP,OverVotes,2
+Santa Rosa,31 Floridatown,U.S. House,1,REP,OverVotes,0
+Santa Rosa,32 Grand Pointe,U.S. House,1,REP,OverVotes,1
+Santa Rosa,33 East Milton,U.S. House,1,REP,OverVotes,0
+Santa Rosa,34 Hidden Creek,U.S. House,1,REP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,REP,OverVotes,0
+Santa Rosa,36 Mill Creek,U.S. House,1,REP,OverVotes,0
+Santa Rosa,37 Soundside,U.S. House,1,REP,OverVotes,0
+Santa Rosa,38 Navarre Beach,U.S. House,1,REP,OverVotes,0
+Santa Rosa,39 Garcon Point,U.S. House,1,REP,OverVotes,1
+Santa Rosa,40 Parkway,U.S. House,1,REP,OverVotes,0
+Santa Rosa,41 Woodlawn,U.S. House,1,REP,OverVotes,0
+Santa Rosa,1 South Milton,U.S. House,1,REP,UnderVotes,1
+Santa Rosa,2 Wallace,U.S. House,1,REP,UnderVotes,10
+Santa Rosa,3 Coon Hill,U.S. House,1,REP,UnderVotes,2
+Santa Rosa,4 Jay,U.S. House,1,REP,UnderVotes,3
+Santa Rosa,5 McLellan,U.S. House,1,REP,UnderVotes,0
+Santa Rosa,6 Red Rock,U.S. House,1,REP,UnderVotes,0
+Santa Rosa,7 Munson,U.S. House,1,REP,UnderVotes,0
+Santa Rosa,8 North Milton,U.S. House,1,REP,UnderVotes,2
+Santa Rosa,9 Ward Basin,U.S. House,1,REP,UnderVotes,2
+Santa Rosa,10 Holley,U.S. House,1,REP,UnderVotes,1
+Santa Rosa,11 Coldwater,U.S. House,1,REP,UnderVotes,3
+Santa Rosa,12 Point Baker,U.S. House,1,REP,UnderVotes,0
+Santa Rosa,13 Allentown,U.S. House,1,REP,UnderVotes,2
+Santa Rosa,14 Harold,U.S. House,1,REP,UnderVotes,3
+Santa Rosa,15 Ferris Hill,U.S. House,1,REP,UnderVotes,3
+Santa Rosa,16 Bagdad,U.S. House,1,REP,UnderVotes,3
+Santa Rosa,17 Fidelis,U.S. House,1,REP,UnderVotes,0
+Santa Rosa,18 Berryhill,U.S. House,1,REP,UnderVotes,6
+Santa Rosa,19 Chumuckla,U.S. House,1,REP,UnderVotes,5
+Santa Rosa,20 Pace,U.S. House,1,REP,UnderVotes,15
+Santa Rosa,21 Avalon,U.S. House,1,REP,UnderVotes,10
+Santa Rosa,22 Gulf Breeze,U.S. House,1,REP,UnderVotes,8
+Santa Rosa,23 Midway,U.S. House,1,REP,UnderVotes,4
+Santa Rosa,24 Pea Ridge,U.S. House,1,REP,UnderVotes,5
+Santa Rosa,25 Oriole Beach,U.S. House,1,REP,UnderVotes,4
+Santa Rosa,26 East Navarre,U.S. House,1,REP,UnderVotes,7
+Santa Rosa,27 Woodbine,U.S. House,1,REP,UnderVotes,9
+Santa Rosa,28 Tiger Point,U.S. House,1,REP,UnderVotes,4
+Santa Rosa,29 West Navarre,U.S. House,1,REP,UnderVotes,3
+Santa Rosa,30 Pine Terrace,U.S. House,1,REP,UnderVotes,5
+Santa Rosa,31 Floridatown,U.S. House,1,REP,UnderVotes,1
+Santa Rosa,32 Grand Pointe,U.S. House,1,REP,UnderVotes,2
+Santa Rosa,33 East Milton,U.S. House,1,REP,UnderVotes,5
+Santa Rosa,34 Hidden Creek,U.S. House,1,REP,UnderVotes,16
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,REP,UnderVotes,1
+Santa Rosa,36 Mill Creek,U.S. House,1,REP,UnderVotes,6
+Santa Rosa,37 Soundside,U.S. House,1,REP,UnderVotes,5
+Santa Rosa,38 Navarre Beach,U.S. House,1,REP,UnderVotes,4
+Santa Rosa,39 Garcon Point,U.S. House,1,REP,UnderVotes,6
+Santa Rosa,40 Parkway,U.S. House,1,REP,UnderVotes,1
+Santa Rosa,41 Woodlawn,U.S. House,1,REP,UnderVotes,2
+Santa Rosa,1 South Milton,U.S. House,1,DEM,Rebekah Jones,80
+Santa Rosa,2 Wallace,U.S. House,1,DEM,Rebekah Jones,107
+Santa Rosa,3 Coon Hill,U.S. House,1,DEM,Rebekah Jones,5
+Santa Rosa,4 Jay,U.S. House,1,DEM,Rebekah Jones,31
+Santa Rosa,5 McLellan,U.S. House,1,DEM,Rebekah Jones,2
+Santa Rosa,6 Red Rock,U.S. House,1,DEM,Rebekah Jones,2
+Santa Rosa,7 Munson,U.S. House,1,DEM,Rebekah Jones,7
+Santa Rosa,8 North Milton,U.S. House,1,DEM,Rebekah Jones,72
+Santa Rosa,9 Ward Basin,U.S. House,1,DEM,Rebekah Jones,92
+Santa Rosa,10 Holley,U.S. House,1,DEM,Rebekah Jones,39
+Santa Rosa,11 Coldwater,U.S. House,1,DEM,Rebekah Jones,43
+Santa Rosa,12 Point Baker,U.S. House,1,DEM,Rebekah Jones,143
+Santa Rosa,13 Allentown,U.S. House,1,DEM,Rebekah Jones,28
+Santa Rosa,14 Harold,U.S. House,1,DEM,Rebekah Jones,22
+Santa Rosa,15 Ferris Hill,U.S. House,1,DEM,Rebekah Jones,140
+Santa Rosa,16 Bagdad,U.S. House,1,DEM,Rebekah Jones,159
+Santa Rosa,17 Fidelis,U.S. House,1,DEM,Rebekah Jones,17
+Santa Rosa,18 Berryhill,U.S. House,1,DEM,Rebekah Jones,171
+Santa Rosa,19 Chumuckla,U.S. House,1,DEM,Rebekah Jones,19
+Santa Rosa,20 Pace,U.S. House,1,DEM,Rebekah Jones,145
+Santa Rosa,21 Avalon,U.S. House,1,DEM,Rebekah Jones,139
+Santa Rosa,22 Gulf Breeze,U.S. House,1,DEM,Rebekah Jones,210
+Santa Rosa,23 Midway,U.S. House,1,DEM,Rebekah Jones,128
+Santa Rosa,24 Pea Ridge,U.S. House,1,DEM,Rebekah Jones,175
+Santa Rosa,25 Oriole Beach,U.S. House,1,DEM,Rebekah Jones,104
+Santa Rosa,26 East Navarre,U.S. House,1,DEM,Rebekah Jones,252
+Santa Rosa,27 Woodbine,U.S. House,1,DEM,Rebekah Jones,126
+Santa Rosa,28 Tiger Point,U.S. House,1,DEM,Rebekah Jones,109
+Santa Rosa,29 West Navarre,U.S. House,1,DEM,Rebekah Jones,74
+Santa Rosa,30 Pine Terrace,U.S. House,1,DEM,Rebekah Jones,94
+Santa Rosa,31 Floridatown,U.S. House,1,DEM,Rebekah Jones,33
+Santa Rosa,32 Grand Pointe,U.S. House,1,DEM,Rebekah Jones,118
+Santa Rosa,33 East Milton,U.S. House,1,DEM,Rebekah Jones,86
+Santa Rosa,34 Hidden Creek,U.S. House,1,DEM,Rebekah Jones,328
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,DEM,Rebekah Jones,173
+Santa Rosa,36 Mill Creek,U.S. House,1,DEM,Rebekah Jones,47
+Santa Rosa,37 Soundside,U.S. House,1,DEM,Rebekah Jones,85
+Santa Rosa,38 Navarre Beach,U.S. House,1,DEM,Rebekah Jones,32
+Santa Rosa,39 Garcon Point,U.S. House,1,DEM,Rebekah Jones,52
+Santa Rosa,40 Parkway,U.S. House,1,DEM,Rebekah Jones,62
+Santa Rosa,41 Woodlawn,U.S. House,1,DEM,Rebekah Jones,120
+Santa Rosa,1 South Milton,U.S. House,1,DEM,Peggy Schiller,27
+Santa Rosa,2 Wallace,U.S. House,1,DEM,Peggy Schiller,53
+Santa Rosa,3 Coon Hill,U.S. House,1,DEM,Peggy Schiller,4
+Santa Rosa,4 Jay,U.S. House,1,DEM,Peggy Schiller,9
+Santa Rosa,5 McLellan,U.S. House,1,DEM,Peggy Schiller,0
+Santa Rosa,6 Red Rock,U.S. House,1,DEM,Peggy Schiller,0
+Santa Rosa,7 Munson,U.S. House,1,DEM,Peggy Schiller,1
+Santa Rosa,8 North Milton,U.S. House,1,DEM,Peggy Schiller,30
+Santa Rosa,9 Ward Basin,U.S. House,1,DEM,Peggy Schiller,54
+Santa Rosa,10 Holley,U.S. House,1,DEM,Peggy Schiller,22
+Santa Rosa,11 Coldwater,U.S. House,1,DEM,Peggy Schiller,17
+Santa Rosa,12 Point Baker,U.S. House,1,DEM,Peggy Schiller,93
+Santa Rosa,13 Allentown,U.S. House,1,DEM,Peggy Schiller,21
+Santa Rosa,14 Harold,U.S. House,1,DEM,Peggy Schiller,5
+Santa Rosa,15 Ferris Hill,U.S. House,1,DEM,Peggy Schiller,65
+Santa Rosa,16 Bagdad,U.S. House,1,DEM,Peggy Schiller,77
+Santa Rosa,17 Fidelis,U.S. House,1,DEM,Peggy Schiller,7
+Santa Rosa,18 Berryhill,U.S. House,1,DEM,Peggy Schiller,75
+Santa Rosa,19 Chumuckla,U.S. House,1,DEM,Peggy Schiller,12
+Santa Rosa,20 Pace,U.S. House,1,DEM,Peggy Schiller,91
+Santa Rosa,21 Avalon,U.S. House,1,DEM,Peggy Schiller,74
+Santa Rosa,22 Gulf Breeze,U.S. House,1,DEM,Peggy Schiller,140
+Santa Rosa,23 Midway,U.S. House,1,DEM,Peggy Schiller,58
+Santa Rosa,24 Pea Ridge,U.S. House,1,DEM,Peggy Schiller,114
+Santa Rosa,25 Oriole Beach,U.S. House,1,DEM,Peggy Schiller,85
+Santa Rosa,26 East Navarre,U.S. House,1,DEM,Peggy Schiller,129
+Santa Rosa,27 Woodbine,U.S. House,1,DEM,Peggy Schiller,107
+Santa Rosa,28 Tiger Point,U.S. House,1,DEM,Peggy Schiller,61
+Santa Rosa,29 West Navarre,U.S. House,1,DEM,Peggy Schiller,39
+Santa Rosa,30 Pine Terrace,U.S. House,1,DEM,Peggy Schiller,72
+Santa Rosa,31 Floridatown,U.S. House,1,DEM,Peggy Schiller,25
+Santa Rosa,32 Grand Pointe,U.S. House,1,DEM,Peggy Schiller,84
+Santa Rosa,33 East Milton,U.S. House,1,DEM,Peggy Schiller,64
+Santa Rosa,34 Hidden Creek,U.S. House,1,DEM,Peggy Schiller,183
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,DEM,Peggy Schiller,93
+Santa Rosa,36 Mill Creek,U.S. House,1,DEM,Peggy Schiller,61
+Santa Rosa,37 Soundside,U.S. House,1,DEM,Peggy Schiller,39
+Santa Rosa,38 Navarre Beach,U.S. House,1,DEM,Peggy Schiller,22
+Santa Rosa,39 Garcon Point,U.S. House,1,DEM,Peggy Schiller,42
+Santa Rosa,40 Parkway,U.S. House,1,DEM,Peggy Schiller,34
+Santa Rosa,41 Woodlawn,U.S. House,1,DEM,Peggy Schiller,67
+Santa Rosa,1 South Milton,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,2 Wallace,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,3 Coon Hill,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,4 Jay,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,5 McLellan,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,6 Red Rock,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,7 Munson,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,8 North Milton,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,9 Ward Basin,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,10 Holley,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,11 Coldwater,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,12 Point Baker,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,13 Allentown,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,14 Harold,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,15 Ferris Hill,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,16 Bagdad,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,17 Fidelis,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,18 Berryhill,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,19 Chumuckla,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,20 Pace,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,21 Avalon,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,22 Gulf Breeze,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,23 Midway,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,24 Pea Ridge,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,25 Oriole Beach,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,26 East Navarre,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,27 Woodbine,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,28 Tiger Point,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,29 West Navarre,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,30 Pine Terrace,U.S. House,1,DEM,OverVotes,1
+Santa Rosa,31 Floridatown,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,32 Grand Pointe,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,33 East Milton,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,34 Hidden Creek,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,36 Mill Creek,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,37 Soundside,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,38 Navarre Beach,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,39 Garcon Point,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,40 Parkway,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,41 Woodlawn,U.S. House,1,DEM,OverVotes,0
+Santa Rosa,1 South Milton,U.S. House,1,DEM,UnderVotes,3
+Santa Rosa,2 Wallace,U.S. House,1,DEM,UnderVotes,10
+Santa Rosa,3 Coon Hill,U.S. House,1,DEM,UnderVotes,1
+Santa Rosa,4 Jay,U.S. House,1,DEM,UnderVotes,1
+Santa Rosa,5 McLellan,U.S. House,1,DEM,UnderVotes,0
+Santa Rosa,6 Red Rock,U.S. House,1,DEM,UnderVotes,0
+Santa Rosa,7 Munson,U.S. House,1,DEM,UnderVotes,0
+Santa Rosa,8 North Milton,U.S. House,1,DEM,UnderVotes,5
+Santa Rosa,9 Ward Basin,U.S. House,1,DEM,UnderVotes,5
+Santa Rosa,10 Holley,U.S. House,1,DEM,UnderVotes,5
+Santa Rosa,11 Coldwater,U.S. House,1,DEM,UnderVotes,2
+Santa Rosa,12 Point Baker,U.S. House,1,DEM,UnderVotes,9
+Santa Rosa,13 Allentown,U.S. House,1,DEM,UnderVotes,4
+Santa Rosa,14 Harold,U.S. House,1,DEM,UnderVotes,2
+Santa Rosa,15 Ferris Hill,U.S. House,1,DEM,UnderVotes,5
+Santa Rosa,16 Bagdad,U.S. House,1,DEM,UnderVotes,11
+Santa Rosa,17 Fidelis,U.S. House,1,DEM,UnderVotes,5
+Santa Rosa,18 Berryhill,U.S. House,1,DEM,UnderVotes,6
+Santa Rosa,19 Chumuckla,U.S. House,1,DEM,UnderVotes,2
+Santa Rosa,20 Pace,U.S. House,1,DEM,UnderVotes,6
+Santa Rosa,21 Avalon,U.S. House,1,DEM,UnderVotes,13
+Santa Rosa,22 Gulf Breeze,U.S. House,1,DEM,UnderVotes,19
+Santa Rosa,23 Midway,U.S. House,1,DEM,UnderVotes,11
+Santa Rosa,24 Pea Ridge,U.S. House,1,DEM,UnderVotes,7
+Santa Rosa,25 Oriole Beach,U.S. House,1,DEM,UnderVotes,6
+Santa Rosa,26 East Navarre,U.S. House,1,DEM,UnderVotes,11
+Santa Rosa,27 Woodbine,U.S. House,1,DEM,UnderVotes,8
+Santa Rosa,28 Tiger Point,U.S. House,1,DEM,UnderVotes,13
+Santa Rosa,29 West Navarre,U.S. House,1,DEM,UnderVotes,5
+Santa Rosa,30 Pine Terrace,U.S. House,1,DEM,UnderVotes,5
+Santa Rosa,31 Floridatown,U.S. House,1,DEM,UnderVotes,1
+Santa Rosa,32 Grand Pointe,U.S. House,1,DEM,UnderVotes,12
+Santa Rosa,33 East Milton,U.S. House,1,DEM,UnderVotes,4
+Santa Rosa,34 Hidden Creek,U.S. House,1,DEM,UnderVotes,16
+Santa Rosa,35 Biscayne Pointe,U.S. House,1,DEM,UnderVotes,7
+Santa Rosa,36 Mill Creek,U.S. House,1,DEM,UnderVotes,6
+Santa Rosa,37 Soundside,U.S. House,1,DEM,UnderVotes,3
+Santa Rosa,38 Navarre Beach,U.S. House,1,DEM,UnderVotes,2
+Santa Rosa,39 Garcon Point,U.S. House,1,DEM,UnderVotes,6
+Santa Rosa,40 Parkway,U.S. House,1,DEM,UnderVotes,8
+Santa Rosa,41 Woodlawn,U.S. House,1,DEM,UnderVotes,8
+Santa Rosa,1 South Milton,Governor,"",DEM,Charlie Crist,57
+Santa Rosa,2 Wallace,Governor,"",DEM,Charlie Crist,79
+Santa Rosa,3 Coon Hill,Governor,"",DEM,Charlie Crist,7
+Santa Rosa,4 Jay,Governor,"",DEM,Charlie Crist,18
+Santa Rosa,5 McLellan,Governor,"",DEM,Charlie Crist,0
+Santa Rosa,6 Red Rock,Governor,"",DEM,Charlie Crist,0
+Santa Rosa,7 Munson,Governor,"",DEM,Charlie Crist,2
+Santa Rosa,8 North Milton,Governor,"",DEM,Charlie Crist,53
+Santa Rosa,9 Ward Basin,Governor,"",DEM,Charlie Crist,61
+Santa Rosa,10 Holley,Governor,"",DEM,Charlie Crist,34
+Santa Rosa,11 Coldwater,Governor,"",DEM,Charlie Crist,29
+Santa Rosa,12 Point Baker,Governor,"",DEM,Charlie Crist,115
+Santa Rosa,13 Allentown,Governor,"",DEM,Charlie Crist,18
+Santa Rosa,14 Harold,Governor,"",DEM,Charlie Crist,18
+Santa Rosa,15 Ferris Hill,Governor,"",DEM,Charlie Crist,108
+Santa Rosa,16 Bagdad,Governor,"",DEM,Charlie Crist,110
+Santa Rosa,17 Fidelis,Governor,"",DEM,Charlie Crist,10
+Santa Rosa,18 Berryhill,Governor,"",DEM,Charlie Crist,115
+Santa Rosa,19 Chumuckla,Governor,"",DEM,Charlie Crist,11
+Santa Rosa,20 Pace,Governor,"",DEM,Charlie Crist,110
+Santa Rosa,21 Avalon,Governor,"",DEM,Charlie Crist,97
+Santa Rosa,22 Gulf Breeze,Governor,"",DEM,Charlie Crist,188
+Santa Rosa,23 Midway,Governor,"",DEM,Charlie Crist,83
+Santa Rosa,24 Pea Ridge,Governor,"",DEM,Charlie Crist,116
+Santa Rosa,25 Oriole Beach,Governor,"",DEM,Charlie Crist,102
+Santa Rosa,26 East Navarre,Governor,"",DEM,Charlie Crist,184
+Santa Rosa,27 Woodbine,Governor,"",DEM,Charlie Crist,114
+Santa Rosa,28 Tiger Point,Governor,"",DEM,Charlie Crist,92
+Santa Rosa,29 West Navarre,Governor,"",DEM,Charlie Crist,50
+Santa Rosa,30 Pine Terrace,Governor,"",DEM,Charlie Crist,98
+Santa Rosa,31 Floridatown,Governor,"",DEM,Charlie Crist,30
+Santa Rosa,32 Grand Pointe,Governor,"",DEM,Charlie Crist,109
+Santa Rosa,33 East Milton,Governor,"",DEM,Charlie Crist,86
+Santa Rosa,34 Hidden Creek,Governor,"",DEM,Charlie Crist,244
+Santa Rosa,35 Biscayne Pointe,Governor,"",DEM,Charlie Crist,147
+Santa Rosa,36 Mill Creek,Governor,"",DEM,Charlie Crist,33
+Santa Rosa,37 Soundside,Governor,"",DEM,Charlie Crist,60
+Santa Rosa,38 Navarre Beach,Governor,"",DEM,Charlie Crist,27
+Santa Rosa,39 Garcon Point,Governor,"",DEM,Charlie Crist,59
+Santa Rosa,40 Parkway,Governor,"",DEM,Charlie Crist,44
+Santa Rosa,41 Woodlawn,Governor,"",DEM,Charlie Crist,88
+Santa Rosa,1 South Milton,Governor,"",DEM,Cadance Daniel,4
+Santa Rosa,2 Wallace,Governor,"",DEM,Cadance Daniel,6
+Santa Rosa,3 Coon Hill,Governor,"",DEM,Cadance Daniel,0
+Santa Rosa,4 Jay,Governor,"",DEM,Cadance Daniel,2
+Santa Rosa,5 McLellan,Governor,"",DEM,Cadance Daniel,0
+Santa Rosa,6 Red Rock,Governor,"",DEM,Cadance Daniel,0
+Santa Rosa,7 Munson,Governor,"",DEM,Cadance Daniel,1
+Santa Rosa,8 North Milton,Governor,"",DEM,Cadance Daniel,2
+Santa Rosa,9 Ward Basin,Governor,"",DEM,Cadance Daniel,13
+Santa Rosa,10 Holley,Governor,"",DEM,Cadance Daniel,5
+Santa Rosa,11 Coldwater,Governor,"",DEM,Cadance Daniel,6
+Santa Rosa,12 Point Baker,Governor,"",DEM,Cadance Daniel,10
+Santa Rosa,13 Allentown,Governor,"",DEM,Cadance Daniel,4
+Santa Rosa,14 Harold,Governor,"",DEM,Cadance Daniel,1
+Santa Rosa,15 Ferris Hill,Governor,"",DEM,Cadance Daniel,10
+Santa Rosa,16 Bagdad,Governor,"",DEM,Cadance Daniel,11
+Santa Rosa,17 Fidelis,Governor,"",DEM,Cadance Daniel,1
+Santa Rosa,18 Berryhill,Governor,"",DEM,Cadance Daniel,7
+Santa Rosa,19 Chumuckla,Governor,"",DEM,Cadance Daniel,1
+Santa Rosa,20 Pace,Governor,"",DEM,Cadance Daniel,10
+Santa Rosa,21 Avalon,Governor,"",DEM,Cadance Daniel,9
+Santa Rosa,22 Gulf Breeze,Governor,"",DEM,Cadance Daniel,15
+Santa Rosa,23 Midway,Governor,"",DEM,Cadance Daniel,7
+Santa Rosa,24 Pea Ridge,Governor,"",DEM,Cadance Daniel,17
+Santa Rosa,25 Oriole Beach,Governor,"",DEM,Cadance Daniel,0
+Santa Rosa,26 East Navarre,Governor,"",DEM,Cadance Daniel,14
+Santa Rosa,27 Woodbine,Governor,"",DEM,Cadance Daniel,8
+Santa Rosa,28 Tiger Point,Governor,"",DEM,Cadance Daniel,3
+Santa Rosa,29 West Navarre,Governor,"",DEM,Cadance Daniel,5
+Santa Rosa,30 Pine Terrace,Governor,"",DEM,Cadance Daniel,10
+Santa Rosa,31 Floridatown,Governor,"",DEM,Cadance Daniel,1
+Santa Rosa,32 Grand Pointe,Governor,"",DEM,Cadance Daniel,10
+Santa Rosa,33 East Milton,Governor,"",DEM,Cadance Daniel,7
+Santa Rosa,34 Hidden Creek,Governor,"",DEM,Cadance Daniel,13
+Santa Rosa,35 Biscayne Pointe,Governor,"",DEM,Cadance Daniel,14
+Santa Rosa,36 Mill Creek,Governor,"",DEM,Cadance Daniel,4
+Santa Rosa,37 Soundside,Governor,"",DEM,Cadance Daniel,5
+Santa Rosa,38 Navarre Beach,Governor,"",DEM,Cadance Daniel,2
+Santa Rosa,39 Garcon Point,Governor,"",DEM,Cadance Daniel,3
+Santa Rosa,40 Parkway,Governor,"",DEM,Cadance Daniel,2
+Santa Rosa,41 Woodlawn,Governor,"",DEM,Cadance Daniel,7
+Santa Rosa,1 South Milton,Governor,"",DEM,"Nicole ""Nikki"" Fried",43
+Santa Rosa,2 Wallace,Governor,"",DEM,"Nicole ""Nikki"" Fried",76
+Santa Rosa,3 Coon Hill,Governor,"",DEM,"Nicole ""Nikki"" Fried",2
+Santa Rosa,4 Jay,Governor,"",DEM,"Nicole ""Nikki"" Fried",15
+Santa Rosa,5 McLellan,Governor,"",DEM,"Nicole ""Nikki"" Fried",2
+Santa Rosa,6 Red Rock,Governor,"",DEM,"Nicole ""Nikki"" Fried",2
+Santa Rosa,7 Munson,Governor,"",DEM,"Nicole ""Nikki"" Fried",2
+Santa Rosa,8 North Milton,Governor,"",DEM,"Nicole ""Nikki"" Fried",46
+Santa Rosa,9 Ward Basin,Governor,"",DEM,"Nicole ""Nikki"" Fried",66
+Santa Rosa,10 Holley,Governor,"",DEM,"Nicole ""Nikki"" Fried",25
+Santa Rosa,11 Coldwater,Governor,"",DEM,"Nicole ""Nikki"" Fried",20
+Santa Rosa,12 Point Baker,Governor,"",DEM,"Nicole ""Nikki"" Fried",103
+Santa Rosa,13 Allentown,Governor,"",DEM,"Nicole ""Nikki"" Fried",21
+Santa Rosa,14 Harold,Governor,"",DEM,"Nicole ""Nikki"" Fried",9
+Santa Rosa,15 Ferris Hill,Governor,"",DEM,"Nicole ""Nikki"" Fried",78
+Santa Rosa,16 Bagdad,Governor,"",DEM,"Nicole ""Nikki"" Fried",106
+Santa Rosa,17 Fidelis,Governor,"",DEM,"Nicole ""Nikki"" Fried",10
+Santa Rosa,18 Berryhill,Governor,"",DEM,"Nicole ""Nikki"" Fried",119
+Santa Rosa,19 Chumuckla,Governor,"",DEM,"Nicole ""Nikki"" Fried",17
+Santa Rosa,20 Pace,Governor,"",DEM,"Nicole ""Nikki"" Fried",110
+Santa Rosa,21 Avalon,Governor,"",DEM,"Nicole ""Nikki"" Fried",110
+Santa Rosa,22 Gulf Breeze,Governor,"",DEM,"Nicole ""Nikki"" Fried",156
+Santa Rosa,23 Midway,Governor,"",DEM,"Nicole ""Nikki"" Fried",96
+Santa Rosa,24 Pea Ridge,Governor,"",DEM,"Nicole ""Nikki"" Fried",151
+Santa Rosa,25 Oriole Beach,Governor,"",DEM,"Nicole ""Nikki"" Fried",85
+Santa Rosa,26 East Navarre,Governor,"",DEM,"Nicole ""Nikki"" Fried",173
+Santa Rosa,27 Woodbine,Governor,"",DEM,"Nicole ""Nikki"" Fried",105
+Santa Rosa,28 Tiger Point,Governor,"",DEM,"Nicole ""Nikki"" Fried",81
+Santa Rosa,29 West Navarre,Governor,"",DEM,"Nicole ""Nikki"" Fried",57
+Santa Rosa,30 Pine Terrace,Governor,"",DEM,"Nicole ""Nikki"" Fried",51
+Santa Rosa,31 Floridatown,Governor,"",DEM,"Nicole ""Nikki"" Fried",27
+Santa Rosa,32 Grand Pointe,Governor,"",DEM,"Nicole ""Nikki"" Fried",85
+Santa Rosa,33 East Milton,Governor,"",DEM,"Nicole ""Nikki"" Fried",56
+Santa Rosa,34 Hidden Creek,Governor,"",DEM,"Nicole ""Nikki"" Fried",246
+Santa Rosa,35 Biscayne Pointe,Governor,"",DEM,"Nicole ""Nikki"" Fried",101
+Santa Rosa,36 Mill Creek,Governor,"",DEM,"Nicole ""Nikki"" Fried",69
+Santa Rosa,37 Soundside,Governor,"",DEM,"Nicole ""Nikki"" Fried",59
+Santa Rosa,38 Navarre Beach,Governor,"",DEM,"Nicole ""Nikki"" Fried",23
+Santa Rosa,39 Garcon Point,Governor,"",DEM,"Nicole ""Nikki"" Fried",35
+Santa Rosa,40 Parkway,Governor,"",DEM,"Nicole ""Nikki"" Fried",55
+Santa Rosa,41 Woodlawn,Governor,"",DEM,"Nicole ""Nikki"" Fried",87
+Santa Rosa,1 South Milton,Governor,"",DEM,Robert L. Willis,4
+Santa Rosa,2 Wallace,Governor,"",DEM,Robert L. Willis,5
+Santa Rosa,3 Coon Hill,Governor,"",DEM,Robert L. Willis,0
+Santa Rosa,4 Jay,Governor,"",DEM,Robert L. Willis,5
+Santa Rosa,5 McLellan,Governor,"",DEM,Robert L. Willis,0
+Santa Rosa,6 Red Rock,Governor,"",DEM,Robert L. Willis,0
+Santa Rosa,7 Munson,Governor,"",DEM,Robert L. Willis,2
+Santa Rosa,8 North Milton,Governor,"",DEM,Robert L. Willis,4
+Santa Rosa,9 Ward Basin,Governor,"",DEM,Robert L. Willis,11
+Santa Rosa,10 Holley,Governor,"",DEM,Robert L. Willis,1
+Santa Rosa,11 Coldwater,Governor,"",DEM,Robert L. Willis,6
+Santa Rosa,12 Point Baker,Governor,"",DEM,Robert L. Willis,14
+Santa Rosa,13 Allentown,Governor,"",DEM,Robert L. Willis,9
+Santa Rosa,14 Harold,Governor,"",DEM,Robert L. Willis,0
+Santa Rosa,15 Ferris Hill,Governor,"",DEM,Robert L. Willis,10
+Santa Rosa,16 Bagdad,Governor,"",DEM,Robert L. Willis,15
+Santa Rosa,17 Fidelis,Governor,"",DEM,Robert L. Willis,4
+Santa Rosa,18 Berryhill,Governor,"",DEM,Robert L. Willis,6
+Santa Rosa,19 Chumuckla,Governor,"",DEM,Robert L. Willis,3
+Santa Rosa,20 Pace,Governor,"",DEM,Robert L. Willis,9
+Santa Rosa,21 Avalon,Governor,"",DEM,Robert L. Willis,7
+Santa Rosa,22 Gulf Breeze,Governor,"",DEM,Robert L. Willis,7
+Santa Rosa,23 Midway,Governor,"",DEM,Robert L. Willis,7
+Santa Rosa,24 Pea Ridge,Governor,"",DEM,Robert L. Willis,11
+Santa Rosa,25 Oriole Beach,Governor,"",DEM,Robert L. Willis,5
+Santa Rosa,26 East Navarre,Governor,"",DEM,Robert L. Willis,20
+Santa Rosa,27 Woodbine,Governor,"",DEM,Robert L. Willis,8
+Santa Rosa,28 Tiger Point,Governor,"",DEM,Robert L. Willis,6
+Santa Rosa,29 West Navarre,Governor,"",DEM,Robert L. Willis,5
+Santa Rosa,30 Pine Terrace,Governor,"",DEM,Robert L. Willis,11
+Santa Rosa,31 Floridatown,Governor,"",DEM,Robert L. Willis,1
+Santa Rosa,32 Grand Pointe,Governor,"",DEM,Robert L. Willis,6
+Santa Rosa,33 East Milton,Governor,"",DEM,Robert L. Willis,4
+Santa Rosa,34 Hidden Creek,Governor,"",DEM,Robert L. Willis,21
+Santa Rosa,35 Biscayne Pointe,Governor,"",DEM,Robert L. Willis,9
+Santa Rosa,36 Mill Creek,Governor,"",DEM,Robert L. Willis,7
+Santa Rosa,37 Soundside,Governor,"",DEM,Robert L. Willis,2
+Santa Rosa,38 Navarre Beach,Governor,"",DEM,Robert L. Willis,1
+Santa Rosa,39 Garcon Point,Governor,"",DEM,Robert L. Willis,2
+Santa Rosa,40 Parkway,Governor,"",DEM,Robert L. Willis,2
+Santa Rosa,41 Woodlawn,Governor,"",DEM,Robert L. Willis,9
+Santa Rosa,1 South Milton,Governor,"",DEM,OverVotes,1
+Santa Rosa,2 Wallace,Governor,"",DEM,OverVotes,0
+Santa Rosa,3 Coon Hill,Governor,"",DEM,OverVotes,0
+Santa Rosa,4 Jay,Governor,"",DEM,OverVotes,0
+Santa Rosa,5 McLellan,Governor,"",DEM,OverVotes,0
+Santa Rosa,6 Red Rock,Governor,"",DEM,OverVotes,0
+Santa Rosa,7 Munson,Governor,"",DEM,OverVotes,0
+Santa Rosa,8 North Milton,Governor,"",DEM,OverVotes,0
+Santa Rosa,9 Ward Basin,Governor,"",DEM,OverVotes,0
+Santa Rosa,10 Holley,Governor,"",DEM,OverVotes,0
+Santa Rosa,11 Coldwater,Governor,"",DEM,OverVotes,1
+Santa Rosa,12 Point Baker,Governor,"",DEM,OverVotes,0
+Santa Rosa,13 Allentown,Governor,"",DEM,OverVotes,0
+Santa Rosa,14 Harold,Governor,"",DEM,OverVotes,0
+Santa Rosa,15 Ferris Hill,Governor,"",DEM,OverVotes,0
+Santa Rosa,16 Bagdad,Governor,"",DEM,OverVotes,3
+Santa Rosa,17 Fidelis,Governor,"",DEM,OverVotes,0
+Santa Rosa,18 Berryhill,Governor,"",DEM,OverVotes,0
+Santa Rosa,19 Chumuckla,Governor,"",DEM,OverVotes,0
+Santa Rosa,20 Pace,Governor,"",DEM,OverVotes,0
+Santa Rosa,21 Avalon,Governor,"",DEM,OverVotes,0
+Santa Rosa,22 Gulf Breeze,Governor,"",DEM,OverVotes,0
+Santa Rosa,23 Midway,Governor,"",DEM,OverVotes,0
+Santa Rosa,24 Pea Ridge,Governor,"",DEM,OverVotes,0
+Santa Rosa,25 Oriole Beach,Governor,"",DEM,OverVotes,1
+Santa Rosa,26 East Navarre,Governor,"",DEM,OverVotes,0
+Santa Rosa,27 Woodbine,Governor,"",DEM,OverVotes,0
+Santa Rosa,28 Tiger Point,Governor,"",DEM,OverVotes,0
+Santa Rosa,29 West Navarre,Governor,"",DEM,OverVotes,0
+Santa Rosa,30 Pine Terrace,Governor,"",DEM,OverVotes,0
+Santa Rosa,31 Floridatown,Governor,"",DEM,OverVotes,0
+Santa Rosa,32 Grand Pointe,Governor,"",DEM,OverVotes,1
+Santa Rosa,33 East Milton,Governor,"",DEM,OverVotes,1
+Santa Rosa,34 Hidden Creek,Governor,"",DEM,OverVotes,1
+Santa Rosa,35 Biscayne Pointe,Governor,"",DEM,OverVotes,1
+Santa Rosa,36 Mill Creek,Governor,"",DEM,OverVotes,0
+Santa Rosa,37 Soundside,Governor,"",DEM,OverVotes,0
+Santa Rosa,38 Navarre Beach,Governor,"",DEM,OverVotes,0
+Santa Rosa,39 Garcon Point,Governor,"",DEM,OverVotes,1
+Santa Rosa,40 Parkway,Governor,"",DEM,OverVotes,0
+Santa Rosa,41 Woodlawn,Governor,"",DEM,OverVotes,0
+Santa Rosa,1 South Milton,Governor,"",DEM,UnderVotes,1
+Santa Rosa,2 Wallace,Governor,"",DEM,UnderVotes,4
+Santa Rosa,3 Coon Hill,Governor,"",DEM,UnderVotes,1
+Santa Rosa,4 Jay,Governor,"",DEM,UnderVotes,1
+Santa Rosa,5 McLellan,Governor,"",DEM,UnderVotes,0
+Santa Rosa,6 Red Rock,Governor,"",DEM,UnderVotes,0
+Santa Rosa,7 Munson,Governor,"",DEM,UnderVotes,1
+Santa Rosa,8 North Milton,Governor,"",DEM,UnderVotes,2
+Santa Rosa,9 Ward Basin,Governor,"",DEM,UnderVotes,0
+Santa Rosa,10 Holley,Governor,"",DEM,UnderVotes,1
+Santa Rosa,11 Coldwater,Governor,"",DEM,UnderVotes,0
+Santa Rosa,12 Point Baker,Governor,"",DEM,UnderVotes,3
+Santa Rosa,13 Allentown,Governor,"",DEM,UnderVotes,1
+Santa Rosa,14 Harold,Governor,"",DEM,UnderVotes,1
+Santa Rosa,15 Ferris Hill,Governor,"",DEM,UnderVotes,4
+Santa Rosa,16 Bagdad,Governor,"",DEM,UnderVotes,2
+Santa Rosa,17 Fidelis,Governor,"",DEM,UnderVotes,4
+Santa Rosa,18 Berryhill,Governor,"",DEM,UnderVotes,5
+Santa Rosa,19 Chumuckla,Governor,"",DEM,UnderVotes,1
+Santa Rosa,20 Pace,Governor,"",DEM,UnderVotes,3
+Santa Rosa,21 Avalon,Governor,"",DEM,UnderVotes,3
+Santa Rosa,22 Gulf Breeze,Governor,"",DEM,UnderVotes,3
+Santa Rosa,23 Midway,Governor,"",DEM,UnderVotes,4
+Santa Rosa,24 Pea Ridge,Governor,"",DEM,UnderVotes,1
+Santa Rosa,25 Oriole Beach,Governor,"",DEM,UnderVotes,2
+Santa Rosa,26 East Navarre,Governor,"",DEM,UnderVotes,1
+Santa Rosa,27 Woodbine,Governor,"",DEM,UnderVotes,6
+Santa Rosa,28 Tiger Point,Governor,"",DEM,UnderVotes,1
+Santa Rosa,29 West Navarre,Governor,"",DEM,UnderVotes,1
+Santa Rosa,30 Pine Terrace,Governor,"",DEM,UnderVotes,2
+Santa Rosa,31 Floridatown,Governor,"",DEM,UnderVotes,0
+Santa Rosa,32 Grand Pointe,Governor,"",DEM,UnderVotes,3
+Santa Rosa,33 East Milton,Governor,"",DEM,UnderVotes,0
+Santa Rosa,34 Hidden Creek,Governor,"",DEM,UnderVotes,2
+Santa Rosa,35 Biscayne Pointe,Governor,"",DEM,UnderVotes,1
+Santa Rosa,36 Mill Creek,Governor,"",DEM,UnderVotes,1
+Santa Rosa,37 Soundside,Governor,"",DEM,UnderVotes,1
+Santa Rosa,38 Navarre Beach,Governor,"",DEM,UnderVotes,3
+Santa Rosa,39 Garcon Point,Governor,"",DEM,UnderVotes,0
+Santa Rosa,40 Parkway,Governor,"",DEM,UnderVotes,1
+Santa Rosa,41 Woodlawn,Governor,"",DEM,UnderVotes,4
+Santa Rosa,1 South Milton,Attorney General,"",DEM,Aramis Ayala,50
+Santa Rosa,2 Wallace,Attorney General,"",DEM,Aramis Ayala,59
+Santa Rosa,3 Coon Hill,Attorney General,"",DEM,Aramis Ayala,0
+Santa Rosa,4 Jay,Attorney General,"",DEM,Aramis Ayala,10
+Santa Rosa,5 McLellan,Attorney General,"",DEM,Aramis Ayala,0
+Santa Rosa,6 Red Rock,Attorney General,"",DEM,Aramis Ayala,0
+Santa Rosa,7 Munson,Attorney General,"",DEM,Aramis Ayala,1
+Santa Rosa,8 North Milton,Attorney General,"",DEM,Aramis Ayala,39
+Santa Rosa,9 Ward Basin,Attorney General,"",DEM,Aramis Ayala,54
+Santa Rosa,10 Holley,Attorney General,"",DEM,Aramis Ayala,24
+Santa Rosa,11 Coldwater,Attorney General,"",DEM,Aramis Ayala,10
+Santa Rosa,12 Point Baker,Attorney General,"",DEM,Aramis Ayala,95
+Santa Rosa,13 Allentown,Attorney General,"",DEM,Aramis Ayala,14
+Santa Rosa,14 Harold,Attorney General,"",DEM,Aramis Ayala,7
+Santa Rosa,15 Ferris Hill,Attorney General,"",DEM,Aramis Ayala,91
+Santa Rosa,16 Bagdad,Attorney General,"",DEM,Aramis Ayala,79
+Santa Rosa,17 Fidelis,Attorney General,"",DEM,Aramis Ayala,5
+Santa Rosa,18 Berryhill,Attorney General,"",DEM,Aramis Ayala,88
+Santa Rosa,19 Chumuckla,Attorney General,"",DEM,Aramis Ayala,9
+Santa Rosa,20 Pace,Attorney General,"",DEM,Aramis Ayala,104
+Santa Rosa,21 Avalon,Attorney General,"",DEM,Aramis Ayala,104
+Santa Rosa,22 Gulf Breeze,Attorney General,"",DEM,Aramis Ayala,124
+Santa Rosa,23 Midway,Attorney General,"",DEM,Aramis Ayala,62
+Santa Rosa,24 Pea Ridge,Attorney General,"",DEM,Aramis Ayala,113
+Santa Rosa,25 Oriole Beach,Attorney General,"",DEM,Aramis Ayala,60
+Santa Rosa,26 East Navarre,Attorney General,"",DEM,Aramis Ayala,165
+Santa Rosa,27 Woodbine,Attorney General,"",DEM,Aramis Ayala,76
+Santa Rosa,28 Tiger Point,Attorney General,"",DEM,Aramis Ayala,73
+Santa Rosa,29 West Navarre,Attorney General,"",DEM,Aramis Ayala,50
+Santa Rosa,30 Pine Terrace,Attorney General,"",DEM,Aramis Ayala,58
+Santa Rosa,31 Floridatown,Attorney General,"",DEM,Aramis Ayala,32
+Santa Rosa,32 Grand Pointe,Attorney General,"",DEM,Aramis Ayala,75
+Santa Rosa,33 East Milton,Attorney General,"",DEM,Aramis Ayala,74
+Santa Rosa,34 Hidden Creek,Attorney General,"",DEM,Aramis Ayala,272
+Santa Rosa,35 Biscayne Pointe,Attorney General,"",DEM,Aramis Ayala,135
+Santa Rosa,36 Mill Creek,Attorney General,"",DEM,Aramis Ayala,38
+Santa Rosa,37 Soundside,Attorney General,"",DEM,Aramis Ayala,46
+Santa Rosa,38 Navarre Beach,Attorney General,"",DEM,Aramis Ayala,19
+Santa Rosa,39 Garcon Point,Attorney General,"",DEM,Aramis Ayala,38
+Santa Rosa,40 Parkway,Attorney General,"",DEM,Aramis Ayala,51
+Santa Rosa,41 Woodlawn,Attorney General,"",DEM,Aramis Ayala,68
+Santa Rosa,1 South Milton,Attorney General,"",DEM,Jim Lewis,38
+Santa Rosa,2 Wallace,Attorney General,"",DEM,Jim Lewis,47
+Santa Rosa,3 Coon Hill,Attorney General,"",DEM,Jim Lewis,8
+Santa Rosa,4 Jay,Attorney General,"",DEM,Jim Lewis,18
+Santa Rosa,5 McLellan,Attorney General,"",DEM,Jim Lewis,0
+Santa Rosa,6 Red Rock,Attorney General,"",DEM,Jim Lewis,2
+Santa Rosa,7 Munson,Attorney General,"",DEM,Jim Lewis,4
+Santa Rosa,8 North Milton,Attorney General,"",DEM,Jim Lewis,28
+Santa Rosa,9 Ward Basin,Attorney General,"",DEM,Jim Lewis,52
+Santa Rosa,10 Holley,Attorney General,"",DEM,Jim Lewis,23
+Santa Rosa,11 Coldwater,Attorney General,"",DEM,Jim Lewis,31
+Santa Rosa,12 Point Baker,Attorney General,"",DEM,Jim Lewis,73
+Santa Rosa,13 Allentown,Attorney General,"",DEM,Jim Lewis,25
+Santa Rosa,14 Harold,Attorney General,"",DEM,Jim Lewis,12
+Santa Rosa,15 Ferris Hill,Attorney General,"",DEM,Jim Lewis,54
+Santa Rosa,16 Bagdad,Attorney General,"",DEM,Jim Lewis,91
+Santa Rosa,17 Fidelis,Attorney General,"",DEM,Jim Lewis,11
+Santa Rosa,18 Berryhill,Attorney General,"",DEM,Jim Lewis,63
+Santa Rosa,19 Chumuckla,Attorney General,"",DEM,Jim Lewis,12
+Santa Rosa,20 Pace,Attorney General,"",DEM,Jim Lewis,67
+Santa Rosa,21 Avalon,Attorney General,"",DEM,Jim Lewis,53
+Santa Rosa,22 Gulf Breeze,Attorney General,"",DEM,Jim Lewis,57
+Santa Rosa,23 Midway,Attorney General,"",DEM,Jim Lewis,55
+Santa Rosa,24 Pea Ridge,Attorney General,"",DEM,Jim Lewis,80
+Santa Rosa,25 Oriole Beach,Attorney General,"",DEM,Jim Lewis,33
+Santa Rosa,26 East Navarre,Attorney General,"",DEM,Jim Lewis,86
+Santa Rosa,27 Woodbine,Attorney General,"",DEM,Jim Lewis,67
+Santa Rosa,28 Tiger Point,Attorney General,"",DEM,Jim Lewis,28
+Santa Rosa,29 West Navarre,Attorney General,"",DEM,Jim Lewis,25
+Santa Rosa,30 Pine Terrace,Attorney General,"",DEM,Jim Lewis,52
+Santa Rosa,31 Floridatown,Attorney General,"",DEM,Jim Lewis,18
+Santa Rosa,32 Grand Pointe,Attorney General,"",DEM,Jim Lewis,46
+Santa Rosa,33 East Milton,Attorney General,"",DEM,Jim Lewis,50
+Santa Rosa,34 Hidden Creek,Attorney General,"",DEM,Jim Lewis,111
+Santa Rosa,35 Biscayne Pointe,Attorney General,"",DEM,Jim Lewis,63
+Santa Rosa,36 Mill Creek,Attorney General,"",DEM,Jim Lewis,38
+Santa Rosa,37 Soundside,Attorney General,"",DEM,Jim Lewis,31
+Santa Rosa,38 Navarre Beach,Attorney General,"",DEM,Jim Lewis,9
+Santa Rosa,39 Garcon Point,Attorney General,"",DEM,Jim Lewis,20
+Santa Rosa,40 Parkway,Attorney General,"",DEM,Jim Lewis,27
+Santa Rosa,41 Woodlawn,Attorney General,"",DEM,Jim Lewis,41
+Santa Rosa,1 South Milton,Attorney General,"",DEM,Daniel Uhlfelder,17
+Santa Rosa,2 Wallace,Attorney General,"",DEM,Daniel Uhlfelder,45
+Santa Rosa,3 Coon Hill,Attorney General,"",DEM,Daniel Uhlfelder,0
+Santa Rosa,4 Jay,Attorney General,"",DEM,Daniel Uhlfelder,10
+Santa Rosa,5 McLellan,Attorney General,"",DEM,Daniel Uhlfelder,2
+Santa Rosa,6 Red Rock,Attorney General,"",DEM,Daniel Uhlfelder,0
+Santa Rosa,7 Munson,Attorney General,"",DEM,Daniel Uhlfelder,2
+Santa Rosa,8 North Milton,Attorney General,"",DEM,Daniel Uhlfelder,35
+Santa Rosa,9 Ward Basin,Attorney General,"",DEM,Daniel Uhlfelder,33
+Santa Rosa,10 Holley,Attorney General,"",DEM,Daniel Uhlfelder,17
+Santa Rosa,11 Coldwater,Attorney General,"",DEM,Daniel Uhlfelder,15
+Santa Rosa,12 Point Baker,Attorney General,"",DEM,Daniel Uhlfelder,63
+Santa Rosa,13 Allentown,Attorney General,"",DEM,Daniel Uhlfelder,9
+Santa Rosa,14 Harold,Attorney General,"",DEM,Daniel Uhlfelder,7
+Santa Rosa,15 Ferris Hill,Attorney General,"",DEM,Daniel Uhlfelder,54
+Santa Rosa,16 Bagdad,Attorney General,"",DEM,Daniel Uhlfelder,56
+Santa Rosa,17 Fidelis,Attorney General,"",DEM,Daniel Uhlfelder,7
+Santa Rosa,18 Berryhill,Attorney General,"",DEM,Daniel Uhlfelder,88
+Santa Rosa,19 Chumuckla,Attorney General,"",DEM,Daniel Uhlfelder,8
+Santa Rosa,20 Pace,Attorney General,"",DEM,Daniel Uhlfelder,61
+Santa Rosa,21 Avalon,Attorney General,"",DEM,Daniel Uhlfelder,54
+Santa Rosa,22 Gulf Breeze,Attorney General,"",DEM,Daniel Uhlfelder,147
+Santa Rosa,23 Midway,Attorney General,"",DEM,Daniel Uhlfelder,68
+Santa Rosa,24 Pea Ridge,Attorney General,"",DEM,Daniel Uhlfelder,91
+Santa Rosa,25 Oriole Beach,Attorney General,"",DEM,Daniel Uhlfelder,81
+Santa Rosa,26 East Navarre,Attorney General,"",DEM,Daniel Uhlfelder,126
+Santa Rosa,27 Woodbine,Attorney General,"",DEM,Daniel Uhlfelder,88
+Santa Rosa,28 Tiger Point,Attorney General,"",DEM,Daniel Uhlfelder,64
+Santa Rosa,29 West Navarre,Attorney General,"",DEM,Daniel Uhlfelder,38
+Santa Rosa,30 Pine Terrace,Attorney General,"",DEM,Daniel Uhlfelder,48
+Santa Rosa,31 Floridatown,Attorney General,"",DEM,Daniel Uhlfelder,9
+Santa Rosa,32 Grand Pointe,Attorney General,"",DEM,Daniel Uhlfelder,68
+Santa Rosa,33 East Milton,Attorney General,"",DEM,Daniel Uhlfelder,24
+Santa Rosa,34 Hidden Creek,Attorney General,"",DEM,Daniel Uhlfelder,119
+Santa Rosa,35 Biscayne Pointe,Attorney General,"",DEM,Daniel Uhlfelder,65
+Santa Rosa,36 Mill Creek,Attorney General,"",DEM,Daniel Uhlfelder,34
+Santa Rosa,37 Soundside,Attorney General,"",DEM,Daniel Uhlfelder,36
+Santa Rosa,38 Navarre Beach,Attorney General,"",DEM,Daniel Uhlfelder,24
+Santa Rosa,39 Garcon Point,Attorney General,"",DEM,Daniel Uhlfelder,32
+Santa Rosa,40 Parkway,Attorney General,"",DEM,Daniel Uhlfelder,19
+Santa Rosa,41 Woodlawn,Attorney General,"",DEM,Daniel Uhlfelder,73
+Santa Rosa,1 South Milton,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,2 Wallace,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,3 Coon Hill,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,4 Jay,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,5 McLellan,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,6 Red Rock,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,7 Munson,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,8 North Milton,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,9 Ward Basin,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,10 Holley,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,11 Coldwater,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,12 Point Baker,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,13 Allentown,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,14 Harold,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,15 Ferris Hill,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,16 Bagdad,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,17 Fidelis,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,18 Berryhill,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,19 Chumuckla,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,20 Pace,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,21 Avalon,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,22 Gulf Breeze,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,23 Midway,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,24 Pea Ridge,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,25 Oriole Beach,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,26 East Navarre,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,27 Woodbine,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,28 Tiger Point,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,29 West Navarre,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,30 Pine Terrace,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,31 Floridatown,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,32 Grand Pointe,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,33 East Milton,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,34 Hidden Creek,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,36 Mill Creek,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,37 Soundside,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,38 Navarre Beach,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,39 Garcon Point,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,40 Parkway,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,41 Woodlawn,Attorney General,"",DEM,OverVotes,0
+Santa Rosa,1 South Milton,Attorney General,"",DEM,UnderVotes,5
+Santa Rosa,2 Wallace,Attorney General,"",DEM,UnderVotes,19
+Santa Rosa,3 Coon Hill,Attorney General,"",DEM,UnderVotes,2
+Santa Rosa,4 Jay,Attorney General,"",DEM,UnderVotes,3
+Santa Rosa,5 McLellan,Attorney General,"",DEM,UnderVotes,0
+Santa Rosa,6 Red Rock,Attorney General,"",DEM,UnderVotes,0
+Santa Rosa,7 Munson,Attorney General,"",DEM,UnderVotes,1
+Santa Rosa,8 North Milton,Attorney General,"",DEM,UnderVotes,5
+Santa Rosa,9 Ward Basin,Attorney General,"",DEM,UnderVotes,12
+Santa Rosa,10 Holley,Attorney General,"",DEM,UnderVotes,2
+Santa Rosa,11 Coldwater,Attorney General,"",DEM,UnderVotes,6
+Santa Rosa,12 Point Baker,Attorney General,"",DEM,UnderVotes,14
+Santa Rosa,13 Allentown,Attorney General,"",DEM,UnderVotes,5
+Santa Rosa,14 Harold,Attorney General,"",DEM,UnderVotes,3
+Santa Rosa,15 Ferris Hill,Attorney General,"",DEM,UnderVotes,11
+Santa Rosa,16 Bagdad,Attorney General,"",DEM,UnderVotes,21
+Santa Rosa,17 Fidelis,Attorney General,"",DEM,UnderVotes,6
+Santa Rosa,18 Berryhill,Attorney General,"",DEM,UnderVotes,13
+Santa Rosa,19 Chumuckla,Attorney General,"",DEM,UnderVotes,4
+Santa Rosa,20 Pace,Attorney General,"",DEM,UnderVotes,10
+Santa Rosa,21 Avalon,Attorney General,"",DEM,UnderVotes,15
+Santa Rosa,22 Gulf Breeze,Attorney General,"",DEM,UnderVotes,41
+Santa Rosa,23 Midway,Attorney General,"",DEM,UnderVotes,12
+Santa Rosa,24 Pea Ridge,Attorney General,"",DEM,UnderVotes,12
+Santa Rosa,25 Oriole Beach,Attorney General,"",DEM,UnderVotes,21
+Santa Rosa,26 East Navarre,Attorney General,"",DEM,UnderVotes,15
+Santa Rosa,27 Woodbine,Attorney General,"",DEM,UnderVotes,10
+Santa Rosa,28 Tiger Point,Attorney General,"",DEM,UnderVotes,18
+Santa Rosa,29 West Navarre,Attorney General,"",DEM,UnderVotes,5
+Santa Rosa,30 Pine Terrace,Attorney General,"",DEM,UnderVotes,14
+Santa Rosa,31 Floridatown,Attorney General,"",DEM,UnderVotes,0
+Santa Rosa,32 Grand Pointe,Attorney General,"",DEM,UnderVotes,25
+Santa Rosa,33 East Milton,Attorney General,"",DEM,UnderVotes,6
+Santa Rosa,34 Hidden Creek,Attorney General,"",DEM,UnderVotes,25
+Santa Rosa,35 Biscayne Pointe,Attorney General,"",DEM,UnderVotes,10
+Santa Rosa,36 Mill Creek,Attorney General,"",DEM,UnderVotes,4
+Santa Rosa,37 Soundside,Attorney General,"",DEM,UnderVotes,14
+Santa Rosa,38 Navarre Beach,Attorney General,"",DEM,UnderVotes,4
+Santa Rosa,39 Garcon Point,Attorney General,"",DEM,UnderVotes,10
+Santa Rosa,40 Parkway,Attorney General,"",DEM,UnderVotes,7
+Santa Rosa,41 Woodlawn,Attorney General,"",DEM,UnderVotes,13
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",REP,James W. Shaw,72
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",REP,James W. Shaw,401
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",REP,James W. Shaw,70
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",REP,James W. Shaw,151
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",REP,James W. Shaw,10
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",REP,James W. Shaw,11
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",REP,James W. Shaw,15
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",REP,James W. Shaw,118
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",REP,James W. Shaw,244
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",REP,James W. Shaw,156
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",REP,James W. Shaw,107
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",REP,James W. Shaw,251
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",REP,James W. Shaw,128
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",REP,James W. Shaw,55
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",REP,James W. Shaw,250
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",REP,James W. Shaw,260
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",REP,James W. Shaw,61
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",REP,James W. Shaw,449
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",REP,James W. Shaw,184
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",REP,James W. Shaw,537
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",REP,James W. Shaw,341
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",REP,James W. Shaw,376
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",REP,James W. Shaw,273
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",REP,James W. Shaw,495
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",REP,James W. Shaw,266
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",REP,James W. Shaw,555
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",REP,James W. Shaw,427
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",REP,James W. Shaw,268
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",REP,James W. Shaw,186
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",REP,James W. Shaw,357
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",REP,James W. Shaw,115
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",REP,James W. Shaw,227
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",REP,James W. Shaw,271
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",REP,James W. Shaw,827
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",REP,James W. Shaw,340
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",REP,James W. Shaw,158
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",REP,James W. Shaw,175
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",REP,James W. Shaw,83
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",REP,James W. Shaw,154
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",REP,James W. Shaw,97
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",REP,James W. Shaw,243
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",REP,Wilton Simpson,125
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",REP,Wilton Simpson,888
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",REP,Wilton Simpson,171
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",REP,Wilton Simpson,359
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",REP,Wilton Simpson,27
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",REP,Wilton Simpson,33
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",REP,Wilton Simpson,76
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",REP,Wilton Simpson,187
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",REP,Wilton Simpson,452
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",REP,Wilton Simpson,218
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",REP,Wilton Simpson,244
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",REP,Wilton Simpson,494
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",REP,Wilton Simpson,345
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",REP,Wilton Simpson,167
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",REP,Wilton Simpson,417
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",REP,Wilton Simpson,457
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",REP,Wilton Simpson,153
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",REP,Wilton Simpson,825
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",REP,Wilton Simpson,395
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",REP,Wilton Simpson,816
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",REP,Wilton Simpson,622
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",REP,Wilton Simpson,739
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",REP,Wilton Simpson,430
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",REP,Wilton Simpson,947
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",REP,Wilton Simpson,466
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",REP,Wilton Simpson,862
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",REP,Wilton Simpson,901
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",REP,Wilton Simpson,536
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",REP,Wilton Simpson,304
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",REP,Wilton Simpson,649
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",REP,Wilton Simpson,227
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",REP,Wilton Simpson,460
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",REP,Wilton Simpson,399
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",REP,Wilton Simpson,1223
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",REP,Wilton Simpson,479
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",REP,Wilton Simpson,345
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",REP,Wilton Simpson,334
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",REP,Wilton Simpson,157
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",REP,Wilton Simpson,375
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",REP,Wilton Simpson,204
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",REP,Wilton Simpson,370
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",REP,OverVotes,1
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",REP,OverVotes,1
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",REP,OverVotes,1
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",REP,OverVotes,0
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",REP,UnderVotes,14
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",REP,UnderVotes,86
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",REP,UnderVotes,14
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",REP,UnderVotes,18
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",REP,UnderVotes,2
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",REP,UnderVotes,0
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",REP,UnderVotes,1
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",REP,UnderVotes,13
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",REP,UnderVotes,43
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",REP,UnderVotes,32
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",REP,UnderVotes,19
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",REP,UnderVotes,47
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",REP,UnderVotes,22
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",REP,UnderVotes,5
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",REP,UnderVotes,33
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",REP,UnderVotes,54
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",REP,UnderVotes,11
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",REP,UnderVotes,79
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",REP,UnderVotes,36
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",REP,UnderVotes,95
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",REP,UnderVotes,69
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",REP,UnderVotes,133
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",REP,UnderVotes,48
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",REP,UnderVotes,67
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",REP,UnderVotes,66
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",REP,UnderVotes,105
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",REP,UnderVotes,97
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",REP,UnderVotes,75
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",REP,UnderVotes,51
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",REP,UnderVotes,69
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",REP,UnderVotes,15
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",REP,UnderVotes,84
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",REP,UnderVotes,34
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",REP,UnderVotes,213
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",REP,UnderVotes,59
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",REP,UnderVotes,42
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",REP,UnderVotes,44
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",REP,UnderVotes,33
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",REP,UnderVotes,34
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",REP,UnderVotes,33
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",REP,UnderVotes,45
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,47
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,68
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,18
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,0
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,0
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,2
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,46
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,66
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,28
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,114
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,20
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,12
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,88
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,103
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,9
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,16
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,107
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,104
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,149
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,78
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,136
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,68
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,147
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,70
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,40
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,64
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,32
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,72
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,81
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,244
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,143
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,53
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,58
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,32
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,43
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,44
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,80
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",DEM,J. R. Gaillot,24
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",DEM,J. R. Gaillot,25
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",DEM,J. R. Gaillot,3
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",DEM,J. R. Gaillot,8
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",DEM,J. R. Gaillot,1
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",DEM,J. R. Gaillot,1
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",DEM,J. R. Gaillot,3
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",DEM,J. R. Gaillot,30
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",DEM,J. R. Gaillot,43
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",DEM,J. R. Gaillot,48
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",DEM,J. R. Gaillot,50
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",DEM,J. R. Gaillot,49
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",DEM,J. R. Gaillot,2
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",DEM,J. R. Gaillot,46
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",DEM,J. R. Gaillot,32
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",DEM,J. R. Gaillot,77
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",DEM,J. R. Gaillot,38
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",DEM,J. R. Gaillot,54
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",DEM,J. R. Gaillot,49
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",DEM,J. R. Gaillot,84
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",DEM,J. R. Gaillot,51
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",DEM,J. R. Gaillot,31
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",DEM,J. R. Gaillot,28
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",DEM,J. R. Gaillot,29
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",DEM,J. R. Gaillot,10
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",DEM,J. R. Gaillot,55
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",DEM,J. R. Gaillot,32
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",DEM,J. R. Gaillot,87
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",DEM,J. R. Gaillot,50
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",DEM,J. R. Gaillot,23
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",DEM,J. R. Gaillot,8
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",DEM,J. R. Gaillot,13
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",DEM,J. R. Gaillot,51
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",DEM,Ryan Morales,32
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",DEM,Ryan Morales,61
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",DEM,Ryan Morales,4
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",DEM,Ryan Morales,12
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",DEM,Ryan Morales,1
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",DEM,Ryan Morales,1
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",DEM,Ryan Morales,2
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",DEM,Ryan Morales,33
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",DEM,Ryan Morales,41
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",DEM,Ryan Morales,19
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",DEM,Ryan Morales,17
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",DEM,Ryan Morales,74
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",DEM,Ryan Morales,16
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",DEM,Ryan Morales,8
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",DEM,Ryan Morales,62
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",DEM,Ryan Morales,78
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",DEM,Ryan Morales,8
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",DEM,Ryan Morales,81
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",DEM,Ryan Morales,11
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",DEM,Ryan Morales,76
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",DEM,Ryan Morales,68
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",DEM,Ryan Morales,98
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",DEM,Ryan Morales,67
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",DEM,Ryan Morales,89
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",DEM,Ryan Morales,52
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",DEM,Ryan Morales,136
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",DEM,Ryan Morales,65
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",DEM,Ryan Morales,59
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",DEM,Ryan Morales,44
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",DEM,Ryan Morales,66
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",DEM,Ryan Morales,15
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",DEM,Ryan Morales,62
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",DEM,Ryan Morales,37
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",DEM,Ryan Morales,164
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",DEM,Ryan Morales,66
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",DEM,Ryan Morales,33
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",DEM,Ryan Morales,36
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",DEM,Ryan Morales,11
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",DEM,Ryan Morales,33
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",DEM,Ryan Morales,31
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",DEM,Ryan Morales,51
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",DEM,OverVotes,0
+Santa Rosa,1 South Milton,Commissioner of Agriculture,"",DEM,UnderVotes,7
+Santa Rosa,2 Wallace,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Santa Rosa,3 Coon Hill,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Santa Rosa,4 Jay,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Santa Rosa,5 McLellan,Commissioner of Agriculture,"",DEM,UnderVotes,0
+Santa Rosa,6 Red Rock,Commissioner of Agriculture,"",DEM,UnderVotes,0
+Santa Rosa,7 Munson,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Santa Rosa,8 North Milton,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Santa Rosa,9 Ward Basin,Commissioner of Agriculture,"",DEM,UnderVotes,14
+Santa Rosa,10 Holley,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Santa Rosa,11 Coldwater,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Santa Rosa,12 Point Baker,Commissioner of Agriculture,"",DEM,UnderVotes,14
+Santa Rosa,13 Allentown,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Santa Rosa,14 Harold,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Santa Rosa,15 Ferris Hill,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Santa Rosa,16 Bagdad,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Santa Rosa,17 Fidelis,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Santa Rosa,18 Berryhill,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Santa Rosa,19 Chumuckla,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Santa Rosa,20 Pace,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Santa Rosa,21 Avalon,Commissioner of Agriculture,"",DEM,UnderVotes,22
+Santa Rosa,22 Gulf Breeze,Commissioner of Agriculture,"",DEM,UnderVotes,45
+Santa Rosa,23 Midway,Commissioner of Agriculture,"",DEM,UnderVotes,14
+Santa Rosa,24 Pea Ridge,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Santa Rosa,25 Oriole Beach,Commissioner of Agriculture,"",DEM,UnderVotes,26
+Santa Rosa,26 East Navarre,Commissioner of Agriculture,"",DEM,UnderVotes,25
+Santa Rosa,27 Woodbine,Commissioner of Agriculture,"",DEM,UnderVotes,19
+Santa Rosa,28 Tiger Point,Commissioner of Agriculture,"",DEM,UnderVotes,23
+Santa Rosa,29 West Navarre,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Santa Rosa,30 Pine Terrace,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Santa Rosa,31 Floridatown,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Santa Rosa,32 Grand Pointe,Commissioner of Agriculture,"",DEM,UnderVotes,25
+Santa Rosa,33 East Milton,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Santa Rosa,34 Hidden Creek,Commissioner of Agriculture,"",DEM,UnderVotes,32
+Santa Rosa,35 Biscayne Pointe,Commissioner of Agriculture,"",DEM,UnderVotes,14
+Santa Rosa,36 Mill Creek,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Santa Rosa,37 Soundside,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Santa Rosa,38 Navarre Beach,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Santa Rosa,39 Garcon Point,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Santa Rosa,40 Parkway,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Santa Rosa,41 Woodlawn,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Santa Rosa,1 South Milton,State Senate,1,REP,Doug Broxson,132
+Santa Rosa,2 Wallace,State Senate,1,REP,Doug Broxson,912
+Santa Rosa,3 Coon Hill,State Senate,1,REP,Doug Broxson,180
+Santa Rosa,4 Jay,State Senate,1,REP,Doug Broxson,409
+Santa Rosa,5 McLellan,State Senate,1,REP,Doug Broxson,34
+Santa Rosa,6 Red Rock,State Senate,1,REP,Doug Broxson,29
+Santa Rosa,7 Munson,State Senate,1,REP,Doug Broxson,63
+Santa Rosa,8 North Milton,State Senate,1,REP,Doug Broxson,212
+Santa Rosa,9 Ward Basin,State Senate,1,REP,Doug Broxson,465
+Santa Rosa,10 Holley,State Senate,1,REP,Doug Broxson,285
+Santa Rosa,11 Coldwater,State Senate,1,REP,Doug Broxson,260
+Santa Rosa,12 Point Baker,State Senate,1,REP,Doug Broxson,530
+Santa Rosa,13 Allentown,State Senate,1,REP,Doug Broxson,342
+Santa Rosa,14 Harold,State Senate,1,REP,Doug Broxson,163
+Santa Rosa,15 Ferris Hill,State Senate,1,REP,Doug Broxson,468
+Santa Rosa,16 Bagdad,State Senate,1,REP,Doug Broxson,500
+Santa Rosa,17 Fidelis,State Senate,1,REP,Doug Broxson,168
+Santa Rosa,18 Berryhill,State Senate,1,REP,Doug Broxson,944
+Santa Rosa,19 Chumuckla,State Senate,1,REP,Doug Broxson,398
+Santa Rosa,20 Pace,State Senate,1,REP,Doug Broxson,970
+Santa Rosa,21 Avalon,State Senate,1,REP,Doug Broxson,706
+Santa Rosa,22 Gulf Breeze,State Senate,1,REP,Doug Broxson,966
+Santa Rosa,23 Midway,State Senate,1,REP,Doug Broxson,510
+Santa Rosa,24 Pea Ridge,State Senate,1,REP,Doug Broxson,988
+Santa Rosa,25 Oriole Beach,State Senate,1,REP,Doug Broxson,621
+Santa Rosa,26 East Navarre,State Senate,1,REP,Doug Broxson,1008
+Santa Rosa,27 Woodbine,State Senate,1,REP,Doug Broxson,974
+Santa Rosa,28 Tiger Point,State Senate,1,REP,Doug Broxson,700
+Santa Rosa,29 West Navarre,State Senate,1,REP,Doug Broxson,344
+Santa Rosa,30 Pine Terrace,State Senate,1,REP,Doug Broxson,747
+Santa Rosa,31 Floridatown,State Senate,1,REP,Doug Broxson,259
+Santa Rosa,32 Grand Pointe,State Senate,1,REP,Doug Broxson,613
+Santa Rosa,33 East Milton,State Senate,1,REP,Doug Broxson,442
+Santa Rosa,34 Hidden Creek,State Senate,1,REP,Doug Broxson,1551
+Santa Rosa,35 Biscayne Pointe,State Senate,1,REP,Doug Broxson,588
+Santa Rosa,36 Mill Creek,State Senate,1,REP,Doug Broxson,397
+Santa Rosa,37 Soundside,State Senate,1,REP,Doug Broxson,400
+Santa Rosa,38 Navarre Beach,State Senate,1,REP,Doug Broxson,196
+Santa Rosa,39 Garcon Point,State Senate,1,REP,Doug Broxson,400
+Santa Rosa,40 Parkway,State Senate,1,REP,Doug Broxson,229
+Santa Rosa,41 Woodlawn,State Senate,1,REP,Doug Broxson,482
+Santa Rosa,1 South Milton,State Senate,1,REP,John Mills,67
+Santa Rosa,2 Wallace,State Senate,1,REP,John Mills,428
+Santa Rosa,3 Coon Hill,State Senate,1,REP,John Mills,66
+Santa Rosa,4 Jay,State Senate,1,REP,John Mills,114
+Santa Rosa,5 McLellan,State Senate,1,REP,John Mills,4
+Santa Rosa,6 Red Rock,State Senate,1,REP,John Mills,15
+Santa Rosa,7 Munson,State Senate,1,REP,John Mills,29
+Santa Rosa,8 North Milton,State Senate,1,REP,John Mills,100
+Santa Rosa,9 Ward Basin,State Senate,1,REP,John Mills,254
+Santa Rosa,10 Holley,State Senate,1,REP,John Mills,113
+Santa Rosa,11 Coldwater,State Senate,1,REP,John Mills,105
+Santa Rosa,12 Point Baker,State Senate,1,REP,John Mills,233
+Santa Rosa,13 Allentown,State Senate,1,REP,John Mills,144
+Santa Rosa,14 Harold,State Senate,1,REP,John Mills,62
+Santa Rosa,15 Ferris Hill,State Senate,1,REP,John Mills,218
+Santa Rosa,16 Bagdad,State Senate,1,REP,John Mills,256
+Santa Rosa,17 Fidelis,State Senate,1,REP,John Mills,52
+Santa Rosa,18 Berryhill,State Senate,1,REP,John Mills,370
+Santa Rosa,19 Chumuckla,State Senate,1,REP,John Mills,206
+Santa Rosa,20 Pace,State Senate,1,REP,John Mills,442
+Santa Rosa,21 Avalon,State Senate,1,REP,John Mills,298
+Santa Rosa,22 Gulf Breeze,State Senate,1,REP,John Mills,252
+Santa Rosa,23 Midway,State Senate,1,REP,John Mills,221
+Santa Rosa,24 Pea Ridge,State Senate,1,REP,John Mills,494
+Santa Rosa,25 Oriole Beach,State Senate,1,REP,John Mills,156
+Santa Rosa,26 East Navarre,State Senate,1,REP,John Mills,469
+Santa Rosa,27 Woodbine,State Senate,1,REP,John Mills,407
+Santa Rosa,28 Tiger Point,State Senate,1,REP,John Mills,150
+Santa Rosa,29 West Navarre,State Senate,1,REP,John Mills,177
+Santa Rosa,30 Pine Terrace,State Senate,1,REP,John Mills,304
+Santa Rosa,31 Floridatown,State Senate,1,REP,John Mills,91
+Santa Rosa,32 Grand Pointe,State Senate,1,REP,John Mills,130
+Santa Rosa,33 East Milton,State Senate,1,REP,John Mills,241
+Santa Rosa,34 Hidden Creek,State Senate,1,REP,John Mills,611
+Santa Rosa,35 Biscayne Pointe,State Senate,1,REP,John Mills,260
+Santa Rosa,36 Mill Creek,State Senate,1,REP,John Mills,140
+Santa Rosa,37 Soundside,State Senate,1,REP,John Mills,137
+Santa Rosa,38 Navarre Beach,State Senate,1,REP,John Mills,58
+Santa Rosa,39 Garcon Point,State Senate,1,REP,John Mills,153
+Santa Rosa,40 Parkway,State Senate,1,REP,John Mills,86
+Santa Rosa,41 Woodlawn,State Senate,1,REP,John Mills,160
+Santa Rosa,1 South Milton,State Senate,1,REP,OverVotes,0
+Santa Rosa,2 Wallace,State Senate,1,REP,OverVotes,0
+Santa Rosa,3 Coon Hill,State Senate,1,REP,OverVotes,0
+Santa Rosa,4 Jay,State Senate,1,REP,OverVotes,0
+Santa Rosa,5 McLellan,State Senate,1,REP,OverVotes,0
+Santa Rosa,6 Red Rock,State Senate,1,REP,OverVotes,0
+Santa Rosa,7 Munson,State Senate,1,REP,OverVotes,0
+Santa Rosa,8 North Milton,State Senate,1,REP,OverVotes,0
+Santa Rosa,9 Ward Basin,State Senate,1,REP,OverVotes,0
+Santa Rosa,10 Holley,State Senate,1,REP,OverVotes,0
+Santa Rosa,11 Coldwater,State Senate,1,REP,OverVotes,0
+Santa Rosa,12 Point Baker,State Senate,1,REP,OverVotes,0
+Santa Rosa,13 Allentown,State Senate,1,REP,OverVotes,0
+Santa Rosa,14 Harold,State Senate,1,REP,OverVotes,0
+Santa Rosa,15 Ferris Hill,State Senate,1,REP,OverVotes,0
+Santa Rosa,16 Bagdad,State Senate,1,REP,OverVotes,0
+Santa Rosa,17 Fidelis,State Senate,1,REP,OverVotes,0
+Santa Rosa,18 Berryhill,State Senate,1,REP,OverVotes,0
+Santa Rosa,19 Chumuckla,State Senate,1,REP,OverVotes,0
+Santa Rosa,20 Pace,State Senate,1,REP,OverVotes,0
+Santa Rosa,21 Avalon,State Senate,1,REP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,State Senate,1,REP,OverVotes,0
+Santa Rosa,23 Midway,State Senate,1,REP,OverVotes,0
+Santa Rosa,24 Pea Ridge,State Senate,1,REP,OverVotes,0
+Santa Rosa,25 Oriole Beach,State Senate,1,REP,OverVotes,0
+Santa Rosa,26 East Navarre,State Senate,1,REP,OverVotes,1
+Santa Rosa,27 Woodbine,State Senate,1,REP,OverVotes,0
+Santa Rosa,28 Tiger Point,State Senate,1,REP,OverVotes,0
+Santa Rosa,29 West Navarre,State Senate,1,REP,OverVotes,0
+Santa Rosa,30 Pine Terrace,State Senate,1,REP,OverVotes,0
+Santa Rosa,31 Floridatown,State Senate,1,REP,OverVotes,0
+Santa Rosa,32 Grand Pointe,State Senate,1,REP,OverVotes,0
+Santa Rosa,33 East Milton,State Senate,1,REP,OverVotes,1
+Santa Rosa,34 Hidden Creek,State Senate,1,REP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,State Senate,1,REP,OverVotes,0
+Santa Rosa,36 Mill Creek,State Senate,1,REP,OverVotes,1
+Santa Rosa,37 Soundside,State Senate,1,REP,OverVotes,0
+Santa Rosa,38 Navarre Beach,State Senate,1,REP,OverVotes,0
+Santa Rosa,39 Garcon Point,State Senate,1,REP,OverVotes,0
+Santa Rosa,40 Parkway,State Senate,1,REP,OverVotes,0
+Santa Rosa,41 Woodlawn,State Senate,1,REP,OverVotes,0
+Santa Rosa,1 South Milton,State Senate,1,REP,UnderVotes,12
+Santa Rosa,2 Wallace,State Senate,1,REP,UnderVotes,35
+Santa Rosa,3 Coon Hill,State Senate,1,REP,UnderVotes,9
+Santa Rosa,4 Jay,State Senate,1,REP,UnderVotes,6
+Santa Rosa,5 McLellan,State Senate,1,REP,UnderVotes,1
+Santa Rosa,6 Red Rock,State Senate,1,REP,UnderVotes,0
+Santa Rosa,7 Munson,State Senate,1,REP,UnderVotes,0
+Santa Rosa,8 North Milton,State Senate,1,REP,UnderVotes,6
+Santa Rosa,9 Ward Basin,State Senate,1,REP,UnderVotes,20
+Santa Rosa,10 Holley,State Senate,1,REP,UnderVotes,8
+Santa Rosa,11 Coldwater,State Senate,1,REP,UnderVotes,5
+Santa Rosa,12 Point Baker,State Senate,1,REP,UnderVotes,29
+Santa Rosa,13 Allentown,State Senate,1,REP,UnderVotes,9
+Santa Rosa,14 Harold,State Senate,1,REP,UnderVotes,2
+Santa Rosa,15 Ferris Hill,State Senate,1,REP,UnderVotes,14
+Santa Rosa,16 Bagdad,State Senate,1,REP,UnderVotes,15
+Santa Rosa,17 Fidelis,State Senate,1,REP,UnderVotes,5
+Santa Rosa,18 Berryhill,State Senate,1,REP,UnderVotes,39
+Santa Rosa,19 Chumuckla,State Senate,1,REP,UnderVotes,11
+Santa Rosa,20 Pace,State Senate,1,REP,UnderVotes,36
+Santa Rosa,21 Avalon,State Senate,1,REP,UnderVotes,28
+Santa Rosa,22 Gulf Breeze,State Senate,1,REP,UnderVotes,30
+Santa Rosa,23 Midway,State Senate,1,REP,UnderVotes,20
+Santa Rosa,24 Pea Ridge,State Senate,1,REP,UnderVotes,28
+Santa Rosa,25 Oriole Beach,State Senate,1,REP,UnderVotes,21
+Santa Rosa,26 East Navarre,State Senate,1,REP,UnderVotes,45
+Santa Rosa,27 Woodbine,State Senate,1,REP,UnderVotes,44
+Santa Rosa,28 Tiger Point,State Senate,1,REP,UnderVotes,29
+Santa Rosa,29 West Navarre,State Senate,1,REP,UnderVotes,20
+Santa Rosa,30 Pine Terrace,State Senate,1,REP,UnderVotes,24
+Santa Rosa,31 Floridatown,State Senate,1,REP,UnderVotes,7
+Santa Rosa,32 Grand Pointe,State Senate,1,REP,UnderVotes,28
+Santa Rosa,33 East Milton,State Senate,1,REP,UnderVotes,20
+Santa Rosa,34 Hidden Creek,State Senate,1,REP,UnderVotes,101
+Santa Rosa,35 Biscayne Pointe,State Senate,1,REP,UnderVotes,30
+Santa Rosa,36 Mill Creek,State Senate,1,REP,UnderVotes,7
+Santa Rosa,37 Soundside,State Senate,1,REP,UnderVotes,16
+Santa Rosa,38 Navarre Beach,State Senate,1,REP,UnderVotes,19
+Santa Rosa,39 Garcon Point,State Senate,1,REP,UnderVotes,10
+Santa Rosa,40 Parkway,State Senate,1,REP,UnderVotes,19
+Santa Rosa,41 Woodlawn,State Senate,1,REP,UnderVotes,16
+Santa Rosa,22 Gulf Breeze,State House,2,REP,Alex Andrade,784
+Santa Rosa,23 Midway,State House,2,REP,Alex Andrade,261
+Santa Rosa,25 Oriole Beach,State House,2,REP,Alex Andrade,497
+Santa Rosa,26 East Navarre,State House,2,REP,Alex Andrade,64
+Santa Rosa,28 Tiger Point,State House,2,REP,Alex Andrade,504
+Santa Rosa,29 West Navarre,State House,2,REP,Alex Andrade,21
+Santa Rosa,32 Grand Pointe,State House,2,REP,Alex Andrade,470
+Santa Rosa,35 Biscayne Pointe,State House,2,REP,Alex Andrade,91
+Santa Rosa,37 Soundside,State House,2,REP,Alex Andrade,346
+Santa Rosa,38 Navarre Beach,State House,2,REP,Alex Andrade,127
+Santa Rosa,40 Parkway,State House,2,REP,Alex Andrade,166
+Santa Rosa,41 Woodlawn,State House,2,REP,Alex Andrade,415
+Santa Rosa,22 Gulf Breeze,State House,2,REP,Jordan Karr,205
+Santa Rosa,23 Midway,State House,2,REP,Jordan Karr,79
+Santa Rosa,25 Oriole Beach,State House,2,REP,Jordan Karr,133
+Santa Rosa,26 East Navarre,State House,2,REP,Jordan Karr,45
+Santa Rosa,28 Tiger Point,State House,2,REP,Jordan Karr,118
+Santa Rosa,29 West Navarre,State House,2,REP,Jordan Karr,5
+Santa Rosa,32 Grand Pointe,State House,2,REP,Jordan Karr,116
+Santa Rosa,35 Biscayne Pointe,State House,2,REP,Jordan Karr,43
+Santa Rosa,37 Soundside,State House,2,REP,Jordan Karr,62
+Santa Rosa,38 Navarre Beach,State House,2,REP,Jordan Karr,53
+Santa Rosa,40 Parkway,State House,2,REP,Jordan Karr,47
+Santa Rosa,41 Woodlawn,State House,2,REP,Jordan Karr,110
+Santa Rosa,22 Gulf Breeze,State House,2,REP,Greg Litton,218
+Santa Rosa,23 Midway,State House,2,REP,Greg Litton,70
+Santa Rosa,25 Oriole Beach,State House,2,REP,Greg Litton,125
+Santa Rosa,26 East Navarre,State House,2,REP,Greg Litton,50
+Santa Rosa,28 Tiger Point,State House,2,REP,Greg Litton,180
+Santa Rosa,29 West Navarre,State House,2,REP,Greg Litton,12
+Santa Rosa,32 Grand Pointe,State House,2,REP,Greg Litton,130
+Santa Rosa,35 Biscayne Pointe,State House,2,REP,Greg Litton,31
+Santa Rosa,37 Soundside,State House,2,REP,Greg Litton,101
+Santa Rosa,38 Navarre Beach,State House,2,REP,Greg Litton,48
+Santa Rosa,40 Parkway,State House,2,REP,Greg Litton,64
+Santa Rosa,41 Woodlawn,State House,2,REP,Greg Litton,89
+Santa Rosa,22 Gulf Breeze,State House,2,REP,OverVotes,0
+Santa Rosa,23 Midway,State House,2,REP,OverVotes,0
+Santa Rosa,25 Oriole Beach,State House,2,REP,OverVotes,0
+Santa Rosa,26 East Navarre,State House,2,REP,OverVotes,0
+Santa Rosa,28 Tiger Point,State House,2,REP,OverVotes,0
+Santa Rosa,29 West Navarre,State House,2,REP,OverVotes,0
+Santa Rosa,32 Grand Pointe,State House,2,REP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,State House,2,REP,OverVotes,1
+Santa Rosa,37 Soundside,State House,2,REP,OverVotes,0
+Santa Rosa,38 Navarre Beach,State House,2,REP,OverVotes,0
+Santa Rosa,40 Parkway,State House,2,REP,OverVotes,0
+Santa Rosa,41 Woodlawn,State House,2,REP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,State House,2,REP,UnderVotes,41
+Santa Rosa,23 Midway,State House,2,REP,UnderVotes,29
+Santa Rosa,25 Oriole Beach,State House,2,REP,UnderVotes,43
+Santa Rosa,26 East Navarre,State House,2,REP,UnderVotes,23
+Santa Rosa,28 Tiger Point,State House,2,REP,UnderVotes,77
+Santa Rosa,29 West Navarre,State House,2,REP,UnderVotes,10
+Santa Rosa,32 Grand Pointe,State House,2,REP,UnderVotes,55
+Santa Rosa,35 Biscayne Pointe,State House,2,REP,UnderVotes,22
+Santa Rosa,37 Soundside,State House,2,REP,UnderVotes,44
+Santa Rosa,38 Navarre Beach,State House,2,REP,UnderVotes,45
+Santa Rosa,40 Parkway,State House,2,REP,UnderVotes,36
+Santa Rosa,41 Woodlawn,State House,2,REP,UnderVotes,44
+Santa Rosa,1 South Milton,State House,3,REP,Mariya Calkins,75
+Santa Rosa,2 Wallace,State House,3,REP,Mariya Calkins,431
+Santa Rosa,3 Coon Hill,State House,3,REP,Mariya Calkins,57
+Santa Rosa,4 Jay,State House,3,REP,Mariya Calkins,147
+Santa Rosa,5 McLellan,State House,3,REP,Mariya Calkins,13
+Santa Rosa,6 Red Rock,State House,3,REP,Mariya Calkins,18
+Santa Rosa,7 Munson,State House,3,REP,Mariya Calkins,43
+Santa Rosa,8 North Milton,State House,3,REP,Mariya Calkins,138
+Santa Rosa,9 Ward Basin,State House,3,REP,Mariya Calkins,308
+Santa Rosa,10 Holley,State House,3,REP,Mariya Calkins,161
+Santa Rosa,11 Coldwater,State House,3,REP,Mariya Calkins,161
+Santa Rosa,12 Point Baker,State House,3,REP,Mariya Calkins,349
+Santa Rosa,13 Allentown,State House,3,REP,Mariya Calkins,158
+Santa Rosa,14 Harold,State House,3,REP,Mariya Calkins,101
+Santa Rosa,15 Ferris Hill,State House,3,REP,Mariya Calkins,284
+Santa Rosa,16 Bagdad,State House,3,REP,Mariya Calkins,294
+Santa Rosa,17 Fidelis,State House,3,REP,Mariya Calkins,96
+Santa Rosa,18 Berryhill,State House,3,REP,Mariya Calkins,494
+Santa Rosa,19 Chumuckla,State House,3,REP,Mariya Calkins,129
+Santa Rosa,20 Pace,State House,3,REP,Mariya Calkins,521
+Santa Rosa,21 Avalon,State House,3,REP,Mariya Calkins,462
+Santa Rosa,23 Midway,State House,3,REP,Mariya Calkins,95
+Santa Rosa,24 Pea Ridge,State House,3,REP,Mariya Calkins,624
+Santa Rosa,26 East Navarre,State House,3,REP,Mariya Calkins,426
+Santa Rosa,27 Woodbine,State House,3,REP,Mariya Calkins,401
+Santa Rosa,29 West Navarre,State House,3,REP,Mariya Calkins,168
+Santa Rosa,30 Pine Terrace,State House,3,REP,Mariya Calkins,352
+Santa Rosa,31 Floridatown,State House,3,REP,Mariya Calkins,200
+Santa Rosa,33 East Milton,State House,3,REP,Mariya Calkins,278
+Santa Rosa,34 Hidden Creek,State House,3,REP,Mariya Calkins,739
+Santa Rosa,35 Biscayne Pointe,State House,3,REP,Mariya Calkins,254
+Santa Rosa,36 Mill Creek,State House,3,REP,Mariya Calkins,173
+Santa Rosa,39 Garcon Point,State House,3,REP,Mariya Calkins,224
+Santa Rosa,40 Parkway,State House,3,REP,Mariya Calkins,7
+Santa Rosa,1 South Milton,State House,3,REP,Joel Rudman,129
+Santa Rosa,2 Wallace,State House,3,REP,Joel Rudman,927
+Santa Rosa,3 Coon Hill,State House,3,REP,Joel Rudman,196
+Santa Rosa,4 Jay,State House,3,REP,Joel Rudman,377
+Santa Rosa,5 McLellan,State House,3,REP,Joel Rudman,23
+Santa Rosa,6 Red Rock,State House,3,REP,Joel Rudman,26
+Santa Rosa,7 Munson,State House,3,REP,Joel Rudman,48
+Santa Rosa,8 North Milton,State House,3,REP,Joel Rudman,172
+Santa Rosa,9 Ward Basin,State House,3,REP,Joel Rudman,420
+Santa Rosa,10 Holley,State House,3,REP,Joel Rudman,239
+Santa Rosa,11 Coldwater,State House,3,REP,Joel Rudman,203
+Santa Rosa,12 Point Baker,State House,3,REP,Joel Rudman,421
+Santa Rosa,13 Allentown,State House,3,REP,Joel Rudman,332
+Santa Rosa,14 Harold,State House,3,REP,Joel Rudman,122
+Santa Rosa,15 Ferris Hill,State House,3,REP,Joel Rudman,403
+Santa Rosa,16 Bagdad,State House,3,REP,Joel Rudman,465
+Santa Rosa,17 Fidelis,State House,3,REP,Joel Rudman,124
+Santa Rosa,18 Berryhill,State House,3,REP,Joel Rudman,835
+Santa Rosa,19 Chumuckla,State House,3,REP,Joel Rudman,480
+Santa Rosa,20 Pace,State House,3,REP,Joel Rudman,898
+Santa Rosa,21 Avalon,State House,3,REP,Joel Rudman,548
+Santa Rosa,23 Midway,State House,3,REP,Joel Rudman,207
+Santa Rosa,24 Pea Ridge,State House,3,REP,Joel Rudman,868
+Santa Rosa,26 East Navarre,State House,3,REP,Joel Rudman,899
+Santa Rosa,27 Woodbine,State House,3,REP,Joel Rudman,990
+Santa Rosa,29 West Navarre,State House,3,REP,Joel Rudman,315
+Santa Rosa,30 Pine Terrace,State House,3,REP,Joel Rudman,706
+Santa Rosa,31 Floridatown,State House,3,REP,Joel Rudman,153
+Santa Rosa,33 East Milton,State House,3,REP,Joel Rudman,409
+Santa Rosa,34 Hidden Creek,State House,3,REP,Joel Rudman,1502
+Santa Rosa,35 Biscayne Pointe,State House,3,REP,Joel Rudman,428
+Santa Rosa,36 Mill Creek,State House,3,REP,Joel Rudman,358
+Santa Rosa,39 Garcon Point,State House,3,REP,Joel Rudman,329
+Santa Rosa,40 Parkway,State House,3,REP,Joel Rudman,14
+Santa Rosa,1 South Milton,State House,3,REP,OverVotes,0
+Santa Rosa,2 Wallace,State House,3,REP,OverVotes,0
+Santa Rosa,3 Coon Hill,State House,3,REP,OverVotes,1
+Santa Rosa,4 Jay,State House,3,REP,OverVotes,0
+Santa Rosa,5 McLellan,State House,3,REP,OverVotes,0
+Santa Rosa,6 Red Rock,State House,3,REP,OverVotes,0
+Santa Rosa,7 Munson,State House,3,REP,OverVotes,0
+Santa Rosa,8 North Milton,State House,3,REP,OverVotes,1
+Santa Rosa,9 Ward Basin,State House,3,REP,OverVotes,0
+Santa Rosa,10 Holley,State House,3,REP,OverVotes,0
+Santa Rosa,11 Coldwater,State House,3,REP,OverVotes,0
+Santa Rosa,12 Point Baker,State House,3,REP,OverVotes,0
+Santa Rosa,13 Allentown,State House,3,REP,OverVotes,0
+Santa Rosa,14 Harold,State House,3,REP,OverVotes,0
+Santa Rosa,15 Ferris Hill,State House,3,REP,OverVotes,0
+Santa Rosa,16 Bagdad,State House,3,REP,OverVotes,1
+Santa Rosa,17 Fidelis,State House,3,REP,OverVotes,0
+Santa Rosa,18 Berryhill,State House,3,REP,OverVotes,0
+Santa Rosa,19 Chumuckla,State House,3,REP,OverVotes,0
+Santa Rosa,20 Pace,State House,3,REP,OverVotes,0
+Santa Rosa,21 Avalon,State House,3,REP,OverVotes,0
+Santa Rosa,23 Midway,State House,3,REP,OverVotes,0
+Santa Rosa,24 Pea Ridge,State House,3,REP,OverVotes,0
+Santa Rosa,26 East Navarre,State House,3,REP,OverVotes,2
+Santa Rosa,27 Woodbine,State House,3,REP,OverVotes,0
+Santa Rosa,29 West Navarre,State House,3,REP,OverVotes,0
+Santa Rosa,30 Pine Terrace,State House,3,REP,OverVotes,0
+Santa Rosa,31 Floridatown,State House,3,REP,OverVotes,0
+Santa Rosa,33 East Milton,State House,3,REP,OverVotes,0
+Santa Rosa,34 Hidden Creek,State House,3,REP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,State House,3,REP,OverVotes,0
+Santa Rosa,36 Mill Creek,State House,3,REP,OverVotes,0
+Santa Rosa,39 Garcon Point,State House,3,REP,OverVotes,0
+Santa Rosa,40 Parkway,State House,3,REP,OverVotes,0
+Santa Rosa,1 South Milton,State House,3,REP,UnderVotes,7
+Santa Rosa,2 Wallace,State House,3,REP,UnderVotes,17
+Santa Rosa,3 Coon Hill,State House,3,REP,UnderVotes,1
+Santa Rosa,4 Jay,State House,3,REP,UnderVotes,5
+Santa Rosa,5 McLellan,State House,3,REP,UnderVotes,3
+Santa Rosa,6 Red Rock,State House,3,REP,UnderVotes,0
+Santa Rosa,7 Munson,State House,3,REP,UnderVotes,1
+Santa Rosa,8 North Milton,State House,3,REP,UnderVotes,7
+Santa Rosa,9 Ward Basin,State House,3,REP,UnderVotes,11
+Santa Rosa,10 Holley,State House,3,REP,UnderVotes,6
+Santa Rosa,11 Coldwater,State House,3,REP,UnderVotes,6
+Santa Rosa,12 Point Baker,State House,3,REP,UnderVotes,22
+Santa Rosa,13 Allentown,State House,3,REP,UnderVotes,5
+Santa Rosa,14 Harold,State House,3,REP,UnderVotes,4
+Santa Rosa,15 Ferris Hill,State House,3,REP,UnderVotes,13
+Santa Rosa,16 Bagdad,State House,3,REP,UnderVotes,11
+Santa Rosa,17 Fidelis,State House,3,REP,UnderVotes,5
+Santa Rosa,18 Berryhill,State House,3,REP,UnderVotes,24
+Santa Rosa,19 Chumuckla,State House,3,REP,UnderVotes,6
+Santa Rosa,20 Pace,State House,3,REP,UnderVotes,29
+Santa Rosa,21 Avalon,State House,3,REP,UnderVotes,22
+Santa Rosa,23 Midway,State House,3,REP,UnderVotes,10
+Santa Rosa,24 Pea Ridge,State House,3,REP,UnderVotes,18
+Santa Rosa,26 East Navarre,State House,3,REP,UnderVotes,14
+Santa Rosa,27 Woodbine,State House,3,REP,UnderVotes,34
+Santa Rosa,29 West Navarre,State House,3,REP,UnderVotes,10
+Santa Rosa,30 Pine Terrace,State House,3,REP,UnderVotes,17
+Santa Rosa,31 Floridatown,State House,3,REP,UnderVotes,4
+Santa Rosa,33 East Milton,State House,3,REP,UnderVotes,17
+Santa Rosa,34 Hidden Creek,State House,3,REP,UnderVotes,22
+Santa Rosa,35 Biscayne Pointe,State House,3,REP,UnderVotes,8
+Santa Rosa,36 Mill Creek,State House,3,REP,UnderVotes,14
+Santa Rosa,39 Garcon Point,State House,3,REP,UnderVotes,10
+Santa Rosa,40 Parkway,State House,3,REP,UnderVotes,0
+Santa Rosa,1 South Milton,County Commissioner,2,REP,Jeff Ates IV,51
+Santa Rosa,2 Wallace,County Commissioner,2,REP,Jeff Ates IV,297
+Santa Rosa,3 Coon Hill,County Commissioner,2,REP,Jeff Ates IV,94
+Santa Rosa,4 Jay,County Commissioner,2,REP,Jeff Ates IV,207
+Santa Rosa,5 McLellan,County Commissioner,2,REP,Jeff Ates IV,18
+Santa Rosa,6 Red Rock,County Commissioner,2,REP,Jeff Ates IV,23
+Santa Rosa,7 Munson,County Commissioner,2,REP,Jeff Ates IV,46
+Santa Rosa,8 North Milton,County Commissioner,2,REP,Jeff Ates IV,77
+Santa Rosa,9 Ward Basin,County Commissioner,2,REP,Jeff Ates IV,226
+Santa Rosa,10 Holley,County Commissioner,2,REP,Jeff Ates IV,93
+Santa Rosa,11 Coldwater,County Commissioner,2,REP,Jeff Ates IV,127
+Santa Rosa,12 Point Baker,County Commissioner,2,REP,Jeff Ates IV,222
+Santa Rosa,13 Allentown,County Commissioner,2,REP,Jeff Ates IV,135
+Santa Rosa,14 Harold,County Commissioner,2,REP,Jeff Ates IV,98
+Santa Rosa,15 Ferris Hill,County Commissioner,2,REP,Jeff Ates IV,206
+Santa Rosa,16 Bagdad,County Commissioner,2,REP,Jeff Ates IV,191
+Santa Rosa,17 Fidelis,County Commissioner,2,REP,Jeff Ates IV,76
+Santa Rosa,18 Berryhill,County Commissioner,2,REP,Jeff Ates IV,425
+Santa Rosa,19 Chumuckla,County Commissioner,2,REP,Jeff Ates IV,150
+Santa Rosa,20 Pace,County Commissioner,2,REP,Jeff Ates IV,333
+Santa Rosa,21 Avalon,County Commissioner,2,REP,Jeff Ates IV,261
+Santa Rosa,22 Gulf Breeze,County Commissioner,2,REP,Jeff Ates IV,344
+Santa Rosa,23 Midway,County Commissioner,2,REP,Jeff Ates IV,206
+Santa Rosa,24 Pea Ridge,County Commissioner,2,REP,Jeff Ates IV,399
+Santa Rosa,25 Oriole Beach,County Commissioner,2,REP,Jeff Ates IV,201
+Santa Rosa,26 East Navarre,County Commissioner,2,REP,Jeff Ates IV,405
+Santa Rosa,27 Woodbine,County Commissioner,2,REP,Jeff Ates IV,276
+Santa Rosa,28 Tiger Point,County Commissioner,2,REP,Jeff Ates IV,215
+Santa Rosa,29 West Navarre,County Commissioner,2,REP,Jeff Ates IV,123
+Santa Rosa,30 Pine Terrace,County Commissioner,2,REP,Jeff Ates IV,312
+Santa Rosa,31 Floridatown,County Commissioner,2,REP,Jeff Ates IV,104
+Santa Rosa,32 Grand Pointe,County Commissioner,2,REP,Jeff Ates IV,190
+Santa Rosa,33 East Milton,County Commissioner,2,REP,Jeff Ates IV,236
+Santa Rosa,34 Hidden Creek,County Commissioner,2,REP,Jeff Ates IV,578
+Santa Rosa,35 Biscayne Pointe,County Commissioner,2,REP,Jeff Ates IV,204
+Santa Rosa,36 Mill Creek,County Commissioner,2,REP,Jeff Ates IV,119
+Santa Rosa,37 Soundside,County Commissioner,2,REP,Jeff Ates IV,160
+Santa Rosa,38 Navarre Beach,County Commissioner,2,REP,Jeff Ates IV,61
+Santa Rosa,39 Garcon Point,County Commissioner,2,REP,Jeff Ates IV,161
+Santa Rosa,40 Parkway,County Commissioner,2,REP,Jeff Ates IV,79
+Santa Rosa,41 Woodlawn,County Commissioner,2,REP,Jeff Ates IV,158
+Santa Rosa,1 South Milton,County Commissioner,2,REP,Rickie Cotton Jr,46
+Santa Rosa,2 Wallace,County Commissioner,2,REP,Rickie Cotton Jr,311
+Santa Rosa,3 Coon Hill,County Commissioner,2,REP,Rickie Cotton Jr,75
+Santa Rosa,4 Jay,County Commissioner,2,REP,Rickie Cotton Jr,156
+Santa Rosa,5 McLellan,County Commissioner,2,REP,Rickie Cotton Jr,12
+Santa Rosa,6 Red Rock,County Commissioner,2,REP,Rickie Cotton Jr,9
+Santa Rosa,7 Munson,County Commissioner,2,REP,Rickie Cotton Jr,19
+Santa Rosa,8 North Milton,County Commissioner,2,REP,Rickie Cotton Jr,94
+Santa Rosa,9 Ward Basin,County Commissioner,2,REP,Rickie Cotton Jr,154
+Santa Rosa,10 Holley,County Commissioner,2,REP,Rickie Cotton Jr,119
+Santa Rosa,11 Coldwater,County Commissioner,2,REP,Rickie Cotton Jr,119
+Santa Rosa,12 Point Baker,County Commissioner,2,REP,Rickie Cotton Jr,201
+Santa Rosa,13 Allentown,County Commissioner,2,REP,Rickie Cotton Jr,117
+Santa Rosa,14 Harold,County Commissioner,2,REP,Rickie Cotton Jr,51
+Santa Rosa,15 Ferris Hill,County Commissioner,2,REP,Rickie Cotton Jr,163
+Santa Rosa,16 Bagdad,County Commissioner,2,REP,Rickie Cotton Jr,197
+Santa Rosa,17 Fidelis,County Commissioner,2,REP,Rickie Cotton Jr,77
+Santa Rosa,18 Berryhill,County Commissioner,2,REP,Rickie Cotton Jr,339
+Santa Rosa,19 Chumuckla,County Commissioner,2,REP,Rickie Cotton Jr,246
+Santa Rosa,20 Pace,County Commissioner,2,REP,Rickie Cotton Jr,349
+Santa Rosa,21 Avalon,County Commissioner,2,REP,Rickie Cotton Jr,262
+Santa Rosa,22 Gulf Breeze,County Commissioner,2,REP,Rickie Cotton Jr,285
+Santa Rosa,23 Midway,County Commissioner,2,REP,Rickie Cotton Jr,176
+Santa Rosa,24 Pea Ridge,County Commissioner,2,REP,Rickie Cotton Jr,430
+Santa Rosa,25 Oriole Beach,County Commissioner,2,REP,Rickie Cotton Jr,138
+Santa Rosa,26 East Navarre,County Commissioner,2,REP,Rickie Cotton Jr,332
+Santa Rosa,27 Woodbine,County Commissioner,2,REP,Rickie Cotton Jr,329
+Santa Rosa,28 Tiger Point,County Commissioner,2,REP,Rickie Cotton Jr,202
+Santa Rosa,29 West Navarre,County Commissioner,2,REP,Rickie Cotton Jr,138
+Santa Rosa,30 Pine Terrace,County Commissioner,2,REP,Rickie Cotton Jr,261
+Santa Rosa,31 Floridatown,County Commissioner,2,REP,Rickie Cotton Jr,115
+Santa Rosa,32 Grand Pointe,County Commissioner,2,REP,Rickie Cotton Jr,171
+Santa Rosa,33 East Milton,County Commissioner,2,REP,Rickie Cotton Jr,170
+Santa Rosa,34 Hidden Creek,County Commissioner,2,REP,Rickie Cotton Jr,547
+Santa Rosa,35 Biscayne Pointe,County Commissioner,2,REP,Rickie Cotton Jr,203
+Santa Rosa,36 Mill Creek,County Commissioner,2,REP,Rickie Cotton Jr,153
+Santa Rosa,37 Soundside,County Commissioner,2,REP,Rickie Cotton Jr,131
+Santa Rosa,38 Navarre Beach,County Commissioner,2,REP,Rickie Cotton Jr,50
+Santa Rosa,39 Garcon Point,County Commissioner,2,REP,Rickie Cotton Jr,144
+Santa Rosa,40 Parkway,County Commissioner,2,REP,Rickie Cotton Jr,78
+Santa Rosa,41 Woodlawn,County Commissioner,2,REP,Rickie Cotton Jr,172
+Santa Rosa,1 South Milton,County Commissioner,2,REP,Kerry Smith,55
+Santa Rosa,2 Wallace,County Commissioner,2,REP,Kerry Smith,463
+Santa Rosa,3 Coon Hill,County Commissioner,2,REP,Kerry Smith,60
+Santa Rosa,4 Jay,County Commissioner,2,REP,Kerry Smith,102
+Santa Rosa,5 McLellan,County Commissioner,2,REP,Kerry Smith,6
+Santa Rosa,6 Red Rock,County Commissioner,2,REP,Kerry Smith,10
+Santa Rosa,7 Munson,County Commissioner,2,REP,Kerry Smith,21
+Santa Rosa,8 North Milton,County Commissioner,2,REP,Kerry Smith,65
+Santa Rosa,9 Ward Basin,County Commissioner,2,REP,Kerry Smith,247
+Santa Rosa,10 Holley,County Commissioner,2,REP,Kerry Smith,96
+Santa Rosa,11 Coldwater,County Commissioner,2,REP,Kerry Smith,66
+Santa Rosa,12 Point Baker,County Commissioner,2,REP,Kerry Smith,180
+Santa Rosa,13 Allentown,County Commissioner,2,REP,Kerry Smith,180
+Santa Rosa,14 Harold,County Commissioner,2,REP,Kerry Smith,39
+Santa Rosa,15 Ferris Hill,County Commissioner,2,REP,Kerry Smith,167
+Santa Rosa,16 Bagdad,County Commissioner,2,REP,Kerry Smith,220
+Santa Rosa,17 Fidelis,County Commissioner,2,REP,Kerry Smith,37
+Santa Rosa,18 Berryhill,County Commissioner,2,REP,Kerry Smith,326
+Santa Rosa,19 Chumuckla,County Commissioner,2,REP,Kerry Smith,140
+Santa Rosa,20 Pace,County Commissioner,2,REP,Kerry Smith,447
+Santa Rosa,21 Avalon,County Commissioner,2,REP,Kerry Smith,301
+Santa Rosa,22 Gulf Breeze,County Commissioner,2,REP,Kerry Smith,304
+Santa Rosa,23 Midway,County Commissioner,2,REP,Kerry Smith,175
+Santa Rosa,24 Pea Ridge,County Commissioner,2,REP,Kerry Smith,422
+Santa Rosa,25 Oriole Beach,County Commissioner,2,REP,Kerry Smith,232
+Santa Rosa,26 East Navarre,County Commissioner,2,REP,Kerry Smith,393
+Santa Rosa,27 Woodbine,County Commissioner,2,REP,Kerry Smith,523
+Santa Rosa,28 Tiger Point,County Commissioner,2,REP,Kerry Smith,211
+Santa Rosa,29 West Navarre,County Commissioner,2,REP,Kerry Smith,135
+Santa Rosa,30 Pine Terrace,County Commissioner,2,REP,Kerry Smith,282
+Santa Rosa,31 Floridatown,County Commissioner,2,REP,Kerry Smith,74
+Santa Rosa,32 Grand Pointe,County Commissioner,2,REP,Kerry Smith,202
+Santa Rosa,33 East Milton,County Commissioner,2,REP,Kerry Smith,181
+Santa Rosa,34 Hidden Creek,County Commissioner,2,REP,Kerry Smith,574
+Santa Rosa,35 Biscayne Pointe,County Commissioner,2,REP,Kerry Smith,256
+Santa Rosa,36 Mill Creek,County Commissioner,2,REP,Kerry Smith,153
+Santa Rosa,37 Soundside,County Commissioner,2,REP,Kerry Smith,125
+Santa Rosa,38 Navarre Beach,County Commissioner,2,REP,Kerry Smith,78
+Santa Rosa,39 Garcon Point,County Commissioner,2,REP,Kerry Smith,133
+Santa Rosa,40 Parkway,County Commissioner,2,REP,Kerry Smith,84
+Santa Rosa,41 Woodlawn,County Commissioner,2,REP,Kerry Smith,182
+Santa Rosa,1 South Milton,County Commissioner,2,REP,Howard J Steele,42
+Santa Rosa,2 Wallace,County Commissioner,2,REP,Howard J Steele,240
+Santa Rosa,3 Coon Hill,County Commissioner,2,REP,Howard J Steele,16
+Santa Rosa,4 Jay,County Commissioner,2,REP,Howard J Steele,41
+Santa Rosa,5 McLellan,County Commissioner,2,REP,Howard J Steele,1
+Santa Rosa,6 Red Rock,County Commissioner,2,REP,Howard J Steele,2
+Santa Rosa,7 Munson,County Commissioner,2,REP,Howard J Steele,5
+Santa Rosa,8 North Milton,County Commissioner,2,REP,Howard J Steele,64
+Santa Rosa,9 Ward Basin,County Commissioner,2,REP,Howard J Steele,91
+Santa Rosa,10 Holley,County Commissioner,2,REP,Howard J Steele,73
+Santa Rosa,11 Coldwater,County Commissioner,2,REP,Howard J Steele,45
+Santa Rosa,12 Point Baker,County Commissioner,2,REP,Howard J Steele,156
+Santa Rosa,13 Allentown,County Commissioner,2,REP,Howard J Steele,57
+Santa Rosa,14 Harold,County Commissioner,2,REP,Howard J Steele,39
+Santa Rosa,15 Ferris Hill,County Commissioner,2,REP,Howard J Steele,131
+Santa Rosa,16 Bagdad,County Commissioner,2,REP,Howard J Steele,136
+Santa Rosa,17 Fidelis,County Commissioner,2,REP,Howard J Steele,25
+Santa Rosa,18 Berryhill,County Commissioner,2,REP,Howard J Steele,216
+Santa Rosa,19 Chumuckla,County Commissioner,2,REP,Howard J Steele,55
+Santa Rosa,20 Pace,County Commissioner,2,REP,Howard J Steele,234
+Santa Rosa,21 Avalon,County Commissioner,2,REP,Howard J Steele,153
+Santa Rosa,22 Gulf Breeze,County Commissioner,2,REP,Howard J Steele,140
+Santa Rosa,23 Midway,County Commissioner,2,REP,Howard J Steele,132
+Santa Rosa,24 Pea Ridge,County Commissioner,2,REP,Howard J Steele,204
+Santa Rosa,25 Oriole Beach,County Commissioner,2,REP,Howard J Steele,121
+Santa Rosa,26 East Navarre,County Commissioner,2,REP,Howard J Steele,282
+Santa Rosa,27 Woodbine,County Commissioner,2,REP,Howard J Steele,197
+Santa Rosa,28 Tiger Point,County Commissioner,2,REP,Howard J Steele,137
+Santa Rosa,29 West Navarre,County Commissioner,2,REP,Howard J Steele,87
+Santa Rosa,30 Pine Terrace,County Commissioner,2,REP,Howard J Steele,173
+Santa Rosa,31 Floridatown,County Commissioner,2,REP,Howard J Steele,49
+Santa Rosa,32 Grand Pointe,County Commissioner,2,REP,Howard J Steele,101
+Santa Rosa,33 East Milton,County Commissioner,2,REP,Howard J Steele,93
+Santa Rosa,34 Hidden Creek,County Commissioner,2,REP,Howard J Steele,351
+Santa Rosa,35 Biscayne Pointe,County Commissioner,2,REP,Howard J Steele,140
+Santa Rosa,36 Mill Creek,County Commissioner,2,REP,Howard J Steele,81
+Santa Rosa,37 Soundside,County Commissioner,2,REP,Howard J Steele,82
+Santa Rosa,38 Navarre Beach,County Commissioner,2,REP,Howard J Steele,44
+Santa Rosa,39 Garcon Point,County Commissioner,2,REP,Howard J Steele,95
+Santa Rosa,40 Parkway,County Commissioner,2,REP,Howard J Steele,54
+Santa Rosa,41 Woodlawn,County Commissioner,2,REP,Howard J Steele,96
+Santa Rosa,1 South Milton,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,2 Wallace,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,3 Coon Hill,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,4 Jay,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,5 McLellan,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,6 Red Rock,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,7 Munson,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,8 North Milton,County Commissioner,2,REP,OverVotes,3
+Santa Rosa,9 Ward Basin,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,10 Holley,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,11 Coldwater,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,12 Point Baker,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,13 Allentown,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,14 Harold,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,15 Ferris Hill,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,16 Bagdad,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,17 Fidelis,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,18 Berryhill,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,19 Chumuckla,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,20 Pace,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,21 Avalon,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,23 Midway,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,24 Pea Ridge,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,25 Oriole Beach,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,26 East Navarre,County Commissioner,2,REP,OverVotes,2
+Santa Rosa,27 Woodbine,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,28 Tiger Point,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,29 West Navarre,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,30 Pine Terrace,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,31 Floridatown,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,32 Grand Pointe,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,33 East Milton,County Commissioner,2,REP,OverVotes,1
+Santa Rosa,34 Hidden Creek,County Commissioner,2,REP,OverVotes,4
+Santa Rosa,35 Biscayne Pointe,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,36 Mill Creek,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,37 Soundside,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,38 Navarre Beach,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,39 Garcon Point,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,40 Parkway,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,41 Woodlawn,County Commissioner,2,REP,OverVotes,0
+Santa Rosa,1 South Milton,County Commissioner,2,REP,UnderVotes,17
+Santa Rosa,2 Wallace,County Commissioner,2,REP,UnderVotes,64
+Santa Rosa,3 Coon Hill,County Commissioner,2,REP,UnderVotes,10
+Santa Rosa,4 Jay,County Commissioner,2,REP,UnderVotes,23
+Santa Rosa,5 McLellan,County Commissioner,2,REP,UnderVotes,2
+Santa Rosa,6 Red Rock,County Commissioner,2,REP,UnderVotes,0
+Santa Rosa,7 Munson,County Commissioner,2,REP,UnderVotes,1
+Santa Rosa,8 North Milton,County Commissioner,2,REP,UnderVotes,15
+Santa Rosa,9 Ward Basin,County Commissioner,2,REP,UnderVotes,20
+Santa Rosa,10 Holley,County Commissioner,2,REP,UnderVotes,25
+Santa Rosa,11 Coldwater,County Commissioner,2,REP,UnderVotes,13
+Santa Rosa,12 Point Baker,County Commissioner,2,REP,UnderVotes,33
+Santa Rosa,13 Allentown,County Commissioner,2,REP,UnderVotes,6
+Santa Rosa,14 Harold,County Commissioner,2,REP,UnderVotes,0
+Santa Rosa,15 Ferris Hill,County Commissioner,2,REP,UnderVotes,33
+Santa Rosa,16 Bagdad,County Commissioner,2,REP,UnderVotes,27
+Santa Rosa,17 Fidelis,County Commissioner,2,REP,UnderVotes,10
+Santa Rosa,18 Berryhill,County Commissioner,2,REP,UnderVotes,46
+Santa Rosa,19 Chumuckla,County Commissioner,2,REP,UnderVotes,24
+Santa Rosa,20 Pace,County Commissioner,2,REP,UnderVotes,85
+Santa Rosa,21 Avalon,County Commissioner,2,REP,UnderVotes,55
+Santa Rosa,22 Gulf Breeze,County Commissioner,2,REP,UnderVotes,175
+Santa Rosa,23 Midway,County Commissioner,2,REP,UnderVotes,61
+Santa Rosa,24 Pea Ridge,County Commissioner,2,REP,UnderVotes,54
+Santa Rosa,25 Oriole Beach,County Commissioner,2,REP,UnderVotes,106
+Santa Rosa,26 East Navarre,County Commissioner,2,REP,UnderVotes,109
+Santa Rosa,27 Woodbine,County Commissioner,2,REP,UnderVotes,99
+Santa Rosa,28 Tiger Point,County Commissioner,2,REP,UnderVotes,114
+Santa Rosa,29 West Navarre,County Commissioner,2,REP,UnderVotes,58
+Santa Rosa,30 Pine Terrace,County Commissioner,2,REP,UnderVotes,46
+Santa Rosa,31 Floridatown,County Commissioner,2,REP,UnderVotes,14
+Santa Rosa,32 Grand Pointe,County Commissioner,2,REP,UnderVotes,107
+Santa Rosa,33 East Milton,County Commissioner,2,REP,UnderVotes,23
+Santa Rosa,34 Hidden Creek,County Commissioner,2,REP,UnderVotes,209
+Santa Rosa,35 Biscayne Pointe,County Commissioner,2,REP,UnderVotes,75
+Santa Rosa,36 Mill Creek,County Commissioner,2,REP,UnderVotes,39
+Santa Rosa,37 Soundside,County Commissioner,2,REP,UnderVotes,55
+Santa Rosa,38 Navarre Beach,County Commissioner,2,REP,UnderVotes,40
+Santa Rosa,39 Garcon Point,County Commissioner,2,REP,UnderVotes,30
+Santa Rosa,40 Parkway,County Commissioner,2,REP,UnderVotes,39
+Santa Rosa,41 Woodlawn,County Commissioner,2,REP,UnderVotes,50
+Santa Rosa,1 South Milton,School Board,1,NOP,Wayne Patterson,140
+Santa Rosa,2 Wallace,School Board,1,NOP,Wayne Patterson,682
+Santa Rosa,3 Coon Hill,School Board,1,NOP,Wayne Patterson,134
+Santa Rosa,4 Jay,School Board,1,NOP,Wayne Patterson,265
+Santa Rosa,5 McLellan,School Board,1,NOP,Wayne Patterson,14
+Santa Rosa,6 Red Rock,School Board,1,NOP,Wayne Patterson,25
+Santa Rosa,7 Munson,School Board,1,NOP,Wayne Patterson,53
+Santa Rosa,8 North Milton,School Board,1,NOP,Wayne Patterson,165
+Santa Rosa,9 Ward Basin,School Board,1,NOP,Wayne Patterson,402
+Santa Rosa,10 Holley,School Board,1,NOP,Wayne Patterson,175
+Santa Rosa,11 Coldwater,School Board,1,NOP,Wayne Patterson,220
+Santa Rosa,12 Point Baker,School Board,1,NOP,Wayne Patterson,398
+Santa Rosa,13 Allentown,School Board,1,NOP,Wayne Patterson,255
+Santa Rosa,14 Harold,School Board,1,NOP,Wayne Patterson,114
+Santa Rosa,15 Ferris Hill,School Board,1,NOP,Wayne Patterson,364
+Santa Rosa,16 Bagdad,School Board,1,NOP,Wayne Patterson,415
+Santa Rosa,17 Fidelis,School Board,1,NOP,Wayne Patterson,103
+Santa Rosa,18 Berryhill,School Board,1,NOP,Wayne Patterson,616
+Santa Rosa,19 Chumuckla,School Board,1,NOP,Wayne Patterson,276
+Santa Rosa,20 Pace,School Board,1,NOP,Wayne Patterson,694
+Santa Rosa,21 Avalon,School Board,1,NOP,Wayne Patterson,517
+Santa Rosa,22 Gulf Breeze,School Board,1,NOP,Wayne Patterson,571
+Santa Rosa,23 Midway,School Board,1,NOP,Wayne Patterson,401
+Santa Rosa,24 Pea Ridge,School Board,1,NOP,Wayne Patterson,781
+Santa Rosa,25 Oriole Beach,School Board,1,NOP,Wayne Patterson,386
+Santa Rosa,26 East Navarre,School Board,1,NOP,Wayne Patterson,765
+Santa Rosa,27 Woodbine,School Board,1,NOP,Wayne Patterson,614
+Santa Rosa,28 Tiger Point,School Board,1,NOP,Wayne Patterson,390
+Santa Rosa,29 West Navarre,School Board,1,NOP,Wayne Patterson,263
+Santa Rosa,30 Pine Terrace,School Board,1,NOP,Wayne Patterson,494
+Santa Rosa,31 Floridatown,School Board,1,NOP,Wayne Patterson,161
+Santa Rosa,32 Grand Pointe,School Board,1,NOP,Wayne Patterson,344
+Santa Rosa,33 East Milton,School Board,1,NOP,Wayne Patterson,374
+Santa Rosa,34 Hidden Creek,School Board,1,NOP,Wayne Patterson,1100
+Santa Rosa,35 Biscayne Pointe,School Board,1,NOP,Wayne Patterson,465
+Santa Rosa,36 Mill Creek,School Board,1,NOP,Wayne Patterson,239
+Santa Rosa,37 Soundside,School Board,1,NOP,Wayne Patterson,242
+Santa Rosa,38 Navarre Beach,School Board,1,NOP,Wayne Patterson,114
+Santa Rosa,39 Garcon Point,School Board,1,NOP,Wayne Patterson,270
+Santa Rosa,40 Parkway,School Board,1,NOP,Wayne Patterson,154
+Santa Rosa,41 Woodlawn,School Board,1,NOP,Wayne Patterson,311
+Santa Rosa,1 South Milton,School Board,1,NOP,Linda Sanborn,182
+Santa Rosa,2 Wallace,School Board,1,NOP,Linda Sanborn,823
+Santa Rosa,3 Coon Hill,School Board,1,NOP,Linda Sanborn,119
+Santa Rosa,4 Jay,School Board,1,NOP,Linda Sanborn,290
+Santa Rosa,5 McLellan,School Board,1,NOP,Linda Sanborn,27
+Santa Rosa,6 Red Rock,School Board,1,NOP,Linda Sanborn,22
+Santa Rosa,7 Munson,School Board,1,NOP,Linda Sanborn,42
+Santa Rosa,8 North Milton,School Board,1,NOP,Linda Sanborn,261
+Santa Rosa,9 Ward Basin,School Board,1,NOP,Linda Sanborn,478
+Santa Rosa,10 Holley,School Board,1,NOP,Linda Sanborn,291
+Santa Rosa,11 Coldwater,School Board,1,NOP,Linda Sanborn,210
+Santa Rosa,12 Point Baker,School Board,1,NOP,Linda Sanborn,677
+Santa Rosa,13 Allentown,School Board,1,NOP,Linda Sanborn,296
+Santa Rosa,14 Harold,School Board,1,NOP,Linda Sanborn,144
+Santa Rosa,15 Ferris Hill,School Board,1,NOP,Linda Sanborn,591
+Santa Rosa,16 Bagdad,School Board,1,NOP,Linda Sanborn,602
+Santa Rosa,17 Fidelis,School Board,1,NOP,Linda Sanborn,139
+Santa Rosa,18 Berryhill,School Board,1,NOP,Linda Sanborn,998
+Santa Rosa,19 Chumuckla,School Board,1,NOP,Linda Sanborn,351
+Santa Rosa,20 Pace,School Board,1,NOP,Linda Sanborn,969
+Santa Rosa,21 Avalon,School Board,1,NOP,Linda Sanborn,723
+Santa Rosa,22 Gulf Breeze,School Board,1,NOP,Linda Sanborn,949
+Santa Rosa,23 Midway,School Board,1,NOP,Linda Sanborn,527
+Santa Rosa,24 Pea Ridge,School Board,1,NOP,Linda Sanborn,1027
+Santa Rosa,25 Oriole Beach,School Board,1,NOP,Linda Sanborn,561
+Santa Rosa,26 East Navarre,School Board,1,NOP,Linda Sanborn,1121
+Santa Rosa,27 Woodbine,School Board,1,NOP,Linda Sanborn,1016
+Santa Rosa,28 Tiger Point,School Board,1,NOP,Linda Sanborn,624
+Santa Rosa,29 West Navarre,School Board,1,NOP,Linda Sanborn,373
+Santa Rosa,30 Pine Terrace,School Board,1,NOP,Linda Sanborn,734
+Santa Rosa,31 Floridatown,School Board,1,NOP,Linda Sanborn,251
+Santa Rosa,32 Grand Pointe,School Board,1,NOP,Linda Sanborn,588
+Santa Rosa,33 East Milton,School Board,1,NOP,Linda Sanborn,472
+Santa Rosa,34 Hidden Creek,School Board,1,NOP,Linda Sanborn,1577
+Santa Rosa,35 Biscayne Pointe,School Board,1,NOP,Linda Sanborn,667
+Santa Rosa,36 Mill Creek,School Board,1,NOP,Linda Sanborn,402
+Santa Rosa,37 Soundside,School Board,1,NOP,Linda Sanborn,409
+Santa Rosa,38 Navarre Beach,School Board,1,NOP,Linda Sanborn,199
+Santa Rosa,39 Garcon Point,School Board,1,NOP,Linda Sanborn,370
+Santa Rosa,40 Parkway,School Board,1,NOP,Linda Sanborn,281
+Santa Rosa,41 Woodlawn,School Board,1,NOP,Linda Sanborn,534
+Santa Rosa,1 South Milton,School Board,1,NOP,OverVotes,0
+Santa Rosa,2 Wallace,School Board,1,NOP,OverVotes,1
+Santa Rosa,3 Coon Hill,School Board,1,NOP,OverVotes,0
+Santa Rosa,4 Jay,School Board,1,NOP,OverVotes,0
+Santa Rosa,5 McLellan,School Board,1,NOP,OverVotes,0
+Santa Rosa,6 Red Rock,School Board,1,NOP,OverVotes,0
+Santa Rosa,7 Munson,School Board,1,NOP,OverVotes,0
+Santa Rosa,8 North Milton,School Board,1,NOP,OverVotes,0
+Santa Rosa,9 Ward Basin,School Board,1,NOP,OverVotes,1
+Santa Rosa,10 Holley,School Board,1,NOP,OverVotes,0
+Santa Rosa,11 Coldwater,School Board,1,NOP,OverVotes,0
+Santa Rosa,12 Point Baker,School Board,1,NOP,OverVotes,0
+Santa Rosa,13 Allentown,School Board,1,NOP,OverVotes,0
+Santa Rosa,14 Harold,School Board,1,NOP,OverVotes,0
+Santa Rosa,15 Ferris Hill,School Board,1,NOP,OverVotes,0
+Santa Rosa,16 Bagdad,School Board,1,NOP,OverVotes,0
+Santa Rosa,17 Fidelis,School Board,1,NOP,OverVotes,0
+Santa Rosa,18 Berryhill,School Board,1,NOP,OverVotes,0
+Santa Rosa,19 Chumuckla,School Board,1,NOP,OverVotes,0
+Santa Rosa,20 Pace,School Board,1,NOP,OverVotes,0
+Santa Rosa,21 Avalon,School Board,1,NOP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,School Board,1,NOP,OverVotes,0
+Santa Rosa,23 Midway,School Board,1,NOP,OverVotes,1
+Santa Rosa,24 Pea Ridge,School Board,1,NOP,OverVotes,0
+Santa Rosa,25 Oriole Beach,School Board,1,NOP,OverVotes,1
+Santa Rosa,26 East Navarre,School Board,1,NOP,OverVotes,1
+Santa Rosa,27 Woodbine,School Board,1,NOP,OverVotes,0
+Santa Rosa,28 Tiger Point,School Board,1,NOP,OverVotes,0
+Santa Rosa,29 West Navarre,School Board,1,NOP,OverVotes,0
+Santa Rosa,30 Pine Terrace,School Board,1,NOP,OverVotes,1
+Santa Rosa,31 Floridatown,School Board,1,NOP,OverVotes,0
+Santa Rosa,32 Grand Pointe,School Board,1,NOP,OverVotes,0
+Santa Rosa,33 East Milton,School Board,1,NOP,OverVotes,0
+Santa Rosa,34 Hidden Creek,School Board,1,NOP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,School Board,1,NOP,OverVotes,0
+Santa Rosa,36 Mill Creek,School Board,1,NOP,OverVotes,0
+Santa Rosa,37 Soundside,School Board,1,NOP,OverVotes,0
+Santa Rosa,38 Navarre Beach,School Board,1,NOP,OverVotes,0
+Santa Rosa,39 Garcon Point,School Board,1,NOP,OverVotes,0
+Santa Rosa,40 Parkway,School Board,1,NOP,OverVotes,0
+Santa Rosa,41 Woodlawn,School Board,1,NOP,OverVotes,0
+Santa Rosa,1 South Milton,School Board,1,NOP,UnderVotes,26
+Santa Rosa,2 Wallace,School Board,1,NOP,UnderVotes,120
+Santa Rosa,3 Coon Hill,School Board,1,NOP,UnderVotes,16
+Santa Rosa,4 Jay,School Board,1,NOP,UnderVotes,26
+Santa Rosa,5 McLellan,School Board,1,NOP,UnderVotes,2
+Santa Rosa,6 Red Rock,School Board,1,NOP,UnderVotes,1
+Santa Rosa,7 Munson,School Board,1,NOP,UnderVotes,7
+Santa Rosa,8 North Milton,School Board,1,NOP,UnderVotes,27
+Santa Rosa,9 Ward Basin,School Board,1,NOP,UnderVotes,53
+Santa Rosa,10 Holley,School Board,1,NOP,UnderVotes,37
+Santa Rosa,11 Coldwater,School Board,1,NOP,UnderVotes,19
+Santa Rosa,12 Point Baker,School Board,1,NOP,UnderVotes,49
+Santa Rosa,13 Allentown,School Board,1,NOP,UnderVotes,20
+Santa Rosa,14 Harold,School Board,1,NOP,UnderVotes,11
+Santa Rosa,15 Ferris Hill,School Board,1,NOP,UnderVotes,38
+Santa Rosa,16 Bagdad,School Board,1,NOP,UnderVotes,53
+Santa Rosa,17 Fidelis,School Board,1,NOP,UnderVotes,15
+Santa Rosa,18 Berryhill,School Board,1,NOP,UnderVotes,73
+Santa Rosa,19 Chumuckla,School Board,1,NOP,UnderVotes,37
+Santa Rosa,20 Pace,School Board,1,NOP,UnderVotes,113
+Santa Rosa,21 Avalon,School Board,1,NOP,UnderVotes,90
+Santa Rosa,22 Gulf Breeze,School Board,1,NOP,UnderVotes,207
+Santa Rosa,23 Midway,School Board,1,NOP,UnderVotes,97
+Santa Rosa,24 Pea Ridge,School Board,1,NOP,UnderVotes,95
+Santa Rosa,25 Oriole Beach,School Board,1,NOP,UnderVotes,119
+Santa Rosa,26 East Navarre,School Board,1,NOP,UnderVotes,173
+Santa Rosa,27 Woodbine,School Board,1,NOP,UnderVotes,114
+Santa Rosa,28 Tiger Point,School Board,1,NOP,UnderVotes,114
+Santa Rosa,29 West Navarre,School Board,1,NOP,UnderVotes,73
+Santa Rosa,30 Pine Terrace,School Board,1,NOP,UnderVotes,70
+Santa Rosa,31 Floridatown,School Board,1,NOP,UnderVotes,16
+Santa Rosa,32 Grand Pointe,School Board,1,NOP,UnderVotes,124
+Santa Rosa,33 East Milton,School Board,1,NOP,UnderVotes,48
+Santa Rosa,34 Hidden Creek,School Board,1,NOP,UnderVotes,295
+Santa Rosa,35 Biscayne Pointe,School Board,1,NOP,UnderVotes,118
+Santa Rosa,36 Mill Creek,School Board,1,NOP,UnderVotes,51
+Santa Rosa,37 Soundside,School Board,1,NOP,UnderVotes,71
+Santa Rosa,38 Navarre Beach,School Board,1,NOP,UnderVotes,37
+Santa Rosa,39 Garcon Point,School Board,1,NOP,UnderVotes,61
+Santa Rosa,40 Parkway,School Board,1,NOP,UnderVotes,51
+Santa Rosa,41 Woodlawn,School Board,1,NOP,UnderVotes,81
+Santa Rosa,1 South Milton,School Board,3,NOP,Carol Boston,202
+Santa Rosa,2 Wallace,School Board,3,NOP,Carol Boston,958
+Santa Rosa,3 Coon Hill,School Board,3,NOP,Carol Boston,131
+Santa Rosa,4 Jay,School Board,3,NOP,Carol Boston,311
+Santa Rosa,5 McLellan,School Board,3,NOP,Carol Boston,35
+Santa Rosa,6 Red Rock,School Board,3,NOP,Carol Boston,29
+Santa Rosa,7 Munson,School Board,3,NOP,Carol Boston,66
+Santa Rosa,8 North Milton,School Board,3,NOP,Carol Boston,268
+Santa Rosa,9 Ward Basin,School Board,3,NOP,Carol Boston,530
+Santa Rosa,10 Holley,School Board,3,NOP,Carol Boston,333
+Santa Rosa,11 Coldwater,School Board,3,NOP,Carol Boston,261
+Santa Rosa,12 Point Baker,School Board,3,NOP,Carol Boston,714
+Santa Rosa,13 Allentown,School Board,3,NOP,Carol Boston,336
+Santa Rosa,14 Harold,School Board,3,NOP,Carol Boston,185
+Santa Rosa,15 Ferris Hill,School Board,3,NOP,Carol Boston,593
+Santa Rosa,16 Bagdad,School Board,3,NOP,Carol Boston,633
+Santa Rosa,17 Fidelis,School Board,3,NOP,Carol Boston,158
+Santa Rosa,18 Berryhill,School Board,3,NOP,Carol Boston,1074
+Santa Rosa,19 Chumuckla,School Board,3,NOP,Carol Boston,366
+Santa Rosa,20 Pace,School Board,3,NOP,Carol Boston,1087
+Santa Rosa,21 Avalon,School Board,3,NOP,Carol Boston,774
+Santa Rosa,22 Gulf Breeze,School Board,3,NOP,Carol Boston,1084
+Santa Rosa,23 Midway,School Board,3,NOP,Carol Boston,642
+Santa Rosa,24 Pea Ridge,School Board,3,NOP,Carol Boston,1156
+Santa Rosa,25 Oriole Beach,School Board,3,NOP,Carol Boston,650
+Santa Rosa,26 East Navarre,School Board,3,NOP,Carol Boston,1344
+Santa Rosa,27 Woodbine,School Board,3,NOP,Carol Boston,1093
+Santa Rosa,28 Tiger Point,School Board,3,NOP,Carol Boston,749
+Santa Rosa,29 West Navarre,School Board,3,NOP,Carol Boston,465
+Santa Rosa,30 Pine Terrace,School Board,3,NOP,Carol Boston,785
+Santa Rosa,31 Floridatown,School Board,3,NOP,Carol Boston,274
+Santa Rosa,32 Grand Pointe,School Board,3,NOP,Carol Boston,655
+Santa Rosa,33 East Milton,School Board,3,NOP,Carol Boston,506
+Santa Rosa,34 Hidden Creek,School Board,3,NOP,Carol Boston,1939
+Santa Rosa,35 Biscayne Pointe,School Board,3,NOP,Carol Boston,804
+Santa Rosa,36 Mill Creek,School Board,3,NOP,Carol Boston,439
+Santa Rosa,37 Soundside,School Board,3,NOP,Carol Boston,450
+Santa Rosa,38 Navarre Beach,School Board,3,NOP,Carol Boston,231
+Santa Rosa,39 Garcon Point,School Board,3,NOP,Carol Boston,394
+Santa Rosa,40 Parkway,School Board,3,NOP,Carol Boston,299
+Santa Rosa,41 Woodlawn,School Board,3,NOP,Carol Boston,591
+Santa Rosa,1 South Milton,School Board,3,NOP,Alisabeth Janai Lancaster,106
+Santa Rosa,2 Wallace,School Board,3,NOP,Alisabeth Janai Lancaster,505
+Santa Rosa,3 Coon Hill,School Board,3,NOP,Alisabeth Janai Lancaster,115
+Santa Rosa,4 Jay,School Board,3,NOP,Alisabeth Janai Lancaster,221
+Santa Rosa,5 McLellan,School Board,3,NOP,Alisabeth Janai Lancaster,7
+Santa Rosa,6 Red Rock,School Board,3,NOP,Alisabeth Janai Lancaster,17
+Santa Rosa,7 Munson,School Board,3,NOP,Alisabeth Janai Lancaster,24
+Santa Rosa,8 North Milton,School Board,3,NOP,Alisabeth Janai Lancaster,146
+Santa Rosa,9 Ward Basin,School Board,3,NOP,Alisabeth Janai Lancaster,328
+Santa Rosa,10 Holley,School Board,3,NOP,Alisabeth Janai Lancaster,129
+Santa Rosa,11 Coldwater,School Board,3,NOP,Alisabeth Janai Lancaster,145
+Santa Rosa,12 Point Baker,School Board,3,NOP,Alisabeth Janai Lancaster,334
+Santa Rosa,13 Allentown,School Board,3,NOP,Alisabeth Janai Lancaster,196
+Santa Rosa,14 Harold,School Board,3,NOP,Alisabeth Janai Lancaster,65
+Santa Rosa,15 Ferris Hill,School Board,3,NOP,Alisabeth Janai Lancaster,343
+Santa Rosa,16 Bagdad,School Board,3,NOP,Alisabeth Janai Lancaster,340
+Santa Rosa,17 Fidelis,School Board,3,NOP,Alisabeth Janai Lancaster,73
+Santa Rosa,18 Berryhill,School Board,3,NOP,Alisabeth Janai Lancaster,480
+Santa Rosa,19 Chumuckla,School Board,3,NOP,Alisabeth Janai Lancaster,238
+Santa Rosa,20 Pace,School Board,3,NOP,Alisabeth Janai Lancaster,538
+Santa Rosa,21 Avalon,School Board,3,NOP,Alisabeth Janai Lancaster,423
+Santa Rosa,22 Gulf Breeze,School Board,3,NOP,Alisabeth Janai Lancaster,403
+Santa Rosa,23 Midway,School Board,3,NOP,Alisabeth Janai Lancaster,268
+Santa Rosa,24 Pea Ridge,School Board,3,NOP,Alisabeth Janai Lancaster,610
+Santa Rosa,25 Oriole Beach,School Board,3,NOP,Alisabeth Janai Lancaster,288
+Santa Rosa,26 East Navarre,School Board,3,NOP,Alisabeth Janai Lancaster,557
+Santa Rosa,27 Woodbine,School Board,3,NOP,Alisabeth Janai Lancaster,490
+Santa Rosa,28 Tiger Point,School Board,3,NOP,Alisabeth Janai Lancaster,242
+Santa Rosa,29 West Navarre,School Board,3,NOP,Alisabeth Janai Lancaster,175
+Santa Rosa,30 Pine Terrace,School Board,3,NOP,Alisabeth Janai Lancaster,398
+Santa Rosa,31 Floridatown,School Board,3,NOP,Alisabeth Janai Lancaster,127
+Santa Rosa,32 Grand Pointe,School Board,3,NOP,Alisabeth Janai Lancaster,259
+Santa Rosa,33 East Milton,School Board,3,NOP,Alisabeth Janai Lancaster,307
+Santa Rosa,34 Hidden Creek,School Board,3,NOP,Alisabeth Janai Lancaster,778
+Santa Rosa,35 Biscayne Pointe,School Board,3,NOP,Alisabeth Janai Lancaster,342
+Santa Rosa,36 Mill Creek,School Board,3,NOP,Alisabeth Janai Lancaster,192
+Santa Rosa,37 Soundside,School Board,3,NOP,Alisabeth Janai Lancaster,175
+Santa Rosa,38 Navarre Beach,School Board,3,NOP,Alisabeth Janai Lancaster,76
+Santa Rosa,39 Garcon Point,School Board,3,NOP,Alisabeth Janai Lancaster,226
+Santa Rosa,40 Parkway,School Board,3,NOP,Alisabeth Janai Lancaster,132
+Santa Rosa,41 Woodlawn,School Board,3,NOP,Alisabeth Janai Lancaster,250
+Santa Rosa,1 South Milton,School Board,3,NOP,OverVotes,0
+Santa Rosa,2 Wallace,School Board,3,NOP,OverVotes,1
+Santa Rosa,3 Coon Hill,School Board,3,NOP,OverVotes,0
+Santa Rosa,4 Jay,School Board,3,NOP,OverVotes,0
+Santa Rosa,5 McLellan,School Board,3,NOP,OverVotes,0
+Santa Rosa,6 Red Rock,School Board,3,NOP,OverVotes,0
+Santa Rosa,7 Munson,School Board,3,NOP,OverVotes,0
+Santa Rosa,8 North Milton,School Board,3,NOP,OverVotes,0
+Santa Rosa,9 Ward Basin,School Board,3,NOP,OverVotes,1
+Santa Rosa,10 Holley,School Board,3,NOP,OverVotes,0
+Santa Rosa,11 Coldwater,School Board,3,NOP,OverVotes,0
+Santa Rosa,12 Point Baker,School Board,3,NOP,OverVotes,0
+Santa Rosa,13 Allentown,School Board,3,NOP,OverVotes,0
+Santa Rosa,14 Harold,School Board,3,NOP,OverVotes,0
+Santa Rosa,15 Ferris Hill,School Board,3,NOP,OverVotes,0
+Santa Rosa,16 Bagdad,School Board,3,NOP,OverVotes,0
+Santa Rosa,17 Fidelis,School Board,3,NOP,OverVotes,0
+Santa Rosa,18 Berryhill,School Board,3,NOP,OverVotes,0
+Santa Rosa,19 Chumuckla,School Board,3,NOP,OverVotes,0
+Santa Rosa,20 Pace,School Board,3,NOP,OverVotes,0
+Santa Rosa,21 Avalon,School Board,3,NOP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,School Board,3,NOP,OverVotes,0
+Santa Rosa,23 Midway,School Board,3,NOP,OverVotes,0
+Santa Rosa,24 Pea Ridge,School Board,3,NOP,OverVotes,0
+Santa Rosa,25 Oriole Beach,School Board,3,NOP,OverVotes,0
+Santa Rosa,26 East Navarre,School Board,3,NOP,OverVotes,1
+Santa Rosa,27 Woodbine,School Board,3,NOP,OverVotes,0
+Santa Rosa,28 Tiger Point,School Board,3,NOP,OverVotes,0
+Santa Rosa,29 West Navarre,School Board,3,NOP,OverVotes,0
+Santa Rosa,30 Pine Terrace,School Board,3,NOP,OverVotes,0
+Santa Rosa,31 Floridatown,School Board,3,NOP,OverVotes,0
+Santa Rosa,32 Grand Pointe,School Board,3,NOP,OverVotes,0
+Santa Rosa,33 East Milton,School Board,3,NOP,OverVotes,0
+Santa Rosa,34 Hidden Creek,School Board,3,NOP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,School Board,3,NOP,OverVotes,0
+Santa Rosa,36 Mill Creek,School Board,3,NOP,OverVotes,0
+Santa Rosa,37 Soundside,School Board,3,NOP,OverVotes,0
+Santa Rosa,38 Navarre Beach,School Board,3,NOP,OverVotes,0
+Santa Rosa,39 Garcon Point,School Board,3,NOP,OverVotes,0
+Santa Rosa,40 Parkway,School Board,3,NOP,OverVotes,0
+Santa Rosa,41 Woodlawn,School Board,3,NOP,OverVotes,0
+Santa Rosa,1 South Milton,School Board,3,NOP,UnderVotes,40
+Santa Rosa,2 Wallace,School Board,3,NOP,UnderVotes,162
+Santa Rosa,3 Coon Hill,School Board,3,NOP,UnderVotes,23
+Santa Rosa,4 Jay,School Board,3,NOP,UnderVotes,49
+Santa Rosa,5 McLellan,School Board,3,NOP,UnderVotes,1
+Santa Rosa,6 Red Rock,School Board,3,NOP,UnderVotes,2
+Santa Rosa,7 Munson,School Board,3,NOP,UnderVotes,12
+Santa Rosa,8 North Milton,School Board,3,NOP,UnderVotes,39
+Santa Rosa,9 Ward Basin,School Board,3,NOP,UnderVotes,75
+Santa Rosa,10 Holley,School Board,3,NOP,UnderVotes,41
+Santa Rosa,11 Coldwater,School Board,3,NOP,UnderVotes,43
+Santa Rosa,12 Point Baker,School Board,3,NOP,UnderVotes,76
+Santa Rosa,13 Allentown,School Board,3,NOP,UnderVotes,39
+Santa Rosa,14 Harold,School Board,3,NOP,UnderVotes,19
+Santa Rosa,15 Ferris Hill,School Board,3,NOP,UnderVotes,57
+Santa Rosa,16 Bagdad,School Board,3,NOP,UnderVotes,97
+Santa Rosa,17 Fidelis,School Board,3,NOP,UnderVotes,26
+Santa Rosa,18 Berryhill,School Board,3,NOP,UnderVotes,133
+Santa Rosa,19 Chumuckla,School Board,3,NOP,UnderVotes,60
+Santa Rosa,20 Pace,School Board,3,NOP,UnderVotes,151
+Santa Rosa,21 Avalon,School Board,3,NOP,UnderVotes,133
+Santa Rosa,22 Gulf Breeze,School Board,3,NOP,UnderVotes,240
+Santa Rosa,23 Midway,School Board,3,NOP,UnderVotes,116
+Santa Rosa,24 Pea Ridge,School Board,3,NOP,UnderVotes,137
+Santa Rosa,25 Oriole Beach,School Board,3,NOP,UnderVotes,129
+Santa Rosa,26 East Navarre,School Board,3,NOP,UnderVotes,158
+Santa Rosa,27 Woodbine,School Board,3,NOP,UnderVotes,161
+Santa Rosa,28 Tiger Point,School Board,3,NOP,UnderVotes,137
+Santa Rosa,29 West Navarre,School Board,3,NOP,UnderVotes,69
+Santa Rosa,30 Pine Terrace,School Board,3,NOP,UnderVotes,116
+Santa Rosa,31 Floridatown,School Board,3,NOP,UnderVotes,27
+Santa Rosa,32 Grand Pointe,School Board,3,NOP,UnderVotes,142
+Santa Rosa,33 East Milton,School Board,3,NOP,UnderVotes,81
+Santa Rosa,34 Hidden Creek,School Board,3,NOP,UnderVotes,255
+Santa Rosa,35 Biscayne Pointe,School Board,3,NOP,UnderVotes,104
+Santa Rosa,36 Mill Creek,School Board,3,NOP,UnderVotes,61
+Santa Rosa,37 Soundside,School Board,3,NOP,UnderVotes,97
+Santa Rosa,38 Navarre Beach,School Board,3,NOP,UnderVotes,43
+Santa Rosa,39 Garcon Point,School Board,3,NOP,UnderVotes,81
+Santa Rosa,40 Parkway,School Board,3,NOP,UnderVotes,55
+Santa Rosa,41 Woodlawn,School Board,3,NOP,UnderVotes,85
+Santa Rosa,1 South Milton,School Board,5,NOP,Scott Peden,100
+Santa Rosa,2 Wallace,School Board,5,NOP,Scott Peden,543
+Santa Rosa,3 Coon Hill,School Board,5,NOP,Scott Peden,109
+Santa Rosa,4 Jay,School Board,5,NOP,Scott Peden,218
+Santa Rosa,5 McLellan,School Board,5,NOP,Scott Peden,21
+Santa Rosa,6 Red Rock,School Board,5,NOP,Scott Peden,22
+Santa Rosa,7 Munson,School Board,5,NOP,Scott Peden,48
+Santa Rosa,8 North Milton,School Board,5,NOP,Scott Peden,148
+Santa Rosa,9 Ward Basin,School Board,5,NOP,Scott Peden,302
+Santa Rosa,10 Holley,School Board,5,NOP,Scott Peden,182
+Santa Rosa,11 Coldwater,School Board,5,NOP,Scott Peden,177
+Santa Rosa,12 Point Baker,School Board,5,NOP,Scott Peden,417
+Santa Rosa,13 Allentown,School Board,5,NOP,Scott Peden,220
+Santa Rosa,14 Harold,School Board,5,NOP,Scott Peden,113
+Santa Rosa,15 Ferris Hill,School Board,5,NOP,Scott Peden,333
+Santa Rosa,16 Bagdad,School Board,5,NOP,Scott Peden,337
+Santa Rosa,17 Fidelis,School Board,5,NOP,Scott Peden,119
+Santa Rosa,18 Berryhill,School Board,5,NOP,Scott Peden,619
+Santa Rosa,19 Chumuckla,School Board,5,NOP,Scott Peden,255
+Santa Rosa,20 Pace,School Board,5,NOP,Scott Peden,605
+Santa Rosa,21 Avalon,School Board,5,NOP,Scott Peden,425
+Santa Rosa,22 Gulf Breeze,School Board,5,NOP,Scott Peden,571
+Santa Rosa,23 Midway,School Board,5,NOP,Scott Peden,347
+Santa Rosa,24 Pea Ridge,School Board,5,NOP,Scott Peden,649
+Santa Rosa,25 Oriole Beach,School Board,5,NOP,Scott Peden,329
+Santa Rosa,26 East Navarre,School Board,5,NOP,Scott Peden,640
+Santa Rosa,27 Woodbine,School Board,5,NOP,Scott Peden,570
+Santa Rosa,28 Tiger Point,School Board,5,NOP,Scott Peden,371
+Santa Rosa,29 West Navarre,School Board,5,NOP,Scott Peden,199
+Santa Rosa,30 Pine Terrace,School Board,5,NOP,Scott Peden,452
+Santa Rosa,31 Floridatown,School Board,5,NOP,Scott Peden,164
+Santa Rosa,32 Grand Pointe,School Board,5,NOP,Scott Peden,410
+Santa Rosa,33 East Milton,School Board,5,NOP,Scott Peden,294
+Santa Rosa,34 Hidden Creek,School Board,5,NOP,Scott Peden,958
+Santa Rosa,35 Biscayne Pointe,School Board,5,NOP,Scott Peden,399
+Santa Rosa,36 Mill Creek,School Board,5,NOP,Scott Peden,220
+Santa Rosa,37 Soundside,School Board,5,NOP,Scott Peden,230
+Santa Rosa,38 Navarre Beach,School Board,5,NOP,Scott Peden,106
+Santa Rosa,39 Garcon Point,School Board,5,NOP,Scott Peden,194
+Santa Rosa,40 Parkway,School Board,5,NOP,Scott Peden,146
+Santa Rosa,41 Woodlawn,School Board,5,NOP,Scott Peden,290
+Santa Rosa,1 South Milton,School Board,5,NOP,Pete Peters,128
+Santa Rosa,2 Wallace,School Board,5,NOP,Pete Peters,617
+Santa Rosa,3 Coon Hill,School Board,5,NOP,Pete Peters,100
+Santa Rosa,4 Jay,School Board,5,NOP,Pete Peters,236
+Santa Rosa,5 McLellan,School Board,5,NOP,Pete Peters,9
+Santa Rosa,6 Red Rock,School Board,5,NOP,Pete Peters,22
+Santa Rosa,7 Munson,School Board,5,NOP,Pete Peters,40
+Santa Rosa,8 North Milton,School Board,5,NOP,Pete Peters,166
+Santa Rosa,9 Ward Basin,School Board,5,NOP,Pete Peters,397
+Santa Rosa,10 Holley,School Board,5,NOP,Pete Peters,168
+Santa Rosa,11 Coldwater,School Board,5,NOP,Pete Peters,170
+Santa Rosa,12 Point Baker,School Board,5,NOP,Pete Peters,403
+Santa Rosa,13 Allentown,School Board,5,NOP,Pete Peters,245
+Santa Rosa,14 Harold,School Board,5,NOP,Pete Peters,92
+Santa Rosa,15 Ferris Hill,School Board,5,NOP,Pete Peters,356
+Santa Rosa,16 Bagdad,School Board,5,NOP,Pete Peters,392
+Santa Rosa,17 Fidelis,School Board,5,NOP,Pete Peters,83
+Santa Rosa,18 Berryhill,School Board,5,NOP,Pete Peters,606
+Santa Rosa,19 Chumuckla,School Board,5,NOP,Pete Peters,247
+Santa Rosa,20 Pace,School Board,5,NOP,Pete Peters,676
+Santa Rosa,21 Avalon,School Board,5,NOP,Pete Peters,487
+Santa Rosa,22 Gulf Breeze,School Board,5,NOP,Pete Peters,714
+Santa Rosa,23 Midway,School Board,5,NOP,Pete Peters,356
+Santa Rosa,24 Pea Ridge,School Board,5,NOP,Pete Peters,725
+Santa Rosa,25 Oriole Beach,School Board,5,NOP,Pete Peters,431
+Santa Rosa,26 East Navarre,School Board,5,NOP,Pete Peters,728
+Santa Rosa,27 Woodbine,School Board,5,NOP,Pete Peters,671
+Santa Rosa,28 Tiger Point,School Board,5,NOP,Pete Peters,393
+Santa Rosa,29 West Navarre,School Board,5,NOP,Pete Peters,267
+Santa Rosa,30 Pine Terrace,School Board,5,NOP,Pete Peters,493
+Santa Rosa,31 Floridatown,School Board,5,NOP,Pete Peters,154
+Santa Rosa,32 Grand Pointe,School Board,5,NOP,Pete Peters,339
+Santa Rosa,33 East Milton,School Board,5,NOP,Pete Peters,347
+Santa Rosa,34 Hidden Creek,School Board,5,NOP,Pete Peters,1053
+Santa Rosa,35 Biscayne Pointe,School Board,5,NOP,Pete Peters,424
+Santa Rosa,36 Mill Creek,School Board,5,NOP,Pete Peters,257
+Santa Rosa,37 Soundside,School Board,5,NOP,Pete Peters,278
+Santa Rosa,38 Navarre Beach,School Board,5,NOP,Pete Peters,124
+Santa Rosa,39 Garcon Point,School Board,5,NOP,Pete Peters,283
+Santa Rosa,40 Parkway,School Board,5,NOP,Pete Peters,155
+Santa Rosa,41 Woodlawn,School Board,5,NOP,Pete Peters,318
+Santa Rosa,1 South Milton,School Board,5,NOP,Gregory Seltzer,82
+Santa Rosa,2 Wallace,School Board,5,NOP,Gregory Seltzer,293
+Santa Rosa,3 Coon Hill,School Board,5,NOP,Gregory Seltzer,34
+Santa Rosa,4 Jay,School Board,5,NOP,Gregory Seltzer,81
+Santa Rosa,5 McLellan,School Board,5,NOP,Gregory Seltzer,9
+Santa Rosa,6 Red Rock,School Board,5,NOP,Gregory Seltzer,1
+Santa Rosa,7 Munson,School Board,5,NOP,Gregory Seltzer,6
+Santa Rosa,8 North Milton,School Board,5,NOP,Gregory Seltzer,99
+Santa Rosa,9 Ward Basin,School Board,5,NOP,Gregory Seltzer,150
+Santa Rosa,10 Holley,School Board,5,NOP,Gregory Seltzer,97
+Santa Rosa,11 Coldwater,School Board,5,NOP,Gregory Seltzer,62
+Santa Rosa,12 Point Baker,School Board,5,NOP,Gregory Seltzer,230
+Santa Rosa,13 Allentown,School Board,5,NOP,Gregory Seltzer,73
+Santa Rosa,14 Harold,School Board,5,NOP,Gregory Seltzer,47
+Santa Rosa,15 Ferris Hill,School Board,5,NOP,Gregory Seltzer,237
+Santa Rosa,16 Bagdad,School Board,5,NOP,Gregory Seltzer,243
+Santa Rosa,17 Fidelis,School Board,5,NOP,Gregory Seltzer,27
+Santa Rosa,18 Berryhill,School Board,5,NOP,Gregory Seltzer,335
+Santa Rosa,19 Chumuckla,School Board,5,NOP,Gregory Seltzer,100
+Santa Rosa,20 Pace,School Board,5,NOP,Gregory Seltzer,332
+Santa Rosa,21 Avalon,School Board,5,NOP,Gregory Seltzer,293
+Santa Rosa,22 Gulf Breeze,School Board,5,NOP,Gregory Seltzer,297
+Santa Rosa,23 Midway,School Board,5,NOP,Gregory Seltzer,226
+Santa Rosa,24 Pea Ridge,School Board,5,NOP,Gregory Seltzer,384
+Santa Rosa,25 Oriole Beach,School Board,5,NOP,Gregory Seltzer,211
+Santa Rosa,26 East Navarre,School Board,5,NOP,Gregory Seltzer,473
+Santa Rosa,27 Woodbine,School Board,5,NOP,Gregory Seltzer,322
+Santa Rosa,28 Tiger Point,School Board,5,NOP,Gregory Seltzer,235
+Santa Rosa,29 West Navarre,School Board,5,NOP,Gregory Seltzer,159
+Santa Rosa,30 Pine Terrace,School Board,5,NOP,Gregory Seltzer,233
+Santa Rosa,31 Floridatown,School Board,5,NOP,Gregory Seltzer,84
+Santa Rosa,32 Grand Pointe,School Board,5,NOP,Gregory Seltzer,184
+Santa Rosa,33 East Milton,School Board,5,NOP,Gregory Seltzer,171
+Santa Rosa,34 Hidden Creek,School Board,5,NOP,Gregory Seltzer,623
+Santa Rosa,35 Biscayne Pointe,School Board,5,NOP,Gregory Seltzer,298
+Santa Rosa,36 Mill Creek,School Board,5,NOP,Gregory Seltzer,154
+Santa Rosa,37 Soundside,School Board,5,NOP,Gregory Seltzer,138
+Santa Rosa,38 Navarre Beach,School Board,5,NOP,Gregory Seltzer,74
+Santa Rosa,39 Garcon Point,School Board,5,NOP,Gregory Seltzer,134
+Santa Rosa,40 Parkway,School Board,5,NOP,Gregory Seltzer,119
+Santa Rosa,41 Woodlawn,School Board,5,NOP,Gregory Seltzer,242
+Santa Rosa,1 South Milton,School Board,5,NOP,OverVotes,0
+Santa Rosa,2 Wallace,School Board,5,NOP,OverVotes,2
+Santa Rosa,3 Coon Hill,School Board,5,NOP,OverVotes,0
+Santa Rosa,4 Jay,School Board,5,NOP,OverVotes,0
+Santa Rosa,5 McLellan,School Board,5,NOP,OverVotes,0
+Santa Rosa,6 Red Rock,School Board,5,NOP,OverVotes,0
+Santa Rosa,7 Munson,School Board,5,NOP,OverVotes,0
+Santa Rosa,8 North Milton,School Board,5,NOP,OverVotes,0
+Santa Rosa,9 Ward Basin,School Board,5,NOP,OverVotes,1
+Santa Rosa,10 Holley,School Board,5,NOP,OverVotes,0
+Santa Rosa,11 Coldwater,School Board,5,NOP,OverVotes,0
+Santa Rosa,12 Point Baker,School Board,5,NOP,OverVotes,0
+Santa Rosa,13 Allentown,School Board,5,NOP,OverVotes,0
+Santa Rosa,14 Harold,School Board,5,NOP,OverVotes,0
+Santa Rosa,15 Ferris Hill,School Board,5,NOP,OverVotes,0
+Santa Rosa,16 Bagdad,School Board,5,NOP,OverVotes,0
+Santa Rosa,17 Fidelis,School Board,5,NOP,OverVotes,0
+Santa Rosa,18 Berryhill,School Board,5,NOP,OverVotes,0
+Santa Rosa,19 Chumuckla,School Board,5,NOP,OverVotes,0
+Santa Rosa,20 Pace,School Board,5,NOP,OverVotes,0
+Santa Rosa,21 Avalon,School Board,5,NOP,OverVotes,0
+Santa Rosa,22 Gulf Breeze,School Board,5,NOP,OverVotes,1
+Santa Rosa,23 Midway,School Board,5,NOP,OverVotes,1
+Santa Rosa,24 Pea Ridge,School Board,5,NOP,OverVotes,0
+Santa Rosa,25 Oriole Beach,School Board,5,NOP,OverVotes,2
+Santa Rosa,26 East Navarre,School Board,5,NOP,OverVotes,2
+Santa Rosa,27 Woodbine,School Board,5,NOP,OverVotes,0
+Santa Rosa,28 Tiger Point,School Board,5,NOP,OverVotes,0
+Santa Rosa,29 West Navarre,School Board,5,NOP,OverVotes,1
+Santa Rosa,30 Pine Terrace,School Board,5,NOP,OverVotes,0
+Santa Rosa,31 Floridatown,School Board,5,NOP,OverVotes,0
+Santa Rosa,32 Grand Pointe,School Board,5,NOP,OverVotes,0
+Santa Rosa,33 East Milton,School Board,5,NOP,OverVotes,0
+Santa Rosa,34 Hidden Creek,School Board,5,NOP,OverVotes,0
+Santa Rosa,35 Biscayne Pointe,School Board,5,NOP,OverVotes,0
+Santa Rosa,36 Mill Creek,School Board,5,NOP,OverVotes,0
+Santa Rosa,37 Soundside,School Board,5,NOP,OverVotes,0
+Santa Rosa,38 Navarre Beach,School Board,5,NOP,OverVotes,0
+Santa Rosa,39 Garcon Point,School Board,5,NOP,OverVotes,0
+Santa Rosa,40 Parkway,School Board,5,NOP,OverVotes,0
+Santa Rosa,41 Woodlawn,School Board,5,NOP,OverVotes,0
+Santa Rosa,1 South Milton,School Board,5,NOP,UnderVotes,38
+Santa Rosa,2 Wallace,School Board,5,NOP,UnderVotes,171
+Santa Rosa,3 Coon Hill,School Board,5,NOP,UnderVotes,26
+Santa Rosa,4 Jay,School Board,5,NOP,UnderVotes,46
+Santa Rosa,5 McLellan,School Board,5,NOP,UnderVotes,4
+Santa Rosa,6 Red Rock,School Board,5,NOP,UnderVotes,3
+Santa Rosa,7 Munson,School Board,5,NOP,UnderVotes,8
+Santa Rosa,8 North Milton,School Board,5,NOP,UnderVotes,40
+Santa Rosa,9 Ward Basin,School Board,5,NOP,UnderVotes,84
+Santa Rosa,10 Holley,School Board,5,NOP,UnderVotes,56
+Santa Rosa,11 Coldwater,School Board,5,NOP,UnderVotes,40
+Santa Rosa,12 Point Baker,School Board,5,NOP,UnderVotes,74
+Santa Rosa,13 Allentown,School Board,5,NOP,UnderVotes,33
+Santa Rosa,14 Harold,School Board,5,NOP,UnderVotes,17
+Santa Rosa,15 Ferris Hill,School Board,5,NOP,UnderVotes,67
+Santa Rosa,16 Bagdad,School Board,5,NOP,UnderVotes,98
+Santa Rosa,17 Fidelis,School Board,5,NOP,UnderVotes,28
+Santa Rosa,18 Berryhill,School Board,5,NOP,UnderVotes,127
+Santa Rosa,19 Chumuckla,School Board,5,NOP,UnderVotes,62
+Santa Rosa,20 Pace,School Board,5,NOP,UnderVotes,163
+Santa Rosa,21 Avalon,School Board,5,NOP,UnderVotes,125
+Santa Rosa,22 Gulf Breeze,School Board,5,NOP,UnderVotes,144
+Santa Rosa,23 Midway,School Board,5,NOP,UnderVotes,96
+Santa Rosa,24 Pea Ridge,School Board,5,NOP,UnderVotes,145
+Santa Rosa,25 Oriole Beach,School Board,5,NOP,UnderVotes,94
+Santa Rosa,26 East Navarre,School Board,5,NOP,UnderVotes,217
+Santa Rosa,27 Woodbine,School Board,5,NOP,UnderVotes,181
+Santa Rosa,28 Tiger Point,School Board,5,NOP,UnderVotes,129
+Santa Rosa,29 West Navarre,School Board,5,NOP,UnderVotes,83
+Santa Rosa,30 Pine Terrace,School Board,5,NOP,UnderVotes,121
+Santa Rosa,31 Floridatown,School Board,5,NOP,UnderVotes,26
+Santa Rosa,32 Grand Pointe,School Board,5,NOP,UnderVotes,123
+Santa Rosa,33 East Milton,School Board,5,NOP,UnderVotes,82
+Santa Rosa,34 Hidden Creek,School Board,5,NOP,UnderVotes,338
+Santa Rosa,35 Biscayne Pointe,School Board,5,NOP,UnderVotes,129
+Santa Rosa,36 Mill Creek,School Board,5,NOP,UnderVotes,61
+Santa Rosa,37 Soundside,School Board,5,NOP,UnderVotes,76
+Santa Rosa,38 Navarre Beach,School Board,5,NOP,UnderVotes,46
+Santa Rosa,39 Garcon Point,School Board,5,NOP,UnderVotes,90
+Santa Rosa,40 Parkway,School Board,5,NOP,UnderVotes,66
+Santa Rosa,41 Woodlawn,School Board,5,NOP,UnderVotes,76
+Santa Rosa,1 South Milton,Registered Voters,"","","",2108
+Santa Rosa,10 Holley,Registered Voters,"","","",1930
+Santa Rosa,11 Coldwater,Registered Voters,"","","",1389
+Santa Rosa,12 Point Baker,Registered Voters,"","","",4760
+Santa Rosa,13 Allentown,Registered Voters,"","","",1707
+Santa Rosa,14 Harold,Registered Voters,"","","",943
+Santa Rosa,15 Ferris Hill,Registered Voters,"","","",4361
+Santa Rosa,16 Bagdad,Registered Voters,"","","",3911
+Santa Rosa,17 Fidelis,Registered Voters,"","","",1040
+Santa Rosa,18 Berryhill,Registered Voters,"","","",5556
+Santa Rosa,19 Chumuckla,Registered Voters,"","","",1866
+Santa Rosa,2 Wallace,Registered Voters,"","","",4771
+Santa Rosa,20 Pace,Registered Voters,"","","",7501
+Santa Rosa,21 Avalon,Registered Voters,"","","",5070
+Santa Rosa,22 Gulf Breeze,Registered Voters,"","","",5135
+Santa Rosa,23 Midway,Registered Voters,"","","",4612
+Santa Rosa,24 Pea Ridge,Registered Voters,"","","",8336
+Santa Rosa,25 Oriole Beach,Registered Voters,"","","",3889
+Santa Rosa,26 East Navarre,Registered Voters,"","","",8705
+Santa Rosa,27 Woodbine,Registered Voters,"","","",5659
+Santa Rosa,28 Tiger Point,Registered Voters,"","","",3712
+Santa Rosa,29 West Navarre,Registered Voters,"","","",3704
+Santa Rosa,3 Coon Hill,Registered Voters,"","","",903
+Santa Rosa,30 Pine Terrace,Registered Voters,"","","",3423
+Santa Rosa,31 Floridatown,Registered Voters,"","","",1848
+Santa Rosa,32 Grand Pointe,Registered Voters,"","","",3784
+Santa Rosa,33 East Milton,Registered Voters,"","","",3624
+Santa Rosa,34 Hidden Creek,Registered Voters,"","","",11861
+Santa Rosa,35 Biscayne Pointe,Registered Voters,"","","",5212
+Santa Rosa,36 Mill Creek,Registered Voters,"","","",2392
+Santa Rosa,37 Soundside,Registered Voters,"","","",2814
+Santa Rosa,38 Navarre Beach,Registered Voters,"","","",1115
+Santa Rosa,39 Garcon Point,Registered Voters,"","","",2120
+Santa Rosa,4 Jay,Registered Voters,"","","",1961
+Santa Rosa,40 Parkway,Registered Voters,"","","",2248
+Santa Rosa,41 Woodlawn,Registered Voters,"","","",3440
+Santa Rosa,5 McLellan,Registered Voters,"","","",137
+Santa Rosa,6 Red Rock,Registered Voters,"","","",139
+Santa Rosa,7 Munson,Registered Voters,"","","",311
+Santa Rosa,8 North Milton,Registered Voters,"","","",2019
+Santa Rosa,9 Ward Basin,Registered Voters,"","","",3571

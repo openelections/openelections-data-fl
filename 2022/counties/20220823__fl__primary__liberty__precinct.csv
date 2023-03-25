@@ -1,0 +1,281 @@
+county,precinct,office,district,party,candidate,votes
+Liberty,Rock Bluff,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Liberty,Annex,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Liberty,Bristol,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Liberty,Lake Mystic,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Liberty,Hosford,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Liberty,Telogia,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Liberty,Sumatra,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Liberty,Orange,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Liberty,Rock Bluff,U.S. Senate,"",DEM,Val Demings,43
+Liberty,Annex,U.S. Senate,"",DEM,Val Demings,18
+Liberty,Bristol,U.S. Senate,"",DEM,Val Demings,26
+Liberty,Lake Mystic,U.S. Senate,"",DEM,Val Demings,25
+Liberty,Hosford,U.S. Senate,"",DEM,Val Demings,25
+Liberty,Telogia,U.S. Senate,"",DEM,Val Demings,27
+Liberty,Sumatra,U.S. Senate,"",DEM,Val Demings,4
+Liberty,Orange,U.S. Senate,"",DEM,Val Demings,10
+Liberty,Rock Bluff,U.S. Senate,"",DEM,Brian Rush,18
+Liberty,Annex,U.S. Senate,"",DEM,Brian Rush,11
+Liberty,Bristol,U.S. Senate,"",DEM,Brian Rush,38
+Liberty,Lake Mystic,U.S. Senate,"",DEM,Brian Rush,40
+Liberty,Hosford,U.S. Senate,"",DEM,Brian Rush,34
+Liberty,Telogia,U.S. Senate,"",DEM,Brian Rush,45
+Liberty,Sumatra,U.S. Senate,"",DEM,Brian Rush,5
+Liberty,Orange,U.S. Senate,"",DEM,Brian Rush,11
+Liberty,Rock Bluff,U.S. Senate,"",DEM,William Sanchez,13
+Liberty,Annex,U.S. Senate,"",DEM,William Sanchez,5
+Liberty,Bristol,U.S. Senate,"",DEM,William Sanchez,39
+Liberty,Lake Mystic,U.S. Senate,"",DEM,William Sanchez,14
+Liberty,Hosford,U.S. Senate,"",DEM,William Sanchez,21
+Liberty,Telogia,U.S. Senate,"",DEM,William Sanchez,26
+Liberty,Sumatra,U.S. Senate,"",DEM,William Sanchez,10
+Liberty,Orange,U.S. Senate,"",DEM,William Sanchez,4
+Liberty,Rock Bluff,U.S. Senate,"",DEM,OverVotes,0
+Liberty,Annex,U.S. Senate,"",DEM,OverVotes,0
+Liberty,Bristol,U.S. Senate,"",DEM,OverVotes,0
+Liberty,Lake Mystic,U.S. Senate,"",DEM,OverVotes,0
+Liberty,Hosford,U.S. Senate,"",DEM,OverVotes,0
+Liberty,Telogia,U.S. Senate,"",DEM,OverVotes,0
+Liberty,Sumatra,U.S. Senate,"",DEM,OverVotes,1
+Liberty,Orange,U.S. Senate,"",DEM,OverVotes,0
+Liberty,Rock Bluff,U.S. Senate,"",DEM,UnderVotes,19
+Liberty,Annex,U.S. Senate,"",DEM,UnderVotes,3
+Liberty,Bristol,U.S. Senate,"",DEM,UnderVotes,29
+Liberty,Lake Mystic,U.S. Senate,"",DEM,UnderVotes,39
+Liberty,Hosford,U.S. Senate,"",DEM,UnderVotes,20
+Liberty,Telogia,U.S. Senate,"",DEM,UnderVotes,31
+Liberty,Sumatra,U.S. Senate,"",DEM,UnderVotes,9
+Liberty,Orange,U.S. Senate,"",DEM,UnderVotes,9
+Liberty,Rock Bluff,Governor,"",DEM,Charlie Crist,65
+Liberty,Annex,Governor,"",DEM,Charlie Crist,21
+Liberty,Bristol,Governor,"",DEM,Charlie Crist,46
+Liberty,Lake Mystic,Governor,"",DEM,Charlie Crist,54
+Liberty,Hosford,Governor,"",DEM,Charlie Crist,33
+Liberty,Telogia,Governor,"",DEM,Charlie Crist,43
+Liberty,Sumatra,Governor,"",DEM,Charlie Crist,15
+Liberty,Orange,Governor,"",DEM,Charlie Crist,16
+Liberty,Rock Bluff,Governor,"",DEM,Cadance Daniel,2
+Liberty,Annex,Governor,"",DEM,Cadance Daniel,5
+Liberty,Bristol,Governor,"",DEM,Cadance Daniel,9
+Liberty,Lake Mystic,Governor,"",DEM,Cadance Daniel,7
+Liberty,Hosford,Governor,"",DEM,Cadance Daniel,3
+Liberty,Telogia,Governor,"",DEM,Cadance Daniel,7
+Liberty,Sumatra,Governor,"",DEM,Cadance Daniel,0
+Liberty,Orange,Governor,"",DEM,Cadance Daniel,2
+Liberty,Rock Bluff,Governor,"",DEM,"Nicole ""Nikki"" Fried",21
+Liberty,Annex,Governor,"",DEM,"Nicole ""Nikki"" Fried",6
+Liberty,Bristol,Governor,"",DEM,"Nicole ""Nikki"" Fried",46
+Liberty,Lake Mystic,Governor,"",DEM,"Nicole ""Nikki"" Fried",22
+Liberty,Hosford,Governor,"",DEM,"Nicole ""Nikki"" Fried",38
+Liberty,Telogia,Governor,"",DEM,"Nicole ""Nikki"" Fried",36
+Liberty,Sumatra,Governor,"",DEM,"Nicole ""Nikki"" Fried",4
+Liberty,Orange,Governor,"",DEM,"Nicole ""Nikki"" Fried",9
+Liberty,Rock Bluff,Governor,"",DEM,Robert L. Willis,3
+Liberty,Annex,Governor,"",DEM,Robert L. Willis,3
+Liberty,Bristol,Governor,"",DEM,Robert L. Willis,20
+Liberty,Lake Mystic,Governor,"",DEM,Robert L. Willis,14
+Liberty,Hosford,Governor,"",DEM,Robert L. Willis,22
+Liberty,Telogia,Governor,"",DEM,Robert L. Willis,24
+Liberty,Sumatra,Governor,"",DEM,Robert L. Willis,4
+Liberty,Orange,Governor,"",DEM,Robert L. Willis,6
+Liberty,Rock Bluff,Governor,"",DEM,OverVotes,0
+Liberty,Annex,Governor,"",DEM,OverVotes,0
+Liberty,Bristol,Governor,"",DEM,OverVotes,1
+Liberty,Lake Mystic,Governor,"",DEM,OverVotes,0
+Liberty,Hosford,Governor,"",DEM,OverVotes,0
+Liberty,Telogia,Governor,"",DEM,OverVotes,0
+Liberty,Sumatra,Governor,"",DEM,OverVotes,1
+Liberty,Orange,Governor,"",DEM,OverVotes,0
+Liberty,Rock Bluff,Governor,"",DEM,UnderVotes,6
+Liberty,Annex,Governor,"",DEM,UnderVotes,3
+Liberty,Bristol,Governor,"",DEM,UnderVotes,17
+Liberty,Lake Mystic,Governor,"",DEM,UnderVotes,27
+Liberty,Hosford,Governor,"",DEM,UnderVotes,11
+Liberty,Telogia,Governor,"",DEM,UnderVotes,27
+Liberty,Sumatra,Governor,"",DEM,UnderVotes,10
+Liberty,Orange,Governor,"",DEM,UnderVotes,2
+Liberty,Rock Bluff,Attorney General,"",DEM,Aramis Ayala,29
+Liberty,Annex,Attorney General,"",DEM,Aramis Ayala,8
+Liberty,Bristol,Attorney General,"",DEM,Aramis Ayala,14
+Liberty,Lake Mystic,Attorney General,"",DEM,Aramis Ayala,12
+Liberty,Hosford,Attorney General,"",DEM,Aramis Ayala,13
+Liberty,Telogia,Attorney General,"",DEM,Aramis Ayala,8
+Liberty,Sumatra,Attorney General,"",DEM,Aramis Ayala,2
+Liberty,Orange,Attorney General,"",DEM,Aramis Ayala,5
+Liberty,Rock Bluff,Attorney General,"",DEM,Jim Lewis,37
+Liberty,Annex,Attorney General,"",DEM,Jim Lewis,20
+Liberty,Bristol,Attorney General,"",DEM,Jim Lewis,82
+Liberty,Lake Mystic,Attorney General,"",DEM,Jim Lewis,60
+Liberty,Hosford,Attorney General,"",DEM,Jim Lewis,58
+Liberty,Telogia,Attorney General,"",DEM,Jim Lewis,78
+Liberty,Sumatra,Attorney General,"",DEM,Jim Lewis,13
+Liberty,Orange,Attorney General,"",DEM,Jim Lewis,21
+Liberty,Rock Bluff,Attorney General,"",DEM,Daniel Uhlfelder,12
+Liberty,Annex,Attorney General,"",DEM,Daniel Uhlfelder,6
+Liberty,Bristol,Attorney General,"",DEM,Daniel Uhlfelder,19
+Liberty,Lake Mystic,Attorney General,"",DEM,Daniel Uhlfelder,15
+Liberty,Hosford,Attorney General,"",DEM,Daniel Uhlfelder,15
+Liberty,Telogia,Attorney General,"",DEM,Daniel Uhlfelder,21
+Liberty,Sumatra,Attorney General,"",DEM,Daniel Uhlfelder,6
+Liberty,Orange,Attorney General,"",DEM,Daniel Uhlfelder,3
+Liberty,Rock Bluff,Attorney General,"",DEM,OverVotes,0
+Liberty,Annex,Attorney General,"",DEM,OverVotes,0
+Liberty,Bristol,Attorney General,"",DEM,OverVotes,0
+Liberty,Lake Mystic,Attorney General,"",DEM,OverVotes,0
+Liberty,Hosford,Attorney General,"",DEM,OverVotes,0
+Liberty,Telogia,Attorney General,"",DEM,OverVotes,0
+Liberty,Sumatra,Attorney General,"",DEM,OverVotes,1
+Liberty,Orange,Attorney General,"",DEM,OverVotes,0
+Liberty,Rock Bluff,Attorney General,"",DEM,UnderVotes,19
+Liberty,Annex,Attorney General,"",DEM,UnderVotes,4
+Liberty,Bristol,Attorney General,"",DEM,UnderVotes,24
+Liberty,Lake Mystic,Attorney General,"",DEM,UnderVotes,37
+Liberty,Hosford,Attorney General,"",DEM,UnderVotes,21
+Liberty,Telogia,Attorney General,"",DEM,UnderVotes,30
+Liberty,Sumatra,Attorney General,"",DEM,UnderVotes,12
+Liberty,Orange,Attorney General,"",DEM,UnderVotes,6
+Liberty,Rock Bluff,Commissioner of Agriculture,"",REP,James W. Shaw,6
+Liberty,Annex,Commissioner of Agriculture,"",REP,James W. Shaw,8
+Liberty,Bristol,Commissioner of Agriculture,"",REP,James W. Shaw,70
+Liberty,Lake Mystic,Commissioner of Agriculture,"",REP,James W. Shaw,81
+Liberty,Hosford,Commissioner of Agriculture,"",REP,James W. Shaw,43
+Liberty,Telogia,Commissioner of Agriculture,"",REP,James W. Shaw,42
+Liberty,Sumatra,Commissioner of Agriculture,"",REP,James W. Shaw,4
+Liberty,Orange,Commissioner of Agriculture,"",REP,James W. Shaw,15
+Liberty,Rock Bluff,Commissioner of Agriculture,"",REP,Wilton Simpson,16
+Liberty,Annex,Commissioner of Agriculture,"",REP,Wilton Simpson,17
+Liberty,Bristol,Commissioner of Agriculture,"",REP,Wilton Simpson,125
+Liberty,Lake Mystic,Commissioner of Agriculture,"",REP,Wilton Simpson,137
+Liberty,Hosford,Commissioner of Agriculture,"",REP,Wilton Simpson,89
+Liberty,Telogia,Commissioner of Agriculture,"",REP,Wilton Simpson,52
+Liberty,Sumatra,Commissioner of Agriculture,"",REP,Wilton Simpson,10
+Liberty,Orange,Commissioner of Agriculture,"",REP,Wilton Simpson,13
+Liberty,Rock Bluff,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Annex,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Bristol,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Lake Mystic,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Hosford,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Telogia,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Sumatra,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Orange,Commissioner of Agriculture,"",REP,OverVotes,0
+Liberty,Rock Bluff,Commissioner of Agriculture,"",REP,UnderVotes,3
+Liberty,Annex,Commissioner of Agriculture,"",REP,UnderVotes,2
+Liberty,Bristol,Commissioner of Agriculture,"",REP,UnderVotes,3
+Liberty,Lake Mystic,Commissioner of Agriculture,"",REP,UnderVotes,14
+Liberty,Hosford,Commissioner of Agriculture,"",REP,UnderVotes,12
+Liberty,Telogia,Commissioner of Agriculture,"",REP,UnderVotes,4
+Liberty,Sumatra,Commissioner of Agriculture,"",REP,UnderVotes,1
+Liberty,Orange,Commissioner of Agriculture,"",REP,UnderVotes,1
+Liberty,Rock Bluff,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,36
+Liberty,Annex,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,16
+Liberty,Bristol,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,28
+Liberty,Lake Mystic,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,19
+Liberty,Hosford,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,18
+Liberty,Telogia,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,19
+Liberty,Sumatra,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,5
+Liberty,Orange,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,8
+Liberty,Rock Bluff,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Liberty,Annex,Commissioner of Agriculture,"",DEM,J. R. Gaillot,7
+Liberty,Bristol,Commissioner of Agriculture,"",DEM,J. R. Gaillot,28
+Liberty,Lake Mystic,Commissioner of Agriculture,"",DEM,J. R. Gaillot,31
+Liberty,Hosford,Commissioner of Agriculture,"",DEM,J. R. Gaillot,29
+Liberty,Telogia,Commissioner of Agriculture,"",DEM,J. R. Gaillot,40
+Liberty,Sumatra,Commissioner of Agriculture,"",DEM,J. R. Gaillot,5
+Liberty,Orange,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Liberty,Rock Bluff,Commissioner of Agriculture,"",DEM,Ryan Morales,20
+Liberty,Annex,Commissioner of Agriculture,"",DEM,Ryan Morales,11
+Liberty,Bristol,Commissioner of Agriculture,"",DEM,Ryan Morales,57
+Liberty,Lake Mystic,Commissioner of Agriculture,"",DEM,Ryan Morales,35
+Liberty,Hosford,Commissioner of Agriculture,"",DEM,Ryan Morales,39
+Liberty,Telogia,Commissioner of Agriculture,"",DEM,Ryan Morales,45
+Liberty,Sumatra,Commissioner of Agriculture,"",DEM,Ryan Morales,14
+Liberty,Orange,Commissioner of Agriculture,"",DEM,Ryan Morales,12
+Liberty,Rock Bluff,Commissioner of Agriculture,"",DEM,OverVotes,1
+Liberty,Annex,Commissioner of Agriculture,"",DEM,OverVotes,0
+Liberty,Bristol,Commissioner of Agriculture,"",DEM,OverVotes,0
+Liberty,Lake Mystic,Commissioner of Agriculture,"",DEM,OverVotes,0
+Liberty,Hosford,Commissioner of Agriculture,"",DEM,OverVotes,0
+Liberty,Telogia,Commissioner of Agriculture,"",DEM,OverVotes,0
+Liberty,Sumatra,Commissioner of Agriculture,"",DEM,OverVotes,1
+Liberty,Orange,Commissioner of Agriculture,"",DEM,OverVotes,0
+Liberty,Rock Bluff,Commissioner of Agriculture,"",DEM,UnderVotes,20
+Liberty,Annex,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Liberty,Bristol,Commissioner of Agriculture,"",DEM,UnderVotes,26
+Liberty,Lake Mystic,Commissioner of Agriculture,"",DEM,UnderVotes,39
+Liberty,Hosford,Commissioner of Agriculture,"",DEM,UnderVotes,21
+Liberty,Telogia,Commissioner of Agriculture,"",DEM,UnderVotes,33
+Liberty,Sumatra,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Liberty,Orange,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Liberty,Rock Bluff,School Board,3,NOP,"Darrel ""Doobie"" Hayes",80
+Liberty,Annex,School Board,3,NOP,"Darrel ""Doobie"" Hayes",45
+Liberty,Bristol,School Board,3,NOP,"Darrel ""Doobie"" Hayes",232
+Liberty,Lake Mystic,School Board,3,NOP,"Darrel ""Doobie"" Hayes",253
+Liberty,Hosford,School Board,3,NOP,"Darrel ""Doobie"" Hayes",192
+Liberty,Telogia,School Board,3,NOP,"Darrel ""Doobie"" Hayes",148
+Liberty,Sumatra,School Board,3,NOP,"Darrel ""Doobie"" Hayes",36
+Liberty,Orange,School Board,3,NOP,"Darrel ""Doobie"" Hayes",44
+Liberty,Rock Bluff,School Board,3,NOP,Cathia L Schmarje,42
+Liberty,Annex,School Board,3,NOP,Cathia L Schmarje,25
+Liberty,Bristol,School Board,3,NOP,Cathia L Schmarje,120
+Liberty,Lake Mystic,School Board,3,NOP,Cathia L Schmarje,111
+Liberty,Hosford,School Board,3,NOP,Cathia L Schmarje,65
+Liberty,Telogia,School Board,3,NOP,Cathia L Schmarje,94
+Liberty,Sumatra,School Board,3,NOP,Cathia L Schmarje,15
+Liberty,Orange,School Board,3,NOP,Cathia L Schmarje,22
+Liberty,Rock Bluff,School Board,3,NOP,OverVotes,0
+Liberty,Annex,School Board,3,NOP,OverVotes,0
+Liberty,Bristol,School Board,3,NOP,OverVotes,0
+Liberty,Lake Mystic,School Board,3,NOP,OverVotes,0
+Liberty,Hosford,School Board,3,NOP,OverVotes,0
+Liberty,Telogia,School Board,3,NOP,OverVotes,0
+Liberty,Sumatra,School Board,3,NOP,OverVotes,0
+Liberty,Orange,School Board,3,NOP,OverVotes,0
+Liberty,Rock Bluff,School Board,3,NOP,UnderVotes,5
+Liberty,Annex,School Board,3,NOP,UnderVotes,0
+Liberty,Bristol,School Board,3,NOP,UnderVotes,3
+Liberty,Lake Mystic,School Board,3,NOP,UnderVotes,1
+Liberty,Hosford,School Board,3,NOP,UnderVotes,2
+Liberty,Telogia,School Board,3,NOP,UnderVotes,1
+Liberty,Sumatra,School Board,3,NOP,UnderVotes,1
+Liberty,Orange,School Board,3,NOP,UnderVotes,0
+Liberty,Rock Bluff,School Board,4,NOP,Amy Combs,59
+Liberty,Annex,School Board,4,NOP,Amy Combs,17
+Liberty,Bristol,School Board,4,NOP,Amy Combs,114
+Liberty,Lake Mystic,School Board,4,NOP,Amy Combs,116
+Liberty,Hosford,School Board,4,NOP,Amy Combs,79
+Liberty,Telogia,School Board,4,NOP,Amy Combs,91
+Liberty,Sumatra,School Board,4,NOP,Amy Combs,19
+Liberty,Orange,School Board,4,NOP,Amy Combs,24
+Liberty,Rock Bluff,School Board,4,NOP,Jason Singletary,63
+Liberty,Annex,School Board,4,NOP,Jason Singletary,53
+Liberty,Bristol,School Board,4,NOP,Jason Singletary,231
+Liberty,Lake Mystic,School Board,4,NOP,Jason Singletary,247
+Liberty,Hosford,School Board,4,NOP,Jason Singletary,180
+Liberty,Telogia,School Board,4,NOP,Jason Singletary,151
+Liberty,Sumatra,School Board,4,NOP,Jason Singletary,32
+Liberty,Orange,School Board,4,NOP,Jason Singletary,40
+Liberty,Rock Bluff,School Board,4,NOP,OverVotes,0
+Liberty,Annex,School Board,4,NOP,OverVotes,0
+Liberty,Bristol,School Board,4,NOP,OverVotes,1
+Liberty,Lake Mystic,School Board,4,NOP,OverVotes,0
+Liberty,Hosford,School Board,4,NOP,OverVotes,0
+Liberty,Telogia,School Board,4,NOP,OverVotes,0
+Liberty,Sumatra,School Board,4,NOP,OverVotes,0
+Liberty,Orange,School Board,4,NOP,OverVotes,0
+Liberty,Rock Bluff,School Board,4,NOP,UnderVotes,5
+Liberty,Annex,School Board,4,NOP,UnderVotes,0
+Liberty,Bristol,School Board,4,NOP,UnderVotes,9
+Liberty,Lake Mystic,School Board,4,NOP,UnderVotes,2
+Liberty,Hosford,School Board,4,NOP,UnderVotes,0
+Liberty,Telogia,School Board,4,NOP,UnderVotes,1
+Liberty,Sumatra,School Board,4,NOP,UnderVotes,1
+Liberty,Orange,School Board,4,NOP,UnderVotes,2
+Liberty,Annex,Registered Voters,"","","",276
+Liberty,Bristol,Registered Voters,"","","",1062
+Liberty,Hosford,Registered Voters,"","","",626
+Liberty,Lake Mystic,Registered Voters,"","","",984
+Liberty,Orange,Registered Voters,"","","",268
+Liberty,Rock Bluff,Registered Voters,"","","",350
+Liberty,Sumatra,Registered Voters,"","","",175
+Liberty,Telogia,Registered Voters,"","","",667

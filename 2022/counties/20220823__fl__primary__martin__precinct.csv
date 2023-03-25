@@ -1,0 +1,1540 @@
+county,precinct,office,district,party,candidate,votes
+Martin,1,U.S. Senate,"",DEM,Ricardo De La Fuente,18
+Martin,2,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Martin,3,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Martin,4,U.S. Senate,"",DEM,Ricardo De La Fuente,14
+Martin,5,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Martin,6,U.S. Senate,"",DEM,Ricardo De La Fuente,10
+Martin,7,U.S. Senate,"",DEM,Ricardo De La Fuente,22
+Martin,8,U.S. Senate,"",DEM,Ricardo De La Fuente,12
+Martin,9,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Martin,10,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Martin,11,U.S. Senate,"",DEM,Ricardo De La Fuente,12
+Martin,12,U.S. Senate,"",DEM,Ricardo De La Fuente,12
+Martin,13,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Martin,14,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Martin,16,U.S. Senate,"",DEM,Ricardo De La Fuente,28
+Martin,17,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Martin,18,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Martin,19,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Martin,20,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Martin,21,U.S. Senate,"",DEM,Ricardo De La Fuente,10
+Martin,22,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Martin,23,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Martin,24,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Martin,25,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Martin,26,U.S. Senate,"",DEM,Ricardo De La Fuente,15
+Martin,27,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Martin,28,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Martin,1,U.S. Senate,"",DEM,Val Demings,521
+Martin,2,U.S. Senate,"",DEM,Val Demings,533
+Martin,3,U.S. Senate,"",DEM,Val Demings,85
+Martin,4,U.S. Senate,"",DEM,Val Demings,377
+Martin,5,U.S. Senate,"",DEM,Val Demings,163
+Martin,6,U.S. Senate,"",DEM,Val Demings,404
+Martin,7,U.S. Senate,"",DEM,Val Demings,627
+Martin,8,U.S. Senate,"",DEM,Val Demings,254
+Martin,9,U.S. Senate,"",DEM,Val Demings,203
+Martin,10,U.S. Senate,"",DEM,Val Demings,139
+Martin,11,U.S. Senate,"",DEM,Val Demings,176
+Martin,12,U.S. Senate,"",DEM,Val Demings,479
+Martin,13,U.S. Senate,"",DEM,Val Demings,470
+Martin,14,U.S. Senate,"",DEM,Val Demings,387
+Martin,16,U.S. Senate,"",DEM,Val Demings,158
+Martin,17,U.S. Senate,"",DEM,Val Demings,172
+Martin,18,U.S. Senate,"",DEM,Val Demings,396
+Martin,19,U.S. Senate,"",DEM,Val Demings,476
+Martin,20,U.S. Senate,"",DEM,Val Demings,184
+Martin,21,U.S. Senate,"",DEM,Val Demings,373
+Martin,22,U.S. Senate,"",DEM,Val Demings,516
+Martin,23,U.S. Senate,"",DEM,Val Demings,385
+Martin,24,U.S. Senate,"",DEM,Val Demings,292
+Martin,25,U.S. Senate,"",DEM,Val Demings,398
+Martin,26,U.S. Senate,"",DEM,Val Demings,465
+Martin,27,U.S. Senate,"",DEM,Val Demings,387
+Martin,28,U.S. Senate,"",DEM,Val Demings,14
+Martin,1,U.S. Senate,"",DEM,Brian Rush,36
+Martin,2,U.S. Senate,"",DEM,Brian Rush,59
+Martin,3,U.S. Senate,"",DEM,Brian Rush,21
+Martin,4,U.S. Senate,"",DEM,Brian Rush,20
+Martin,5,U.S. Senate,"",DEM,Brian Rush,11
+Martin,6,U.S. Senate,"",DEM,Brian Rush,33
+Martin,7,U.S. Senate,"",DEM,Brian Rush,41
+Martin,8,U.S. Senate,"",DEM,Brian Rush,19
+Martin,9,U.S. Senate,"",DEM,Brian Rush,9
+Martin,10,U.S. Senate,"",DEM,Brian Rush,4
+Martin,11,U.S. Senate,"",DEM,Brian Rush,18
+Martin,12,U.S. Senate,"",DEM,Brian Rush,50
+Martin,13,U.S. Senate,"",DEM,Brian Rush,31
+Martin,14,U.S. Senate,"",DEM,Brian Rush,25
+Martin,16,U.S. Senate,"",DEM,Brian Rush,26
+Martin,17,U.S. Senate,"",DEM,Brian Rush,15
+Martin,18,U.S. Senate,"",DEM,Brian Rush,36
+Martin,19,U.S. Senate,"",DEM,Brian Rush,32
+Martin,20,U.S. Senate,"",DEM,Brian Rush,9
+Martin,21,U.S. Senate,"",DEM,Brian Rush,21
+Martin,22,U.S. Senate,"",DEM,Brian Rush,37
+Martin,23,U.S. Senate,"",DEM,Brian Rush,39
+Martin,24,U.S. Senate,"",DEM,Brian Rush,19
+Martin,25,U.S. Senate,"",DEM,Brian Rush,24
+Martin,26,U.S. Senate,"",DEM,Brian Rush,29
+Martin,27,U.S. Senate,"",DEM,Brian Rush,16
+Martin,28,U.S. Senate,"",DEM,Brian Rush,1
+Martin,1,U.S. Senate,"",DEM,William Sanchez,22
+Martin,2,U.S. Senate,"",DEM,William Sanchez,26
+Martin,3,U.S. Senate,"",DEM,William Sanchez,19
+Martin,4,U.S. Senate,"",DEM,William Sanchez,18
+Martin,5,U.S. Senate,"",DEM,William Sanchez,8
+Martin,6,U.S. Senate,"",DEM,William Sanchez,26
+Martin,7,U.S. Senate,"",DEM,William Sanchez,36
+Martin,8,U.S. Senate,"",DEM,William Sanchez,22
+Martin,9,U.S. Senate,"",DEM,William Sanchez,9
+Martin,10,U.S. Senate,"",DEM,William Sanchez,9
+Martin,11,U.S. Senate,"",DEM,William Sanchez,14
+Martin,12,U.S. Senate,"",DEM,William Sanchez,24
+Martin,13,U.S. Senate,"",DEM,William Sanchez,29
+Martin,14,U.S. Senate,"",DEM,William Sanchez,25
+Martin,16,U.S. Senate,"",DEM,William Sanchez,22
+Martin,17,U.S. Senate,"",DEM,William Sanchez,9
+Martin,18,U.S. Senate,"",DEM,William Sanchez,25
+Martin,19,U.S. Senate,"",DEM,William Sanchez,26
+Martin,20,U.S. Senate,"",DEM,William Sanchez,5
+Martin,21,U.S. Senate,"",DEM,William Sanchez,21
+Martin,22,U.S. Senate,"",DEM,William Sanchez,33
+Martin,23,U.S. Senate,"",DEM,William Sanchez,16
+Martin,24,U.S. Senate,"",DEM,William Sanchez,15
+Martin,25,U.S. Senate,"",DEM,William Sanchez,28
+Martin,26,U.S. Senate,"",DEM,William Sanchez,23
+Martin,27,U.S. Senate,"",DEM,William Sanchez,11
+Martin,28,U.S. Senate,"",DEM,William Sanchez,0
+Martin,1,U.S. Senate,"",DEM,OverVotes,1
+Martin,2,U.S. Senate,"",DEM,OverVotes,3
+Martin,3,U.S. Senate,"",DEM,OverVotes,0
+Martin,4,U.S. Senate,"",DEM,OverVotes,1
+Martin,5,U.S. Senate,"",DEM,OverVotes,0
+Martin,6,U.S. Senate,"",DEM,OverVotes,3
+Martin,7,U.S. Senate,"",DEM,OverVotes,1
+Martin,8,U.S. Senate,"",DEM,OverVotes,2
+Martin,9,U.S. Senate,"",DEM,OverVotes,0
+Martin,10,U.S. Senate,"",DEM,OverVotes,0
+Martin,11,U.S. Senate,"",DEM,OverVotes,0
+Martin,12,U.S. Senate,"",DEM,OverVotes,0
+Martin,13,U.S. Senate,"",DEM,OverVotes,2
+Martin,14,U.S. Senate,"",DEM,OverVotes,1
+Martin,16,U.S. Senate,"",DEM,OverVotes,0
+Martin,17,U.S. Senate,"",DEM,OverVotes,0
+Martin,18,U.S. Senate,"",DEM,OverVotes,1
+Martin,19,U.S. Senate,"",DEM,OverVotes,0
+Martin,20,U.S. Senate,"",DEM,OverVotes,0
+Martin,21,U.S. Senate,"",DEM,OverVotes,0
+Martin,22,U.S. Senate,"",DEM,OverVotes,1
+Martin,23,U.S. Senate,"",DEM,OverVotes,2
+Martin,24,U.S. Senate,"",DEM,OverVotes,0
+Martin,25,U.S. Senate,"",DEM,OverVotes,1
+Martin,26,U.S. Senate,"",DEM,OverVotes,2
+Martin,27,U.S. Senate,"",DEM,OverVotes,0
+Martin,28,U.S. Senate,"",DEM,OverVotes,0
+Martin,1,U.S. Senate,"",DEM,UnderVotes,26
+Martin,2,U.S. Senate,"",DEM,UnderVotes,24
+Martin,3,U.S. Senate,"",DEM,UnderVotes,16
+Martin,4,U.S. Senate,"",DEM,UnderVotes,14
+Martin,5,U.S. Senate,"",DEM,UnderVotes,7
+Martin,6,U.S. Senate,"",DEM,UnderVotes,16
+Martin,7,U.S. Senate,"",DEM,UnderVotes,30
+Martin,8,U.S. Senate,"",DEM,UnderVotes,20
+Martin,9,U.S. Senate,"",DEM,UnderVotes,9
+Martin,10,U.S. Senate,"",DEM,UnderVotes,6
+Martin,11,U.S. Senate,"",DEM,UnderVotes,14
+Martin,12,U.S. Senate,"",DEM,UnderVotes,22
+Martin,13,U.S. Senate,"",DEM,UnderVotes,16
+Martin,14,U.S. Senate,"",DEM,UnderVotes,10
+Martin,16,U.S. Senate,"",DEM,UnderVotes,27
+Martin,17,U.S. Senate,"",DEM,UnderVotes,9
+Martin,18,U.S. Senate,"",DEM,UnderVotes,17
+Martin,19,U.S. Senate,"",DEM,UnderVotes,16
+Martin,20,U.S. Senate,"",DEM,UnderVotes,6
+Martin,21,U.S. Senate,"",DEM,UnderVotes,10
+Martin,22,U.S. Senate,"",DEM,UnderVotes,23
+Martin,23,U.S. Senate,"",DEM,UnderVotes,17
+Martin,24,U.S. Senate,"",DEM,UnderVotes,14
+Martin,25,U.S. Senate,"",DEM,UnderVotes,26
+Martin,26,U.S. Senate,"",DEM,UnderVotes,29
+Martin,27,U.S. Senate,"",DEM,UnderVotes,20
+Martin,28,U.S. Senate,"",DEM,UnderVotes,4
+Martin,1,U.S. House,21,REP,Jeff Buongiorno,162
+Martin,2,U.S. House,21,REP,Jeff Buongiorno,207
+Martin,3,U.S. House,21,REP,Jeff Buongiorno,4
+Martin,4,U.S. House,21,REP,Jeff Buongiorno,136
+Martin,5,U.S. House,21,REP,Jeff Buongiorno,28
+Martin,6,U.S. House,21,REP,Jeff Buongiorno,115
+Martin,7,U.S. House,21,REP,Jeff Buongiorno,129
+Martin,8,U.S. House,21,REP,Jeff Buongiorno,47
+Martin,9,U.S. House,21,REP,Jeff Buongiorno,52
+Martin,10,U.S. House,21,REP,Jeff Buongiorno,35
+Martin,11,U.S. House,21,REP,Jeff Buongiorno,82
+Martin,12,U.S. House,21,REP,Jeff Buongiorno,166
+Martin,13,U.S. House,21,REP,Jeff Buongiorno,142
+Martin,14,U.S. House,21,REP,Jeff Buongiorno,79
+Martin,16,U.S. House,21,REP,Jeff Buongiorno,92
+Martin,17,U.S. House,21,REP,Jeff Buongiorno,100
+Martin,18,U.S. House,21,REP,Jeff Buongiorno,142
+Martin,19,U.S. House,21,REP,Jeff Buongiorno,160
+Martin,20,U.S. House,21,REP,Jeff Buongiorno,72
+Martin,21,U.S. House,21,REP,Jeff Buongiorno,116
+Martin,22,U.S. House,21,REP,Jeff Buongiorno,161
+Martin,23,U.S. House,21,REP,Jeff Buongiorno,158
+Martin,24,U.S. House,21,REP,Jeff Buongiorno,120
+Martin,25,U.S. House,21,REP,Jeff Buongiorno,127
+Martin,26,U.S. House,21,REP,Jeff Buongiorno,152
+Martin,27,U.S. House,21,REP,Jeff Buongiorno,158
+Martin,28,U.S. House,21,REP,Jeff Buongiorno,6
+Martin,1,U.S. House,21,REP,Melissa Martz,100
+Martin,2,U.S. House,21,REP,Melissa Martz,120
+Martin,3,U.S. House,21,REP,Melissa Martz,3
+Martin,4,U.S. House,21,REP,Melissa Martz,60
+Martin,5,U.S. House,21,REP,Melissa Martz,14
+Martin,6,U.S. House,21,REP,Melissa Martz,53
+Martin,7,U.S. House,21,REP,Melissa Martz,96
+Martin,8,U.S. House,21,REP,Melissa Martz,32
+Martin,9,U.S. House,21,REP,Melissa Martz,30
+Martin,10,U.S. House,21,REP,Melissa Martz,47
+Martin,11,U.S. House,21,REP,Melissa Martz,57
+Martin,12,U.S. House,21,REP,Melissa Martz,87
+Martin,13,U.S. House,21,REP,Melissa Martz,122
+Martin,14,U.S. House,21,REP,Melissa Martz,49
+Martin,16,U.S. House,21,REP,Melissa Martz,78
+Martin,17,U.S. House,21,REP,Melissa Martz,108
+Martin,18,U.S. House,21,REP,Melissa Martz,101
+Martin,19,U.S. House,21,REP,Melissa Martz,80
+Martin,20,U.S. House,21,REP,Melissa Martz,49
+Martin,21,U.S. House,21,REP,Melissa Martz,87
+Martin,22,U.S. House,21,REP,Melissa Martz,113
+Martin,23,U.S. House,21,REP,Melissa Martz,122
+Martin,24,U.S. House,21,REP,Melissa Martz,74
+Martin,25,U.S. House,21,REP,Melissa Martz,104
+Martin,26,U.S. House,21,REP,Melissa Martz,90
+Martin,27,U.S. House,21,REP,Melissa Martz,94
+Martin,28,U.S. House,21,REP,Melissa Martz,6
+Martin,1,U.S. House,21,REP,Brian Mast,886
+Martin,2,U.S. House,21,REP,Brian Mast,1085
+Martin,3,U.S. House,21,REP,Brian Mast,5
+Martin,4,U.S. House,21,REP,Brian Mast,580
+Martin,5,U.S. House,21,REP,Brian Mast,287
+Martin,6,U.S. House,21,REP,Brian Mast,695
+Martin,7,U.S. House,21,REP,Brian Mast,939
+Martin,8,U.S. House,21,REP,Brian Mast,178
+Martin,9,U.S. House,21,REP,Brian Mast,418
+Martin,10,U.S. House,21,REP,Brian Mast,390
+Martin,11,U.S. House,21,REP,Brian Mast,355
+Martin,12,U.S. House,21,REP,Brian Mast,865
+Martin,13,U.S. House,21,REP,Brian Mast,1176
+Martin,14,U.S. House,21,REP,Brian Mast,485
+Martin,16,U.S. House,21,REP,Brian Mast,308
+Martin,17,U.S. House,21,REP,Brian Mast,621
+Martin,18,U.S. House,21,REP,Brian Mast,876
+Martin,19,U.S. House,21,REP,Brian Mast,823
+Martin,20,U.S. House,21,REP,Brian Mast,542
+Martin,21,U.S. House,21,REP,Brian Mast,768
+Martin,22,U.S. House,21,REP,Brian Mast,1066
+Martin,23,U.S. House,21,REP,Brian Mast,808
+Martin,24,U.S. House,21,REP,Brian Mast,813
+Martin,25,U.S. House,21,REP,Brian Mast,1097
+Martin,26,U.S. House,21,REP,Brian Mast,977
+Martin,27,U.S. House,21,REP,Brian Mast,965
+Martin,28,U.S. House,21,REP,Brian Mast,123
+Martin,1,U.S. House,21,REP,Ljubo Skrbic,15
+Martin,2,U.S. House,21,REP,Ljubo Skrbic,24
+Martin,3,U.S. House,21,REP,Ljubo Skrbic,0
+Martin,4,U.S. House,21,REP,Ljubo Skrbic,12
+Martin,5,U.S. House,21,REP,Ljubo Skrbic,5
+Martin,6,U.S. House,21,REP,Ljubo Skrbic,10
+Martin,7,U.S. House,21,REP,Ljubo Skrbic,17
+Martin,8,U.S. House,21,REP,Ljubo Skrbic,4
+Martin,9,U.S. House,21,REP,Ljubo Skrbic,8
+Martin,10,U.S. House,21,REP,Ljubo Skrbic,6
+Martin,11,U.S. House,21,REP,Ljubo Skrbic,0
+Martin,12,U.S. House,21,REP,Ljubo Skrbic,13
+Martin,13,U.S. House,21,REP,Ljubo Skrbic,15
+Martin,14,U.S. House,21,REP,Ljubo Skrbic,15
+Martin,16,U.S. House,21,REP,Ljubo Skrbic,3
+Martin,17,U.S. House,21,REP,Ljubo Skrbic,9
+Martin,18,U.S. House,21,REP,Ljubo Skrbic,20
+Martin,19,U.S. House,21,REP,Ljubo Skrbic,15
+Martin,20,U.S. House,21,REP,Ljubo Skrbic,11
+Martin,21,U.S. House,21,REP,Ljubo Skrbic,7
+Martin,22,U.S. House,21,REP,Ljubo Skrbic,23
+Martin,23,U.S. House,21,REP,Ljubo Skrbic,8
+Martin,24,U.S. House,21,REP,Ljubo Skrbic,20
+Martin,25,U.S. House,21,REP,Ljubo Skrbic,16
+Martin,26,U.S. House,21,REP,Ljubo Skrbic,26
+Martin,27,U.S. House,21,REP,Ljubo Skrbic,20
+Martin,28,U.S. House,21,REP,Ljubo Skrbic,4
+Martin,1,U.S. House,21,REP,OverVotes,1
+Martin,2,U.S. House,21,REP,OverVotes,8
+Martin,3,U.S. House,21,REP,OverVotes,0
+Martin,4,U.S. House,21,REP,OverVotes,6
+Martin,5,U.S. House,21,REP,OverVotes,6
+Martin,6,U.S. House,21,REP,OverVotes,7
+Martin,7,U.S. House,21,REP,OverVotes,1
+Martin,8,U.S. House,21,REP,OverVotes,4
+Martin,9,U.S. House,21,REP,OverVotes,2
+Martin,10,U.S. House,21,REP,OverVotes,3
+Martin,11,U.S. House,21,REP,OverVotes,2
+Martin,12,U.S. House,21,REP,OverVotes,6
+Martin,13,U.S. House,21,REP,OverVotes,5
+Martin,14,U.S. House,21,REP,OverVotes,5
+Martin,16,U.S. House,21,REP,OverVotes,3
+Martin,17,U.S. House,21,REP,OverVotes,0
+Martin,18,U.S. House,21,REP,OverVotes,5
+Martin,19,U.S. House,21,REP,OverVotes,1
+Martin,20,U.S. House,21,REP,OverVotes,3
+Martin,21,U.S. House,21,REP,OverVotes,8
+Martin,22,U.S. House,21,REP,OverVotes,3
+Martin,23,U.S. House,21,REP,OverVotes,9
+Martin,24,U.S. House,21,REP,OverVotes,7
+Martin,25,U.S. House,21,REP,OverVotes,6
+Martin,26,U.S. House,21,REP,OverVotes,6
+Martin,27,U.S. House,21,REP,OverVotes,4
+Martin,28,U.S. House,21,REP,OverVotes,0
+Martin,1,U.S. House,21,REP,UnderVotes,19
+Martin,2,U.S. House,21,REP,UnderVotes,19
+Martin,3,U.S. House,21,REP,UnderVotes,2
+Martin,4,U.S. House,21,REP,UnderVotes,11
+Martin,5,U.S. House,21,REP,UnderVotes,3
+Martin,6,U.S. House,21,REP,UnderVotes,17
+Martin,7,U.S. House,21,REP,UnderVotes,26
+Martin,8,U.S. House,21,REP,UnderVotes,0
+Martin,9,U.S. House,21,REP,UnderVotes,5
+Martin,10,U.S. House,21,REP,UnderVotes,7
+Martin,11,U.S. House,21,REP,UnderVotes,5
+Martin,12,U.S. House,21,REP,UnderVotes,13
+Martin,13,U.S. House,21,REP,UnderVotes,10
+Martin,14,U.S. House,21,REP,UnderVotes,8
+Martin,16,U.S. House,21,REP,UnderVotes,16
+Martin,17,U.S. House,21,REP,UnderVotes,3
+Martin,18,U.S. House,21,REP,UnderVotes,13
+Martin,19,U.S. House,21,REP,UnderVotes,12
+Martin,20,U.S. House,21,REP,UnderVotes,5
+Martin,21,U.S. House,21,REP,UnderVotes,10
+Martin,22,U.S. House,21,REP,UnderVotes,19
+Martin,23,U.S. House,21,REP,UnderVotes,17
+Martin,24,U.S. House,21,REP,UnderVotes,24
+Martin,25,U.S. House,21,REP,UnderVotes,23
+Martin,26,U.S. House,21,REP,UnderVotes,20
+Martin,27,U.S. House,21,REP,UnderVotes,22
+Martin,28,U.S. House,21,REP,UnderVotes,6
+Martin,1,Governor,"",DEM,Charlie Crist,360
+Martin,2,Governor,"",DEM,Charlie Crist,361
+Martin,3,Governor,"",DEM,Charlie Crist,95
+Martin,4,Governor,"",DEM,Charlie Crist,258
+Martin,5,Governor,"",DEM,Charlie Crist,132
+Martin,6,Governor,"",DEM,Charlie Crist,283
+Martin,7,Governor,"",DEM,Charlie Crist,448
+Martin,8,Governor,"",DEM,Charlie Crist,200
+Martin,9,Governor,"",DEM,Charlie Crist,146
+Martin,10,Governor,"",DEM,Charlie Crist,101
+Martin,11,Governor,"",DEM,Charlie Crist,136
+Martin,12,Governor,"",DEM,Charlie Crist,367
+Martin,13,Governor,"",DEM,Charlie Crist,328
+Martin,14,Governor,"",DEM,Charlie Crist,293
+Martin,16,Governor,"",DEM,Charlie Crist,132
+Martin,17,Governor,"",DEM,Charlie Crist,118
+Martin,18,Governor,"",DEM,Charlie Crist,270
+Martin,19,Governor,"",DEM,Charlie Crist,337
+Martin,20,Governor,"",DEM,Charlie Crist,121
+Martin,21,Governor,"",DEM,Charlie Crist,300
+Martin,22,Governor,"",DEM,Charlie Crist,395
+Martin,23,Governor,"",DEM,Charlie Crist,277
+Martin,24,Governor,"",DEM,Charlie Crist,202
+Martin,25,Governor,"",DEM,Charlie Crist,279
+Martin,26,Governor,"",DEM,Charlie Crist,307
+Martin,27,Governor,"",DEM,Charlie Crist,255
+Martin,28,Governor,"",DEM,Charlie Crist,10
+Martin,1,Governor,"",DEM,Cadance Daniel,11
+Martin,2,Governor,"",DEM,Cadance Daniel,14
+Martin,3,Governor,"",DEM,Cadance Daniel,4
+Martin,4,Governor,"",DEM,Cadance Daniel,8
+Martin,5,Governor,"",DEM,Cadance Daniel,0
+Martin,6,Governor,"",DEM,Cadance Daniel,12
+Martin,7,Governor,"",DEM,Cadance Daniel,15
+Martin,8,Governor,"",DEM,Cadance Daniel,11
+Martin,9,Governor,"",DEM,Cadance Daniel,3
+Martin,10,Governor,"",DEM,Cadance Daniel,3
+Martin,11,Governor,"",DEM,Cadance Daniel,4
+Martin,12,Governor,"",DEM,Cadance Daniel,15
+Martin,13,Governor,"",DEM,Cadance Daniel,18
+Martin,14,Governor,"",DEM,Cadance Daniel,6
+Martin,16,Governor,"",DEM,Cadance Daniel,7
+Martin,17,Governor,"",DEM,Cadance Daniel,3
+Martin,18,Governor,"",DEM,Cadance Daniel,8
+Martin,19,Governor,"",DEM,Cadance Daniel,12
+Martin,20,Governor,"",DEM,Cadance Daniel,2
+Martin,21,Governor,"",DEM,Cadance Daniel,8
+Martin,22,Governor,"",DEM,Cadance Daniel,6
+Martin,23,Governor,"",DEM,Cadance Daniel,8
+Martin,24,Governor,"",DEM,Cadance Daniel,6
+Martin,25,Governor,"",DEM,Cadance Daniel,4
+Martin,26,Governor,"",DEM,Cadance Daniel,10
+Martin,27,Governor,"",DEM,Cadance Daniel,7
+Martin,28,Governor,"",DEM,Cadance Daniel,0
+Martin,1,Governor,"",DEM,"Nicole ""Nikki"" Fried",233
+Martin,2,Governor,"",DEM,"Nicole ""Nikki"" Fried",249
+Martin,3,Governor,"",DEM,"Nicole ""Nikki"" Fried",25
+Martin,4,Governor,"",DEM,"Nicole ""Nikki"" Fried",166
+Martin,5,Governor,"",DEM,"Nicole ""Nikki"" Fried",56
+Martin,6,Governor,"",DEM,"Nicole ""Nikki"" Fried",179
+Martin,7,Governor,"",DEM,"Nicole ""Nikki"" Fried",258
+Martin,8,Governor,"",DEM,"Nicole ""Nikki"" Fried",104
+Martin,9,Governor,"",DEM,"Nicole ""Nikki"" Fried",75
+Martin,10,Governor,"",DEM,"Nicole ""Nikki"" Fried",54
+Martin,11,Governor,"",DEM,"Nicole ""Nikki"" Fried",86
+Martin,12,Governor,"",DEM,"Nicole ""Nikki"" Fried",187
+Martin,13,Governor,"",DEM,"Nicole ""Nikki"" Fried",198
+Martin,14,Governor,"",DEM,"Nicole ""Nikki"" Fried",146
+Martin,16,Governor,"",DEM,"Nicole ""Nikki"" Fried",80
+Martin,17,Governor,"",DEM,"Nicole ""Nikki"" Fried",79
+Martin,18,Governor,"",DEM,"Nicole ""Nikki"" Fried",190
+Martin,19,Governor,"",DEM,"Nicole ""Nikki"" Fried",193
+Martin,20,Governor,"",DEM,"Nicole ""Nikki"" Fried",82
+Martin,21,Governor,"",DEM,"Nicole ""Nikki"" Fried",124
+Martin,22,Governor,"",DEM,"Nicole ""Nikki"" Fried",209
+Martin,23,Governor,"",DEM,"Nicole ""Nikki"" Fried",172
+Martin,24,Governor,"",DEM,"Nicole ""Nikki"" Fried",133
+Martin,25,Governor,"",DEM,"Nicole ""Nikki"" Fried",178
+Martin,26,Governor,"",DEM,"Nicole ""Nikki"" Fried",228
+Martin,27,Governor,"",DEM,"Nicole ""Nikki"" Fried",161
+Martin,28,Governor,"",DEM,"Nicole ""Nikki"" Fried",6
+Martin,1,Governor,"",DEM,Robert L. Willis,8
+Martin,2,Governor,"",DEM,Robert L. Willis,14
+Martin,3,Governor,"",DEM,Robert L. Willis,12
+Martin,4,Governor,"",DEM,Robert L. Willis,6
+Martin,5,Governor,"",DEM,Robert L. Willis,2
+Martin,6,Governor,"",DEM,Robert L. Willis,9
+Martin,7,Governor,"",DEM,Robert L. Willis,12
+Martin,8,Governor,"",DEM,Robert L. Willis,9
+Martin,9,Governor,"",DEM,Robert L. Willis,4
+Martin,10,Governor,"",DEM,Robert L. Willis,0
+Martin,11,Governor,"",DEM,Robert L. Willis,4
+Martin,12,Governor,"",DEM,Robert L. Willis,7
+Martin,13,Governor,"",DEM,Robert L. Willis,6
+Martin,14,Governor,"",DEM,Robert L. Willis,8
+Martin,16,Governor,"",DEM,Robert L. Willis,18
+Martin,17,Governor,"",DEM,Robert L. Willis,2
+Martin,18,Governor,"",DEM,Robert L. Willis,10
+Martin,19,Governor,"",DEM,Robert L. Willis,8
+Martin,20,Governor,"",DEM,Robert L. Willis,1
+Martin,21,Governor,"",DEM,Robert L. Willis,2
+Martin,22,Governor,"",DEM,Robert L. Willis,8
+Martin,23,Governor,"",DEM,Robert L. Willis,6
+Martin,24,Governor,"",DEM,Robert L. Willis,1
+Martin,25,Governor,"",DEM,Robert L. Willis,8
+Martin,26,Governor,"",DEM,Robert L. Willis,3
+Martin,27,Governor,"",DEM,Robert L. Willis,5
+Martin,28,Governor,"",DEM,Robert L. Willis,0
+Martin,1,Governor,"",DEM,OverVotes,0
+Martin,2,Governor,"",DEM,OverVotes,0
+Martin,3,Governor,"",DEM,OverVotes,0
+Martin,4,Governor,"",DEM,OverVotes,0
+Martin,5,Governor,"",DEM,OverVotes,0
+Martin,6,Governor,"",DEM,OverVotes,2
+Martin,7,Governor,"",DEM,OverVotes,2
+Martin,8,Governor,"",DEM,OverVotes,0
+Martin,9,Governor,"",DEM,OverVotes,0
+Martin,10,Governor,"",DEM,OverVotes,0
+Martin,11,Governor,"",DEM,OverVotes,0
+Martin,12,Governor,"",DEM,OverVotes,0
+Martin,13,Governor,"",DEM,OverVotes,0
+Martin,14,Governor,"",DEM,OverVotes,0
+Martin,16,Governor,"",DEM,OverVotes,0
+Martin,17,Governor,"",DEM,OverVotes,1
+Martin,18,Governor,"",DEM,OverVotes,0
+Martin,19,Governor,"",DEM,OverVotes,1
+Martin,20,Governor,"",DEM,OverVotes,0
+Martin,21,Governor,"",DEM,OverVotes,0
+Martin,22,Governor,"",DEM,OverVotes,1
+Martin,23,Governor,"",DEM,OverVotes,1
+Martin,24,Governor,"",DEM,OverVotes,0
+Martin,25,Governor,"",DEM,OverVotes,1
+Martin,26,Governor,"",DEM,OverVotes,0
+Martin,27,Governor,"",DEM,OverVotes,1
+Martin,28,Governor,"",DEM,OverVotes,0
+Martin,1,Governor,"",DEM,UnderVotes,12
+Martin,2,Governor,"",DEM,UnderVotes,20
+Martin,3,Governor,"",DEM,UnderVotes,14
+Martin,4,Governor,"",DEM,UnderVotes,6
+Martin,5,Governor,"",DEM,UnderVotes,2
+Martin,6,Governor,"",DEM,UnderVotes,7
+Martin,7,Governor,"",DEM,UnderVotes,22
+Martin,8,Governor,"",DEM,UnderVotes,5
+Martin,9,Governor,"",DEM,UnderVotes,4
+Martin,10,Governor,"",DEM,UnderVotes,4
+Martin,11,Governor,"",DEM,UnderVotes,4
+Martin,12,Governor,"",DEM,UnderVotes,11
+Martin,13,Governor,"",DEM,UnderVotes,9
+Martin,14,Governor,"",DEM,UnderVotes,6
+Martin,16,Governor,"",DEM,UnderVotes,24
+Martin,17,Governor,"",DEM,UnderVotes,6
+Martin,18,Governor,"",DEM,UnderVotes,6
+Martin,19,Governor,"",DEM,UnderVotes,7
+Martin,20,Governor,"",DEM,UnderVotes,2
+Martin,21,Governor,"",DEM,UnderVotes,1
+Martin,22,Governor,"",DEM,UnderVotes,4
+Martin,23,Governor,"",DEM,UnderVotes,8
+Martin,24,Governor,"",DEM,UnderVotes,11
+Martin,25,Governor,"",DEM,UnderVotes,13
+Martin,26,Governor,"",DEM,UnderVotes,15
+Martin,27,Governor,"",DEM,UnderVotes,10
+Martin,28,Governor,"",DEM,UnderVotes,3
+Martin,1,Attorney General,"",DEM,Aramis Ayala,223
+Martin,2,Attorney General,"",DEM,Aramis Ayala,208
+Martin,3,Attorney General,"",DEM,Aramis Ayala,66
+Martin,4,Attorney General,"",DEM,Aramis Ayala,156
+Martin,5,Attorney General,"",DEM,Aramis Ayala,70
+Martin,6,Attorney General,"",DEM,Aramis Ayala,164
+Martin,7,Attorney General,"",DEM,Aramis Ayala,248
+Martin,8,Attorney General,"",DEM,Aramis Ayala,114
+Martin,9,Attorney General,"",DEM,Aramis Ayala,68
+Martin,10,Attorney General,"",DEM,Aramis Ayala,69
+Martin,11,Attorney General,"",DEM,Aramis Ayala,82
+Martin,12,Attorney General,"",DEM,Aramis Ayala,172
+Martin,13,Attorney General,"",DEM,Aramis Ayala,161
+Martin,14,Attorney General,"",DEM,Aramis Ayala,158
+Martin,16,Attorney General,"",DEM,Aramis Ayala,90
+Martin,17,Attorney General,"",DEM,Aramis Ayala,73
+Martin,18,Attorney General,"",DEM,Aramis Ayala,162
+Martin,19,Attorney General,"",DEM,Aramis Ayala,206
+Martin,20,Attorney General,"",DEM,Aramis Ayala,73
+Martin,21,Attorney General,"",DEM,Aramis Ayala,113
+Martin,22,Attorney General,"",DEM,Aramis Ayala,203
+Martin,23,Attorney General,"",DEM,Aramis Ayala,135
+Martin,24,Attorney General,"",DEM,Aramis Ayala,110
+Martin,25,Attorney General,"",DEM,Aramis Ayala,146
+Martin,26,Attorney General,"",DEM,Aramis Ayala,184
+Martin,27,Attorney General,"",DEM,Aramis Ayala,136
+Martin,28,Attorney General,"",DEM,Aramis Ayala,7
+Martin,1,Attorney General,"",DEM,Jim Lewis,144
+Martin,2,Attorney General,"",DEM,Jim Lewis,172
+Martin,3,Attorney General,"",DEM,Jim Lewis,43
+Martin,4,Attorney General,"",DEM,Jim Lewis,112
+Martin,5,Attorney General,"",DEM,Jim Lewis,48
+Martin,6,Attorney General,"",DEM,Jim Lewis,134
+Martin,7,Attorney General,"",DEM,Jim Lewis,183
+Martin,8,Attorney General,"",DEM,Jim Lewis,100
+Martin,9,Attorney General,"",DEM,Jim Lewis,47
+Martin,10,Attorney General,"",DEM,Jim Lewis,28
+Martin,11,Attorney General,"",DEM,Jim Lewis,75
+Martin,12,Attorney General,"",DEM,Jim Lewis,190
+Martin,13,Attorney General,"",DEM,Jim Lewis,138
+Martin,14,Attorney General,"",DEM,Jim Lewis,127
+Martin,16,Attorney General,"",DEM,Jim Lewis,78
+Martin,17,Attorney General,"",DEM,Jim Lewis,47
+Martin,18,Attorney General,"",DEM,Jim Lewis,133
+Martin,19,Attorney General,"",DEM,Jim Lewis,135
+Martin,20,Attorney General,"",DEM,Jim Lewis,38
+Martin,21,Attorney General,"",DEM,Jim Lewis,115
+Martin,22,Attorney General,"",DEM,Jim Lewis,192
+Martin,23,Attorney General,"",DEM,Jim Lewis,138
+Martin,24,Attorney General,"",DEM,Jim Lewis,91
+Martin,25,Attorney General,"",DEM,Jim Lewis,123
+Martin,26,Attorney General,"",DEM,Jim Lewis,125
+Martin,27,Attorney General,"",DEM,Jim Lewis,86
+Martin,28,Attorney General,"",DEM,Jim Lewis,1
+Martin,1,Attorney General,"",DEM,Daniel Uhlfelder,188
+Martin,2,Attorney General,"",DEM,Daniel Uhlfelder,196
+Martin,3,Attorney General,"",DEM,Daniel Uhlfelder,16
+Martin,4,Attorney General,"",DEM,Daniel Uhlfelder,125
+Martin,5,Attorney General,"",DEM,Daniel Uhlfelder,42
+Martin,6,Attorney General,"",DEM,Daniel Uhlfelder,131
+Martin,7,Attorney General,"",DEM,Daniel Uhlfelder,216
+Martin,8,Attorney General,"",DEM,Daniel Uhlfelder,65
+Martin,9,Attorney General,"",DEM,Daniel Uhlfelder,86
+Martin,10,Attorney General,"",DEM,Daniel Uhlfelder,41
+Martin,11,Attorney General,"",DEM,Daniel Uhlfelder,49
+Martin,12,Attorney General,"",DEM,Daniel Uhlfelder,163
+Martin,13,Attorney General,"",DEM,Daniel Uhlfelder,196
+Martin,14,Attorney General,"",DEM,Daniel Uhlfelder,118
+Martin,16,Attorney General,"",DEM,Daniel Uhlfelder,48
+Martin,17,Attorney General,"",DEM,Daniel Uhlfelder,49
+Martin,18,Attorney General,"",DEM,Daniel Uhlfelder,120
+Martin,19,Attorney General,"",DEM,Daniel Uhlfelder,153
+Martin,20,Attorney General,"",DEM,Daniel Uhlfelder,68
+Martin,21,Attorney General,"",DEM,Daniel Uhlfelder,151
+Martin,22,Attorney General,"",DEM,Daniel Uhlfelder,163
+Martin,23,Attorney General,"",DEM,Daniel Uhlfelder,141
+Martin,24,Attorney General,"",DEM,Daniel Uhlfelder,103
+Martin,25,Attorney General,"",DEM,Daniel Uhlfelder,150
+Martin,26,Attorney General,"",DEM,Daniel Uhlfelder,184
+Martin,27,Attorney General,"",DEM,Daniel Uhlfelder,138
+Martin,28,Attorney General,"",DEM,Daniel Uhlfelder,3
+Martin,1,Attorney General,"",DEM,OverVotes,1
+Martin,2,Attorney General,"",DEM,OverVotes,0
+Martin,3,Attorney General,"",DEM,OverVotes,0
+Martin,4,Attorney General,"",DEM,OverVotes,0
+Martin,5,Attorney General,"",DEM,OverVotes,0
+Martin,6,Attorney General,"",DEM,OverVotes,0
+Martin,7,Attorney General,"",DEM,OverVotes,0
+Martin,8,Attorney General,"",DEM,OverVotes,0
+Martin,9,Attorney General,"",DEM,OverVotes,0
+Martin,10,Attorney General,"",DEM,OverVotes,0
+Martin,11,Attorney General,"",DEM,OverVotes,0
+Martin,12,Attorney General,"",DEM,OverVotes,0
+Martin,13,Attorney General,"",DEM,OverVotes,0
+Martin,14,Attorney General,"",DEM,OverVotes,0
+Martin,16,Attorney General,"",DEM,OverVotes,0
+Martin,17,Attorney General,"",DEM,OverVotes,0
+Martin,18,Attorney General,"",DEM,OverVotes,0
+Martin,19,Attorney General,"",DEM,OverVotes,0
+Martin,20,Attorney General,"",DEM,OverVotes,0
+Martin,21,Attorney General,"",DEM,OverVotes,1
+Martin,22,Attorney General,"",DEM,OverVotes,0
+Martin,23,Attorney General,"",DEM,OverVotes,0
+Martin,24,Attorney General,"",DEM,OverVotes,0
+Martin,25,Attorney General,"",DEM,OverVotes,0
+Martin,26,Attorney General,"",DEM,OverVotes,0
+Martin,27,Attorney General,"",DEM,OverVotes,0
+Martin,28,Attorney General,"",DEM,OverVotes,0
+Martin,1,Attorney General,"",DEM,UnderVotes,68
+Martin,2,Attorney General,"",DEM,UnderVotes,82
+Martin,3,Attorney General,"",DEM,UnderVotes,25
+Martin,4,Attorney General,"",DEM,UnderVotes,51
+Martin,5,Attorney General,"",DEM,UnderVotes,32
+Martin,6,Attorney General,"",DEM,UnderVotes,63
+Martin,7,Attorney General,"",DEM,UnderVotes,110
+Martin,8,Attorney General,"",DEM,UnderVotes,50
+Martin,9,Attorney General,"",DEM,UnderVotes,31
+Martin,10,Attorney General,"",DEM,UnderVotes,24
+Martin,11,Attorney General,"",DEM,UnderVotes,28
+Martin,12,Attorney General,"",DEM,UnderVotes,62
+Martin,13,Attorney General,"",DEM,UnderVotes,64
+Martin,14,Attorney General,"",DEM,UnderVotes,56
+Martin,16,Attorney General,"",DEM,UnderVotes,45
+Martin,17,Attorney General,"",DEM,UnderVotes,40
+Martin,18,Attorney General,"",DEM,UnderVotes,69
+Martin,19,Attorney General,"",DEM,UnderVotes,64
+Martin,20,Attorney General,"",DEM,UnderVotes,29
+Martin,21,Attorney General,"",DEM,UnderVotes,55
+Martin,22,Attorney General,"",DEM,UnderVotes,65
+Martin,23,Attorney General,"",DEM,UnderVotes,58
+Martin,24,Attorney General,"",DEM,UnderVotes,49
+Martin,25,Attorney General,"",DEM,UnderVotes,64
+Martin,26,Attorney General,"",DEM,UnderVotes,70
+Martin,27,Attorney General,"",DEM,UnderVotes,79
+Martin,28,Attorney General,"",DEM,UnderVotes,8
+Martin,1,Commissioner of Agriculture,"",REP,James W. Shaw,419
+Martin,2,Commissioner of Agriculture,"",REP,James W. Shaw,513
+Martin,3,Commissioner of Agriculture,"",REP,James W. Shaw,5
+Martin,4,Commissioner of Agriculture,"",REP,James W. Shaw,306
+Martin,5,Commissioner of Agriculture,"",REP,James W. Shaw,125
+Martin,6,Commissioner of Agriculture,"",REP,James W. Shaw,304
+Martin,7,Commissioner of Agriculture,"",REP,James W. Shaw,418
+Martin,8,Commissioner of Agriculture,"",REP,James W. Shaw,102
+Martin,9,Commissioner of Agriculture,"",REP,James W. Shaw,159
+Martin,10,Commissioner of Agriculture,"",REP,James W. Shaw,162
+Martin,11,Commissioner of Agriculture,"",REP,James W. Shaw,185
+Martin,12,Commissioner of Agriculture,"",REP,James W. Shaw,367
+Martin,13,Commissioner of Agriculture,"",REP,James W. Shaw,473
+Martin,14,Commissioner of Agriculture,"",REP,James W. Shaw,239
+Martin,16,Commissioner of Agriculture,"",REP,James W. Shaw,143
+Martin,17,Commissioner of Agriculture,"",REP,James W. Shaw,259
+Martin,18,Commissioner of Agriculture,"",REP,James W. Shaw,388
+Martin,19,Commissioner of Agriculture,"",REP,James W. Shaw,341
+Martin,20,Commissioner of Agriculture,"",REP,James W. Shaw,181
+Martin,21,Commissioner of Agriculture,"",REP,James W. Shaw,297
+Martin,22,Commissioner of Agriculture,"",REP,James W. Shaw,465
+Martin,23,Commissioner of Agriculture,"",REP,James W. Shaw,324
+Martin,24,Commissioner of Agriculture,"",REP,James W. Shaw,332
+Martin,25,Commissioner of Agriculture,"",REP,James W. Shaw,531
+Martin,26,Commissioner of Agriculture,"",REP,James W. Shaw,414
+Martin,27,Commissioner of Agriculture,"",REP,James W. Shaw,424
+Martin,28,Commissioner of Agriculture,"",REP,James W. Shaw,35
+Martin,1,Commissioner of Agriculture,"",REP,Wilton Simpson,650
+Martin,2,Commissioner of Agriculture,"",REP,Wilton Simpson,830
+Martin,3,Commissioner of Agriculture,"",REP,Wilton Simpson,7
+Martin,4,Commissioner of Agriculture,"",REP,Wilton Simpson,432
+Martin,5,Commissioner of Agriculture,"",REP,Wilton Simpson,174
+Martin,6,Commissioner of Agriculture,"",REP,Wilton Simpson,497
+Martin,7,Commissioner of Agriculture,"",REP,Wilton Simpson,667
+Martin,8,Commissioner of Agriculture,"",REP,Wilton Simpson,152
+Martin,9,Commissioner of Agriculture,"",REP,Wilton Simpson,270
+Martin,10,Commissioner of Agriculture,"",REP,Wilton Simpson,263
+Martin,11,Commissioner of Agriculture,"",REP,Wilton Simpson,283
+Martin,12,Commissioner of Agriculture,"",REP,Wilton Simpson,667
+Martin,13,Commissioner of Agriculture,"",REP,Wilton Simpson,872
+Martin,14,Commissioner of Agriculture,"",REP,Wilton Simpson,342
+Martin,16,Commissioner of Agriculture,"",REP,Wilton Simpson,325
+Martin,17,Commissioner of Agriculture,"",REP,Wilton Simpson,535
+Martin,18,Commissioner of Agriculture,"",REP,Wilton Simpson,670
+Martin,19,Commissioner of Agriculture,"",REP,Wilton Simpson,663
+Martin,20,Commissioner of Agriculture,"",REP,Wilton Simpson,463
+Martin,21,Commissioner of Agriculture,"",REP,Wilton Simpson,605
+Martin,22,Commissioner of Agriculture,"",REP,Wilton Simpson,807
+Martin,23,Commissioner of Agriculture,"",REP,Wilton Simpson,703
+Martin,24,Commissioner of Agriculture,"",REP,Wilton Simpson,624
+Martin,25,Commissioner of Agriculture,"",REP,Wilton Simpson,725
+Martin,26,Commissioner of Agriculture,"",REP,Wilton Simpson,717
+Martin,27,Commissioner of Agriculture,"",REP,Wilton Simpson,692
+Martin,28,Commissioner of Agriculture,"",REP,Wilton Simpson,66
+Martin,1,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,2,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,3,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,4,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,5,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,6,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,7,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,8,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,9,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,10,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,11,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,12,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,13,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,14,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,16,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,17,Commissioner of Agriculture,"",REP,OverVotes,1
+Martin,18,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,19,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,20,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,21,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,22,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,23,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,24,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,25,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,26,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,27,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,28,Commissioner of Agriculture,"",REP,OverVotes,0
+Martin,1,Commissioner of Agriculture,"",REP,UnderVotes,114
+Martin,2,Commissioner of Agriculture,"",REP,UnderVotes,120
+Martin,3,Commissioner of Agriculture,"",REP,UnderVotes,2
+Martin,4,Commissioner of Agriculture,"",REP,UnderVotes,67
+Martin,5,Commissioner of Agriculture,"",REP,UnderVotes,44
+Martin,6,Commissioner of Agriculture,"",REP,UnderVotes,96
+Martin,7,Commissioner of Agriculture,"",REP,UnderVotes,123
+Martin,8,Commissioner of Agriculture,"",REP,UnderVotes,11
+Martin,9,Commissioner of Agriculture,"",REP,UnderVotes,86
+Martin,10,Commissioner of Agriculture,"",REP,UnderVotes,63
+Martin,11,Commissioner of Agriculture,"",REP,UnderVotes,33
+Martin,12,Commissioner of Agriculture,"",REP,UnderVotes,116
+Martin,13,Commissioner of Agriculture,"",REP,UnderVotes,125
+Martin,14,Commissioner of Agriculture,"",REP,UnderVotes,60
+Martin,16,Commissioner of Agriculture,"",REP,UnderVotes,32
+Martin,17,Commissioner of Agriculture,"",REP,UnderVotes,46
+Martin,18,Commissioner of Agriculture,"",REP,UnderVotes,99
+Martin,19,Commissioner of Agriculture,"",REP,UnderVotes,87
+Martin,20,Commissioner of Agriculture,"",REP,UnderVotes,38
+Martin,21,Commissioner of Agriculture,"",REP,UnderVotes,94
+Martin,22,Commissioner of Agriculture,"",REP,UnderVotes,113
+Martin,23,Commissioner of Agriculture,"",REP,UnderVotes,95
+Martin,24,Commissioner of Agriculture,"",REP,UnderVotes,102
+Martin,25,Commissioner of Agriculture,"",REP,UnderVotes,117
+Martin,26,Commissioner of Agriculture,"",REP,UnderVotes,140
+Martin,27,Commissioner of Agriculture,"",REP,UnderVotes,147
+Martin,28,Commissioner of Agriculture,"",REP,UnderVotes,44
+Martin,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,267
+Martin,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,253
+Martin,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,67
+Martin,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,176
+Martin,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,71
+Martin,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,216
+Martin,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,296
+Martin,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,154
+Martin,9,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,84
+Martin,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,53
+Martin,11,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,109
+Martin,12,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,240
+Martin,13,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,222
+Martin,14,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,198
+Martin,16,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,95
+Martin,17,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,77
+Martin,18,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,209
+Martin,19,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,234
+Martin,20,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
+Martin,21,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,146
+Martin,22,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,275
+Martin,23,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,173
+Martin,24,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,131
+Martin,25,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,193
+Martin,26,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,218
+Martin,27,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,169
+Martin,28,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,3
+Martin,1,Commissioner of Agriculture,"",DEM,J. R. Gaillot,101
+Martin,2,Commissioner of Agriculture,"",DEM,J. R. Gaillot,126
+Martin,3,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Martin,4,Commissioner of Agriculture,"",DEM,J. R. Gaillot,76
+Martin,5,Commissioner of Agriculture,"",DEM,J. R. Gaillot,35
+Martin,6,Commissioner of Agriculture,"",DEM,J. R. Gaillot,92
+Martin,7,Commissioner of Agriculture,"",DEM,J. R. Gaillot,125
+Martin,8,Commissioner of Agriculture,"",DEM,J. R. Gaillot,59
+Martin,9,Commissioner of Agriculture,"",DEM,J. R. Gaillot,40
+Martin,10,Commissioner of Agriculture,"",DEM,J. R. Gaillot,26
+Martin,11,Commissioner of Agriculture,"",DEM,J. R. Gaillot,26
+Martin,12,Commissioner of Agriculture,"",DEM,J. R. Gaillot,99
+Martin,13,Commissioner of Agriculture,"",DEM,J. R. Gaillot,111
+Martin,14,Commissioner of Agriculture,"",DEM,J. R. Gaillot,71
+Martin,16,Commissioner of Agriculture,"",DEM,J. R. Gaillot,32
+Martin,17,Commissioner of Agriculture,"",DEM,J. R. Gaillot,38
+Martin,18,Commissioner of Agriculture,"",DEM,J. R. Gaillot,70
+Martin,19,Commissioner of Agriculture,"",DEM,J. R. Gaillot,115
+Martin,20,Commissioner of Agriculture,"",DEM,J. R. Gaillot,37
+Martin,21,Commissioner of Agriculture,"",DEM,J. R. Gaillot,104
+Martin,22,Commissioner of Agriculture,"",DEM,J. R. Gaillot,119
+Martin,23,Commissioner of Agriculture,"",DEM,J. R. Gaillot,99
+Martin,24,Commissioner of Agriculture,"",DEM,J. R. Gaillot,81
+Martin,25,Commissioner of Agriculture,"",DEM,J. R. Gaillot,100
+Martin,26,Commissioner of Agriculture,"",DEM,J. R. Gaillot,90
+Martin,27,Commissioner of Agriculture,"",DEM,J. R. Gaillot,64
+Martin,28,Commissioner of Agriculture,"",DEM,J. R. Gaillot,2
+Martin,1,Commissioner of Agriculture,"",DEM,Ryan Morales,172
+Martin,2,Commissioner of Agriculture,"",DEM,Ryan Morales,188
+Martin,3,Commissioner of Agriculture,"",DEM,Ryan Morales,33
+Martin,4,Commissioner of Agriculture,"",DEM,Ryan Morales,134
+Martin,5,Commissioner of Agriculture,"",DEM,Ryan Morales,56
+Martin,6,Commissioner of Agriculture,"",DEM,Ryan Morales,114
+Martin,7,Commissioner of Agriculture,"",DEM,Ryan Morales,213
+Martin,8,Commissioner of Agriculture,"",DEM,Ryan Morales,66
+Martin,9,Commissioner of Agriculture,"",DEM,Ryan Morales,71
+Martin,10,Commissioner of Agriculture,"",DEM,Ryan Morales,55
+Martin,11,Commissioner of Agriculture,"",DEM,Ryan Morales,71
+Martin,12,Commissioner of Agriculture,"",DEM,Ryan Morales,175
+Martin,13,Commissioner of Agriculture,"",DEM,Ryan Morales,142
+Martin,14,Commissioner of Agriculture,"",DEM,Ryan Morales,132
+Martin,16,Commissioner of Agriculture,"",DEM,Ryan Morales,90
+Martin,17,Commissioner of Agriculture,"",DEM,Ryan Morales,56
+Martin,18,Commissioner of Agriculture,"",DEM,Ryan Morales,128
+Martin,19,Commissioner of Agriculture,"",DEM,Ryan Morales,148
+Martin,20,Commissioner of Agriculture,"",DEM,Ryan Morales,58
+Martin,21,Commissioner of Agriculture,"",DEM,Ryan Morales,118
+Martin,22,Commissioner of Agriculture,"",DEM,Ryan Morales,150
+Martin,23,Commissioner of Agriculture,"",DEM,Ryan Morales,132
+Martin,24,Commissioner of Agriculture,"",DEM,Ryan Morales,86
+Martin,25,Commissioner of Agriculture,"",DEM,Ryan Morales,119
+Martin,26,Commissioner of Agriculture,"",DEM,Ryan Morales,164
+Martin,27,Commissioner of Agriculture,"",DEM,Ryan Morales,116
+Martin,28,Commissioner of Agriculture,"",DEM,Ryan Morales,1
+Martin,1,Commissioner of Agriculture,"",DEM,OverVotes,1
+Martin,2,Commissioner of Agriculture,"",DEM,OverVotes,2
+Martin,3,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,4,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,5,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,6,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,7,Commissioner of Agriculture,"",DEM,OverVotes,1
+Martin,8,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,9,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,10,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,11,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,12,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,13,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,14,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,16,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,17,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,18,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,19,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,20,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,21,Commissioner of Agriculture,"",DEM,OverVotes,2
+Martin,22,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,23,Commissioner of Agriculture,"",DEM,OverVotes,1
+Martin,24,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,25,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,26,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,27,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,28,Commissioner of Agriculture,"",DEM,OverVotes,0
+Martin,1,Commissioner of Agriculture,"",DEM,UnderVotes,83
+Martin,2,Commissioner of Agriculture,"",DEM,UnderVotes,89
+Martin,3,Commissioner of Agriculture,"",DEM,UnderVotes,30
+Martin,4,Commissioner of Agriculture,"",DEM,UnderVotes,58
+Martin,5,Commissioner of Agriculture,"",DEM,UnderVotes,30
+Martin,6,Commissioner of Agriculture,"",DEM,UnderVotes,70
+Martin,7,Commissioner of Agriculture,"",DEM,UnderVotes,122
+Martin,8,Commissioner of Agriculture,"",DEM,UnderVotes,50
+Martin,9,Commissioner of Agriculture,"",DEM,UnderVotes,37
+Martin,10,Commissioner of Agriculture,"",DEM,UnderVotes,28
+Martin,11,Commissioner of Agriculture,"",DEM,UnderVotes,28
+Martin,12,Commissioner of Agriculture,"",DEM,UnderVotes,73
+Martin,13,Commissioner of Agriculture,"",DEM,UnderVotes,84
+Martin,14,Commissioner of Agriculture,"",DEM,UnderVotes,58
+Martin,16,Commissioner of Agriculture,"",DEM,UnderVotes,44
+Martin,17,Commissioner of Agriculture,"",DEM,UnderVotes,38
+Martin,18,Commissioner of Agriculture,"",DEM,UnderVotes,77
+Martin,19,Commissioner of Agriculture,"",DEM,UnderVotes,61
+Martin,20,Commissioner of Agriculture,"",DEM,UnderVotes,31
+Martin,21,Commissioner of Agriculture,"",DEM,UnderVotes,65
+Martin,22,Commissioner of Agriculture,"",DEM,UnderVotes,79
+Martin,23,Commissioner of Agriculture,"",DEM,UnderVotes,67
+Martin,24,Commissioner of Agriculture,"",DEM,UnderVotes,55
+Martin,25,Commissioner of Agriculture,"",DEM,UnderVotes,71
+Martin,26,Commissioner of Agriculture,"",DEM,UnderVotes,91
+Martin,27,Commissioner of Agriculture,"",DEM,UnderVotes,90
+Martin,28,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Martin,1,County Commissioner,2,REP,Stacey Whitaker Hetherington,1200
+Martin,2,County Commissioner,2,REP,Stacey Whitaker Hetherington,1345
+Martin,3,County Commissioner,2,REP,Stacey Whitaker Hetherington,107
+Martin,4,County Commissioner,2,REP,Stacey Whitaker Hetherington,769
+Martin,5,County Commissioner,2,REP,Stacey Whitaker Hetherington,350
+Martin,6,County Commissioner,2,REP,Stacey Whitaker Hetherington,934
+Martin,7,County Commissioner,2,REP,Stacey Whitaker Hetherington,1233
+Martin,8,County Commissioner,2,REP,Stacey Whitaker Hetherington,312
+Martin,9,County Commissioner,2,REP,Stacey Whitaker Hetherington,504
+Martin,10,County Commissioner,2,REP,Stacey Whitaker Hetherington,419
+Martin,11,County Commissioner,2,REP,Stacey Whitaker Hetherington,502
+Martin,12,County Commissioner,2,REP,Stacey Whitaker Hetherington,1153
+Martin,13,County Commissioner,2,REP,Stacey Whitaker Hetherington,1345
+Martin,14,County Commissioner,2,REP,Stacey Whitaker Hetherington,723
+Martin,16,County Commissioner,2,REP,Stacey Whitaker Hetherington,600
+Martin,17,County Commissioner,2,REP,Stacey Whitaker Hetherington,719
+Martin,18,County Commissioner,2,REP,Stacey Whitaker Hetherington,1082
+Martin,19,County Commissioner,2,REP,Stacey Whitaker Hetherington,1061
+Martin,20,County Commissioner,2,REP,Stacey Whitaker Hetherington,587
+Martin,21,County Commissioner,2,REP,Stacey Whitaker Hetherington,881
+Martin,22,County Commissioner,2,REP,Stacey Whitaker Hetherington,1366
+Martin,23,County Commissioner,2,REP,Stacey Whitaker Hetherington,1003
+Martin,24,County Commissioner,2,REP,Stacey Whitaker Hetherington,977
+Martin,25,County Commissioner,2,REP,Stacey Whitaker Hetherington,1236
+Martin,26,County Commissioner,2,REP,Stacey Whitaker Hetherington,1267
+Martin,27,County Commissioner,2,REP,Stacey Whitaker Hetherington,1201
+Martin,28,County Commissioner,2,REP,Stacey Whitaker Hetherington,58
+Martin,1,County Commissioner,2,REP,T.J. McGowan,648
+Martin,2,County Commissioner,2,REP,T.J. McGowan,839
+Martin,3,County Commissioner,2,REP,T.J. McGowan,31
+Martin,4,County Commissioner,2,REP,T.J. McGowan,532
+Martin,5,County Commissioner,2,REP,T.J. McGowan,191
+Martin,6,County Commissioner,2,REP,T.J. McGowan,452
+Martin,7,County Commissioner,2,REP,T.J. McGowan,801
+Martin,8,County Commissioner,2,REP,T.J. McGowan,257
+Martin,9,County Commissioner,2,REP,T.J. McGowan,231
+Martin,10,County Commissioner,2,REP,T.J. McGowan,255
+Martin,11,County Commissioner,2,REP,T.J. McGowan,249
+Martin,12,County Commissioner,2,REP,T.J. McGowan,603
+Martin,13,County Commissioner,2,REP,T.J. McGowan,753
+Martin,14,County Commissioner,2,REP,T.J. McGowan,360
+Martin,16,County Commissioner,2,REP,T.J. McGowan,206
+Martin,17,County Commissioner,2,REP,T.J. McGowan,391
+Martin,18,County Commissioner,2,REP,T.J. McGowan,638
+Martin,19,County Commissioner,2,REP,T.J. McGowan,614
+Martin,20,County Commissioner,2,REP,T.J. McGowan,325
+Martin,21,County Commissioner,2,REP,T.J. McGowan,447
+Martin,22,County Commissioner,2,REP,T.J. McGowan,682
+Martin,23,County Commissioner,2,REP,T.J. McGowan,638
+Martin,24,County Commissioner,2,REP,T.J. McGowan,446
+Martin,25,County Commissioner,2,REP,T.J. McGowan,645
+Martin,26,County Commissioner,2,REP,T.J. McGowan,586
+Martin,27,County Commissioner,2,REP,T.J. McGowan,574
+Martin,28,County Commissioner,2,REP,T.J. McGowan,102
+Martin,1,County Commissioner,2,REP,OverVotes,1
+Martin,2,County Commissioner,2,REP,OverVotes,1
+Martin,3,County Commissioner,2,REP,OverVotes,0
+Martin,4,County Commissioner,2,REP,OverVotes,0
+Martin,5,County Commissioner,2,REP,OverVotes,0
+Martin,6,County Commissioner,2,REP,OverVotes,0
+Martin,7,County Commissioner,2,REP,OverVotes,1
+Martin,8,County Commissioner,2,REP,OverVotes,0
+Martin,9,County Commissioner,2,REP,OverVotes,0
+Martin,10,County Commissioner,2,REP,OverVotes,0
+Martin,11,County Commissioner,2,REP,OverVotes,0
+Martin,12,County Commissioner,2,REP,OverVotes,0
+Martin,13,County Commissioner,2,REP,OverVotes,0
+Martin,14,County Commissioner,2,REP,OverVotes,0
+Martin,16,County Commissioner,2,REP,OverVotes,0
+Martin,17,County Commissioner,2,REP,OverVotes,1
+Martin,18,County Commissioner,2,REP,OverVotes,0
+Martin,19,County Commissioner,2,REP,OverVotes,0
+Martin,20,County Commissioner,2,REP,OverVotes,0
+Martin,21,County Commissioner,2,REP,OverVotes,1
+Martin,22,County Commissioner,2,REP,OverVotes,0
+Martin,23,County Commissioner,2,REP,OverVotes,0
+Martin,24,County Commissioner,2,REP,OverVotes,0
+Martin,25,County Commissioner,2,REP,OverVotes,1
+Martin,26,County Commissioner,2,REP,OverVotes,0
+Martin,27,County Commissioner,2,REP,OverVotes,0
+Martin,28,County Commissioner,2,REP,OverVotes,0
+Martin,1,County Commissioner,2,REP,UnderVotes,173
+Martin,2,County Commissioner,2,REP,UnderVotes,210
+Martin,3,County Commissioner,2,REP,UnderVotes,56
+Martin,4,County Commissioner,2,REP,UnderVotes,126
+Martin,5,County Commissioner,2,REP,UnderVotes,65
+Martin,6,County Commissioner,2,REP,UnderVotes,169
+Martin,7,County Commissioner,2,REP,UnderVotes,197
+Martin,8,County Commissioner,2,REP,UnderVotes,87
+Martin,9,County Commissioner,2,REP,UnderVotes,107
+Martin,10,County Commissioner,2,REP,UnderVotes,67
+Martin,11,County Commissioner,2,REP,UnderVotes,69
+Martin,12,County Commissioner,2,REP,UnderVotes,191
+Martin,13,County Commissioner,2,REP,UnderVotes,175
+Martin,14,County Commissioner,2,REP,UnderVotes,164
+Martin,16,County Commissioner,2,REP,UnderVotes,102
+Martin,17,County Commissioner,2,REP,UnderVotes,76
+Martin,18,County Commissioner,2,REP,UnderVotes,139
+Martin,19,County Commissioner,2,REP,UnderVotes,188
+Martin,20,County Commissioner,2,REP,UnderVotes,79
+Martin,21,County Commissioner,2,REP,UnderVotes,265
+Martin,22,County Commissioner,2,REP,UnderVotes,227
+Martin,23,County Commissioner,2,REP,UnderVotes,173
+Martin,24,County Commissioner,2,REP,UnderVotes,142
+Martin,25,County Commissioner,2,REP,UnderVotes,178
+Martin,26,County Commissioner,2,REP,UnderVotes,221
+Martin,27,County Commissioner,2,REP,UnderVotes,161
+Martin,28,County Commissioner,2,REP,UnderVotes,23
+Martin,1,County Commissioner,4,REP,Sarah Heard,1008
+Martin,2,County Commissioner,4,REP,Sarah Heard,1155
+Martin,3,County Commissioner,4,REP,Sarah Heard,102
+Martin,4,County Commissioner,4,REP,Sarah Heard,743
+Martin,5,County Commissioner,4,REP,Sarah Heard,306
+Martin,6,County Commissioner,4,REP,Sarah Heard,744
+Martin,7,County Commissioner,4,REP,Sarah Heard,1182
+Martin,8,County Commissioner,4,REP,Sarah Heard,353
+Martin,9,County Commissioner,4,REP,Sarah Heard,467
+Martin,10,County Commissioner,4,REP,Sarah Heard,414
+Martin,11,County Commissioner,4,REP,Sarah Heard,343
+Martin,12,County Commissioner,4,REP,Sarah Heard,949
+Martin,13,County Commissioner,4,REP,Sarah Heard,1275
+Martin,14,County Commissioner,4,REP,Sarah Heard,640
+Martin,16,County Commissioner,4,REP,Sarah Heard,316
+Martin,17,County Commissioner,4,REP,Sarah Heard,492
+Martin,18,County Commissioner,4,REP,Sarah Heard,828
+Martin,19,County Commissioner,4,REP,Sarah Heard,927
+Martin,20,County Commissioner,4,REP,Sarah Heard,420
+Martin,21,County Commissioner,4,REP,Sarah Heard,586
+Martin,22,County Commissioner,4,REP,Sarah Heard,1187
+Martin,23,County Commissioner,4,REP,Sarah Heard,879
+Martin,24,County Commissioner,4,REP,Sarah Heard,662
+Martin,25,County Commissioner,4,REP,Sarah Heard,927
+Martin,26,County Commissioner,4,REP,Sarah Heard,970
+Martin,27,County Commissioner,4,REP,Sarah Heard,935
+Martin,28,County Commissioner,4,REP,Sarah Heard,143
+Martin,1,County Commissioner,4,REP,Doug Mustapick,874
+Martin,2,County Commissioner,4,REP,Doug Mustapick,1081
+Martin,3,County Commissioner,4,REP,Doug Mustapick,38
+Martin,4,County Commissioner,4,REP,Doug Mustapick,589
+Martin,5,County Commissioner,4,REP,Doug Mustapick,256
+Martin,6,County Commissioner,4,REP,Doug Mustapick,671
+Martin,7,County Commissioner,4,REP,Doug Mustapick,893
+Martin,8,County Commissioner,4,REP,Doug Mustapick,243
+Martin,9,County Commissioner,4,REP,Doug Mustapick,286
+Martin,10,County Commissioner,4,REP,Doug Mustapick,287
+Martin,11,County Commissioner,4,REP,Doug Mustapick,421
+Martin,12,County Commissioner,4,REP,Doug Mustapick,848
+Martin,13,County Commissioner,4,REP,Doug Mustapick,886
+Martin,14,County Commissioner,4,REP,Doug Mustapick,488
+Martin,16,County Commissioner,4,REP,Doug Mustapick,494
+Martin,17,County Commissioner,4,REP,Doug Mustapick,623
+Martin,18,County Commissioner,4,REP,Doug Mustapick,923
+Martin,19,County Commissioner,4,REP,Doug Mustapick,805
+Martin,20,County Commissioner,4,REP,Doug Mustapick,518
+Martin,21,County Commissioner,4,REP,Doug Mustapick,785
+Martin,22,County Commissioner,4,REP,Doug Mustapick,936
+Martin,23,County Commissioner,4,REP,Doug Mustapick,803
+Martin,24,County Commissioner,4,REP,Doug Mustapick,799
+Martin,25,County Commissioner,4,REP,Doug Mustapick,1004
+Martin,26,County Commissioner,4,REP,Doug Mustapick,939
+Martin,27,County Commissioner,4,REP,Doug Mustapick,863
+Martin,28,County Commissioner,4,REP,Doug Mustapick,32
+Martin,1,County Commissioner,4,REP,OverVotes,1
+Martin,2,County Commissioner,4,REP,OverVotes,0
+Martin,3,County Commissioner,4,REP,OverVotes,0
+Martin,4,County Commissioner,4,REP,OverVotes,1
+Martin,5,County Commissioner,4,REP,OverVotes,0
+Martin,6,County Commissioner,4,REP,OverVotes,0
+Martin,7,County Commissioner,4,REP,OverVotes,0
+Martin,8,County Commissioner,4,REP,OverVotes,0
+Martin,9,County Commissioner,4,REP,OverVotes,0
+Martin,10,County Commissioner,4,REP,OverVotes,0
+Martin,11,County Commissioner,4,REP,OverVotes,0
+Martin,12,County Commissioner,4,REP,OverVotes,0
+Martin,13,County Commissioner,4,REP,OverVotes,0
+Martin,14,County Commissioner,4,REP,OverVotes,1
+Martin,16,County Commissioner,4,REP,OverVotes,0
+Martin,17,County Commissioner,4,REP,OverVotes,1
+Martin,18,County Commissioner,4,REP,OverVotes,0
+Martin,19,County Commissioner,4,REP,OverVotes,0
+Martin,20,County Commissioner,4,REP,OverVotes,0
+Martin,21,County Commissioner,4,REP,OverVotes,0
+Martin,22,County Commissioner,4,REP,OverVotes,2
+Martin,23,County Commissioner,4,REP,OverVotes,0
+Martin,24,County Commissioner,4,REP,OverVotes,0
+Martin,25,County Commissioner,4,REP,OverVotes,0
+Martin,26,County Commissioner,4,REP,OverVotes,0
+Martin,27,County Commissioner,4,REP,OverVotes,1
+Martin,28,County Commissioner,4,REP,OverVotes,0
+Martin,1,County Commissioner,4,REP,UnderVotes,139
+Martin,2,County Commissioner,4,REP,UnderVotes,159
+Martin,3,County Commissioner,4,REP,UnderVotes,54
+Martin,4,County Commissioner,4,REP,UnderVotes,94
+Martin,5,County Commissioner,4,REP,UnderVotes,44
+Martin,6,County Commissioner,4,REP,UnderVotes,140
+Martin,7,County Commissioner,4,REP,UnderVotes,157
+Martin,8,County Commissioner,4,REP,UnderVotes,60
+Martin,9,County Commissioner,4,REP,UnderVotes,89
+Martin,10,County Commissioner,4,REP,UnderVotes,40
+Martin,11,County Commissioner,4,REP,UnderVotes,56
+Martin,12,County Commissioner,4,REP,UnderVotes,150
+Martin,13,County Commissioner,4,REP,UnderVotes,112
+Martin,14,County Commissioner,4,REP,UnderVotes,118
+Martin,16,County Commissioner,4,REP,UnderVotes,98
+Martin,17,County Commissioner,4,REP,UnderVotes,71
+Martin,18,County Commissioner,4,REP,UnderVotes,108
+Martin,19,County Commissioner,4,REP,UnderVotes,131
+Martin,20,County Commissioner,4,REP,UnderVotes,53
+Martin,21,County Commissioner,4,REP,UnderVotes,223
+Martin,22,County Commissioner,4,REP,UnderVotes,150
+Martin,23,County Commissioner,4,REP,UnderVotes,132
+Martin,24,County Commissioner,4,REP,UnderVotes,104
+Martin,25,County Commissioner,4,REP,UnderVotes,129
+Martin,26,County Commissioner,4,REP,UnderVotes,165
+Martin,27,County Commissioner,4,REP,UnderVotes,137
+Martin,28,County Commissioner,4,REP,UnderVotes,8
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,577
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,639
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,70
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,408
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,174
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,379
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,626
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,193
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,190
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,223
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,228
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,464
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,587
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,322
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,221
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,238
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,451
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,441
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,205
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,361
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,539
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,442
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,388
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,521
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,500
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,488
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Christian Van Riper,27
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1244
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1495
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,74
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,851
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,355
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,981
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1348
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,386
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,522
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,436
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,506
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1230
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1403
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,771
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,557
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,801
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1187
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1187
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,694
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,988
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1442
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1127
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,986
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1312
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1302
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,1171
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,Rebecca White,121
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,1
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,1
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,1
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,1
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,1
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,OverVotes,0
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,201
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,261
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,50
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,168
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,77
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,195
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,258
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,77
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,130
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,82
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,86
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,252
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,282
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,154
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,130
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,147
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,221
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,235
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,92
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,244
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,294
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,245
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,191
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,226
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,272
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,277
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 1",NOP,UnderVotes,35
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,1040
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,1167
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,61
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,683
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,301
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,743
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,1170
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,347
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,405
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,391
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,359
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,947
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,1088
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,618
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,335
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,587
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,902
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,862
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,551
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,744
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,1073
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,830
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,804
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,1028
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,1004
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,961
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Leatha Dawn Mullins,102
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,717
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,881
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,80
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,538
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,218
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,568
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,709
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,214
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,269
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,219
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,350
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,696
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,818
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,448
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,407
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,416
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,683
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,724
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,315
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,568
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,843
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,713
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,518
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,735
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,723
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,633
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,Alexander Stuart Nelson,40
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,1
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,1
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,1
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,1
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,OverVotes,0
+Martin,1,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,265
+Martin,2,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,347
+Martin,3,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,53
+Martin,4,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,206
+Martin,5,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,87
+Martin,6,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,244
+Martin,7,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,353
+Martin,8,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,95
+Martin,9,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,168
+Martin,10,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,131
+Martin,11,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,111
+Martin,12,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,304
+Martin,13,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,367
+Martin,14,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,181
+Martin,16,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,166
+Martin,17,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,183
+Martin,18,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,274
+Martin,19,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,276
+Martin,20,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,125
+Martin,21,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,281
+Martin,22,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,359
+Martin,23,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,271
+Martin,24,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,243
+Martin,25,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,296
+Martin,26,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,347
+Martin,27,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,342
+Martin,28,Circuit Judge,"19th Judicial Circuit, Group 2",NOP,UnderVotes,41
+Martin,1,School Board,3,NOP,Liz Bernstein,874
+Martin,2,School Board,3,NOP,Liz Bernstein,1040
+Martin,3,School Board,3,NOP,Liz Bernstein,115
+Martin,4,School Board,3,NOP,Liz Bernstein,626
+Martin,5,School Board,3,NOP,Liz Bernstein,254
+Martin,6,School Board,3,NOP,Liz Bernstein,641
+Martin,7,School Board,3,NOP,Liz Bernstein,1064
+Martin,8,School Board,3,NOP,Liz Bernstein,364
+Martin,9,School Board,3,NOP,Liz Bernstein,379
+Martin,10,School Board,3,NOP,Liz Bernstein,312
+Martin,11,School Board,3,NOP,Liz Bernstein,313
+Martin,12,School Board,3,NOP,Liz Bernstein,760
+Martin,13,School Board,3,NOP,Liz Bernstein,949
+Martin,14,School Board,3,NOP,Liz Bernstein,557
+Martin,16,School Board,3,NOP,Liz Bernstein,349
+Martin,17,School Board,3,NOP,Liz Bernstein,353
+Martin,18,School Board,3,NOP,Liz Bernstein,721
+Martin,19,School Board,3,NOP,Liz Bernstein,769
+Martin,20,School Board,3,NOP,Liz Bernstein,298
+Martin,21,School Board,3,NOP,Liz Bernstein,536
+Martin,22,School Board,3,NOP,Liz Bernstein,834
+Martin,23,School Board,3,NOP,Liz Bernstein,675
+Martin,24,School Board,3,NOP,Liz Bernstein,575
+Martin,25,School Board,3,NOP,Liz Bernstein,839
+Martin,26,School Board,3,NOP,Liz Bernstein,854
+Martin,27,School Board,3,NOP,Liz Bernstein,771
+Martin,28,School Board,3,NOP,Liz Bernstein,97
+Martin,1,School Board,3,NOP,Jennifer Russell,1033
+Martin,2,School Board,3,NOP,Jennifer Russell,1216
+Martin,3,School Board,3,NOP,Jennifer Russell,46
+Martin,4,School Board,3,NOP,Jennifer Russell,691
+Martin,5,School Board,3,NOP,Jennifer Russell,289
+Martin,6,School Board,3,NOP,Jennifer Russell,782
+Martin,7,School Board,3,NOP,Jennifer Russell,994
+Martin,8,School Board,3,NOP,Jennifer Russell,258
+Martin,9,School Board,3,NOP,Jennifer Russell,361
+Martin,10,School Board,3,NOP,Jennifer Russell,376
+Martin,11,School Board,3,NOP,Jennifer Russell,453
+Martin,12,School Board,3,NOP,Jennifer Russell,1025
+Martin,13,School Board,3,NOP,Jennifer Russell,1162
+Martin,14,School Board,3,NOP,Jennifer Russell,586
+Martin,16,School Board,3,NOP,Jennifer Russell,473
+Martin,17,School Board,3,NOP,Jennifer Russell,762
+Martin,18,School Board,3,NOP,Jennifer Russell,1026
+Martin,19,School Board,3,NOP,Jennifer Russell,979
+Martin,20,School Board,3,NOP,Jennifer Russell,639
+Martin,21,School Board,3,NOP,Jennifer Russell,880
+Martin,22,School Board,3,NOP,Jennifer Russell,1253
+Martin,23,School Board,3,NOP,Jennifer Russell,1007
+Martin,24,School Board,3,NOP,Jennifer Russell,883
+Martin,25,School Board,3,NOP,Jennifer Russell,1121
+Martin,26,School Board,3,NOP,Jennifer Russell,1083
+Martin,27,School Board,3,NOP,Jennifer Russell,1047
+Martin,28,School Board,3,NOP,Jennifer Russell,53
+Martin,1,School Board,3,NOP,OverVotes,0
+Martin,2,School Board,3,NOP,OverVotes,0
+Martin,3,School Board,3,NOP,OverVotes,0
+Martin,4,School Board,3,NOP,OverVotes,0
+Martin,5,School Board,3,NOP,OverVotes,0
+Martin,6,School Board,3,NOP,OverVotes,1
+Martin,7,School Board,3,NOP,OverVotes,0
+Martin,8,School Board,3,NOP,OverVotes,0
+Martin,9,School Board,3,NOP,OverVotes,0
+Martin,10,School Board,3,NOP,OverVotes,0
+Martin,11,School Board,3,NOP,OverVotes,0
+Martin,12,School Board,3,NOP,OverVotes,0
+Martin,13,School Board,3,NOP,OverVotes,0
+Martin,14,School Board,3,NOP,OverVotes,0
+Martin,16,School Board,3,NOP,OverVotes,0
+Martin,17,School Board,3,NOP,OverVotes,0
+Martin,18,School Board,3,NOP,OverVotes,0
+Martin,19,School Board,3,NOP,OverVotes,0
+Martin,20,School Board,3,NOP,OverVotes,1
+Martin,21,School Board,3,NOP,OverVotes,0
+Martin,22,School Board,3,NOP,OverVotes,0
+Martin,23,School Board,3,NOP,OverVotes,0
+Martin,24,School Board,3,NOP,OverVotes,0
+Martin,25,School Board,3,NOP,OverVotes,0
+Martin,26,School Board,3,NOP,OverVotes,0
+Martin,27,School Board,3,NOP,OverVotes,0
+Martin,28,School Board,3,NOP,OverVotes,0
+Martin,1,School Board,3,NOP,UnderVotes,115
+Martin,2,School Board,3,NOP,UnderVotes,139
+Martin,3,School Board,3,NOP,UnderVotes,33
+Martin,4,School Board,3,NOP,UnderVotes,110
+Martin,5,School Board,3,NOP,UnderVotes,63
+Martin,6,School Board,3,NOP,UnderVotes,131
+Martin,7,School Board,3,NOP,UnderVotes,174
+Martin,8,School Board,3,NOP,UnderVotes,34
+Martin,9,School Board,3,NOP,UnderVotes,102
+Martin,10,School Board,3,NOP,UnderVotes,53
+Martin,11,School Board,3,NOP,UnderVotes,54
+Martin,12,School Board,3,NOP,UnderVotes,162
+Martin,13,School Board,3,NOP,UnderVotes,162
+Martin,14,School Board,3,NOP,UnderVotes,104
+Martin,16,School Board,3,NOP,UnderVotes,86
+Martin,17,School Board,3,NOP,UnderVotes,72
+Martin,18,School Board,3,NOP,UnderVotes,112
+Martin,19,School Board,3,NOP,UnderVotes,115
+Martin,20,School Board,3,NOP,UnderVotes,53
+Martin,21,School Board,3,NOP,UnderVotes,178
+Martin,22,School Board,3,NOP,UnderVotes,188
+Martin,23,School Board,3,NOP,UnderVotes,132
+Martin,24,School Board,3,NOP,UnderVotes,107
+Martin,25,School Board,3,NOP,UnderVotes,100
+Martin,26,School Board,3,NOP,UnderVotes,137
+Martin,27,School Board,3,NOP,UnderVotes,118
+Martin,28,School Board,3,NOP,UnderVotes,33
+Martin,1,School Board,4,NOP,Tony Anderson,963
+Martin,2,School Board,4,NOP,Tony Anderson,1084
+Martin,3,School Board,4,NOP,Tony Anderson,150
+Martin,4,School Board,4,NOP,Tony Anderson,610
+Martin,5,School Board,4,NOP,Tony Anderson,283
+Martin,6,School Board,4,NOP,Tony Anderson,743
+Martin,7,School Board,4,NOP,Tony Anderson,1125
+Martin,8,School Board,4,NOP,Tony Anderson,395
+Martin,9,School Board,4,NOP,Tony Anderson,382
+Martin,10,School Board,4,NOP,Tony Anderson,334
+Martin,11,School Board,4,NOP,Tony Anderson,384
+Martin,12,School Board,4,NOP,Tony Anderson,826
+Martin,13,School Board,4,NOP,Tony Anderson,1054
+Martin,14,School Board,4,NOP,Tony Anderson,613
+Martin,16,School Board,4,NOP,Tony Anderson,418
+Martin,17,School Board,4,NOP,Tony Anderson,448
+Martin,18,School Board,4,NOP,Tony Anderson,767
+Martin,19,School Board,4,NOP,Tony Anderson,827
+Martin,20,School Board,4,NOP,Tony Anderson,364
+Martin,21,School Board,4,NOP,Tony Anderson,603
+Martin,22,School Board,4,NOP,Tony Anderson,937
+Martin,23,School Board,4,NOP,Tony Anderson,747
+Martin,24,School Board,4,NOP,Tony Anderson,667
+Martin,25,School Board,4,NOP,Tony Anderson,909
+Martin,26,School Board,4,NOP,Tony Anderson,966
+Martin,27,School Board,4,NOP,Tony Anderson,852
+Martin,28,School Board,4,NOP,Tony Anderson,104
+Martin,1,School Board,4,NOP,Amy Pritchett,882
+Martin,2,School Board,4,NOP,Amy Pritchett,1134
+Martin,3,School Board,4,NOP,Amy Pritchett,30
+Martin,4,School Board,4,NOP,Amy Pritchett,667
+Martin,5,School Board,4,NOP,Amy Pritchett,250
+Martin,6,School Board,4,NOP,Amy Pritchett,645
+Martin,7,School Board,4,NOP,Amy Pritchett,894
+Martin,8,School Board,4,NOP,Amy Pritchett,231
+Martin,9,School Board,4,NOP,Amy Pritchett,335
+Martin,10,School Board,4,NOP,Amy Pritchett,337
+Martin,11,School Board,4,NOP,Amy Pritchett,381
+Martin,12,School Board,4,NOP,Amy Pritchett,904
+Martin,13,School Board,4,NOP,Amy Pritchett,1033
+Martin,14,School Board,4,NOP,Amy Pritchett,527
+Martin,16,School Board,4,NOP,Amy Pritchett,379
+Martin,17,School Board,4,NOP,Amy Pritchett,643
+Martin,18,School Board,4,NOP,Amy Pritchett,921
+Martin,19,School Board,4,NOP,Amy Pritchett,843
+Martin,20,School Board,4,NOP,Amy Pritchett,545
+Martin,21,School Board,4,NOP,Amy Pritchett,732
+Martin,22,School Board,4,NOP,Amy Pritchett,1101
+Martin,23,School Board,4,NOP,Amy Pritchett,900
+Martin,24,School Board,4,NOP,Amy Pritchett,740
+Martin,25,School Board,4,NOP,Amy Pritchett,976
+Martin,26,School Board,4,NOP,Amy Pritchett,925
+Martin,27,School Board,4,NOP,Amy Pritchett,891
+Martin,28,School Board,4,NOP,Amy Pritchett,43
+Martin,1,School Board,4,NOP,OverVotes,0
+Martin,2,School Board,4,NOP,OverVotes,0
+Martin,3,School Board,4,NOP,OverVotes,0
+Martin,4,School Board,4,NOP,OverVotes,1
+Martin,5,School Board,4,NOP,OverVotes,0
+Martin,6,School Board,4,NOP,OverVotes,0
+Martin,7,School Board,4,NOP,OverVotes,0
+Martin,8,School Board,4,NOP,OverVotes,0
+Martin,9,School Board,4,NOP,OverVotes,0
+Martin,10,School Board,4,NOP,OverVotes,1
+Martin,11,School Board,4,NOP,OverVotes,0
+Martin,12,School Board,4,NOP,OverVotes,1
+Martin,13,School Board,4,NOP,OverVotes,0
+Martin,14,School Board,4,NOP,OverVotes,0
+Martin,16,School Board,4,NOP,OverVotes,0
+Martin,17,School Board,4,NOP,OverVotes,0
+Martin,18,School Board,4,NOP,OverVotes,0
+Martin,19,School Board,4,NOP,OverVotes,0
+Martin,20,School Board,4,NOP,OverVotes,0
+Martin,21,School Board,4,NOP,OverVotes,1
+Martin,22,School Board,4,NOP,OverVotes,0
+Martin,23,School Board,4,NOP,OverVotes,0
+Martin,24,School Board,4,NOP,OverVotes,0
+Martin,25,School Board,4,NOP,OverVotes,0
+Martin,26,School Board,4,NOP,OverVotes,0
+Martin,27,School Board,4,NOP,OverVotes,0
+Martin,28,School Board,4,NOP,OverVotes,0
+Martin,1,School Board,4,NOP,UnderVotes,177
+Martin,2,School Board,4,NOP,UnderVotes,177
+Martin,3,School Board,4,NOP,UnderVotes,14
+Martin,4,School Board,4,NOP,UnderVotes,149
+Martin,5,School Board,4,NOP,UnderVotes,73
+Martin,6,School Board,4,NOP,UnderVotes,167
+Martin,7,School Board,4,NOP,UnderVotes,213
+Martin,8,School Board,4,NOP,UnderVotes,30
+Martin,9,School Board,4,NOP,UnderVotes,125
+Martin,10,School Board,4,NOP,UnderVotes,69
+Martin,11,School Board,4,NOP,UnderVotes,55
+Martin,12,School Board,4,NOP,UnderVotes,216
+Martin,13,School Board,4,NOP,UnderVotes,186
+Martin,14,School Board,4,NOP,UnderVotes,107
+Martin,16,School Board,4,NOP,UnderVotes,111
+Martin,17,School Board,4,NOP,UnderVotes,96
+Martin,18,School Board,4,NOP,UnderVotes,171
+Martin,19,School Board,4,NOP,UnderVotes,193
+Martin,20,School Board,4,NOP,UnderVotes,82
+Martin,21,School Board,4,NOP,UnderVotes,258
+Martin,22,School Board,4,NOP,UnderVotes,237
+Martin,23,School Board,4,NOP,UnderVotes,167
+Martin,24,School Board,4,NOP,UnderVotes,158
+Martin,25,School Board,4,NOP,UnderVotes,175
+Martin,26,School Board,4,NOP,UnderVotes,183
+Martin,27,School Board,4,NOP,UnderVotes,193
+Martin,28,School Board,4,NOP,UnderVotes,36
+Martin,1,Registered Voters,"","","",6148
+Martin,10,Registered Voters,"","","",1821
+Martin,11,Registered Voters,"","","",3398
+Martin,12,Registered Voters,"","","",6321
+Martin,13,Registered Voters,"","","",6365
+Martin,14,Registered Voters,"","","",4361
+Martin,16,Registered Voters,"","","",2908
+Martin,17,Registered Voters,"","","",3580
+Martin,18,Registered Voters,"","","",5584
+Martin,19,Registered Voters,"","","",5561
+Martin,2,Registered Voters,"","","",6986
+Martin,20,Registered Voters,"","","",2563
+Martin,21,Registered Voters,"","","",5749
+Martin,22,Registered Voters,"","","",6091
+Martin,23,Registered Voters,"","","",5271
+Martin,24,Registered Voters,"","","",4178
+Martin,25,Registered Voters,"","","",5832
+Martin,26,Registered Voters,"","","",5649
+Martin,27,Registered Voters,"","","",5379
+Martin,28,Registered Voters,"","","",702
+Martin,3,Registered Voters,"","","",729
+Martin,4,Registered Voters,"","","",4830
+Martin,5,Registered Voters,"","","",1549
+Martin,6,Registered Voters,"","","",5617
+Martin,7,Registered Voters,"","","",6165
+Martin,8,Registered Voters,"","","",1950
+Martin,9,Registered Voters,"","","",2544

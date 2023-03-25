@@ -1,0 +1,612 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,Malone Joy Club,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Jackson,Campbellton Comm Center,U.S. Senate,"",DEM,Ricardo De La Fuente,14
+Jackson,Citizens Lodge,U.S. Senate,"",DEM,Ricardo De La Fuente,23
+Jackson,Alford Comm Ctr,U.S. Senate,"",DEM,Ricardo De La Fuente,21
+Jackson,Cypress Park,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",DEM,Ricardo De La Fuente,18
+Jackson,Eastside Baptist Church,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",DEM,Ricardo De La Fuente,20
+Jackson,Sneads City Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",DEM,Ricardo De La Fuente,23
+Jackson,Greenwood Town Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Jackson,Graceville Civic Ctr,U.S. Senate,"",DEM,Ricardo De La Fuente,15
+Jackson,Malone Joy Club,U.S. Senate,"",DEM,Val Demings,98
+Jackson,Campbellton Comm Center,U.S. Senate,"",DEM,Val Demings,176
+Jackson,Citizens Lodge,U.S. Senate,"",DEM,Val Demings,219
+Jackson,Alford Comm Ctr,U.S. Senate,"",DEM,Val Demings,110
+Jackson,Cypress Park,U.S. Senate,"",DEM,Val Demings,39
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",DEM,Val Demings,260
+Jackson,Eastside Baptist Church,U.S. Senate,"",DEM,Val Demings,114
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",DEM,Val Demings,21
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",DEM,Val Demings,58
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",DEM,Val Demings,193
+Jackson,Sneads City Hall,U.S. Senate,"",DEM,Val Demings,76
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",DEM,Val Demings,102
+Jackson,Greenwood Town Hall,U.S. Senate,"",DEM,Val Demings,109
+Jackson,Graceville Civic Ctr,U.S. Senate,"",DEM,Val Demings,90
+Jackson,Malone Joy Club,U.S. Senate,"",DEM,Brian Rush,37
+Jackson,Campbellton Comm Center,U.S. Senate,"",DEM,Brian Rush,52
+Jackson,Citizens Lodge,U.S. Senate,"",DEM,Brian Rush,74
+Jackson,Alford Comm Ctr,U.S. Senate,"",DEM,Brian Rush,62
+Jackson,Cypress Park,U.S. Senate,"",DEM,Brian Rush,15
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",DEM,Brian Rush,64
+Jackson,Eastside Baptist Church,U.S. Senate,"",DEM,Brian Rush,59
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",DEM,Brian Rush,29
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",DEM,Brian Rush,24
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",DEM,Brian Rush,50
+Jackson,Sneads City Hall,U.S. Senate,"",DEM,Brian Rush,64
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",DEM,Brian Rush,40
+Jackson,Greenwood Town Hall,U.S. Senate,"",DEM,Brian Rush,29
+Jackson,Graceville Civic Ctr,U.S. Senate,"",DEM,Brian Rush,43
+Jackson,Malone Joy Club,U.S. Senate,"",DEM,William Sanchez,53
+Jackson,Campbellton Comm Center,U.S. Senate,"",DEM,William Sanchez,38
+Jackson,Citizens Lodge,U.S. Senate,"",DEM,William Sanchez,48
+Jackson,Alford Comm Ctr,U.S. Senate,"",DEM,William Sanchez,33
+Jackson,Cypress Park,U.S. Senate,"",DEM,William Sanchez,11
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",DEM,William Sanchez,45
+Jackson,Eastside Baptist Church,U.S. Senate,"",DEM,William Sanchez,40
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",DEM,William Sanchez,16
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",DEM,William Sanchez,11
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",DEM,William Sanchez,38
+Jackson,Sneads City Hall,U.S. Senate,"",DEM,William Sanchez,42
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",DEM,William Sanchez,32
+Jackson,Greenwood Town Hall,U.S. Senate,"",DEM,William Sanchez,44
+Jackson,Graceville Civic Ctr,U.S. Senate,"",DEM,William Sanchez,35
+Jackson,Malone Joy Club,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Campbellton Comm Center,U.S. Senate,"",DEM,OverVotes,1
+Jackson,Citizens Lodge,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Alford Comm Ctr,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Cypress Park,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Eastside Baptist Church,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Sneads City Hall,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",DEM,OverVotes,1
+Jackson,Greenwood Town Hall,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Graceville Civic Ctr,U.S. Senate,"",DEM,OverVotes,0
+Jackson,Malone Joy Club,U.S. Senate,"",DEM,UnderVotes,24
+Jackson,Campbellton Comm Center,U.S. Senate,"",DEM,UnderVotes,13
+Jackson,Citizens Lodge,U.S. Senate,"",DEM,UnderVotes,25
+Jackson,Alford Comm Ctr,U.S. Senate,"",DEM,UnderVotes,19
+Jackson,Cypress Park,U.S. Senate,"",DEM,UnderVotes,4
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",DEM,UnderVotes,12
+Jackson,Eastside Baptist Church,U.S. Senate,"",DEM,UnderVotes,22
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",DEM,UnderVotes,6
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",DEM,UnderVotes,18
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",DEM,UnderVotes,15
+Jackson,Sneads City Hall,U.S. Senate,"",DEM,UnderVotes,35
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",DEM,UnderVotes,21
+Jackson,Greenwood Town Hall,U.S. Senate,"",DEM,UnderVotes,17
+Jackson,Graceville Civic Ctr,U.S. Senate,"",DEM,UnderVotes,31
+Jackson,Malone Joy Club,Governor,"",DEM,Charlie Crist,127
+Jackson,Campbellton Comm Center,Governor,"",DEM,Charlie Crist,182
+Jackson,Citizens Lodge,Governor,"",DEM,Charlie Crist,208
+Jackson,Alford Comm Ctr,Governor,"",DEM,Charlie Crist,96
+Jackson,Cypress Park,Governor,"",DEM,Charlie Crist,46
+Jackson,Co Comm Admin Bldg,Governor,"",DEM,Charlie Crist,215
+Jackson,Eastside Baptist Church,Governor,"",DEM,Charlie Crist,111
+Jackson,Shady Grove Methodist Ch,Governor,"",DEM,Charlie Crist,27
+Jackson,Grand Ridge Comm Ctr,Governor,"",DEM,Charlie Crist,53
+Jackson,Welcome Assembly of God Ch,Governor,"",DEM,Charlie Crist,176
+Jackson,Sneads City Hall,Governor,"",DEM,Charlie Crist,113
+Jackson,Cottondale Comm Ctr,Governor,"",DEM,Charlie Crist,118
+Jackson,Greenwood Town Hall,Governor,"",DEM,Charlie Crist,114
+Jackson,Graceville Civic Ctr,Governor,"",DEM,Charlie Crist,93
+Jackson,Malone Joy Club,Governor,"",DEM,Cadance Daniel,8
+Jackson,Campbellton Comm Center,Governor,"",DEM,Cadance Daniel,10
+Jackson,Citizens Lodge,Governor,"",DEM,Cadance Daniel,17
+Jackson,Alford Comm Ctr,Governor,"",DEM,Cadance Daniel,9
+Jackson,Cypress Park,Governor,"",DEM,Cadance Daniel,3
+Jackson,Co Comm Admin Bldg,Governor,"",DEM,Cadance Daniel,12
+Jackson,Eastside Baptist Church,Governor,"",DEM,Cadance Daniel,12
+Jackson,Shady Grove Methodist Ch,Governor,"",DEM,Cadance Daniel,4
+Jackson,Grand Ridge Comm Ctr,Governor,"",DEM,Cadance Daniel,8
+Jackson,Welcome Assembly of God Ch,Governor,"",DEM,Cadance Daniel,17
+Jackson,Sneads City Hall,Governor,"",DEM,Cadance Daniel,15
+Jackson,Cottondale Comm Ctr,Governor,"",DEM,Cadance Daniel,12
+Jackson,Greenwood Town Hall,Governor,"",DEM,Cadance Daniel,9
+Jackson,Graceville Civic Ctr,Governor,"",DEM,Cadance Daniel,13
+Jackson,Malone Joy Club,Governor,"",DEM,"Nicole ""Nikki"" Fried",58
+Jackson,Campbellton Comm Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",82
+Jackson,Citizens Lodge,Governor,"",DEM,"Nicole ""Nikki"" Fried",126
+Jackson,Alford Comm Ctr,Governor,"",DEM,"Nicole ""Nikki"" Fried",94
+Jackson,Cypress Park,Governor,"",DEM,"Nicole ""Nikki"" Fried",22
+Jackson,Co Comm Admin Bldg,Governor,"",DEM,"Nicole ""Nikki"" Fried",144
+Jackson,Eastside Baptist Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",88
+Jackson,Shady Grove Methodist Ch,Governor,"",DEM,"Nicole ""Nikki"" Fried",29
+Jackson,Grand Ridge Comm Ctr,Governor,"",DEM,"Nicole ""Nikki"" Fried",37
+Jackson,Welcome Assembly of God Ch,Governor,"",DEM,"Nicole ""Nikki"" Fried",109
+Jackson,Sneads City Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",68
+Jackson,Cottondale Comm Ctr,Governor,"",DEM,"Nicole ""Nikki"" Fried",52
+Jackson,Greenwood Town Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",67
+Jackson,Graceville Civic Ctr,Governor,"",DEM,"Nicole ""Nikki"" Fried",65
+Jackson,Malone Joy Club,Governor,"",DEM,Robert L. Willis,14
+Jackson,Campbellton Comm Center,Governor,"",DEM,Robert L. Willis,15
+Jackson,Citizens Lodge,Governor,"",DEM,Robert L. Willis,24
+Jackson,Alford Comm Ctr,Governor,"",DEM,Robert L. Willis,29
+Jackson,Cypress Park,Governor,"",DEM,Robert L. Willis,4
+Jackson,Co Comm Admin Bldg,Governor,"",DEM,Robert L. Willis,18
+Jackson,Eastside Baptist Church,Governor,"",DEM,Robert L. Willis,18
+Jackson,Shady Grove Methodist Ch,Governor,"",DEM,Robert L. Willis,11
+Jackson,Grand Ridge Comm Ctr,Governor,"",DEM,Robert L. Willis,8
+Jackson,Welcome Assembly of God Ch,Governor,"",DEM,Robert L. Willis,10
+Jackson,Sneads City Hall,Governor,"",DEM,Robert L. Willis,15
+Jackson,Cottondale Comm Ctr,Governor,"",DEM,Robert L. Willis,18
+Jackson,Greenwood Town Hall,Governor,"",DEM,Robert L. Willis,9
+Jackson,Graceville Civic Ctr,Governor,"",DEM,Robert L. Willis,18
+Jackson,Malone Joy Club,Governor,"",DEM,OverVotes,0
+Jackson,Campbellton Comm Center,Governor,"",DEM,OverVotes,0
+Jackson,Citizens Lodge,Governor,"",DEM,OverVotes,1
+Jackson,Alford Comm Ctr,Governor,"",DEM,OverVotes,0
+Jackson,Cypress Park,Governor,"",DEM,OverVotes,0
+Jackson,Co Comm Admin Bldg,Governor,"",DEM,OverVotes,1
+Jackson,Eastside Baptist Church,Governor,"",DEM,OverVotes,0
+Jackson,Shady Grove Methodist Ch,Governor,"",DEM,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Governor,"",DEM,OverVotes,1
+Jackson,Welcome Assembly of God Ch,Governor,"",DEM,OverVotes,0
+Jackson,Sneads City Hall,Governor,"",DEM,OverVotes,0
+Jackson,Cottondale Comm Ctr,Governor,"",DEM,OverVotes,1
+Jackson,Greenwood Town Hall,Governor,"",DEM,OverVotes,0
+Jackson,Graceville Civic Ctr,Governor,"",DEM,OverVotes,0
+Jackson,Malone Joy Club,Governor,"",DEM,UnderVotes,18
+Jackson,Campbellton Comm Center,Governor,"",DEM,UnderVotes,5
+Jackson,Citizens Lodge,Governor,"",DEM,UnderVotes,13
+Jackson,Alford Comm Ctr,Governor,"",DEM,UnderVotes,17
+Jackson,Cypress Park,Governor,"",DEM,UnderVotes,1
+Jackson,Co Comm Admin Bldg,Governor,"",DEM,UnderVotes,9
+Jackson,Eastside Baptist Church,Governor,"",DEM,UnderVotes,19
+Jackson,Shady Grove Methodist Ch,Governor,"",DEM,UnderVotes,3
+Jackson,Grand Ridge Comm Ctr,Governor,"",DEM,UnderVotes,10
+Jackson,Welcome Assembly of God Ch,Governor,"",DEM,UnderVotes,4
+Jackson,Sneads City Hall,Governor,"",DEM,UnderVotes,17
+Jackson,Cottondale Comm Ctr,Governor,"",DEM,UnderVotes,18
+Jackson,Greenwood Town Hall,Governor,"",DEM,UnderVotes,9
+Jackson,Graceville Civic Ctr,Governor,"",DEM,UnderVotes,25
+Jackson,Malone Joy Club,Attorney General,"",DEM,Aramis Ayala,66
+Jackson,Campbellton Comm Center,Attorney General,"",DEM,Aramis Ayala,93
+Jackson,Citizens Lodge,Attorney General,"",DEM,Aramis Ayala,108
+Jackson,Alford Comm Ctr,Attorney General,"",DEM,Aramis Ayala,54
+Jackson,Cypress Park,Attorney General,"",DEM,Aramis Ayala,20
+Jackson,Co Comm Admin Bldg,Attorney General,"",DEM,Aramis Ayala,184
+Jackson,Eastside Baptist Church,Attorney General,"",DEM,Aramis Ayala,52
+Jackson,Shady Grove Methodist Ch,Attorney General,"",DEM,Aramis Ayala,9
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",DEM,Aramis Ayala,28
+Jackson,Welcome Assembly of God Ch,Attorney General,"",DEM,Aramis Ayala,124
+Jackson,Sneads City Hall,Attorney General,"",DEM,Aramis Ayala,38
+Jackson,Cottondale Comm Ctr,Attorney General,"",DEM,Aramis Ayala,65
+Jackson,Greenwood Town Hall,Attorney General,"",DEM,Aramis Ayala,62
+Jackson,Graceville Civic Ctr,Attorney General,"",DEM,Aramis Ayala,50
+Jackson,Malone Joy Club,Attorney General,"",DEM,Jim Lewis,110
+Jackson,Campbellton Comm Center,Attorney General,"",DEM,Jim Lewis,154
+Jackson,Citizens Lodge,Attorney General,"",DEM,Jim Lewis,184
+Jackson,Alford Comm Ctr,Attorney General,"",DEM,Jim Lewis,126
+Jackson,Cypress Park,Attorney General,"",DEM,Jim Lewis,45
+Jackson,Co Comm Admin Bldg,Attorney General,"",DEM,Jim Lewis,174
+Jackson,Eastside Baptist Church,Attorney General,"",DEM,Jim Lewis,121
+Jackson,Shady Grove Methodist Ch,Attorney General,"",DEM,Jim Lewis,49
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",DEM,Jim Lewis,50
+Jackson,Welcome Assembly of God Ch,Attorney General,"",DEM,Jim Lewis,144
+Jackson,Sneads City Hall,Attorney General,"",DEM,Jim Lewis,124
+Jackson,Cottondale Comm Ctr,Attorney General,"",DEM,Jim Lewis,105
+Jackson,Greenwood Town Hall,Attorney General,"",DEM,Jim Lewis,113
+Jackson,Graceville Civic Ctr,Attorney General,"",DEM,Jim Lewis,99
+Jackson,Malone Joy Club,Attorney General,"",DEM,Daniel Uhlfelder,24
+Jackson,Campbellton Comm Center,Attorney General,"",DEM,Daniel Uhlfelder,30
+Jackson,Citizens Lodge,Attorney General,"",DEM,Daniel Uhlfelder,71
+Jackson,Alford Comm Ctr,Attorney General,"",DEM,Daniel Uhlfelder,39
+Jackson,Cypress Park,Attorney General,"",DEM,Daniel Uhlfelder,7
+Jackson,Co Comm Admin Bldg,Attorney General,"",DEM,Daniel Uhlfelder,25
+Jackson,Eastside Baptist Church,Attorney General,"",DEM,Daniel Uhlfelder,51
+Jackson,Shady Grove Methodist Ch,Attorney General,"",DEM,Daniel Uhlfelder,9
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",DEM,Daniel Uhlfelder,22
+Jackson,Welcome Assembly of God Ch,Attorney General,"",DEM,Daniel Uhlfelder,29
+Jackson,Sneads City Hall,Attorney General,"",DEM,Daniel Uhlfelder,36
+Jackson,Cottondale Comm Ctr,Attorney General,"",DEM,Daniel Uhlfelder,24
+Jackson,Greenwood Town Hall,Attorney General,"",DEM,Daniel Uhlfelder,17
+Jackson,Graceville Civic Ctr,Attorney General,"",DEM,Daniel Uhlfelder,30
+Jackson,Malone Joy Club,Attorney General,"",DEM,OverVotes,0
+Jackson,Campbellton Comm Center,Attorney General,"",DEM,OverVotes,0
+Jackson,Citizens Lodge,Attorney General,"",DEM,OverVotes,0
+Jackson,Alford Comm Ctr,Attorney General,"",DEM,OverVotes,0
+Jackson,Cypress Park,Attorney General,"",DEM,OverVotes,0
+Jackson,Co Comm Admin Bldg,Attorney General,"",DEM,OverVotes,0
+Jackson,Eastside Baptist Church,Attorney General,"",DEM,OverVotes,0
+Jackson,Shady Grove Methodist Ch,Attorney General,"",DEM,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",DEM,OverVotes,0
+Jackson,Welcome Assembly of God Ch,Attorney General,"",DEM,OverVotes,0
+Jackson,Sneads City Hall,Attorney General,"",DEM,OverVotes,0
+Jackson,Cottondale Comm Ctr,Attorney General,"",DEM,OverVotes,1
+Jackson,Greenwood Town Hall,Attorney General,"",DEM,OverVotes,0
+Jackson,Graceville Civic Ctr,Attorney General,"",DEM,OverVotes,0
+Jackson,Malone Joy Club,Attorney General,"",DEM,UnderVotes,25
+Jackson,Campbellton Comm Center,Attorney General,"",DEM,UnderVotes,17
+Jackson,Citizens Lodge,Attorney General,"",DEM,UnderVotes,26
+Jackson,Alford Comm Ctr,Attorney General,"",DEM,UnderVotes,26
+Jackson,Cypress Park,Attorney General,"",DEM,UnderVotes,4
+Jackson,Co Comm Admin Bldg,Attorney General,"",DEM,UnderVotes,16
+Jackson,Eastside Baptist Church,Attorney General,"",DEM,UnderVotes,24
+Jackson,Shady Grove Methodist Ch,Attorney General,"",DEM,UnderVotes,7
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",DEM,UnderVotes,17
+Jackson,Welcome Assembly of God Ch,Attorney General,"",DEM,UnderVotes,19
+Jackson,Sneads City Hall,Attorney General,"",DEM,UnderVotes,30
+Jackson,Cottondale Comm Ctr,Attorney General,"",DEM,UnderVotes,24
+Jackson,Greenwood Town Hall,Attorney General,"",DEM,UnderVotes,16
+Jackson,Graceville Civic Ctr,Attorney General,"",DEM,UnderVotes,35
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",REP,James W. Shaw,98
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",REP,James W. Shaw,27
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",REP,James W. Shaw,168
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",REP,James W. Shaw,274
+Jackson,Cypress Park,Commissioner of Agriculture,"",REP,James W. Shaw,49
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",REP,James W. Shaw,92
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",REP,James W. Shaw,180
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",REP,James W. Shaw,88
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",REP,James W. Shaw,94
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",REP,James W. Shaw,94
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",REP,James W. Shaw,175
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",REP,James W. Shaw,132
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",REP,James W. Shaw,32
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",REP,James W. Shaw,215
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",REP,Wilton Simpson,178
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",REP,Wilton Simpson,72
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",REP,Wilton Simpson,453
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,516
+Jackson,Cypress Park,Commissioner of Agriculture,"",REP,Wilton Simpson,93
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,168
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,463
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",REP,Wilton Simpson,163
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,225
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",REP,Wilton Simpson,197
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,287
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,215
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,59
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",REP,Wilton Simpson,410
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Cypress Park,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",REP,OverVotes,1
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",REP,OverVotes,0
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",REP,UnderVotes,8
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",REP,UnderVotes,4
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",REP,UnderVotes,26
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",REP,UnderVotes,24
+Jackson,Cypress Park,Commissioner of Agriculture,"",REP,UnderVotes,8
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",REP,UnderVotes,9
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",REP,UnderVotes,32
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",REP,UnderVotes,9
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",REP,UnderVotes,13
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",REP,UnderVotes,8
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",REP,UnderVotes,22
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",REP,UnderVotes,9
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",REP,UnderVotes,2
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",REP,UnderVotes,33
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,77
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,134
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,119
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,79
+Jackson,Cypress Park,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,32
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,173
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,57
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,17
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,36
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,125
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,69
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,76
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,63
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",DEM,J. R. Gaillot,50
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,72
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",DEM,J. R. Gaillot,85
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",DEM,J. R. Gaillot,53
+Jackson,Cypress Park,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",DEM,J. R. Gaillot,89
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,69
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",DEM,J. R. Gaillot,59
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,59
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",DEM,J. R. Gaillot,48
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,51
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",DEM,J. R. Gaillot,49
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",DEM,Ryan Morales,76
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",DEM,Ryan Morales,70
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",DEM,Ryan Morales,151
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",DEM,Ryan Morales,89
+Jackson,Cypress Park,Commissioner of Agriculture,"",DEM,Ryan Morales,25
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",DEM,Ryan Morales,119
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",DEM,Ryan Morales,96
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",DEM,Ryan Morales,29
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",DEM,Ryan Morales,42
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",DEM,Ryan Morales,118
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,59
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",DEM,Ryan Morales,62
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,62
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",DEM,Ryan Morales,65
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Cypress Park,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",DEM,OverVotes,1
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",DEM,OverVotes,1
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",DEM,OverVotes,0
+Jackson,Malone Joy Club,Commissioner of Agriculture,"",DEM,UnderVotes,22
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",DEM,UnderVotes,18
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",DEM,UnderVotes,34
+Jackson,Alford Comm Ctr,Commissioner of Agriculture,"",DEM,UnderVotes,24
+Jackson,Cypress Park,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",DEM,UnderVotes,18
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",DEM,UnderVotes,26
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",DEM,UnderVotes,14
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",DEM,UnderVotes,40
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",DEM,UnderVotes,26
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",DEM,UnderVotes,19
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",DEM,UnderVotes,37
+Jackson,Malone Joy Club,State Senate,2,REP,Regina Piazza,33
+Jackson,Campbellton Comm Center,State Senate,2,REP,Regina Piazza,18
+Jackson,Citizens Lodge,State Senate,2,REP,Regina Piazza,87
+Jackson,Alford Comm Ctr,State Senate,2,REP,Regina Piazza,168
+Jackson,Cypress Park,State Senate,2,REP,Regina Piazza,20
+Jackson,Co Comm Admin Bldg,State Senate,2,REP,Regina Piazza,38
+Jackson,Eastside Baptist Church,State Senate,2,REP,Regina Piazza,96
+Jackson,Shady Grove Methodist Ch,State Senate,2,REP,Regina Piazza,22
+Jackson,Grand Ridge Comm Ctr,State Senate,2,REP,Regina Piazza,37
+Jackson,Welcome Assembly of God Ch,State Senate,2,REP,Regina Piazza,45
+Jackson,Sneads City Hall,State Senate,2,REP,Regina Piazza,44
+Jackson,Cottondale Comm Ctr,State Senate,2,REP,Regina Piazza,47
+Jackson,Greenwood Town Hall,State Senate,2,REP,Regina Piazza,17
+Jackson,Graceville Civic Ctr,State Senate,2,REP,Regina Piazza,96
+Jackson,Malone Joy Club,State Senate,2,REP,Jay Trumbull,248
+Jackson,Campbellton Comm Center,State Senate,2,REP,Jay Trumbull,83
+Jackson,Citizens Lodge,State Senate,2,REP,Jay Trumbull,555
+Jackson,Alford Comm Ctr,State Senate,2,REP,Jay Trumbull,641
+Jackson,Cypress Park,State Senate,2,REP,Jay Trumbull,129
+Jackson,Co Comm Admin Bldg,State Senate,2,REP,Jay Trumbull,228
+Jackson,Eastside Baptist Church,State Senate,2,REP,Jay Trumbull,570
+Jackson,Shady Grove Methodist Ch,State Senate,2,REP,Jay Trumbull,231
+Jackson,Grand Ridge Comm Ctr,State Senate,2,REP,Jay Trumbull,289
+Jackson,Welcome Assembly of God Ch,State Senate,2,REP,Jay Trumbull,250
+Jackson,Sneads City Hall,State Senate,2,REP,Jay Trumbull,432
+Jackson,Cottondale Comm Ctr,State Senate,2,REP,Jay Trumbull,306
+Jackson,Greenwood Town Hall,State Senate,2,REP,Jay Trumbull,76
+Jackson,Graceville Civic Ctr,State Senate,2,REP,Jay Trumbull,545
+Jackson,Malone Joy Club,State Senate,2,REP,OverVotes,0
+Jackson,Campbellton Comm Center,State Senate,2,REP,OverVotes,0
+Jackson,Citizens Lodge,State Senate,2,REP,OverVotes,0
+Jackson,Alford Comm Ctr,State Senate,2,REP,OverVotes,0
+Jackson,Cypress Park,State Senate,2,REP,OverVotes,0
+Jackson,Co Comm Admin Bldg,State Senate,2,REP,OverVotes,0
+Jackson,Eastside Baptist Church,State Senate,2,REP,OverVotes,0
+Jackson,Shady Grove Methodist Ch,State Senate,2,REP,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,State Senate,2,REP,OverVotes,0
+Jackson,Welcome Assembly of God Ch,State Senate,2,REP,OverVotes,0
+Jackson,Sneads City Hall,State Senate,2,REP,OverVotes,0
+Jackson,Cottondale Comm Ctr,State Senate,2,REP,OverVotes,1
+Jackson,Greenwood Town Hall,State Senate,2,REP,OverVotes,0
+Jackson,Graceville Civic Ctr,State Senate,2,REP,OverVotes,0
+Jackson,Malone Joy Club,State Senate,2,REP,UnderVotes,3
+Jackson,Campbellton Comm Center,State Senate,2,REP,UnderVotes,2
+Jackson,Citizens Lodge,State Senate,2,REP,UnderVotes,5
+Jackson,Alford Comm Ctr,State Senate,2,REP,UnderVotes,5
+Jackson,Cypress Park,State Senate,2,REP,UnderVotes,1
+Jackson,Co Comm Admin Bldg,State Senate,2,REP,UnderVotes,3
+Jackson,Eastside Baptist Church,State Senate,2,REP,UnderVotes,9
+Jackson,Shady Grove Methodist Ch,State Senate,2,REP,UnderVotes,7
+Jackson,Grand Ridge Comm Ctr,State Senate,2,REP,UnderVotes,6
+Jackson,Welcome Assembly of God Ch,State Senate,2,REP,UnderVotes,4
+Jackson,Sneads City Hall,State Senate,2,REP,UnderVotes,8
+Jackson,Cottondale Comm Ctr,State Senate,2,REP,UnderVotes,3
+Jackson,Greenwood Town Hall,State Senate,2,REP,UnderVotes,0
+Jackson,Graceville Civic Ctr,State Senate,2,REP,UnderVotes,17
+Jackson,Malone Joy Club,State House,5,REP,Shane Abbott,267
+Jackson,Campbellton Comm Center,State House,5,REP,Shane Abbott,189
+Jackson,Citizens Lodge,State House,5,REP,Shane Abbott,532
+Jackson,Alford Comm Ctr,State House,5,REP,Shane Abbott,606
+Jackson,Cypress Park,State House,5,REP,Shane Abbott,113
+Jackson,Co Comm Admin Bldg,State House,5,REP,Shane Abbott,316
+Jackson,Eastside Baptist Church,State House,5,REP,Shane Abbott,506
+Jackson,Shady Grove Methodist Ch,State House,5,REP,Shane Abbott,183
+Jackson,Grand Ridge Comm Ctr,State House,5,REP,Shane Abbott,242
+Jackson,Welcome Assembly of God Ch,State House,5,REP,Shane Abbott,289
+Jackson,Sneads City Hall,State House,5,REP,Shane Abbott,377
+Jackson,Cottondale Comm Ctr,State House,5,REP,Shane Abbott,305
+Jackson,Greenwood Town Hall,State House,5,REP,Shane Abbott,141
+Jackson,Graceville Civic Ctr,State House,5,REP,Shane Abbott,497
+Jackson,Malone Joy Club,State House,5,REP,Vance D. Coley,127
+Jackson,Campbellton Comm Center,State House,5,REP,Vance D. Coley,72
+Jackson,Citizens Lodge,State House,5,REP,Vance D. Coley,284
+Jackson,Alford Comm Ctr,State House,5,REP,Vance D. Coley,195
+Jackson,Cypress Park,State House,5,REP,Vance D. Coley,48
+Jackson,Co Comm Admin Bldg,State House,5,REP,Vance D. Coley,176
+Jackson,Eastside Baptist Church,State House,5,REP,Vance D. Coley,250
+Jackson,Shady Grove Methodist Ch,State House,5,REP,Vance D. Coley,69
+Jackson,Grand Ridge Comm Ctr,State House,5,REP,Vance D. Coley,99
+Jackson,Welcome Assembly of God Ch,State House,5,REP,Vance D. Coley,148
+Jackson,Sneads City Hall,State House,5,REP,Vance D. Coley,157
+Jackson,Cottondale Comm Ctr,State House,5,REP,Vance D. Coley,129
+Jackson,Greenwood Town Hall,State House,5,REP,Vance D. Coley,67
+Jackson,Graceville Civic Ctr,State House,5,REP,Vance D. Coley,126
+Jackson,Malone Joy Club,State House,5,REP,Clint Pate,99
+Jackson,Campbellton Comm Center,State House,5,REP,Clint Pate,87
+Jackson,Citizens Lodge,State House,5,REP,Clint Pate,182
+Jackson,Alford Comm Ctr,State House,5,REP,Clint Pate,266
+Jackson,Cypress Park,State House,5,REP,Clint Pate,56
+Jackson,Co Comm Admin Bldg,State House,5,REP,Clint Pate,132
+Jackson,Eastside Baptist Church,State House,5,REP,Clint Pate,163
+Jackson,Shady Grove Methodist Ch,State House,5,REP,Clint Pate,80
+Jackson,Grand Ridge Comm Ctr,State House,5,REP,Clint Pate,100
+Jackson,Welcome Assembly of God Ch,State House,5,REP,Clint Pate,116
+Jackson,Sneads City Hall,State House,5,REP,Clint Pate,150
+Jackson,Cottondale Comm Ctr,State House,5,REP,Clint Pate,121
+Jackson,Greenwood Town Hall,State House,5,REP,Clint Pate,66
+Jackson,Graceville Civic Ctr,State House,5,REP,Clint Pate,258
+Jackson,Malone Joy Club,State House,5,REP,OverVotes,0
+Jackson,Campbellton Comm Center,State House,5,REP,OverVotes,0
+Jackson,Citizens Lodge,State House,5,REP,OverVotes,0
+Jackson,Alford Comm Ctr,State House,5,REP,OverVotes,0
+Jackson,Cypress Park,State House,5,REP,OverVotes,0
+Jackson,Co Comm Admin Bldg,State House,5,REP,OverVotes,0
+Jackson,Eastside Baptist Church,State House,5,REP,OverVotes,0
+Jackson,Shady Grove Methodist Ch,State House,5,REP,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,State House,5,REP,OverVotes,0
+Jackson,Welcome Assembly of God Ch,State House,5,REP,OverVotes,0
+Jackson,Sneads City Hall,State House,5,REP,OverVotes,0
+Jackson,Cottondale Comm Ctr,State House,5,REP,OverVotes,1
+Jackson,Greenwood Town Hall,State House,5,REP,OverVotes,0
+Jackson,Graceville Civic Ctr,State House,5,REP,OverVotes,0
+Jackson,Malone Joy Club,State House,5,REP,UnderVotes,29
+Jackson,Campbellton Comm Center,State House,5,REP,UnderVotes,59
+Jackson,Citizens Lodge,State House,5,REP,UnderVotes,77
+Jackson,Alford Comm Ctr,State House,5,REP,UnderVotes,31
+Jackson,Cypress Park,State House,5,REP,UnderVotes,11
+Jackson,Co Comm Admin Bldg,State House,5,REP,UnderVotes,67
+Jackson,Eastside Baptist Church,State House,5,REP,UnderVotes,24
+Jackson,Shady Grove Methodist Ch,State House,5,REP,UnderVotes,12
+Jackson,Grand Ridge Comm Ctr,State House,5,REP,UnderVotes,23
+Jackson,Welcome Assembly of God Ch,State House,5,REP,UnderVotes,71
+Jackson,Sneads City Hall,State House,5,REP,UnderVotes,40
+Jackson,Cottondale Comm Ctr,State House,5,REP,UnderVotes,39
+Jackson,Greenwood Town Hall,State House,5,REP,UnderVotes,34
+Jackson,Graceville Civic Ctr,State House,5,REP,UnderVotes,26
+Jackson,Campbellton Comm Center,County Commissioner,2,REP,Edward E. Crutchfield,3
+Jackson,Alford Comm Ctr,County Commissioner,2,REP,Edward E. Crutchfield,128
+Jackson,Co Comm Admin Bldg,County Commissioner,2,REP,Edward E. Crutchfield,0
+Jackson,Cottondale Comm Ctr,County Commissioner,2,REP,Edward E. Crutchfield,175
+Jackson,Graceville Civic Ctr,County Commissioner,2,REP,Edward E. Crutchfield,655
+Jackson,Campbellton Comm Center,County Commissioner,2,REP,"Peter ""Sonny"" Fortunato",0
+Jackson,Alford Comm Ctr,County Commissioner,2,REP,"Peter ""Sonny"" Fortunato",327
+Jackson,Co Comm Admin Bldg,County Commissioner,2,REP,"Peter ""Sonny"" Fortunato",0
+Jackson,Cottondale Comm Ctr,County Commissioner,2,REP,"Peter ""Sonny"" Fortunato",187
+Jackson,Graceville Civic Ctr,County Commissioner,2,REP,"Peter ""Sonny"" Fortunato",212
+Jackson,Campbellton Comm Center,County Commissioner,2,REP,OverVotes,0
+Jackson,Alford Comm Ctr,County Commissioner,2,REP,OverVotes,0
+Jackson,Co Comm Admin Bldg,County Commissioner,2,REP,OverVotes,0
+Jackson,Cottondale Comm Ctr,County Commissioner,2,REP,OverVotes,0
+Jackson,Graceville Civic Ctr,County Commissioner,2,REP,OverVotes,0
+Jackson,Campbellton Comm Center,County Commissioner,2,REP,UnderVotes,0
+Jackson,Alford Comm Ctr,County Commissioner,2,REP,UnderVotes,9
+Jackson,Co Comm Admin Bldg,County Commissioner,2,REP,UnderVotes,0
+Jackson,Cottondale Comm Ctr,County Commissioner,2,REP,UnderVotes,9
+Jackson,Graceville Civic Ctr,County Commissioner,2,REP,UnderVotes,15
+Jackson,Alford Comm Ctr,County Commissioner,4,REP,Donnie Branch,264
+Jackson,Cypress Park,County Commissioner,4,REP,Donnie Branch,43
+Jackson,Eastside Baptist Church,County Commissioner,4,REP,Donnie Branch,153
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,REP,Donnie Branch,237
+Jackson,Grand Ridge Comm Ctr,County Commissioner,4,REP,Donnie Branch,17
+Jackson,Sneads City Hall,County Commissioner,4,REP,Donnie Branch,297
+Jackson,Alford Comm Ctr,County Commissioner,4,REP,Eric Hill,241
+Jackson,Cypress Park,County Commissioner,4,REP,Eric Hill,28
+Jackson,Eastside Baptist Church,County Commissioner,4,REP,Eric Hill,154
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,REP,Eric Hill,101
+Jackson,Grand Ridge Comm Ctr,County Commissioner,4,REP,Eric Hill,4
+Jackson,Sneads City Hall,County Commissioner,4,REP,Eric Hill,250
+Jackson,Alford Comm Ctr,County Commissioner,4,REP,OverVotes,0
+Jackson,Cypress Park,County Commissioner,4,REP,OverVotes,0
+Jackson,Eastside Baptist Church,County Commissioner,4,REP,OverVotes,0
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,REP,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,County Commissioner,4,REP,OverVotes,0
+Jackson,Sneads City Hall,County Commissioner,4,REP,OverVotes,0
+Jackson,Alford Comm Ctr,County Commissioner,4,REP,UnderVotes,14
+Jackson,Cypress Park,County Commissioner,4,REP,UnderVotes,4
+Jackson,Eastside Baptist Church,County Commissioner,4,REP,UnderVotes,4
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,REP,UnderVotes,6
+Jackson,Grand Ridge Comm Ctr,County Commissioner,4,REP,UnderVotes,0
+Jackson,Sneads City Hall,County Commissioner,4,REP,UnderVotes,20
+Jackson,Campbellton Comm Center,School Board,1,NOP,Samantha Angerbrandt,74
+Jackson,Citizens Lodge,School Board,1,NOP,Samantha Angerbrandt,12
+Jackson,Co Comm Admin Bldg,School Board,1,NOP,Samantha Angerbrandt,22
+Jackson,Welcome Assembly of God Ch,School Board,1,NOP,Samantha Angerbrandt,16
+Jackson,Cottondale Comm Ctr,School Board,1,NOP,Samantha Angerbrandt,8
+Jackson,Greenwood Town Hall,School Board,1,NOP,Samantha Angerbrandt,18
+Jackson,Graceville Civic Ctr,School Board,1,NOP,Samantha Angerbrandt,188
+Jackson,Campbellton Comm Center,School Board,1,NOP,Chephus D. Granberry,224
+Jackson,Citizens Lodge,School Board,1,NOP,Chephus D. Granberry,32
+Jackson,Co Comm Admin Bldg,School Board,1,NOP,Chephus D. Granberry,215
+Jackson,Welcome Assembly of God Ch,School Board,1,NOP,Chephus D. Granberry,156
+Jackson,Cottondale Comm Ctr,School Board,1,NOP,Chephus D. Granberry,62
+Jackson,Greenwood Town Hall,School Board,1,NOP,Chephus D. Granberry,181
+Jackson,Graceville Civic Ctr,School Board,1,NOP,Chephus D. Granberry,73
+Jackson,Campbellton Comm Center,School Board,1,NOP,Steve Welch,54
+Jackson,Citizens Lodge,School Board,1,NOP,Steve Welch,12
+Jackson,Co Comm Admin Bldg,School Board,1,NOP,Steve Welch,29
+Jackson,Welcome Assembly of God Ch,School Board,1,NOP,Steve Welch,40
+Jackson,Cottondale Comm Ctr,School Board,1,NOP,Steve Welch,21
+Jackson,Greenwood Town Hall,School Board,1,NOP,Steve Welch,85
+Jackson,Graceville Civic Ctr,School Board,1,NOP,Steve Welch,68
+Jackson,Campbellton Comm Center,School Board,1,NOP,OverVotes,0
+Jackson,Citizens Lodge,School Board,1,NOP,OverVotes,0
+Jackson,Co Comm Admin Bldg,School Board,1,NOP,OverVotes,0
+Jackson,Welcome Assembly of God Ch,School Board,1,NOP,OverVotes,0
+Jackson,Cottondale Comm Ctr,School Board,1,NOP,OverVotes,0
+Jackson,Greenwood Town Hall,School Board,1,NOP,OverVotes,0
+Jackson,Graceville Civic Ctr,School Board,1,NOP,OverVotes,0
+Jackson,Campbellton Comm Center,School Board,1,NOP,UnderVotes,16
+Jackson,Citizens Lodge,School Board,1,NOP,UnderVotes,3
+Jackson,Co Comm Admin Bldg,School Board,1,NOP,UnderVotes,7
+Jackson,Welcome Assembly of God Ch,School Board,1,NOP,UnderVotes,7
+Jackson,Cottondale Comm Ctr,School Board,1,NOP,UnderVotes,4
+Jackson,Greenwood Town Hall,School Board,1,NOP,UnderVotes,8
+Jackson,Graceville Civic Ctr,School Board,1,NOP,UnderVotes,18
+Jackson,Malone Joy Club,School Board,5,NOP,Dave Galloway,193
+Jackson,Campbellton Comm Center,School Board,5,NOP,Dave Galloway,8
+Jackson,Cypress Park,School Board,5,NOP,Dave Galloway,46
+Jackson,Eastside Baptist Church,School Board,5,NOP,Dave Galloway,172
+Jackson,Grand Ridge Comm Ctr,School Board,5,NOP,Dave Galloway,98
+Jackson,Welcome Assembly of God Ch,School Board,5,NOP,Dave Galloway,102
+Jackson,Greenwood Town Hall,School Board,5,NOP,Dave Galloway,8
+Jackson,Malone Joy Club,School Board,5,NOP,"Michael ""M.J."" Jackson",316
+Jackson,Campbellton Comm Center,School Board,5,NOP,"Michael ""M.J."" Jackson",2
+Jackson,Cypress Park,School Board,5,NOP,"Michael ""M.J."" Jackson",99
+Jackson,Eastside Baptist Church,School Board,5,NOP,"Michael ""M.J."" Jackson",199
+Jackson,Grand Ridge Comm Ctr,School Board,5,NOP,"Michael ""M.J."" Jackson",308
+Jackson,Welcome Assembly of God Ch,School Board,5,NOP,"Michael ""M.J."" Jackson",295
+Jackson,Greenwood Town Hall,School Board,5,NOP,"Michael ""M.J."" Jackson",7
+Jackson,Malone Joy Club,School Board,5,NOP,OverVotes,0
+Jackson,Campbellton Comm Center,School Board,5,NOP,OverVotes,0
+Jackson,Cypress Park,School Board,5,NOP,OverVotes,0
+Jackson,Eastside Baptist Church,School Board,5,NOP,OverVotes,0
+Jackson,Grand Ridge Comm Ctr,School Board,5,NOP,OverVotes,0
+Jackson,Welcome Assembly of God Ch,School Board,5,NOP,OverVotes,0
+Jackson,Greenwood Town Hall,School Board,5,NOP,OverVotes,0
+Jackson,Malone Joy Club,School Board,5,NOP,UnderVotes,13
+Jackson,Campbellton Comm Center,School Board,5,NOP,UnderVotes,2
+Jackson,Cypress Park,School Board,5,NOP,UnderVotes,8
+Jackson,Eastside Baptist Church,School Board,5,NOP,UnderVotes,18
+Jackson,Grand Ridge Comm Ctr,School Board,5,NOP,UnderVotes,8
+Jackson,Welcome Assembly of God Ch,School Board,5,NOP,UnderVotes,8
+Jackson,Greenwood Town Hall,School Board,5,NOP,UnderVotes,1
+Jackson,Alford Comm Ctr,Registered Voters,"","","",3541
+Jackson,Campbellton Comm Center,Registered Voters,"","","",1198
+Jackson,Citizens Lodge,Registered Voters,"","","",3353
+Jackson,Co Comm Admin Bldg,Registered Voters,"","","",2632
+Jackson,Cottondale Comm Ctr,Registered Voters,"","","",2080
+Jackson,Cypress Park,Registered Voters,"","","",710
+Jackson,Eastside Baptist Church,Registered Voters,"","","",2856
+Jackson,Graceville Civic Ctr,Registered Voters,"","","",2750
+Jackson,Grand Ridge Comm Ctr,Registered Voters,"","","",1555
+Jackson,Greenwood Town Hall,Registered Voters,"","","",957
+Jackson,Malone Joy Club,Registered Voters,"","","",1673
+Jackson,Shady Grove Methodist Ch,Registered Voters,"","","",957
+Jackson,Sneads City Hall,Registered Voters,"","","",2245
+Jackson,Welcome Assembly of God Ch,Registered Voters,"","","",1909

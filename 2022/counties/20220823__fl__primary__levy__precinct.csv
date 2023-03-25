@@ -1,0 +1,859 @@
+county,precinct,office,district,party,candidate,votes
+Levy,Bronson Ag Extension Bldg,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Levy,Williston Highlands,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Levy,Bronson Dogan Cobb Bldg,U.S. Senate,"",DEM,Ricardo De La Fuente,19
+Levy,Cedar Key Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Levy,Willow Sink,U.S. Senate,"",DEM,Ricardo De La Fuente,14
+Levy,Gulf Hammock Church of God,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Levy,Williston City Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Levy,Morriston Baptist Church,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Levy,Inglis Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Levy,Pine Grove Baptist Church,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Levy,Miracle Vision Tabernacle,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Levy,Fanning Springs City Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Levy,Chiefland Tommy Usher Center,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Levy,Bronson Ag Extension Bldg,U.S. Senate,"",DEM,Val Demings,107
+Levy,Williston Highlands,U.S. Senate,"",DEM,Val Demings,132
+Levy,Bronson Dogan Cobb Bldg,U.S. Senate,"",DEM,Val Demings,179
+Levy,Cedar Key Community Center,U.S. Senate,"",DEM,Val Demings,110
+Levy,Willow Sink,U.S. Senate,"",DEM,Val Demings,122
+Levy,Gulf Hammock Church of God,U.S. Senate,"",DEM,Val Demings,16
+Levy,Williston City Hall,U.S. Senate,"",DEM,Val Demings,216
+Levy,Morriston Baptist Church,U.S. Senate,"",DEM,Val Demings,116
+Levy,Inglis Community Center,U.S. Senate,"",DEM,Val Demings,132
+Levy,Pine Grove Baptist Church,U.S. Senate,"",DEM,Val Demings,29
+Levy,Miracle Vision Tabernacle,U.S. Senate,"",DEM,Val Demings,92
+Levy,Fanning Springs City Hall,U.S. Senate,"",DEM,Val Demings,69
+Levy,Chiefland Tommy Usher Center,U.S. Senate,"",DEM,Val Demings,111
+Levy,Bronson Ag Extension Bldg,U.S. Senate,"",DEM,Brian Rush,36
+Levy,Williston Highlands,U.S. Senate,"",DEM,Brian Rush,44
+Levy,Bronson Dogan Cobb Bldg,U.S. Senate,"",DEM,Brian Rush,48
+Levy,Cedar Key Community Center,U.S. Senate,"",DEM,Brian Rush,24
+Levy,Willow Sink,U.S. Senate,"",DEM,Brian Rush,38
+Levy,Gulf Hammock Church of God,U.S. Senate,"",DEM,Brian Rush,6
+Levy,Williston City Hall,U.S. Senate,"",DEM,Brian Rush,51
+Levy,Morriston Baptist Church,U.S. Senate,"",DEM,Brian Rush,36
+Levy,Inglis Community Center,U.S. Senate,"",DEM,Brian Rush,26
+Levy,Pine Grove Baptist Church,U.S. Senate,"",DEM,Brian Rush,10
+Levy,Miracle Vision Tabernacle,U.S. Senate,"",DEM,Brian Rush,21
+Levy,Fanning Springs City Hall,U.S. Senate,"",DEM,Brian Rush,27
+Levy,Chiefland Tommy Usher Center,U.S. Senate,"",DEM,Brian Rush,36
+Levy,Bronson Ag Extension Bldg,U.S. Senate,"",DEM,William Sanchez,24
+Levy,Williston Highlands,U.S. Senate,"",DEM,William Sanchez,25
+Levy,Bronson Dogan Cobb Bldg,U.S. Senate,"",DEM,William Sanchez,37
+Levy,Cedar Key Community Center,U.S. Senate,"",DEM,William Sanchez,14
+Levy,Willow Sink,U.S. Senate,"",DEM,William Sanchez,24
+Levy,Gulf Hammock Church of God,U.S. Senate,"",DEM,William Sanchez,3
+Levy,Williston City Hall,U.S. Senate,"",DEM,William Sanchez,33
+Levy,Morriston Baptist Church,U.S. Senate,"",DEM,William Sanchez,26
+Levy,Inglis Community Center,U.S. Senate,"",DEM,William Sanchez,12
+Levy,Pine Grove Baptist Church,U.S. Senate,"",DEM,William Sanchez,17
+Levy,Miracle Vision Tabernacle,U.S. Senate,"",DEM,William Sanchez,11
+Levy,Fanning Springs City Hall,U.S. Senate,"",DEM,William Sanchez,20
+Levy,Chiefland Tommy Usher Center,U.S. Senate,"",DEM,William Sanchez,24
+Levy,Bronson Ag Extension Bldg,U.S. Senate,"",DEM,OverVotes,0
+Levy,Williston Highlands,U.S. Senate,"",DEM,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,U.S. Senate,"",DEM,OverVotes,0
+Levy,Cedar Key Community Center,U.S. Senate,"",DEM,OverVotes,0
+Levy,Willow Sink,U.S. Senate,"",DEM,OverVotes,0
+Levy,Gulf Hammock Church of God,U.S. Senate,"",DEM,OverVotes,0
+Levy,Williston City Hall,U.S. Senate,"",DEM,OverVotes,0
+Levy,Morriston Baptist Church,U.S. Senate,"",DEM,OverVotes,0
+Levy,Inglis Community Center,U.S. Senate,"",DEM,OverVotes,0
+Levy,Pine Grove Baptist Church,U.S. Senate,"",DEM,OverVotes,0
+Levy,Miracle Vision Tabernacle,U.S. Senate,"",DEM,OverVotes,0
+Levy,Fanning Springs City Hall,U.S. Senate,"",DEM,OverVotes,0
+Levy,Chiefland Tommy Usher Center,U.S. Senate,"",DEM,OverVotes,0
+Levy,Bronson Ag Extension Bldg,U.S. Senate,"",DEM,UnderVotes,9
+Levy,Williston Highlands,U.S. Senate,"",DEM,UnderVotes,12
+Levy,Bronson Dogan Cobb Bldg,U.S. Senate,"",DEM,UnderVotes,11
+Levy,Cedar Key Community Center,U.S. Senate,"",DEM,UnderVotes,11
+Levy,Willow Sink,U.S. Senate,"",DEM,UnderVotes,28
+Levy,Gulf Hammock Church of God,U.S. Senate,"",DEM,UnderVotes,10
+Levy,Williston City Hall,U.S. Senate,"",DEM,UnderVotes,14
+Levy,Morriston Baptist Church,U.S. Senate,"",DEM,UnderVotes,8
+Levy,Inglis Community Center,U.S. Senate,"",DEM,UnderVotes,12
+Levy,Pine Grove Baptist Church,U.S. Senate,"",DEM,UnderVotes,14
+Levy,Miracle Vision Tabernacle,U.S. Senate,"",DEM,UnderVotes,10
+Levy,Fanning Springs City Hall,U.S. Senate,"",DEM,UnderVotes,10
+Levy,Chiefland Tommy Usher Center,U.S. Senate,"",DEM,UnderVotes,17
+Levy,Bronson Ag Extension Bldg,U.S. House,3,REP,Kat Cammack,328
+Levy,Williston Highlands,U.S. House,3,REP,Kat Cammack,531
+Levy,Bronson Dogan Cobb Bldg,U.S. House,3,REP,Kat Cammack,583
+Levy,Cedar Key Community Center,U.S. House,3,REP,Kat Cammack,238
+Levy,Willow Sink,U.S. House,3,REP,Kat Cammack,907
+Levy,Gulf Hammock Church of God,U.S. House,3,REP,Kat Cammack,141
+Levy,Williston City Hall,U.S. House,3,REP,Kat Cammack,408
+Levy,Morriston Baptist Church,U.S. House,3,REP,Kat Cammack,599
+Levy,Inglis Community Center,U.S. House,3,REP,Kat Cammack,398
+Levy,Pine Grove Baptist Church,U.S. House,3,REP,Kat Cammack,312
+Levy,Miracle Vision Tabernacle,U.S. House,3,REP,Kat Cammack,263
+Levy,Fanning Springs City Hall,U.S. House,3,REP,Kat Cammack,417
+Levy,Chiefland Tommy Usher Center,U.S. House,3,REP,Kat Cammack,452
+Levy,Bronson Ag Extension Bldg,U.S. House,3,REP,Justin Waters,47
+Levy,Williston Highlands,U.S. House,3,REP,Justin Waters,77
+Levy,Bronson Dogan Cobb Bldg,U.S. House,3,REP,Justin Waters,91
+Levy,Cedar Key Community Center,U.S. House,3,REP,Justin Waters,38
+Levy,Willow Sink,U.S. House,3,REP,Justin Waters,115
+Levy,Gulf Hammock Church of God,U.S. House,3,REP,Justin Waters,14
+Levy,Williston City Hall,U.S. House,3,REP,Justin Waters,46
+Levy,Morriston Baptist Church,U.S. House,3,REP,Justin Waters,108
+Levy,Inglis Community Center,U.S. House,3,REP,Justin Waters,79
+Levy,Pine Grove Baptist Church,U.S. House,3,REP,Justin Waters,32
+Levy,Miracle Vision Tabernacle,U.S. House,3,REP,Justin Waters,28
+Levy,Fanning Springs City Hall,U.S. House,3,REP,Justin Waters,37
+Levy,Chiefland Tommy Usher Center,U.S. House,3,REP,Justin Waters,72
+Levy,Bronson Ag Extension Bldg,U.S. House,3,DEM,Danielle Hawk,115
+Levy,Williston Highlands,U.S. House,3,DEM,Danielle Hawk,126
+Levy,Bronson Dogan Cobb Bldg,U.S. House,3,DEM,Danielle Hawk,166
+Levy,Cedar Key Community Center,U.S. House,3,DEM,Danielle Hawk,92
+Levy,Willow Sink,U.S. House,3,DEM,Danielle Hawk,139
+Levy,Gulf Hammock Church of God,U.S. House,3,DEM,Danielle Hawk,15
+Levy,Williston City Hall,U.S. House,3,DEM,Danielle Hawk,175
+Levy,Morriston Baptist Church,U.S. House,3,DEM,Danielle Hawk,116
+Levy,Inglis Community Center,U.S. House,3,DEM,Danielle Hawk,111
+Levy,Pine Grove Baptist Church,U.S. House,3,DEM,Danielle Hawk,36
+Levy,Miracle Vision Tabernacle,U.S. House,3,DEM,Danielle Hawk,92
+Levy,Fanning Springs City Hall,U.S. House,3,DEM,Danielle Hawk,68
+Levy,Chiefland Tommy Usher Center,U.S. House,3,DEM,Danielle Hawk,101
+Levy,Bronson Ag Extension Bldg,U.S. House,3,DEM,Tom Wells,54
+Levy,Williston Highlands,U.S. House,3,DEM,Tom Wells,80
+Levy,Bronson Dogan Cobb Bldg,U.S. House,3,DEM,Tom Wells,113
+Levy,Cedar Key Community Center,U.S. House,3,DEM,Tom Wells,56
+Levy,Willow Sink,U.S. House,3,DEM,Tom Wells,57
+Levy,Gulf Hammock Church of God,U.S. House,3,DEM,Tom Wells,11
+Levy,Williston City Hall,U.S. House,3,DEM,Tom Wells,122
+Levy,Morriston Baptist Church,U.S. House,3,DEM,Tom Wells,68
+Levy,Inglis Community Center,U.S. House,3,DEM,Tom Wells,61
+Levy,Pine Grove Baptist Church,U.S. House,3,DEM,Tom Wells,23
+Levy,Miracle Vision Tabernacle,U.S. House,3,DEM,Tom Wells,32
+Levy,Fanning Springs City Hall,U.S. House,3,DEM,Tom Wells,50
+Levy,Chiefland Tommy Usher Center,U.S. House,3,DEM,Tom Wells,75
+Levy,Bronson Ag Extension Bldg,U.S. House,3,DEM,OverVotes,0
+Levy,Williston Highlands,U.S. House,3,DEM,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,U.S. House,3,DEM,OverVotes,0
+Levy,Cedar Key Community Center,U.S. House,3,DEM,OverVotes,0
+Levy,Willow Sink,U.S. House,3,DEM,OverVotes,0
+Levy,Gulf Hammock Church of God,U.S. House,3,DEM,OverVotes,0
+Levy,Williston City Hall,U.S. House,3,DEM,OverVotes,0
+Levy,Morriston Baptist Church,U.S. House,3,DEM,OverVotes,0
+Levy,Inglis Community Center,U.S. House,3,DEM,OverVotes,0
+Levy,Pine Grove Baptist Church,U.S. House,3,DEM,OverVotes,0
+Levy,Miracle Vision Tabernacle,U.S. House,3,DEM,OverVotes,0
+Levy,Fanning Springs City Hall,U.S. House,3,DEM,OverVotes,0
+Levy,Chiefland Tommy Usher Center,U.S. House,3,DEM,OverVotes,0
+Levy,Bronson Ag Extension Bldg,U.S. House,3,DEM,UnderVotes,15
+Levy,Williston Highlands,U.S. House,3,DEM,UnderVotes,18
+Levy,Bronson Dogan Cobb Bldg,U.S. House,3,DEM,UnderVotes,15
+Levy,Cedar Key Community Center,U.S. House,3,DEM,UnderVotes,17
+Levy,Willow Sink,U.S. House,3,DEM,UnderVotes,30
+Levy,Gulf Hammock Church of God,U.S. House,3,DEM,UnderVotes,10
+Levy,Williston City Hall,U.S. House,3,DEM,UnderVotes,28
+Levy,Morriston Baptist Church,U.S. House,3,DEM,UnderVotes,11
+Levy,Inglis Community Center,U.S. House,3,DEM,UnderVotes,16
+Levy,Pine Grove Baptist Church,U.S. House,3,DEM,UnderVotes,12
+Levy,Miracle Vision Tabernacle,U.S. House,3,DEM,UnderVotes,14
+Levy,Fanning Springs City Hall,U.S. House,3,DEM,UnderVotes,11
+Levy,Chiefland Tommy Usher Center,U.S. House,3,DEM,UnderVotes,19
+Levy,Bronson Ag Extension Bldg,Governor,"",DEM,Charlie Crist,87
+Levy,Williston Highlands,Governor,"",DEM,Charlie Crist,91
+Levy,Bronson Dogan Cobb Bldg,Governor,"",DEM,Charlie Crist,156
+Levy,Cedar Key Community Center,Governor,"",DEM,Charlie Crist,85
+Levy,Willow Sink,Governor,"",DEM,Charlie Crist,114
+Levy,Gulf Hammock Church of God,Governor,"",DEM,Charlie Crist,13
+Levy,Williston City Hall,Governor,"",DEM,Charlie Crist,161
+Levy,Morriston Baptist Church,Governor,"",DEM,Charlie Crist,119
+Levy,Inglis Community Center,Governor,"",DEM,Charlie Crist,88
+Levy,Pine Grove Baptist Church,Governor,"",DEM,Charlie Crist,41
+Levy,Miracle Vision Tabernacle,Governor,"",DEM,Charlie Crist,52
+Levy,Fanning Springs City Hall,Governor,"",DEM,Charlie Crist,66
+Levy,Chiefland Tommy Usher Center,Governor,"",DEM,Charlie Crist,114
+Levy,Bronson Ag Extension Bldg,Governor,"",DEM,Cadance Daniel,9
+Levy,Williston Highlands,Governor,"",DEM,Cadance Daniel,6
+Levy,Bronson Dogan Cobb Bldg,Governor,"",DEM,Cadance Daniel,13
+Levy,Cedar Key Community Center,Governor,"",DEM,Cadance Daniel,7
+Levy,Willow Sink,Governor,"",DEM,Cadance Daniel,5
+Levy,Gulf Hammock Church of God,Governor,"",DEM,Cadance Daniel,2
+Levy,Williston City Hall,Governor,"",DEM,Cadance Daniel,10
+Levy,Morriston Baptist Church,Governor,"",DEM,Cadance Daniel,6
+Levy,Inglis Community Center,Governor,"",DEM,Cadance Daniel,6
+Levy,Pine Grove Baptist Church,Governor,"",DEM,Cadance Daniel,0
+Levy,Miracle Vision Tabernacle,Governor,"",DEM,Cadance Daniel,4
+Levy,Fanning Springs City Hall,Governor,"",DEM,Cadance Daniel,3
+Levy,Chiefland Tommy Usher Center,Governor,"",DEM,Cadance Daniel,4
+Levy,Bronson Ag Extension Bldg,Governor,"",DEM,"Nicole ""Nikki"" Fried",69
+Levy,Williston Highlands,Governor,"",DEM,"Nicole ""Nikki"" Fried",101
+Levy,Bronson Dogan Cobb Bldg,Governor,"",DEM,"Nicole ""Nikki"" Fried",104
+Levy,Cedar Key Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",58
+Levy,Willow Sink,Governor,"",DEM,"Nicole ""Nikki"" Fried",80
+Levy,Gulf Hammock Church of God,Governor,"",DEM,"Nicole ""Nikki"" Fried",13
+Levy,Williston City Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",138
+Levy,Morriston Baptist Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",64
+Levy,Inglis Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",81
+Levy,Pine Grove Baptist Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Levy,Miracle Vision Tabernacle,Governor,"",DEM,"Nicole ""Nikki"" Fried",64
+Levy,Fanning Springs City Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",42
+Levy,Chiefland Tommy Usher Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",58
+Levy,Bronson Ag Extension Bldg,Governor,"",DEM,Robert L. Willis,14
+Levy,Williston Highlands,Governor,"",DEM,Robert L. Willis,17
+Levy,Bronson Dogan Cobb Bldg,Governor,"",DEM,Robert L. Willis,16
+Levy,Cedar Key Community Center,Governor,"",DEM,Robert L. Willis,8
+Levy,Willow Sink,Governor,"",DEM,Robert L. Willis,17
+Levy,Gulf Hammock Church of God,Governor,"",DEM,Robert L. Willis,1
+Levy,Williston City Hall,Governor,"",DEM,Robert L. Willis,11
+Levy,Morriston Baptist Church,Governor,"",DEM,Robert L. Willis,5
+Levy,Inglis Community Center,Governor,"",DEM,Robert L. Willis,8
+Levy,Pine Grove Baptist Church,Governor,"",DEM,Robert L. Willis,7
+Levy,Miracle Vision Tabernacle,Governor,"",DEM,Robert L. Willis,10
+Levy,Fanning Springs City Hall,Governor,"",DEM,Robert L. Willis,12
+Levy,Chiefland Tommy Usher Center,Governor,"",DEM,Robert L. Willis,11
+Levy,Bronson Ag Extension Bldg,Governor,"",DEM,OverVotes,0
+Levy,Williston Highlands,Governor,"",DEM,OverVotes,2
+Levy,Bronson Dogan Cobb Bldg,Governor,"",DEM,OverVotes,2
+Levy,Cedar Key Community Center,Governor,"",DEM,OverVotes,0
+Levy,Willow Sink,Governor,"",DEM,OverVotes,0
+Levy,Gulf Hammock Church of God,Governor,"",DEM,OverVotes,0
+Levy,Williston City Hall,Governor,"",DEM,OverVotes,0
+Levy,Morriston Baptist Church,Governor,"",DEM,OverVotes,0
+Levy,Inglis Community Center,Governor,"",DEM,OverVotes,1
+Levy,Pine Grove Baptist Church,Governor,"",DEM,OverVotes,0
+Levy,Miracle Vision Tabernacle,Governor,"",DEM,OverVotes,2
+Levy,Fanning Springs City Hall,Governor,"",DEM,OverVotes,0
+Levy,Chiefland Tommy Usher Center,Governor,"",DEM,OverVotes,0
+Levy,Bronson Ag Extension Bldg,Governor,"",DEM,UnderVotes,5
+Levy,Williston Highlands,Governor,"",DEM,UnderVotes,7
+Levy,Bronson Dogan Cobb Bldg,Governor,"",DEM,UnderVotes,3
+Levy,Cedar Key Community Center,Governor,"",DEM,UnderVotes,7
+Levy,Willow Sink,Governor,"",DEM,UnderVotes,10
+Levy,Gulf Hammock Church of God,Governor,"",DEM,UnderVotes,7
+Levy,Williston City Hall,Governor,"",DEM,UnderVotes,5
+Levy,Morriston Baptist Church,Governor,"",DEM,UnderVotes,1
+Levy,Inglis Community Center,Governor,"",DEM,UnderVotes,4
+Levy,Pine Grove Baptist Church,Governor,"",DEM,UnderVotes,7
+Levy,Miracle Vision Tabernacle,Governor,"",DEM,UnderVotes,6
+Levy,Fanning Springs City Hall,Governor,"",DEM,UnderVotes,6
+Levy,Chiefland Tommy Usher Center,Governor,"",DEM,UnderVotes,8
+Levy,Bronson Ag Extension Bldg,Attorney General,"",DEM,Aramis Ayala,61
+Levy,Williston Highlands,Attorney General,"",DEM,Aramis Ayala,67
+Levy,Bronson Dogan Cobb Bldg,Attorney General,"",DEM,Aramis Ayala,115
+Levy,Cedar Key Community Center,Attorney General,"",DEM,Aramis Ayala,41
+Levy,Willow Sink,Attorney General,"",DEM,Aramis Ayala,55
+Levy,Gulf Hammock Church of God,Attorney General,"",DEM,Aramis Ayala,9
+Levy,Williston City Hall,Attorney General,"",DEM,Aramis Ayala,112
+Levy,Morriston Baptist Church,Attorney General,"",DEM,Aramis Ayala,59
+Levy,Inglis Community Center,Attorney General,"",DEM,Aramis Ayala,57
+Levy,Pine Grove Baptist Church,Attorney General,"",DEM,Aramis Ayala,16
+Levy,Miracle Vision Tabernacle,Attorney General,"",DEM,Aramis Ayala,34
+Levy,Fanning Springs City Hall,Attorney General,"",DEM,Aramis Ayala,26
+Levy,Chiefland Tommy Usher Center,Attorney General,"",DEM,Aramis Ayala,77
+Levy,Bronson Ag Extension Bldg,Attorney General,"",DEM,Jim Lewis,72
+Levy,Williston Highlands,Attorney General,"",DEM,Jim Lewis,91
+Levy,Bronson Dogan Cobb Bldg,Attorney General,"",DEM,Jim Lewis,94
+Levy,Cedar Key Community Center,Attorney General,"",DEM,Jim Lewis,41
+Levy,Willow Sink,Attorney General,"",DEM,Jim Lewis,89
+Levy,Gulf Hammock Church of God,Attorney General,"",DEM,Jim Lewis,9
+Levy,Williston City Hall,Attorney General,"",DEM,Jim Lewis,105
+Levy,Morriston Baptist Church,Attorney General,"",DEM,Jim Lewis,79
+Levy,Inglis Community Center,Attorney General,"",DEM,Jim Lewis,69
+Levy,Pine Grove Baptist Church,Attorney General,"",DEM,Jim Lewis,27
+Levy,Miracle Vision Tabernacle,Attorney General,"",DEM,Jim Lewis,41
+Levy,Fanning Springs City Hall,Attorney General,"",DEM,Jim Lewis,63
+Levy,Chiefland Tommy Usher Center,Attorney General,"",DEM,Jim Lewis,62
+Levy,Bronson Ag Extension Bldg,Attorney General,"",DEM,Daniel Uhlfelder,35
+Levy,Williston Highlands,Attorney General,"",DEM,Daniel Uhlfelder,54
+Levy,Bronson Dogan Cobb Bldg,Attorney General,"",DEM,Daniel Uhlfelder,66
+Levy,Cedar Key Community Center,Attorney General,"",DEM,Daniel Uhlfelder,62
+Levy,Willow Sink,Attorney General,"",DEM,Daniel Uhlfelder,54
+Levy,Gulf Hammock Church of God,Attorney General,"",DEM,Daniel Uhlfelder,9
+Levy,Williston City Hall,Attorney General,"",DEM,Daniel Uhlfelder,86
+Levy,Morriston Baptist Church,Attorney General,"",DEM,Daniel Uhlfelder,47
+Levy,Inglis Community Center,Attorney General,"",DEM,Daniel Uhlfelder,42
+Levy,Pine Grove Baptist Church,Attorney General,"",DEM,Daniel Uhlfelder,11
+Levy,Miracle Vision Tabernacle,Attorney General,"",DEM,Daniel Uhlfelder,49
+Levy,Fanning Springs City Hall,Attorney General,"",DEM,Daniel Uhlfelder,26
+Levy,Chiefland Tommy Usher Center,Attorney General,"",DEM,Daniel Uhlfelder,36
+Levy,Bronson Ag Extension Bldg,Attorney General,"",DEM,OverVotes,0
+Levy,Williston Highlands,Attorney General,"",DEM,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,Attorney General,"",DEM,OverVotes,0
+Levy,Cedar Key Community Center,Attorney General,"",DEM,OverVotes,0
+Levy,Willow Sink,Attorney General,"",DEM,OverVotes,0
+Levy,Gulf Hammock Church of God,Attorney General,"",DEM,OverVotes,0
+Levy,Williston City Hall,Attorney General,"",DEM,OverVotes,0
+Levy,Morriston Baptist Church,Attorney General,"",DEM,OverVotes,0
+Levy,Inglis Community Center,Attorney General,"",DEM,OverVotes,0
+Levy,Pine Grove Baptist Church,Attorney General,"",DEM,OverVotes,0
+Levy,Miracle Vision Tabernacle,Attorney General,"",DEM,OverVotes,0
+Levy,Fanning Springs City Hall,Attorney General,"",DEM,OverVotes,0
+Levy,Chiefland Tommy Usher Center,Attorney General,"",DEM,OverVotes,0
+Levy,Bronson Ag Extension Bldg,Attorney General,"",DEM,UnderVotes,16
+Levy,Williston Highlands,Attorney General,"",DEM,UnderVotes,12
+Levy,Bronson Dogan Cobb Bldg,Attorney General,"",DEM,UnderVotes,19
+Levy,Cedar Key Community Center,Attorney General,"",DEM,UnderVotes,21
+Levy,Willow Sink,Attorney General,"",DEM,UnderVotes,28
+Levy,Gulf Hammock Church of God,Attorney General,"",DEM,UnderVotes,9
+Levy,Williston City Hall,Attorney General,"",DEM,UnderVotes,22
+Levy,Morriston Baptist Church,Attorney General,"",DEM,UnderVotes,10
+Levy,Inglis Community Center,Attorney General,"",DEM,UnderVotes,20
+Levy,Pine Grove Baptist Church,Attorney General,"",DEM,UnderVotes,17
+Levy,Miracle Vision Tabernacle,Attorney General,"",DEM,UnderVotes,14
+Levy,Fanning Springs City Hall,Attorney General,"",DEM,UnderVotes,14
+Levy,Chiefland Tommy Usher Center,Attorney General,"",DEM,UnderVotes,20
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",REP,James W. Shaw,121
+Levy,Williston Highlands,Commissioner of Agriculture,"",REP,James W. Shaw,192
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",REP,James W. Shaw,217
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,101
+Levy,Willow Sink,Commissioner of Agriculture,"",REP,James W. Shaw,285
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",REP,James W. Shaw,47
+Levy,Williston City Hall,Commissioner of Agriculture,"",REP,James W. Shaw,143
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",REP,James W. Shaw,218
+Levy,Inglis Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,173
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",REP,James W. Shaw,57
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",REP,James W. Shaw,54
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",REP,James W. Shaw,122
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",REP,James W. Shaw,168
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,259
+Levy,Williston Highlands,Commissioner of Agriculture,"",REP,Wilton Simpson,435
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,458
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,184
+Levy,Willow Sink,Commissioner of Agriculture,"",REP,Wilton Simpson,728
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",REP,Wilton Simpson,100
+Levy,Williston City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,308
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,492
+Levy,Inglis Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,323
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",REP,Wilton Simpson,273
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",REP,Wilton Simpson,226
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,333
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",REP,Wilton Simpson,350
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Williston Highlands,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Willow Sink,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Williston City Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Inglis Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",REP,UnderVotes,12
+Levy,Williston Highlands,Commissioner of Agriculture,"",REP,UnderVotes,6
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",REP,UnderVotes,22
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",REP,UnderVotes,13
+Levy,Willow Sink,Commissioner of Agriculture,"",REP,UnderVotes,52
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",REP,UnderVotes,12
+Levy,Williston City Hall,Commissioner of Agriculture,"",REP,UnderVotes,23
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",REP,UnderVotes,26
+Levy,Inglis Community Center,Commissioner of Agriculture,"",REP,UnderVotes,11
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",REP,UnderVotes,16
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",REP,UnderVotes,12
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",REP,UnderVotes,19
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",REP,UnderVotes,20
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,88
+Levy,Williston Highlands,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,112
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,50
+Levy,Willow Sink,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,82
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,16
+Levy,Williston City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,120
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,70
+Levy,Inglis Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,86
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,13
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,56
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,33
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,64
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",DEM,J. R. Gaillot,24
+Levy,Williston Highlands,Commissioner of Agriculture,"",DEM,J. R. Gaillot,44
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",DEM,J. R. Gaillot,54
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,48
+Levy,Willow Sink,Commissioner of Agriculture,"",DEM,J. R. Gaillot,55
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",DEM,J. R. Gaillot,3
+Levy,Williston City Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,74
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,26
+Levy,Inglis Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,39
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",DEM,J. R. Gaillot,33
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,37
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,32
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",DEM,Ryan Morales,56
+Levy,Williston Highlands,Commissioner of Agriculture,"",DEM,Ryan Morales,80
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",DEM,Ryan Morales,104
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,40
+Levy,Willow Sink,Commissioner of Agriculture,"",DEM,Ryan Morales,57
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",DEM,Ryan Morales,9
+Levy,Williston City Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,110
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",DEM,Ryan Morales,86
+Levy,Inglis Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,41
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",DEM,Ryan Morales,26
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",DEM,Ryan Morales,36
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,43
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",DEM,Ryan Morales,76
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Williston Highlands,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",DEM,OverVotes,1
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Willow Sink,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Williston City Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Inglis Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Levy,Bronson Ag Extension Bldg,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Levy,Williston Highlands,Commissioner of Agriculture,"",DEM,UnderVotes,18
+Levy,Bronson Dogan Cobb Bldg,Commissioner of Agriculture,"",DEM,UnderVotes,23
+Levy,Cedar Key Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,27
+Levy,Willow Sink,Commissioner of Agriculture,"",DEM,UnderVotes,32
+Levy,Gulf Hammock Church of God,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Levy,Williston City Hall,Commissioner of Agriculture,"",DEM,UnderVotes,21
+Levy,Morriston Baptist Church,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Levy,Inglis Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,22
+Levy,Pine Grove Baptist Church,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Levy,Miracle Vision Tabernacle,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Levy,Fanning Springs City Hall,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Levy,Chiefland Tommy Usher Center,Commissioner of Agriculture,"",DEM,UnderVotes,23
+Levy,Bronson Ag Extension Bldg,State House,22,REP,Ty Appiah,128
+Levy,Williston Highlands,State House,22,REP,Ty Appiah,195
+Levy,Bronson Dogan Cobb Bldg,State House,22,REP,Ty Appiah,237
+Levy,Cedar Key Community Center,State House,22,REP,Ty Appiah,94
+Levy,Willow Sink,State House,22,REP,Ty Appiah,398
+Levy,Gulf Hammock Church of God,State House,22,REP,Ty Appiah,84
+Levy,Williston City Hall,State House,22,REP,Ty Appiah,132
+Levy,Morriston Baptist Church,State House,22,REP,Ty Appiah,203
+Levy,Inglis Community Center,State House,22,REP,Ty Appiah,148
+Levy,Pine Grove Baptist Church,State House,22,REP,Ty Appiah,142
+Levy,Miracle Vision Tabernacle,State House,22,REP,Ty Appiah,86
+Levy,Fanning Springs City Hall,State House,22,REP,Ty Appiah,130
+Levy,Chiefland Tommy Usher Center,State House,22,REP,Ty Appiah,193
+Levy,Bronson Ag Extension Bldg,State House,22,REP,Chuck Clemons,258
+Levy,Williston Highlands,State House,22,REP,Chuck Clemons,429
+Levy,Bronson Dogan Cobb Bldg,State House,22,REP,Chuck Clemons,445
+Levy,Cedar Key Community Center,State House,22,REP,Chuck Clemons,190
+Levy,Willow Sink,State House,22,REP,Chuck Clemons,642
+Levy,Gulf Hammock Church of God,State House,22,REP,Chuck Clemons,69
+Levy,Williston City Hall,State House,22,REP,Chuck Clemons,329
+Levy,Morriston Baptist Church,State House,22,REP,Chuck Clemons,515
+Levy,Inglis Community Center,State House,22,REP,Chuck Clemons,346
+Levy,Pine Grove Baptist Church,State House,22,REP,Chuck Clemons,199
+Levy,Miracle Vision Tabernacle,State House,22,REP,Chuck Clemons,201
+Levy,Fanning Springs City Hall,State House,22,REP,Chuck Clemons,338
+Levy,Chiefland Tommy Usher Center,State House,22,REP,Chuck Clemons,336
+Levy,Bronson Ag Extension Bldg,State House,22,REP,OverVotes,0
+Levy,Williston Highlands,State House,22,REP,OverVotes,1
+Levy,Bronson Dogan Cobb Bldg,State House,22,REP,OverVotes,0
+Levy,Cedar Key Community Center,State House,22,REP,OverVotes,0
+Levy,Willow Sink,State House,22,REP,OverVotes,0
+Levy,Gulf Hammock Church of God,State House,22,REP,OverVotes,0
+Levy,Williston City Hall,State House,22,REP,OverVotes,0
+Levy,Morriston Baptist Church,State House,22,REP,OverVotes,0
+Levy,Inglis Community Center,State House,22,REP,OverVotes,0
+Levy,Pine Grove Baptist Church,State House,22,REP,OverVotes,0
+Levy,Miracle Vision Tabernacle,State House,22,REP,OverVotes,0
+Levy,Fanning Springs City Hall,State House,22,REP,OverVotes,0
+Levy,Chiefland Tommy Usher Center,State House,22,REP,OverVotes,0
+Levy,Bronson Ag Extension Bldg,State House,22,REP,UnderVotes,6
+Levy,Williston Highlands,State House,22,REP,UnderVotes,8
+Levy,Bronson Dogan Cobb Bldg,State House,22,REP,UnderVotes,15
+Levy,Cedar Key Community Center,State House,22,REP,UnderVotes,14
+Levy,Willow Sink,State House,22,REP,UnderVotes,25
+Levy,Gulf Hammock Church of God,State House,22,REP,UnderVotes,6
+Levy,Williston City Hall,State House,22,REP,UnderVotes,13
+Levy,Morriston Baptist Church,State House,22,REP,UnderVotes,18
+Levy,Inglis Community Center,State House,22,REP,UnderVotes,13
+Levy,Pine Grove Baptist Church,State House,22,REP,UnderVotes,5
+Levy,Miracle Vision Tabernacle,State House,22,REP,UnderVotes,5
+Levy,Fanning Springs City Hall,State House,22,REP,UnderVotes,6
+Levy,Chiefland Tommy Usher Center,State House,22,REP,UnderVotes,9
+Levy,Bronson Ag Extension Bldg,State House,22,DEM,Olysha Magruder,58
+Levy,Williston Highlands,State House,22,DEM,Olysha Magruder,55
+Levy,Bronson Dogan Cobb Bldg,State House,22,DEM,Olysha Magruder,68
+Levy,Cedar Key Community Center,State House,22,DEM,Olysha Magruder,38
+Levy,Willow Sink,State House,22,DEM,Olysha Magruder,59
+Levy,Gulf Hammock Church of God,State House,22,DEM,Olysha Magruder,12
+Levy,Williston City Hall,State House,22,DEM,Olysha Magruder,72
+Levy,Morriston Baptist Church,State House,22,DEM,Olysha Magruder,55
+Levy,Inglis Community Center,State House,22,DEM,Olysha Magruder,46
+Levy,Pine Grove Baptist Church,State House,22,DEM,Olysha Magruder,13
+Levy,Miracle Vision Tabernacle,State House,22,DEM,Olysha Magruder,28
+Levy,Fanning Springs City Hall,State House,22,DEM,Olysha Magruder,29
+Levy,Chiefland Tommy Usher Center,State House,22,DEM,Olysha Magruder,31
+Levy,Bronson Ag Extension Bldg,State House,22,DEM,Brandon Peters,117
+Levy,Williston Highlands,State House,22,DEM,Brandon Peters,158
+Levy,Bronson Dogan Cobb Bldg,State House,22,DEM,Brandon Peters,212
+Levy,Cedar Key Community Center,State House,22,DEM,Brandon Peters,109
+Levy,Willow Sink,State House,22,DEM,Brandon Peters,144
+Levy,Gulf Hammock Church of God,State House,22,DEM,Brandon Peters,15
+Levy,Williston City Hall,State House,22,DEM,Brandon Peters,235
+Levy,Morriston Baptist Church,State House,22,DEM,Brandon Peters,132
+Levy,Inglis Community Center,State House,22,DEM,Brandon Peters,133
+Levy,Pine Grove Baptist Church,State House,22,DEM,Brandon Peters,47
+Levy,Miracle Vision Tabernacle,State House,22,DEM,Brandon Peters,101
+Levy,Fanning Springs City Hall,State House,22,DEM,Brandon Peters,89
+Levy,Chiefland Tommy Usher Center,State House,22,DEM,Brandon Peters,152
+Levy,Bronson Ag Extension Bldg,State House,22,DEM,OverVotes,0
+Levy,Williston Highlands,State House,22,DEM,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,State House,22,DEM,OverVotes,0
+Levy,Cedar Key Community Center,State House,22,DEM,OverVotes,0
+Levy,Willow Sink,State House,22,DEM,OverVotes,0
+Levy,Gulf Hammock Church of God,State House,22,DEM,OverVotes,0
+Levy,Williston City Hall,State House,22,DEM,OverVotes,0
+Levy,Morriston Baptist Church,State House,22,DEM,OverVotes,0
+Levy,Inglis Community Center,State House,22,DEM,OverVotes,0
+Levy,Pine Grove Baptist Church,State House,22,DEM,OverVotes,0
+Levy,Miracle Vision Tabernacle,State House,22,DEM,OverVotes,0
+Levy,Fanning Springs City Hall,State House,22,DEM,OverVotes,0
+Levy,Chiefland Tommy Usher Center,State House,22,DEM,OverVotes,0
+Levy,Bronson Ag Extension Bldg,State House,22,DEM,UnderVotes,9
+Levy,Williston Highlands,State House,22,DEM,UnderVotes,11
+Levy,Bronson Dogan Cobb Bldg,State House,22,DEM,UnderVotes,14
+Levy,Cedar Key Community Center,State House,22,DEM,UnderVotes,18
+Levy,Willow Sink,State House,22,DEM,UnderVotes,23
+Levy,Gulf Hammock Church of God,State House,22,DEM,UnderVotes,9
+Levy,Williston City Hall,State House,22,DEM,UnderVotes,18
+Levy,Morriston Baptist Church,State House,22,DEM,UnderVotes,8
+Levy,Inglis Community Center,State House,22,DEM,UnderVotes,9
+Levy,Pine Grove Baptist Church,State House,22,DEM,UnderVotes,11
+Levy,Miracle Vision Tabernacle,State House,22,DEM,UnderVotes,9
+Levy,Fanning Springs City Hall,State House,22,DEM,UnderVotes,11
+Levy,Chiefland Tommy Usher Center,State House,22,DEM,UnderVotes,12
+Levy,Bronson Ag Extension Bldg,Property Appraiser,"",REP,James Allen,179
+Levy,Williston Highlands,Property Appraiser,"",REP,James Allen,202
+Levy,Bronson Dogan Cobb Bldg,Property Appraiser,"",REP,James Allen,264
+Levy,Cedar Key Community Center,Property Appraiser,"",REP,James Allen,155
+Levy,Willow Sink,Property Appraiser,"",REP,James Allen,452
+Levy,Gulf Hammock Church of God,Property Appraiser,"",REP,James Allen,107
+Levy,Williston City Hall,Property Appraiser,"",REP,James Allen,216
+Levy,Morriston Baptist Church,Property Appraiser,"",REP,James Allen,247
+Levy,Inglis Community Center,Property Appraiser,"",REP,James Allen,227
+Levy,Pine Grove Baptist Church,Property Appraiser,"",REP,James Allen,127
+Levy,Miracle Vision Tabernacle,Property Appraiser,"",REP,James Allen,107
+Levy,Fanning Springs City Hall,Property Appraiser,"",REP,James Allen,147
+Levy,Chiefland Tommy Usher Center,Property Appraiser,"",REP,James Allen,211
+Levy,Bronson Ag Extension Bldg,Property Appraiser,"",REP,David Rogers,131
+Levy,Williston Highlands,Property Appraiser,"",REP,David Rogers,187
+Levy,Bronson Dogan Cobb Bldg,Property Appraiser,"",REP,David Rogers,278
+Levy,Cedar Key Community Center,Property Appraiser,"",REP,David Rogers,81
+Levy,Willow Sink,Property Appraiser,"",REP,David Rogers,296
+Levy,Gulf Hammock Church of God,Property Appraiser,"",REP,David Rogers,47
+Levy,Williston City Hall,Property Appraiser,"",REP,David Rogers,152
+Levy,Morriston Baptist Church,Property Appraiser,"",REP,David Rogers,240
+Levy,Inglis Community Center,Property Appraiser,"",REP,David Rogers,185
+Levy,Pine Grove Baptist Church,Property Appraiser,"",REP,David Rogers,120
+Levy,Miracle Vision Tabernacle,Property Appraiser,"",REP,David Rogers,94
+Levy,Fanning Springs City Hall,Property Appraiser,"",REP,David Rogers,179
+Levy,Chiefland Tommy Usher Center,Property Appraiser,"",REP,David Rogers,193
+Levy,Bronson Ag Extension Bldg,Property Appraiser,"",REP,Jason Whistler,269
+Levy,Williston Highlands,Property Appraiser,"",REP,Jason Whistler,490
+Levy,Bronson Dogan Cobb Bldg,Property Appraiser,"",REP,Jason Whistler,470
+Levy,Cedar Key Community Center,Property Appraiser,"",REP,Jason Whistler,229
+Levy,Willow Sink,Property Appraiser,"",REP,Jason Whistler,583
+Levy,Gulf Hammock Church of God,Property Appraiser,"",REP,Jason Whistler,41
+Levy,Williston City Hall,Property Appraiser,"",REP,Jason Whistler,425
+Levy,Morriston Baptist Church,Property Appraiser,"",REP,Jason Whistler,462
+Levy,Inglis Community Center,Property Appraiser,"",REP,Jason Whistler,295
+Levy,Pine Grove Baptist Church,Property Appraiser,"",REP,Jason Whistler,166
+Levy,Miracle Vision Tabernacle,Property Appraiser,"",REP,Jason Whistler,221
+Levy,Fanning Springs City Hall,Property Appraiser,"",REP,Jason Whistler,293
+Levy,Chiefland Tommy Usher Center,Property Appraiser,"",REP,Jason Whistler,345
+Levy,Bronson Ag Extension Bldg,Property Appraiser,"",REP,OverVotes,0
+Levy,Williston Highlands,Property Appraiser,"",REP,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,Property Appraiser,"",REP,OverVotes,0
+Levy,Cedar Key Community Center,Property Appraiser,"",REP,OverVotes,0
+Levy,Willow Sink,Property Appraiser,"",REP,OverVotes,0
+Levy,Gulf Hammock Church of God,Property Appraiser,"",REP,OverVotes,0
+Levy,Williston City Hall,Property Appraiser,"",REP,OverVotes,0
+Levy,Morriston Baptist Church,Property Appraiser,"",REP,OverVotes,0
+Levy,Inglis Community Center,Property Appraiser,"",REP,OverVotes,0
+Levy,Pine Grove Baptist Church,Property Appraiser,"",REP,OverVotes,0
+Levy,Miracle Vision Tabernacle,Property Appraiser,"",REP,OverVotes,0
+Levy,Fanning Springs City Hall,Property Appraiser,"",REP,OverVotes,0
+Levy,Chiefland Tommy Usher Center,Property Appraiser,"",REP,OverVotes,0
+Levy,Bronson Ag Extension Bldg,Property Appraiser,"",REP,UnderVotes,49
+Levy,Williston Highlands,Property Appraiser,"",REP,UnderVotes,62
+Levy,Bronson Dogan Cobb Bldg,Property Appraiser,"",REP,UnderVotes,54
+Levy,Cedar Key Community Center,Property Appraiser,"",REP,UnderVotes,48
+Levy,Willow Sink,Property Appraiser,"",REP,UnderVotes,41
+Levy,Gulf Hammock Church of God,Property Appraiser,"",REP,UnderVotes,3
+Levy,Williston City Hall,Property Appraiser,"",REP,UnderVotes,74
+Levy,Morriston Baptist Church,Property Appraiser,"",REP,UnderVotes,62
+Levy,Inglis Community Center,Property Appraiser,"",REP,UnderVotes,66
+Levy,Pine Grove Baptist Church,Property Appraiser,"",REP,UnderVotes,16
+Levy,Miracle Vision Tabernacle,Property Appraiser,"",REP,UnderVotes,35
+Levy,Fanning Springs City Hall,Property Appraiser,"",REP,UnderVotes,30
+Levy,Chiefland Tommy Usher Center,Property Appraiser,"",REP,UnderVotes,21
+Levy,Bronson Ag Extension Bldg,County Commissioner,3,REP,Cliff Harrell,223
+Levy,Williston Highlands,County Commissioner,3,REP,Cliff Harrell,357
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,3,REP,Cliff Harrell,369
+Levy,Cedar Key Community Center,County Commissioner,3,REP,Cliff Harrell,162
+Levy,Willow Sink,County Commissioner,3,REP,Cliff Harrell,537
+Levy,Gulf Hammock Church of God,County Commissioner,3,REP,Cliff Harrell,66
+Levy,Williston City Hall,County Commissioner,3,REP,Cliff Harrell,325
+Levy,Morriston Baptist Church,County Commissioner,3,REP,Cliff Harrell,373
+Levy,Inglis Community Center,County Commissioner,3,REP,Cliff Harrell,300
+Levy,Pine Grove Baptist Church,County Commissioner,3,REP,Cliff Harrell,148
+Levy,Miracle Vision Tabernacle,County Commissioner,3,REP,Cliff Harrell,158
+Levy,Fanning Springs City Hall,County Commissioner,3,REP,Cliff Harrell,273
+Levy,Chiefland Tommy Usher Center,County Commissioner,3,REP,Cliff Harrell,299
+Levy,Bronson Ag Extension Bldg,County Commissioner,3,REP,Desiree Jerrels Mills,363
+Levy,Williston Highlands,County Commissioner,3,REP,Desiree Jerrels Mills,537
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,3,REP,Desiree Jerrels Mills,651
+Levy,Cedar Key Community Center,County Commissioner,3,REP,Desiree Jerrels Mills,290
+Levy,Willow Sink,County Commissioner,3,REP,Desiree Jerrels Mills,761
+Levy,Gulf Hammock Church of God,County Commissioner,3,REP,Desiree Jerrels Mills,124
+Levy,Williston City Hall,County Commissioner,3,REP,Desiree Jerrels Mills,485
+Levy,Morriston Baptist Church,County Commissioner,3,REP,Desiree Jerrels Mills,590
+Levy,Inglis Community Center,County Commissioner,3,REP,Desiree Jerrels Mills,424
+Levy,Pine Grove Baptist Church,County Commissioner,3,REP,Desiree Jerrels Mills,260
+Levy,Miracle Vision Tabernacle,County Commissioner,3,REP,Desiree Jerrels Mills,274
+Levy,Fanning Springs City Hall,County Commissioner,3,REP,Desiree Jerrels Mills,340
+Levy,Chiefland Tommy Usher Center,County Commissioner,3,REP,Desiree Jerrels Mills,425
+Levy,Bronson Ag Extension Bldg,County Commissioner,3,REP,OverVotes,0
+Levy,Williston Highlands,County Commissioner,3,REP,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,3,REP,OverVotes,0
+Levy,Cedar Key Community Center,County Commissioner,3,REP,OverVotes,0
+Levy,Willow Sink,County Commissioner,3,REP,OverVotes,0
+Levy,Gulf Hammock Church of God,County Commissioner,3,REP,OverVotes,0
+Levy,Williston City Hall,County Commissioner,3,REP,OverVotes,0
+Levy,Morriston Baptist Church,County Commissioner,3,REP,OverVotes,0
+Levy,Inglis Community Center,County Commissioner,3,REP,OverVotes,0
+Levy,Pine Grove Baptist Church,County Commissioner,3,REP,OverVotes,0
+Levy,Miracle Vision Tabernacle,County Commissioner,3,REP,OverVotes,0
+Levy,Fanning Springs City Hall,County Commissioner,3,REP,OverVotes,0
+Levy,Chiefland Tommy Usher Center,County Commissioner,3,REP,OverVotes,0
+Levy,Bronson Ag Extension Bldg,County Commissioner,3,REP,UnderVotes,42
+Levy,Williston Highlands,County Commissioner,3,REP,UnderVotes,47
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,3,REP,UnderVotes,46
+Levy,Cedar Key Community Center,County Commissioner,3,REP,UnderVotes,61
+Levy,Willow Sink,County Commissioner,3,REP,UnderVotes,74
+Levy,Gulf Hammock Church of God,County Commissioner,3,REP,UnderVotes,8
+Levy,Williston City Hall,County Commissioner,3,REP,UnderVotes,57
+Levy,Morriston Baptist Church,County Commissioner,3,REP,UnderVotes,48
+Levy,Inglis Community Center,County Commissioner,3,REP,UnderVotes,49
+Levy,Pine Grove Baptist Church,County Commissioner,3,REP,UnderVotes,21
+Levy,Miracle Vision Tabernacle,County Commissioner,3,REP,UnderVotes,25
+Levy,Fanning Springs City Hall,County Commissioner,3,REP,UnderVotes,36
+Levy,Chiefland Tommy Usher Center,County Commissioner,3,REP,UnderVotes,46
+Levy,Bronson Ag Extension Bldg,County Commissioner,4,REP,Charlene Watson Calvillo,74
+Levy,Williston Highlands,County Commissioner,4,REP,Charlene Watson Calvillo,97
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,4,REP,Charlene Watson Calvillo,123
+Levy,Cedar Key Community Center,County Commissioner,4,REP,Charlene Watson Calvillo,102
+Levy,Willow Sink,County Commissioner,4,REP,Charlene Watson Calvillo,103
+Levy,Gulf Hammock Church of God,County Commissioner,4,REP,Charlene Watson Calvillo,22
+Levy,Williston City Hall,County Commissioner,4,REP,Charlene Watson Calvillo,88
+Levy,Morriston Baptist Church,County Commissioner,4,REP,Charlene Watson Calvillo,100
+Levy,Inglis Community Center,County Commissioner,4,REP,Charlene Watson Calvillo,75
+Levy,Pine Grove Baptist Church,County Commissioner,4,REP,Charlene Watson Calvillo,22
+Levy,Miracle Vision Tabernacle,County Commissioner,4,REP,Charlene Watson Calvillo,46
+Levy,Fanning Springs City Hall,County Commissioner,4,REP,Charlene Watson Calvillo,53
+Levy,Chiefland Tommy Usher Center,County Commissioner,4,REP,Charlene Watson Calvillo,96
+Levy,Bronson Ag Extension Bldg,County Commissioner,4,REP,Billy Hinote,207
+Levy,Williston Highlands,County Commissioner,4,REP,Billy Hinote,284
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,4,REP,Billy Hinote,314
+Levy,Cedar Key Community Center,County Commissioner,4,REP,Billy Hinote,126
+Levy,Willow Sink,County Commissioner,4,REP,Billy Hinote,393
+Levy,Gulf Hammock Church of God,County Commissioner,4,REP,Billy Hinote,34
+Levy,Williston City Hall,County Commissioner,4,REP,Billy Hinote,246
+Levy,Morriston Baptist Church,County Commissioner,4,REP,Billy Hinote,300
+Levy,Inglis Community Center,County Commissioner,4,REP,Billy Hinote,221
+Levy,Pine Grove Baptist Church,County Commissioner,4,REP,Billy Hinote,121
+Levy,Miracle Vision Tabernacle,County Commissioner,4,REP,Billy Hinote,142
+Levy,Fanning Springs City Hall,County Commissioner,4,REP,Billy Hinote,188
+Levy,Chiefland Tommy Usher Center,County Commissioner,4,REP,Billy Hinote,221
+Levy,Bronson Ag Extension Bldg,County Commissioner,4,REP,Tim Hodge,199
+Levy,Williston Highlands,County Commissioner,4,REP,Tim Hodge,406
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,4,REP,Tim Hodge,417
+Levy,Cedar Key Community Center,County Commissioner,4,REP,Tim Hodge,191
+Levy,Willow Sink,County Commissioner,4,REP,Tim Hodge,715
+Levy,Gulf Hammock Church of God,County Commissioner,4,REP,Tim Hodge,111
+Levy,Williston City Hall,County Commissioner,4,REP,Tim Hodge,359
+Levy,Morriston Baptist Church,County Commissioner,4,REP,Tim Hodge,411
+Levy,Inglis Community Center,County Commissioner,4,REP,Tim Hodge,312
+Levy,Pine Grove Baptist Church,County Commissioner,4,REP,Tim Hodge,251
+Levy,Miracle Vision Tabernacle,County Commissioner,4,REP,Tim Hodge,194
+Levy,Fanning Springs City Hall,County Commissioner,4,REP,Tim Hodge,313
+Levy,Chiefland Tommy Usher Center,County Commissioner,4,REP,Tim Hodge,355
+Levy,Bronson Ag Extension Bldg,County Commissioner,4,REP,Laura E. Mott,107
+Levy,Williston Highlands,County Commissioner,4,REP,Laura E. Mott,103
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,4,REP,Laura E. Mott,159
+Levy,Cedar Key Community Center,County Commissioner,4,REP,Laura E. Mott,55
+Levy,Willow Sink,County Commissioner,4,REP,Laura E. Mott,116
+Levy,Gulf Hammock Church of God,County Commissioner,4,REP,Laura E. Mott,26
+Levy,Williston City Hall,County Commissioner,4,REP,Laura E. Mott,97
+Levy,Morriston Baptist Church,County Commissioner,4,REP,Laura E. Mott,145
+Levy,Inglis Community Center,County Commissioner,4,REP,Laura E. Mott,113
+Levy,Pine Grove Baptist Church,County Commissioner,4,REP,Laura E. Mott,18
+Levy,Miracle Vision Tabernacle,County Commissioner,4,REP,Laura E. Mott,44
+Levy,Fanning Springs City Hall,County Commissioner,4,REP,Laura E. Mott,66
+Levy,Chiefland Tommy Usher Center,County Commissioner,4,REP,Laura E. Mott,64
+Levy,Bronson Ag Extension Bldg,County Commissioner,4,REP,OverVotes,0
+Levy,Williston Highlands,County Commissioner,4,REP,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,4,REP,OverVotes,0
+Levy,Cedar Key Community Center,County Commissioner,4,REP,OverVotes,0
+Levy,Willow Sink,County Commissioner,4,REP,OverVotes,0
+Levy,Gulf Hammock Church of God,County Commissioner,4,REP,OverVotes,0
+Levy,Williston City Hall,County Commissioner,4,REP,OverVotes,0
+Levy,Morriston Baptist Church,County Commissioner,4,REP,OverVotes,0
+Levy,Inglis Community Center,County Commissioner,4,REP,OverVotes,0
+Levy,Pine Grove Baptist Church,County Commissioner,4,REP,OverVotes,0
+Levy,Miracle Vision Tabernacle,County Commissioner,4,REP,OverVotes,0
+Levy,Fanning Springs City Hall,County Commissioner,4,REP,OverVotes,0
+Levy,Chiefland Tommy Usher Center,County Commissioner,4,REP,OverVotes,0
+Levy,Bronson Ag Extension Bldg,County Commissioner,4,REP,UnderVotes,41
+Levy,Williston Highlands,County Commissioner,4,REP,UnderVotes,51
+Levy,Bronson Dogan Cobb Bldg,County Commissioner,4,REP,UnderVotes,53
+Levy,Cedar Key Community Center,County Commissioner,4,REP,UnderVotes,39
+Levy,Willow Sink,County Commissioner,4,REP,UnderVotes,45
+Levy,Gulf Hammock Church of God,County Commissioner,4,REP,UnderVotes,5
+Levy,Williston City Hall,County Commissioner,4,REP,UnderVotes,77
+Levy,Morriston Baptist Church,County Commissioner,4,REP,UnderVotes,55
+Levy,Inglis Community Center,County Commissioner,4,REP,UnderVotes,52
+Levy,Pine Grove Baptist Church,County Commissioner,4,REP,UnderVotes,17
+Levy,Miracle Vision Tabernacle,County Commissioner,4,REP,UnderVotes,31
+Levy,Fanning Springs City Hall,County Commissioner,4,REP,UnderVotes,29
+Levy,Chiefland Tommy Usher Center,County Commissioner,4,REP,UnderVotes,34
+Levy,Bronson Ag Extension Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,244
+Levy,Williston Highlands,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,438
+Levy,Bronson Dogan Cobb Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,423
+Levy,Cedar Key Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,197
+Levy,Willow Sink,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,726
+Levy,Gulf Hammock Church of God,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,66
+Levy,Williston City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,387
+Levy,Morriston Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,437
+Levy,Inglis Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,298
+Levy,Pine Grove Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,210
+Levy,Miracle Vision Tabernacle,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,201
+Levy,Fanning Springs City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,309
+Levy,Chiefland Tommy Usher Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,298
+Levy,Bronson Ag Extension Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,67
+Levy,Williston Highlands,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,105
+Levy,Bronson Dogan Cobb Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,150
+Levy,Cedar Key Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,80
+Levy,Willow Sink,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,85
+Levy,Gulf Hammock Church of God,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,18
+Levy,Williston City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,164
+Levy,Morriston Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,86
+Levy,Inglis Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,83
+Levy,Pine Grove Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,17
+Levy,Miracle Vision Tabernacle,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,74
+Levy,Fanning Springs City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,43
+Levy,Chiefland Tommy Usher Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,117
+Levy,Bronson Ag Extension Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,129
+Levy,Williston Highlands,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,134
+Levy,Bronson Dogan Cobb Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,186
+Levy,Cedar Key Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,82
+Levy,Willow Sink,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,195
+Levy,Gulf Hammock Church of God,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,52
+Levy,Williston City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,98
+Levy,Morriston Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,127
+Levy,Inglis Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,115
+Levy,Pine Grove Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,95
+Levy,Miracle Vision Tabernacle,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,61
+Levy,Fanning Springs City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,103
+Levy,Chiefland Tommy Usher Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,154
+Levy,Bronson Ag Extension Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,158
+Levy,Williston Highlands,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,210
+Levy,Bronson Dogan Cobb Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,243
+Levy,Cedar Key Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,101
+Levy,Willow Sink,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,234
+Levy,Gulf Hammock Church of God,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,35
+Levy,Williston City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,163
+Levy,Morriston Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,291
+Levy,Inglis Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,212
+Levy,Pine Grove Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,62
+Levy,Miracle Vision Tabernacle,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,79
+Levy,Fanning Springs City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,140
+Levy,Chiefland Tommy Usher Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,135
+Levy,Bronson Ag Extension Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Williston Highlands,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Cedar Key Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Willow Sink,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Gulf Hammock Church of God,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Williston City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Morriston Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Inglis Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Pine Grove Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Miracle Vision Tabernacle,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Fanning Springs City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Chiefland Tommy Usher Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Levy,Bronson Ag Extension Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,30
+Levy,Williston Highlands,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,54
+Levy,Bronson Dogan Cobb Bldg,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,64
+Levy,Cedar Key Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,53
+Levy,Willow Sink,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,132
+Levy,Gulf Hammock Church of God,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,27
+Levy,Williston City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,55
+Levy,Morriston Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,70
+Levy,Inglis Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,65
+Levy,Pine Grove Baptist Church,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,45
+Levy,Miracle Vision Tabernacle,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,42
+Levy,Fanning Springs City Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,54
+Levy,Chiefland Tommy Usher Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,66
+Levy,Bronson Ag Extension Bldg,School Board,5,NOP,Larry E. Jones,189
+Levy,Williston Highlands,School Board,5,NOP,Larry E. Jones,226
+Levy,Bronson Dogan Cobb Bldg,School Board,5,NOP,Larry E. Jones,288
+Levy,Cedar Key Community Center,School Board,5,NOP,Larry E. Jones,117
+Levy,Willow Sink,School Board,5,NOP,Larry E. Jones,334
+Levy,Gulf Hammock Church of God,School Board,5,NOP,Larry E. Jones,39
+Levy,Williston City Hall,School Board,5,NOP,Larry E. Jones,167
+Levy,Morriston Baptist Church,School Board,5,NOP,Larry E. Jones,275
+Levy,Inglis Community Center,School Board,5,NOP,Larry E. Jones,243
+Levy,Pine Grove Baptist Church,School Board,5,NOP,Larry E. Jones,84
+Levy,Miracle Vision Tabernacle,School Board,5,NOP,Larry E. Jones,68
+Levy,Fanning Springs City Hall,School Board,5,NOP,Larry E. Jones,181
+Levy,Chiefland Tommy Usher Center,School Board,5,NOP,Larry E. Jones,206
+Levy,Bronson Ag Extension Bldg,School Board,5,NOP,Devin Whitehurst,396
+Levy,Williston Highlands,School Board,5,NOP,Devin Whitehurst,684
+Levy,Bronson Dogan Cobb Bldg,School Board,5,NOP,Devin Whitehurst,719
+Levy,Cedar Key Community Center,School Board,5,NOP,Devin Whitehurst,340
+Levy,Willow Sink,School Board,5,NOP,Devin Whitehurst,951
+Levy,Gulf Hammock Church of God,School Board,5,NOP,Devin Whitehurst,147
+Levy,Williston City Hall,School Board,5,NOP,Devin Whitehurst,673
+Levy,Morriston Baptist Church,School Board,5,NOP,Devin Whitehurst,692
+Levy,Inglis Community Center,School Board,5,NOP,Devin Whitehurst,467
+Levy,Pine Grove Baptist Church,School Board,5,NOP,Devin Whitehurst,311
+Levy,Miracle Vision Tabernacle,School Board,5,NOP,Devin Whitehurst,367
+Levy,Fanning Springs City Hall,School Board,5,NOP,Devin Whitehurst,436
+Levy,Chiefland Tommy Usher Center,School Board,5,NOP,Devin Whitehurst,524
+Levy,Bronson Ag Extension Bldg,School Board,5,NOP,OverVotes,0
+Levy,Williston Highlands,School Board,5,NOP,OverVotes,0
+Levy,Bronson Dogan Cobb Bldg,School Board,5,NOP,OverVotes,0
+Levy,Cedar Key Community Center,School Board,5,NOP,OverVotes,0
+Levy,Willow Sink,School Board,5,NOP,OverVotes,0
+Levy,Gulf Hammock Church of God,School Board,5,NOP,OverVotes,0
+Levy,Williston City Hall,School Board,5,NOP,OverVotes,0
+Levy,Morriston Baptist Church,School Board,5,NOP,OverVotes,0
+Levy,Inglis Community Center,School Board,5,NOP,OverVotes,0
+Levy,Pine Grove Baptist Church,School Board,5,NOP,OverVotes,0
+Levy,Miracle Vision Tabernacle,School Board,5,NOP,OverVotes,0
+Levy,Fanning Springs City Hall,School Board,5,NOP,OverVotes,0
+Levy,Chiefland Tommy Usher Center,School Board,5,NOP,OverVotes,0
+Levy,Bronson Ag Extension Bldg,School Board,5,NOP,UnderVotes,43
+Levy,Williston Highlands,School Board,5,NOP,UnderVotes,31
+Levy,Bronson Dogan Cobb Bldg,School Board,5,NOP,UnderVotes,59
+Levy,Cedar Key Community Center,School Board,5,NOP,UnderVotes,56
+Levy,Willow Sink,School Board,5,NOP,UnderVotes,87
+Levy,Gulf Hammock Church of God,School Board,5,NOP,UnderVotes,12
+Levy,Williston City Hall,School Board,5,NOP,UnderVotes,27
+Levy,Morriston Baptist Church,School Board,5,NOP,UnderVotes,44
+Levy,Inglis Community Center,School Board,5,NOP,UnderVotes,63
+Levy,Pine Grove Baptist Church,School Board,5,NOP,UnderVotes,34
+Levy,Miracle Vision Tabernacle,School Board,5,NOP,UnderVotes,22
+Levy,Fanning Springs City Hall,School Board,5,NOP,UnderVotes,32
+Levy,Chiefland Tommy Usher Center,School Board,5,NOP,UnderVotes,40
+Levy,Bronson Ag Extension Bldg,Registered Voters,"","","",2471
+Levy,Bronson Dogan Cobb Bldg,Registered Voters,"","","",3814
+Levy,Cedar Key Community Center,Registered Voters,"","","",1386
+Levy,Chiefland Tommy Usher Center,Registered Voters,"","","",2341
+Levy,Fanning Springs City Hall,Registered Voters,"","","",2038
+Levy,Gulf Hammock Church of God,Registered Voters,"","","",505
+Levy,Inglis Community Center,Registered Voters,"","","",2719
+Levy,Miracle Vision Tabernacle,Registered Voters,"","","",1309
+Levy,Morriston Baptist Church,Registered Voters,"","","",3454
+Levy,Pine Grove Baptist Church,Registered Voters,"","","",971
+Levy,Williston City Hall,Registered Voters,"","","",2947
+Levy,Williston Highlands,Registered Voters,"","","",3051
+Levy,Willow Sink,Registered Voters,"","","",3375

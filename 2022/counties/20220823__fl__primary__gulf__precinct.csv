@@ -1,0 +1,281 @@
+county,precinct,office,district,party,candidate,votes
+Gulf,Honeyville Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gulf,Wewahitchka Public Library,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Gulf,St. Joe Beach Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gulf,Port St. Joe Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Gulf,Centennial Building,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Gulf,White City Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gulf,Cape San Blas Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gulf,Howard Creek Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Gulf,Overstreet Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gulf,Highland View Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gulf,Honeyville Community Center,U.S. Senate,"",DEM,Val Demings,35
+Gulf,Wewahitchka Public Library,U.S. Senate,"",DEM,Val Demings,64
+Gulf,St. Joe Beach Fire Station,U.S. Senate,"",DEM,Val Demings,59
+Gulf,Port St. Joe Fire Station,U.S. Senate,"",DEM,Val Demings,134
+Gulf,Centennial Building,U.S. Senate,"",DEM,Val Demings,74
+Gulf,White City Fire Station,U.S. Senate,"",DEM,Val Demings,6
+Gulf,Cape San Blas Fire Station,U.S. Senate,"",DEM,Val Demings,66
+Gulf,Howard Creek Fire Station,U.S. Senate,"",DEM,Val Demings,3
+Gulf,Overstreet Fire Station,U.S. Senate,"",DEM,Val Demings,25
+Gulf,Highland View Fire Station,U.S. Senate,"",DEM,Val Demings,18
+Gulf,Honeyville Community Center,U.S. Senate,"",DEM,Brian Rush,28
+Gulf,Wewahitchka Public Library,U.S. Senate,"",DEM,Brian Rush,25
+Gulf,St. Joe Beach Fire Station,U.S. Senate,"",DEM,Brian Rush,9
+Gulf,Port St. Joe Fire Station,U.S. Senate,"",DEM,Brian Rush,18
+Gulf,Centennial Building,U.S. Senate,"",DEM,Brian Rush,12
+Gulf,White City Fire Station,U.S. Senate,"",DEM,Brian Rush,4
+Gulf,Cape San Blas Fire Station,U.S. Senate,"",DEM,Brian Rush,5
+Gulf,Howard Creek Fire Station,U.S. Senate,"",DEM,Brian Rush,4
+Gulf,Overstreet Fire Station,U.S. Senate,"",DEM,Brian Rush,9
+Gulf,Highland View Fire Station,U.S. Senate,"",DEM,Brian Rush,6
+Gulf,Honeyville Community Center,U.S. Senate,"",DEM,William Sanchez,15
+Gulf,Wewahitchka Public Library,U.S. Senate,"",DEM,William Sanchez,11
+Gulf,St. Joe Beach Fire Station,U.S. Senate,"",DEM,William Sanchez,10
+Gulf,Port St. Joe Fire Station,U.S. Senate,"",DEM,William Sanchez,11
+Gulf,Centennial Building,U.S. Senate,"",DEM,William Sanchez,4
+Gulf,White City Fire Station,U.S. Senate,"",DEM,William Sanchez,3
+Gulf,Cape San Blas Fire Station,U.S. Senate,"",DEM,William Sanchez,4
+Gulf,Howard Creek Fire Station,U.S. Senate,"",DEM,William Sanchez,0
+Gulf,Overstreet Fire Station,U.S. Senate,"",DEM,William Sanchez,5
+Gulf,Highland View Fire Station,U.S. Senate,"",DEM,William Sanchez,2
+Gulf,Honeyville Community Center,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Wewahitchka Public Library,U.S. Senate,"",DEM,OverVotes,0
+Gulf,St. Joe Beach Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Port St. Joe Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Centennial Building,U.S. Senate,"",DEM,OverVotes,0
+Gulf,White City Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Cape San Blas Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Howard Creek Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Overstreet Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Highland View Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gulf,Honeyville Community Center,U.S. Senate,"",DEM,UnderVotes,2
+Gulf,Wewahitchka Public Library,U.S. Senate,"",DEM,UnderVotes,5
+Gulf,St. Joe Beach Fire Station,U.S. Senate,"",DEM,UnderVotes,2
+Gulf,Port St. Joe Fire Station,U.S. Senate,"",DEM,UnderVotes,9
+Gulf,Centennial Building,U.S. Senate,"",DEM,UnderVotes,2
+Gulf,White City Fire Station,U.S. Senate,"",DEM,UnderVotes,2
+Gulf,Cape San Blas Fire Station,U.S. Senate,"",DEM,UnderVotes,1
+Gulf,Howard Creek Fire Station,U.S. Senate,"",DEM,UnderVotes,2
+Gulf,Overstreet Fire Station,U.S. Senate,"",DEM,UnderVotes,4
+Gulf,Highland View Fire Station,U.S. Senate,"",DEM,UnderVotes,0
+Gulf,Honeyville Community Center,Governor,"",DEM,Charlie Crist,25
+Gulf,Wewahitchka Public Library,Governor,"",DEM,Charlie Crist,62
+Gulf,St. Joe Beach Fire Station,Governor,"",DEM,Charlie Crist,38
+Gulf,Port St. Joe Fire Station,Governor,"",DEM,Charlie Crist,112
+Gulf,Centennial Building,Governor,"",DEM,Charlie Crist,40
+Gulf,White City Fire Station,Governor,"",DEM,Charlie Crist,4
+Gulf,Cape San Blas Fire Station,Governor,"",DEM,Charlie Crist,49
+Gulf,Howard Creek Fire Station,Governor,"",DEM,Charlie Crist,3
+Gulf,Overstreet Fire Station,Governor,"",DEM,Charlie Crist,24
+Gulf,Highland View Fire Station,Governor,"",DEM,Charlie Crist,10
+Gulf,Honeyville Community Center,Governor,"",DEM,Cadance Daniel,9
+Gulf,Wewahitchka Public Library,Governor,"",DEM,Cadance Daniel,3
+Gulf,St. Joe Beach Fire Station,Governor,"",DEM,Cadance Daniel,5
+Gulf,Port St. Joe Fire Station,Governor,"",DEM,Cadance Daniel,6
+Gulf,Centennial Building,Governor,"",DEM,Cadance Daniel,4
+Gulf,White City Fire Station,Governor,"",DEM,Cadance Daniel,2
+Gulf,Cape San Blas Fire Station,Governor,"",DEM,Cadance Daniel,1
+Gulf,Howard Creek Fire Station,Governor,"",DEM,Cadance Daniel,0
+Gulf,Overstreet Fire Station,Governor,"",DEM,Cadance Daniel,2
+Gulf,Highland View Fire Station,Governor,"",DEM,Cadance Daniel,0
+Gulf,Honeyville Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",35
+Gulf,Wewahitchka Public Library,Governor,"",DEM,"Nicole ""Nikki"" Fried",25
+Gulf,St. Joe Beach Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",38
+Gulf,Port St. Joe Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",54
+Gulf,Centennial Building,Governor,"",DEM,"Nicole ""Nikki"" Fried",40
+Gulf,White City Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",5
+Gulf,Cape San Blas Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",28
+Gulf,Howard Creek Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",5
+Gulf,Overstreet Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Gulf,Highland View Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Gulf,Honeyville Community Center,Governor,"",DEM,Robert L. Willis,12
+Gulf,Wewahitchka Public Library,Governor,"",DEM,Robert L. Willis,13
+Gulf,St. Joe Beach Fire Station,Governor,"",DEM,Robert L. Willis,1
+Gulf,Port St. Joe Fire Station,Governor,"",DEM,Robert L. Willis,6
+Gulf,Centennial Building,Governor,"",DEM,Robert L. Willis,7
+Gulf,White City Fire Station,Governor,"",DEM,Robert L. Willis,3
+Gulf,Cape San Blas Fire Station,Governor,"",DEM,Robert L. Willis,0
+Gulf,Howard Creek Fire Station,Governor,"",DEM,Robert L. Willis,0
+Gulf,Overstreet Fire Station,Governor,"",DEM,Robert L. Willis,2
+Gulf,Highland View Fire Station,Governor,"",DEM,Robert L. Willis,2
+Gulf,Honeyville Community Center,Governor,"",DEM,OverVotes,0
+Gulf,Wewahitchka Public Library,Governor,"",DEM,OverVotes,0
+Gulf,St. Joe Beach Fire Station,Governor,"",DEM,OverVotes,0
+Gulf,Port St. Joe Fire Station,Governor,"",DEM,OverVotes,0
+Gulf,Centennial Building,Governor,"",DEM,OverVotes,0
+Gulf,White City Fire Station,Governor,"",DEM,OverVotes,0
+Gulf,Cape San Blas Fire Station,Governor,"",DEM,OverVotes,0
+Gulf,Howard Creek Fire Station,Governor,"",DEM,OverVotes,0
+Gulf,Overstreet Fire Station,Governor,"",DEM,OverVotes,0
+Gulf,Highland View Fire Station,Governor,"",DEM,OverVotes,0
+Gulf,Honeyville Community Center,Governor,"",DEM,UnderVotes,1
+Gulf,Wewahitchka Public Library,Governor,"",DEM,UnderVotes,2
+Gulf,St. Joe Beach Fire Station,Governor,"",DEM,UnderVotes,0
+Gulf,Port St. Joe Fire Station,Governor,"",DEM,UnderVotes,1
+Gulf,Centennial Building,Governor,"",DEM,UnderVotes,2
+Gulf,White City Fire Station,Governor,"",DEM,UnderVotes,3
+Gulf,Cape San Blas Fire Station,Governor,"",DEM,UnderVotes,0
+Gulf,Howard Creek Fire Station,Governor,"",DEM,UnderVotes,1
+Gulf,Overstreet Fire Station,Governor,"",DEM,UnderVotes,1
+Gulf,Highland View Fire Station,Governor,"",DEM,UnderVotes,0
+Gulf,Honeyville Community Center,Attorney General,"",DEM,Aramis Ayala,24
+Gulf,Wewahitchka Public Library,Attorney General,"",DEM,Aramis Ayala,26
+Gulf,St. Joe Beach Fire Station,Attorney General,"",DEM,Aramis Ayala,33
+Gulf,Port St. Joe Fire Station,Attorney General,"",DEM,Aramis Ayala,75
+Gulf,Centennial Building,Attorney General,"",DEM,Aramis Ayala,35
+Gulf,White City Fire Station,Attorney General,"",DEM,Aramis Ayala,3
+Gulf,Cape San Blas Fire Station,Attorney General,"",DEM,Aramis Ayala,26
+Gulf,Howard Creek Fire Station,Attorney General,"",DEM,Aramis Ayala,1
+Gulf,Overstreet Fire Station,Attorney General,"",DEM,Aramis Ayala,6
+Gulf,Highland View Fire Station,Attorney General,"",DEM,Aramis Ayala,9
+Gulf,Honeyville Community Center,Attorney General,"",DEM,Jim Lewis,41
+Gulf,Wewahitchka Public Library,Attorney General,"",DEM,Jim Lewis,46
+Gulf,St. Joe Beach Fire Station,Attorney General,"",DEM,Jim Lewis,26
+Gulf,Port St. Joe Fire Station,Attorney General,"",DEM,Jim Lewis,60
+Gulf,Centennial Building,Attorney General,"",DEM,Jim Lewis,31
+Gulf,White City Fire Station,Attorney General,"",DEM,Jim Lewis,7
+Gulf,Cape San Blas Fire Station,Attorney General,"",DEM,Jim Lewis,13
+Gulf,Howard Creek Fire Station,Attorney General,"",DEM,Jim Lewis,5
+Gulf,Overstreet Fire Station,Attorney General,"",DEM,Jim Lewis,17
+Gulf,Highland View Fire Station,Attorney General,"",DEM,Jim Lewis,11
+Gulf,Honeyville Community Center,Attorney General,"",DEM,Daniel Uhlfelder,14
+Gulf,Wewahitchka Public Library,Attorney General,"",DEM,Daniel Uhlfelder,23
+Gulf,St. Joe Beach Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,20
+Gulf,Port St. Joe Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,28
+Gulf,Centennial Building,Attorney General,"",DEM,Daniel Uhlfelder,23
+Gulf,White City Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,1
+Gulf,Cape San Blas Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,31
+Gulf,Howard Creek Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,1
+Gulf,Overstreet Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,15
+Gulf,Highland View Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,8
+Gulf,Honeyville Community Center,Attorney General,"",DEM,OverVotes,0
+Gulf,Wewahitchka Public Library,Attorney General,"",DEM,OverVotes,0
+Gulf,St. Joe Beach Fire Station,Attorney General,"",DEM,OverVotes,0
+Gulf,Port St. Joe Fire Station,Attorney General,"",DEM,OverVotes,0
+Gulf,Centennial Building,Attorney General,"",DEM,OverVotes,0
+Gulf,White City Fire Station,Attorney General,"",DEM,OverVotes,0
+Gulf,Cape San Blas Fire Station,Attorney General,"",DEM,OverVotes,0
+Gulf,Howard Creek Fire Station,Attorney General,"",DEM,OverVotes,0
+Gulf,Overstreet Fire Station,Attorney General,"",DEM,OverVotes,0
+Gulf,Highland View Fire Station,Attorney General,"",DEM,OverVotes,0
+Gulf,Honeyville Community Center,Attorney General,"",DEM,UnderVotes,3
+Gulf,Wewahitchka Public Library,Attorney General,"",DEM,UnderVotes,10
+Gulf,St. Joe Beach Fire Station,Attorney General,"",DEM,UnderVotes,3
+Gulf,Port St. Joe Fire Station,Attorney General,"",DEM,UnderVotes,16
+Gulf,Centennial Building,Attorney General,"",DEM,UnderVotes,4
+Gulf,White City Fire Station,Attorney General,"",DEM,UnderVotes,6
+Gulf,Cape San Blas Fire Station,Attorney General,"",DEM,UnderVotes,8
+Gulf,Howard Creek Fire Station,Attorney General,"",DEM,UnderVotes,2
+Gulf,Overstreet Fire Station,Attorney General,"",DEM,UnderVotes,7
+Gulf,Highland View Fire Station,Attorney General,"",DEM,UnderVotes,0
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,73
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",REP,James W. Shaw,90
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,31
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,13
+Gulf,Centennial Building,Commissioner of Agriculture,"",REP,James W. Shaw,59
+Gulf,White City Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,12
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,25
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,10
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,57
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,20
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,197
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",REP,Wilton Simpson,207
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,111
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,82
+Gulf,Centennial Building,Commissioner of Agriculture,"",REP,Wilton Simpson,217
+Gulf,White City Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,36
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,71
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,38
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,123
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,26
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Centennial Building,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,White City Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",REP,UnderVotes,2
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",REP,UnderVotes,21
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,1
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,0
+Gulf,Centennial Building,Commissioner of Agriculture,"",REP,UnderVotes,1
+Gulf,White City Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,0
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,2
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,0
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,7
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,0
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,26
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,34
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,32
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,99
+Gulf,Centennial Building,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,46
+Gulf,White City Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,8
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,33
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,3
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,10
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,14
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,28
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",DEM,J. R. Gaillot,29
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,28
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,31
+Gulf,Centennial Building,Commissioner of Agriculture,"",DEM,J. R. Gaillot,26
+Gulf,White City Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,16
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,1
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,7
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,26
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",DEM,Ryan Morales,32
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,20
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,35
+Gulf,Centennial Building,Commissioner of Agriculture,"",DEM,Ryan Morales,18
+Gulf,White City Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,2
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,22
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,3
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,16
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,7
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Centennial Building,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,White City Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gulf,Honeyville Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Gulf,Wewahitchka Public Library,Commissioner of Agriculture,"",DEM,UnderVotes,10
+Gulf,St. Joe Beach Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Gulf,Port St. Joe Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,14
+Gulf,Centennial Building,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Gulf,White City Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Gulf,Cape San Blas Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,7
+Gulf,Howard Creek Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Gulf,Overstreet Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,7
+Gulf,Highland View Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,0
+Gulf,Wewahitchka Public Library,County Commissioner,2,REP,Ward McDaniel,96
+Gulf,Overstreet Fire Station,County Commissioner,2,REP,Ward McDaniel,79
+Gulf,Wewahitchka Public Library,County Commissioner,2,REP,Tom Semmes,64
+Gulf,Overstreet Fire Station,County Commissioner,2,REP,Tom Semmes,80
+Gulf,Wewahitchka Public Library,County Commissioner,2,REP,Billy Traylor,158
+Gulf,Overstreet Fire Station,County Commissioner,2,REP,Billy Traylor,28
+Gulf,Wewahitchka Public Library,County Commissioner,2,REP,OverVotes,0
+Gulf,Overstreet Fire Station,County Commissioner,2,REP,OverVotes,0
+Gulf,Wewahitchka Public Library,County Commissioner,2,REP,UnderVotes,0
+Gulf,Overstreet Fire Station,County Commissioner,2,REP,UnderVotes,0
+Gulf,Cape San Blas Fire Station,Registered Voters,"","","",834
+Gulf,Centennial Building,Registered Voters,"","","",1727
+Gulf,Highland View Fire Station,Registered Voters,"","","",519
+Gulf,Honeyville Community Center,Registered Voters,"","","",2207
+Gulf,Howard Creek Fire Station,Registered Voters,"","","",260
+Gulf,Overstreet Fire Station,Registered Voters,"","","",697
+Gulf,Port St. Joe Fire Station,Registered Voters,"","","",1335
+Gulf,St. Joe Beach Fire Station,Registered Voters,"","","",1030
+Gulf,Wewahitchka Public Library,Registered Voters,"","","",1474
+Gulf,White City Fire Station,Registered Voters,"","","",249

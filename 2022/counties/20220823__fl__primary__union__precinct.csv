@@ -1,0 +1,327 @@
+county,precinct,office,district,party,candidate,votes
+Union,1A & 1B,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Union,2A & 2B,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Union,3A & 3B,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Union,4B,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Union,5A & 5C,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Union,3C,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Union,4A & 4C,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Union,5B,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Union,1A & 1B,U.S. Senate,"",DEM,Val Demings,23
+Union,2A & 2B,U.S. Senate,"",DEM,Val Demings,35
+Union,3A & 3B,U.S. Senate,"",DEM,Val Demings,44
+Union,4B,U.S. Senate,"",DEM,Val Demings,42
+Union,5A & 5C,U.S. Senate,"",DEM,Val Demings,20
+Union,3C,U.S. Senate,"",DEM,Val Demings,7
+Union,4A & 4C,U.S. Senate,"",DEM,Val Demings,29
+Union,5B,U.S. Senate,"",DEM,Val Demings,4
+Union,1A & 1B,U.S. Senate,"",DEM,Brian Rush,16
+Union,2A & 2B,U.S. Senate,"",DEM,Brian Rush,30
+Union,3A & 3B,U.S. Senate,"",DEM,Brian Rush,12
+Union,4B,U.S. Senate,"",DEM,Brian Rush,16
+Union,5A & 5C,U.S. Senate,"",DEM,Brian Rush,5
+Union,3C,U.S. Senate,"",DEM,Brian Rush,7
+Union,4A & 4C,U.S. Senate,"",DEM,Brian Rush,8
+Union,5B,U.S. Senate,"",DEM,Brian Rush,1
+Union,1A & 1B,U.S. Senate,"",DEM,William Sanchez,7
+Union,2A & 2B,U.S. Senate,"",DEM,William Sanchez,19
+Union,3A & 3B,U.S. Senate,"",DEM,William Sanchez,11
+Union,4B,U.S. Senate,"",DEM,William Sanchez,13
+Union,5A & 5C,U.S. Senate,"",DEM,William Sanchez,9
+Union,3C,U.S. Senate,"",DEM,William Sanchez,1
+Union,4A & 4C,U.S. Senate,"",DEM,William Sanchez,11
+Union,5B,U.S. Senate,"",DEM,William Sanchez,3
+Union,1A & 1B,U.S. Senate,"",DEM,OverVotes,0
+Union,2A & 2B,U.S. Senate,"",DEM,OverVotes,0
+Union,3A & 3B,U.S. Senate,"",DEM,OverVotes,0
+Union,4B,U.S. Senate,"",DEM,OverVotes,0
+Union,5A & 5C,U.S. Senate,"",DEM,OverVotes,0
+Union,3C,U.S. Senate,"",DEM,OverVotes,0
+Union,4A & 4C,U.S. Senate,"",DEM,OverVotes,0
+Union,5B,U.S. Senate,"",DEM,OverVotes,0
+Union,1A & 1B,U.S. Senate,"",DEM,UnderVotes,6
+Union,2A & 2B,U.S. Senate,"",DEM,UnderVotes,49
+Union,3A & 3B,U.S. Senate,"",DEM,UnderVotes,5
+Union,4B,U.S. Senate,"",DEM,UnderVotes,10
+Union,5A & 5C,U.S. Senate,"",DEM,UnderVotes,2
+Union,3C,U.S. Senate,"",DEM,UnderVotes,1
+Union,4A & 4C,U.S. Senate,"",DEM,UnderVotes,3
+Union,5B,U.S. Senate,"",DEM,UnderVotes,2
+Union,1A & 1B,U.S. House,3,REP,Kat Cammack,275
+Union,2A & 2B,U.S. House,3,REP,Kat Cammack,205
+Union,3A & 3B,U.S. House,3,REP,Kat Cammack,302
+Union,4B,U.S. House,3,REP,Kat Cammack,384
+Union,5A & 5C,U.S. House,3,REP,Kat Cammack,62
+Union,3C,U.S. House,3,REP,Kat Cammack,50
+Union,4A & 4C,U.S. House,3,REP,Kat Cammack,165
+Union,5B,U.S. House,3,REP,Kat Cammack,57
+Union,1A & 1B,U.S. House,3,REP,Justin Waters,22
+Union,2A & 2B,U.S. House,3,REP,Justin Waters,26
+Union,3A & 3B,U.S. House,3,REP,Justin Waters,32
+Union,4B,U.S. House,3,REP,Justin Waters,24
+Union,5A & 5C,U.S. House,3,REP,Justin Waters,7
+Union,3C,U.S. House,3,REP,Justin Waters,1
+Union,4A & 4C,U.S. House,3,REP,Justin Waters,23
+Union,5B,U.S. House,3,REP,Justin Waters,7
+Union,1A & 1B,U.S. House,3,DEM,Danielle Hawk,13
+Union,2A & 2B,U.S. House,3,DEM,Danielle Hawk,34
+Union,3A & 3B,U.S. House,3,DEM,Danielle Hawk,30
+Union,4B,U.S. House,3,DEM,Danielle Hawk,40
+Union,5A & 5C,U.S. House,3,DEM,Danielle Hawk,23
+Union,3C,U.S. House,3,DEM,Danielle Hawk,5
+Union,4A & 4C,U.S. House,3,DEM,Danielle Hawk,25
+Union,5B,U.S. House,3,DEM,Danielle Hawk,3
+Union,1A & 1B,U.S. House,3,DEM,Tom Wells,34
+Union,2A & 2B,U.S. House,3,DEM,Tom Wells,55
+Union,3A & 3B,U.S. House,3,DEM,Tom Wells,41
+Union,4B,U.S. House,3,DEM,Tom Wells,31
+Union,5A & 5C,U.S. House,3,DEM,Tom Wells,13
+Union,3C,U.S. House,3,DEM,Tom Wells,9
+Union,4A & 4C,U.S. House,3,DEM,Tom Wells,23
+Union,5B,U.S. House,3,DEM,Tom Wells,6
+Union,1A & 1B,U.S. House,3,DEM,OverVotes,0
+Union,2A & 2B,U.S. House,3,DEM,OverVotes,0
+Union,3A & 3B,U.S. House,3,DEM,OverVotes,0
+Union,4B,U.S. House,3,DEM,OverVotes,0
+Union,5A & 5C,U.S. House,3,DEM,OverVotes,0
+Union,3C,U.S. House,3,DEM,OverVotes,0
+Union,4A & 4C,U.S. House,3,DEM,OverVotes,0
+Union,5B,U.S. House,3,DEM,OverVotes,0
+Union,1A & 1B,U.S. House,3,DEM,UnderVotes,5
+Union,2A & 2B,U.S. House,3,DEM,UnderVotes,49
+Union,3A & 3B,U.S. House,3,DEM,UnderVotes,6
+Union,4B,U.S. House,3,DEM,UnderVotes,14
+Union,5A & 5C,U.S. House,3,DEM,UnderVotes,1
+Union,3C,U.S. House,3,DEM,UnderVotes,2
+Union,4A & 4C,U.S. House,3,DEM,UnderVotes,4
+Union,5B,U.S. House,3,DEM,UnderVotes,2
+Union,1A & 1B,Governor,"",DEM,Charlie Crist,25
+Union,2A & 2B,Governor,"",DEM,Charlie Crist,47
+Union,3A & 3B,Governor,"",DEM,Charlie Crist,30
+Union,4B,Governor,"",DEM,Charlie Crist,42
+Union,5A & 5C,Governor,"",DEM,Charlie Crist,17
+Union,3C,Governor,"",DEM,Charlie Crist,6
+Union,4A & 4C,Governor,"",DEM,Charlie Crist,19
+Union,5B,Governor,"",DEM,Charlie Crist,1
+Union,1A & 1B,Governor,"",DEM,Cadance Daniel,1
+Union,2A & 2B,Governor,"",DEM,Cadance Daniel,6
+Union,3A & 3B,Governor,"",DEM,Cadance Daniel,4
+Union,4B,Governor,"",DEM,Cadance Daniel,6
+Union,5A & 5C,Governor,"",DEM,Cadance Daniel,1
+Union,3C,Governor,"",DEM,Cadance Daniel,1
+Union,4A & 4C,Governor,"",DEM,Cadance Daniel,1
+Union,5B,Governor,"",DEM,Cadance Daniel,1
+Union,1A & 1B,Governor,"",DEM,"Nicole ""Nikki"" Fried",13
+Union,2A & 2B,Governor,"",DEM,"Nicole ""Nikki"" Fried",20
+Union,3A & 3B,Governor,"",DEM,"Nicole ""Nikki"" Fried",30
+Union,4B,Governor,"",DEM,"Nicole ""Nikki"" Fried",22
+Union,5A & 5C,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Union,3C,Governor,"",DEM,"Nicole ""Nikki"" Fried",3
+Union,4A & 4C,Governor,"",DEM,"Nicole ""Nikki"" Fried",21
+Union,5B,Governor,"",DEM,"Nicole ""Nikki"" Fried",5
+Union,1A & 1B,Governor,"",DEM,Robert L. Willis,9
+Union,2A & 2B,Governor,"",DEM,Robert L. Willis,23
+Union,3A & 3B,Governor,"",DEM,Robert L. Willis,7
+Union,4B,Governor,"",DEM,Robert L. Willis,7
+Union,5A & 5C,Governor,"",DEM,Robert L. Willis,2
+Union,3C,Governor,"",DEM,Robert L. Willis,5
+Union,4A & 4C,Governor,"",DEM,Robert L. Willis,8
+Union,5B,Governor,"",DEM,Robert L. Willis,2
+Union,1A & 1B,Governor,"",DEM,OverVotes,0
+Union,2A & 2B,Governor,"",DEM,OverVotes,0
+Union,3A & 3B,Governor,"",DEM,OverVotes,0
+Union,4B,Governor,"",DEM,OverVotes,0
+Union,5A & 5C,Governor,"",DEM,OverVotes,0
+Union,3C,Governor,"",DEM,OverVotes,0
+Union,4A & 4C,Governor,"",DEM,OverVotes,1
+Union,5B,Governor,"",DEM,OverVotes,0
+Union,1A & 1B,Governor,"",DEM,UnderVotes,4
+Union,2A & 2B,Governor,"",DEM,UnderVotes,42
+Union,3A & 3B,Governor,"",DEM,UnderVotes,6
+Union,4B,Governor,"",DEM,UnderVotes,8
+Union,5A & 5C,Governor,"",DEM,UnderVotes,1
+Union,3C,Governor,"",DEM,UnderVotes,1
+Union,4A & 4C,Governor,"",DEM,UnderVotes,2
+Union,5B,Governor,"",DEM,UnderVotes,2
+Union,1A & 1B,Attorney General,"",DEM,Aramis Ayala,11
+Union,2A & 2B,Attorney General,"",DEM,Aramis Ayala,14
+Union,3A & 3B,Attorney General,"",DEM,Aramis Ayala,10
+Union,4B,Attorney General,"",DEM,Aramis Ayala,21
+Union,5A & 5C,Attorney General,"",DEM,Aramis Ayala,10
+Union,3C,Attorney General,"",DEM,Aramis Ayala,3
+Union,4A & 4C,Attorney General,"",DEM,Aramis Ayala,19
+Union,5B,Attorney General,"",DEM,Aramis Ayala,2
+Union,1A & 1B,Attorney General,"",DEM,Jim Lewis,29
+Union,2A & 2B,Attorney General,"",DEM,Jim Lewis,56
+Union,3A & 3B,Attorney General,"",DEM,Jim Lewis,36
+Union,4B,Attorney General,"",DEM,Jim Lewis,35
+Union,5A & 5C,Attorney General,"",DEM,Jim Lewis,13
+Union,3C,Attorney General,"",DEM,Jim Lewis,8
+Union,4A & 4C,Attorney General,"",DEM,Jim Lewis,19
+Union,5B,Attorney General,"",DEM,Jim Lewis,2
+Union,1A & 1B,Attorney General,"",DEM,Daniel Uhlfelder,5
+Union,2A & 2B,Attorney General,"",DEM,Daniel Uhlfelder,14
+Union,3A & 3B,Attorney General,"",DEM,Daniel Uhlfelder,23
+Union,4B,Attorney General,"",DEM,Daniel Uhlfelder,15
+Union,5A & 5C,Attorney General,"",DEM,Daniel Uhlfelder,13
+Union,3C,Attorney General,"",DEM,Daniel Uhlfelder,3
+Union,4A & 4C,Attorney General,"",DEM,Daniel Uhlfelder,9
+Union,5B,Attorney General,"",DEM,Daniel Uhlfelder,3
+Union,1A & 1B,Attorney General,"",DEM,OverVotes,0
+Union,2A & 2B,Attorney General,"",DEM,OverVotes,0
+Union,3A & 3B,Attorney General,"",DEM,OverVotes,0
+Union,4B,Attorney General,"",DEM,OverVotes,0
+Union,5A & 5C,Attorney General,"",DEM,OverVotes,0
+Union,3C,Attorney General,"",DEM,OverVotes,0
+Union,4A & 4C,Attorney General,"",DEM,OverVotes,0
+Union,5B,Attorney General,"",DEM,OverVotes,0
+Union,1A & 1B,Attorney General,"",DEM,UnderVotes,7
+Union,2A & 2B,Attorney General,"",DEM,UnderVotes,54
+Union,3A & 3B,Attorney General,"",DEM,UnderVotes,8
+Union,4B,Attorney General,"",DEM,UnderVotes,14
+Union,5A & 5C,Attorney General,"",DEM,UnderVotes,1
+Union,3C,Attorney General,"",DEM,UnderVotes,2
+Union,4A & 4C,Attorney General,"",DEM,UnderVotes,5
+Union,5B,Attorney General,"",DEM,UnderVotes,4
+Union,1A & 1B,Commissioner of Agriculture,"",REP,James W. Shaw,85
+Union,2A & 2B,Commissioner of Agriculture,"",REP,James W. Shaw,97
+Union,3A & 3B,Commissioner of Agriculture,"",REP,James W. Shaw,104
+Union,4B,Commissioner of Agriculture,"",REP,James W. Shaw,139
+Union,5A & 5C,Commissioner of Agriculture,"",REP,James W. Shaw,22
+Union,3C,Commissioner of Agriculture,"",REP,James W. Shaw,15
+Union,4A & 4C,Commissioner of Agriculture,"",REP,James W. Shaw,72
+Union,5B,Commissioner of Agriculture,"",REP,James W. Shaw,22
+Union,1A & 1B,Commissioner of Agriculture,"",REP,Wilton Simpson,206
+Union,2A & 2B,Commissioner of Agriculture,"",REP,Wilton Simpson,131
+Union,3A & 3B,Commissioner of Agriculture,"",REP,Wilton Simpson,232
+Union,4B,Commissioner of Agriculture,"",REP,Wilton Simpson,255
+Union,5A & 5C,Commissioner of Agriculture,"",REP,Wilton Simpson,48
+Union,3C,Commissioner of Agriculture,"",REP,Wilton Simpson,36
+Union,4A & 4C,Commissioner of Agriculture,"",REP,Wilton Simpson,117
+Union,5B,Commissioner of Agriculture,"",REP,Wilton Simpson,41
+Union,1A & 1B,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,2A & 2B,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,3A & 3B,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,4B,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,5A & 5C,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,3C,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,4A & 4C,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,5B,Commissioner of Agriculture,"",REP,OverVotes,0
+Union,1A & 1B,Commissioner of Agriculture,"",REP,UnderVotes,7
+Union,2A & 2B,Commissioner of Agriculture,"",REP,UnderVotes,14
+Union,3A & 3B,Commissioner of Agriculture,"",REP,UnderVotes,5
+Union,4B,Commissioner of Agriculture,"",REP,UnderVotes,21
+Union,5A & 5C,Commissioner of Agriculture,"",REP,UnderVotes,0
+Union,3C,Commissioner of Agriculture,"",REP,UnderVotes,0
+Union,4A & 4C,Commissioner of Agriculture,"",REP,UnderVotes,6
+Union,5B,Commissioner of Agriculture,"",REP,UnderVotes,1
+Union,1A & 1B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,16
+Union,2A & 2B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,26
+Union,3A & 3B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,24
+Union,4B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,30
+Union,5A & 5C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,15
+Union,3C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,6
+Union,4A & 4C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,25
+Union,5B,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,3
+Union,1A & 1B,Commissioner of Agriculture,"",DEM,J. R. Gaillot,11
+Union,2A & 2B,Commissioner of Agriculture,"",DEM,J. R. Gaillot,23
+Union,3A & 3B,Commissioner of Agriculture,"",DEM,J. R. Gaillot,21
+Union,4B,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Union,5A & 5C,Commissioner of Agriculture,"",DEM,J. R. Gaillot,14
+Union,3C,Commissioner of Agriculture,"",DEM,J. R. Gaillot,3
+Union,4A & 4C,Commissioner of Agriculture,"",DEM,J. R. Gaillot,11
+Union,5B,Commissioner of Agriculture,"",DEM,J. R. Gaillot,1
+Union,1A & 1B,Commissioner of Agriculture,"",DEM,Ryan Morales,18
+Union,2A & 2B,Commissioner of Agriculture,"",DEM,Ryan Morales,38
+Union,3A & 3B,Commissioner of Agriculture,"",DEM,Ryan Morales,22
+Union,4B,Commissioner of Agriculture,"",DEM,Ryan Morales,21
+Union,5A & 5C,Commissioner of Agriculture,"",DEM,Ryan Morales,7
+Union,3C,Commissioner of Agriculture,"",DEM,Ryan Morales,6
+Union,4A & 4C,Commissioner of Agriculture,"",DEM,Ryan Morales,12
+Union,5B,Commissioner of Agriculture,"",DEM,Ryan Morales,6
+Union,1A & 1B,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,2A & 2B,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,3A & 3B,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,4B,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,5A & 5C,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,3C,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,4A & 4C,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,5B,Commissioner of Agriculture,"",DEM,OverVotes,0
+Union,1A & 1B,Commissioner of Agriculture,"",DEM,UnderVotes,7
+Union,2A & 2B,Commissioner of Agriculture,"",DEM,UnderVotes,51
+Union,3A & 3B,Commissioner of Agriculture,"",DEM,UnderVotes,10
+Union,4B,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Union,5A & 5C,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Union,3C,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Union,4A & 4C,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Union,5B,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Union,2A & 2B,County Commissioner,2,REP,Casey Clark,72
+Union,2A & 2B,County Commissioner,2,REP,Channing Dobbs,319
+Union,2A & 2B,County Commissioner,2,REP,OverVotes,0
+Union,2A & 2B,County Commissioner,2,REP,UnderVotes,3
+Union,4B,County Commissioner,4,REP,Lacey D. Cannon,143
+Union,4A & 4C,County Commissioner,4,REP,Lacey D. Cannon,49
+Union,4B,County Commissioner,4,REP,Mac Johns,161
+Union,4A & 4C,County Commissioner,4,REP,Mac Johns,67
+Union,4B,County Commissioner,4,REP,J.R. Rooney,106
+Union,4A & 4C,County Commissioner,4,REP,J.R. Rooney,78
+Union,4B,County Commissioner,4,REP,OverVotes,0
+Union,4A & 4C,County Commissioner,4,REP,OverVotes,0
+Union,4B,County Commissioner,4,REP,UnderVotes,5
+Union,4A & 4C,County Commissioner,4,REP,UnderVotes,1
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,255
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,268
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,277
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,330
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,73
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,49
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,158
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,44
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,13
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,15
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,21
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,26
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,11
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,2
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,21
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,2
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,52
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,35
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,72
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,61
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,20
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,5
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,36
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,18
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,29
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,37
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,49
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,64
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,5
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,11
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,24
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,12
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,12
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,39
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,12
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,28
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,0
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,0
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,12
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,1
+Union,1A & 1B,Registered Voters,"","","",1209
+Union,2A & 2B,Registered Voters,"","","",1140
+Union,3A & 3B,Registered Voters,"","","",1659
+Union,3C,Registered Voters,"","","",296
+Union,4A & 4C,Registered Voters,"","","",785
+Union,4B,Registered Voters,"","","",1598
+Union,5A & 5C,Registered Voters,"","","",523
+Union,5B,Registered Voters,"","","",354

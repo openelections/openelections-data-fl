@@ -1,0 +1,393 @@
+county,precinct,office,district,party,candidate,votes
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Holmes,Pine Log,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Holmes,New Hope,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Holmes,Bethlehem,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Holmes,Gritney,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Holmes,Noma,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Holmes,West Bonifay,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Holmes,East Bonifay,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,Val Demings,19
+Holmes,Pine Log,U.S. Senate,"",DEM,Val Demings,22
+Holmes,New Hope,U.S. Senate,"",DEM,Val Demings,16
+Holmes,Bethlehem,U.S. Senate,"",DEM,Val Demings,27
+Holmes,Gritney,U.S. Senate,"",DEM,Val Demings,3
+Holmes,Noma,U.S. Senate,"",DEM,Val Demings,30
+Holmes,West Bonifay,U.S. Senate,"",DEM,Val Demings,31
+Holmes,East Bonifay,U.S. Senate,"",DEM,Val Demings,33
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,Brian Rush,25
+Holmes,Pine Log,U.S. Senate,"",DEM,Brian Rush,38
+Holmes,New Hope,U.S. Senate,"",DEM,Brian Rush,21
+Holmes,Bethlehem,U.S. Senate,"",DEM,Brian Rush,33
+Holmes,Gritney,U.S. Senate,"",DEM,Brian Rush,14
+Holmes,Noma,U.S. Senate,"",DEM,Brian Rush,30
+Holmes,West Bonifay,U.S. Senate,"",DEM,Brian Rush,38
+Holmes,East Bonifay,U.S. Senate,"",DEM,Brian Rush,23
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,William Sanchez,11
+Holmes,Pine Log,U.S. Senate,"",DEM,William Sanchez,11
+Holmes,New Hope,U.S. Senate,"",DEM,William Sanchez,5
+Holmes,Bethlehem,U.S. Senate,"",DEM,William Sanchez,15
+Holmes,Gritney,U.S. Senate,"",DEM,William Sanchez,8
+Holmes,Noma,U.S. Senate,"",DEM,William Sanchez,15
+Holmes,West Bonifay,U.S. Senate,"",DEM,William Sanchez,15
+Holmes,East Bonifay,U.S. Senate,"",DEM,William Sanchez,12
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,OverVotes,1
+Holmes,Pine Log,U.S. Senate,"",DEM,OverVotes,0
+Holmes,New Hope,U.S. Senate,"",DEM,OverVotes,0
+Holmes,Bethlehem,U.S. Senate,"",DEM,OverVotes,0
+Holmes,Gritney,U.S. Senate,"",DEM,OverVotes,0
+Holmes,Noma,U.S. Senate,"",DEM,OverVotes,0
+Holmes,West Bonifay,U.S. Senate,"",DEM,OverVotes,0
+Holmes,East Bonifay,U.S. Senate,"",DEM,OverVotes,0
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,UnderVotes,6
+Holmes,Pine Log,U.S. Senate,"",DEM,UnderVotes,20
+Holmes,New Hope,U.S. Senate,"",DEM,UnderVotes,15
+Holmes,Bethlehem,U.S. Senate,"",DEM,UnderVotes,19
+Holmes,Gritney,U.S. Senate,"",DEM,UnderVotes,3
+Holmes,Noma,U.S. Senate,"",DEM,UnderVotes,21
+Holmes,West Bonifay,U.S. Senate,"",DEM,UnderVotes,18
+Holmes,East Bonifay,U.S. Senate,"",DEM,UnderVotes,15
+Holmes,Ponce de Leon,Governor,"",DEM,Charlie Crist,24
+Holmes,Pine Log,Governor,"",DEM,Charlie Crist,29
+Holmes,New Hope,Governor,"",DEM,Charlie Crist,19
+Holmes,Bethlehem,Governor,"",DEM,Charlie Crist,36
+Holmes,Gritney,Governor,"",DEM,Charlie Crist,14
+Holmes,Noma,Governor,"",DEM,Charlie Crist,46
+Holmes,West Bonifay,Governor,"",DEM,Charlie Crist,46
+Holmes,East Bonifay,Governor,"",DEM,Charlie Crist,42
+Holmes,Ponce de Leon,Governor,"",DEM,Cadance Daniel,9
+Holmes,Pine Log,Governor,"",DEM,Cadance Daniel,13
+Holmes,New Hope,Governor,"",DEM,Cadance Daniel,6
+Holmes,Bethlehem,Governor,"",DEM,Cadance Daniel,4
+Holmes,Gritney,Governor,"",DEM,Cadance Daniel,2
+Holmes,Noma,Governor,"",DEM,Cadance Daniel,10
+Holmes,West Bonifay,Governor,"",DEM,Cadance Daniel,7
+Holmes,East Bonifay,Governor,"",DEM,Cadance Daniel,4
+Holmes,Ponce de Leon,Governor,"",DEM,"Nicole ""Nikki"" Fried",18
+Holmes,Pine Log,Governor,"",DEM,"Nicole ""Nikki"" Fried",27
+Holmes,New Hope,Governor,"",DEM,"Nicole ""Nikki"" Fried",23
+Holmes,Bethlehem,Governor,"",DEM,"Nicole ""Nikki"" Fried",34
+Holmes,Gritney,Governor,"",DEM,"Nicole ""Nikki"" Fried",6
+Holmes,Noma,Governor,"",DEM,"Nicole ""Nikki"" Fried",21
+Holmes,West Bonifay,Governor,"",DEM,"Nicole ""Nikki"" Fried",26
+Holmes,East Bonifay,Governor,"",DEM,"Nicole ""Nikki"" Fried",24
+Holmes,Ponce de Leon,Governor,"",DEM,Robert L. Willis,11
+Holmes,Pine Log,Governor,"",DEM,Robert L. Willis,11
+Holmes,New Hope,Governor,"",DEM,Robert L. Willis,3
+Holmes,Bethlehem,Governor,"",DEM,Robert L. Willis,13
+Holmes,Gritney,Governor,"",DEM,Robert L. Willis,4
+Holmes,Noma,Governor,"",DEM,Robert L. Willis,5
+Holmes,West Bonifay,Governor,"",DEM,Robert L. Willis,13
+Holmes,East Bonifay,Governor,"",DEM,Robert L. Willis,4
+Holmes,Ponce de Leon,Governor,"",DEM,OverVotes,1
+Holmes,Pine Log,Governor,"",DEM,OverVotes,0
+Holmes,New Hope,Governor,"",DEM,OverVotes,0
+Holmes,Bethlehem,Governor,"",DEM,OverVotes,0
+Holmes,Gritney,Governor,"",DEM,OverVotes,0
+Holmes,Noma,Governor,"",DEM,OverVotes,0
+Holmes,West Bonifay,Governor,"",DEM,OverVotes,0
+Holmes,East Bonifay,Governor,"",DEM,OverVotes,0
+Holmes,Ponce de Leon,Governor,"",DEM,UnderVotes,3
+Holmes,Pine Log,Governor,"",DEM,UnderVotes,13
+Holmes,New Hope,Governor,"",DEM,UnderVotes,12
+Holmes,Bethlehem,Governor,"",DEM,UnderVotes,11
+Holmes,Gritney,Governor,"",DEM,UnderVotes,3
+Holmes,Noma,Governor,"",DEM,UnderVotes,18
+Holmes,West Bonifay,Governor,"",DEM,UnderVotes,12
+Holmes,East Bonifay,Governor,"",DEM,UnderVotes,12
+Holmes,Ponce de Leon,Attorney General,"",DEM,Aramis Ayala,10
+Holmes,Pine Log,Attorney General,"",DEM,Aramis Ayala,15
+Holmes,New Hope,Attorney General,"",DEM,Aramis Ayala,6
+Holmes,Bethlehem,Attorney General,"",DEM,Aramis Ayala,15
+Holmes,Gritney,Attorney General,"",DEM,Aramis Ayala,5
+Holmes,Noma,Attorney General,"",DEM,Aramis Ayala,22
+Holmes,West Bonifay,Attorney General,"",DEM,Aramis Ayala,17
+Holmes,East Bonifay,Attorney General,"",DEM,Aramis Ayala,19
+Holmes,Ponce de Leon,Attorney General,"",DEM,Jim Lewis,38
+Holmes,Pine Log,Attorney General,"",DEM,Jim Lewis,42
+Holmes,New Hope,Attorney General,"",DEM,Jim Lewis,33
+Holmes,Bethlehem,Attorney General,"",DEM,Jim Lewis,52
+Holmes,Gritney,Attorney General,"",DEM,Jim Lewis,18
+Holmes,Noma,Attorney General,"",DEM,Jim Lewis,41
+Holmes,West Bonifay,Attorney General,"",DEM,Jim Lewis,55
+Holmes,East Bonifay,Attorney General,"",DEM,Jim Lewis,40
+Holmes,Ponce de Leon,Attorney General,"",DEM,Daniel Uhlfelder,12
+Holmes,Pine Log,Attorney General,"",DEM,Daniel Uhlfelder,16
+Holmes,New Hope,Attorney General,"",DEM,Daniel Uhlfelder,10
+Holmes,Bethlehem,Attorney General,"",DEM,Daniel Uhlfelder,16
+Holmes,Gritney,Attorney General,"",DEM,Daniel Uhlfelder,3
+Holmes,Noma,Attorney General,"",DEM,Daniel Uhlfelder,18
+Holmes,West Bonifay,Attorney General,"",DEM,Daniel Uhlfelder,14
+Holmes,East Bonifay,Attorney General,"",DEM,Daniel Uhlfelder,10
+Holmes,Ponce de Leon,Attorney General,"",DEM,OverVotes,1
+Holmes,Pine Log,Attorney General,"",DEM,OverVotes,0
+Holmes,New Hope,Attorney General,"",DEM,OverVotes,0
+Holmes,Bethlehem,Attorney General,"",DEM,OverVotes,0
+Holmes,Gritney,Attorney General,"",DEM,OverVotes,0
+Holmes,Noma,Attorney General,"",DEM,OverVotes,0
+Holmes,West Bonifay,Attorney General,"",DEM,OverVotes,0
+Holmes,East Bonifay,Attorney General,"",DEM,OverVotes,0
+Holmes,Ponce de Leon,Attorney General,"",DEM,UnderVotes,5
+Holmes,Pine Log,Attorney General,"",DEM,UnderVotes,20
+Holmes,New Hope,Attorney General,"",DEM,UnderVotes,14
+Holmes,Bethlehem,Attorney General,"",DEM,UnderVotes,15
+Holmes,Gritney,Attorney General,"",DEM,UnderVotes,3
+Holmes,Noma,Attorney General,"",DEM,UnderVotes,19
+Holmes,West Bonifay,Attorney General,"",DEM,UnderVotes,18
+Holmes,East Bonifay,Attorney General,"",DEM,UnderVotes,17
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",REP,James W. Shaw,107
+Holmes,Pine Log,Commissioner of Agriculture,"",REP,James W. Shaw,152
+Holmes,New Hope,Commissioner of Agriculture,"",REP,James W. Shaw,105
+Holmes,Bethlehem,Commissioner of Agriculture,"",REP,James W. Shaw,164
+Holmes,Gritney,Commissioner of Agriculture,"",REP,James W. Shaw,58
+Holmes,Noma,Commissioner of Agriculture,"",REP,James W. Shaw,200
+Holmes,West Bonifay,Commissioner of Agriculture,"",REP,James W. Shaw,177
+Holmes,East Bonifay,Commissioner of Agriculture,"",REP,James W. Shaw,111
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",REP,Wilton Simpson,234
+Holmes,Pine Log,Commissioner of Agriculture,"",REP,Wilton Simpson,259
+Holmes,New Hope,Commissioner of Agriculture,"",REP,Wilton Simpson,180
+Holmes,Bethlehem,Commissioner of Agriculture,"",REP,Wilton Simpson,305
+Holmes,Gritney,Commissioner of Agriculture,"",REP,Wilton Simpson,92
+Holmes,Noma,Commissioner of Agriculture,"",REP,Wilton Simpson,401
+Holmes,West Bonifay,Commissioner of Agriculture,"",REP,Wilton Simpson,337
+Holmes,East Bonifay,Commissioner of Agriculture,"",REP,Wilton Simpson,208
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,Pine Log,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,New Hope,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,Bethlehem,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,Gritney,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,Noma,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,West Bonifay,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,East Bonifay,Commissioner of Agriculture,"",REP,OverVotes,0
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",REP,UnderVotes,22
+Holmes,Pine Log,Commissioner of Agriculture,"",REP,UnderVotes,21
+Holmes,New Hope,Commissioner of Agriculture,"",REP,UnderVotes,17
+Holmes,Bethlehem,Commissioner of Agriculture,"",REP,UnderVotes,33
+Holmes,Gritney,Commissioner of Agriculture,"",REP,UnderVotes,9
+Holmes,Noma,Commissioner of Agriculture,"",REP,UnderVotes,28
+Holmes,West Bonifay,Commissioner of Agriculture,"",REP,UnderVotes,29
+Holmes,East Bonifay,Commissioner of Agriculture,"",REP,UnderVotes,17
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,19
+Holmes,Pine Log,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,10
+Holmes,New Hope,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,13
+Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23
+Holmes,Gritney,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7
+Holmes,Noma,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
+Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,27
+Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,24
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Holmes,Pine Log,Commissioner of Agriculture,"",DEM,J. R. Gaillot,16
+Holmes,New Hope,Commissioner of Agriculture,"",DEM,J. R. Gaillot,13
+Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,J. R. Gaillot,23
+Holmes,Gritney,Commissioner of Agriculture,"",DEM,J. R. Gaillot,7
+Holmes,Noma,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,J. R. Gaillot,11
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,Ryan Morales,19
+Holmes,Pine Log,Commissioner of Agriculture,"",DEM,Ryan Morales,45
+Holmes,New Hope,Commissioner of Agriculture,"",DEM,Ryan Morales,22
+Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,Ryan Morales,34
+Holmes,Gritney,Commissioner of Agriculture,"",DEM,Ryan Morales,12
+Holmes,Noma,Commissioner of Agriculture,"",DEM,Ryan Morales,27
+Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,Ryan Morales,46
+Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,Ryan Morales,35
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,OverVotes,1
+Holmes,Pine Log,Commissioner of Agriculture,"",DEM,OverVotes,0
+Holmes,New Hope,Commissioner of Agriculture,"",DEM,OverVotes,0
+Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,OverVotes,0
+Holmes,Gritney,Commissioner of Agriculture,"",DEM,OverVotes,0
+Holmes,Noma,Commissioner of Agriculture,"",DEM,OverVotes,0
+Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,OverVotes,0
+Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,OverVotes,0
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Holmes,Pine Log,Commissioner of Agriculture,"",DEM,UnderVotes,22
+Holmes,New Hope,Commissioner of Agriculture,"",DEM,UnderVotes,15
+Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,UnderVotes,18
+Holmes,Gritney,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Holmes,Noma,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Holmes,Ponce de Leon,State Senate,2,REP,Regina Piazza,59
+Holmes,Pine Log,State Senate,2,REP,Regina Piazza,62
+Holmes,New Hope,State Senate,2,REP,Regina Piazza,44
+Holmes,Bethlehem,State Senate,2,REP,Regina Piazza,99
+Holmes,Gritney,State Senate,2,REP,Regina Piazza,24
+Holmes,Noma,State Senate,2,REP,Regina Piazza,103
+Holmes,West Bonifay,State Senate,2,REP,Regina Piazza,84
+Holmes,East Bonifay,State Senate,2,REP,Regina Piazza,57
+Holmes,Ponce de Leon,State Senate,2,REP,Jay Trumbull,298
+Holmes,Pine Log,State Senate,2,REP,Jay Trumbull,362
+Holmes,New Hope,State Senate,2,REP,Jay Trumbull,243
+Holmes,Bethlehem,State Senate,2,REP,Jay Trumbull,389
+Holmes,Gritney,State Senate,2,REP,Jay Trumbull,132
+Holmes,Noma,State Senate,2,REP,Jay Trumbull,514
+Holmes,West Bonifay,State Senate,2,REP,Jay Trumbull,447
+Holmes,East Bonifay,State Senate,2,REP,Jay Trumbull,273
+Holmes,Ponce de Leon,State Senate,2,REP,OverVotes,0
+Holmes,Pine Log,State Senate,2,REP,OverVotes,0
+Holmes,New Hope,State Senate,2,REP,OverVotes,0
+Holmes,Bethlehem,State Senate,2,REP,OverVotes,1
+Holmes,Gritney,State Senate,2,REP,OverVotes,0
+Holmes,Noma,State Senate,2,REP,OverVotes,0
+Holmes,West Bonifay,State Senate,2,REP,OverVotes,0
+Holmes,East Bonifay,State Senate,2,REP,OverVotes,0
+Holmes,Ponce de Leon,State Senate,2,REP,UnderVotes,6
+Holmes,Pine Log,State Senate,2,REP,UnderVotes,8
+Holmes,New Hope,State Senate,2,REP,UnderVotes,15
+Holmes,Bethlehem,State Senate,2,REP,UnderVotes,13
+Holmes,Gritney,State Senate,2,REP,UnderVotes,3
+Holmes,Noma,State Senate,2,REP,UnderVotes,12
+Holmes,West Bonifay,State Senate,2,REP,UnderVotes,12
+Holmes,East Bonifay,State Senate,2,REP,UnderVotes,6
+Holmes,Ponce de Leon,State House,5,REP,Shane Abbott,330
+Holmes,Pine Log,State House,5,REP,Shane Abbott,409
+Holmes,New Hope,State House,5,REP,Shane Abbott,269
+Holmes,Bethlehem,State House,5,REP,Shane Abbott,361
+Holmes,Gritney,State House,5,REP,Shane Abbott,97
+Holmes,Noma,State House,5,REP,Shane Abbott,457
+Holmes,West Bonifay,State House,5,REP,Shane Abbott,414
+Holmes,East Bonifay,State House,5,REP,Shane Abbott,249
+Holmes,Ponce de Leon,State House,5,REP,Vance D. Coley,45
+Holmes,Pine Log,State House,5,REP,Vance D. Coley,24
+Holmes,New Hope,State House,5,REP,Vance D. Coley,30
+Holmes,Bethlehem,State House,5,REP,Vance D. Coley,67
+Holmes,Gritney,State House,5,REP,Vance D. Coley,27
+Holmes,Noma,State House,5,REP,Vance D. Coley,73
+Holmes,West Bonifay,State House,5,REP,Vance D. Coley,73
+Holmes,East Bonifay,State House,5,REP,Vance D. Coley,47
+Holmes,Ponce de Leon,State House,5,REP,Clint Pate,65
+Holmes,Pine Log,State House,5,REP,Clint Pate,87
+Holmes,New Hope,State House,5,REP,Clint Pate,66
+Holmes,Bethlehem,State House,5,REP,Clint Pate,166
+Holmes,Gritney,State House,5,REP,Clint Pate,67
+Holmes,Noma,State House,5,REP,Clint Pate,204
+Holmes,West Bonifay,State House,5,REP,Clint Pate,175
+Holmes,East Bonifay,State House,5,REP,Clint Pate,131
+Holmes,Ponce de Leon,State House,5,REP,OverVotes,0
+Holmes,Pine Log,State House,5,REP,OverVotes,0
+Holmes,New Hope,State House,5,REP,OverVotes,0
+Holmes,Bethlehem,State House,5,REP,OverVotes,0
+Holmes,Gritney,State House,5,REP,OverVotes,0
+Holmes,Noma,State House,5,REP,OverVotes,1
+Holmes,West Bonifay,State House,5,REP,OverVotes,0
+Holmes,East Bonifay,State House,5,REP,OverVotes,0
+Holmes,Ponce de Leon,State House,5,REP,UnderVotes,11
+Holmes,Pine Log,State House,5,REP,UnderVotes,16
+Holmes,New Hope,State House,5,REP,UnderVotes,11
+Holmes,Bethlehem,State House,5,REP,UnderVotes,25
+Holmes,Gritney,State House,5,REP,UnderVotes,7
+Holmes,Noma,State House,5,REP,UnderVotes,15
+Holmes,West Bonifay,State House,5,REP,UnderVotes,17
+Holmes,East Bonifay,State House,5,REP,UnderVotes,19
+Holmes,Ponce de Leon,County Commissioner,2,REP,Josh Jackson,209
+Holmes,Pine Log,County Commissioner,2,REP,Josh Jackson,257
+Holmes,New Hope,County Commissioner,2,REP,Josh Jackson,82
+Holmes,Bethlehem,County Commissioner,2,REP,Josh Jackson,112
+Holmes,Gritney,County Commissioner,2,REP,Josh Jackson,82
+Holmes,Noma,County Commissioner,2,REP,Josh Jackson,148
+Holmes,West Bonifay,County Commissioner,2,REP,Josh Jackson,186
+Holmes,East Bonifay,County Commissioner,2,REP,Josh Jackson,106
+Holmes,Ponce de Leon,County Commissioner,2,REP,Albert Jordan,35
+Holmes,Pine Log,County Commissioner,2,REP,Albert Jordan,47
+Holmes,New Hope,County Commissioner,2,REP,Albert Jordan,135
+Holmes,Bethlehem,County Commissioner,2,REP,Albert Jordan,282
+Holmes,Gritney,County Commissioner,2,REP,Albert Jordan,46
+Holmes,Noma,County Commissioner,2,REP,Albert Jordan,271
+Holmes,West Bonifay,County Commissioner,2,REP,Albert Jordan,160
+Holmes,East Bonifay,County Commissioner,2,REP,Albert Jordan,90
+Holmes,Ponce de Leon,County Commissioner,2,REP,Brandon Brown Newsom,195
+Holmes,Pine Log,County Commissioner,2,REP,Brandon Brown Newsom,228
+Holmes,New Hope,County Commissioner,2,REP,Brandon Brown Newsom,150
+Holmes,Bethlehem,County Commissioner,2,REP,Brandon Brown Newsom,194
+Holmes,Gritney,County Commissioner,2,REP,Brandon Brown Newsom,66
+Holmes,Noma,County Commissioner,2,REP,Brandon Brown Newsom,314
+Holmes,West Bonifay,County Commissioner,2,REP,Brandon Brown Newsom,313
+Holmes,East Bonifay,County Commissioner,2,REP,Brandon Brown Newsom,232
+Holmes,Ponce de Leon,County Commissioner,2,REP,OverVotes,0
+Holmes,Pine Log,County Commissioner,2,REP,OverVotes,0
+Holmes,New Hope,County Commissioner,2,REP,OverVotes,0
+Holmes,Bethlehem,County Commissioner,2,REP,OverVotes,0
+Holmes,Gritney,County Commissioner,2,REP,OverVotes,0
+Holmes,Noma,County Commissioner,2,REP,OverVotes,0
+Holmes,West Bonifay,County Commissioner,2,REP,OverVotes,0
+Holmes,East Bonifay,County Commissioner,2,REP,OverVotes,1
+Holmes,Ponce de Leon,County Commissioner,2,REP,UnderVotes,12
+Holmes,Pine Log,County Commissioner,2,REP,UnderVotes,4
+Holmes,New Hope,County Commissioner,2,REP,UnderVotes,9
+Holmes,Bethlehem,County Commissioner,2,REP,UnderVotes,31
+Holmes,Gritney,County Commissioner,2,REP,UnderVotes,4
+Holmes,Noma,County Commissioner,2,REP,UnderVotes,17
+Holmes,West Bonifay,County Commissioner,2,REP,UnderVotes,20
+Holmes,East Bonifay,County Commissioner,2,REP,UnderVotes,17
+Holmes,Ponce de Leon,School Board,1,NOP,Charley Wilson,273
+Holmes,Pine Log,School Board,1,NOP,Charley Wilson,326
+Holmes,New Hope,School Board,1,NOP,Charley Wilson,220
+Holmes,Bethlehem,School Board,1,NOP,Charley Wilson,326
+Holmes,Gritney,School Board,1,NOP,Charley Wilson,94
+Holmes,Noma,School Board,1,NOP,Charley Wilson,396
+Holmes,West Bonifay,School Board,1,NOP,Charley Wilson,356
+Holmes,East Bonifay,School Board,1,NOP,Charley Wilson,230
+Holmes,Ponce de Leon,School Board,1,NOP,"Milton ""Tad"" Wilson",151
+Holmes,Pine Log,School Board,1,NOP,"Milton ""Tad"" Wilson",180
+Holmes,New Hope,School Board,1,NOP,"Milton ""Tad"" Wilson",127
+Holmes,Bethlehem,School Board,1,NOP,"Milton ""Tad"" Wilson",263
+Holmes,Gritney,School Board,1,NOP,"Milton ""Tad"" Wilson",99
+Holmes,Noma,School Board,1,NOP,"Milton ""Tad"" Wilson",341
+Holmes,West Bonifay,School Board,1,NOP,"Milton ""Tad"" Wilson",306
+Holmes,East Bonifay,School Board,1,NOP,"Milton ""Tad"" Wilson",207
+Holmes,Ponce de Leon,School Board,1,NOP,OverVotes,0
+Holmes,Pine Log,School Board,1,NOP,OverVotes,0
+Holmes,New Hope,School Board,1,NOP,OverVotes,0
+Holmes,Bethlehem,School Board,1,NOP,OverVotes,0
+Holmes,Gritney,School Board,1,NOP,OverVotes,0
+Holmes,Noma,School Board,1,NOP,OverVotes,0
+Holmes,West Bonifay,School Board,1,NOP,OverVotes,0
+Holmes,East Bonifay,School Board,1,NOP,OverVotes,0
+Holmes,Ponce de Leon,School Board,1,NOP,UnderVotes,27
+Holmes,Pine Log,School Board,1,NOP,UnderVotes,30
+Holmes,New Hope,School Board,1,NOP,UnderVotes,29
+Holmes,Bethlehem,School Board,1,NOP,UnderVotes,30
+Holmes,Gritney,School Board,1,NOP,UnderVotes,5
+Holmes,Noma,School Board,1,NOP,UnderVotes,13
+Holmes,West Bonifay,School Board,1,NOP,UnderVotes,17
+Holmes,East Bonifay,School Board,1,NOP,UnderVotes,9
+Holmes,Ponce de Leon,School Board,3,NOP,Alan Justice,194
+Holmes,Pine Log,School Board,3,NOP,Alan Justice,215
+Holmes,New Hope,School Board,3,NOP,Alan Justice,108
+Holmes,Bethlehem,School Board,3,NOP,Alan Justice,267
+Holmes,Gritney,School Board,3,NOP,Alan Justice,81
+Holmes,Noma,School Board,3,NOP,Alan Justice,387
+Holmes,West Bonifay,School Board,3,NOP,Alan Justice,353
+Holmes,East Bonifay,School Board,3,NOP,Alan Justice,256
+Holmes,Ponce de Leon,School Board,3,NOP,Natalie Motley Miller,239
+Holmes,Pine Log,School Board,3,NOP,Natalie Motley Miller,293
+Holmes,New Hope,School Board,3,NOP,Natalie Motley Miller,256
+Holmes,Bethlehem,School Board,3,NOP,Natalie Motley Miller,335
+Holmes,Gritney,School Board,3,NOP,Natalie Motley Miller,107
+Holmes,Noma,School Board,3,NOP,Natalie Motley Miller,342
+Holmes,West Bonifay,School Board,3,NOP,Natalie Motley Miller,300
+Holmes,East Bonifay,School Board,3,NOP,Natalie Motley Miller,171
+Holmes,Ponce de Leon,School Board,3,NOP,OverVotes,0
+Holmes,Pine Log,School Board,3,NOP,OverVotes,0
+Holmes,New Hope,School Board,3,NOP,OverVotes,0
+Holmes,Bethlehem,School Board,3,NOP,OverVotes,0
+Holmes,Gritney,School Board,3,NOP,OverVotes,0
+Holmes,Noma,School Board,3,NOP,OverVotes,0
+Holmes,West Bonifay,School Board,3,NOP,OverVotes,0
+Holmes,East Bonifay,School Board,3,NOP,OverVotes,0
+Holmes,Ponce de Leon,School Board,3,NOP,UnderVotes,18
+Holmes,Pine Log,School Board,3,NOP,UnderVotes,28
+Holmes,New Hope,School Board,3,NOP,UnderVotes,12
+Holmes,Bethlehem,School Board,3,NOP,UnderVotes,17
+Holmes,Gritney,School Board,3,NOP,UnderVotes,10
+Holmes,Noma,School Board,3,NOP,UnderVotes,21
+Holmes,West Bonifay,School Board,3,NOP,UnderVotes,26
+Holmes,East Bonifay,School Board,3,NOP,UnderVotes,19
+Holmes,Bethlehem,Registered Voters,"","","",1582
+Holmes,East Bonifay,Registered Voters,"","","",1371
+Holmes,Gritney,Registered Voters,"","","",623
+Holmes,New Hope,Registered Voters,"","","",946
+Holmes,Noma,Registered Voters,"","","",2418
+Holmes,Pine Log,Registered Voters,"","","",1180
+Holmes,Ponce de Leon,Registered Voters,"","","",1234
+Holmes,West Bonifay,Registered Voters,"","","",1960

@@ -1,0 +1,211 @@
+county,precinct,office,district,party,candidate,votes
+Lafayette,Day Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Lafayette,4th District Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Lafayette,Day Community Center,U.S. Senate,"",DEM,Val Demings,21
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",DEM,Val Demings,26
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,Val Demings,26
+Lafayette,4th District Community Center,U.S. Senate,"",DEM,Val Demings,32
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",DEM,Val Demings,40
+Lafayette,Day Community Center,U.S. Senate,"",DEM,Brian Rush,20
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",DEM,Brian Rush,14
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,Brian Rush,13
+Lafayette,4th District Community Center,U.S. Senate,"",DEM,Brian Rush,15
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",DEM,Brian Rush,12
+Lafayette,Day Community Center,U.S. Senate,"",DEM,William Sanchez,11
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",DEM,William Sanchez,6
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,William Sanchez,5
+Lafayette,4th District Community Center,U.S. Senate,"",DEM,William Sanchez,8
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",DEM,William Sanchez,3
+Lafayette,Day Community Center,U.S. Senate,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",DEM,OverVotes,0
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,OverVotes,0
+Lafayette,4th District Community Center,U.S. Senate,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",DEM,OverVotes,0
+Lafayette,Day Community Center,U.S. Senate,"",DEM,UnderVotes,8
+Lafayette,Mayo Community Center - D2,U.S. Senate,"",DEM,UnderVotes,4
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,UnderVotes,10
+Lafayette,4th District Community Center,U.S. Senate,"",DEM,UnderVotes,5
+Lafayette,Mayo Community Center - D5,U.S. Senate,"",DEM,UnderVotes,3
+Lafayette,Day Community Center,U.S. House,3,REP,Kat Cammack,187
+Lafayette,Mayo Community Center - D2,U.S. House,3,REP,Kat Cammack,192
+Lafayette,Airline Community Center,U.S. House,3,REP,Kat Cammack,338
+Lafayette,4th District Community Center,U.S. House,3,REP,Kat Cammack,378
+Lafayette,Mayo Community Center - D5,U.S. House,3,REP,Kat Cammack,123
+Lafayette,Day Community Center,U.S. House,3,REP,Justin Waters,49
+Lafayette,Mayo Community Center - D2,U.S. House,3,REP,Justin Waters,52
+Lafayette,Airline Community Center,U.S. House,3,REP,Justin Waters,62
+Lafayette,4th District Community Center,U.S. House,3,REP,Justin Waters,50
+Lafayette,Mayo Community Center - D5,U.S. House,3,REP,Justin Waters,23
+Lafayette,Day Community Center,U.S. House,3,DEM,Danielle Hawk,20
+Lafayette,Mayo Community Center - D2,U.S. House,3,DEM,Danielle Hawk,27
+Lafayette,Airline Community Center,U.S. House,3,DEM,Danielle Hawk,26
+Lafayette,4th District Community Center,U.S. House,3,DEM,Danielle Hawk,22
+Lafayette,Mayo Community Center - D5,U.S. House,3,DEM,Danielle Hawk,34
+Lafayette,Day Community Center,U.S. House,3,DEM,Tom Wells,21
+Lafayette,Mayo Community Center - D2,U.S. House,3,DEM,Tom Wells,21
+Lafayette,Airline Community Center,U.S. House,3,DEM,Tom Wells,18
+Lafayette,4th District Community Center,U.S. House,3,DEM,Tom Wells,28
+Lafayette,Mayo Community Center - D5,U.S. House,3,DEM,Tom Wells,22
+Lafayette,Day Community Center,U.S. House,3,DEM,OverVotes,0
+Lafayette,Mayo Community Center - D2,U.S. House,3,DEM,OverVotes,0
+Lafayette,Airline Community Center,U.S. House,3,DEM,OverVotes,0
+Lafayette,4th District Community Center,U.S. House,3,DEM,OverVotes,0
+Lafayette,Mayo Community Center - D5,U.S. House,3,DEM,OverVotes,0
+Lafayette,Day Community Center,U.S. House,3,DEM,UnderVotes,10
+Lafayette,Mayo Community Center - D2,U.S. House,3,DEM,UnderVotes,6
+Lafayette,Airline Community Center,U.S. House,3,DEM,UnderVotes,10
+Lafayette,4th District Community Center,U.S. House,3,DEM,UnderVotes,10
+Lafayette,Mayo Community Center - D5,U.S. House,3,DEM,UnderVotes,6
+Lafayette,Day Community Center,Governor,"",DEM,Charlie Crist,27
+Lafayette,Mayo Community Center - D2,Governor,"",DEM,Charlie Crist,25
+Lafayette,Airline Community Center,Governor,"",DEM,Charlie Crist,24
+Lafayette,4th District Community Center,Governor,"",DEM,Charlie Crist,26
+Lafayette,Mayo Community Center - D5,Governor,"",DEM,Charlie Crist,34
+Lafayette,Day Community Center,Governor,"",DEM,Cadance Daniel,4
+Lafayette,Mayo Community Center - D2,Governor,"",DEM,Cadance Daniel,3
+Lafayette,Airline Community Center,Governor,"",DEM,Cadance Daniel,3
+Lafayette,4th District Community Center,Governor,"",DEM,Cadance Daniel,3
+Lafayette,Mayo Community Center - D5,Governor,"",DEM,Cadance Daniel,4
+Lafayette,Day Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",20
+Lafayette,Mayo Community Center - D2,Governor,"",DEM,"Nicole ""Nikki"" Fried",18
+Lafayette,Airline Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",14
+Lafayette,4th District Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",18
+Lafayette,Mayo Community Center - D5,Governor,"",DEM,"Nicole ""Nikki"" Fried",20
+Lafayette,Day Community Center,Governor,"",DEM,Robert L. Willis,7
+Lafayette,Mayo Community Center - D2,Governor,"",DEM,Robert L. Willis,6
+Lafayette,Airline Community Center,Governor,"",DEM,Robert L. Willis,7
+Lafayette,4th District Community Center,Governor,"",DEM,Robert L. Willis,7
+Lafayette,Mayo Community Center - D5,Governor,"",DEM,Robert L. Willis,1
+Lafayette,Day Community Center,Governor,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D2,Governor,"",DEM,OverVotes,0
+Lafayette,Airline Community Center,Governor,"",DEM,OverVotes,0
+Lafayette,4th District Community Center,Governor,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D5,Governor,"",DEM,OverVotes,2
+Lafayette,Day Community Center,Governor,"",DEM,UnderVotes,5
+Lafayette,Mayo Community Center - D2,Governor,"",DEM,UnderVotes,2
+Lafayette,Airline Community Center,Governor,"",DEM,UnderVotes,6
+Lafayette,4th District Community Center,Governor,"",DEM,UnderVotes,6
+Lafayette,Mayo Community Center - D5,Governor,"",DEM,UnderVotes,1
+Lafayette,Day Community Center,Attorney General,"",DEM,Aramis Ayala,16
+Lafayette,Mayo Community Center - D2,Attorney General,"",DEM,Aramis Ayala,9
+Lafayette,Airline Community Center,Attorney General,"",DEM,Aramis Ayala,19
+Lafayette,4th District Community Center,Attorney General,"",DEM,Aramis Ayala,12
+Lafayette,Mayo Community Center - D5,Attorney General,"",DEM,Aramis Ayala,24
+Lafayette,Day Community Center,Attorney General,"",DEM,Jim Lewis,25
+Lafayette,Mayo Community Center - D2,Attorney General,"",DEM,Jim Lewis,32
+Lafayette,Airline Community Center,Attorney General,"",DEM,Jim Lewis,22
+Lafayette,4th District Community Center,Attorney General,"",DEM,Jim Lewis,32
+Lafayette,Mayo Community Center - D5,Attorney General,"",DEM,Jim Lewis,20
+Lafayette,Day Community Center,Attorney General,"",DEM,Daniel Uhlfelder,11
+Lafayette,Mayo Community Center - D2,Attorney General,"",DEM,Daniel Uhlfelder,7
+Lafayette,Airline Community Center,Attorney General,"",DEM,Daniel Uhlfelder,3
+Lafayette,4th District Community Center,Attorney General,"",DEM,Daniel Uhlfelder,8
+Lafayette,Mayo Community Center - D5,Attorney General,"",DEM,Daniel Uhlfelder,16
+Lafayette,Day Community Center,Attorney General,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D2,Attorney General,"",DEM,OverVotes,0
+Lafayette,Airline Community Center,Attorney General,"",DEM,OverVotes,0
+Lafayette,4th District Community Center,Attorney General,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D5,Attorney General,"",DEM,OverVotes,0
+Lafayette,Day Community Center,Attorney General,"",DEM,UnderVotes,11
+Lafayette,Mayo Community Center - D2,Attorney General,"",DEM,UnderVotes,6
+Lafayette,Airline Community Center,Attorney General,"",DEM,UnderVotes,10
+Lafayette,4th District Community Center,Attorney General,"",DEM,UnderVotes,8
+Lafayette,Mayo Community Center - D5,Attorney General,"",DEM,UnderVotes,2
+Lafayette,Day Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,110
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",REP,James W. Shaw,77
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,128
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,142
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",REP,James W. Shaw,42
+Lafayette,Day Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,194
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",REP,Wilton Simpson,162
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,281
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,283
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",REP,Wilton Simpson,104
+Lafayette,Day Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",REP,OverVotes,0
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",REP,OverVotes,0
+Lafayette,Day Community Center,Commissioner of Agriculture,"",REP,UnderVotes,12
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",REP,UnderVotes,15
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",REP,UnderVotes,10
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",REP,UnderVotes,14
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",REP,UnderVotes,9
+Lafayette,Day Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,12
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,19
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,19
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,24
+Lafayette,Day Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,16
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,10
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,16
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",DEM,J. R. Gaillot,18
+Lafayette,Day Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,25
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",DEM,Ryan Morales,25
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,14
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,16
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",DEM,Ryan Morales,18
+Lafayette,Day Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",DEM,OverVotes,0
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",DEM,OverVotes,0
+Lafayette,Day Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,10
+Lafayette,Mayo Community Center - D2,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Lafayette,4th District Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Lafayette,Mayo Community Center - D5,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Lafayette,Day Community Center,County Commissioner,2,REP,Mason E. Byrd,237
+Lafayette,Mayo Community Center - D2,County Commissioner,2,REP,Mason E. Byrd,204
+Lafayette,Airline Community Center,County Commissioner,2,REP,Mason E. Byrd,331
+Lafayette,4th District Community Center,County Commissioner,2,REP,Mason E. Byrd,373
+Lafayette,Mayo Community Center - D5,County Commissioner,2,REP,Mason E. Byrd,145
+Lafayette,Day Community Center,County Commissioner,2,REP,Henry McCray,138
+Lafayette,Mayo Community Center - D2,County Commissioner,2,REP,Henry McCray,109
+Lafayette,Airline Community Center,County Commissioner,2,REP,Henry McCray,139
+Lafayette,4th District Community Center,County Commissioner,2,REP,Henry McCray,131
+Lafayette,Mayo Community Center - D5,County Commissioner,2,REP,Henry McCray,71
+Lafayette,Day Community Center,County Commissioner,2,REP,OverVotes,0
+Lafayette,Mayo Community Center - D2,County Commissioner,2,REP,OverVotes,0
+Lafayette,Airline Community Center,County Commissioner,2,REP,OverVotes,0
+Lafayette,4th District Community Center,County Commissioner,2,REP,OverVotes,0
+Lafayette,Mayo Community Center - D5,County Commissioner,2,REP,OverVotes,0
+Lafayette,Day Community Center,County Commissioner,2,REP,UnderVotes,11
+Lafayette,Mayo Community Center - D2,County Commissioner,2,REP,UnderVotes,6
+Lafayette,Airline Community Center,County Commissioner,2,REP,UnderVotes,9
+Lafayette,4th District Community Center,County Commissioner,2,REP,UnderVotes,2
+Lafayette,Mayo Community Center - D5,County Commissioner,2,REP,UnderVotes,3
+Lafayette,Day Community Center,School Board,3,NOP,Scott Jackson,92
+Lafayette,Mayo Community Center - D2,School Board,3,NOP,Scott Jackson,53
+Lafayette,Airline Community Center,School Board,3,NOP,Scott Jackson,94
+Lafayette,4th District Community Center,School Board,3,NOP,Scott Jackson,117
+Lafayette,Mayo Community Center - D5,School Board,3,NOP,Scott Jackson,55
+Lafayette,Day Community Center,School Board,3,NOP,Marion McCray,169
+Lafayette,Mayo Community Center - D2,School Board,3,NOP,Marion McCray,161
+Lafayette,Airline Community Center,School Board,3,NOP,Marion McCray,216
+Lafayette,4th District Community Center,School Board,3,NOP,Marion McCray,214
+Lafayette,Mayo Community Center - D5,School Board,3,NOP,Marion McCray,91
+Lafayette,Day Community Center,School Board,3,NOP,Mary Anne Koon McCray,122
+Lafayette,Mayo Community Center - D2,School Board,3,NOP,Mary Anne Koon McCray,100
+Lafayette,Airline Community Center,School Board,3,NOP,Mary Anne Koon McCray,162
+Lafayette,4th District Community Center,School Board,3,NOP,Mary Anne Koon McCray,169
+Lafayette,Mayo Community Center - D5,School Board,3,NOP,Mary Anne Koon McCray,72
+Lafayette,Day Community Center,School Board,3,NOP,OverVotes,0
+Lafayette,Mayo Community Center - D2,School Board,3,NOP,OverVotes,0
+Lafayette,Airline Community Center,School Board,3,NOP,OverVotes,0
+Lafayette,4th District Community Center,School Board,3,NOP,OverVotes,0
+Lafayette,Mayo Community Center - D5,School Board,3,NOP,OverVotes,0
+Lafayette,Day Community Center,School Board,3,NOP,UnderVotes,3
+Lafayette,Mayo Community Center - D2,School Board,3,NOP,UnderVotes,5
+Lafayette,Airline Community Center,School Board,3,NOP,UnderVotes,7
+Lafayette,4th District Community Center,School Board,3,NOP,UnderVotes,6
+Lafayette,Mayo Community Center - D5,School Board,3,NOP,UnderVotes,1
+Lafayette,4th District Community Center,Registered Voters,"","","",1124
+Lafayette,Airline Community Center,Registered Voters,"","","",1100
+Lafayette,Day Community Center,Registered Voters,"","","",914
+Lafayette,Mayo Community Center - D2,Registered Voters,"","","",721
+Lafayette,Mayo Community Center - D5,Registered Voters,"","","",639

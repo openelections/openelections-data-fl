@@ -1,0 +1,425 @@
+county,precinct,office,district,party,candidate,votes
+Calhoun,Neal Civic Center - 101,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Calhoun,Westside VFD - 102,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Calhoun,Altha Old Gym - 201,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Calhoun,Neal Civic Center - 202,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Calhoun,Shelton Park Library - 301,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Calhoun,Scout House - 401,U.S. Senate,"",DEM,Ricardo De La Fuente,12
+Calhoun,Kinard Public Library - 402,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Calhoun,Neal Civic Center - 501,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Calhoun,Kinard Public Library - 503,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Calhoun,Neal Civic Center - 101,U.S. Senate,"",DEM,Val Demings,40
+Calhoun,Westside VFD - 102,U.S. Senate,"",DEM,Val Demings,22
+Calhoun,Altha Old Gym - 201,U.S. Senate,"",DEM,Val Demings,19
+Calhoun,Neal Civic Center - 202,U.S. Senate,"",DEM,Val Demings,38
+Calhoun,Shelton Park Library - 301,U.S. Senate,"",DEM,Val Demings,25
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate,"",DEM,Val Demings,11
+Calhoun,Scout House - 401,U.S. Senate,"",DEM,Val Demings,114
+Calhoun,Kinard Public Library - 402,U.S. Senate,"",DEM,Val Demings,0
+Calhoun,Neal Civic Center - 501,U.S. Senate,"",DEM,Val Demings,39
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate,"",DEM,Val Demings,1
+Calhoun,Kinard Public Library - 503,U.S. Senate,"",DEM,Val Demings,10
+Calhoun,Neal Civic Center - 101,U.S. Senate,"",DEM,Brian Rush,22
+Calhoun,Westside VFD - 102,U.S. Senate,"",DEM,Brian Rush,19
+Calhoun,Altha Old Gym - 201,U.S. Senate,"",DEM,Brian Rush,57
+Calhoun,Neal Civic Center - 202,U.S. Senate,"",DEM,Brian Rush,32
+Calhoun,Shelton Park Library - 301,U.S. Senate,"",DEM,Brian Rush,18
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate,"",DEM,Brian Rush,21
+Calhoun,Scout House - 401,U.S. Senate,"",DEM,Brian Rush,45
+Calhoun,Kinard Public Library - 402,U.S. Senate,"",DEM,Brian Rush,1
+Calhoun,Neal Civic Center - 501,U.S. Senate,"",DEM,Brian Rush,17
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate,"",DEM,Brian Rush,8
+Calhoun,Kinard Public Library - 503,U.S. Senate,"",DEM,Brian Rush,16
+Calhoun,Neal Civic Center - 101,U.S. Senate,"",DEM,William Sanchez,11
+Calhoun,Westside VFD - 102,U.S. Senate,"",DEM,William Sanchez,8
+Calhoun,Altha Old Gym - 201,U.S. Senate,"",DEM,William Sanchez,30
+Calhoun,Neal Civic Center - 202,U.S. Senate,"",DEM,William Sanchez,22
+Calhoun,Shelton Park Library - 301,U.S. Senate,"",DEM,William Sanchez,13
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate,"",DEM,William Sanchez,7
+Calhoun,Scout House - 401,U.S. Senate,"",DEM,William Sanchez,42
+Calhoun,Kinard Public Library - 402,U.S. Senate,"",DEM,William Sanchez,1
+Calhoun,Neal Civic Center - 501,U.S. Senate,"",DEM,William Sanchez,14
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate,"",DEM,William Sanchez,3
+Calhoun,Kinard Public Library - 503,U.S. Senate,"",DEM,William Sanchez,9
+Calhoun,Neal Civic Center - 101,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Westside VFD - 102,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Altha Old Gym - 201,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 202,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Shelton Park Library - 301,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Scout House - 401,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 402,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 501,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 503,U.S. Senate,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 101,U.S. Senate,"",DEM,UnderVotes,10
+Calhoun,Westside VFD - 102,U.S. Senate,"",DEM,UnderVotes,3
+Calhoun,Altha Old Gym - 201,U.S. Senate,"",DEM,UnderVotes,29
+Calhoun,Neal Civic Center - 202,U.S. Senate,"",DEM,UnderVotes,29
+Calhoun,Shelton Park Library - 301,U.S. Senate,"",DEM,UnderVotes,9
+Calhoun,Carr-Clarksville VFD - 302,U.S. Senate,"",DEM,UnderVotes,5
+Calhoun,Scout House - 401,U.S. Senate,"",DEM,UnderVotes,32
+Calhoun,Kinard Public Library - 402,U.S. Senate,"",DEM,UnderVotes,0
+Calhoun,Neal Civic Center - 501,U.S. Senate,"",DEM,UnderVotes,12
+Calhoun,Carr-Clarksville VFD - 502,U.S. Senate,"",DEM,UnderVotes,1
+Calhoun,Kinard Public Library - 503,U.S. Senate,"",DEM,UnderVotes,4
+Calhoun,Neal Civic Center - 101,Governor,"",DEM,Charlie Crist,46
+Calhoun,Westside VFD - 102,Governor,"",DEM,Charlie Crist,24
+Calhoun,Altha Old Gym - 201,Governor,"",DEM,Charlie Crist,43
+Calhoun,Neal Civic Center - 202,Governor,"",DEM,Charlie Crist,51
+Calhoun,Shelton Park Library - 301,Governor,"",DEM,Charlie Crist,14
+Calhoun,Carr-Clarksville VFD - 302,Governor,"",DEM,Charlie Crist,16
+Calhoun,Scout House - 401,Governor,"",DEM,Charlie Crist,154
+Calhoun,Kinard Public Library - 402,Governor,"",DEM,Charlie Crist,1
+Calhoun,Neal Civic Center - 501,Governor,"",DEM,Charlie Crist,36
+Calhoun,Carr-Clarksville VFD - 502,Governor,"",DEM,Charlie Crist,1
+Calhoun,Kinard Public Library - 503,Governor,"",DEM,Charlie Crist,9
+Calhoun,Neal Civic Center - 101,Governor,"",DEM,Cadance Daniel,9
+Calhoun,Westside VFD - 102,Governor,"",DEM,Cadance Daniel,2
+Calhoun,Altha Old Gym - 201,Governor,"",DEM,Cadance Daniel,7
+Calhoun,Neal Civic Center - 202,Governor,"",DEM,Cadance Daniel,6
+Calhoun,Shelton Park Library - 301,Governor,"",DEM,Cadance Daniel,5
+Calhoun,Carr-Clarksville VFD - 302,Governor,"",DEM,Cadance Daniel,2
+Calhoun,Scout House - 401,Governor,"",DEM,Cadance Daniel,11
+Calhoun,Kinard Public Library - 402,Governor,"",DEM,Cadance Daniel,0
+Calhoun,Neal Civic Center - 501,Governor,"",DEM,Cadance Daniel,2
+Calhoun,Carr-Clarksville VFD - 502,Governor,"",DEM,Cadance Daniel,1
+Calhoun,Kinard Public Library - 503,Governor,"",DEM,Cadance Daniel,4
+Calhoun,Neal Civic Center - 101,Governor,"",DEM,"Nicole ""Nikki"" Fried",24
+Calhoun,Westside VFD - 102,Governor,"",DEM,"Nicole ""Nikki"" Fried",13
+Calhoun,Altha Old Gym - 201,Governor,"",DEM,"Nicole ""Nikki"" Fried",36
+Calhoun,Neal Civic Center - 202,Governor,"",DEM,"Nicole ""Nikki"" Fried",38
+Calhoun,Shelton Park Library - 301,Governor,"",DEM,"Nicole ""Nikki"" Fried",36
+Calhoun,Carr-Clarksville VFD - 302,Governor,"",DEM,"Nicole ""Nikki"" Fried",18
+Calhoun,Scout House - 401,Governor,"",DEM,"Nicole ""Nikki"" Fried",55
+Calhoun,Kinard Public Library - 402,Governor,"",DEM,"Nicole ""Nikki"" Fried",1
+Calhoun,Neal Civic Center - 501,Governor,"",DEM,"Nicole ""Nikki"" Fried",31
+Calhoun,Carr-Clarksville VFD - 502,Governor,"",DEM,"Nicole ""Nikki"" Fried",8
+Calhoun,Kinard Public Library - 503,Governor,"",DEM,"Nicole ""Nikki"" Fried",20
+Calhoun,Neal Civic Center - 101,Governor,"",DEM,Robert L. Willis,6
+Calhoun,Westside VFD - 102,Governor,"",DEM,Robert L. Willis,13
+Calhoun,Altha Old Gym - 201,Governor,"",DEM,Robert L. Willis,35
+Calhoun,Neal Civic Center - 202,Governor,"",DEM,Robert L. Willis,15
+Calhoun,Shelton Park Library - 301,Governor,"",DEM,Robert L. Willis,10
+Calhoun,Carr-Clarksville VFD - 302,Governor,"",DEM,Robert L. Willis,11
+Calhoun,Scout House - 401,Governor,"",DEM,Robert L. Willis,10
+Calhoun,Kinard Public Library - 402,Governor,"",DEM,Robert L. Willis,0
+Calhoun,Neal Civic Center - 501,Governor,"",DEM,Robert L. Willis,15
+Calhoun,Carr-Clarksville VFD - 502,Governor,"",DEM,Robert L. Willis,4
+Calhoun,Kinard Public Library - 503,Governor,"",DEM,Robert L. Willis,5
+Calhoun,Neal Civic Center - 101,Governor,"",DEM,OverVotes,0
+Calhoun,Westside VFD - 102,Governor,"",DEM,OverVotes,0
+Calhoun,Altha Old Gym - 201,Governor,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 202,Governor,"",DEM,OverVotes,0
+Calhoun,Shelton Park Library - 301,Governor,"",DEM,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Governor,"",DEM,OverVotes,0
+Calhoun,Scout House - 401,Governor,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 402,Governor,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 501,Governor,"",DEM,OverVotes,1
+Calhoun,Carr-Clarksville VFD - 502,Governor,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 503,Governor,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 101,Governor,"",DEM,UnderVotes,6
+Calhoun,Westside VFD - 102,Governor,"",DEM,UnderVotes,3
+Calhoun,Altha Old Gym - 201,Governor,"",DEM,UnderVotes,22
+Calhoun,Neal Civic Center - 202,Governor,"",DEM,UnderVotes,19
+Calhoun,Shelton Park Library - 301,Governor,"",DEM,UnderVotes,11
+Calhoun,Carr-Clarksville VFD - 302,Governor,"",DEM,UnderVotes,5
+Calhoun,Scout House - 401,Governor,"",DEM,UnderVotes,15
+Calhoun,Kinard Public Library - 402,Governor,"",DEM,UnderVotes,0
+Calhoun,Neal Civic Center - 501,Governor,"",DEM,UnderVotes,4
+Calhoun,Carr-Clarksville VFD - 502,Governor,"",DEM,UnderVotes,0
+Calhoun,Kinard Public Library - 503,Governor,"",DEM,UnderVotes,2
+Calhoun,Neal Civic Center - 101,Attorney General,"",DEM,Aramis Ayala,17
+Calhoun,Westside VFD - 102,Attorney General,"",DEM,Aramis Ayala,11
+Calhoun,Altha Old Gym - 201,Attorney General,"",DEM,Aramis Ayala,16
+Calhoun,Neal Civic Center - 202,Attorney General,"",DEM,Aramis Ayala,26
+Calhoun,Shelton Park Library - 301,Attorney General,"",DEM,Aramis Ayala,18
+Calhoun,Carr-Clarksville VFD - 302,Attorney General,"",DEM,Aramis Ayala,12
+Calhoun,Scout House - 401,Attorney General,"",DEM,Aramis Ayala,74
+Calhoun,Kinard Public Library - 402,Attorney General,"",DEM,Aramis Ayala,0
+Calhoun,Neal Civic Center - 501,Attorney General,"",DEM,Aramis Ayala,24
+Calhoun,Carr-Clarksville VFD - 502,Attorney General,"",DEM,Aramis Ayala,0
+Calhoun,Kinard Public Library - 503,Attorney General,"",DEM,Aramis Ayala,6
+Calhoun,Neal Civic Center - 101,Attorney General,"",DEM,Jim Lewis,39
+Calhoun,Westside VFD - 102,Attorney General,"",DEM,Jim Lewis,31
+Calhoun,Altha Old Gym - 201,Attorney General,"",DEM,Jim Lewis,87
+Calhoun,Neal Civic Center - 202,Attorney General,"",DEM,Jim Lewis,51
+Calhoun,Shelton Park Library - 301,Attorney General,"",DEM,Jim Lewis,40
+Calhoun,Carr-Clarksville VFD - 302,Attorney General,"",DEM,Jim Lewis,27
+Calhoun,Scout House - 401,Attorney General,"",DEM,Jim Lewis,107
+Calhoun,Kinard Public Library - 402,Attorney General,"",DEM,Jim Lewis,2
+Calhoun,Neal Civic Center - 501,Attorney General,"",DEM,Jim Lewis,38
+Calhoun,Carr-Clarksville VFD - 502,Attorney General,"",DEM,Jim Lewis,9
+Calhoun,Kinard Public Library - 503,Attorney General,"",DEM,Jim Lewis,26
+Calhoun,Neal Civic Center - 101,Attorney General,"",DEM,Daniel Uhlfelder,24
+Calhoun,Westside VFD - 102,Attorney General,"",DEM,Daniel Uhlfelder,10
+Calhoun,Altha Old Gym - 201,Attorney General,"",DEM,Daniel Uhlfelder,14
+Calhoun,Neal Civic Center - 202,Attorney General,"",DEM,Daniel Uhlfelder,17
+Calhoun,Shelton Park Library - 301,Attorney General,"",DEM,Daniel Uhlfelder,7
+Calhoun,Carr-Clarksville VFD - 302,Attorney General,"",DEM,Daniel Uhlfelder,7
+Calhoun,Scout House - 401,Attorney General,"",DEM,Daniel Uhlfelder,28
+Calhoun,Kinard Public Library - 402,Attorney General,"",DEM,Daniel Uhlfelder,0
+Calhoun,Neal Civic Center - 501,Attorney General,"",DEM,Daniel Uhlfelder,16
+Calhoun,Carr-Clarksville VFD - 502,Attorney General,"",DEM,Daniel Uhlfelder,4
+Calhoun,Kinard Public Library - 503,Attorney General,"",DEM,Daniel Uhlfelder,4
+Calhoun,Neal Civic Center - 101,Attorney General,"",DEM,OverVotes,0
+Calhoun,Westside VFD - 102,Attorney General,"",DEM,OverVotes,0
+Calhoun,Altha Old Gym - 201,Attorney General,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 202,Attorney General,"",DEM,OverVotes,0
+Calhoun,Shelton Park Library - 301,Attorney General,"",DEM,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Attorney General,"",DEM,OverVotes,0
+Calhoun,Scout House - 401,Attorney General,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 402,Attorney General,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 501,Attorney General,"",DEM,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Attorney General,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 503,Attorney General,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 101,Attorney General,"",DEM,UnderVotes,11
+Calhoun,Westside VFD - 102,Attorney General,"",DEM,UnderVotes,3
+Calhoun,Altha Old Gym - 201,Attorney General,"",DEM,UnderVotes,26
+Calhoun,Neal Civic Center - 202,Attorney General,"",DEM,UnderVotes,35
+Calhoun,Shelton Park Library - 301,Attorney General,"",DEM,UnderVotes,11
+Calhoun,Carr-Clarksville VFD - 302,Attorney General,"",DEM,UnderVotes,6
+Calhoun,Scout House - 401,Attorney General,"",DEM,UnderVotes,36
+Calhoun,Kinard Public Library - 402,Attorney General,"",DEM,UnderVotes,0
+Calhoun,Neal Civic Center - 501,Attorney General,"",DEM,UnderVotes,11
+Calhoun,Carr-Clarksville VFD - 502,Attorney General,"",DEM,UnderVotes,1
+Calhoun,Kinard Public Library - 503,Attorney General,"",DEM,UnderVotes,4
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",REP,James W. Shaw,67
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",REP,James W. Shaw,42
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",REP,James W. Shaw,57
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",REP,James W. Shaw,48
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",REP,James W. Shaw,99
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",REP,James W. Shaw,55
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",REP,James W. Shaw,17
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",REP,James W. Shaw,4
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",REP,James W. Shaw,49
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",REP,James W. Shaw,19
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",REP,James W. Shaw,57
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",REP,Wilton Simpson,130
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",REP,Wilton Simpson,80
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",REP,Wilton Simpson,123
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",REP,Wilton Simpson,134
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",REP,Wilton Simpson,162
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",REP,Wilton Simpson,82
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",REP,Wilton Simpson,22
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",REP,Wilton Simpson,16
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",REP,Wilton Simpson,115
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",REP,Wilton Simpson,18
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",REP,Wilton Simpson,70
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",REP,OverVotes,0
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",REP,UnderVotes,7
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",REP,UnderVotes,2
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",REP,UnderVotes,8
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",REP,UnderVotes,6
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",REP,UnderVotes,6
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",REP,UnderVotes,2
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",REP,UnderVotes,1
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",REP,UnderVotes,0
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",REP,UnderVotes,9
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",REP,UnderVotes,4
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",REP,UnderVotes,12
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,33
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,24
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,36
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,29
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,89
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,0
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,2
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,8
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",DEM,J. R. Gaillot,18
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",DEM,J. R. Gaillot,43
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",DEM,J. R. Gaillot,25
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",DEM,J. R. Gaillot,13
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",DEM,J. R. Gaillot,61
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",DEM,J. R. Gaillot,1
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",DEM,J. R. Gaillot,23
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",DEM,J. R. Gaillot,10
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",DEM,Ryan Morales,28
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",DEM,Ryan Morales,21
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",DEM,Ryan Morales,47
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",DEM,Ryan Morales,32
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",DEM,Ryan Morales,17
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",DEM,Ryan Morales,26
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",DEM,Ryan Morales,56
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",DEM,Ryan Morales,1
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",DEM,Ryan Morales,31
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",DEM,Ryan Morales,5
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",DEM,Ryan Morales,16
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",DEM,OverVotes,0
+Calhoun,Neal Civic Center - 101,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Calhoun,Westside VFD - 102,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Calhoun,Altha Old Gym - 201,Commissioner of Agriculture,"",DEM,UnderVotes,29
+Calhoun,Neal Civic Center - 202,Commissioner of Agriculture,"",DEM,UnderVotes,36
+Calhoun,Shelton Park Library - 301,Commissioner of Agriculture,"",DEM,UnderVotes,10
+Calhoun,Carr-Clarksville VFD - 302,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Calhoun,Scout House - 401,Commissioner of Agriculture,"",DEM,UnderVotes,39
+Calhoun,Kinard Public Library - 402,Commissioner of Agriculture,"",DEM,UnderVotes,0
+Calhoun,Neal Civic Center - 501,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Calhoun,Carr-Clarksville VFD - 502,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Calhoun,Kinard Public Library - 503,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Calhoun,Neal Civic Center - 101,State Senate,2,REP,Regina Piazza,33
+Calhoun,Westside VFD - 102,State Senate,2,REP,Regina Piazza,21
+Calhoun,Altha Old Gym - 201,State Senate,2,REP,Regina Piazza,23
+Calhoun,Neal Civic Center - 202,State Senate,2,REP,Regina Piazza,34
+Calhoun,Shelton Park Library - 301,State Senate,2,REP,Regina Piazza,51
+Calhoun,Carr-Clarksville VFD - 302,State Senate,2,REP,Regina Piazza,16
+Calhoun,Scout House - 401,State Senate,2,REP,Regina Piazza,10
+Calhoun,Kinard Public Library - 402,State Senate,2,REP,Regina Piazza,5
+Calhoun,Neal Civic Center - 501,State Senate,2,REP,Regina Piazza,23
+Calhoun,Carr-Clarksville VFD - 502,State Senate,2,REP,Regina Piazza,4
+Calhoun,Kinard Public Library - 503,State Senate,2,REP,Regina Piazza,6
+Calhoun,Neal Civic Center - 101,State Senate,2,REP,Jay Trumbull,171
+Calhoun,Westside VFD - 102,State Senate,2,REP,Jay Trumbull,100
+Calhoun,Altha Old Gym - 201,State Senate,2,REP,Jay Trumbull,162
+Calhoun,Neal Civic Center - 202,State Senate,2,REP,Jay Trumbull,153
+Calhoun,Shelton Park Library - 301,State Senate,2,REP,Jay Trumbull,214
+Calhoun,Carr-Clarksville VFD - 302,State Senate,2,REP,Jay Trumbull,123
+Calhoun,Scout House - 401,State Senate,2,REP,Jay Trumbull,30
+Calhoun,Kinard Public Library - 402,State Senate,2,REP,Jay Trumbull,15
+Calhoun,Neal Civic Center - 501,State Senate,2,REP,Jay Trumbull,144
+Calhoun,Carr-Clarksville VFD - 502,State Senate,2,REP,Jay Trumbull,36
+Calhoun,Kinard Public Library - 503,State Senate,2,REP,Jay Trumbull,125
+Calhoun,Neal Civic Center - 101,State Senate,2,REP,OverVotes,0
+Calhoun,Westside VFD - 102,State Senate,2,REP,OverVotes,0
+Calhoun,Altha Old Gym - 201,State Senate,2,REP,OverVotes,0
+Calhoun,Neal Civic Center - 202,State Senate,2,REP,OverVotes,0
+Calhoun,Shelton Park Library - 301,State Senate,2,REP,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,State Senate,2,REP,OverVotes,0
+Calhoun,Scout House - 401,State Senate,2,REP,OverVotes,0
+Calhoun,Kinard Public Library - 402,State Senate,2,REP,OverVotes,0
+Calhoun,Neal Civic Center - 501,State Senate,2,REP,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,State Senate,2,REP,OverVotes,0
+Calhoun,Kinard Public Library - 503,State Senate,2,REP,OverVotes,0
+Calhoun,Neal Civic Center - 101,State Senate,2,REP,UnderVotes,0
+Calhoun,Westside VFD - 102,State Senate,2,REP,UnderVotes,3
+Calhoun,Altha Old Gym - 201,State Senate,2,REP,UnderVotes,3
+Calhoun,Neal Civic Center - 202,State Senate,2,REP,UnderVotes,1
+Calhoun,Shelton Park Library - 301,State Senate,2,REP,UnderVotes,2
+Calhoun,Carr-Clarksville VFD - 302,State Senate,2,REP,UnderVotes,0
+Calhoun,Scout House - 401,State Senate,2,REP,UnderVotes,0
+Calhoun,Kinard Public Library - 402,State Senate,2,REP,UnderVotes,0
+Calhoun,Neal Civic Center - 501,State Senate,2,REP,UnderVotes,6
+Calhoun,Carr-Clarksville VFD - 502,State Senate,2,REP,UnderVotes,1
+Calhoun,Kinard Public Library - 503,State Senate,2,REP,UnderVotes,8
+Calhoun,Neal Civic Center - 101,State House,5,REP,Shane Abbott,102
+Calhoun,Westside VFD - 102,State House,5,REP,Shane Abbott,81
+Calhoun,Altha Old Gym - 201,State House,5,REP,Shane Abbott,153
+Calhoun,Neal Civic Center - 202,State House,5,REP,Shane Abbott,153
+Calhoun,Shelton Park Library - 301,State House,5,REP,Shane Abbott,197
+Calhoun,Carr-Clarksville VFD - 302,State House,5,REP,Shane Abbott,117
+Calhoun,Scout House - 401,State House,5,REP,Shane Abbott,95
+Calhoun,Kinard Public Library - 402,State House,5,REP,Shane Abbott,8
+Calhoun,Neal Civic Center - 501,State House,5,REP,Shane Abbott,113
+Calhoun,Carr-Clarksville VFD - 502,State House,5,REP,Shane Abbott,33
+Calhoun,Kinard Public Library - 503,State House,5,REP,Shane Abbott,80
+Calhoun,Neal Civic Center - 101,State House,5,REP,Vance D. Coley,157
+Calhoun,Westside VFD - 102,State House,5,REP,Vance D. Coley,78
+Calhoun,Altha Old Gym - 201,State House,5,REP,Vance D. Coley,124
+Calhoun,Neal Civic Center - 202,State House,5,REP,Vance D. Coley,130
+Calhoun,Shelton Park Library - 301,State House,5,REP,Vance D. Coley,83
+Calhoun,Carr-Clarksville VFD - 302,State House,5,REP,Vance D. Coley,65
+Calhoun,Scout House - 401,State House,5,REP,Vance D. Coley,95
+Calhoun,Kinard Public Library - 402,State House,5,REP,Vance D. Coley,10
+Calhoun,Neal Civic Center - 501,State House,5,REP,Vance D. Coley,126
+Calhoun,Carr-Clarksville VFD - 502,State House,5,REP,Vance D. Coley,13
+Calhoun,Kinard Public Library - 503,State House,5,REP,Vance D. Coley,65
+Calhoun,Neal Civic Center - 101,State House,5,REP,Clint Pate,34
+Calhoun,Westside VFD - 102,State House,5,REP,Clint Pate,20
+Calhoun,Altha Old Gym - 201,State House,5,REP,Clint Pate,48
+Calhoun,Neal Civic Center - 202,State House,5,REP,Clint Pate,29
+Calhoun,Shelton Park Library - 301,State House,5,REP,Clint Pate,77
+Calhoun,Carr-Clarksville VFD - 302,State House,5,REP,Clint Pate,12
+Calhoun,Scout House - 401,State House,5,REP,Clint Pate,44
+Calhoun,Kinard Public Library - 402,State House,5,REP,Clint Pate,5
+Calhoun,Neal Civic Center - 501,State House,5,REP,Clint Pate,17
+Calhoun,Carr-Clarksville VFD - 502,State House,5,REP,Clint Pate,8
+Calhoun,Kinard Public Library - 503,State House,5,REP,Clint Pate,24
+Calhoun,Neal Civic Center - 101,State House,5,REP,OverVotes,0
+Calhoun,Westside VFD - 102,State House,5,REP,OverVotes,0
+Calhoun,Altha Old Gym - 201,State House,5,REP,OverVotes,0
+Calhoun,Neal Civic Center - 202,State House,5,REP,OverVotes,0
+Calhoun,Shelton Park Library - 301,State House,5,REP,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 302,State House,5,REP,OverVotes,0
+Calhoun,Scout House - 401,State House,5,REP,OverVotes,0
+Calhoun,Kinard Public Library - 402,State House,5,REP,OverVotes,0
+Calhoun,Neal Civic Center - 501,State House,5,REP,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,State House,5,REP,OverVotes,0
+Calhoun,Kinard Public Library - 503,State House,5,REP,OverVotes,0
+Calhoun,Neal Civic Center - 101,State House,5,REP,UnderVotes,9
+Calhoun,Westside VFD - 102,State House,5,REP,UnderVotes,6
+Calhoun,Altha Old Gym - 201,State House,5,REP,UnderVotes,15
+Calhoun,Neal Civic Center - 202,State House,5,REP,UnderVotes,22
+Calhoun,Shelton Park Library - 301,State House,5,REP,UnderVotes,10
+Calhoun,Carr-Clarksville VFD - 302,State House,5,REP,UnderVotes,1
+Calhoun,Scout House - 401,State House,5,REP,UnderVotes,66
+Calhoun,Kinard Public Library - 402,State House,5,REP,UnderVotes,0
+Calhoun,Neal Civic Center - 501,State House,5,REP,UnderVotes,12
+Calhoun,Carr-Clarksville VFD - 502,State House,5,REP,UnderVotes,4
+Calhoun,Kinard Public Library - 503,State House,5,REP,UnderVotes,14
+Calhoun,Altha Old Gym - 201,County Commissioner,2,DEM,Kurt Eldridge,40
+Calhoun,Neal Civic Center - 202,County Commissioner,2,DEM,Kurt Eldridge,75
+Calhoun,Altha Old Gym - 201,County Commissioner,2,DEM,Earl Hunt,101
+Calhoun,Neal Civic Center - 202,County Commissioner,2,DEM,Earl Hunt,51
+Calhoun,Altha Old Gym - 201,County Commissioner,2,DEM,OverVotes,0
+Calhoun,Neal Civic Center - 202,County Commissioner,2,DEM,OverVotes,0
+Calhoun,Altha Old Gym - 201,County Commissioner,2,DEM,UnderVotes,2
+Calhoun,Neal Civic Center - 202,County Commissioner,2,DEM,UnderVotes,3
+Calhoun,Scout House - 401,County Commissioner,4,DEM,Carrie Baker,144
+Calhoun,Kinard Public Library - 402,County Commissioner,4,DEM,Carrie Baker,4
+Calhoun,Scout House - 401,County Commissioner,4,DEM,Scott Monlyn,147
+Calhoun,Kinard Public Library - 402,County Commissioner,4,DEM,Scott Monlyn,17
+Calhoun,Scout House - 401,County Commissioner,4,DEM,OverVotes,0
+Calhoun,Kinard Public Library - 402,County Commissioner,4,DEM,OverVotes,0
+Calhoun,Scout House - 401,County Commissioner,4,DEM,UnderVotes,9
+Calhoun,Kinard Public Library - 402,County Commissioner,4,DEM,UnderVotes,2
+Calhoun,Neal Civic Center - 501,County Commissioner,5,REP,Gene Bailey,109
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner,5,REP,Gene Bailey,22
+Calhoun,Kinard Public Library - 503,County Commissioner,5,REP,Gene Bailey,115
+Calhoun,Neal Civic Center - 501,County Commissioner,5,REP,Tony Norris,63
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner,5,REP,Tony Norris,17
+Calhoun,Kinard Public Library - 503,County Commissioner,5,REP,Tony Norris,22
+Calhoun,Neal Civic Center - 501,County Commissioner,5,REP,OverVotes,0
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner,5,REP,OverVotes,0
+Calhoun,Kinard Public Library - 503,County Commissioner,5,REP,OverVotes,0
+Calhoun,Neal Civic Center - 501,County Commissioner,5,REP,UnderVotes,1
+Calhoun,Carr-Clarksville VFD - 502,County Commissioner,5,REP,UnderVotes,2
+Calhoun,Kinard Public Library - 503,County Commissioner,5,REP,UnderVotes,2
+Calhoun,Altha Old Gym - 201,Registered Voters,"","","",997
+Calhoun,Carr-Clarksville VFD - 302,Registered Voters,"","","",654
+Calhoun,Carr-Clarksville VFD - 502,Registered Voters,"","","",230
+Calhoun,Kinard Public Library - 402,Registered Voters,"","","",69
+Calhoun,Kinard Public Library - 503,Registered Voters,"","","",486
+Calhoun,Neal Civic Center - 101,Registered Voters,"","","",1085
+Calhoun,Neal Civic Center - 202,Registered Voters,"","","",970
+Calhoun,Neal Civic Center - 501,Registered Voters,"","","",820
+Calhoun,Scout House - 401,Registered Voters,"","","",701
+Calhoun,Shelton Park Library - 301,Registered Voters,"","","",1474
+Calhoun,Westside VFD - 102,Registered Voters,"","","",713

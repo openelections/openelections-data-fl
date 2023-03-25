@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes
+Washington,Caryville,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Washington,Five Points,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Washington,Hinson Crossroads,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Washington,First Baptist Church - Chipley,U.S. Senate,"",DEM,Ricardo De La Fuente,17
+Washington,Vernon City Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,14
+Washington,New Hope - Campbells Park,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Washington,Orange Hill Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Washington,Armory - Chipley,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Washington,Wausau,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Washington,Ebro Town Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Washington,Greenhead,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Washington,Sunny Hills,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Washington,Caryville,U.S. Senate,"",DEM,Val Demings,16
+Washington,Five Points,U.S. Senate,"",DEM,Val Demings,12
+Washington,Hinson Crossroads,U.S. Senate,"",DEM,Val Demings,13
+Washington,First Baptist Church - Chipley,U.S. Senate,"",DEM,Val Demings,98
+Washington,Vernon City Hall,U.S. Senate,"",DEM,Val Demings,38
+Washington,New Hope - Campbells Park,U.S. Senate,"",DEM,Val Demings,66
+Washington,Orange Hill Fire Station,U.S. Senate,"",DEM,Val Demings,49
+Washington,Armory - Chipley,U.S. Senate,"",DEM,Val Demings,81
+Washington,Wausau,U.S. Senate,"",DEM,Val Demings,29
+Washington,Ebro Town Hall,U.S. Senate,"",DEM,Val Demings,20
+Washington,Greenhead,U.S. Senate,"",DEM,Val Demings,46
+Washington,Sunny Hills,U.S. Senate,"",DEM,Val Demings,34
+Washington,Caryville,U.S. Senate,"",DEM,Brian Rush,11
+Washington,Five Points,U.S. Senate,"",DEM,Brian Rush,11
+Washington,Hinson Crossroads,U.S. Senate,"",DEM,Brian Rush,6
+Washington,First Baptist Church - Chipley,U.S. Senate,"",DEM,Brian Rush,79
+Washington,Vernon City Hall,U.S. Senate,"",DEM,Brian Rush,32
+Washington,New Hope - Campbells Park,U.S. Senate,"",DEM,Brian Rush,22
+Washington,Orange Hill Fire Station,U.S. Senate,"",DEM,Brian Rush,32
+Washington,Armory - Chipley,U.S. Senate,"",DEM,Brian Rush,26
+Washington,Wausau,U.S. Senate,"",DEM,Brian Rush,16
+Washington,Ebro Town Hall,U.S. Senate,"",DEM,Brian Rush,13
+Washington,Greenhead,U.S. Senate,"",DEM,Brian Rush,16
+Washington,Sunny Hills,U.S. Senate,"",DEM,Brian Rush,14
+Washington,Caryville,U.S. Senate,"",DEM,William Sanchez,4
+Washington,Five Points,U.S. Senate,"",DEM,William Sanchez,7
+Washington,Hinson Crossroads,U.S. Senate,"",DEM,William Sanchez,2
+Washington,First Baptist Church - Chipley,U.S. Senate,"",DEM,William Sanchez,48
+Washington,Vernon City Hall,U.S. Senate,"",DEM,William Sanchez,18
+Washington,New Hope - Campbells Park,U.S. Senate,"",DEM,William Sanchez,20
+Washington,Orange Hill Fire Station,U.S. Senate,"",DEM,William Sanchez,9
+Washington,Armory - Chipley,U.S. Senate,"",DEM,William Sanchez,19
+Washington,Wausau,U.S. Senate,"",DEM,William Sanchez,14
+Washington,Ebro Town Hall,U.S. Senate,"",DEM,William Sanchez,5
+Washington,Greenhead,U.S. Senate,"",DEM,William Sanchez,6
+Washington,Sunny Hills,U.S. Senate,"",DEM,William Sanchez,13
+Washington,Caryville,U.S. Senate,"",DEM,OverVotes,0
+Washington,Five Points,U.S. Senate,"",DEM,OverVotes,0
+Washington,Hinson Crossroads,U.S. Senate,"",DEM,OverVotes,0
+Washington,First Baptist Church - Chipley,U.S. Senate,"",DEM,OverVotes,0
+Washington,Vernon City Hall,U.S. Senate,"",DEM,OverVotes,0
+Washington,New Hope - Campbells Park,U.S. Senate,"",DEM,OverVotes,0
+Washington,Orange Hill Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Washington,Armory - Chipley,U.S. Senate,"",DEM,OverVotes,0
+Washington,Wausau,U.S. Senate,"",DEM,OverVotes,0
+Washington,Ebro Town Hall,U.S. Senate,"",DEM,OverVotes,0
+Washington,Greenhead,U.S. Senate,"",DEM,OverVotes,0
+Washington,Sunny Hills,U.S. Senate,"",DEM,OverVotes,0
+Washington,Caryville,U.S. Senate,"",DEM,UnderVotes,9
+Washington,Five Points,U.S. Senate,"",DEM,UnderVotes,11
+Washington,Hinson Crossroads,U.S. Senate,"",DEM,UnderVotes,9
+Washington,First Baptist Church - Chipley,U.S. Senate,"",DEM,UnderVotes,35
+Washington,Vernon City Hall,U.S. Senate,"",DEM,UnderVotes,18
+Washington,New Hope - Campbells Park,U.S. Senate,"",DEM,UnderVotes,7
+Washington,Orange Hill Fire Station,U.S. Senate,"",DEM,UnderVotes,12
+Washington,Armory - Chipley,U.S. Senate,"",DEM,UnderVotes,22
+Washington,Wausau,U.S. Senate,"",DEM,UnderVotes,11
+Washington,Ebro Town Hall,U.S. Senate,"",DEM,UnderVotes,4
+Washington,Greenhead,U.S. Senate,"",DEM,UnderVotes,5
+Washington,Sunny Hills,U.S. Senate,"",DEM,UnderVotes,5
+Washington,Caryville,Governor,"",DEM,Charlie Crist,24
+Washington,Five Points,Governor,"",DEM,Charlie Crist,9
+Washington,Hinson Crossroads,Governor,"",DEM,Charlie Crist,9
+Washington,First Baptist Church - Chipley,Governor,"",DEM,Charlie Crist,122
+Washington,Vernon City Hall,Governor,"",DEM,Charlie Crist,48
+Washington,New Hope - Campbells Park,Governor,"",DEM,Charlie Crist,66
+Washington,Orange Hill Fire Station,Governor,"",DEM,Charlie Crist,51
+Washington,Armory - Chipley,Governor,"",DEM,Charlie Crist,81
+Washington,Wausau,Governor,"",DEM,Charlie Crist,39
+Washington,Ebro Town Hall,Governor,"",DEM,Charlie Crist,30
+Washington,Greenhead,Governor,"",DEM,Charlie Crist,30
+Washington,Sunny Hills,Governor,"",DEM,Charlie Crist,32
+Washington,Caryville,Governor,"",DEM,Cadance Daniel,3
+Washington,Five Points,Governor,"",DEM,Cadance Daniel,3
+Washington,Hinson Crossroads,Governor,"",DEM,Cadance Daniel,1
+Washington,First Baptist Church - Chipley,Governor,"",DEM,Cadance Daniel,16
+Washington,Vernon City Hall,Governor,"",DEM,Cadance Daniel,6
+Washington,New Hope - Campbells Park,Governor,"",DEM,Cadance Daniel,4
+Washington,Orange Hill Fire Station,Governor,"",DEM,Cadance Daniel,9
+Washington,Armory - Chipley,Governor,"",DEM,Cadance Daniel,11
+Washington,Wausau,Governor,"",DEM,Cadance Daniel,7
+Washington,Ebro Town Hall,Governor,"",DEM,Cadance Daniel,3
+Washington,Greenhead,Governor,"",DEM,Cadance Daniel,6
+Washington,Sunny Hills,Governor,"",DEM,Cadance Daniel,2
+Washington,Caryville,Governor,"",DEM,"Nicole ""Nikki"" Fried",11
+Washington,Five Points,Governor,"",DEM,"Nicole ""Nikki"" Fried",14
+Washington,Hinson Crossroads,Governor,"",DEM,"Nicole ""Nikki"" Fried",12
+Washington,First Baptist Church - Chipley,Governor,"",DEM,"Nicole ""Nikki"" Fried",79
+Washington,Vernon City Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",42
+Washington,New Hope - Campbells Park,Governor,"",DEM,"Nicole ""Nikki"" Fried",42
+Washington,Orange Hill Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",34
+Washington,Armory - Chipley,Governor,"",DEM,"Nicole ""Nikki"" Fried",46
+Washington,Wausau,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Washington,Ebro Town Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",7
+Washington,Greenhead,Governor,"",DEM,"Nicole ""Nikki"" Fried",33
+Washington,Sunny Hills,Governor,"",DEM,"Nicole ""Nikki"" Fried",24
+Washington,Caryville,Governor,"",DEM,Robert L. Willis,1
+Washington,Five Points,Governor,"",DEM,Robert L. Willis,9
+Washington,Hinson Crossroads,Governor,"",DEM,Robert L. Willis,3
+Washington,First Baptist Church - Chipley,Governor,"",DEM,Robert L. Willis,34
+Washington,Vernon City Hall,Governor,"",DEM,Robert L. Willis,11
+Washington,New Hope - Campbells Park,Governor,"",DEM,Robert L. Willis,10
+Washington,Orange Hill Fire Station,Governor,"",DEM,Robert L. Willis,10
+Washington,Armory - Chipley,Governor,"",DEM,Robert L. Willis,7
+Washington,Wausau,Governor,"",DEM,Robert L. Willis,9
+Washington,Ebro Town Hall,Governor,"",DEM,Robert L. Willis,3
+Washington,Greenhead,Governor,"",DEM,Robert L. Willis,4
+Washington,Sunny Hills,Governor,"",DEM,Robert L. Willis,6
+Washington,Caryville,Governor,"",DEM,OverVotes,0
+Washington,Five Points,Governor,"",DEM,OverVotes,0
+Washington,Hinson Crossroads,Governor,"",DEM,OverVotes,0
+Washington,First Baptist Church - Chipley,Governor,"",DEM,OverVotes,0
+Washington,Vernon City Hall,Governor,"",DEM,OverVotes,0
+Washington,New Hope - Campbells Park,Governor,"",DEM,OverVotes,0
+Washington,Orange Hill Fire Station,Governor,"",DEM,OverVotes,0
+Washington,Armory - Chipley,Governor,"",DEM,OverVotes,0
+Washington,Wausau,Governor,"",DEM,OverVotes,0
+Washington,Ebro Town Hall,Governor,"",DEM,OverVotes,0
+Washington,Greenhead,Governor,"",DEM,OverVotes,1
+Washington,Sunny Hills,Governor,"",DEM,OverVotes,0
+Washington,Caryville,Governor,"",DEM,UnderVotes,5
+Washington,Five Points,Governor,"",DEM,UnderVotes,7
+Washington,Hinson Crossroads,Governor,"",DEM,UnderVotes,6
+Washington,First Baptist Church - Chipley,Governor,"",DEM,UnderVotes,26
+Washington,Vernon City Hall,Governor,"",DEM,UnderVotes,13
+Washington,New Hope - Campbells Park,Governor,"",DEM,UnderVotes,2
+Washington,Orange Hill Fire Station,Governor,"",DEM,UnderVotes,7
+Washington,Armory - Chipley,Governor,"",DEM,UnderVotes,10
+Washington,Wausau,Governor,"",DEM,UnderVotes,6
+Washington,Ebro Town Hall,Governor,"",DEM,UnderVotes,2
+Washington,Greenhead,Governor,"",DEM,UnderVotes,2
+Washington,Sunny Hills,Governor,"",DEM,UnderVotes,4
+Washington,Caryville,Attorney General,"",DEM,Aramis Ayala,12
+Washington,Five Points,Attorney General,"",DEM,Aramis Ayala,8
+Washington,Hinson Crossroads,Attorney General,"",DEM,Aramis Ayala,6
+Washington,First Baptist Church - Chipley,Attorney General,"",DEM,Aramis Ayala,65
+Washington,Vernon City Hall,Attorney General,"",DEM,Aramis Ayala,22
+Washington,New Hope - Campbells Park,Attorney General,"",DEM,Aramis Ayala,50
+Washington,Orange Hill Fire Station,Attorney General,"",DEM,Aramis Ayala,21
+Washington,Armory - Chipley,Attorney General,"",DEM,Aramis Ayala,45
+Washington,Wausau,Attorney General,"",DEM,Aramis Ayala,12
+Washington,Ebro Town Hall,Attorney General,"",DEM,Aramis Ayala,24
+Washington,Greenhead,Attorney General,"",DEM,Aramis Ayala,24
+Washington,Sunny Hills,Attorney General,"",DEM,Aramis Ayala,18
+Washington,Caryville,Attorney General,"",DEM,Jim Lewis,18
+Washington,Five Points,Attorney General,"",DEM,Jim Lewis,19
+Washington,Hinson Crossroads,Attorney General,"",DEM,Jim Lewis,14
+Washington,First Baptist Church - Chipley,Attorney General,"",DEM,Jim Lewis,136
+Washington,Vernon City Hall,Attorney General,"",DEM,Jim Lewis,59
+Washington,New Hope - Campbells Park,Attorney General,"",DEM,Jim Lewis,45
+Washington,Orange Hill Fire Station,Attorney General,"",DEM,Jim Lewis,57
+Washington,Armory - Chipley,Attorney General,"",DEM,Jim Lewis,65
+Washington,Wausau,Attorney General,"",DEM,Jim Lewis,49
+Washington,Ebro Town Hall,Attorney General,"",DEM,Jim Lewis,11
+Washington,Greenhead,Attorney General,"",DEM,Jim Lewis,28
+Washington,Sunny Hills,Attorney General,"",DEM,Jim Lewis,27
+Washington,Caryville,Attorney General,"",DEM,Daniel Uhlfelder,5
+Washington,Five Points,Attorney General,"",DEM,Daniel Uhlfelder,4
+Washington,Hinson Crossroads,Attorney General,"",DEM,Daniel Uhlfelder,2
+Washington,First Baptist Church - Chipley,Attorney General,"",DEM,Daniel Uhlfelder,35
+Washington,Vernon City Hall,Attorney General,"",DEM,Daniel Uhlfelder,19
+Washington,New Hope - Campbells Park,Attorney General,"",DEM,Daniel Uhlfelder,16
+Washington,Orange Hill Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,18
+Washington,Armory - Chipley,Attorney General,"",DEM,Daniel Uhlfelder,17
+Washington,Wausau,Attorney General,"",DEM,Daniel Uhlfelder,10
+Washington,Ebro Town Hall,Attorney General,"",DEM,Daniel Uhlfelder,6
+Washington,Greenhead,Attorney General,"",DEM,Daniel Uhlfelder,18
+Washington,Sunny Hills,Attorney General,"",DEM,Daniel Uhlfelder,15
+Washington,Caryville,Attorney General,"",DEM,OverVotes,0
+Washington,Five Points,Attorney General,"",DEM,OverVotes,0
+Washington,Hinson Crossroads,Attorney General,"",DEM,OverVotes,0
+Washington,First Baptist Church - Chipley,Attorney General,"",DEM,OverVotes,1
+Washington,Vernon City Hall,Attorney General,"",DEM,OverVotes,0
+Washington,New Hope - Campbells Park,Attorney General,"",DEM,OverVotes,0
+Washington,Orange Hill Fire Station,Attorney General,"",DEM,OverVotes,0
+Washington,Armory - Chipley,Attorney General,"",DEM,OverVotes,0
+Washington,Wausau,Attorney General,"",DEM,OverVotes,0
+Washington,Ebro Town Hall,Attorney General,"",DEM,OverVotes,0
+Washington,Greenhead,Attorney General,"",DEM,OverVotes,0
+Washington,Sunny Hills,Attorney General,"",DEM,OverVotes,0
+Washington,Caryville,Attorney General,"",DEM,UnderVotes,9
+Washington,Five Points,Attorney General,"",DEM,UnderVotes,11
+Washington,Hinson Crossroads,Attorney General,"",DEM,UnderVotes,9
+Washington,First Baptist Church - Chipley,Attorney General,"",DEM,UnderVotes,40
+Washington,Vernon City Hall,Attorney General,"",DEM,UnderVotes,20
+Washington,New Hope - Campbells Park,Attorney General,"",DEM,UnderVotes,13
+Washington,Orange Hill Fire Station,Attorney General,"",DEM,UnderVotes,15
+Washington,Armory - Chipley,Attorney General,"",DEM,UnderVotes,28
+Washington,Wausau,Attorney General,"",DEM,UnderVotes,6
+Washington,Ebro Town Hall,Attorney General,"",DEM,UnderVotes,4
+Washington,Greenhead,Attorney General,"",DEM,UnderVotes,6
+Washington,Sunny Hills,Attorney General,"",DEM,UnderVotes,8
+Washington,Caryville,Commissioner of Agriculture,"",REP,James W. Shaw,11
+Washington,Five Points,Commissioner of Agriculture,"",REP,James W. Shaw,82
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",REP,James W. Shaw,47
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",REP,James W. Shaw,374
+Washington,Vernon City Hall,Commissioner of Agriculture,"",REP,James W. Shaw,119
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",REP,James W. Shaw,24
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,169
+Washington,Armory - Chipley,Commissioner of Agriculture,"",REP,James W. Shaw,117
+Washington,Wausau,Commissioner of Agriculture,"",REP,James W. Shaw,95
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",REP,James W. Shaw,12
+Washington,Greenhead,Commissioner of Agriculture,"",REP,James W. Shaw,165
+Washington,Sunny Hills,Commissioner of Agriculture,"",REP,James W. Shaw,87
+Washington,Caryville,Commissioner of Agriculture,"",REP,Wilton Simpson,14
+Washington,Five Points,Commissioner of Agriculture,"",REP,Wilton Simpson,168
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",REP,Wilton Simpson,120
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",REP,Wilton Simpson,668
+Washington,Vernon City Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,199
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",REP,Wilton Simpson,43
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,260
+Washington,Armory - Chipley,Commissioner of Agriculture,"",REP,Wilton Simpson,254
+Washington,Wausau,Commissioner of Agriculture,"",REP,Wilton Simpson,190
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,26
+Washington,Greenhead,Commissioner of Agriculture,"",REP,Wilton Simpson,295
+Washington,Sunny Hills,Commissioner of Agriculture,"",REP,Wilton Simpson,163
+Washington,Caryville,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Five Points,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Vernon City Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Armory - Chipley,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Wausau,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Greenhead,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Sunny Hills,Commissioner of Agriculture,"",REP,OverVotes,0
+Washington,Caryville,Commissioner of Agriculture,"",REP,UnderVotes,2
+Washington,Five Points,Commissioner of Agriculture,"",REP,UnderVotes,19
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",REP,UnderVotes,3
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",REP,UnderVotes,61
+Washington,Vernon City Hall,Commissioner of Agriculture,"",REP,UnderVotes,15
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",REP,UnderVotes,1
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,27
+Washington,Armory - Chipley,Commissioner of Agriculture,"",REP,UnderVotes,12
+Washington,Wausau,Commissioner of Agriculture,"",REP,UnderVotes,6
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",REP,UnderVotes,1
+Washington,Greenhead,Commissioner of Agriculture,"",REP,UnderVotes,14
+Washington,Sunny Hills,Commissioner of Agriculture,"",REP,UnderVotes,5
+Washington,Caryville,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,10
+Washington,Five Points,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,8
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,66
+Washington,Vernon City Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,33
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,35
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,35
+Washington,Armory - Chipley,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,61
+Washington,Wausau,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,32
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,8
+Washington,Greenhead,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,38
+Washington,Sunny Hills,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Washington,Caryville,Commissioner of Agriculture,"",DEM,J. R. Gaillot,10
+Washington,Five Points,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",DEM,J. R. Gaillot,3
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",DEM,J. R. Gaillot,80
+Washington,Vernon City Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,30
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,26
+Washington,Armory - Chipley,Commissioner of Agriculture,"",DEM,J. R. Gaillot,25
+Washington,Wausau,Commissioner of Agriculture,"",DEM,J. R. Gaillot,14
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,9
+Washington,Greenhead,Commissioner of Agriculture,"",DEM,J. R. Gaillot,11
+Washington,Sunny Hills,Commissioner of Agriculture,"",DEM,J. R. Gaillot,11
+Washington,Caryville,Commissioner of Agriculture,"",DEM,Ryan Morales,14
+Washington,Five Points,Commissioner of Agriculture,"",DEM,Ryan Morales,10
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",DEM,Ryan Morales,7
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",DEM,Ryan Morales,87
+Washington,Vernon City Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,38
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",DEM,Ryan Morales,54
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,34
+Washington,Armory - Chipley,Commissioner of Agriculture,"",DEM,Ryan Morales,41
+Washington,Wausau,Commissioner of Agriculture,"",DEM,Ryan Morales,23
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,24
+Washington,Greenhead,Commissioner of Agriculture,"",DEM,Ryan Morales,21
+Washington,Sunny Hills,Commissioner of Agriculture,"",DEM,Ryan Morales,27
+Washington,Caryville,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Five Points,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",DEM,OverVotes,1
+Washington,Vernon City Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Armory - Chipley,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Wausau,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Greenhead,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Sunny Hills,Commissioner of Agriculture,"",DEM,OverVotes,0
+Washington,Caryville,Commissioner of Agriculture,"",DEM,UnderVotes,10
+Washington,Five Points,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Washington,Hinson Crossroads,Commissioner of Agriculture,"",DEM,UnderVotes,10
+Washington,First Baptist Church - Chipley,Commissioner of Agriculture,"",DEM,UnderVotes,43
+Washington,Vernon City Hall,Commissioner of Agriculture,"",DEM,UnderVotes,19
+Washington,New Hope - Campbells Park,Commissioner of Agriculture,"",DEM,UnderVotes,15
+Washington,Orange Hill Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Washington,Armory - Chipley,Commissioner of Agriculture,"",DEM,UnderVotes,28
+Washington,Wausau,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Washington,Ebro Town Hall,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Washington,Greenhead,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Washington,Sunny Hills,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Washington,Caryville,State Senate,2,REP,Regina Piazza,7
+Washington,Five Points,State Senate,2,REP,Regina Piazza,41
+Washington,Hinson Crossroads,State Senate,2,REP,Regina Piazza,31
+Washington,First Baptist Church - Chipley,State Senate,2,REP,Regina Piazza,204
+Washington,Vernon City Hall,State Senate,2,REP,Regina Piazza,69
+Washington,New Hope - Campbells Park,State Senate,2,REP,Regina Piazza,13
+Washington,Orange Hill Fire Station,State Senate,2,REP,Regina Piazza,100
+Washington,Armory - Chipley,State Senate,2,REP,Regina Piazza,62
+Washington,Wausau,State Senate,2,REP,Regina Piazza,65
+Washington,Ebro Town Hall,State Senate,2,REP,Regina Piazza,9
+Washington,Greenhead,State Senate,2,REP,Regina Piazza,98
+Washington,Sunny Hills,State Senate,2,REP,Regina Piazza,64
+Washington,Caryville,State Senate,2,REP,Jay Trumbull,19
+Washington,Five Points,State Senate,2,REP,Jay Trumbull,222
+Washington,Hinson Crossroads,State Senate,2,REP,Jay Trumbull,137
+Washington,First Baptist Church - Chipley,State Senate,2,REP,Jay Trumbull,887
+Washington,Vernon City Hall,State Senate,2,REP,Jay Trumbull,257
+Washington,New Hope - Campbells Park,State Senate,2,REP,Jay Trumbull,55
+Washington,Orange Hill Fire Station,State Senate,2,REP,Jay Trumbull,348
+Washington,Armory - Chipley,State Senate,2,REP,Jay Trumbull,318
+Washington,Wausau,State Senate,2,REP,Jay Trumbull,223
+Washington,Ebro Town Hall,State Senate,2,REP,Jay Trumbull,30
+Washington,Greenhead,State Senate,2,REP,Jay Trumbull,374
+Washington,Sunny Hills,State Senate,2,REP,Jay Trumbull,191
+Washington,Caryville,State Senate,2,REP,OverVotes,0
+Washington,Five Points,State Senate,2,REP,OverVotes,0
+Washington,Hinson Crossroads,State Senate,2,REP,OverVotes,0
+Washington,First Baptist Church - Chipley,State Senate,2,REP,OverVotes,0
+Washington,Vernon City Hall,State Senate,2,REP,OverVotes,0
+Washington,New Hope - Campbells Park,State Senate,2,REP,OverVotes,0
+Washington,Orange Hill Fire Station,State Senate,2,REP,OverVotes,0
+Washington,Armory - Chipley,State Senate,2,REP,OverVotes,0
+Washington,Wausau,State Senate,2,REP,OverVotes,0
+Washington,Ebro Town Hall,State Senate,2,REP,OverVotes,0
+Washington,Greenhead,State Senate,2,REP,OverVotes,0
+Washington,Sunny Hills,State Senate,2,REP,OverVotes,0
+Washington,Caryville,State Senate,2,REP,UnderVotes,1
+Washington,Five Points,State Senate,2,REP,UnderVotes,6
+Washington,Hinson Crossroads,State Senate,2,REP,UnderVotes,2
+Washington,First Baptist Church - Chipley,State Senate,2,REP,UnderVotes,12
+Washington,Vernon City Hall,State Senate,2,REP,UnderVotes,7
+Washington,New Hope - Campbells Park,State Senate,2,REP,UnderVotes,0
+Washington,Orange Hill Fire Station,State Senate,2,REP,UnderVotes,8
+Washington,Armory - Chipley,State Senate,2,REP,UnderVotes,3
+Washington,Wausau,State Senate,2,REP,UnderVotes,3
+Washington,Ebro Town Hall,State Senate,2,REP,UnderVotes,0
+Washington,Greenhead,State Senate,2,REP,UnderVotes,2
+Washington,Sunny Hills,State Senate,2,REP,UnderVotes,0
+Washington,Caryville,State House,5,REP,Shane Abbott,43
+Washington,Five Points,State House,5,REP,Shane Abbott,214
+Washington,Hinson Crossroads,State House,5,REP,Shane Abbott,135
+Washington,First Baptist Church - Chipley,State House,5,REP,Shane Abbott,848
+Washington,Vernon City Hall,State House,5,REP,Shane Abbott,285
+Washington,New Hope - Campbells Park,State House,5,REP,Shane Abbott,104
+Washington,Orange Hill Fire Station,State House,5,REP,Shane Abbott,357
+Washington,Armory - Chipley,State House,5,REP,Shane Abbott,318
+Washington,Wausau,State House,5,REP,Shane Abbott,241
+Washington,Ebro Town Hall,State House,5,REP,Shane Abbott,47
+Washington,Greenhead,State House,5,REP,Shane Abbott,376
+Washington,Sunny Hills,State House,5,REP,Shane Abbott,191
+Washington,Caryville,State House,5,REP,Vance D. Coley,3
+Washington,Five Points,State House,5,REP,Vance D. Coley,30
+Washington,Hinson Crossroads,State House,5,REP,Vance D. Coley,16
+Washington,First Baptist Church - Chipley,State House,5,REP,Vance D. Coley,142
+Washington,Vernon City Hall,State House,5,REP,Vance D. Coley,56
+Washington,New Hope - Campbells Park,State House,5,REP,Vance D. Coley,29
+Washington,Orange Hill Fire Station,State House,5,REP,Vance D. Coley,85
+Washington,Armory - Chipley,State House,5,REP,Vance D. Coley,60
+Washington,Wausau,State House,5,REP,Vance D. Coley,34
+Washington,Ebro Town Hall,State House,5,REP,Vance D. Coley,12
+Washington,Greenhead,State House,5,REP,Vance D. Coley,79
+Washington,Sunny Hills,State House,5,REP,Vance D. Coley,62
+Washington,Caryville,State House,5,REP,Clint Pate,15
+Washington,Five Points,State House,5,REP,Clint Pate,69
+Washington,Hinson Crossroads,State House,5,REP,Clint Pate,62
+Washington,First Baptist Church - Chipley,State House,5,REP,Clint Pate,408
+Washington,Vernon City Hall,State House,5,REP,Clint Pate,110
+Washington,New Hope - Campbells Park,State House,5,REP,Clint Pate,46
+Washington,Orange Hill Fire Station,State House,5,REP,Clint Pate,145
+Washington,Armory - Chipley,State House,5,REP,Clint Pate,156
+Washington,Wausau,State House,5,REP,Clint Pate,94
+Washington,Ebro Town Hall,State House,5,REP,Clint Pate,27
+Washington,Greenhead,State House,5,REP,Clint Pate,122
+Washington,Sunny Hills,State House,5,REP,Clint Pate,69
+Washington,Caryville,State House,5,REP,OverVotes,0
+Washington,Five Points,State House,5,REP,OverVotes,0
+Washington,Hinson Crossroads,State House,5,REP,OverVotes,0
+Washington,First Baptist Church - Chipley,State House,5,REP,OverVotes,1
+Washington,Vernon City Hall,State House,5,REP,OverVotes,0
+Washington,New Hope - Campbells Park,State House,5,REP,OverVotes,0
+Washington,Orange Hill Fire Station,State House,5,REP,OverVotes,0
+Washington,Armory - Chipley,State House,5,REP,OverVotes,0
+Washington,Wausau,State House,5,REP,OverVotes,0
+Washington,Ebro Town Hall,State House,5,REP,OverVotes,0
+Washington,Greenhead,State House,5,REP,OverVotes,0
+Washington,Sunny Hills,State House,5,REP,OverVotes,0
+Washington,Caryville,State House,5,REP,UnderVotes,17
+Washington,Five Points,State House,5,REP,UnderVotes,7
+Washington,Hinson Crossroads,State House,5,REP,UnderVotes,5
+Washington,First Baptist Church - Chipley,State House,5,REP,UnderVotes,30
+Washington,Vernon City Hall,State House,5,REP,UnderVotes,25
+Washington,New Hope - Campbells Park,State House,5,REP,UnderVotes,22
+Washington,Orange Hill Fire Station,State House,5,REP,UnderVotes,15
+Washington,Armory - Chipley,State House,5,REP,UnderVotes,21
+Washington,Wausau,State House,5,REP,UnderVotes,12
+Washington,Ebro Town Hall,State House,5,REP,UnderVotes,5
+Washington,Greenhead,State House,5,REP,UnderVotes,29
+Washington,Sunny Hills,State House,5,REP,UnderVotes,25
+Washington,Caryville,County Commissioner,2,REP,Charles Kent,34
+Washington,Five Points,County Commissioner,2,REP,Charles Kent,136
+Washington,Hinson Crossroads,County Commissioner,2,REP,Charles Kent,98
+Washington,First Baptist Church - Chipley,County Commissioner,2,REP,Charles Kent,501
+Washington,Vernon City Hall,County Commissioner,2,REP,Charles Kent,177
+Washington,New Hope - Campbells Park,County Commissioner,2,REP,Charles Kent,61
+Washington,Orange Hill Fire Station,County Commissioner,2,REP,Charles Kent,245
+Washington,Armory - Chipley,County Commissioner,2,REP,Charles Kent,192
+Washington,Wausau,County Commissioner,2,REP,Charles Kent,134
+Washington,Ebro Town Hall,County Commissioner,2,REP,Charles Kent,33
+Washington,Greenhead,County Commissioner,2,REP,Charles Kent,260
+Washington,Sunny Hills,County Commissioner,2,REP,Charles Kent,133
+Washington,Caryville,County Commissioner,2,REP,David Pettis Jr.,35
+Washington,Five Points,County Commissioner,2,REP,David Pettis Jr.,169
+Washington,Hinson Crossroads,County Commissioner,2,REP,David Pettis Jr.,109
+Washington,First Baptist Church - Chipley,County Commissioner,2,REP,David Pettis Jr.,893
+Washington,Vernon City Hall,County Commissioner,2,REP,David Pettis Jr.,273
+Washington,New Hope - Campbells Park,County Commissioner,2,REP,David Pettis Jr.,116
+Washington,Orange Hill Fire Station,County Commissioner,2,REP,David Pettis Jr.,342
+Washington,Armory - Chipley,County Commissioner,2,REP,David Pettis Jr.,339
+Washington,Wausau,County Commissioner,2,REP,David Pettis Jr.,232
+Washington,Ebro Town Hall,County Commissioner,2,REP,David Pettis Jr.,48
+Washington,Greenhead,County Commissioner,2,REP,David Pettis Jr.,307
+Washington,Sunny Hills,County Commissioner,2,REP,David Pettis Jr.,190
+Washington,Caryville,County Commissioner,2,REP,OverVotes,0
+Washington,Five Points,County Commissioner,2,REP,OverVotes,0
+Washington,Hinson Crossroads,County Commissioner,2,REP,OverVotes,0
+Washington,First Baptist Church - Chipley,County Commissioner,2,REP,OverVotes,0
+Washington,Vernon City Hall,County Commissioner,2,REP,OverVotes,0
+Washington,New Hope - Campbells Park,County Commissioner,2,REP,OverVotes,0
+Washington,Orange Hill Fire Station,County Commissioner,2,REP,OverVotes,0
+Washington,Armory - Chipley,County Commissioner,2,REP,OverVotes,0
+Washington,Wausau,County Commissioner,2,REP,OverVotes,0
+Washington,Ebro Town Hall,County Commissioner,2,REP,OverVotes,0
+Washington,Greenhead,County Commissioner,2,REP,OverVotes,0
+Washington,Sunny Hills,County Commissioner,2,REP,OverVotes,0
+Washington,Caryville,County Commissioner,2,REP,UnderVotes,9
+Washington,Five Points,County Commissioner,2,REP,UnderVotes,15
+Washington,Hinson Crossroads,County Commissioner,2,REP,UnderVotes,11
+Washington,First Baptist Church - Chipley,County Commissioner,2,REP,UnderVotes,35
+Washington,Vernon City Hall,County Commissioner,2,REP,UnderVotes,26
+Washington,New Hope - Campbells Park,County Commissioner,2,REP,UnderVotes,24
+Washington,Orange Hill Fire Station,County Commissioner,2,REP,UnderVotes,15
+Washington,Armory - Chipley,County Commissioner,2,REP,UnderVotes,24
+Washington,Wausau,County Commissioner,2,REP,UnderVotes,15
+Washington,Ebro Town Hall,County Commissioner,2,REP,UnderVotes,10
+Washington,Greenhead,County Commissioner,2,REP,UnderVotes,39
+Washington,Sunny Hills,County Commissioner,2,REP,UnderVotes,24
+Washington,Caryville,County Commissioner,4,REP,Todd Abbott,38
+Washington,Five Points,County Commissioner,4,REP,Todd Abbott,113
+Washington,Hinson Crossroads,County Commissioner,4,REP,Todd Abbott,82
+Washington,First Baptist Church - Chipley,County Commissioner,4,REP,Todd Abbott,517
+Washington,Vernon City Hall,County Commissioner,4,REP,Todd Abbott,170
+Washington,New Hope - Campbells Park,County Commissioner,4,REP,Todd Abbott,55
+Washington,Orange Hill Fire Station,County Commissioner,4,REP,Todd Abbott,218
+Washington,Armory - Chipley,County Commissioner,4,REP,Todd Abbott,194
+Washington,Wausau,County Commissioner,4,REP,Todd Abbott,104
+Washington,Ebro Town Hall,County Commissioner,4,REP,Todd Abbott,31
+Washington,Greenhead,County Commissioner,4,REP,Todd Abbott,260
+Washington,Sunny Hills,County Commissioner,4,REP,Todd Abbott,140
+Washington,Caryville,County Commissioner,4,REP,Wesley Griffin,29
+Washington,Five Points,County Commissioner,4,REP,Wesley Griffin,197
+Washington,Hinson Crossroads,County Commissioner,4,REP,Wesley Griffin,125
+Washington,First Baptist Church - Chipley,County Commissioner,4,REP,Wesley Griffin,874
+Washington,Vernon City Hall,County Commissioner,4,REP,Wesley Griffin,283
+Washington,New Hope - Campbells Park,County Commissioner,4,REP,Wesley Griffin,126
+Washington,Orange Hill Fire Station,County Commissioner,4,REP,Wesley Griffin,373
+Washington,Armory - Chipley,County Commissioner,4,REP,Wesley Griffin,338
+Washington,Wausau,County Commissioner,4,REP,Wesley Griffin,267
+Washington,Ebro Town Hall,County Commissioner,4,REP,Wesley Griffin,50
+Washington,Greenhead,County Commissioner,4,REP,Wesley Griffin,309
+Washington,Sunny Hills,County Commissioner,4,REP,Wesley Griffin,186
+Washington,Caryville,County Commissioner,4,REP,OverVotes,0
+Washington,Five Points,County Commissioner,4,REP,OverVotes,0
+Washington,Hinson Crossroads,County Commissioner,4,REP,OverVotes,0
+Washington,First Baptist Church - Chipley,County Commissioner,4,REP,OverVotes,2
+Washington,Vernon City Hall,County Commissioner,4,REP,OverVotes,0
+Washington,New Hope - Campbells Park,County Commissioner,4,REP,OverVotes,0
+Washington,Orange Hill Fire Station,County Commissioner,4,REP,OverVotes,0
+Washington,Armory - Chipley,County Commissioner,4,REP,OverVotes,0
+Washington,Wausau,County Commissioner,4,REP,OverVotes,0
+Washington,Ebro Town Hall,County Commissioner,4,REP,OverVotes,0
+Washington,Greenhead,County Commissioner,4,REP,OverVotes,0
+Washington,Sunny Hills,County Commissioner,4,REP,OverVotes,0
+Washington,Caryville,County Commissioner,4,REP,UnderVotes,11
+Washington,Five Points,County Commissioner,4,REP,UnderVotes,10
+Washington,Hinson Crossroads,County Commissioner,4,REP,UnderVotes,11
+Washington,First Baptist Church - Chipley,County Commissioner,4,REP,UnderVotes,36
+Washington,Vernon City Hall,County Commissioner,4,REP,UnderVotes,23
+Washington,New Hope - Campbells Park,County Commissioner,4,REP,UnderVotes,20
+Washington,Orange Hill Fire Station,County Commissioner,4,REP,UnderVotes,11
+Washington,Armory - Chipley,County Commissioner,4,REP,UnderVotes,23
+Washington,Wausau,County Commissioner,4,REP,UnderVotes,10
+Washington,Ebro Town Hall,County Commissioner,4,REP,UnderVotes,10
+Washington,Greenhead,County Commissioner,4,REP,UnderVotes,37
+Washington,Sunny Hills,County Commissioner,4,REP,UnderVotes,21
+Washington,Caryville,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",49
+Washington,Five Points,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",198
+Washington,Hinson Crossroads,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",100
+Washington,First Baptist Church - Chipley,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",773
+Washington,Vernon City Hall,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",231
+Washington,New Hope - Campbells Park,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",104
+Washington,Orange Hill Fire Station,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",314
+Washington,Armory - Chipley,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",325
+Washington,Wausau,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",229
+Washington,Ebro Town Hall,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",39
+Washington,Greenhead,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",334
+Washington,Sunny Hills,School Board,1,NOP,"Cynthia ""Cindy"" Johnson Brown",183
+Washington,Caryville,School Board,1,NOP,Ashlynn Casey Marquez,26
+Washington,Five Points,School Board,1,NOP,Ashlynn Casey Marquez,106
+Washington,Hinson Crossroads,School Board,1,NOP,Ashlynn Casey Marquez,110
+Washington,First Baptist Church - Chipley,School Board,1,NOP,Ashlynn Casey Marquez,619
+Washington,Vernon City Hall,School Board,1,NOP,Ashlynn Casey Marquez,220
+Washington,New Hope - Campbells Park,School Board,1,NOP,Ashlynn Casey Marquez,82
+Washington,Orange Hill Fire Station,School Board,1,NOP,Ashlynn Casey Marquez,266
+Washington,Armory - Chipley,School Board,1,NOP,Ashlynn Casey Marquez,219
+Washington,Wausau,School Board,1,NOP,Ashlynn Casey Marquez,141
+Washington,Ebro Town Hall,School Board,1,NOP,Ashlynn Casey Marquez,47
+Washington,Greenhead,School Board,1,NOP,Ashlynn Casey Marquez,228
+Washington,Sunny Hills,School Board,1,NOP,Ashlynn Casey Marquez,144
+Washington,Caryville,School Board,1,NOP,OverVotes,0
+Washington,Five Points,School Board,1,NOP,OverVotes,0
+Washington,Hinson Crossroads,School Board,1,NOP,OverVotes,0
+Washington,First Baptist Church - Chipley,School Board,1,NOP,OverVotes,0
+Washington,Vernon City Hall,School Board,1,NOP,OverVotes,0
+Washington,New Hope - Campbells Park,School Board,1,NOP,OverVotes,0
+Washington,Orange Hill Fire Station,School Board,1,NOP,OverVotes,0
+Washington,Armory - Chipley,School Board,1,NOP,OverVotes,0
+Washington,Wausau,School Board,1,NOP,OverVotes,0
+Washington,Ebro Town Hall,School Board,1,NOP,OverVotes,0
+Washington,Greenhead,School Board,1,NOP,OverVotes,1
+Washington,Sunny Hills,School Board,1,NOP,OverVotes,0
+Washington,Caryville,School Board,1,NOP,UnderVotes,3
+Washington,Five Points,School Board,1,NOP,UnderVotes,16
+Washington,Hinson Crossroads,School Board,1,NOP,UnderVotes,8
+Washington,First Baptist Church - Chipley,School Board,1,NOP,UnderVotes,37
+Washington,Vernon City Hall,School Board,1,NOP,UnderVotes,25
+Washington,New Hope - Campbells Park,School Board,1,NOP,UnderVotes,15
+Washington,Orange Hill Fire Station,School Board,1,NOP,UnderVotes,22
+Washington,Armory - Chipley,School Board,1,NOP,UnderVotes,11
+Washington,Wausau,School Board,1,NOP,UnderVotes,11
+Washington,Ebro Town Hall,School Board,1,NOP,UnderVotes,5
+Washington,Greenhead,School Board,1,NOP,UnderVotes,43
+Washington,Sunny Hills,School Board,1,NOP,UnderVotes,20
+Washington,Caryville,School Board,5,NOP,Jasper Carter,21
+Washington,Five Points,School Board,5,NOP,Jasper Carter,152
+Washington,Hinson Crossroads,School Board,5,NOP,Jasper Carter,94
+Washington,First Baptist Church - Chipley,School Board,5,NOP,Jasper Carter,526
+Washington,Vernon City Hall,School Board,5,NOP,Jasper Carter,204
+Washington,New Hope - Campbells Park,School Board,5,NOP,Jasper Carter,48
+Washington,Orange Hill Fire Station,School Board,5,NOP,Jasper Carter,224
+Washington,Armory - Chipley,School Board,5,NOP,Jasper Carter,163
+Washington,Wausau,School Board,5,NOP,Jasper Carter,166
+Washington,Ebro Town Hall,School Board,5,NOP,Jasper Carter,34
+Washington,Greenhead,School Board,5,NOP,Jasper Carter,218
+Washington,Sunny Hills,School Board,5,NOP,Jasper Carter,134
+Washington,Caryville,School Board,5,NOP,Cheryl Ann Williams,52
+Washington,Five Points,School Board,5,NOP,Cheryl Ann Williams,152
+Washington,Hinson Crossroads,School Board,5,NOP,Cheryl Ann Williams,112
+Washington,First Baptist Church - Chipley,School Board,5,NOP,Cheryl Ann Williams,864
+Washington,Vernon City Hall,School Board,5,NOP,Cheryl Ann Williams,249
+Washington,New Hope - Campbells Park,School Board,5,NOP,Cheryl Ann Williams,137
+Washington,Orange Hill Fire Station,School Board,5,NOP,Cheryl Ann Williams,353
+Washington,Armory - Chipley,School Board,5,NOP,Cheryl Ann Williams,369
+Washington,Wausau,School Board,5,NOP,Cheryl Ann Williams,202
+Washington,Ebro Town Hall,School Board,5,NOP,Cheryl Ann Williams,49
+Washington,Greenhead,School Board,5,NOP,Cheryl Ann Williams,341
+Washington,Sunny Hills,School Board,5,NOP,Cheryl Ann Williams,190
+Washington,Caryville,School Board,5,NOP,OverVotes,0
+Washington,Five Points,School Board,5,NOP,OverVotes,0
+Washington,Hinson Crossroads,School Board,5,NOP,OverVotes,0
+Washington,First Baptist Church - Chipley,School Board,5,NOP,OverVotes,0
+Washington,Vernon City Hall,School Board,5,NOP,OverVotes,0
+Washington,New Hope - Campbells Park,School Board,5,NOP,OverVotes,0
+Washington,Orange Hill Fire Station,School Board,5,NOP,OverVotes,0
+Washington,Armory - Chipley,School Board,5,NOP,OverVotes,0
+Washington,Wausau,School Board,5,NOP,OverVotes,0
+Washington,Ebro Town Hall,School Board,5,NOP,OverVotes,0
+Washington,Greenhead,School Board,5,NOP,OverVotes,0
+Washington,Sunny Hills,School Board,5,NOP,OverVotes,0
+Washington,Caryville,School Board,5,NOP,UnderVotes,5
+Washington,Five Points,School Board,5,NOP,UnderVotes,16
+Washington,Hinson Crossroads,School Board,5,NOP,UnderVotes,12
+Washington,First Baptist Church - Chipley,School Board,5,NOP,UnderVotes,39
+Washington,Vernon City Hall,School Board,5,NOP,UnderVotes,23
+Washington,New Hope - Campbells Park,School Board,5,NOP,UnderVotes,16
+Washington,Orange Hill Fire Station,School Board,5,NOP,UnderVotes,25
+Washington,Armory - Chipley,School Board,5,NOP,UnderVotes,23
+Washington,Wausau,School Board,5,NOP,UnderVotes,13
+Washington,Ebro Town Hall,School Board,5,NOP,UnderVotes,8
+Washington,Greenhead,School Board,5,NOP,UnderVotes,47
+Washington,Sunny Hills,School Board,5,NOP,UnderVotes,23
+Washington,Armory - Chipley,Registered Voters,"","","",0
+Washington,Caryville,Registered Voters,"","","",15809
+Washington,Ebro Town Hall,Registered Voters,"","","",0
+Washington,First Baptist Church - Chipley,Registered Voters,"","","",0
+Washington,Five Points,Registered Voters,"","","",0
+Washington,Greenhead,Registered Voters,"","","",0
+Washington,Hinson Crossroads,Registered Voters,"","","",0
+Washington,New Hope - Campbells Park,Registered Voters,"","","",0
+Washington,Orange Hill Fire Station,Registered Voters,"","","",0
+Washington,Sunny Hills,Registered Voters,"","","",0
+Washington,Vernon City Hall,Registered Voters,"","","",0
+Washington,Wausau,Registered Voters,"","","",0

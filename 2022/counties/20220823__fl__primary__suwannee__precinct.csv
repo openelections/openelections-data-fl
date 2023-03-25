@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes
+Suwannee,1 - Recreation Center,U.S. Senate,"",DEM,Ricardo De La Fuente,24
+Suwannee,2 - Church of God,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Suwannee,3 - Presbyterian Chur,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Suwannee,4 - Coliseum,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Suwannee,5 - L. O. Christian C,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Suwannee,6 - Luraville Comm. C,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Suwannee,7 - Mt. Gilead Church,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Suwannee,8 - Rocky Sink Church,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Suwannee,9 - Dowling Park Libr,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Suwannee,10 - McAlpin Comm. Ce,U.S. Senate,"",DEM,Ricardo De La Fuente,8
+Suwannee,11 - O'Brien Church,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Suwannee,12 - Wellborn Masonic,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Suwannee,13 - Branford Hatch P,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Suwannee,14 - Clayland Church,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Suwannee,15 - Pinegrove Church,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Suwannee,16 - Anchor Church,U.S. Senate,"",DEM,Ricardo De La Fuente,7
+Suwannee,1 - Recreation Center,U.S. Senate,"",DEM,Val Demings,259
+Suwannee,2 - Church of God,U.S. Senate,"",DEM,Val Demings,128
+Suwannee,3 - Presbyterian Chur,U.S. Senate,"",DEM,Val Demings,94
+Suwannee,4 - Coliseum,U.S. Senate,"",DEM,Val Demings,117
+Suwannee,5 - L. O. Christian C,U.S. Senate,"",DEM,Val Demings,65
+Suwannee,6 - Luraville Comm. C,U.S. Senate,"",DEM,Val Demings,75
+Suwannee,7 - Mt. Gilead Church,U.S. Senate,"",DEM,Val Demings,40
+Suwannee,8 - Rocky Sink Church,U.S. Senate,"",DEM,Val Demings,41
+Suwannee,9 - Dowling Park Libr,U.S. Senate,"",DEM,Val Demings,90
+Suwannee,10 - McAlpin Comm. Ce,U.S. Senate,"",DEM,Val Demings,72
+Suwannee,11 - O'Brien Church,U.S. Senate,"",DEM,Val Demings,81
+Suwannee,12 - Wellborn Masonic,U.S. Senate,"",DEM,Val Demings,104
+Suwannee,13 - Branford Hatch P,U.S. Senate,"",DEM,Val Demings,72
+Suwannee,14 - Clayland Church,U.S. Senate,"",DEM,Val Demings,47
+Suwannee,15 - Pinegrove Church,U.S. Senate,"",DEM,Val Demings,67
+Suwannee,16 - Anchor Church,U.S. Senate,"",DEM,Val Demings,50
+Suwannee,1 - Recreation Center,U.S. Senate,"",DEM,Brian Rush,85
+Suwannee,2 - Church of God,U.S. Senate,"",DEM,Brian Rush,31
+Suwannee,3 - Presbyterian Chur,U.S. Senate,"",DEM,Brian Rush,32
+Suwannee,4 - Coliseum,U.S. Senate,"",DEM,Brian Rush,55
+Suwannee,5 - L. O. Christian C,U.S. Senate,"",DEM,Brian Rush,23
+Suwannee,6 - Luraville Comm. C,U.S. Senate,"",DEM,Brian Rush,13
+Suwannee,7 - Mt. Gilead Church,U.S. Senate,"",DEM,Brian Rush,4
+Suwannee,8 - Rocky Sink Church,U.S. Senate,"",DEM,Brian Rush,18
+Suwannee,9 - Dowling Park Libr,U.S. Senate,"",DEM,Brian Rush,8
+Suwannee,10 - McAlpin Comm. Ce,U.S. Senate,"",DEM,Brian Rush,21
+Suwannee,11 - O'Brien Church,U.S. Senate,"",DEM,Brian Rush,19
+Suwannee,12 - Wellborn Masonic,U.S. Senate,"",DEM,Brian Rush,39
+Suwannee,13 - Branford Hatch P,U.S. Senate,"",DEM,Brian Rush,19
+Suwannee,14 - Clayland Church,U.S. Senate,"",DEM,Brian Rush,18
+Suwannee,15 - Pinegrove Church,U.S. Senate,"",DEM,Brian Rush,33
+Suwannee,16 - Anchor Church,U.S. Senate,"",DEM,Brian Rush,16
+Suwannee,1 - Recreation Center,U.S. Senate,"",DEM,William Sanchez,60
+Suwannee,2 - Church of God,U.S. Senate,"",DEM,William Sanchez,28
+Suwannee,3 - Presbyterian Chur,U.S. Senate,"",DEM,William Sanchez,23
+Suwannee,4 - Coliseum,U.S. Senate,"",DEM,William Sanchez,16
+Suwannee,5 - L. O. Christian C,U.S. Senate,"",DEM,William Sanchez,15
+Suwannee,6 - Luraville Comm. C,U.S. Senate,"",DEM,William Sanchez,15
+Suwannee,7 - Mt. Gilead Church,U.S. Senate,"",DEM,William Sanchez,8
+Suwannee,8 - Rocky Sink Church,U.S. Senate,"",DEM,William Sanchez,17
+Suwannee,9 - Dowling Park Libr,U.S. Senate,"",DEM,William Sanchez,10
+Suwannee,10 - McAlpin Comm. Ce,U.S. Senate,"",DEM,William Sanchez,12
+Suwannee,11 - O'Brien Church,U.S. Senate,"",DEM,William Sanchez,11
+Suwannee,12 - Wellborn Masonic,U.S. Senate,"",DEM,William Sanchez,18
+Suwannee,13 - Branford Hatch P,U.S. Senate,"",DEM,William Sanchez,18
+Suwannee,14 - Clayland Church,U.S. Senate,"",DEM,William Sanchez,13
+Suwannee,15 - Pinegrove Church,U.S. Senate,"",DEM,William Sanchez,14
+Suwannee,16 - Anchor Church,U.S. Senate,"",DEM,William Sanchez,9
+Suwannee,1 - Recreation Center,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,2 - Church of God,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,3 - Presbyterian Chur,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,4 - Coliseum,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,5 - L. O. Christian C,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,6 - Luraville Comm. C,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,7 - Mt. Gilead Church,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,8 - Rocky Sink Church,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,9 - Dowling Park Libr,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,10 - McAlpin Comm. Ce,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,11 - O'Brien Church,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,12 - Wellborn Masonic,U.S. Senate,"",DEM,OverVotes,1
+Suwannee,13 - Branford Hatch P,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,14 - Clayland Church,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,15 - Pinegrove Church,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,16 - Anchor Church,U.S. Senate,"",DEM,OverVotes,0
+Suwannee,1 - Recreation Center,U.S. Senate,"",DEM,UnderVotes,26
+Suwannee,2 - Church of God,U.S. Senate,"",DEM,UnderVotes,20
+Suwannee,3 - Presbyterian Chur,U.S. Senate,"",DEM,UnderVotes,19
+Suwannee,4 - Coliseum,U.S. Senate,"",DEM,UnderVotes,48
+Suwannee,5 - L. O. Christian C,U.S. Senate,"",DEM,UnderVotes,12
+Suwannee,6 - Luraville Comm. C,U.S. Senate,"",DEM,UnderVotes,13
+Suwannee,7 - Mt. Gilead Church,U.S. Senate,"",DEM,UnderVotes,4
+Suwannee,8 - Rocky Sink Church,U.S. Senate,"",DEM,UnderVotes,14
+Suwannee,9 - Dowling Park Libr,U.S. Senate,"",DEM,UnderVotes,7
+Suwannee,10 - McAlpin Comm. Ce,U.S. Senate,"",DEM,UnderVotes,12
+Suwannee,11 - O'Brien Church,U.S. Senate,"",DEM,UnderVotes,5
+Suwannee,12 - Wellborn Masonic,U.S. Senate,"",DEM,UnderVotes,21
+Suwannee,13 - Branford Hatch P,U.S. Senate,"",DEM,UnderVotes,5
+Suwannee,14 - Clayland Church,U.S. Senate,"",DEM,UnderVotes,9
+Suwannee,15 - Pinegrove Church,U.S. Senate,"",DEM,UnderVotes,25
+Suwannee,16 - Anchor Church,U.S. Senate,"",DEM,UnderVotes,6
+Suwannee,1 - Recreation Center,U.S. House,3,REP,Kat Cammack,143
+Suwannee,2 - Church of God,U.S. House,3,REP,Kat Cammack,378
+Suwannee,3 - Presbyterian Chur,U.S. House,3,REP,Kat Cammack,309
+Suwannee,4 - Coliseum,U.S. House,3,REP,Kat Cammack,505
+Suwannee,5 - L. O. Christian C,U.S. House,3,REP,Kat Cammack,244
+Suwannee,6 - Luraville Comm. C,U.S. House,3,REP,Kat Cammack,243
+Suwannee,7 - Mt. Gilead Church,U.S. House,3,REP,Kat Cammack,181
+Suwannee,8 - Rocky Sink Church,U.S. House,3,REP,Kat Cammack,207
+Suwannee,9 - Dowling Park Libr,U.S. House,3,REP,Kat Cammack,272
+Suwannee,10 - McAlpin Comm. Ce,U.S. House,3,REP,Kat Cammack,374
+Suwannee,11 - O'Brien Church,U.S. House,3,REP,Kat Cammack,311
+Suwannee,12 - Wellborn Masonic,U.S. House,3,REP,Kat Cammack,440
+Suwannee,13 - Branford Hatch P,U.S. House,3,REP,Kat Cammack,388
+Suwannee,14 - Clayland Church,U.S. House,3,REP,Kat Cammack,208
+Suwannee,15 - Pinegrove Church,U.S. House,3,REP,Kat Cammack,274
+Suwannee,16 - Anchor Church,U.S. House,3,REP,Kat Cammack,206
+Suwannee,1 - Recreation Center,U.S. House,3,REP,Justin Waters,55
+Suwannee,2 - Church of God,U.S. House,3,REP,Justin Waters,125
+Suwannee,3 - Presbyterian Chur,U.S. House,3,REP,Justin Waters,91
+Suwannee,4 - Coliseum,U.S. House,3,REP,Justin Waters,137
+Suwannee,5 - L. O. Christian C,U.S. House,3,REP,Justin Waters,77
+Suwannee,6 - Luraville Comm. C,U.S. House,3,REP,Justin Waters,83
+Suwannee,7 - Mt. Gilead Church,U.S. House,3,REP,Justin Waters,47
+Suwannee,8 - Rocky Sink Church,U.S. House,3,REP,Justin Waters,55
+Suwannee,9 - Dowling Park Libr,U.S. House,3,REP,Justin Waters,121
+Suwannee,10 - McAlpin Comm. Ce,U.S. House,3,REP,Justin Waters,98
+Suwannee,11 - O'Brien Church,U.S. House,3,REP,Justin Waters,81
+Suwannee,12 - Wellborn Masonic,U.S. House,3,REP,Justin Waters,119
+Suwannee,13 - Branford Hatch P,U.S. House,3,REP,Justin Waters,66
+Suwannee,14 - Clayland Church,U.S. House,3,REP,Justin Waters,60
+Suwannee,15 - Pinegrove Church,U.S. House,3,REP,Justin Waters,76
+Suwannee,16 - Anchor Church,U.S. House,3,REP,Justin Waters,39
+Suwannee,1 - Recreation Center,U.S. House,3,DEM,Danielle Hawk,244
+Suwannee,2 - Church of God,U.S. House,3,DEM,Danielle Hawk,115
+Suwannee,3 - Presbyterian Chur,U.S. House,3,DEM,Danielle Hawk,82
+Suwannee,4 - Coliseum,U.S. House,3,DEM,Danielle Hawk,105
+Suwannee,5 - L. O. Christian C,U.S. House,3,DEM,Danielle Hawk,60
+Suwannee,6 - Luraville Comm. C,U.S. House,3,DEM,Danielle Hawk,57
+Suwannee,7 - Mt. Gilead Church,U.S. House,3,DEM,Danielle Hawk,37
+Suwannee,8 - Rocky Sink Church,U.S. House,3,DEM,Danielle Hawk,43
+Suwannee,9 - Dowling Park Libr,U.S. House,3,DEM,Danielle Hawk,70
+Suwannee,10 - McAlpin Comm. Ce,U.S. House,3,DEM,Danielle Hawk,64
+Suwannee,11 - O'Brien Church,U.S. House,3,DEM,Danielle Hawk,74
+Suwannee,12 - Wellborn Masonic,U.S. House,3,DEM,Danielle Hawk,82
+Suwannee,13 - Branford Hatch P,U.S. House,3,DEM,Danielle Hawk,61
+Suwannee,14 - Clayland Church,U.S. House,3,DEM,Danielle Hawk,50
+Suwannee,15 - Pinegrove Church,U.S. House,3,DEM,Danielle Hawk,75
+Suwannee,16 - Anchor Church,U.S. House,3,DEM,Danielle Hawk,56
+Suwannee,1 - Recreation Center,U.S. House,3,DEM,Tom Wells,162
+Suwannee,2 - Church of God,U.S. House,3,DEM,Tom Wells,70
+Suwannee,3 - Presbyterian Chur,U.S. House,3,DEM,Tom Wells,61
+Suwannee,4 - Coliseum,U.S. House,3,DEM,Tom Wells,84
+Suwannee,5 - L. O. Christian C,U.S. House,3,DEM,Tom Wells,47
+Suwannee,6 - Luraville Comm. C,U.S. House,3,DEM,Tom Wells,42
+Suwannee,7 - Mt. Gilead Church,U.S. House,3,DEM,Tom Wells,15
+Suwannee,8 - Rocky Sink Church,U.S. House,3,DEM,Tom Wells,33
+Suwannee,9 - Dowling Park Libr,U.S. House,3,DEM,Tom Wells,33
+Suwannee,10 - McAlpin Comm. Ce,U.S. House,3,DEM,Tom Wells,46
+Suwannee,11 - O'Brien Church,U.S. House,3,DEM,Tom Wells,40
+Suwannee,12 - Wellborn Masonic,U.S. House,3,DEM,Tom Wells,74
+Suwannee,13 - Branford Hatch P,U.S. House,3,DEM,Tom Wells,51
+Suwannee,14 - Clayland Church,U.S. House,3,DEM,Tom Wells,25
+Suwannee,15 - Pinegrove Church,U.S. House,3,DEM,Tom Wells,40
+Suwannee,16 - Anchor Church,U.S. House,3,DEM,Tom Wells,24
+Suwannee,1 - Recreation Center,U.S. House,3,DEM,OverVotes,0
+Suwannee,2 - Church of God,U.S. House,3,DEM,OverVotes,0
+Suwannee,3 - Presbyterian Chur,U.S. House,3,DEM,OverVotes,0
+Suwannee,4 - Coliseum,U.S. House,3,DEM,OverVotes,0
+Suwannee,5 - L. O. Christian C,U.S. House,3,DEM,OverVotes,0
+Suwannee,6 - Luraville Comm. C,U.S. House,3,DEM,OverVotes,0
+Suwannee,7 - Mt. Gilead Church,U.S. House,3,DEM,OverVotes,0
+Suwannee,8 - Rocky Sink Church,U.S. House,3,DEM,OverVotes,0
+Suwannee,9 - Dowling Park Libr,U.S. House,3,DEM,OverVotes,1
+Suwannee,10 - McAlpin Comm. Ce,U.S. House,3,DEM,OverVotes,0
+Suwannee,11 - O'Brien Church,U.S. House,3,DEM,OverVotes,0
+Suwannee,12 - Wellborn Masonic,U.S. House,3,DEM,OverVotes,0
+Suwannee,13 - Branford Hatch P,U.S. House,3,DEM,OverVotes,0
+Suwannee,14 - Clayland Church,U.S. House,3,DEM,OverVotes,0
+Suwannee,15 - Pinegrove Church,U.S. House,3,DEM,OverVotes,0
+Suwannee,16 - Anchor Church,U.S. House,3,DEM,OverVotes,0
+Suwannee,1 - Recreation Center,U.S. House,3,DEM,UnderVotes,48
+Suwannee,2 - Church of God,U.S. House,3,DEM,UnderVotes,30
+Suwannee,3 - Presbyterian Chur,U.S. House,3,DEM,UnderVotes,32
+Suwannee,4 - Coliseum,U.S. House,3,DEM,UnderVotes,54
+Suwannee,5 - L. O. Christian C,U.S. House,3,DEM,UnderVotes,16
+Suwannee,6 - Luraville Comm. C,U.S. House,3,DEM,UnderVotes,20
+Suwannee,7 - Mt. Gilead Church,U.S. House,3,DEM,UnderVotes,8
+Suwannee,8 - Rocky Sink Church,U.S. House,3,DEM,UnderVotes,18
+Suwannee,9 - Dowling Park Libr,U.S. House,3,DEM,UnderVotes,17
+Suwannee,10 - McAlpin Comm. Ce,U.S. House,3,DEM,UnderVotes,15
+Suwannee,11 - O'Brien Church,U.S. House,3,DEM,UnderVotes,8
+Suwannee,12 - Wellborn Masonic,U.S. House,3,DEM,UnderVotes,29
+Suwannee,13 - Branford Hatch P,U.S. House,3,DEM,UnderVotes,7
+Suwannee,14 - Clayland Church,U.S. House,3,DEM,UnderVotes,16
+Suwannee,15 - Pinegrove Church,U.S. House,3,DEM,UnderVotes,31
+Suwannee,16 - Anchor Church,U.S. House,3,DEM,UnderVotes,8
+Suwannee,1 - Recreation Center,Governor,"",DEM,Charlie Crist,269
+Suwannee,2 - Church of God,Governor,"",DEM,Charlie Crist,121
+Suwannee,3 - Presbyterian Chur,Governor,"",DEM,Charlie Crist,76
+Suwannee,4 - Coliseum,Governor,"",DEM,Charlie Crist,112
+Suwannee,5 - L. O. Christian C,Governor,"",DEM,Charlie Crist,55
+Suwannee,6 - Luraville Comm. C,Governor,"",DEM,Charlie Crist,55
+Suwannee,7 - Mt. Gilead Church,Governor,"",DEM,Charlie Crist,24
+Suwannee,8 - Rocky Sink Church,Governor,"",DEM,Charlie Crist,33
+Suwannee,9 - Dowling Park Libr,Governor,"",DEM,Charlie Crist,64
+Suwannee,10 - McAlpin Comm. Ce,Governor,"",DEM,Charlie Crist,57
+Suwannee,11 - O'Brien Church,Governor,"",DEM,Charlie Crist,53
+Suwannee,12 - Wellborn Masonic,Governor,"",DEM,Charlie Crist,83
+Suwannee,13 - Branford Hatch P,Governor,"",DEM,Charlie Crist,51
+Suwannee,14 - Clayland Church,Governor,"",DEM,Charlie Crist,33
+Suwannee,15 - Pinegrove Church,Governor,"",DEM,Charlie Crist,55
+Suwannee,16 - Anchor Church,Governor,"",DEM,Charlie Crist,43
+Suwannee,1 - Recreation Center,Governor,"",DEM,Cadance Daniel,30
+Suwannee,2 - Church of God,Governor,"",DEM,Cadance Daniel,12
+Suwannee,3 - Presbyterian Chur,Governor,"",DEM,Cadance Daniel,4
+Suwannee,4 - Coliseum,Governor,"",DEM,Cadance Daniel,12
+Suwannee,5 - L. O. Christian C,Governor,"",DEM,Cadance Daniel,7
+Suwannee,6 - Luraville Comm. C,Governor,"",DEM,Cadance Daniel,6
+Suwannee,7 - Mt. Gilead Church,Governor,"",DEM,Cadance Daniel,5
+Suwannee,8 - Rocky Sink Church,Governor,"",DEM,Cadance Daniel,3
+Suwannee,9 - Dowling Park Libr,Governor,"",DEM,Cadance Daniel,3
+Suwannee,10 - McAlpin Comm. Ce,Governor,"",DEM,Cadance Daniel,4
+Suwannee,11 - O'Brien Church,Governor,"",DEM,Cadance Daniel,4
+Suwannee,12 - Wellborn Masonic,Governor,"",DEM,Cadance Daniel,9
+Suwannee,13 - Branford Hatch P,Governor,"",DEM,Cadance Daniel,5
+Suwannee,14 - Clayland Church,Governor,"",DEM,Cadance Daniel,9
+Suwannee,15 - Pinegrove Church,Governor,"",DEM,Cadance Daniel,7
+Suwannee,16 - Anchor Church,Governor,"",DEM,Cadance Daniel,3
+Suwannee,1 - Recreation Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",125
+Suwannee,2 - Church of God,Governor,"",DEM,"Nicole ""Nikki"" Fried",53
+Suwannee,3 - Presbyterian Chur,Governor,"",DEM,"Nicole ""Nikki"" Fried",75
+Suwannee,4 - Coliseum,Governor,"",DEM,"Nicole ""Nikki"" Fried",68
+Suwannee,5 - L. O. Christian C,Governor,"",DEM,"Nicole ""Nikki"" Fried",38
+Suwannee,6 - Luraville Comm. C,Governor,"",DEM,"Nicole ""Nikki"" Fried",39
+Suwannee,7 - Mt. Gilead Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",24
+Suwannee,8 - Rocky Sink Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",39
+Suwannee,9 - Dowling Park Libr,Governor,"",DEM,"Nicole ""Nikki"" Fried",41
+Suwannee,10 - McAlpin Comm. Ce,Governor,"",DEM,"Nicole ""Nikki"" Fried",49
+Suwannee,11 - O'Brien Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",52
+Suwannee,12 - Wellborn Masonic,Governor,"",DEM,"Nicole ""Nikki"" Fried",59
+Suwannee,13 - Branford Hatch P,Governor,"",DEM,"Nicole ""Nikki"" Fried",47
+Suwannee,14 - Clayland Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",27
+Suwannee,15 - Pinegrove Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",48
+Suwannee,16 - Anchor Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",26
+Suwannee,1 - Recreation Center,Governor,"",DEM,Robert L. Willis,17
+Suwannee,2 - Church of God,Governor,"",DEM,Robert L. Willis,14
+Suwannee,3 - Presbyterian Chur,Governor,"",DEM,Robert L. Willis,7
+Suwannee,4 - Coliseum,Governor,"",DEM,Robert L. Willis,19
+Suwannee,5 - L. O. Christian C,Governor,"",DEM,Robert L. Willis,14
+Suwannee,6 - Luraville Comm. C,Governor,"",DEM,Robert L. Willis,8
+Suwannee,7 - Mt. Gilead Church,Governor,"",DEM,Robert L. Willis,5
+Suwannee,8 - Rocky Sink Church,Governor,"",DEM,Robert L. Willis,10
+Suwannee,9 - Dowling Park Libr,Governor,"",DEM,Robert L. Willis,9
+Suwannee,10 - McAlpin Comm. Ce,Governor,"",DEM,Robert L. Willis,7
+Suwannee,11 - O'Brien Church,Governor,"",DEM,Robert L. Willis,10
+Suwannee,12 - Wellborn Masonic,Governor,"",DEM,Robert L. Willis,16
+Suwannee,13 - Branford Hatch P,Governor,"",DEM,Robert L. Willis,13
+Suwannee,14 - Clayland Church,Governor,"",DEM,Robert L. Willis,13
+Suwannee,15 - Pinegrove Church,Governor,"",DEM,Robert L. Willis,21
+Suwannee,16 - Anchor Church,Governor,"",DEM,Robert L. Willis,9
+Suwannee,1 - Recreation Center,Governor,"",DEM,OverVotes,0
+Suwannee,2 - Church of God,Governor,"",DEM,OverVotes,0
+Suwannee,3 - Presbyterian Chur,Governor,"",DEM,OverVotes,0
+Suwannee,4 - Coliseum,Governor,"",DEM,OverVotes,0
+Suwannee,5 - L. O. Christian C,Governor,"",DEM,OverVotes,0
+Suwannee,6 - Luraville Comm. C,Governor,"",DEM,OverVotes,0
+Suwannee,7 - Mt. Gilead Church,Governor,"",DEM,OverVotes,0
+Suwannee,8 - Rocky Sink Church,Governor,"",DEM,OverVotes,0
+Suwannee,9 - Dowling Park Libr,Governor,"",DEM,OverVotes,0
+Suwannee,10 - McAlpin Comm. Ce,Governor,"",DEM,OverVotes,0
+Suwannee,11 - O'Brien Church,Governor,"",DEM,OverVotes,0
+Suwannee,12 - Wellborn Masonic,Governor,"",DEM,OverVotes,0
+Suwannee,13 - Branford Hatch P,Governor,"",DEM,OverVotes,0
+Suwannee,14 - Clayland Church,Governor,"",DEM,OverVotes,0
+Suwannee,15 - Pinegrove Church,Governor,"",DEM,OverVotes,0
+Suwannee,16 - Anchor Church,Governor,"",DEM,OverVotes,0
+Suwannee,1 - Recreation Center,Governor,"",DEM,UnderVotes,13
+Suwannee,2 - Church of God,Governor,"",DEM,UnderVotes,15
+Suwannee,3 - Presbyterian Chur,Governor,"",DEM,UnderVotes,13
+Suwannee,4 - Coliseum,Governor,"",DEM,UnderVotes,32
+Suwannee,5 - L. O. Christian C,Governor,"",DEM,UnderVotes,9
+Suwannee,6 - Luraville Comm. C,Governor,"",DEM,UnderVotes,11
+Suwannee,7 - Mt. Gilead Church,Governor,"",DEM,UnderVotes,2
+Suwannee,8 - Rocky Sink Church,Governor,"",DEM,UnderVotes,9
+Suwannee,9 - Dowling Park Libr,Governor,"",DEM,UnderVotes,4
+Suwannee,10 - McAlpin Comm. Ce,Governor,"",DEM,UnderVotes,8
+Suwannee,11 - O'Brien Church,Governor,"",DEM,UnderVotes,3
+Suwannee,12 - Wellborn Masonic,Governor,"",DEM,UnderVotes,18
+Suwannee,13 - Branford Hatch P,Governor,"",DEM,UnderVotes,3
+Suwannee,14 - Clayland Church,Governor,"",DEM,UnderVotes,9
+Suwannee,15 - Pinegrove Church,Governor,"",DEM,UnderVotes,15
+Suwannee,16 - Anchor Church,Governor,"",DEM,UnderVotes,7
+Suwannee,1 - Recreation Center,Attorney General,"",DEM,Aramis Ayala,174
+Suwannee,2 - Church of God,Attorney General,"",DEM,Aramis Ayala,67
+Suwannee,3 - Presbyterian Chur,Attorney General,"",DEM,Aramis Ayala,38
+Suwannee,4 - Coliseum,Attorney General,"",DEM,Aramis Ayala,49
+Suwannee,5 - L. O. Christian C,Attorney General,"",DEM,Aramis Ayala,35
+Suwannee,6 - Luraville Comm. C,Attorney General,"",DEM,Aramis Ayala,38
+Suwannee,7 - Mt. Gilead Church,Attorney General,"",DEM,Aramis Ayala,16
+Suwannee,8 - Rocky Sink Church,Attorney General,"",DEM,Aramis Ayala,20
+Suwannee,9 - Dowling Park Libr,Attorney General,"",DEM,Aramis Ayala,26
+Suwannee,10 - McAlpin Comm. Ce,Attorney General,"",DEM,Aramis Ayala,24
+Suwannee,11 - O'Brien Church,Attorney General,"",DEM,Aramis Ayala,32
+Suwannee,12 - Wellborn Masonic,Attorney General,"",DEM,Aramis Ayala,40
+Suwannee,13 - Branford Hatch P,Attorney General,"",DEM,Aramis Ayala,32
+Suwannee,14 - Clayland Church,Attorney General,"",DEM,Aramis Ayala,18
+Suwannee,15 - Pinegrove Church,Attorney General,"",DEM,Aramis Ayala,32
+Suwannee,16 - Anchor Church,Attorney General,"",DEM,Aramis Ayala,36
+Suwannee,1 - Recreation Center,Attorney General,"",DEM,Jim Lewis,183
+Suwannee,2 - Church of God,Attorney General,"",DEM,Jim Lewis,85
+Suwannee,3 - Presbyterian Chur,Attorney General,"",DEM,Jim Lewis,68
+Suwannee,4 - Coliseum,Attorney General,"",DEM,Jim Lewis,100
+Suwannee,5 - L. O. Christian C,Attorney General,"",DEM,Jim Lewis,58
+Suwannee,6 - Luraville Comm. C,Attorney General,"",DEM,Jim Lewis,43
+Suwannee,7 - Mt. Gilead Church,Attorney General,"",DEM,Jim Lewis,28
+Suwannee,8 - Rocky Sink Church,Attorney General,"",DEM,Jim Lewis,32
+Suwannee,9 - Dowling Park Libr,Attorney General,"",DEM,Jim Lewis,50
+Suwannee,10 - McAlpin Comm. Ce,Attorney General,"",DEM,Jim Lewis,54
+Suwannee,11 - O'Brien Church,Attorney General,"",DEM,Jim Lewis,46
+Suwannee,12 - Wellborn Masonic,Attorney General,"",DEM,Jim Lewis,70
+Suwannee,13 - Branford Hatch P,Attorney General,"",DEM,Jim Lewis,48
+Suwannee,14 - Clayland Church,Attorney General,"",DEM,Jim Lewis,42
+Suwannee,15 - Pinegrove Church,Attorney General,"",DEM,Jim Lewis,57
+Suwannee,16 - Anchor Church,Attorney General,"",DEM,Jim Lewis,29
+Suwannee,1 - Recreation Center,Attorney General,"",DEM,Daniel Uhlfelder,59
+Suwannee,2 - Church of God,Attorney General,"",DEM,Daniel Uhlfelder,31
+Suwannee,3 - Presbyterian Chur,Attorney General,"",DEM,Daniel Uhlfelder,35
+Suwannee,4 - Coliseum,Attorney General,"",DEM,Daniel Uhlfelder,37
+Suwannee,5 - L. O. Christian C,Attorney General,"",DEM,Daniel Uhlfelder,14
+Suwannee,6 - Luraville Comm. C,Attorney General,"",DEM,Daniel Uhlfelder,24
+Suwannee,7 - Mt. Gilead Church,Attorney General,"",DEM,Daniel Uhlfelder,11
+Suwannee,8 - Rocky Sink Church,Attorney General,"",DEM,Daniel Uhlfelder,26
+Suwannee,9 - Dowling Park Libr,Attorney General,"",DEM,Daniel Uhlfelder,29
+Suwannee,10 - McAlpin Comm. Ce,Attorney General,"",DEM,Daniel Uhlfelder,26
+Suwannee,11 - O'Brien Church,Attorney General,"",DEM,Daniel Uhlfelder,32
+Suwannee,12 - Wellborn Masonic,Attorney General,"",DEM,Daniel Uhlfelder,45
+Suwannee,13 - Branford Hatch P,Attorney General,"",DEM,Daniel Uhlfelder,30
+Suwannee,14 - Clayland Church,Attorney General,"",DEM,Daniel Uhlfelder,15
+Suwannee,15 - Pinegrove Church,Attorney General,"",DEM,Daniel Uhlfelder,28
+Suwannee,16 - Anchor Church,Attorney General,"",DEM,Daniel Uhlfelder,17
+Suwannee,1 - Recreation Center,Attorney General,"",DEM,OverVotes,0
+Suwannee,2 - Church of God,Attorney General,"",DEM,OverVotes,0
+Suwannee,3 - Presbyterian Chur,Attorney General,"",DEM,OverVotes,0
+Suwannee,4 - Coliseum,Attorney General,"",DEM,OverVotes,0
+Suwannee,5 - L. O. Christian C,Attorney General,"",DEM,OverVotes,0
+Suwannee,6 - Luraville Comm. C,Attorney General,"",DEM,OverVotes,0
+Suwannee,7 - Mt. Gilead Church,Attorney General,"",DEM,OverVotes,0
+Suwannee,8 - Rocky Sink Church,Attorney General,"",DEM,OverVotes,0
+Suwannee,9 - Dowling Park Libr,Attorney General,"",DEM,OverVotes,0
+Suwannee,10 - McAlpin Comm. Ce,Attorney General,"",DEM,OverVotes,0
+Suwannee,11 - O'Brien Church,Attorney General,"",DEM,OverVotes,0
+Suwannee,12 - Wellborn Masonic,Attorney General,"",DEM,OverVotes,0
+Suwannee,13 - Branford Hatch P,Attorney General,"",DEM,OverVotes,0
+Suwannee,14 - Clayland Church,Attorney General,"",DEM,OverVotes,0
+Suwannee,15 - Pinegrove Church,Attorney General,"",DEM,OverVotes,0
+Suwannee,16 - Anchor Church,Attorney General,"",DEM,OverVotes,0
+Suwannee,1 - Recreation Center,Attorney General,"",DEM,UnderVotes,38
+Suwannee,2 - Church of God,Attorney General,"",DEM,UnderVotes,32
+Suwannee,3 - Presbyterian Chur,Attorney General,"",DEM,UnderVotes,34
+Suwannee,4 - Coliseum,Attorney General,"",DEM,UnderVotes,57
+Suwannee,5 - L. O. Christian C,Attorney General,"",DEM,UnderVotes,16
+Suwannee,6 - Luraville Comm. C,Attorney General,"",DEM,UnderVotes,14
+Suwannee,7 - Mt. Gilead Church,Attorney General,"",DEM,UnderVotes,5
+Suwannee,8 - Rocky Sink Church,Attorney General,"",DEM,UnderVotes,16
+Suwannee,9 - Dowling Park Libr,Attorney General,"",DEM,UnderVotes,16
+Suwannee,10 - McAlpin Comm. Ce,Attorney General,"",DEM,UnderVotes,21
+Suwannee,11 - O'Brien Church,Attorney General,"",DEM,UnderVotes,12
+Suwannee,12 - Wellborn Masonic,Attorney General,"",DEM,UnderVotes,30
+Suwannee,13 - Branford Hatch P,Attorney General,"",DEM,UnderVotes,9
+Suwannee,14 - Clayland Church,Attorney General,"",DEM,UnderVotes,16
+Suwannee,15 - Pinegrove Church,Attorney General,"",DEM,UnderVotes,29
+Suwannee,16 - Anchor Church,Attorney General,"",DEM,UnderVotes,6
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",REP,James W. Shaw,94
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",REP,James W. Shaw,193
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",REP,James W. Shaw,149
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",REP,James W. Shaw,251
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",REP,James W. Shaw,122
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",REP,James W. Shaw,120
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",REP,James W. Shaw,87
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",REP,James W. Shaw,104
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",REP,James W. Shaw,128
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",REP,James W. Shaw,186
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",REP,James W. Shaw,117
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",REP,James W. Shaw,227
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",REP,James W. Shaw,159
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",REP,James W. Shaw,96
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",REP,James W. Shaw,116
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",REP,James W. Shaw,95
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",REP,Wilton Simpson,118
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",REP,Wilton Simpson,330
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",REP,Wilton Simpson,267
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",REP,Wilton Simpson,431
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",REP,Wilton Simpson,222
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",REP,Wilton Simpson,233
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",REP,Wilton Simpson,159
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",REP,Wilton Simpson,168
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",REP,Wilton Simpson,298
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",REP,Wilton Simpson,303
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",REP,Wilton Simpson,298
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",REP,Wilton Simpson,343
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",REP,Wilton Simpson,303
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",REP,Wilton Simpson,194
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",REP,Wilton Simpson,244
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",REP,Wilton Simpson,158
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",REP,UnderVotes,5
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",REP,UnderVotes,29
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",REP,UnderVotes,26
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",REP,UnderVotes,20
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",REP,UnderVotes,8
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",REP,UnderVotes,11
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",REP,UnderVotes,3
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",REP,UnderVotes,8
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",REP,UnderVotes,13
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",REP,UnderVotes,14
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",REP,UnderVotes,4
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",REP,UnderVotes,22
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",REP,UnderVotes,14
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",REP,UnderVotes,4
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",REP,UnderVotes,12
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",REP,UnderVotes,2
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,175
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,80
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,58
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,69
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,51
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,38
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,26
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,30
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,40
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,36
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,43
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,53
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,43
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,26
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,39
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,40
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,101
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",DEM,J. R. Gaillot,40
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",DEM,J. R. Gaillot,34
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",DEM,J. R. Gaillot,45
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",DEM,J. R. Gaillot,19
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,17
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",DEM,J. R. Gaillot,30
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",DEM,J. R. Gaillot,28
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,27
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",DEM,J. R. Gaillot,35
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,18
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,23
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,17
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",DEM,Ryan Morales,137
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",DEM,Ryan Morales,69
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",DEM,Ryan Morales,49
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",DEM,Ryan Morales,73
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",DEM,Ryan Morales,44
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",DEM,Ryan Morales,45
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",DEM,Ryan Morales,17
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",DEM,Ryan Morales,30
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",DEM,Ryan Morales,37
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",DEM,Ryan Morales,43
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",DEM,Ryan Morales,43
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",DEM,Ryan Morales,65
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",DEM,Ryan Morales,48
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",DEM,Ryan Morales,30
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",DEM,Ryan Morales,52
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",DEM,Ryan Morales,22
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Suwannee,1 - Recreation Center,Commissioner of Agriculture,"",DEM,UnderVotes,41
+Suwannee,2 - Church of God,Commissioner of Agriculture,"",DEM,UnderVotes,26
+Suwannee,3 - Presbyterian Chur,Commissioner of Agriculture,"",DEM,UnderVotes,34
+Suwannee,4 - Coliseum,Commissioner of Agriculture,"",DEM,UnderVotes,56
+Suwannee,5 - L. O. Christian C,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Suwannee,6 - Luraville Comm. C,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Suwannee,7 - Mt. Gilead Church,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Suwannee,8 - Rocky Sink Church,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Suwannee,9 - Dowling Park Libr,Commissioner of Agriculture,"",DEM,UnderVotes,14
+Suwannee,10 - McAlpin Comm. Ce,Commissioner of Agriculture,"",DEM,UnderVotes,18
+Suwannee,11 - O'Brien Church,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Suwannee,12 - Wellborn Masonic,Commissioner of Agriculture,"",DEM,UnderVotes,32
+Suwannee,13 - Branford Hatch P,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Suwannee,14 - Clayland Church,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Suwannee,15 - Pinegrove Church,Commissioner of Agriculture,"",DEM,UnderVotes,32
+Suwannee,16 - Anchor Church,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Suwannee,1 - Recreation Center,County Commissioner,2,DEM,Stefan Blue,266
+Suwannee,1 - Recreation Center,County Commissioner,2,DEM,Maurice E Perkins,410
+Suwannee,1 - Recreation Center,County Commissioner,2,DEM,OverVotes,0
+Suwannee,1 - Recreation Center,County Commissioner,2,DEM,UnderVotes,30
+Suwannee,2 - Church of God,County Commissioner,4,REP,Leo Mobley,518
+Suwannee,12 - Wellborn Masonic,County Commissioner,4,REP,Leo Mobley,598
+Suwannee,15 - Pinegrove Church,County Commissioner,4,REP,Leo Mobley,360
+Suwannee,2 - Church of God,County Commissioner,4,REP,Len Stapleton,281
+Suwannee,12 - Wellborn Masonic,County Commissioner,4,REP,Len Stapleton,233
+Suwannee,15 - Pinegrove Church,County Commissioner,4,REP,Len Stapleton,179
+Suwannee,2 - Church of God,County Commissioner,4,REP,OverVotes,0
+Suwannee,12 - Wellborn Masonic,County Commissioner,4,REP,OverVotes,0
+Suwannee,15 - Pinegrove Church,County Commissioner,4,REP,OverVotes,0
+Suwannee,2 - Church of God,County Commissioner,4,REP,UnderVotes,17
+Suwannee,12 - Wellborn Masonic,County Commissioner,4,REP,UnderVotes,13
+Suwannee,15 - Pinegrove Church,County Commissioner,4,REP,UnderVotes,12
+Suwannee,1 - Recreation Center,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,353
+Suwannee,2 - Church of God,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,424
+Suwannee,3 - Presbyterian Chur,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,342
+Suwannee,4 - Coliseum,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,540
+Suwannee,5 - L. O. Christian C,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,264
+Suwannee,6 - Luraville Comm. C,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,294
+Suwannee,7 - Mt. Gilead Church,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,186
+Suwannee,8 - Rocky Sink Church,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,229
+Suwannee,9 - Dowling Park Libr,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,373
+Suwannee,10 - McAlpin Comm. Ce,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,354
+Suwannee,11 - O'Brien Church,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,355
+Suwannee,12 - Wellborn Masonic,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,401
+Suwannee,13 - Branford Hatch P,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,341
+Suwannee,14 - Clayland Church,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,228
+Suwannee,15 - Pinegrove Church,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,303
+Suwannee,16 - Anchor Church,County Court Judge,Group 1,NOP,Jennifer Kuyrkendall Griffin,231
+Suwannee,1 - Recreation Center,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",102
+Suwannee,2 - Church of God,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",108
+Suwannee,3 - Presbyterian Chur,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",106
+Suwannee,4 - Coliseum,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",172
+Suwannee,5 - L. O. Christian C,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",66
+Suwannee,6 - Luraville Comm. C,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",78
+Suwannee,7 - Mt. Gilead Church,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",44
+Suwannee,8 - Rocky Sink Church,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",72
+Suwannee,9 - Dowling Park Libr,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",114
+Suwannee,10 - McAlpin Comm. Ce,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",60
+Suwannee,11 - O'Brien Church,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",99
+Suwannee,12 - Wellborn Masonic,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",144
+Suwannee,13 - Branford Hatch P,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",83
+Suwannee,14 - Clayland Church,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",74
+Suwannee,15 - Pinegrove Church,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",58
+Suwannee,16 - Anchor Church,County Court Judge,Group 1,NOP,"Arminda W. ""Mindy"" Janousek",51
+Suwannee,1 - Recreation Center,County Court Judge,Group 1,NOP,Ryan J Peters,240
+Suwannee,2 - Church of God,County Court Judge,Group 1,NOP,Ryan J Peters,277
+Suwannee,3 - Presbyterian Chur,County Court Judge,Group 1,NOP,Ryan J Peters,216
+Suwannee,4 - Coliseum,County Court Judge,Group 1,NOP,Ryan J Peters,284
+Suwannee,5 - L. O. Christian C,County Court Judge,Group 1,NOP,Ryan J Peters,155
+Suwannee,6 - Luraville Comm. C,County Court Judge,Group 1,NOP,Ryan J Peters,139
+Suwannee,7 - Mt. Gilead Church,County Court Judge,Group 1,NOP,Ryan J Peters,90
+Suwannee,8 - Rocky Sink Church,County Court Judge,Group 1,NOP,Ryan J Peters,94
+Suwannee,9 - Dowling Park Libr,County Court Judge,Group 1,NOP,Ryan J Peters,126
+Suwannee,10 - McAlpin Comm. Ce,County Court Judge,Group 1,NOP,Ryan J Peters,255
+Suwannee,11 - O'Brien Church,County Court Judge,Group 1,NOP,Ryan J Peters,135
+Suwannee,12 - Wellborn Masonic,County Court Judge,Group 1,NOP,Ryan J Peters,288
+Suwannee,13 - Branford Hatch P,County Court Judge,Group 1,NOP,Ryan J Peters,207
+Suwannee,14 - Clayland Church,County Court Judge,Group 1,NOP,Ryan J Peters,110
+Suwannee,15 - Pinegrove Church,County Court Judge,Group 1,NOP,Ryan J Peters,188
+Suwannee,16 - Anchor Church,County Court Judge,Group 1,NOP,Ryan J Peters,84
+Suwannee,1 - Recreation Center,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,2 - Church of God,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,3 - Presbyterian Chur,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,4 - Coliseum,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,5 - L. O. Christian C,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,6 - Luraville Comm. C,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,7 - Mt. Gilead Church,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,8 - Rocky Sink Church,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,9 - Dowling Park Libr,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,10 - McAlpin Comm. Ce,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,11 - O'Brien Church,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,12 - Wellborn Masonic,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,13 - Branford Hatch P,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,14 - Clayland Church,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,15 - Pinegrove Church,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,16 - Anchor Church,County Court Judge,Group 1,NOP,OverVotes,0
+Suwannee,1 - Recreation Center,County Court Judge,Group 1,NOP,UnderVotes,11
+Suwannee,2 - Church of God,County Court Judge,Group 1,NOP,UnderVotes,7
+Suwannee,3 - Presbyterian Chur,County Court Judge,Group 1,NOP,UnderVotes,4
+Suwannee,4 - Coliseum,County Court Judge,Group 1,NOP,UnderVotes,1
+Suwannee,5 - L. O. Christian C,County Court Judge,Group 1,NOP,UnderVotes,4
+Suwannee,6 - Luraville Comm. C,County Court Judge,Group 1,NOP,UnderVotes,12
+Suwannee,7 - Mt. Gilead Church,County Court Judge,Group 1,NOP,UnderVotes,0
+Suwannee,8 - Rocky Sink Church,County Court Judge,Group 1,NOP,UnderVotes,2
+Suwannee,9 - Dowling Park Libr,County Court Judge,Group 1,NOP,UnderVotes,8
+Suwannee,10 - McAlpin Comm. Ce,County Court Judge,Group 1,NOP,UnderVotes,8
+Suwannee,11 - O'Brien Church,County Court Judge,Group 1,NOP,UnderVotes,5
+Suwannee,12 - Wellborn Masonic,County Court Judge,Group 1,NOP,UnderVotes,11
+Suwannee,13 - Branford Hatch P,County Court Judge,Group 1,NOP,UnderVotes,10
+Suwannee,14 - Clayland Church,County Court Judge,Group 1,NOP,UnderVotes,4
+Suwannee,15 - Pinegrove Church,County Court Judge,Group 1,NOP,UnderVotes,2
+Suwannee,16 - Anchor Church,County Court Judge,Group 1,NOP,UnderVotes,7
+Suwannee,1 - Recreation Center,Registered Voters,"","","",2317
+Suwannee,10 - McAlpin Comm. Ce,Registered Voters,"","","",1924
+Suwannee,11 - O'Brien Church,Registered Voters,"","","",4069
+Suwannee,12 - Wellborn Masonic,Registered Voters,"","","",2248
+Suwannee,13 - Branford Hatch P,Registered Voters,"","","",2391
+Suwannee,14 - Clayland Church,Registered Voters,"","","",1192
+Suwannee,15 - Pinegrove Church,Registered Voters,"","","",1296
+Suwannee,16 - Anchor Church,Registered Voters,"","","",1816
+Suwannee,2 - Church of God,Registered Voters,"","","",2122
+Suwannee,3 - Presbyterian Chur,Registered Voters,"","","",1780
+Suwannee,4 - Coliseum,Registered Voters,"","","",2316
+Suwannee,5 - L. O. Christian C,Registered Voters,"","","",1596
+Suwannee,6 - Luraville Comm. C,Registered Voters,"","","",1610
+Suwannee,7 - Mt. Gilead Church,Registered Voters,"","","",2111
+Suwannee,8 - Rocky Sink Church,Registered Voters,"","","",1350
+Suwannee,9 - Dowling Park Libr,Registered Voters,"","","",1603

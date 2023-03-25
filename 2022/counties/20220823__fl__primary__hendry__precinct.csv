@@ -1,0 +1,430 @@
+county,precinct,office,district,party,candidate,votes
+Hendry,01,U.S. Senate,"",DEM,Ricardo De La Fuente,32
+Hendry,02,U.S. Senate,"",DEM,Ricardo De La Fuente,29
+Hendry,03,U.S. Senate,"",DEM,Ricardo De La Fuente,21
+Hendry,04,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Hendry,05,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Hendry,06,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Hendry,07,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Hendry,08,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Hendry,09,U.S. Senate,"",DEM,Ricardo De La Fuente,23
+Hendry,101,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Hendry,102,U.S. Senate,"",DEM,Ricardo De La Fuente,10
+Hendry,01,U.S. Senate,"",DEM,Val Demings,258
+Hendry,02,U.S. Senate,"",DEM,Val Demings,139
+Hendry,03,U.S. Senate,"",DEM,Val Demings,63
+Hendry,04,U.S. Senate,"",DEM,Val Demings,14
+Hendry,05,U.S. Senate,"",DEM,Val Demings,13
+Hendry,06,U.S. Senate,"",DEM,Val Demings,25
+Hendry,07,U.S. Senate,"",DEM,Val Demings,62
+Hendry,08,U.S. Senate,"",DEM,Val Demings,26
+Hendry,09,U.S. Senate,"",DEM,Val Demings,66
+Hendry,101,U.S. Senate,"",DEM,Val Demings,18
+Hendry,102,U.S. Senate,"",DEM,Val Demings,14
+Hendry,01,U.S. Senate,"",DEM,Brian Rush,57
+Hendry,02,U.S. Senate,"",DEM,Brian Rush,37
+Hendry,03,U.S. Senate,"",DEM,Brian Rush,25
+Hendry,04,U.S. Senate,"",DEM,Brian Rush,4
+Hendry,05,U.S. Senate,"",DEM,Brian Rush,2
+Hendry,06,U.S. Senate,"",DEM,Brian Rush,22
+Hendry,07,U.S. Senate,"",DEM,Brian Rush,41
+Hendry,08,U.S. Senate,"",DEM,Brian Rush,4
+Hendry,09,U.S. Senate,"",DEM,Brian Rush,23
+Hendry,101,U.S. Senate,"",DEM,Brian Rush,3
+Hendry,102,U.S. Senate,"",DEM,Brian Rush,6
+Hendry,01,U.S. Senate,"",DEM,William Sanchez,53
+Hendry,02,U.S. Senate,"",DEM,William Sanchez,35
+Hendry,03,U.S. Senate,"",DEM,William Sanchez,21
+Hendry,04,U.S. Senate,"",DEM,William Sanchez,6
+Hendry,05,U.S. Senate,"",DEM,William Sanchez,2
+Hendry,06,U.S. Senate,"",DEM,William Sanchez,10
+Hendry,07,U.S. Senate,"",DEM,William Sanchez,18
+Hendry,08,U.S. Senate,"",DEM,William Sanchez,9
+Hendry,09,U.S. Senate,"",DEM,William Sanchez,16
+Hendry,101,U.S. Senate,"",DEM,William Sanchez,1
+Hendry,102,U.S. Senate,"",DEM,William Sanchez,15
+Hendry,01,U.S. Senate,"",DEM,OverVotes,0
+Hendry,02,U.S. Senate,"",DEM,OverVotes,0
+Hendry,03,U.S. Senate,"",DEM,OverVotes,0
+Hendry,04,U.S. Senate,"",DEM,OverVotes,0
+Hendry,05,U.S. Senate,"",DEM,OverVotes,0
+Hendry,06,U.S. Senate,"",DEM,OverVotes,0
+Hendry,07,U.S. Senate,"",DEM,OverVotes,0
+Hendry,08,U.S. Senate,"",DEM,OverVotes,0
+Hendry,09,U.S. Senate,"",DEM,OverVotes,0
+Hendry,101,U.S. Senate,"",DEM,OverVotes,0
+Hendry,102,U.S. Senate,"",DEM,OverVotes,0
+Hendry,01,U.S. Senate,"",DEM,UnderVotes,6
+Hendry,02,U.S. Senate,"",DEM,UnderVotes,21
+Hendry,03,U.S. Senate,"",DEM,UnderVotes,4
+Hendry,04,U.S. Senate,"",DEM,UnderVotes,0
+Hendry,05,U.S. Senate,"",DEM,UnderVotes,1
+Hendry,06,U.S. Senate,"",DEM,UnderVotes,9
+Hendry,07,U.S. Senate,"",DEM,UnderVotes,24
+Hendry,08,U.S. Senate,"",DEM,UnderVotes,2
+Hendry,09,U.S. Senate,"",DEM,UnderVotes,5
+Hendry,101,U.S. Senate,"",DEM,UnderVotes,2
+Hendry,102,U.S. Senate,"",DEM,UnderVotes,1
+Hendry,01,U.S. House,18,REP,Scott Franklin,71
+Hendry,02,U.S. House,18,REP,Scott Franklin,415
+Hendry,03,U.S. House,18,REP,Scott Franklin,255
+Hendry,04,U.S. House,18,REP,Scott Franklin,8
+Hendry,05,U.S. House,18,REP,Scott Franklin,55
+Hendry,06,U.S. House,18,REP,Scott Franklin,145
+Hendry,07,U.S. House,18,REP,Scott Franklin,408
+Hendry,08,U.S. House,18,REP,Scott Franklin,48
+Hendry,09,U.S. House,18,REP,Scott Franklin,121
+Hendry,101,U.S. House,18,REP,Scott Franklin,20
+Hendry,102,U.S. House,18,REP,Scott Franklin,38
+Hendry,01,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",7
+Hendry,02,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",68
+Hendry,03,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",22
+Hendry,04,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",1
+Hendry,05,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",7
+Hendry,06,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",12
+Hendry,07,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",33
+Hendry,08,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",7
+Hendry,09,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",17
+Hendry,101,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",4
+Hendry,102,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",3
+Hendry,01,U.S. House,18,REP,Jennifer Raybon,12
+Hendry,02,U.S. House,18,REP,Jennifer Raybon,88
+Hendry,03,U.S. House,18,REP,Jennifer Raybon,66
+Hendry,04,U.S. House,18,REP,Jennifer Raybon,3
+Hendry,05,U.S. House,18,REP,Jennifer Raybon,13
+Hendry,06,U.S. House,18,REP,Jennifer Raybon,16
+Hendry,07,U.S. House,18,REP,Jennifer Raybon,62
+Hendry,08,U.S. House,18,REP,Jennifer Raybon,13
+Hendry,09,U.S. House,18,REP,Jennifer Raybon,32
+Hendry,101,U.S. House,18,REP,Jennifer Raybon,8
+Hendry,102,U.S. House,18,REP,Jennifer Raybon,14
+Hendry,01,U.S. House,18,REP,Wendy June Schmeling,9
+Hendry,02,U.S. House,18,REP,Wendy June Schmeling,34
+Hendry,03,U.S. House,18,REP,Wendy June Schmeling,18
+Hendry,04,U.S. House,18,REP,Wendy June Schmeling,1
+Hendry,05,U.S. House,18,REP,Wendy June Schmeling,1
+Hendry,06,U.S. House,18,REP,Wendy June Schmeling,3
+Hendry,07,U.S. House,18,REP,Wendy June Schmeling,14
+Hendry,08,U.S. House,18,REP,Wendy June Schmeling,2
+Hendry,09,U.S. House,18,REP,Wendy June Schmeling,5
+Hendry,101,U.S. House,18,REP,Wendy June Schmeling,1
+Hendry,102,U.S. House,18,REP,Wendy June Schmeling,12
+Hendry,01,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",12
+Hendry,02,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",36
+Hendry,03,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",17
+Hendry,04,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",1
+Hendry,05,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",5
+Hendry,06,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",13
+Hendry,07,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",23
+Hendry,08,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",8
+Hendry,09,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",10
+Hendry,101,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",8
+Hendry,102,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",5
+Hendry,01,U.S. House,18,REP,OverVotes,0
+Hendry,02,U.S. House,18,REP,OverVotes,1
+Hendry,03,U.S. House,18,REP,OverVotes,0
+Hendry,04,U.S. House,18,REP,OverVotes,0
+Hendry,05,U.S. House,18,REP,OverVotes,0
+Hendry,06,U.S. House,18,REP,OverVotes,0
+Hendry,07,U.S. House,18,REP,OverVotes,0
+Hendry,08,U.S. House,18,REP,OverVotes,0
+Hendry,09,U.S. House,18,REP,OverVotes,1
+Hendry,101,U.S. House,18,REP,OverVotes,0
+Hendry,102,U.S. House,18,REP,OverVotes,1
+Hendry,01,U.S. House,18,REP,UnderVotes,3
+Hendry,02,U.S. House,18,REP,UnderVotes,39
+Hendry,03,U.S. House,18,REP,UnderVotes,16
+Hendry,04,U.S. House,18,REP,UnderVotes,0
+Hendry,05,U.S. House,18,REP,UnderVotes,2
+Hendry,06,U.S. House,18,REP,UnderVotes,7
+Hendry,07,U.S. House,18,REP,UnderVotes,71
+Hendry,08,U.S. House,18,REP,UnderVotes,2
+Hendry,09,U.S. House,18,REP,UnderVotes,3
+Hendry,101,U.S. House,18,REP,UnderVotes,1
+Hendry,102,U.S. House,18,REP,UnderVotes,0
+Hendry,01,Governor,"",DEM,Charlie Crist,223
+Hendry,02,Governor,"",DEM,Charlie Crist,108
+Hendry,03,Governor,"",DEM,Charlie Crist,66
+Hendry,04,Governor,"",DEM,Charlie Crist,19
+Hendry,05,Governor,"",DEM,Charlie Crist,9
+Hendry,06,Governor,"",DEM,Charlie Crist,35
+Hendry,07,Governor,"",DEM,Charlie Crist,57
+Hendry,08,Governor,"",DEM,Charlie Crist,23
+Hendry,09,Governor,"",DEM,Charlie Crist,72
+Hendry,101,Governor,"",DEM,Charlie Crist,14
+Hendry,102,Governor,"",DEM,Charlie Crist,25
+Hendry,01,Governor,"",DEM,Cadance Daniel,13
+Hendry,02,Governor,"",DEM,Cadance Daniel,10
+Hendry,03,Governor,"",DEM,Cadance Daniel,7
+Hendry,04,Governor,"",DEM,Cadance Daniel,1
+Hendry,05,Governor,"",DEM,Cadance Daniel,0
+Hendry,06,Governor,"",DEM,Cadance Daniel,2
+Hendry,07,Governor,"",DEM,Cadance Daniel,8
+Hendry,08,Governor,"",DEM,Cadance Daniel,3
+Hendry,09,Governor,"",DEM,Cadance Daniel,5
+Hendry,101,Governor,"",DEM,Cadance Daniel,1
+Hendry,102,Governor,"",DEM,Cadance Daniel,1
+Hendry,01,Governor,"",DEM,"Nicole ""Nikki"" Fried",144
+Hendry,02,Governor,"",DEM,"Nicole ""Nikki"" Fried",109
+Hendry,03,Governor,"",DEM,"Nicole ""Nikki"" Fried",51
+Hendry,04,Governor,"",DEM,"Nicole ""Nikki"" Fried",10
+Hendry,05,Governor,"",DEM,"Nicole ""Nikki"" Fried",11
+Hendry,06,Governor,"",DEM,"Nicole ""Nikki"" Fried",27
+Hendry,07,Governor,"",DEM,"Nicole ""Nikki"" Fried",64
+Hendry,08,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Hendry,09,Governor,"",DEM,"Nicole ""Nikki"" Fried",53
+Hendry,101,Governor,"",DEM,"Nicole ""Nikki"" Fried",13
+Hendry,102,Governor,"",DEM,"Nicole ""Nikki"" Fried",17
+Hendry,01,Governor,"",DEM,Robert L. Willis,23
+Hendry,02,Governor,"",DEM,Robert L. Willis,21
+Hendry,03,Governor,"",DEM,Robert L. Willis,8
+Hendry,04,Governor,"",DEM,Robert L. Willis,0
+Hendry,05,Governor,"",DEM,Robert L. Willis,2
+Hendry,06,Governor,"",DEM,Robert L. Willis,6
+Hendry,07,Governor,"",DEM,Robert L. Willis,11
+Hendry,08,Governor,"",DEM,Robert L. Willis,1
+Hendry,09,Governor,"",DEM,Robert L. Willis,2
+Hendry,101,Governor,"",DEM,Robert L. Willis,0
+Hendry,102,Governor,"",DEM,Robert L. Willis,3
+Hendry,01,Governor,"",DEM,OverVotes,1
+Hendry,02,Governor,"",DEM,OverVotes,0
+Hendry,03,Governor,"",DEM,OverVotes,0
+Hendry,04,Governor,"",DEM,OverVotes,0
+Hendry,05,Governor,"",DEM,OverVotes,0
+Hendry,06,Governor,"",DEM,OverVotes,0
+Hendry,07,Governor,"",DEM,OverVotes,0
+Hendry,08,Governor,"",DEM,OverVotes,0
+Hendry,09,Governor,"",DEM,OverVotes,0
+Hendry,101,Governor,"",DEM,OverVotes,0
+Hendry,102,Governor,"",DEM,OverVotes,0
+Hendry,01,Governor,"",DEM,UnderVotes,2
+Hendry,02,Governor,"",DEM,UnderVotes,13
+Hendry,03,Governor,"",DEM,UnderVotes,2
+Hendry,04,Governor,"",DEM,UnderVotes,0
+Hendry,05,Governor,"",DEM,UnderVotes,1
+Hendry,06,Governor,"",DEM,UnderVotes,7
+Hendry,07,Governor,"",DEM,UnderVotes,14
+Hendry,08,Governor,"",DEM,UnderVotes,2
+Hendry,09,Governor,"",DEM,UnderVotes,1
+Hendry,101,Governor,"",DEM,UnderVotes,1
+Hendry,102,Governor,"",DEM,UnderVotes,0
+Hendry,01,Attorney General,"",DEM,Aramis Ayala,180
+Hendry,02,Attorney General,"",DEM,Aramis Ayala,89
+Hendry,03,Attorney General,"",DEM,Aramis Ayala,43
+Hendry,04,Attorney General,"",DEM,Aramis Ayala,10
+Hendry,05,Attorney General,"",DEM,Aramis Ayala,10
+Hendry,06,Attorney General,"",DEM,Aramis Ayala,29
+Hendry,07,Attorney General,"",DEM,Aramis Ayala,38
+Hendry,08,Attorney General,"",DEM,Aramis Ayala,13
+Hendry,09,Attorney General,"",DEM,Aramis Ayala,62
+Hendry,101,Attorney General,"",DEM,Aramis Ayala,7
+Hendry,102,Attorney General,"",DEM,Aramis Ayala,26
+Hendry,01,Attorney General,"",DEM,Jim Lewis,171
+Hendry,02,Attorney General,"",DEM,Jim Lewis,81
+Hendry,03,Attorney General,"",DEM,Jim Lewis,56
+Hendry,04,Attorney General,"",DEM,Jim Lewis,10
+Hendry,05,Attorney General,"",DEM,Jim Lewis,6
+Hendry,06,Attorney General,"",DEM,Jim Lewis,26
+Hendry,07,Attorney General,"",DEM,Jim Lewis,54
+Hendry,08,Attorney General,"",DEM,Jim Lewis,16
+Hendry,09,Attorney General,"",DEM,Jim Lewis,46
+Hendry,101,Attorney General,"",DEM,Jim Lewis,12
+Hendry,102,Attorney General,"",DEM,Jim Lewis,15
+Hendry,01,Attorney General,"",DEM,Daniel Uhlfelder,43
+Hendry,02,Attorney General,"",DEM,Daniel Uhlfelder,61
+Hendry,03,Attorney General,"",DEM,Daniel Uhlfelder,25
+Hendry,04,Attorney General,"",DEM,Daniel Uhlfelder,8
+Hendry,05,Attorney General,"",DEM,Daniel Uhlfelder,6
+Hendry,06,Attorney General,"",DEM,Daniel Uhlfelder,12
+Hendry,07,Attorney General,"",DEM,Daniel Uhlfelder,27
+Hendry,08,Attorney General,"",DEM,Daniel Uhlfelder,12
+Hendry,09,Attorney General,"",DEM,Daniel Uhlfelder,20
+Hendry,101,Attorney General,"",DEM,Daniel Uhlfelder,8
+Hendry,102,Attorney General,"",DEM,Daniel Uhlfelder,3
+Hendry,01,Attorney General,"",DEM,OverVotes,1
+Hendry,02,Attorney General,"",DEM,OverVotes,0
+Hendry,03,Attorney General,"",DEM,OverVotes,0
+Hendry,04,Attorney General,"",DEM,OverVotes,0
+Hendry,05,Attorney General,"",DEM,OverVotes,0
+Hendry,06,Attorney General,"",DEM,OverVotes,0
+Hendry,07,Attorney General,"",DEM,OverVotes,0
+Hendry,08,Attorney General,"",DEM,OverVotes,0
+Hendry,09,Attorney General,"",DEM,OverVotes,0
+Hendry,101,Attorney General,"",DEM,OverVotes,0
+Hendry,102,Attorney General,"",DEM,OverVotes,0
+Hendry,01,Attorney General,"",DEM,UnderVotes,11
+Hendry,02,Attorney General,"",DEM,UnderVotes,30
+Hendry,03,Attorney General,"",DEM,UnderVotes,10
+Hendry,04,Attorney General,"",DEM,UnderVotes,2
+Hendry,05,Attorney General,"",DEM,UnderVotes,1
+Hendry,06,Attorney General,"",DEM,UnderVotes,10
+Hendry,07,Attorney General,"",DEM,UnderVotes,35
+Hendry,08,Attorney General,"",DEM,UnderVotes,4
+Hendry,09,Attorney General,"",DEM,UnderVotes,5
+Hendry,101,Attorney General,"",DEM,UnderVotes,2
+Hendry,102,Attorney General,"",DEM,UnderVotes,2
+Hendry,01,Commissioner of Agriculture,"",REP,James W. Shaw,32
+Hendry,02,Commissioner of Agriculture,"",REP,James W. Shaw,206
+Hendry,03,Commissioner of Agriculture,"",REP,James W. Shaw,113
+Hendry,04,Commissioner of Agriculture,"",REP,James W. Shaw,3
+Hendry,05,Commissioner of Agriculture,"",REP,James W. Shaw,23
+Hendry,06,Commissioner of Agriculture,"",REP,James W. Shaw,40
+Hendry,07,Commissioner of Agriculture,"",REP,James W. Shaw,94
+Hendry,08,Commissioner of Agriculture,"",REP,James W. Shaw,25
+Hendry,09,Commissioner of Agriculture,"",REP,James W. Shaw,79
+Hendry,101,Commissioner of Agriculture,"",REP,James W. Shaw,14
+Hendry,102,Commissioner of Agriculture,"",REP,James W. Shaw,26
+Hendry,01,Commissioner of Agriculture,"",REP,Wilton Simpson,80
+Hendry,02,Commissioner of Agriculture,"",REP,Wilton Simpson,455
+Hendry,03,Commissioner of Agriculture,"",REP,Wilton Simpson,277
+Hendry,04,Commissioner of Agriculture,"",REP,Wilton Simpson,11
+Hendry,05,Commissioner of Agriculture,"",REP,Wilton Simpson,58
+Hendry,06,Commissioner of Agriculture,"",REP,Wilton Simpson,153
+Hendry,07,Commissioner of Agriculture,"",REP,Wilton Simpson,497
+Hendry,08,Commissioner of Agriculture,"",REP,Wilton Simpson,55
+Hendry,09,Commissioner of Agriculture,"",REP,Wilton Simpson,108
+Hendry,101,Commissioner of Agriculture,"",REP,Wilton Simpson,27
+Hendry,102,Commissioner of Agriculture,"",REP,Wilton Simpson,45
+Hendry,01,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,02,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,03,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,04,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,05,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,06,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,07,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,08,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,09,Commissioner of Agriculture,"",REP,OverVotes,1
+Hendry,101,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,102,Commissioner of Agriculture,"",REP,OverVotes,0
+Hendry,01,Commissioner of Agriculture,"",REP,UnderVotes,2
+Hendry,02,Commissioner of Agriculture,"",REP,UnderVotes,20
+Hendry,03,Commissioner of Agriculture,"",REP,UnderVotes,4
+Hendry,04,Commissioner of Agriculture,"",REP,UnderVotes,0
+Hendry,05,Commissioner of Agriculture,"",REP,UnderVotes,2
+Hendry,06,Commissioner of Agriculture,"",REP,UnderVotes,3
+Hendry,07,Commissioner of Agriculture,"",REP,UnderVotes,20
+Hendry,08,Commissioner of Agriculture,"",REP,UnderVotes,0
+Hendry,09,Commissioner of Agriculture,"",REP,UnderVotes,1
+Hendry,101,Commissioner of Agriculture,"",REP,UnderVotes,1
+Hendry,102,Commissioner of Agriculture,"",REP,UnderVotes,2
+Hendry,01,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,192
+Hendry,02,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,105
+Hendry,03,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,50
+Hendry,04,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,13
+Hendry,05,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11
+Hendry,06,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,24
+Hendry,07,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,37
+Hendry,08,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,14
+Hendry,09,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,66
+Hendry,101,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,12
+Hendry,102,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,16
+Hendry,01,Commissioner of Agriculture,"",DEM,J. R. Gaillot,84
+Hendry,02,Commissioner of Agriculture,"",DEM,J. R. Gaillot,66
+Hendry,03,Commissioner of Agriculture,"",DEM,J. R. Gaillot,25
+Hendry,04,Commissioner of Agriculture,"",DEM,J. R. Gaillot,5
+Hendry,05,Commissioner of Agriculture,"",DEM,J. R. Gaillot,7
+Hendry,06,Commissioner of Agriculture,"",DEM,J. R. Gaillot,14
+Hendry,07,Commissioner of Agriculture,"",DEM,J. R. Gaillot,40
+Hendry,08,Commissioner of Agriculture,"",DEM,J. R. Gaillot,13
+Hendry,09,Commissioner of Agriculture,"",DEM,J. R. Gaillot,16
+Hendry,101,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Hendry,102,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Hendry,01,Commissioner of Agriculture,"",DEM,Ryan Morales,118
+Hendry,02,Commissioner of Agriculture,"",DEM,Ryan Morales,64
+Hendry,03,Commissioner of Agriculture,"",DEM,Ryan Morales,49
+Hendry,04,Commissioner of Agriculture,"",DEM,Ryan Morales,10
+Hendry,05,Commissioner of Agriculture,"",DEM,Ryan Morales,3
+Hendry,06,Commissioner of Agriculture,"",DEM,Ryan Morales,30
+Hendry,07,Commissioner of Agriculture,"",DEM,Ryan Morales,44
+Hendry,08,Commissioner of Agriculture,"",DEM,Ryan Morales,15
+Hendry,09,Commissioner of Agriculture,"",DEM,Ryan Morales,43
+Hendry,101,Commissioner of Agriculture,"",DEM,Ryan Morales,11
+Hendry,102,Commissioner of Agriculture,"",DEM,Ryan Morales,17
+Hendry,01,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,02,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,03,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,04,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,05,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,06,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,07,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,08,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,09,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,101,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,102,Commissioner of Agriculture,"",DEM,OverVotes,0
+Hendry,01,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Hendry,02,Commissioner of Agriculture,"",DEM,UnderVotes,26
+Hendry,03,Commissioner of Agriculture,"",DEM,UnderVotes,10
+Hendry,04,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Hendry,05,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Hendry,06,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Hendry,07,Commissioner of Agriculture,"",DEM,UnderVotes,33
+Hendry,08,Commissioner of Agriculture,"",DEM,UnderVotes,3
+Hendry,09,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Hendry,101,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Hendry,102,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Hendry,02,County Commissioner,2,REP,"Emory ""Rowdy"" Howard",617
+Hendry,02,County Commissioner,2,REP,Matt Rentz,368
+Hendry,02,County Commissioner,2,REP,OverVotes,1
+Hendry,02,County Commissioner,2,REP,UnderVotes,17
+Hendry,03,School Board,3,NOP,Bianca Burke-Ross,209
+Hendry,05,School Board,3,NOP,Bianca Burke-Ross,25
+Hendry,03,School Board,3,NOP,Amanda S. Nelson,335
+Hendry,05,School Board,3,NOP,Amanda S. Nelson,81
+Hendry,03,School Board,3,NOP,OverVotes,0
+Hendry,05,School Board,3,NOP,OverVotes,0
+Hendry,03,School Board,3,NOP,UnderVotes,10
+Hendry,05,School Board,3,NOP,UnderVotes,1
+Hendry,07,School Board,4,NOP,Stephanie Busin,333
+Hendry,09,School Board,4,NOP,Stephanie Busin,219
+Hendry,101,School Board,4,NOP,Stephanie Busin,50
+Hendry,07,School Board,4,NOP,Richard West,7
+Hendry,09,School Board,4,NOP,Richard West,40
+Hendry,101,School Board,4,NOP,Richard West,11
+Hendry,07,School Board,4,NOP,Joe Whitehead,467
+Hendry,09,School Board,4,NOP,Joe Whitehead,89
+Hendry,101,School Board,4,NOP,Joe Whitehead,15
+Hendry,07,School Board,4,NOP,OverVotes,0
+Hendry,09,School Board,4,NOP,OverVotes,0
+Hendry,101,School Board,4,NOP,OverVotes,0
+Hendry,07,School Board,4,NOP,UnderVotes,8
+Hendry,09,School Board,4,NOP,UnderVotes,4
+Hendry,101,School Board,4,NOP,UnderVotes,3
+Hendry,04,School Board,5,NOP,Jon Basquin,18
+Hendry,06,School Board,5,NOP,Jon Basquin,214
+Hendry,08,School Board,5,NOP,Jon Basquin,74
+Hendry,102,School Board,5,NOP,Jon Basquin,70
+Hendry,04,School Board,5,NOP,Rick Murphy,30
+Hendry,06,School Board,5,NOP,Rick Murphy,67
+Hendry,08,School Board,5,NOP,Rick Murphy,55
+Hendry,102,School Board,5,NOP,Rick Murphy,61
+Hendry,04,School Board,5,NOP,OverVotes,0
+Hendry,06,School Board,5,NOP,OverVotes,0
+Hendry,08,School Board,5,NOP,OverVotes,1
+Hendry,102,School Board,5,NOP,OverVotes,0
+Hendry,04,School Board,5,NOP,UnderVotes,3
+Hendry,06,School Board,5,NOP,UnderVotes,2
+Hendry,08,School Board,5,NOP,UnderVotes,5
+Hendry,102,School Board,5,NOP,UnderVotes,6
+Hendry,07,Hendry County Hospital Authority,4,NOP,Ramon Leonard Carroll Jr,231
+Hendry,09,Hendry County Hospital Authority,4,NOP,Ramon Leonard Carroll Jr,104
+Hendry,101,Hendry County Hospital Authority,4,NOP,Ramon Leonard Carroll Jr,22
+Hendry,07,Hendry County Hospital Authority,4,NOP,Elaine Wood,573
+Hendry,09,Hendry County Hospital Authority,4,NOP,Elaine Wood,230
+Hendry,101,Hendry County Hospital Authority,4,NOP,Elaine Wood,49
+Hendry,07,Hendry County Hospital Authority,4,NOP,OverVotes,0
+Hendry,09,Hendry County Hospital Authority,4,NOP,OverVotes,0
+Hendry,101,Hendry County Hospital Authority,4,NOP,OverVotes,0
+Hendry,07,Hendry County Hospital Authority,4,NOP,UnderVotes,11
+Hendry,09,Hendry County Hospital Authority,4,NOP,UnderVotes,18
+Hendry,101,Hendry County Hospital Authority,4,NOP,UnderVotes,8
+Hendry,01,Registered Voters,"","","",3470
+Hendry,02,Registered Voters,"","","",4134
+Hendry,03,Registered Voters,"","","",3002
+Hendry,04,Registered Voters,"","","",297
+Hendry,05,Registered Voters,"","","",424
+Hendry,06,Registered Voters,"","","",1622
+Hendry,07,Registered Voters,"","","",1865
+Hendry,08,Registered Voters,"","","",672
+Hendry,09,Registered Voters,"","","",2266
+Hendry,101,Registered Voters,"","","",530
+Hendry,102,Registered Voters,"","","",1001

@@ -1,0 +1,493 @@
+county,precinct,office,district,party,candidate,votes
+Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,Ricardo De La Fuente,10
+Wakulla,02 Crawfordville,U.S. Senate,"",DEM,Ricardo De La Fuente,29
+Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Wakulla,04 Smith Creek,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Wakulla,05 St. Marks,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Wakulla,06 Medart,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Wakulla,07 Ivan,U.S. Senate,"",DEM,Ricardo De La Fuente,14
+Wakulla,08 Shell Point,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Wakulla,09 Panacea,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Wakulla,10 Ochlockonee Bay,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Wakulla,11 Bethel Church,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Wakulla,12 Shadeville,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,Val Demings,283
+Wakulla,02 Crawfordville,U.S. Senate,"",DEM,Val Demings,485
+Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,Val Demings,145
+Wakulla,04 Smith Creek,U.S. Senate,"",DEM,Val Demings,6
+Wakulla,05 St. Marks,U.S. Senate,"",DEM,Val Demings,31
+Wakulla,06 Medart,U.S. Senate,"",DEM,Val Demings,102
+Wakulla,07 Ivan,U.S. Senate,"",DEM,Val Demings,294
+Wakulla,08 Shell Point,U.S. Senate,"",DEM,Val Demings,110
+Wakulla,09 Panacea,U.S. Senate,"",DEM,Val Demings,28
+Wakulla,10 Ochlockonee Bay,U.S. Senate,"",DEM,Val Demings,46
+Wakulla,11 Bethel Church,U.S. Senate,"",DEM,Val Demings,210
+Wakulla,12 Shadeville,U.S. Senate,"",DEM,Val Demings,234
+Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,Brian Rush,44
+Wakulla,02 Crawfordville,U.S. Senate,"",DEM,Brian Rush,80
+Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,Brian Rush,34
+Wakulla,04 Smith Creek,U.S. Senate,"",DEM,Brian Rush,8
+Wakulla,05 St. Marks,U.S. Senate,"",DEM,Brian Rush,2
+Wakulla,06 Medart,U.S. Senate,"",DEM,Brian Rush,16
+Wakulla,07 Ivan,U.S. Senate,"",DEM,Brian Rush,62
+Wakulla,08 Shell Point,U.S. Senate,"",DEM,Brian Rush,13
+Wakulla,09 Panacea,U.S. Senate,"",DEM,Brian Rush,8
+Wakulla,10 Ochlockonee Bay,U.S. Senate,"",DEM,Brian Rush,9
+Wakulla,11 Bethel Church,U.S. Senate,"",DEM,Brian Rush,27
+Wakulla,12 Shadeville,U.S. Senate,"",DEM,Brian Rush,26
+Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,William Sanchez,21
+Wakulla,02 Crawfordville,U.S. Senate,"",DEM,William Sanchez,55
+Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,William Sanchez,12
+Wakulla,04 Smith Creek,U.S. Senate,"",DEM,William Sanchez,2
+Wakulla,05 St. Marks,U.S. Senate,"",DEM,William Sanchez,0
+Wakulla,06 Medart,U.S. Senate,"",DEM,William Sanchez,17
+Wakulla,07 Ivan,U.S. Senate,"",DEM,William Sanchez,42
+Wakulla,08 Shell Point,U.S. Senate,"",DEM,William Sanchez,10
+Wakulla,09 Panacea,U.S. Senate,"",DEM,William Sanchez,8
+Wakulla,10 Ochlockonee Bay,U.S. Senate,"",DEM,William Sanchez,4
+Wakulla,11 Bethel Church,U.S. Senate,"",DEM,William Sanchez,16
+Wakulla,12 Shadeville,U.S. Senate,"",DEM,William Sanchez,25
+Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,02 Crawfordville,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,04 Smith Creek,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,05 St. Marks,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,06 Medart,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,07 Ivan,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,08 Shell Point,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,09 Panacea,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,10 Ochlockonee Bay,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,11 Bethel Church,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,12 Shadeville,U.S. Senate,"",DEM,OverVotes,0
+Wakulla,01 Wakulla Station,U.S. Senate,"",DEM,UnderVotes,19
+Wakulla,02 Crawfordville,U.S. Senate,"",DEM,UnderVotes,50
+Wakulla,03 Sopchoppy,U.S. Senate,"",DEM,UnderVotes,21
+Wakulla,04 Smith Creek,U.S. Senate,"",DEM,UnderVotes,0
+Wakulla,05 St. Marks,U.S. Senate,"",DEM,UnderVotes,0
+Wakulla,06 Medart,U.S. Senate,"",DEM,UnderVotes,9
+Wakulla,07 Ivan,U.S. Senate,"",DEM,UnderVotes,18
+Wakulla,08 Shell Point,U.S. Senate,"",DEM,UnderVotes,2
+Wakulla,09 Panacea,U.S. Senate,"",DEM,UnderVotes,4
+Wakulla,10 Ochlockonee Bay,U.S. Senate,"",DEM,UnderVotes,3
+Wakulla,11 Bethel Church,U.S. Senate,"",DEM,UnderVotes,6
+Wakulla,12 Shadeville,U.S. Senate,"",DEM,UnderVotes,9
+Wakulla,01 Wakulla Station,Governor,"",DEM,Charlie Crist,231
+Wakulla,02 Crawfordville,Governor,"",DEM,Charlie Crist,367
+Wakulla,03 Sopchoppy,Governor,"",DEM,Charlie Crist,114
+Wakulla,04 Smith Creek,Governor,"",DEM,Charlie Crist,10
+Wakulla,05 St. Marks,Governor,"",DEM,Charlie Crist,20
+Wakulla,06 Medart,Governor,"",DEM,Charlie Crist,64
+Wakulla,07 Ivan,Governor,"",DEM,Charlie Crist,220
+Wakulla,08 Shell Point,Governor,"",DEM,Charlie Crist,66
+Wakulla,09 Panacea,Governor,"",DEM,Charlie Crist,28
+Wakulla,10 Ochlockonee Bay,Governor,"",DEM,Charlie Crist,39
+Wakulla,11 Bethel Church,Governor,"",DEM,Charlie Crist,153
+Wakulla,12 Shadeville,Governor,"",DEM,Charlie Crist,153
+Wakulla,01 Wakulla Station,Governor,"",DEM,Cadance Daniel,5
+Wakulla,02 Crawfordville,Governor,"",DEM,Cadance Daniel,23
+Wakulla,03 Sopchoppy,Governor,"",DEM,Cadance Daniel,7
+Wakulla,04 Smith Creek,Governor,"",DEM,Cadance Daniel,2
+Wakulla,05 St. Marks,Governor,"",DEM,Cadance Daniel,0
+Wakulla,06 Medart,Governor,"",DEM,Cadance Daniel,7
+Wakulla,07 Ivan,Governor,"",DEM,Cadance Daniel,17
+Wakulla,08 Shell Point,Governor,"",DEM,Cadance Daniel,5
+Wakulla,09 Panacea,Governor,"",DEM,Cadance Daniel,3
+Wakulla,10 Ochlockonee Bay,Governor,"",DEM,Cadance Daniel,1
+Wakulla,11 Bethel Church,Governor,"",DEM,Cadance Daniel,8
+Wakulla,12 Shadeville,Governor,"",DEM,Cadance Daniel,4
+Wakulla,01 Wakulla Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",115
+Wakulla,02 Crawfordville,Governor,"",DEM,"Nicole ""Nikki"" Fried",251
+Wakulla,03 Sopchoppy,Governor,"",DEM,"Nicole ""Nikki"" Fried",69
+Wakulla,04 Smith Creek,Governor,"",DEM,"Nicole ""Nikki"" Fried",2
+Wakulla,05 St. Marks,Governor,"",DEM,"Nicole ""Nikki"" Fried",12
+Wakulla,06 Medart,Governor,"",DEM,"Nicole ""Nikki"" Fried",57
+Wakulla,07 Ivan,Governor,"",DEM,"Nicole ""Nikki"" Fried",147
+Wakulla,08 Shell Point,Governor,"",DEM,"Nicole ""Nikki"" Fried",59
+Wakulla,09 Panacea,Governor,"",DEM,"Nicole ""Nikki"" Fried",12
+Wakulla,10 Ochlockonee Bay,Governor,"",DEM,"Nicole ""Nikki"" Fried",18
+Wakulla,11 Bethel Church,Governor,"",DEM,"Nicole ""Nikki"" Fried",89
+Wakulla,12 Shadeville,Governor,"",DEM,"Nicole ""Nikki"" Fried",124
+Wakulla,01 Wakulla Station,Governor,"",DEM,Robert L. Willis,12
+Wakulla,02 Crawfordville,Governor,"",DEM,Robert L. Willis,32
+Wakulla,03 Sopchoppy,Governor,"",DEM,Robert L. Willis,14
+Wakulla,04 Smith Creek,Governor,"",DEM,Robert L. Willis,3
+Wakulla,05 St. Marks,Governor,"",DEM,Robert L. Willis,1
+Wakulla,06 Medart,Governor,"",DEM,Robert L. Willis,13
+Wakulla,07 Ivan,Governor,"",DEM,Robert L. Willis,32
+Wakulla,08 Shell Point,Governor,"",DEM,Robert L. Willis,6
+Wakulla,09 Panacea,Governor,"",DEM,Robert L. Willis,5
+Wakulla,10 Ochlockonee Bay,Governor,"",DEM,Robert L. Willis,5
+Wakulla,11 Bethel Church,Governor,"",DEM,Robert L. Willis,9
+Wakulla,12 Shadeville,Governor,"",DEM,Robert L. Willis,18
+Wakulla,01 Wakulla Station,Governor,"",DEM,OverVotes,0
+Wakulla,02 Crawfordville,Governor,"",DEM,OverVotes,1
+Wakulla,03 Sopchoppy,Governor,"",DEM,OverVotes,0
+Wakulla,04 Smith Creek,Governor,"",DEM,OverVotes,0
+Wakulla,05 St. Marks,Governor,"",DEM,OverVotes,0
+Wakulla,06 Medart,Governor,"",DEM,OverVotes,2
+Wakulla,07 Ivan,Governor,"",DEM,OverVotes,0
+Wakulla,08 Shell Point,Governor,"",DEM,OverVotes,1
+Wakulla,09 Panacea,Governor,"",DEM,OverVotes,0
+Wakulla,10 Ochlockonee Bay,Governor,"",DEM,OverVotes,0
+Wakulla,11 Bethel Church,Governor,"",DEM,OverVotes,1
+Wakulla,12 Shadeville,Governor,"",DEM,OverVotes,1
+Wakulla,01 Wakulla Station,Governor,"",DEM,UnderVotes,14
+Wakulla,02 Crawfordville,Governor,"",DEM,UnderVotes,25
+Wakulla,03 Sopchoppy,Governor,"",DEM,UnderVotes,11
+Wakulla,04 Smith Creek,Governor,"",DEM,UnderVotes,0
+Wakulla,05 St. Marks,Governor,"",DEM,UnderVotes,0
+Wakulla,06 Medart,Governor,"",DEM,UnderVotes,5
+Wakulla,07 Ivan,Governor,"",DEM,UnderVotes,14
+Wakulla,08 Shell Point,Governor,"",DEM,UnderVotes,4
+Wakulla,09 Panacea,Governor,"",DEM,UnderVotes,3
+Wakulla,10 Ochlockonee Bay,Governor,"",DEM,UnderVotes,0
+Wakulla,11 Bethel Church,Governor,"",DEM,UnderVotes,2
+Wakulla,12 Shadeville,Governor,"",DEM,UnderVotes,5
+Wakulla,01 Wakulla Station,Attorney General,"",DEM,Aramis Ayala,120
+Wakulla,02 Crawfordville,Attorney General,"",DEM,Aramis Ayala,249
+Wakulla,03 Sopchoppy,Attorney General,"",DEM,Aramis Ayala,57
+Wakulla,04 Smith Creek,Attorney General,"",DEM,Aramis Ayala,1
+Wakulla,05 St. Marks,Attorney General,"",DEM,Aramis Ayala,7
+Wakulla,06 Medart,Attorney General,"",DEM,Aramis Ayala,55
+Wakulla,07 Ivan,Attorney General,"",DEM,Aramis Ayala,139
+Wakulla,08 Shell Point,Attorney General,"",DEM,Aramis Ayala,38
+Wakulla,09 Panacea,Attorney General,"",DEM,Aramis Ayala,18
+Wakulla,10 Ochlockonee Bay,Attorney General,"",DEM,Aramis Ayala,11
+Wakulla,11 Bethel Church,Attorney General,"",DEM,Aramis Ayala,97
+Wakulla,12 Shadeville,Attorney General,"",DEM,Aramis Ayala,100
+Wakulla,01 Wakulla Station,Attorney General,"",DEM,Jim Lewis,103
+Wakulla,02 Crawfordville,Attorney General,"",DEM,Jim Lewis,214
+Wakulla,03 Sopchoppy,Attorney General,"",DEM,Jim Lewis,71
+Wakulla,04 Smith Creek,Attorney General,"",DEM,Jim Lewis,12
+Wakulla,05 St. Marks,Attorney General,"",DEM,Jim Lewis,5
+Wakulla,06 Medart,Attorney General,"",DEM,Jim Lewis,40
+Wakulla,07 Ivan,Attorney General,"",DEM,Jim Lewis,162
+Wakulla,08 Shell Point,Attorney General,"",DEM,Jim Lewis,29
+Wakulla,09 Panacea,Attorney General,"",DEM,Jim Lewis,16
+Wakulla,10 Ochlockonee Bay,Attorney General,"",DEM,Jim Lewis,25
+Wakulla,11 Bethel Church,Attorney General,"",DEM,Jim Lewis,77
+Wakulla,12 Shadeville,Attorney General,"",DEM,Jim Lewis,108
+Wakulla,01 Wakulla Station,Attorney General,"",DEM,Daniel Uhlfelder,118
+Wakulla,02 Crawfordville,Attorney General,"",DEM,Daniel Uhlfelder,154
+Wakulla,03 Sopchoppy,Attorney General,"",DEM,Daniel Uhlfelder,55
+Wakulla,04 Smith Creek,Attorney General,"",DEM,Daniel Uhlfelder,3
+Wakulla,05 St. Marks,Attorney General,"",DEM,Daniel Uhlfelder,18
+Wakulla,06 Medart,Attorney General,"",DEM,Daniel Uhlfelder,38
+Wakulla,07 Ivan,Attorney General,"",DEM,Daniel Uhlfelder,104
+Wakulla,08 Shell Point,Attorney General,"",DEM,Daniel Uhlfelder,65
+Wakulla,09 Panacea,Attorney General,"",DEM,Daniel Uhlfelder,13
+Wakulla,10 Ochlockonee Bay,Attorney General,"",DEM,Daniel Uhlfelder,25
+Wakulla,11 Bethel Church,Attorney General,"",DEM,Daniel Uhlfelder,76
+Wakulla,12 Shadeville,Attorney General,"",DEM,Daniel Uhlfelder,75
+Wakulla,01 Wakulla Station,Attorney General,"",DEM,OverVotes,0
+Wakulla,02 Crawfordville,Attorney General,"",DEM,OverVotes,0
+Wakulla,03 Sopchoppy,Attorney General,"",DEM,OverVotes,0
+Wakulla,04 Smith Creek,Attorney General,"",DEM,OverVotes,0
+Wakulla,05 St. Marks,Attorney General,"",DEM,OverVotes,0
+Wakulla,06 Medart,Attorney General,"",DEM,OverVotes,0
+Wakulla,07 Ivan,Attorney General,"",DEM,OverVotes,0
+Wakulla,08 Shell Point,Attorney General,"",DEM,OverVotes,0
+Wakulla,09 Panacea,Attorney General,"",DEM,OverVotes,0
+Wakulla,10 Ochlockonee Bay,Attorney General,"",DEM,OverVotes,0
+Wakulla,11 Bethel Church,Attorney General,"",DEM,OverVotes,0
+Wakulla,12 Shadeville,Attorney General,"",DEM,OverVotes,0
+Wakulla,01 Wakulla Station,Attorney General,"",DEM,UnderVotes,36
+Wakulla,02 Crawfordville,Attorney General,"",DEM,UnderVotes,82
+Wakulla,03 Sopchoppy,Attorney General,"",DEM,UnderVotes,32
+Wakulla,04 Smith Creek,Attorney General,"",DEM,UnderVotes,1
+Wakulla,05 St. Marks,Attorney General,"",DEM,UnderVotes,3
+Wakulla,06 Medart,Attorney General,"",DEM,UnderVotes,15
+Wakulla,07 Ivan,Attorney General,"",DEM,UnderVotes,25
+Wakulla,08 Shell Point,Attorney General,"",DEM,UnderVotes,9
+Wakulla,09 Panacea,Attorney General,"",DEM,UnderVotes,4
+Wakulla,10 Ochlockonee Bay,Attorney General,"",DEM,UnderVotes,2
+Wakulla,11 Bethel Church,Attorney General,"",DEM,UnderVotes,12
+Wakulla,12 Shadeville,Attorney General,"",DEM,UnderVotes,22
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",REP,James W. Shaw,143
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",REP,James W. Shaw,282
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",REP,James W. Shaw,93
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",REP,James W. Shaw,19
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",REP,James W. Shaw,14
+Wakulla,06 Medart,Commissioner of Agriculture,"",REP,James W. Shaw,91
+Wakulla,07 Ivan,Commissioner of Agriculture,"",REP,James W. Shaw,183
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",REP,James W. Shaw,45
+Wakulla,09 Panacea,Commissioner of Agriculture,"",REP,James W. Shaw,41
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",REP,James W. Shaw,19
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",REP,James W. Shaw,87
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",REP,James W. Shaw,98
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",REP,Wilton Simpson,291
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",REP,Wilton Simpson,614
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",REP,Wilton Simpson,196
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",REP,Wilton Simpson,64
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",REP,Wilton Simpson,46
+Wakulla,06 Medart,Commissioner of Agriculture,"",REP,Wilton Simpson,237
+Wakulla,07 Ivan,Commissioner of Agriculture,"",REP,Wilton Simpson,399
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",REP,Wilton Simpson,113
+Wakulla,09 Panacea,Commissioner of Agriculture,"",REP,Wilton Simpson,57
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",REP,Wilton Simpson,84
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",REP,Wilton Simpson,187
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",REP,Wilton Simpson,196
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",REP,OverVotes,1
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,06 Medart,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,07 Ivan,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,09 Panacea,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",REP,OverVotes,0
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",REP,UnderVotes,11
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",REP,UnderVotes,40
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",REP,UnderVotes,16
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",REP,UnderVotes,5
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",REP,UnderVotes,1
+Wakulla,06 Medart,Commissioner of Agriculture,"",REP,UnderVotes,17
+Wakulla,07 Ivan,Commissioner of Agriculture,"",REP,UnderVotes,21
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",REP,UnderVotes,8
+Wakulla,09 Panacea,Commissioner of Agriculture,"",REP,UnderVotes,2
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",REP,UnderVotes,2
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",REP,UnderVotes,6
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",REP,UnderVotes,16
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,137
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,241
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,62
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,4
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,14
+Wakulla,06 Medart,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,64
+Wakulla,07 Ivan,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,150
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,38
+Wakulla,09 Panacea,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,117
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,73
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",DEM,J. R. Gaillot,145
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",DEM,J. R. Gaillot,43
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Wakulla,06 Medart,Commissioner of Agriculture,"",DEM,J. R. Gaillot,17
+Wakulla,07 Ivan,Commissioner of Agriculture,"",DEM,J. R. Gaillot,93
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",DEM,J. R. Gaillot,28
+Wakulla,09 Panacea,Commissioner of Agriculture,"",DEM,J. R. Gaillot,7
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",DEM,J. R. Gaillot,52
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",DEM,J. R. Gaillot,55
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",DEM,Ryan Morales,127
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",DEM,Ryan Morales,216
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",DEM,Ryan Morales,72
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",DEM,Ryan Morales,8
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",DEM,Ryan Morales,8
+Wakulla,06 Medart,Commissioner of Agriculture,"",DEM,Ryan Morales,54
+Wakulla,07 Ivan,Commissioner of Agriculture,"",DEM,Ryan Morales,155
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",DEM,Ryan Morales,57
+Wakulla,09 Panacea,Commissioner of Agriculture,"",DEM,Ryan Morales,15
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",DEM,Ryan Morales,21
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",DEM,Ryan Morales,87
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",DEM,Ryan Morales,110
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,06 Medart,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,07 Ivan,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,09 Panacea,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",DEM,OverVotes,0
+Wakulla,01 Wakulla Station,Commissioner of Agriculture,"",DEM,UnderVotes,40
+Wakulla,02 Crawfordville,Commissioner of Agriculture,"",DEM,UnderVotes,97
+Wakulla,03 Sopchoppy,Commissioner of Agriculture,"",DEM,UnderVotes,38
+Wakulla,04 Smith Creek,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Wakulla,05 St. Marks,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Wakulla,06 Medart,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Wakulla,07 Ivan,Commissioner of Agriculture,"",DEM,UnderVotes,32
+Wakulla,08 Shell Point,Commissioner of Agriculture,"",DEM,UnderVotes,18
+Wakulla,09 Panacea,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Wakulla,10 Ochlockonee Bay,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Wakulla,11 Bethel Church,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Wakulla,12 Shadeville,Commissioner of Agriculture,"",DEM,UnderVotes,23
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",168
+Wakulla,02 Crawfordville,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",233
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",46
+Wakulla,04 Smith Creek,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",6
+Wakulla,05 St. Marks,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",14
+Wakulla,06 Medart,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",62
+Wakulla,07 Ivan,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",167
+Wakulla,08 Shell Point,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",53
+Wakulla,09 Panacea,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",32
+Wakulla,10 Ochlockonee Bay,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",23
+Wakulla,11 Bethel Church,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",95
+Wakulla,12 Shadeville,County Court Judge,Group 1,NOP,"Roseanna ""Rose"" Bronhard",132
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,NOP,Eddie Evans,263
+Wakulla,02 Crawfordville,County Court Judge,Group 1,NOP,Eddie Evans,630
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,NOP,Eddie Evans,330
+Wakulla,04 Smith Creek,County Court Judge,Group 1,NOP,Eddie Evans,28
+Wakulla,05 St. Marks,County Court Judge,Group 1,NOP,Eddie Evans,39
+Wakulla,06 Medart,County Court Judge,Group 1,NOP,Eddie Evans,202
+Wakulla,07 Ivan,County Court Judge,Group 1,NOP,Eddie Evans,434
+Wakulla,08 Shell Point,County Court Judge,Group 1,NOP,Eddie Evans,98
+Wakulla,09 Panacea,County Court Judge,Group 1,NOP,Eddie Evans,55
+Wakulla,10 Ochlockonee Bay,County Court Judge,Group 1,NOP,Eddie Evans,56
+Wakulla,11 Bethel Church,County Court Judge,Group 1,NOP,Eddie Evans,214
+Wakulla,12 Shadeville,County Court Judge,Group 1,NOP,Eddie Evans,241
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,NOP,Brian Miller,424
+Wakulla,02 Crawfordville,County Court Judge,Group 1,NOP,Brian Miller,869
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,NOP,Brian Miller,169
+Wakulla,04 Smith Creek,County Court Judge,Group 1,NOP,Brian Miller,79
+Wakulla,05 St. Marks,County Court Judge,Group 1,NOP,Brian Miller,51
+Wakulla,06 Medart,County Court Judge,Group 1,NOP,Brian Miller,238
+Wakulla,07 Ivan,County Court Judge,Group 1,NOP,Brian Miller,482
+Wakulla,08 Shell Point,County Court Judge,Group 1,NOP,Brian Miller,175
+Wakulla,09 Panacea,County Court Judge,Group 1,NOP,Brian Miller,77
+Wakulla,10 Ochlockonee Bay,County Court Judge,Group 1,NOP,Brian Miller,102
+Wakulla,11 Bethel Church,County Court Judge,Group 1,NOP,Brian Miller,251
+Wakulla,12 Shadeville,County Court Judge,Group 1,NOP,Brian Miller,292
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,02 Crawfordville,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,04 Smith Creek,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,05 St. Marks,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,06 Medart,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,07 Ivan,County Court Judge,Group 1,NOP,OverVotes,1
+Wakulla,08 Shell Point,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,09 Panacea,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,10 Ochlockonee Bay,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,11 Bethel Church,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,12 Shadeville,County Court Judge,Group 1,NOP,OverVotes,0
+Wakulla,01 Wakulla Station,County Court Judge,Group 1,NOP,UnderVotes,38
+Wakulla,02 Crawfordville,County Court Judge,Group 1,NOP,UnderVotes,35
+Wakulla,03 Sopchoppy,County Court Judge,Group 1,NOP,UnderVotes,8
+Wakulla,04 Smith Creek,County Court Judge,Group 1,NOP,UnderVotes,1
+Wakulla,05 St. Marks,County Court Judge,Group 1,NOP,UnderVotes,1
+Wakulla,06 Medart,County Court Judge,Group 1,NOP,UnderVotes,15
+Wakulla,07 Ivan,County Court Judge,Group 1,NOP,UnderVotes,29
+Wakulla,08 Shell Point,County Court Judge,Group 1,NOP,UnderVotes,8
+Wakulla,09 Panacea,County Court Judge,Group 1,NOP,UnderVotes,3
+Wakulla,10 Ochlockonee Bay,County Court Judge,Group 1,NOP,UnderVotes,2
+Wakulla,11 Bethel Church,County Court Judge,Group 1,NOP,UnderVotes,21
+Wakulla,12 Shadeville,County Court Judge,Group 1,NOP,UnderVotes,16
+Wakulla,01 Wakulla Station,School Board,1,NOP,Eddie Hand,219
+Wakulla,02 Crawfordville,School Board,1,NOP,Eddie Hand,566
+Wakulla,03 Sopchoppy,School Board,1,NOP,Eddie Hand,154
+Wakulla,04 Smith Creek,School Board,1,NOP,Eddie Hand,44
+Wakulla,05 St. Marks,School Board,1,NOP,Eddie Hand,25
+Wakulla,06 Medart,School Board,1,NOP,Eddie Hand,162
+Wakulla,07 Ivan,School Board,1,NOP,Eddie Hand,352
+Wakulla,08 Shell Point,School Board,1,NOP,Eddie Hand,102
+Wakulla,09 Panacea,School Board,1,NOP,Eddie Hand,48
+Wakulla,10 Ochlockonee Bay,School Board,1,NOP,Eddie Hand,79
+Wakulla,11 Bethel Church,School Board,1,NOP,Eddie Hand,184
+Wakulla,12 Shadeville,School Board,1,NOP,Eddie Hand,217
+Wakulla,01 Wakulla Station,School Board,1,NOP,Gwendolyn Manning Staten,298
+Wakulla,02 Crawfordville,School Board,1,NOP,Gwendolyn Manning Staten,473
+Wakulla,03 Sopchoppy,School Board,1,NOP,Gwendolyn Manning Staten,181
+Wakulla,04 Smith Creek,School Board,1,NOP,Gwendolyn Manning Staten,14
+Wakulla,05 St. Marks,School Board,1,NOP,Gwendolyn Manning Staten,32
+Wakulla,06 Medart,School Board,1,NOP,Gwendolyn Manning Staten,140
+Wakulla,07 Ivan,School Board,1,NOP,Gwendolyn Manning Staten,307
+Wakulla,08 Shell Point,School Board,1,NOP,Gwendolyn Manning Staten,117
+Wakulla,09 Panacea,School Board,1,NOP,Gwendolyn Manning Staten,30
+Wakulla,10 Ochlockonee Bay,School Board,1,NOP,Gwendolyn Manning Staten,38
+Wakulla,11 Bethel Church,School Board,1,NOP,Gwendolyn Manning Staten,199
+Wakulla,12 Shadeville,School Board,1,NOP,Gwendolyn Manning Staten,253
+Wakulla,01 Wakulla Station,School Board,1,NOP,Dod Walker,336
+Wakulla,02 Crawfordville,School Board,1,NOP,Dod Walker,662
+Wakulla,03 Sopchoppy,School Board,1,NOP,Dod Walker,192
+Wakulla,04 Smith Creek,School Board,1,NOP,Dod Walker,47
+Wakulla,05 St. Marks,School Board,1,NOP,Dod Walker,47
+Wakulla,06 Medart,School Board,1,NOP,Dod Walker,190
+Wakulla,07 Ivan,School Board,1,NOP,Dod Walker,417
+Wakulla,08 Shell Point,School Board,1,NOP,Dod Walker,94
+Wakulla,09 Panacea,School Board,1,NOP,Dod Walker,86
+Wakulla,10 Ochlockonee Bay,School Board,1,NOP,Dod Walker,58
+Wakulla,11 Bethel Church,School Board,1,NOP,Dod Walker,174
+Wakulla,12 Shadeville,School Board,1,NOP,Dod Walker,192
+Wakulla,01 Wakulla Station,School Board,1,NOP,OverVotes,0
+Wakulla,02 Crawfordville,School Board,1,NOP,OverVotes,0
+Wakulla,03 Sopchoppy,School Board,1,NOP,OverVotes,0
+Wakulla,04 Smith Creek,School Board,1,NOP,OverVotes,0
+Wakulla,05 St. Marks,School Board,1,NOP,OverVotes,0
+Wakulla,06 Medart,School Board,1,NOP,OverVotes,0
+Wakulla,07 Ivan,School Board,1,NOP,OverVotes,0
+Wakulla,08 Shell Point,School Board,1,NOP,OverVotes,0
+Wakulla,09 Panacea,School Board,1,NOP,OverVotes,0
+Wakulla,10 Ochlockonee Bay,School Board,1,NOP,OverVotes,0
+Wakulla,11 Bethel Church,School Board,1,NOP,OverVotes,0
+Wakulla,12 Shadeville,School Board,1,NOP,OverVotes,0
+Wakulla,01 Wakulla Station,School Board,1,NOP,UnderVotes,40
+Wakulla,02 Crawfordville,School Board,1,NOP,UnderVotes,66
+Wakulla,03 Sopchoppy,School Board,1,NOP,UnderVotes,26
+Wakulla,04 Smith Creek,School Board,1,NOP,UnderVotes,9
+Wakulla,05 St. Marks,School Board,1,NOP,UnderVotes,1
+Wakulla,06 Medart,School Board,1,NOP,UnderVotes,25
+Wakulla,07 Ivan,School Board,1,NOP,UnderVotes,37
+Wakulla,08 Shell Point,School Board,1,NOP,UnderVotes,21
+Wakulla,09 Panacea,School Board,1,NOP,UnderVotes,3
+Wakulla,10 Ochlockonee Bay,School Board,1,NOP,UnderVotes,8
+Wakulla,11 Bethel Church,School Board,1,NOP,UnderVotes,24
+Wakulla,12 Shadeville,School Board,1,NOP,UnderVotes,19
+Wakulla,01 Wakulla Station,School Board,5,NOP,Jo Ann Daniels,399
+Wakulla,02 Crawfordville,School Board,5,NOP,Jo Ann Daniels,783
+Wakulla,03 Sopchoppy,School Board,5,NOP,Jo Ann Daniels,165
+Wakulla,04 Smith Creek,School Board,5,NOP,Jo Ann Daniels,38
+Wakulla,05 St. Marks,School Board,5,NOP,Jo Ann Daniels,52
+Wakulla,06 Medart,School Board,5,NOP,Jo Ann Daniels,212
+Wakulla,07 Ivan,School Board,5,NOP,Jo Ann Daniels,520
+Wakulla,08 Shell Point,School Board,5,NOP,Jo Ann Daniels,157
+Wakulla,09 Panacea,School Board,5,NOP,Jo Ann Daniels,88
+Wakulla,10 Ochlockonee Bay,School Board,5,NOP,Jo Ann Daniels,91
+Wakulla,11 Bethel Church,School Board,5,NOP,Jo Ann Daniels,257
+Wakulla,12 Shadeville,School Board,5,NOP,Jo Ann Daniels,297
+Wakulla,01 Wakulla Station,School Board,5,NOP,Laura Lawhon,452
+Wakulla,02 Crawfordville,School Board,5,NOP,Laura Lawhon,930
+Wakulla,03 Sopchoppy,School Board,5,NOP,Laura Lawhon,378
+Wakulla,04 Smith Creek,School Board,5,NOP,Laura Lawhon,72
+Wakulla,05 St. Marks,School Board,5,NOP,Laura Lawhon,53
+Wakulla,06 Medart,School Board,5,NOP,Laura Lawhon,293
+Wakulla,07 Ivan,School Board,5,NOP,Laura Lawhon,560
+Wakulla,08 Shell Point,School Board,5,NOP,Laura Lawhon,161
+Wakulla,09 Panacea,School Board,5,NOP,Laura Lawhon,76
+Wakulla,10 Ochlockonee Bay,School Board,5,NOP,Laura Lawhon,89
+Wakulla,11 Bethel Church,School Board,5,NOP,Laura Lawhon,298
+Wakulla,12 Shadeville,School Board,5,NOP,Laura Lawhon,365
+Wakulla,01 Wakulla Station,School Board,5,NOP,OverVotes,0
+Wakulla,02 Crawfordville,School Board,5,NOP,OverVotes,0
+Wakulla,03 Sopchoppy,School Board,5,NOP,OverVotes,0
+Wakulla,04 Smith Creek,School Board,5,NOP,OverVotes,0
+Wakulla,05 St. Marks,School Board,5,NOP,OverVotes,0
+Wakulla,06 Medart,School Board,5,NOP,OverVotes,0
+Wakulla,07 Ivan,School Board,5,NOP,OverVotes,0
+Wakulla,08 Shell Point,School Board,5,NOP,OverVotes,0
+Wakulla,09 Panacea,School Board,5,NOP,OverVotes,0
+Wakulla,10 Ochlockonee Bay,School Board,5,NOP,OverVotes,0
+Wakulla,11 Bethel Church,School Board,5,NOP,OverVotes,0
+Wakulla,12 Shadeville,School Board,5,NOP,OverVotes,0
+Wakulla,01 Wakulla Station,School Board,5,NOP,UnderVotes,42
+Wakulla,02 Crawfordville,School Board,5,NOP,UnderVotes,54
+Wakulla,03 Sopchoppy,School Board,5,NOP,UnderVotes,10
+Wakulla,04 Smith Creek,School Board,5,NOP,UnderVotes,4
+Wakulla,05 St. Marks,School Board,5,NOP,UnderVotes,0
+Wakulla,06 Medart,School Board,5,NOP,UnderVotes,12
+Wakulla,07 Ivan,School Board,5,NOP,UnderVotes,33
+Wakulla,08 Shell Point,School Board,5,NOP,UnderVotes,16
+Wakulla,09 Panacea,School Board,5,NOP,UnderVotes,3
+Wakulla,10 Ochlockonee Bay,School Board,5,NOP,UnderVotes,3
+Wakulla,11 Bethel Church,School Board,5,NOP,UnderVotes,26
+Wakulla,12 Shadeville,School Board,5,NOP,UnderVotes,19
+Wakulla,01 Wakulla Station,Registered Voters,"","","",2871
+Wakulla,02 Crawfordville,Registered Voters,"","","",6297
+Wakulla,03 Sopchoppy,Registered Voters,"","","",1403
+Wakulla,04 Smith Creek,Registered Voters,"","","",218
+Wakulla,05 St. Marks,Registered Voters,"","","",377
+Wakulla,06 Medart,Registered Voters,"","","",1661
+Wakulla,07 Ivan,Registered Voters,"","","",3740
+Wakulla,08 Shell Point,Registered Voters,"","","",920
+Wakulla,09 Panacea,Registered Voters,"","","",630
+Wakulla,10 Ochlockonee Bay,Registered Voters,"","","",512
+Wakulla,11 Bethel Church,Registered Voters,"","","",1986
+Wakulla,12 Shadeville,Registered Voters,"","","",2640

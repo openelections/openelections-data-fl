@@ -1,0 +1,599 @@
+county,precinct,office,district,party,candidate,votes
+Glades,1:Doyle Conner Bldg,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Glades,3:Ortona Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Glades,5:Doyle Conner Bldg,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Glades,7:Palmdale Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Glades,9:Muse Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Glades,11:Muse Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Glades,13:Lakeport Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Glades,15:BHR Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Glades,17:Lakeport Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Glades,19:Lakeport Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Glades,21:Doyle Conner Bldg,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Glades,23:Washington Park Comm Center,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Glades,25:Indian Hills Fire Dept,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Glades,1:Doyle Conner Bldg,U.S. Senate,"",DEM,Val Demings,17
+Glades,3:Ortona Community Center,U.S. Senate,"",DEM,Val Demings,22
+Glades,5:Doyle Conner Bldg,U.S. Senate,"",DEM,Val Demings,50
+Glades,7:Palmdale Community Center,U.S. Senate,"",DEM,Val Demings,6
+Glades,9:Muse Community Center,U.S. Senate,"",DEM,Val Demings,27
+Glades,11:Muse Community Center,U.S. Senate,"",DEM,Val Demings,5
+Glades,13:Lakeport Community Center,U.S. Senate,"",DEM,Val Demings,21
+Glades,15:BHR Community Center,U.S. Senate,"",DEM,Val Demings,60
+Glades,17:Lakeport Community Center,U.S. Senate,"",DEM,Val Demings,4
+Glades,19:Lakeport Community Center,U.S. Senate,"",DEM,Val Demings,14
+Glades,21:Doyle Conner Bldg,U.S. Senate,"",DEM,Val Demings,8
+Glades,23:Washington Park Comm Center,U.S. Senate,"",DEM,Val Demings,16
+Glades,25:Indian Hills Fire Dept,U.S. Senate,"",DEM,Val Demings,37
+Glades,1:Doyle Conner Bldg,U.S. Senate,"",DEM,Brian Rush,7
+Glades,3:Ortona Community Center,U.S. Senate,"",DEM,Brian Rush,17
+Glades,5:Doyle Conner Bldg,U.S. Senate,"",DEM,Brian Rush,21
+Glades,7:Palmdale Community Center,U.S. Senate,"",DEM,Brian Rush,3
+Glades,9:Muse Community Center,U.S. Senate,"",DEM,Brian Rush,11
+Glades,11:Muse Community Center,U.S. Senate,"",DEM,Brian Rush,4
+Glades,13:Lakeport Community Center,U.S. Senate,"",DEM,Brian Rush,14
+Glades,15:BHR Community Center,U.S. Senate,"",DEM,Brian Rush,20
+Glades,17:Lakeport Community Center,U.S. Senate,"",DEM,Brian Rush,1
+Glades,19:Lakeport Community Center,U.S. Senate,"",DEM,Brian Rush,3
+Glades,21:Doyle Conner Bldg,U.S. Senate,"",DEM,Brian Rush,4
+Glades,23:Washington Park Comm Center,U.S. Senate,"",DEM,Brian Rush,4
+Glades,25:Indian Hills Fire Dept,U.S. Senate,"",DEM,Brian Rush,10
+Glades,1:Doyle Conner Bldg,U.S. Senate,"",DEM,William Sanchez,4
+Glades,3:Ortona Community Center,U.S. Senate,"",DEM,William Sanchez,2
+Glades,5:Doyle Conner Bldg,U.S. Senate,"",DEM,William Sanchez,16
+Glades,7:Palmdale Community Center,U.S. Senate,"",DEM,William Sanchez,1
+Glades,9:Muse Community Center,U.S. Senate,"",DEM,William Sanchez,2
+Glades,11:Muse Community Center,U.S. Senate,"",DEM,William Sanchez,4
+Glades,13:Lakeport Community Center,U.S. Senate,"",DEM,William Sanchez,5
+Glades,15:BHR Community Center,U.S. Senate,"",DEM,William Sanchez,7
+Glades,17:Lakeport Community Center,U.S. Senate,"",DEM,William Sanchez,1
+Glades,19:Lakeport Community Center,U.S. Senate,"",DEM,William Sanchez,1
+Glades,21:Doyle Conner Bldg,U.S. Senate,"",DEM,William Sanchez,0
+Glades,23:Washington Park Comm Center,U.S. Senate,"",DEM,William Sanchez,4
+Glades,25:Indian Hills Fire Dept,U.S. Senate,"",DEM,William Sanchez,2
+Glades,1:Doyle Conner Bldg,U.S. Senate,"",DEM,OverVotes,0
+Glades,3:Ortona Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,5:Doyle Conner Bldg,U.S. Senate,"",DEM,OverVotes,0
+Glades,7:Palmdale Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,9:Muse Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,11:Muse Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,13:Lakeport Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,15:BHR Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,17:Lakeport Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,19:Lakeport Community Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,21:Doyle Conner Bldg,U.S. Senate,"",DEM,OverVotes,0
+Glades,23:Washington Park Comm Center,U.S. Senate,"",DEM,OverVotes,0
+Glades,25:Indian Hills Fire Dept,U.S. Senate,"",DEM,OverVotes,0
+Glades,1:Doyle Conner Bldg,U.S. Senate,"",DEM,UnderVotes,4
+Glades,3:Ortona Community Center,U.S. Senate,"",DEM,UnderVotes,7
+Glades,5:Doyle Conner Bldg,U.S. Senate,"",DEM,UnderVotes,12
+Glades,7:Palmdale Community Center,U.S. Senate,"",DEM,UnderVotes,4
+Glades,9:Muse Community Center,U.S. Senate,"",DEM,UnderVotes,3
+Glades,11:Muse Community Center,U.S. Senate,"",DEM,UnderVotes,1
+Glades,13:Lakeport Community Center,U.S. Senate,"",DEM,UnderVotes,7
+Glades,15:BHR Community Center,U.S. Senate,"",DEM,UnderVotes,9
+Glades,17:Lakeport Community Center,U.S. Senate,"",DEM,UnderVotes,1
+Glades,19:Lakeport Community Center,U.S. Senate,"",DEM,UnderVotes,0
+Glades,21:Doyle Conner Bldg,U.S. Senate,"",DEM,UnderVotes,3
+Glades,23:Washington Park Comm Center,U.S. Senate,"",DEM,UnderVotes,3
+Glades,25:Indian Hills Fire Dept,U.S. Senate,"",DEM,UnderVotes,2
+Glades,1:Doyle Conner Bldg,U.S. House,18,REP,Scott Franklin,62
+Glades,3:Ortona Community Center,U.S. House,18,REP,Scott Franklin,72
+Glades,5:Doyle Conner Bldg,U.S. House,18,REP,Scott Franklin,43
+Glades,7:Palmdale Community Center,U.S. House,18,REP,Scott Franklin,31
+Glades,9:Muse Community Center,U.S. House,18,REP,Scott Franklin,84
+Glades,11:Muse Community Center,U.S. House,18,REP,Scott Franklin,31
+Glades,13:Lakeport Community Center,U.S. House,18,REP,Scott Franklin,85
+Glades,15:BHR Community Center,U.S. House,18,REP,Scott Franklin,108
+Glades,17:Lakeport Community Center,U.S. House,18,REP,Scott Franklin,15
+Glades,19:Lakeport Community Center,U.S. House,18,REP,Scott Franklin,6
+Glades,21:Doyle Conner Bldg,U.S. House,18,REP,Scott Franklin,63
+Glades,23:Washington Park Comm Center,U.S. House,18,REP,Scott Franklin,0
+Glades,25:Indian Hills Fire Dept,U.S. House,18,REP,Scott Franklin,95
+Glades,1:Doyle Conner Bldg,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",5
+Glades,3:Ortona Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",7
+Glades,5:Doyle Conner Bldg,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",12
+Glades,7:Palmdale Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",5
+Glades,9:Muse Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",11
+Glades,11:Muse Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",8
+Glades,13:Lakeport Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",17
+Glades,15:BHR Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",32
+Glades,17:Lakeport Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",2
+Glades,19:Lakeport Community Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",1
+Glades,21:Doyle Conner Bldg,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",4
+Glades,23:Washington Park Comm Center,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",0
+Glades,25:Indian Hills Fire Dept,U.S. House,18,REP,"Kenneth ""Kenny"" James Hartpence",9
+Glades,1:Doyle Conner Bldg,U.S. House,18,REP,Jennifer Raybon,18
+Glades,3:Ortona Community Center,U.S. House,18,REP,Jennifer Raybon,19
+Glades,5:Doyle Conner Bldg,U.S. House,18,REP,Jennifer Raybon,25
+Glades,7:Palmdale Community Center,U.S. House,18,REP,Jennifer Raybon,7
+Glades,9:Muse Community Center,U.S. House,18,REP,Jennifer Raybon,29
+Glades,11:Muse Community Center,U.S. House,18,REP,Jennifer Raybon,15
+Glades,13:Lakeport Community Center,U.S. House,18,REP,Jennifer Raybon,19
+Glades,15:BHR Community Center,U.S. House,18,REP,Jennifer Raybon,48
+Glades,17:Lakeport Community Center,U.S. House,18,REP,Jennifer Raybon,4
+Glades,19:Lakeport Community Center,U.S. House,18,REP,Jennifer Raybon,9
+Glades,21:Doyle Conner Bldg,U.S. House,18,REP,Jennifer Raybon,14
+Glades,23:Washington Park Comm Center,U.S. House,18,REP,Jennifer Raybon,0
+Glades,25:Indian Hills Fire Dept,U.S. House,18,REP,Jennifer Raybon,17
+Glades,1:Doyle Conner Bldg,U.S. House,18,REP,Wendy June Schmeling,3
+Glades,3:Ortona Community Center,U.S. House,18,REP,Wendy June Schmeling,6
+Glades,5:Doyle Conner Bldg,U.S. House,18,REP,Wendy June Schmeling,3
+Glades,7:Palmdale Community Center,U.S. House,18,REP,Wendy June Schmeling,4
+Glades,9:Muse Community Center,U.S. House,18,REP,Wendy June Schmeling,7
+Glades,11:Muse Community Center,U.S. House,18,REP,Wendy June Schmeling,11
+Glades,13:Lakeport Community Center,U.S. House,18,REP,Wendy June Schmeling,8
+Glades,15:BHR Community Center,U.S. House,18,REP,Wendy June Schmeling,14
+Glades,17:Lakeport Community Center,U.S. House,18,REP,Wendy June Schmeling,1
+Glades,19:Lakeport Community Center,U.S. House,18,REP,Wendy June Schmeling,0
+Glades,21:Doyle Conner Bldg,U.S. House,18,REP,Wendy June Schmeling,2
+Glades,23:Washington Park Comm Center,U.S. House,18,REP,Wendy June Schmeling,0
+Glades,25:Indian Hills Fire Dept,U.S. House,18,REP,Wendy June Schmeling,7
+Glades,1:Doyle Conner Bldg,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",18
+Glades,3:Ortona Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",9
+Glades,5:Doyle Conner Bldg,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",20
+Glades,7:Palmdale Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",3
+Glades,9:Muse Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",20
+Glades,11:Muse Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",1
+Glades,13:Lakeport Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",9
+Glades,15:BHR Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",26
+Glades,17:Lakeport Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",1
+Glades,19:Lakeport Community Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",0
+Glades,21:Doyle Conner Bldg,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",12
+Glades,23:Washington Park Comm Center,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",0
+Glades,25:Indian Hills Fire Dept,U.S. House,18,REP,"Eduardo ""Eddie"" G. Tarazona",12
+Glades,1:Doyle Conner Bldg,U.S. House,18,REP,OverVotes,0
+Glades,3:Ortona Community Center,U.S. House,18,REP,OverVotes,0
+Glades,5:Doyle Conner Bldg,U.S. House,18,REP,OverVotes,0
+Glades,7:Palmdale Community Center,U.S. House,18,REP,OverVotes,0
+Glades,9:Muse Community Center,U.S. House,18,REP,OverVotes,1
+Glades,11:Muse Community Center,U.S. House,18,REP,OverVotes,0
+Glades,13:Lakeport Community Center,U.S. House,18,REP,OverVotes,0
+Glades,15:BHR Community Center,U.S. House,18,REP,OverVotes,1
+Glades,17:Lakeport Community Center,U.S. House,18,REP,OverVotes,1
+Glades,19:Lakeport Community Center,U.S. House,18,REP,OverVotes,0
+Glades,21:Doyle Conner Bldg,U.S. House,18,REP,OverVotes,0
+Glades,23:Washington Park Comm Center,U.S. House,18,REP,OverVotes,0
+Glades,25:Indian Hills Fire Dept,U.S. House,18,REP,OverVotes,0
+Glades,1:Doyle Conner Bldg,U.S. House,18,REP,UnderVotes,17
+Glades,3:Ortona Community Center,U.S. House,18,REP,UnderVotes,12
+Glades,5:Doyle Conner Bldg,U.S. House,18,REP,UnderVotes,8
+Glades,7:Palmdale Community Center,U.S. House,18,REP,UnderVotes,6
+Glades,9:Muse Community Center,U.S. House,18,REP,UnderVotes,13
+Glades,11:Muse Community Center,U.S. House,18,REP,UnderVotes,6
+Glades,13:Lakeport Community Center,U.S. House,18,REP,UnderVotes,11
+Glades,15:BHR Community Center,U.S. House,18,REP,UnderVotes,7
+Glades,17:Lakeport Community Center,U.S. House,18,REP,UnderVotes,1
+Glades,19:Lakeport Community Center,U.S. House,18,REP,UnderVotes,0
+Glades,21:Doyle Conner Bldg,U.S. House,18,REP,UnderVotes,5
+Glades,23:Washington Park Comm Center,U.S. House,18,REP,UnderVotes,0
+Glades,25:Indian Hills Fire Dept,U.S. House,18,REP,UnderVotes,6
+Glades,1:Doyle Conner Bldg,Governor,"",DEM,Charlie Crist,6
+Glades,3:Ortona Community Center,Governor,"",DEM,Charlie Crist,24
+Glades,5:Doyle Conner Bldg,Governor,"",DEM,Charlie Crist,47
+Glades,7:Palmdale Community Center,Governor,"",DEM,Charlie Crist,6
+Glades,9:Muse Community Center,Governor,"",DEM,Charlie Crist,14
+Glades,11:Muse Community Center,Governor,"",DEM,Charlie Crist,9
+Glades,13:Lakeport Community Center,Governor,"",DEM,Charlie Crist,32
+Glades,15:BHR Community Center,Governor,"",DEM,Charlie Crist,50
+Glades,17:Lakeport Community Center,Governor,"",DEM,Charlie Crist,3
+Glades,19:Lakeport Community Center,Governor,"",DEM,Charlie Crist,11
+Glades,21:Doyle Conner Bldg,Governor,"",DEM,Charlie Crist,8
+Glades,23:Washington Park Comm Center,Governor,"",DEM,Charlie Crist,17
+Glades,25:Indian Hills Fire Dept,Governor,"",DEM,Charlie Crist,20
+Glades,1:Doyle Conner Bldg,Governor,"",DEM,Cadance Daniel,2
+Glades,3:Ortona Community Center,Governor,"",DEM,Cadance Daniel,0
+Glades,5:Doyle Conner Bldg,Governor,"",DEM,Cadance Daniel,9
+Glades,7:Palmdale Community Center,Governor,"",DEM,Cadance Daniel,0
+Glades,9:Muse Community Center,Governor,"",DEM,Cadance Daniel,3
+Glades,11:Muse Community Center,Governor,"",DEM,Cadance Daniel,0
+Glades,13:Lakeport Community Center,Governor,"",DEM,Cadance Daniel,0
+Glades,15:BHR Community Center,Governor,"",DEM,Cadance Daniel,4
+Glades,17:Lakeport Community Center,Governor,"",DEM,Cadance Daniel,0
+Glades,19:Lakeport Community Center,Governor,"",DEM,Cadance Daniel,0
+Glades,21:Doyle Conner Bldg,Governor,"",DEM,Cadance Daniel,0
+Glades,23:Washington Park Comm Center,Governor,"",DEM,Cadance Daniel,1
+Glades,25:Indian Hills Fire Dept,Governor,"",DEM,Cadance Daniel,3
+Glades,1:Doyle Conner Bldg,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Glades,3:Ortona Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",15
+Glades,5:Doyle Conner Bldg,Governor,"",DEM,"Nicole ""Nikki"" Fried",36
+Glades,7:Palmdale Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",5
+Glades,9:Muse Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",25
+Glades,11:Muse Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",4
+Glades,13:Lakeport Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",14
+Glades,15:BHR Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",40
+Glades,17:Lakeport Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",3
+Glades,19:Lakeport Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",7
+Glades,21:Doyle Conner Bldg,Governor,"",DEM,"Nicole ""Nikki"" Fried",5
+Glades,23:Washington Park Comm Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",9
+Glades,25:Indian Hills Fire Dept,Governor,"",DEM,"Nicole ""Nikki"" Fried",24
+Glades,1:Doyle Conner Bldg,Governor,"",DEM,Robert L. Willis,7
+Glades,3:Ortona Community Center,Governor,"",DEM,Robert L. Willis,5
+Glades,5:Doyle Conner Bldg,Governor,"",DEM,Robert L. Willis,8
+Glades,7:Palmdale Community Center,Governor,"",DEM,Robert L. Willis,5
+Glades,9:Muse Community Center,Governor,"",DEM,Robert L. Willis,3
+Glades,11:Muse Community Center,Governor,"",DEM,Robert L. Willis,1
+Glades,13:Lakeport Community Center,Governor,"",DEM,Robert L. Willis,2
+Glades,15:BHR Community Center,Governor,"",DEM,Robert L. Willis,4
+Glades,17:Lakeport Community Center,Governor,"",DEM,Robert L. Willis,1
+Glades,19:Lakeport Community Center,Governor,"",DEM,Robert L. Willis,1
+Glades,21:Doyle Conner Bldg,Governor,"",DEM,Robert L. Willis,1
+Glades,23:Washington Park Comm Center,Governor,"",DEM,Robert L. Willis,1
+Glades,25:Indian Hills Fire Dept,Governor,"",DEM,Robert L. Willis,4
+Glades,1:Doyle Conner Bldg,Governor,"",DEM,OverVotes,0
+Glades,3:Ortona Community Center,Governor,"",DEM,OverVotes,0
+Glades,5:Doyle Conner Bldg,Governor,"",DEM,OverVotes,0
+Glades,7:Palmdale Community Center,Governor,"",DEM,OverVotes,0
+Glades,9:Muse Community Center,Governor,"",DEM,OverVotes,0
+Glades,11:Muse Community Center,Governor,"",DEM,OverVotes,0
+Glades,13:Lakeport Community Center,Governor,"",DEM,OverVotes,0
+Glades,15:BHR Community Center,Governor,"",DEM,OverVotes,0
+Glades,17:Lakeport Community Center,Governor,"",DEM,OverVotes,0
+Glades,19:Lakeport Community Center,Governor,"",DEM,OverVotes,0
+Glades,21:Doyle Conner Bldg,Governor,"",DEM,OverVotes,0
+Glades,23:Washington Park Comm Center,Governor,"",DEM,OverVotes,0
+Glades,25:Indian Hills Fire Dept,Governor,"",DEM,OverVotes,1
+Glades,1:Doyle Conner Bldg,Governor,"",DEM,UnderVotes,2
+Glades,3:Ortona Community Center,Governor,"",DEM,UnderVotes,4
+Glades,5:Doyle Conner Bldg,Governor,"",DEM,UnderVotes,5
+Glades,7:Palmdale Community Center,Governor,"",DEM,UnderVotes,0
+Glades,9:Muse Community Center,Governor,"",DEM,UnderVotes,0
+Glades,11:Muse Community Center,Governor,"",DEM,UnderVotes,1
+Glades,13:Lakeport Community Center,Governor,"",DEM,UnderVotes,1
+Glades,15:BHR Community Center,Governor,"",DEM,UnderVotes,3
+Glades,17:Lakeport Community Center,Governor,"",DEM,UnderVotes,0
+Glades,19:Lakeport Community Center,Governor,"",DEM,UnderVotes,0
+Glades,21:Doyle Conner Bldg,Governor,"",DEM,UnderVotes,2
+Glades,23:Washington Park Comm Center,Governor,"",DEM,UnderVotes,1
+Glades,25:Indian Hills Fire Dept,Governor,"",DEM,UnderVotes,1
+Glades,1:Doyle Conner Bldg,Attorney General,"",DEM,Aramis Ayala,4
+Glades,3:Ortona Community Center,Attorney General,"",DEM,Aramis Ayala,10
+Glades,5:Doyle Conner Bldg,Attorney General,"",DEM,Aramis Ayala,41
+Glades,7:Palmdale Community Center,Attorney General,"",DEM,Aramis Ayala,0
+Glades,9:Muse Community Center,Attorney General,"",DEM,Aramis Ayala,16
+Glades,11:Muse Community Center,Attorney General,"",DEM,Aramis Ayala,2
+Glades,13:Lakeport Community Center,Attorney General,"",DEM,Aramis Ayala,11
+Glades,15:BHR Community Center,Attorney General,"",DEM,Aramis Ayala,19
+Glades,17:Lakeport Community Center,Attorney General,"",DEM,Aramis Ayala,3
+Glades,19:Lakeport Community Center,Attorney General,"",DEM,Aramis Ayala,6
+Glades,21:Doyle Conner Bldg,Attorney General,"",DEM,Aramis Ayala,3
+Glades,23:Washington Park Comm Center,Attorney General,"",DEM,Aramis Ayala,7
+Glades,25:Indian Hills Fire Dept,Attorney General,"",DEM,Aramis Ayala,23
+Glades,1:Doyle Conner Bldg,Attorney General,"",DEM,Jim Lewis,16
+Glades,3:Ortona Community Center,Attorney General,"",DEM,Jim Lewis,17
+Glades,5:Doyle Conner Bldg,Attorney General,"",DEM,Jim Lewis,45
+Glades,7:Palmdale Community Center,Attorney General,"",DEM,Jim Lewis,7
+Glades,9:Muse Community Center,Attorney General,"",DEM,Jim Lewis,23
+Glades,11:Muse Community Center,Attorney General,"",DEM,Jim Lewis,7
+Glades,13:Lakeport Community Center,Attorney General,"",DEM,Jim Lewis,23
+Glades,15:BHR Community Center,Attorney General,"",DEM,Jim Lewis,54
+Glades,17:Lakeport Community Center,Attorney General,"",DEM,Jim Lewis,3
+Glades,19:Lakeport Community Center,Attorney General,"",DEM,Jim Lewis,10
+Glades,21:Doyle Conner Bldg,Attorney General,"",DEM,Jim Lewis,9
+Glades,23:Washington Park Comm Center,Attorney General,"",DEM,Jim Lewis,13
+Glades,25:Indian Hills Fire Dept,Attorney General,"",DEM,Jim Lewis,13
+Glades,1:Doyle Conner Bldg,Attorney General,"",DEM,Daniel Uhlfelder,6
+Glades,3:Ortona Community Center,Attorney General,"",DEM,Daniel Uhlfelder,13
+Glades,5:Doyle Conner Bldg,Attorney General,"",DEM,Daniel Uhlfelder,8
+Glades,7:Palmdale Community Center,Attorney General,"",DEM,Daniel Uhlfelder,4
+Glades,9:Muse Community Center,Attorney General,"",DEM,Daniel Uhlfelder,5
+Glades,11:Muse Community Center,Attorney General,"",DEM,Daniel Uhlfelder,5
+Glades,13:Lakeport Community Center,Attorney General,"",DEM,Daniel Uhlfelder,6
+Glades,15:BHR Community Center,Attorney General,"",DEM,Daniel Uhlfelder,15
+Glades,17:Lakeport Community Center,Attorney General,"",DEM,Daniel Uhlfelder,0
+Glades,19:Lakeport Community Center,Attorney General,"",DEM,Daniel Uhlfelder,3
+Glades,21:Doyle Conner Bldg,Attorney General,"",DEM,Daniel Uhlfelder,2
+Glades,23:Washington Park Comm Center,Attorney General,"",DEM,Daniel Uhlfelder,3
+Glades,25:Indian Hills Fire Dept,Attorney General,"",DEM,Daniel Uhlfelder,13
+Glades,1:Doyle Conner Bldg,Attorney General,"",DEM,OverVotes,1
+Glades,3:Ortona Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,5:Doyle Conner Bldg,Attorney General,"",DEM,OverVotes,0
+Glades,7:Palmdale Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,9:Muse Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,11:Muse Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,13:Lakeport Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,15:BHR Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,17:Lakeport Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,19:Lakeport Community Center,Attorney General,"",DEM,OverVotes,0
+Glades,21:Doyle Conner Bldg,Attorney General,"",DEM,OverVotes,0
+Glades,23:Washington Park Comm Center,Attorney General,"",DEM,OverVotes,0
+Glades,25:Indian Hills Fire Dept,Attorney General,"",DEM,OverVotes,0
+Glades,1:Doyle Conner Bldg,Attorney General,"",DEM,UnderVotes,6
+Glades,3:Ortona Community Center,Attorney General,"",DEM,UnderVotes,8
+Glades,5:Doyle Conner Bldg,Attorney General,"",DEM,UnderVotes,11
+Glades,7:Palmdale Community Center,Attorney General,"",DEM,UnderVotes,5
+Glades,9:Muse Community Center,Attorney General,"",DEM,UnderVotes,1
+Glades,11:Muse Community Center,Attorney General,"",DEM,UnderVotes,1
+Glades,13:Lakeport Community Center,Attorney General,"",DEM,UnderVotes,9
+Glades,15:BHR Community Center,Attorney General,"",DEM,UnderVotes,13
+Glades,17:Lakeport Community Center,Attorney General,"",DEM,UnderVotes,1
+Glades,19:Lakeport Community Center,Attorney General,"",DEM,UnderVotes,0
+Glades,21:Doyle Conner Bldg,Attorney General,"",DEM,UnderVotes,2
+Glades,23:Washington Park Comm Center,Attorney General,"",DEM,UnderVotes,6
+Glades,25:Indian Hills Fire Dept,Attorney General,"",DEM,UnderVotes,4
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,James W. Shaw,26
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,34
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,James W. Shaw,33
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,15
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,51
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,25
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,46
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,119
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,10
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,2
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,James W. Shaw,24
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",REP,James W. Shaw,0
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",REP,James W. Shaw,36
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,84
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,88
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,75
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,40
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,108
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,44
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,95
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,110
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,14
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,14
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,Wilton Simpson,73
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",REP,Wilton Simpson,0
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",REP,Wilton Simpson,110
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",REP,OverVotes,0
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,UnderVotes,13
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",REP,UnderVotes,3
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,UnderVotes,3
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",REP,UnderVotes,1
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",REP,UnderVotes,6
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",REP,UnderVotes,3
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",REP,UnderVotes,8
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",REP,UnderVotes,7
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",REP,UnderVotes,1
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",REP,UnderVotes,0
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",REP,UnderVotes,3
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",REP,UnderVotes,0
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",REP,UnderVotes,0
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,14
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,13
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,48
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,15
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,5
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,20
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,39
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,2
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,1
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,4
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,14
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,23
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,J. R. Gaillot,14
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,13
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,2
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,3
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,3
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,J. R. Gaillot,8
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",DEM,J. R. Gaillot,9
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Ryan Morales,7
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,22
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Ryan Morales,32
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,1
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,16
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,7
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,15
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,30
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,1
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,15
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,Ryan Morales,2
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",DEM,Ryan Morales,6
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",DEM,Ryan Morales,17
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",DEM,OverVotes,0
+Glades,1:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,UnderVotes,6
+Glades,3:Ortona Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,7
+Glades,5:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Glades,7:Palmdale Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Glades,9:Muse Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Glades,11:Muse Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Glades,13:Lakeport Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Glades,15:BHR Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Glades,17:Lakeport Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,1
+Glades,19:Lakeport Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,0
+Glades,21:Doyle Conner Bldg,Commissioner of Agriculture,"",DEM,UnderVotes,2
+Glades,23:Washington Park Comm Center,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Glades,25:Indian Hills Fire Dept,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Glades,1:Doyle Conner Bldg,County Commissioner,2,REP,Jeff Barnes,96
+Glades,3:Ortona Community Center,County Commissioner,2,REP,Jeff Barnes,103
+Glades,5:Doyle Conner Bldg,County Commissioner,2,REP,Jeff Barnes,108
+Glades,7:Palmdale Community Center,County Commissioner,2,REP,Jeff Barnes,43
+Glades,9:Muse Community Center,County Commissioner,2,REP,Jeff Barnes,111
+Glades,11:Muse Community Center,County Commissioner,2,REP,Jeff Barnes,42
+Glades,13:Lakeport Community Center,County Commissioner,2,REP,Jeff Barnes,111
+Glades,15:BHR Community Center,County Commissioner,2,REP,Jeff Barnes,169
+Glades,17:Lakeport Community Center,County Commissioner,2,REP,Jeff Barnes,13
+Glades,19:Lakeport Community Center,County Commissioner,2,REP,Jeff Barnes,17
+Glades,21:Doyle Conner Bldg,County Commissioner,2,REP,Jeff Barnes,82
+Glades,23:Washington Park Comm Center,County Commissioner,2,REP,Jeff Barnes,7
+Glades,25:Indian Hills Fire Dept,County Commissioner,2,REP,Jeff Barnes,80
+Glades,1:Doyle Conner Bldg,County Commissioner,2,REP,Donna Storter Long,66
+Glades,3:Ortona Community Center,County Commissioner,2,REP,Donna Storter Long,87
+Glades,5:Doyle Conner Bldg,County Commissioner,2,REP,Donna Storter Long,113
+Glades,7:Palmdale Community Center,County Commissioner,2,REP,Donna Storter Long,32
+Glades,9:Muse Community Center,County Commissioner,2,REP,Donna Storter Long,108
+Glades,11:Muse Community Center,County Commissioner,2,REP,Donna Storter Long,49
+Glades,13:Lakeport Community Center,County Commissioner,2,REP,Donna Storter Long,99
+Glades,15:BHR Community Center,County Commissioner,2,REP,Donna Storter Long,194
+Glades,17:Lakeport Community Center,County Commissioner,2,REP,Donna Storter Long,22
+Glades,19:Lakeport Community Center,County Commissioner,2,REP,Donna Storter Long,21
+Glades,21:Doyle Conner Bldg,County Commissioner,2,REP,Donna Storter Long,40
+Glades,23:Washington Park Comm Center,County Commissioner,2,REP,Donna Storter Long,26
+Glades,25:Indian Hills Fire Dept,County Commissioner,2,REP,Donna Storter Long,128
+Glades,1:Doyle Conner Bldg,County Commissioner,2,REP,OverVotes,0
+Glades,3:Ortona Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,5:Doyle Conner Bldg,County Commissioner,2,REP,OverVotes,0
+Glades,7:Palmdale Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,9:Muse Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,11:Muse Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,13:Lakeport Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,15:BHR Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,17:Lakeport Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,19:Lakeport Community Center,County Commissioner,2,REP,OverVotes,0
+Glades,21:Doyle Conner Bldg,County Commissioner,2,REP,OverVotes,0
+Glades,23:Washington Park Comm Center,County Commissioner,2,REP,OverVotes,0
+Glades,25:Indian Hills Fire Dept,County Commissioner,2,REP,OverVotes,0
+Glades,1:Doyle Conner Bldg,County Commissioner,2,REP,UnderVotes,4
+Glades,3:Ortona Community Center,County Commissioner,2,REP,UnderVotes,2
+Glades,5:Doyle Conner Bldg,County Commissioner,2,REP,UnderVotes,9
+Glades,7:Palmdale Community Center,County Commissioner,2,REP,UnderVotes,2
+Glades,9:Muse Community Center,County Commissioner,2,REP,UnderVotes,4
+Glades,11:Muse Community Center,County Commissioner,2,REP,UnderVotes,2
+Glades,13:Lakeport Community Center,County Commissioner,2,REP,UnderVotes,5
+Glades,15:BHR Community Center,County Commissioner,2,REP,UnderVotes,10
+Glades,17:Lakeport Community Center,County Commissioner,2,REP,UnderVotes,0
+Glades,19:Lakeport Community Center,County Commissioner,2,REP,UnderVotes,0
+Glades,21:Doyle Conner Bldg,County Commissioner,2,REP,UnderVotes,1
+Glades,23:Washington Park Comm Center,County Commissioner,2,REP,UnderVotes,0
+Glades,25:Indian Hills Fire Dept,County Commissioner,2,REP,UnderVotes,6
+Glades,1:Doyle Conner Bldg,County Commissioner,4,REP,Doug Korinke,23
+Glades,3:Ortona Community Center,County Commissioner,4,REP,Doug Korinke,30
+Glades,5:Doyle Conner Bldg,County Commissioner,4,REP,Doug Korinke,47
+Glades,7:Palmdale Community Center,County Commissioner,4,REP,Doug Korinke,8
+Glades,9:Muse Community Center,County Commissioner,4,REP,Doug Korinke,58
+Glades,11:Muse Community Center,County Commissioner,4,REP,Doug Korinke,17
+Glades,13:Lakeport Community Center,County Commissioner,4,REP,Doug Korinke,50
+Glades,15:BHR Community Center,County Commissioner,4,REP,Doug Korinke,66
+Glades,17:Lakeport Community Center,County Commissioner,4,REP,Doug Korinke,10
+Glades,19:Lakeport Community Center,County Commissioner,4,REP,Doug Korinke,2
+Glades,21:Doyle Conner Bldg,County Commissioner,4,REP,Doug Korinke,29
+Glades,23:Washington Park Comm Center,County Commissioner,4,REP,Doug Korinke,0
+Glades,25:Indian Hills Fire Dept,County Commissioner,4,REP,Doug Korinke,70
+Glades,1:Doyle Conner Bldg,County Commissioner,4,REP,Hattie Taylor,99
+Glades,3:Ortona Community Center,County Commissioner,4,REP,Hattie Taylor,92
+Glades,5:Doyle Conner Bldg,County Commissioner,4,REP,Hattie Taylor,63
+Glades,7:Palmdale Community Center,County Commissioner,4,REP,Hattie Taylor,46
+Glades,9:Muse Community Center,County Commissioner,4,REP,Hattie Taylor,99
+Glades,11:Muse Community Center,County Commissioner,4,REP,Hattie Taylor,54
+Glades,13:Lakeport Community Center,County Commissioner,4,REP,Hattie Taylor,92
+Glades,15:BHR Community Center,County Commissioner,4,REP,Hattie Taylor,167
+Glades,17:Lakeport Community Center,County Commissioner,4,REP,Hattie Taylor,15
+Glades,19:Lakeport Community Center,County Commissioner,4,REP,Hattie Taylor,14
+Glades,21:Doyle Conner Bldg,County Commissioner,4,REP,Hattie Taylor,71
+Glades,23:Washington Park Comm Center,County Commissioner,4,REP,Hattie Taylor,0
+Glades,25:Indian Hills Fire Dept,County Commissioner,4,REP,Hattie Taylor,72
+Glades,1:Doyle Conner Bldg,County Commissioner,4,REP,OverVotes,0
+Glades,3:Ortona Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,5:Doyle Conner Bldg,County Commissioner,4,REP,OverVotes,0
+Glades,7:Palmdale Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,9:Muse Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,11:Muse Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,13:Lakeport Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,15:BHR Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,17:Lakeport Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,19:Lakeport Community Center,County Commissioner,4,REP,OverVotes,0
+Glades,21:Doyle Conner Bldg,County Commissioner,4,REP,OverVotes,0
+Glades,23:Washington Park Comm Center,County Commissioner,4,REP,OverVotes,0
+Glades,25:Indian Hills Fire Dept,County Commissioner,4,REP,OverVotes,0
+Glades,1:Doyle Conner Bldg,County Commissioner,4,REP,UnderVotes,1
+Glades,3:Ortona Community Center,County Commissioner,4,REP,UnderVotes,3
+Glades,5:Doyle Conner Bldg,County Commissioner,4,REP,UnderVotes,1
+Glades,7:Palmdale Community Center,County Commissioner,4,REP,UnderVotes,2
+Glades,9:Muse Community Center,County Commissioner,4,REP,UnderVotes,8
+Glades,11:Muse Community Center,County Commissioner,4,REP,UnderVotes,1
+Glades,13:Lakeport Community Center,County Commissioner,4,REP,UnderVotes,7
+Glades,15:BHR Community Center,County Commissioner,4,REP,UnderVotes,3
+Glades,17:Lakeport Community Center,County Commissioner,4,REP,UnderVotes,0
+Glades,19:Lakeport Community Center,County Commissioner,4,REP,UnderVotes,0
+Glades,21:Doyle Conner Bldg,County Commissioner,4,REP,UnderVotes,0
+Glades,23:Washington Park Comm Center,County Commissioner,4,REP,UnderVotes,0
+Glades,25:Indian Hills Fire Dept,County Commissioner,4,REP,UnderVotes,4
+Glades,1:Doyle Conner Bldg,School Board,4,NOP,Lisa Beaner,45
+Glades,3:Ortona Community Center,School Board,4,NOP,Lisa Beaner,78
+Glades,5:Doyle Conner Bldg,School Board,4,NOP,Lisa Beaner,76
+Glades,7:Palmdale Community Center,School Board,4,NOP,Lisa Beaner,13
+Glades,9:Muse Community Center,School Board,4,NOP,Lisa Beaner,108
+Glades,11:Muse Community Center,School Board,4,NOP,Lisa Beaner,32
+Glades,13:Lakeport Community Center,School Board,4,NOP,Lisa Beaner,114
+Glades,15:BHR Community Center,School Board,4,NOP,Lisa Beaner,174
+Glades,17:Lakeport Community Center,School Board,4,NOP,Lisa Beaner,22
+Glades,19:Lakeport Community Center,School Board,4,NOP,Lisa Beaner,6
+Glades,21:Doyle Conner Bldg,School Board,4,NOP,Lisa Beaner,31
+Glades,23:Washington Park Comm Center,School Board,4,NOP,Lisa Beaner,15
+Glades,25:Indian Hills Fire Dept,School Board,4,NOP,Lisa Beaner,112
+Glades,1:Doyle Conner Bldg,School Board,4,NOP,Kimberly Lynn Clement,114
+Glades,3:Ortona Community Center,School Board,4,NOP,Kimberly Lynn Clement,110
+Glades,5:Doyle Conner Bldg,School Board,4,NOP,Kimberly Lynn Clement,139
+Glades,7:Palmdale Community Center,School Board,4,NOP,Kimberly Lynn Clement,62
+Glades,9:Muse Community Center,School Board,4,NOP,Kimberly Lynn Clement,111
+Glades,11:Muse Community Center,School Board,4,NOP,Kimberly Lynn Clement,53
+Glades,13:Lakeport Community Center,School Board,4,NOP,Kimberly Lynn Clement,93
+Glades,15:BHR Community Center,School Board,4,NOP,Kimberly Lynn Clement,172
+Glades,17:Lakeport Community Center,School Board,4,NOP,Kimberly Lynn Clement,12
+Glades,19:Lakeport Community Center,School Board,4,NOP,Kimberly Lynn Clement,32
+Glades,21:Doyle Conner Bldg,School Board,4,NOP,Kimberly Lynn Clement,91
+Glades,23:Washington Park Comm Center,School Board,4,NOP,Kimberly Lynn Clement,16
+Glades,25:Indian Hills Fire Dept,School Board,4,NOP,Kimberly Lynn Clement,94
+Glades,1:Doyle Conner Bldg,School Board,4,NOP,OverVotes,0
+Glades,3:Ortona Community Center,School Board,4,NOP,OverVotes,0
+Glades,5:Doyle Conner Bldg,School Board,4,NOP,OverVotes,1
+Glades,7:Palmdale Community Center,School Board,4,NOP,OverVotes,0
+Glades,9:Muse Community Center,School Board,4,NOP,OverVotes,0
+Glades,11:Muse Community Center,School Board,4,NOP,OverVotes,0
+Glades,13:Lakeport Community Center,School Board,4,NOP,OverVotes,0
+Glades,15:BHR Community Center,School Board,4,NOP,OverVotes,0
+Glades,17:Lakeport Community Center,School Board,4,NOP,OverVotes,0
+Glades,19:Lakeport Community Center,School Board,4,NOP,OverVotes,0
+Glades,21:Doyle Conner Bldg,School Board,4,NOP,OverVotes,0
+Glades,23:Washington Park Comm Center,School Board,4,NOP,OverVotes,0
+Glades,25:Indian Hills Fire Dept,School Board,4,NOP,OverVotes,0
+Glades,1:Doyle Conner Bldg,School Board,4,NOP,UnderVotes,7
+Glades,3:Ortona Community Center,School Board,4,NOP,UnderVotes,4
+Glades,5:Doyle Conner Bldg,School Board,4,NOP,UnderVotes,14
+Glades,7:Palmdale Community Center,School Board,4,NOP,UnderVotes,2
+Glades,9:Muse Community Center,School Board,4,NOP,UnderVotes,4
+Glades,11:Muse Community Center,School Board,4,NOP,UnderVotes,8
+Glades,13:Lakeport Community Center,School Board,4,NOP,UnderVotes,8
+Glades,15:BHR Community Center,School Board,4,NOP,UnderVotes,26
+Glades,17:Lakeport Community Center,School Board,4,NOP,UnderVotes,1
+Glades,19:Lakeport Community Center,School Board,4,NOP,UnderVotes,0
+Glades,21:Doyle Conner Bldg,School Board,4,NOP,UnderVotes,1
+Glades,23:Washington Park Comm Center,School Board,4,NOP,UnderVotes,2
+Glades,25:Indian Hills Fire Dept,School Board,4,NOP,UnderVotes,8
+Glades,1:Doyle Conner Bldg,Registered Voters,"","","",392
+Glades,11:Muse Community Center,Registered Voters,"","","",328
+Glades,13:Lakeport Community Center,Registered Voters,"","","",727
+Glades,15:BHR Community Center,Registered Voters,"","","",1244
+Glades,17:Lakeport Community Center,Registered Voters,"","","",173
+Glades,19:Lakeport Community Center,Registered Voters,"","","",290
+Glades,21:Doyle Conner Bldg,Registered Voters,"","","",276
+Glades,23:Washington Park Comm Center,Registered Voters,"","","",117
+Glades,25:Indian Hills Fire Dept,Registered Voters,"","","",848
+Glades,3:Ortona Community Center,Registered Voters,"","","",458
+Glades,5:Doyle Conner Bldg,Registered Voters,"","","",848
+Glades,7:Palmdale Community Center,Registered Voters,"","","",219
+Glades,9:Muse Community Center,Registered Voters,"","","",971

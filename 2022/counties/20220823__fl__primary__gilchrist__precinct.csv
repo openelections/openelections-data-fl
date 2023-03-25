@@ -1,0 +1,601 @@
+county,precinct,office,district,party,candidate,votes
+Gilchrist,1A Trenton Center,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Gilchrist,1B County Library,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Gilchrist,1C County Library,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Gilchrist,2A Donnie Center,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Gilchrist,3A Bell Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Gilchrist,4A Cruse Center,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,5
+Gilchrist,6A Osteen Center,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Gilchrist,7A Osceola Center,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Gilchrist,8A Southeast Center,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Gilchrist,1A Trenton Center,U.S. Senate,"",DEM,Val Demings,28
+Gilchrist,1B County Library,U.S. Senate,"",DEM,Val Demings,16
+Gilchrist,1C County Library,U.S. Senate,"",DEM,Val Demings,27
+Gilchrist,2A Donnie Center,U.S. Senate,"",DEM,Val Demings,41
+Gilchrist,3A Bell Community Center,U.S. Senate,"",DEM,Val Demings,35
+Gilchrist,4A Cruse Center,U.S. Senate,"",DEM,Val Demings,43
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",DEM,Val Demings,27
+Gilchrist,6A Osteen Center,U.S. Senate,"",DEM,Val Demings,69
+Gilchrist,7A Osceola Center,U.S. Senate,"",DEM,Val Demings,45
+Gilchrist,8A Southeast Center,U.S. Senate,"",DEM,Val Demings,42
+Gilchrist,1A Trenton Center,U.S. Senate,"",DEM,Brian Rush,11
+Gilchrist,1B County Library,U.S. Senate,"",DEM,Brian Rush,3
+Gilchrist,1C County Library,U.S. Senate,"",DEM,Brian Rush,10
+Gilchrist,2A Donnie Center,U.S. Senate,"",DEM,Brian Rush,23
+Gilchrist,3A Bell Community Center,U.S. Senate,"",DEM,Brian Rush,11
+Gilchrist,4A Cruse Center,U.S. Senate,"",DEM,Brian Rush,21
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",DEM,Brian Rush,10
+Gilchrist,6A Osteen Center,U.S. Senate,"",DEM,Brian Rush,16
+Gilchrist,7A Osceola Center,U.S. Senate,"",DEM,Brian Rush,17
+Gilchrist,8A Southeast Center,U.S. Senate,"",DEM,Brian Rush,10
+Gilchrist,1A Trenton Center,U.S. Senate,"",DEM,William Sanchez,4
+Gilchrist,1B County Library,U.S. Senate,"",DEM,William Sanchez,6
+Gilchrist,1C County Library,U.S. Senate,"",DEM,William Sanchez,4
+Gilchrist,2A Donnie Center,U.S. Senate,"",DEM,William Sanchez,14
+Gilchrist,3A Bell Community Center,U.S. Senate,"",DEM,William Sanchez,31
+Gilchrist,4A Cruse Center,U.S. Senate,"",DEM,William Sanchez,20
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",DEM,William Sanchez,9
+Gilchrist,6A Osteen Center,U.S. Senate,"",DEM,William Sanchez,18
+Gilchrist,7A Osceola Center,U.S. Senate,"",DEM,William Sanchez,16
+Gilchrist,8A Southeast Center,U.S. Senate,"",DEM,William Sanchez,9
+Gilchrist,1A Trenton Center,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,1B County Library,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,1C County Library,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,2A Donnie Center,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,3A Bell Community Center,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,4A Cruse Center,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,6A Osteen Center,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,7A Osceola Center,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,8A Southeast Center,U.S. Senate,"",DEM,OverVotes,0
+Gilchrist,1A Trenton Center,U.S. Senate,"",DEM,UnderVotes,7
+Gilchrist,1B County Library,U.S. Senate,"",DEM,UnderVotes,2
+Gilchrist,1C County Library,U.S. Senate,"",DEM,UnderVotes,0
+Gilchrist,2A Donnie Center,U.S. Senate,"",DEM,UnderVotes,11
+Gilchrist,3A Bell Community Center,U.S. Senate,"",DEM,UnderVotes,16
+Gilchrist,4A Cruse Center,U.S. Senate,"",DEM,UnderVotes,7
+Gilchrist,5A N Gilchrist Fire Station,U.S. Senate,"",DEM,UnderVotes,4
+Gilchrist,6A Osteen Center,U.S. Senate,"",DEM,UnderVotes,6
+Gilchrist,7A Osceola Center,U.S. Senate,"",DEM,UnderVotes,7
+Gilchrist,8A Southeast Center,U.S. Senate,"",DEM,UnderVotes,9
+Gilchrist,1A Trenton Center,U.S. House,3,REP,Kat Cammack,271
+Gilchrist,1B County Library,U.S. House,3,REP,Kat Cammack,116
+Gilchrist,1C County Library,U.S. House,3,REP,Kat Cammack,60
+Gilchrist,2A Donnie Center,U.S. House,3,REP,Kat Cammack,522
+Gilchrist,3A Bell Community Center,U.S. House,3,REP,Kat Cammack,414
+Gilchrist,4A Cruse Center,U.S. House,3,REP,Kat Cammack,366
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,REP,Kat Cammack,194
+Gilchrist,6A Osteen Center,U.S. House,3,REP,Kat Cammack,490
+Gilchrist,7A Osceola Center,U.S. House,3,REP,Kat Cammack,314
+Gilchrist,8A Southeast Center,U.S. House,3,REP,Kat Cammack,215
+Gilchrist,1A Trenton Center,U.S. House,3,REP,Justin Waters,16
+Gilchrist,1B County Library,U.S. House,3,REP,Justin Waters,8
+Gilchrist,1C County Library,U.S. House,3,REP,Justin Waters,4
+Gilchrist,2A Donnie Center,U.S. House,3,REP,Justin Waters,52
+Gilchrist,3A Bell Community Center,U.S. House,3,REP,Justin Waters,42
+Gilchrist,4A Cruse Center,U.S. House,3,REP,Justin Waters,48
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,REP,Justin Waters,37
+Gilchrist,6A Osteen Center,U.S. House,3,REP,Justin Waters,37
+Gilchrist,7A Osceola Center,U.S. House,3,REP,Justin Waters,25
+Gilchrist,8A Southeast Center,U.S. House,3,REP,Justin Waters,27
+Gilchrist,1A Trenton Center,U.S. House,3,DEM,Danielle Hawk,29
+Gilchrist,1B County Library,U.S. House,3,DEM,Danielle Hawk,18
+Gilchrist,1C County Library,U.S. House,3,DEM,Danielle Hawk,24
+Gilchrist,2A Donnie Center,U.S. House,3,DEM,Danielle Hawk,44
+Gilchrist,3A Bell Community Center,U.S. House,3,DEM,Danielle Hawk,28
+Gilchrist,4A Cruse Center,U.S. House,3,DEM,Danielle Hawk,44
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,DEM,Danielle Hawk,28
+Gilchrist,6A Osteen Center,U.S. House,3,DEM,Danielle Hawk,68
+Gilchrist,7A Osceola Center,U.S. House,3,DEM,Danielle Hawk,46
+Gilchrist,8A Southeast Center,U.S. House,3,DEM,Danielle Hawk,48
+Gilchrist,1A Trenton Center,U.S. House,3,DEM,Tom Wells,19
+Gilchrist,1B County Library,U.S. House,3,DEM,Tom Wells,8
+Gilchrist,1C County Library,U.S. House,3,DEM,Tom Wells,13
+Gilchrist,2A Donnie Center,U.S. House,3,DEM,Tom Wells,36
+Gilchrist,3A Bell Community Center,U.S. House,3,DEM,Tom Wells,42
+Gilchrist,4A Cruse Center,U.S. House,3,DEM,Tom Wells,40
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,DEM,Tom Wells,22
+Gilchrist,6A Osteen Center,U.S. House,3,DEM,Tom Wells,30
+Gilchrist,7A Osceola Center,U.S. House,3,DEM,Tom Wells,29
+Gilchrist,8A Southeast Center,U.S. House,3,DEM,Tom Wells,14
+Gilchrist,1A Trenton Center,U.S. House,3,DEM,OverVotes,0
+Gilchrist,1B County Library,U.S. House,3,DEM,OverVotes,0
+Gilchrist,1C County Library,U.S. House,3,DEM,OverVotes,0
+Gilchrist,2A Donnie Center,U.S. House,3,DEM,OverVotes,0
+Gilchrist,3A Bell Community Center,U.S. House,3,DEM,OverVotes,0
+Gilchrist,4A Cruse Center,U.S. House,3,DEM,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,DEM,OverVotes,0
+Gilchrist,6A Osteen Center,U.S. House,3,DEM,OverVotes,0
+Gilchrist,7A Osceola Center,U.S. House,3,DEM,OverVotes,0
+Gilchrist,8A Southeast Center,U.S. House,3,DEM,OverVotes,0
+Gilchrist,1A Trenton Center,U.S. House,3,DEM,UnderVotes,8
+Gilchrist,1B County Library,U.S. House,3,DEM,UnderVotes,2
+Gilchrist,1C County Library,U.S. House,3,DEM,UnderVotes,4
+Gilchrist,2A Donnie Center,U.S. House,3,DEM,UnderVotes,12
+Gilchrist,3A Bell Community Center,U.S. House,3,DEM,UnderVotes,24
+Gilchrist,4A Cruse Center,U.S. House,3,DEM,UnderVotes,9
+Gilchrist,5A N Gilchrist Fire Station,U.S. House,3,DEM,UnderVotes,5
+Gilchrist,6A Osteen Center,U.S. House,3,DEM,UnderVotes,14
+Gilchrist,7A Osceola Center,U.S. House,3,DEM,UnderVotes,12
+Gilchrist,8A Southeast Center,U.S. House,3,DEM,UnderVotes,9
+Gilchrist,1A Trenton Center,Governor,"",DEM,Charlie Crist,26
+Gilchrist,1B County Library,Governor,"",DEM,Charlie Crist,12
+Gilchrist,1C County Library,Governor,"",DEM,Charlie Crist,19
+Gilchrist,2A Donnie Center,Governor,"",DEM,Charlie Crist,41
+Gilchrist,3A Bell Community Center,Governor,"",DEM,Charlie Crist,43
+Gilchrist,4A Cruse Center,Governor,"",DEM,Charlie Crist,45
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",DEM,Charlie Crist,23
+Gilchrist,6A Osteen Center,Governor,"",DEM,Charlie Crist,46
+Gilchrist,7A Osceola Center,Governor,"",DEM,Charlie Crist,42
+Gilchrist,8A Southeast Center,Governor,"",DEM,Charlie Crist,33
+Gilchrist,1A Trenton Center,Governor,"",DEM,Cadance Daniel,0
+Gilchrist,1B County Library,Governor,"",DEM,Cadance Daniel,2
+Gilchrist,1C County Library,Governor,"",DEM,Cadance Daniel,3
+Gilchrist,2A Donnie Center,Governor,"",DEM,Cadance Daniel,6
+Gilchrist,3A Bell Community Center,Governor,"",DEM,Cadance Daniel,5
+Gilchrist,4A Cruse Center,Governor,"",DEM,Cadance Daniel,4
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",DEM,Cadance Daniel,0
+Gilchrist,6A Osteen Center,Governor,"",DEM,Cadance Daniel,11
+Gilchrist,7A Osceola Center,Governor,"",DEM,Cadance Daniel,3
+Gilchrist,8A Southeast Center,Governor,"",DEM,Cadance Daniel,2
+Gilchrist,1A Trenton Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",24
+Gilchrist,1B County Library,Governor,"",DEM,"Nicole ""Nikki"" Fried",9
+Gilchrist,1C County Library,Governor,"",DEM,"Nicole ""Nikki"" Fried",16
+Gilchrist,2A Donnie Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",33
+Gilchrist,3A Bell Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",29
+Gilchrist,4A Cruse Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",31
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",24
+Gilchrist,6A Osteen Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",46
+Gilchrist,7A Osceola Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",31
+Gilchrist,8A Southeast Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",30
+Gilchrist,1A Trenton Center,Governor,"",DEM,Robert L. Willis,2
+Gilchrist,1B County Library,Governor,"",DEM,Robert L. Willis,3
+Gilchrist,1C County Library,Governor,"",DEM,Robert L. Willis,3
+Gilchrist,2A Donnie Center,Governor,"",DEM,Robert L. Willis,7
+Gilchrist,3A Bell Community Center,Governor,"",DEM,Robert L. Willis,8
+Gilchrist,4A Cruse Center,Governor,"",DEM,Robert L. Willis,8
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",DEM,Robert L. Willis,6
+Gilchrist,6A Osteen Center,Governor,"",DEM,Robert L. Willis,7
+Gilchrist,7A Osceola Center,Governor,"",DEM,Robert L. Willis,9
+Gilchrist,8A Southeast Center,Governor,"",DEM,Robert L. Willis,0
+Gilchrist,1A Trenton Center,Governor,"",DEM,OverVotes,0
+Gilchrist,1B County Library,Governor,"",DEM,OverVotes,0
+Gilchrist,1C County Library,Governor,"",DEM,OverVotes,0
+Gilchrist,2A Donnie Center,Governor,"",DEM,OverVotes,0
+Gilchrist,3A Bell Community Center,Governor,"",DEM,OverVotes,0
+Gilchrist,4A Cruse Center,Governor,"",DEM,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",DEM,OverVotes,0
+Gilchrist,6A Osteen Center,Governor,"",DEM,OverVotes,0
+Gilchrist,7A Osceola Center,Governor,"",DEM,OverVotes,0
+Gilchrist,8A Southeast Center,Governor,"",DEM,OverVotes,0
+Gilchrist,1A Trenton Center,Governor,"",DEM,UnderVotes,4
+Gilchrist,1B County Library,Governor,"",DEM,UnderVotes,2
+Gilchrist,1C County Library,Governor,"",DEM,UnderVotes,0
+Gilchrist,2A Donnie Center,Governor,"",DEM,UnderVotes,5
+Gilchrist,3A Bell Community Center,Governor,"",DEM,UnderVotes,9
+Gilchrist,4A Cruse Center,Governor,"",DEM,UnderVotes,5
+Gilchrist,5A N Gilchrist Fire Station,Governor,"",DEM,UnderVotes,2
+Gilchrist,6A Osteen Center,Governor,"",DEM,UnderVotes,2
+Gilchrist,7A Osceola Center,Governor,"",DEM,UnderVotes,2
+Gilchrist,8A Southeast Center,Governor,"",DEM,UnderVotes,6
+Gilchrist,1A Trenton Center,Attorney General,"",DEM,Aramis Ayala,17
+Gilchrist,1B County Library,Attorney General,"",DEM,Aramis Ayala,6
+Gilchrist,1C County Library,Attorney General,"",DEM,Aramis Ayala,21
+Gilchrist,2A Donnie Center,Attorney General,"",DEM,Aramis Ayala,16
+Gilchrist,3A Bell Community Center,Attorney General,"",DEM,Aramis Ayala,9
+Gilchrist,4A Cruse Center,Attorney General,"",DEM,Aramis Ayala,22
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"",DEM,Aramis Ayala,15
+Gilchrist,6A Osteen Center,Attorney General,"",DEM,Aramis Ayala,41
+Gilchrist,7A Osceola Center,Attorney General,"",DEM,Aramis Ayala,20
+Gilchrist,8A Southeast Center,Attorney General,"",DEM,Aramis Ayala,16
+Gilchrist,1A Trenton Center,Attorney General,"",DEM,Jim Lewis,21
+Gilchrist,1B County Library,Attorney General,"",DEM,Jim Lewis,9
+Gilchrist,1C County Library,Attorney General,"",DEM,Jim Lewis,10
+Gilchrist,2A Donnie Center,Attorney General,"",DEM,Jim Lewis,46
+Gilchrist,3A Bell Community Center,Attorney General,"",DEM,Jim Lewis,50
+Gilchrist,4A Cruse Center,Attorney General,"",DEM,Jim Lewis,43
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"",DEM,Jim Lewis,23
+Gilchrist,6A Osteen Center,Attorney General,"",DEM,Jim Lewis,29
+Gilchrist,7A Osceola Center,Attorney General,"",DEM,Jim Lewis,40
+Gilchrist,8A Southeast Center,Attorney General,"",DEM,Jim Lewis,30
+Gilchrist,1A Trenton Center,Attorney General,"",DEM,Daniel Uhlfelder,10
+Gilchrist,1B County Library,Attorney General,"",DEM,Daniel Uhlfelder,11
+Gilchrist,1C County Library,Attorney General,"",DEM,Daniel Uhlfelder,7
+Gilchrist,2A Donnie Center,Attorney General,"",DEM,Daniel Uhlfelder,18
+Gilchrist,3A Bell Community Center,Attorney General,"",DEM,Daniel Uhlfelder,13
+Gilchrist,4A Cruse Center,Attorney General,"",DEM,Daniel Uhlfelder,18
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,13
+Gilchrist,6A Osteen Center,Attorney General,"",DEM,Daniel Uhlfelder,31
+Gilchrist,7A Osceola Center,Attorney General,"",DEM,Daniel Uhlfelder,16
+Gilchrist,8A Southeast Center,Attorney General,"",DEM,Daniel Uhlfelder,12
+Gilchrist,1A Trenton Center,Attorney General,"",DEM,OverVotes,0
+Gilchrist,1B County Library,Attorney General,"",DEM,OverVotes,0
+Gilchrist,1C County Library,Attorney General,"",DEM,OverVotes,0
+Gilchrist,2A Donnie Center,Attorney General,"",DEM,OverVotes,0
+Gilchrist,3A Bell Community Center,Attorney General,"",DEM,OverVotes,0
+Gilchrist,4A Cruse Center,Attorney General,"",DEM,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"",DEM,OverVotes,0
+Gilchrist,6A Osteen Center,Attorney General,"",DEM,OverVotes,0
+Gilchrist,7A Osceola Center,Attorney General,"",DEM,OverVotes,0
+Gilchrist,8A Southeast Center,Attorney General,"",DEM,OverVotes,0
+Gilchrist,1A Trenton Center,Attorney General,"",DEM,UnderVotes,8
+Gilchrist,1B County Library,Attorney General,"",DEM,UnderVotes,2
+Gilchrist,1C County Library,Attorney General,"",DEM,UnderVotes,3
+Gilchrist,2A Donnie Center,Attorney General,"",DEM,UnderVotes,12
+Gilchrist,3A Bell Community Center,Attorney General,"",DEM,UnderVotes,22
+Gilchrist,4A Cruse Center,Attorney General,"",DEM,UnderVotes,10
+Gilchrist,5A N Gilchrist Fire Station,Attorney General,"",DEM,UnderVotes,4
+Gilchrist,6A Osteen Center,Attorney General,"",DEM,UnderVotes,11
+Gilchrist,7A Osceola Center,Attorney General,"",DEM,UnderVotes,11
+Gilchrist,8A Southeast Center,Attorney General,"",DEM,UnderVotes,13
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",REP,James W. Shaw,54
+Gilchrist,1B County Library,Commissioner of Agriculture,"",REP,James W. Shaw,49
+Gilchrist,1C County Library,Commissioner of Agriculture,"",REP,James W. Shaw,14
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",REP,James W. Shaw,138
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,122
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",REP,James W. Shaw,126
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,90
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",REP,James W. Shaw,169
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",REP,James W. Shaw,102
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",REP,James W. Shaw,82
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",REP,Wilton Simpson,226
+Gilchrist,1B County Library,Commissioner of Agriculture,"",REP,Wilton Simpson,65
+Gilchrist,1C County Library,Commissioner of Agriculture,"",REP,Wilton Simpson,49
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",REP,Wilton Simpson,433
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,317
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",REP,Wilton Simpson,295
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,142
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",REP,Wilton Simpson,350
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",REP,Wilton Simpson,226
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",REP,Wilton Simpson,161
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,1B County Library,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,1C County Library,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",REP,UnderVotes,15
+Gilchrist,1B County Library,Commissioner of Agriculture,"",REP,UnderVotes,13
+Gilchrist,1C County Library,Commissioner of Agriculture,"",REP,UnderVotes,1
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",REP,UnderVotes,25
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",REP,UnderVotes,30
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",REP,UnderVotes,17
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,9
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",REP,UnderVotes,26
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",REP,UnderVotes,17
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",REP,UnderVotes,7
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,21
+Gilchrist,1B County Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,8
+Gilchrist,1C County Library,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,10
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,40
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,20
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,29
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,28
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,44
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,25
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,31
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,14
+Gilchrist,1B County Library,Commissioner of Agriculture,"",DEM,J. R. Gaillot,6
+Gilchrist,1C County Library,Commissioner of Agriculture,"",DEM,J. R. Gaillot,14
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,24
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,18
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,21
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,15
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",DEM,Ryan Morales,12
+Gilchrist,1B County Library,Commissioner of Agriculture,"",DEM,Ryan Morales,10
+Gilchrist,1C County Library,Commissioner of Agriculture,"",DEM,Ryan Morales,12
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",DEM,Ryan Morales,16
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,35
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",DEM,Ryan Morales,34
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,19
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",DEM,Ryan Morales,34
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",DEM,Ryan Morales,23
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",DEM,Ryan Morales,17
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,1B County Library,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,1C County Library,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Gilchrist,1A Trenton Center,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Gilchrist,1B County Library,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Gilchrist,1C County Library,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Gilchrist,2A Donnie Center,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Gilchrist,3A Bell Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,21
+Gilchrist,4A Cruse Center,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Gilchrist,5A N Gilchrist Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Gilchrist,6A Osteen Center,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Gilchrist,7A Osceola Center,Commissioner of Agriculture,"",DEM,UnderVotes,17
+Gilchrist,8A Southeast Center,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Gilchrist,1A Trenton Center,State House,22,REP,Ty Appiah,59
+Gilchrist,1B County Library,State House,22,REP,Ty Appiah,14
+Gilchrist,1C County Library,State House,22,REP,Ty Appiah,18
+Gilchrist,2A Donnie Center,State House,22,REP,Ty Appiah,113
+Gilchrist,3A Bell Community Center,State House,22,REP,Ty Appiah,83
+Gilchrist,4A Cruse Center,State House,22,REP,Ty Appiah,89
+Gilchrist,5A N Gilchrist Fire Station,State House,22,REP,Ty Appiah,39
+Gilchrist,6A Osteen Center,State House,22,REP,Ty Appiah,139
+Gilchrist,7A Osceola Center,State House,22,REP,Ty Appiah,93
+Gilchrist,8A Southeast Center,State House,22,REP,Ty Appiah,54
+Gilchrist,1A Trenton Center,State House,22,REP,Chuck Clemons,232
+Gilchrist,1B County Library,State House,22,REP,Chuck Clemons,113
+Gilchrist,1C County Library,State House,22,REP,Chuck Clemons,46
+Gilchrist,2A Donnie Center,State House,22,REP,Chuck Clemons,473
+Gilchrist,3A Bell Community Center,State House,22,REP,Chuck Clemons,371
+Gilchrist,4A Cruse Center,State House,22,REP,Chuck Clemons,344
+Gilchrist,5A N Gilchrist Fire Station,State House,22,REP,Chuck Clemons,195
+Gilchrist,6A Osteen Center,State House,22,REP,Chuck Clemons,393
+Gilchrist,7A Osceola Center,State House,22,REP,Chuck Clemons,245
+Gilchrist,8A Southeast Center,State House,22,REP,Chuck Clemons,191
+Gilchrist,1A Trenton Center,State House,22,REP,OverVotes,0
+Gilchrist,1B County Library,State House,22,REP,OverVotes,0
+Gilchrist,1C County Library,State House,22,REP,OverVotes,0
+Gilchrist,2A Donnie Center,State House,22,REP,OverVotes,0
+Gilchrist,3A Bell Community Center,State House,22,REP,OverVotes,0
+Gilchrist,4A Cruse Center,State House,22,REP,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,State House,22,REP,OverVotes,0
+Gilchrist,6A Osteen Center,State House,22,REP,OverVotes,0
+Gilchrist,7A Osceola Center,State House,22,REP,OverVotes,0
+Gilchrist,8A Southeast Center,State House,22,REP,OverVotes,0
+Gilchrist,1A Trenton Center,State House,22,REP,UnderVotes,4
+Gilchrist,1B County Library,State House,22,REP,UnderVotes,0
+Gilchrist,1C County Library,State House,22,REP,UnderVotes,0
+Gilchrist,2A Donnie Center,State House,22,REP,UnderVotes,10
+Gilchrist,3A Bell Community Center,State House,22,REP,UnderVotes,15
+Gilchrist,4A Cruse Center,State House,22,REP,UnderVotes,5
+Gilchrist,5A N Gilchrist Fire Station,State House,22,REP,UnderVotes,7
+Gilchrist,6A Osteen Center,State House,22,REP,UnderVotes,13
+Gilchrist,7A Osceola Center,State House,22,REP,UnderVotes,7
+Gilchrist,8A Southeast Center,State House,22,REP,UnderVotes,5
+Gilchrist,1A Trenton Center,State House,22,DEM,Olysha Magruder,13
+Gilchrist,1B County Library,State House,22,DEM,Olysha Magruder,10
+Gilchrist,1C County Library,State House,22,DEM,Olysha Magruder,15
+Gilchrist,2A Donnie Center,State House,22,DEM,Olysha Magruder,28
+Gilchrist,3A Bell Community Center,State House,22,DEM,Olysha Magruder,20
+Gilchrist,4A Cruse Center,State House,22,DEM,Olysha Magruder,27
+Gilchrist,5A N Gilchrist Fire Station,State House,22,DEM,Olysha Magruder,12
+Gilchrist,6A Osteen Center,State House,22,DEM,Olysha Magruder,37
+Gilchrist,7A Osceola Center,State House,22,DEM,Olysha Magruder,28
+Gilchrist,8A Southeast Center,State House,22,DEM,Olysha Magruder,23
+Gilchrist,1A Trenton Center,State House,22,DEM,Brandon Peters,35
+Gilchrist,1B County Library,State House,22,DEM,Brandon Peters,15
+Gilchrist,1C County Library,State House,22,DEM,Brandon Peters,26
+Gilchrist,2A Donnie Center,State House,22,DEM,Brandon Peters,54
+Gilchrist,3A Bell Community Center,State House,22,DEM,Brandon Peters,53
+Gilchrist,4A Cruse Center,State House,22,DEM,Brandon Peters,58
+Gilchrist,5A N Gilchrist Fire Station,State House,22,DEM,Brandon Peters,36
+Gilchrist,6A Osteen Center,State House,22,DEM,Brandon Peters,62
+Gilchrist,7A Osceola Center,State House,22,DEM,Brandon Peters,48
+Gilchrist,8A Southeast Center,State House,22,DEM,Brandon Peters,37
+Gilchrist,1A Trenton Center,State House,22,DEM,OverVotes,0
+Gilchrist,1B County Library,State House,22,DEM,OverVotes,0
+Gilchrist,1C County Library,State House,22,DEM,OverVotes,0
+Gilchrist,2A Donnie Center,State House,22,DEM,OverVotes,0
+Gilchrist,3A Bell Community Center,State House,22,DEM,OverVotes,0
+Gilchrist,4A Cruse Center,State House,22,DEM,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,State House,22,DEM,OverVotes,0
+Gilchrist,6A Osteen Center,State House,22,DEM,OverVotes,0
+Gilchrist,7A Osceola Center,State House,22,DEM,OverVotes,0
+Gilchrist,8A Southeast Center,State House,22,DEM,OverVotes,0
+Gilchrist,1A Trenton Center,State House,22,DEM,UnderVotes,8
+Gilchrist,1B County Library,State House,22,DEM,UnderVotes,3
+Gilchrist,1C County Library,State House,22,DEM,UnderVotes,0
+Gilchrist,2A Donnie Center,State House,22,DEM,UnderVotes,10
+Gilchrist,3A Bell Community Center,State House,22,DEM,UnderVotes,21
+Gilchrist,4A Cruse Center,State House,22,DEM,UnderVotes,8
+Gilchrist,5A N Gilchrist Fire Station,State House,22,DEM,UnderVotes,7
+Gilchrist,6A Osteen Center,State House,22,DEM,UnderVotes,13
+Gilchrist,7A Osceola Center,State House,22,DEM,UnderVotes,11
+Gilchrist,8A Southeast Center,State House,22,DEM,UnderVotes,11
+Gilchrist,1A Trenton Center,County Commissioner,4,REP,Adam P. Elliott,84
+Gilchrist,1B County Library,County Commissioner,4,REP,Adam P. Elliott,24
+Gilchrist,1C County Library,County Commissioner,4,REP,Adam P. Elliott,28
+Gilchrist,2A Donnie Center,County Commissioner,4,REP,Adam P. Elliott,191
+Gilchrist,3A Bell Community Center,County Commissioner,4,REP,Adam P. Elliott,170
+Gilchrist,4A Cruse Center,County Commissioner,4,REP,Adam P. Elliott,150
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,REP,Adam P. Elliott,94
+Gilchrist,6A Osteen Center,County Commissioner,4,REP,Adam P. Elliott,105
+Gilchrist,7A Osceola Center,County Commissioner,4,REP,Adam P. Elliott,73
+Gilchrist,8A Southeast Center,County Commissioner,4,REP,Adam P. Elliott,54
+Gilchrist,1A Trenton Center,County Commissioner,4,REP,Tommy Langford,110
+Gilchrist,1B County Library,County Commissioner,4,REP,Tommy Langford,46
+Gilchrist,1C County Library,County Commissioner,4,REP,Tommy Langford,21
+Gilchrist,2A Donnie Center,County Commissioner,4,REP,Tommy Langford,226
+Gilchrist,3A Bell Community Center,County Commissioner,4,REP,Tommy Langford,100
+Gilchrist,4A Cruse Center,County Commissioner,4,REP,Tommy Langford,120
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,REP,Tommy Langford,75
+Gilchrist,6A Osteen Center,County Commissioner,4,REP,Tommy Langford,237
+Gilchrist,7A Osceola Center,County Commissioner,4,REP,Tommy Langford,165
+Gilchrist,8A Southeast Center,County Commissioner,4,REP,Tommy Langford,120
+Gilchrist,1A Trenton Center,County Commissioner,4,REP,Eddy L. Scott,95
+Gilchrist,1B County Library,County Commissioner,4,REP,Eddy L. Scott,57
+Gilchrist,1C County Library,County Commissioner,4,REP,Eddy L. Scott,15
+Gilchrist,2A Donnie Center,County Commissioner,4,REP,Eddy L. Scott,173
+Gilchrist,3A Bell Community Center,County Commissioner,4,REP,Eddy L. Scott,190
+Gilchrist,4A Cruse Center,County Commissioner,4,REP,Eddy L. Scott,163
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,REP,Eddy L. Scott,70
+Gilchrist,6A Osteen Center,County Commissioner,4,REP,Eddy L. Scott,199
+Gilchrist,7A Osceola Center,County Commissioner,4,REP,Eddy L. Scott,100
+Gilchrist,8A Southeast Center,County Commissioner,4,REP,Eddy L. Scott,74
+Gilchrist,1A Trenton Center,County Commissioner,4,REP,OverVotes,0
+Gilchrist,1B County Library,County Commissioner,4,REP,OverVotes,0
+Gilchrist,1C County Library,County Commissioner,4,REP,OverVotes,0
+Gilchrist,2A Donnie Center,County Commissioner,4,REP,OverVotes,0
+Gilchrist,3A Bell Community Center,County Commissioner,4,REP,OverVotes,0
+Gilchrist,4A Cruse Center,County Commissioner,4,REP,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,REP,OverVotes,0
+Gilchrist,6A Osteen Center,County Commissioner,4,REP,OverVotes,0
+Gilchrist,7A Osceola Center,County Commissioner,4,REP,OverVotes,0
+Gilchrist,8A Southeast Center,County Commissioner,4,REP,OverVotes,0
+Gilchrist,1A Trenton Center,County Commissioner,4,REP,UnderVotes,6
+Gilchrist,1B County Library,County Commissioner,4,REP,UnderVotes,0
+Gilchrist,1C County Library,County Commissioner,4,REP,UnderVotes,0
+Gilchrist,2A Donnie Center,County Commissioner,4,REP,UnderVotes,6
+Gilchrist,3A Bell Community Center,County Commissioner,4,REP,UnderVotes,9
+Gilchrist,4A Cruse Center,County Commissioner,4,REP,UnderVotes,5
+Gilchrist,5A N Gilchrist Fire Station,County Commissioner,4,REP,UnderVotes,2
+Gilchrist,6A Osteen Center,County Commissioner,4,REP,UnderVotes,4
+Gilchrist,7A Osceola Center,County Commissioner,4,REP,UnderVotes,7
+Gilchrist,8A Southeast Center,County Commissioner,4,REP,UnderVotes,2
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,200
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,95
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,55
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,417
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,328
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,303
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,142
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,319
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,221
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,153
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,29
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,11
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,16
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,38
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,27
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,39
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,20
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,45
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,33
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,22
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,78
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,30
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,21
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,149
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,112
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,116
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,54
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,185
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,93
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,90
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,37
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,16
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,13
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,78
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,74
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,90
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,70
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,101
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,69
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,55
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Gilchrist,1A Trenton Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,22
+Gilchrist,1B County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,10
+Gilchrist,1C County Library,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,5
+Gilchrist,2A Donnie Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,41
+Gilchrist,3A Bell Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,50
+Gilchrist,4A Cruse Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,20
+Gilchrist,5A N Gilchrist Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,25
+Gilchrist,6A Osteen Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,43
+Gilchrist,7A Osceola Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,38
+Gilchrist,8A Southeast Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,19
+Gilchrist,1A Trenton Center,School Board,3,NOP,Billy Mikell,119
+Gilchrist,1B County Library,School Board,3,NOP,Billy Mikell,66
+Gilchrist,1C County Library,School Board,3,NOP,Billy Mikell,29
+Gilchrist,2A Donnie Center,School Board,3,NOP,Billy Mikell,314
+Gilchrist,3A Bell Community Center,School Board,3,NOP,Billy Mikell,247
+Gilchrist,4A Cruse Center,School Board,3,NOP,Billy Mikell,277
+Gilchrist,5A N Gilchrist Fire Station,School Board,3,NOP,Billy Mikell,116
+Gilchrist,6A Osteen Center,School Board,3,NOP,Billy Mikell,299
+Gilchrist,7A Osceola Center,School Board,3,NOP,Billy Mikell,171
+Gilchrist,8A Southeast Center,School Board,3,NOP,Billy Mikell,130
+Gilchrist,1A Trenton Center,School Board,3,NOP,F. Michelle Walker-Crawford,234
+Gilchrist,1B County Library,School Board,3,NOP,F. Michelle Walker-Crawford,92
+Gilchrist,1C County Library,School Board,3,NOP,F. Michelle Walker-Crawford,79
+Gilchrist,2A Donnie Center,School Board,3,NOP,F. Michelle Walker-Crawford,387
+Gilchrist,3A Bell Community Center,School Board,3,NOP,F. Michelle Walker-Crawford,320
+Gilchrist,4A Cruse Center,School Board,3,NOP,F. Michelle Walker-Crawford,272
+Gilchrist,5A N Gilchrist Fire Station,School Board,3,NOP,F. Michelle Walker-Crawford,175
+Gilchrist,6A Osteen Center,School Board,3,NOP,F. Michelle Walker-Crawford,348
+Gilchrist,7A Osceola Center,School Board,3,NOP,F. Michelle Walker-Crawford,251
+Gilchrist,8A Southeast Center,School Board,3,NOP,F. Michelle Walker-Crawford,181
+Gilchrist,1A Trenton Center,School Board,3,NOP,OverVotes,0
+Gilchrist,1B County Library,School Board,3,NOP,OverVotes,0
+Gilchrist,1C County Library,School Board,3,NOP,OverVotes,0
+Gilchrist,2A Donnie Center,School Board,3,NOP,OverVotes,0
+Gilchrist,3A Bell Community Center,School Board,3,NOP,OverVotes,0
+Gilchrist,4A Cruse Center,School Board,3,NOP,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,School Board,3,NOP,OverVotes,0
+Gilchrist,6A Osteen Center,School Board,3,NOP,OverVotes,0
+Gilchrist,7A Osceola Center,School Board,3,NOP,OverVotes,0
+Gilchrist,8A Southeast Center,School Board,3,NOP,OverVotes,0
+Gilchrist,1A Trenton Center,School Board,3,NOP,UnderVotes,13
+Gilchrist,1B County Library,School Board,3,NOP,UnderVotes,4
+Gilchrist,1C County Library,School Board,3,NOP,UnderVotes,2
+Gilchrist,2A Donnie Center,School Board,3,NOP,UnderVotes,22
+Gilchrist,3A Bell Community Center,School Board,3,NOP,UnderVotes,24
+Gilchrist,4A Cruse Center,School Board,3,NOP,UnderVotes,19
+Gilchrist,5A N Gilchrist Fire Station,School Board,3,NOP,UnderVotes,20
+Gilchrist,6A Osteen Center,School Board,3,NOP,UnderVotes,46
+Gilchrist,7A Osceola Center,School Board,3,NOP,UnderVotes,32
+Gilchrist,8A Southeast Center,School Board,3,NOP,UnderVotes,28
+Gilchrist,1A Trenton Center,School Board,5,NOP,Deen Lancaster,290
+Gilchrist,1B County Library,School Board,5,NOP,Deen Lancaster,136
+Gilchrist,1C County Library,School Board,5,NOP,Deen Lancaster,97
+Gilchrist,2A Donnie Center,School Board,5,NOP,Deen Lancaster,560
+Gilchrist,3A Bell Community Center,School Board,5,NOP,Deen Lancaster,457
+Gilchrist,4A Cruse Center,School Board,5,NOP,Deen Lancaster,421
+Gilchrist,5A N Gilchrist Fire Station,School Board,5,NOP,Deen Lancaster,197
+Gilchrist,6A Osteen Center,School Board,5,NOP,Deen Lancaster,419
+Gilchrist,7A Osceola Center,School Board,5,NOP,Deen Lancaster,285
+Gilchrist,8A Southeast Center,School Board,5,NOP,Deen Lancaster,209
+Gilchrist,1A Trenton Center,School Board,5,NOP,"William ""Bill"" Popp",64
+Gilchrist,1B County Library,School Board,5,NOP,"William ""Bill"" Popp",25
+Gilchrist,1C County Library,School Board,5,NOP,"William ""Bill"" Popp",13
+Gilchrist,2A Donnie Center,School Board,5,NOP,"William ""Bill"" Popp",141
+Gilchrist,3A Bell Community Center,School Board,5,NOP,"William ""Bill"" Popp",106
+Gilchrist,4A Cruse Center,School Board,5,NOP,"William ""Bill"" Popp",134
+Gilchrist,5A N Gilchrist Fire Station,School Board,5,NOP,"William ""Bill"" Popp",96
+Gilchrist,6A Osteen Center,School Board,5,NOP,"William ""Bill"" Popp",232
+Gilchrist,7A Osceola Center,School Board,5,NOP,"William ""Bill"" Popp",138
+Gilchrist,8A Southeast Center,School Board,5,NOP,"William ""Bill"" Popp",103
+Gilchrist,1A Trenton Center,School Board,5,NOP,OverVotes,0
+Gilchrist,1B County Library,School Board,5,NOP,OverVotes,0
+Gilchrist,1C County Library,School Board,5,NOP,OverVotes,0
+Gilchrist,2A Donnie Center,School Board,5,NOP,OverVotes,0
+Gilchrist,3A Bell Community Center,School Board,5,NOP,OverVotes,0
+Gilchrist,4A Cruse Center,School Board,5,NOP,OverVotes,0
+Gilchrist,5A N Gilchrist Fire Station,School Board,5,NOP,OverVotes,0
+Gilchrist,6A Osteen Center,School Board,5,NOP,OverVotes,0
+Gilchrist,7A Osceola Center,School Board,5,NOP,OverVotes,0
+Gilchrist,8A Southeast Center,School Board,5,NOP,OverVotes,0
+Gilchrist,1A Trenton Center,School Board,5,NOP,UnderVotes,12
+Gilchrist,1B County Library,School Board,5,NOP,UnderVotes,1
+Gilchrist,1C County Library,School Board,5,NOP,UnderVotes,0
+Gilchrist,2A Donnie Center,School Board,5,NOP,UnderVotes,22
+Gilchrist,3A Bell Community Center,School Board,5,NOP,UnderVotes,28
+Gilchrist,4A Cruse Center,School Board,5,NOP,UnderVotes,13
+Gilchrist,5A N Gilchrist Fire Station,School Board,5,NOP,UnderVotes,18
+Gilchrist,6A Osteen Center,School Board,5,NOP,UnderVotes,42
+Gilchrist,7A Osceola Center,School Board,5,NOP,UnderVotes,31
+Gilchrist,8A Southeast Center,School Board,5,NOP,UnderVotes,27
+Gilchrist,1A Trenton Center,Registered Voters,"","","",1061
+Gilchrist,1B County Library,Registered Voters,"","","",484
+Gilchrist,1C County Library,Registered Voters,"","","",310
+Gilchrist,2A Donnie Center,Registered Voters,"","","",1750
+Gilchrist,3A Bell Community Center,Registered Voters,"","","",1539
+Gilchrist,4A Cruse Center,Registered Voters,"","","",1631
+Gilchrist,5A N Gilchrist Fire Station,Registered Voters,"","","",895
+Gilchrist,6A Osteen Center,Registered Voters,"","","",1791
+Gilchrist,7A Osceola Center,Registered Voters,"","","",1212
+Gilchrist,8A Southeast Center,Registered Voters,"","","",1280
