@@ -1,0 +1,532 @@
+county,precinct,office,district,party,candidate,votes
+Baker,1:Sanderson Community Center,U.S. Senate,"",DEM,Ricardo De La Fuente,14
+Baker,2:Macclenny Baptist Gym,U.S. Senate,"",DEM,Ricardo De La Fuente,9
+Baker,3:Center of the Agriculture,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Baker,4:Baxter Fire Station,U.S. Senate,"",DEM,Ricardo De La Fuente,0
+Baker,5:Taylor Voting House,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Baker,6:Center of the Agriculture,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Baker,7:Cuyler Church Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Baker,8:Glen Baptist Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,11
+Baker,9:Olustee Baptist Hall,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Baker,1:Sanderson Community Center,U.S. Senate,"",DEM,Val Demings,159
+Baker,2:Macclenny Baptist Gym,U.S. Senate,"",DEM,Val Demings,95
+Baker,3:Center of the Agriculture,U.S. Senate,"",DEM,Val Demings,95
+Baker,4:Baxter Fire Station,U.S. Senate,"",DEM,Val Demings,5
+Baker,5:Taylor Voting House,U.S. Senate,"",DEM,Val Demings,13
+Baker,6:Center of the Agriculture,U.S. Senate,"",DEM,Val Demings,35
+Baker,7:Cuyler Church Hall,U.S. Senate,"",DEM,Val Demings,13
+Baker,8:Glen Baptist Hall,U.S. Senate,"",DEM,Val Demings,77
+Baker,9:Olustee Baptist Hall,U.S. Senate,"",DEM,Val Demings,24
+Baker,1:Sanderson Community Center,U.S. Senate,"",DEM,Brian Rush,40
+Baker,2:Macclenny Baptist Gym,U.S. Senate,"",DEM,Brian Rush,36
+Baker,3:Center of the Agriculture,U.S. Senate,"",DEM,Brian Rush,35
+Baker,4:Baxter Fire Station,U.S. Senate,"",DEM,Brian Rush,2
+Baker,5:Taylor Voting House,U.S. Senate,"",DEM,Brian Rush,9
+Baker,6:Center of the Agriculture,U.S. Senate,"",DEM,Brian Rush,25
+Baker,7:Cuyler Church Hall,U.S. Senate,"",DEM,Brian Rush,19
+Baker,8:Glen Baptist Hall,U.S. Senate,"",DEM,Brian Rush,56
+Baker,9:Olustee Baptist Hall,U.S. Senate,"",DEM,Brian Rush,3
+Baker,1:Sanderson Community Center,U.S. Senate,"",DEM,William Sanchez,42
+Baker,2:Macclenny Baptist Gym,U.S. Senate,"",DEM,William Sanchez,30
+Baker,3:Center of the Agriculture,U.S. Senate,"",DEM,William Sanchez,25
+Baker,4:Baxter Fire Station,U.S. Senate,"",DEM,William Sanchez,2
+Baker,5:Taylor Voting House,U.S. Senate,"",DEM,William Sanchez,7
+Baker,6:Center of the Agriculture,U.S. Senate,"",DEM,William Sanchez,21
+Baker,7:Cuyler Church Hall,U.S. Senate,"",DEM,William Sanchez,16
+Baker,8:Glen Baptist Hall,U.S. Senate,"",DEM,William Sanchez,29
+Baker,9:Olustee Baptist Hall,U.S. Senate,"",DEM,William Sanchez,4
+Baker,1:Sanderson Community Center,U.S. Senate,"",DEM,OverVotes,0
+Baker,2:Macclenny Baptist Gym,U.S. Senate,"",DEM,OverVotes,0
+Baker,3:Center of the Agriculture,U.S. Senate,"",DEM,OverVotes,0
+Baker,4:Baxter Fire Station,U.S. Senate,"",DEM,OverVotes,0
+Baker,5:Taylor Voting House,U.S. Senate,"",DEM,OverVotes,0
+Baker,6:Center of the Agriculture,U.S. Senate,"",DEM,OverVotes,0
+Baker,7:Cuyler Church Hall,U.S. Senate,"",DEM,OverVotes,0
+Baker,8:Glen Baptist Hall,U.S. Senate,"",DEM,OverVotes,0
+Baker,9:Olustee Baptist Hall,U.S. Senate,"",DEM,OverVotes,0
+Baker,1:Sanderson Community Center,U.S. Senate,"",DEM,UnderVotes,32
+Baker,2:Macclenny Baptist Gym,U.S. Senate,"",DEM,UnderVotes,33
+Baker,3:Center of the Agriculture,U.S. Senate,"",DEM,UnderVotes,27
+Baker,4:Baxter Fire Station,U.S. Senate,"",DEM,UnderVotes,4
+Baker,5:Taylor Voting House,U.S. Senate,"",DEM,UnderVotes,9
+Baker,6:Center of the Agriculture,U.S. Senate,"",DEM,UnderVotes,32
+Baker,7:Cuyler Church Hall,U.S. Senate,"",DEM,UnderVotes,16
+Baker,8:Glen Baptist Hall,U.S. Senate,"",DEM,UnderVotes,53
+Baker,9:Olustee Baptist Hall,U.S. Senate,"",DEM,UnderVotes,1
+Baker,1:Sanderson Community Center,U.S. House,3,REP,Kat Cammack,353
+Baker,2:Macclenny Baptist Gym,U.S. House,3,REP,Kat Cammack,562
+Baker,3:Center of the Agriculture,U.S. House,3,REP,Kat Cammack,596
+Baker,4:Baxter Fire Station,U.S. House,3,REP,Kat Cammack,50
+Baker,5:Taylor Voting House,U.S. House,3,REP,Kat Cammack,128
+Baker,6:Center of the Agriculture,U.S. House,3,REP,Kat Cammack,527
+Baker,7:Cuyler Church Hall,U.S. House,3,REP,Kat Cammack,223
+Baker,8:Glen Baptist Hall,U.S. House,3,REP,Kat Cammack,728
+Baker,9:Olustee Baptist Hall,U.S. House,3,REP,Kat Cammack,45
+Baker,1:Sanderson Community Center,U.S. House,3,REP,Justin Waters,107
+Baker,2:Macclenny Baptist Gym,U.S. House,3,REP,Justin Waters,184
+Baker,3:Center of the Agriculture,U.S. House,3,REP,Justin Waters,205
+Baker,4:Baxter Fire Station,U.S. House,3,REP,Justin Waters,10
+Baker,5:Taylor Voting House,U.S. House,3,REP,Justin Waters,56
+Baker,6:Center of the Agriculture,U.S. House,3,REP,Justin Waters,132
+Baker,7:Cuyler Church Hall,U.S. House,3,REP,Justin Waters,55
+Baker,8:Glen Baptist Hall,U.S. House,3,REP,Justin Waters,221
+Baker,9:Olustee Baptist Hall,U.S. House,3,REP,Justin Waters,14
+Baker,1:Sanderson Community Center,U.S. House,3,DEM,Danielle Hawk,115
+Baker,2:Macclenny Baptist Gym,U.S. House,3,DEM,Danielle Hawk,81
+Baker,3:Center of the Agriculture,U.S. House,3,DEM,Danielle Hawk,86
+Baker,4:Baxter Fire Station,U.S. House,3,DEM,Danielle Hawk,5
+Baker,5:Taylor Voting House,U.S. House,3,DEM,Danielle Hawk,15
+Baker,6:Center of the Agriculture,U.S. House,3,DEM,Danielle Hawk,35
+Baker,7:Cuyler Church Hall,U.S. House,3,DEM,Danielle Hawk,25
+Baker,8:Glen Baptist Hall,U.S. House,3,DEM,Danielle Hawk,78
+Baker,9:Olustee Baptist Hall,U.S. House,3,DEM,Danielle Hawk,20
+Baker,1:Sanderson Community Center,U.S. House,3,DEM,Tom Wells,125
+Baker,2:Macclenny Baptist Gym,U.S. House,3,DEM,Tom Wells,85
+Baker,3:Center of the Agriculture,U.S. House,3,DEM,Tom Wells,72
+Baker,4:Baxter Fire Station,U.S. House,3,DEM,Tom Wells,4
+Baker,5:Taylor Voting House,U.S. House,3,DEM,Tom Wells,17
+Baker,6:Center of the Agriculture,U.S. House,3,DEM,Tom Wells,48
+Baker,7:Cuyler Church Hall,U.S. House,3,DEM,Tom Wells,21
+Baker,8:Glen Baptist Hall,U.S. House,3,DEM,Tom Wells,88
+Baker,9:Olustee Baptist Hall,U.S. House,3,DEM,Tom Wells,10
+Baker,1:Sanderson Community Center,U.S. House,3,DEM,OverVotes,0
+Baker,2:Macclenny Baptist Gym,U.S. House,3,DEM,OverVotes,0
+Baker,3:Center of the Agriculture,U.S. House,3,DEM,OverVotes,0
+Baker,4:Baxter Fire Station,U.S. House,3,DEM,OverVotes,0
+Baker,5:Taylor Voting House,U.S. House,3,DEM,OverVotes,0
+Baker,6:Center of the Agriculture,U.S. House,3,DEM,OverVotes,0
+Baker,7:Cuyler Church Hall,U.S. House,3,DEM,OverVotes,0
+Baker,8:Glen Baptist Hall,U.S. House,3,DEM,OverVotes,0
+Baker,9:Olustee Baptist Hall,U.S. House,3,DEM,OverVotes,0
+Baker,1:Sanderson Community Center,U.S. House,3,DEM,UnderVotes,47
+Baker,2:Macclenny Baptist Gym,U.S. House,3,DEM,UnderVotes,37
+Baker,3:Center of the Agriculture,U.S. House,3,DEM,UnderVotes,37
+Baker,4:Baxter Fire Station,U.S. House,3,DEM,UnderVotes,4
+Baker,5:Taylor Voting House,U.S. House,3,DEM,UnderVotes,8
+Baker,6:Center of the Agriculture,U.S. House,3,DEM,UnderVotes,34
+Baker,7:Cuyler Church Hall,U.S. House,3,DEM,UnderVotes,20
+Baker,8:Glen Baptist Hall,U.S. House,3,DEM,UnderVotes,60
+Baker,9:Olustee Baptist Hall,U.S. House,3,DEM,UnderVotes,4
+Baker,1:Sanderson Community Center,Governor,"",DEM,Charlie Crist,136
+Baker,2:Macclenny Baptist Gym,Governor,"",DEM,Charlie Crist,80
+Baker,3:Center of the Agriculture,Governor,"",DEM,Charlie Crist,71
+Baker,4:Baxter Fire Station,Governor,"",DEM,Charlie Crist,2
+Baker,5:Taylor Voting House,Governor,"",DEM,Charlie Crist,13
+Baker,6:Center of the Agriculture,Governor,"",DEM,Charlie Crist,42
+Baker,7:Cuyler Church Hall,Governor,"",DEM,Charlie Crist,19
+Baker,8:Glen Baptist Hall,Governor,"",DEM,Charlie Crist,62
+Baker,9:Olustee Baptist Hall,Governor,"",DEM,Charlie Crist,14
+Baker,1:Sanderson Community Center,Governor,"",DEM,Cadance Daniel,28
+Baker,2:Macclenny Baptist Gym,Governor,"",DEM,Cadance Daniel,11
+Baker,3:Center of the Agriculture,Governor,"",DEM,Cadance Daniel,8
+Baker,4:Baxter Fire Station,Governor,"",DEM,Cadance Daniel,2
+Baker,5:Taylor Voting House,Governor,"",DEM,Cadance Daniel,6
+Baker,6:Center of the Agriculture,Governor,"",DEM,Cadance Daniel,8
+Baker,7:Cuyler Church Hall,Governor,"",DEM,Cadance Daniel,8
+Baker,8:Glen Baptist Hall,Governor,"",DEM,Cadance Daniel,12
+Baker,9:Olustee Baptist Hall,Governor,"",DEM,Cadance Daniel,0
+Baker,1:Sanderson Community Center,Governor,"",DEM,"Nicole ""Nikki"" Fried",63
+Baker,2:Macclenny Baptist Gym,Governor,"",DEM,"Nicole ""Nikki"" Fried",65
+Baker,3:Center of the Agriculture,Governor,"",DEM,"Nicole ""Nikki"" Fried",66
+Baker,4:Baxter Fire Station,Governor,"",DEM,"Nicole ""Nikki"" Fried",7
+Baker,5:Taylor Voting House,Governor,"",DEM,"Nicole ""Nikki"" Fried",9
+Baker,6:Center of the Agriculture,Governor,"",DEM,"Nicole ""Nikki"" Fried",27
+Baker,7:Cuyler Church Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",10
+Baker,8:Glen Baptist Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",74
+Baker,9:Olustee Baptist Hall,Governor,"",DEM,"Nicole ""Nikki"" Fried",19
+Baker,1:Sanderson Community Center,Governor,"",DEM,Robert L. Willis,29
+Baker,2:Macclenny Baptist Gym,Governor,"",DEM,Robert L. Willis,22
+Baker,3:Center of the Agriculture,Governor,"",DEM,Robert L. Willis,24
+Baker,4:Baxter Fire Station,Governor,"",DEM,Robert L. Willis,0
+Baker,5:Taylor Voting House,Governor,"",DEM,Robert L. Willis,4
+Baker,6:Center of the Agriculture,Governor,"",DEM,Robert L. Willis,20
+Baker,7:Cuyler Church Hall,Governor,"",DEM,Robert L. Willis,14
+Baker,8:Glen Baptist Hall,Governor,"",DEM,Robert L. Willis,36
+Baker,9:Olustee Baptist Hall,Governor,"",DEM,Robert L. Willis,1
+Baker,1:Sanderson Community Center,Governor,"",DEM,OverVotes,0
+Baker,2:Macclenny Baptist Gym,Governor,"",DEM,OverVotes,0
+Baker,3:Center of the Agriculture,Governor,"",DEM,OverVotes,0
+Baker,4:Baxter Fire Station,Governor,"",DEM,OverVotes,0
+Baker,5:Taylor Voting House,Governor,"",DEM,OverVotes,0
+Baker,6:Center of the Agriculture,Governor,"",DEM,OverVotes,0
+Baker,7:Cuyler Church Hall,Governor,"",DEM,OverVotes,0
+Baker,8:Glen Baptist Hall,Governor,"",DEM,OverVotes,0
+Baker,9:Olustee Baptist Hall,Governor,"",DEM,OverVotes,0
+Baker,1:Sanderson Community Center,Governor,"",DEM,UnderVotes,31
+Baker,2:Macclenny Baptist Gym,Governor,"",DEM,UnderVotes,25
+Baker,3:Center of the Agriculture,Governor,"",DEM,UnderVotes,26
+Baker,4:Baxter Fire Station,Governor,"",DEM,UnderVotes,2
+Baker,5:Taylor Voting House,Governor,"",DEM,UnderVotes,8
+Baker,6:Center of the Agriculture,Governor,"",DEM,UnderVotes,20
+Baker,7:Cuyler Church Hall,Governor,"",DEM,UnderVotes,15
+Baker,8:Glen Baptist Hall,Governor,"",DEM,UnderVotes,42
+Baker,9:Olustee Baptist Hall,Governor,"",DEM,UnderVotes,0
+Baker,1:Sanderson Community Center,Attorney General,"",DEM,Aramis Ayala,76
+Baker,2:Macclenny Baptist Gym,Attorney General,"",DEM,Aramis Ayala,43
+Baker,3:Center of the Agriculture,Attorney General,"",DEM,Aramis Ayala,50
+Baker,4:Baxter Fire Station,Attorney General,"",DEM,Aramis Ayala,1
+Baker,5:Taylor Voting House,Attorney General,"",DEM,Aramis Ayala,3
+Baker,6:Center of the Agriculture,Attorney General,"",DEM,Aramis Ayala,18
+Baker,7:Cuyler Church Hall,Attorney General,"",DEM,Aramis Ayala,8
+Baker,8:Glen Baptist Hall,Attorney General,"",DEM,Aramis Ayala,28
+Baker,9:Olustee Baptist Hall,Attorney General,"",DEM,Aramis Ayala,13
+Baker,1:Sanderson Community Center,Attorney General,"",DEM,Jim Lewis,128
+Baker,2:Macclenny Baptist Gym,Attorney General,"",DEM,Jim Lewis,79
+Baker,3:Center of the Agriculture,Attorney General,"",DEM,Jim Lewis,87
+Baker,4:Baxter Fire Station,Attorney General,"",DEM,Jim Lewis,6
+Baker,5:Taylor Voting House,Attorney General,"",DEM,Jim Lewis,22
+Baker,6:Center of the Agriculture,Attorney General,"",DEM,Jim Lewis,37
+Baker,7:Cuyler Church Hall,Attorney General,"",DEM,Jim Lewis,29
+Baker,8:Glen Baptist Hall,Attorney General,"",DEM,Jim Lewis,98
+Baker,9:Olustee Baptist Hall,Attorney General,"",DEM,Jim Lewis,14
+Baker,1:Sanderson Community Center,Attorney General,"",DEM,Daniel Uhlfelder,36
+Baker,2:Macclenny Baptist Gym,Attorney General,"",DEM,Daniel Uhlfelder,40
+Baker,3:Center of the Agriculture,Attorney General,"",DEM,Daniel Uhlfelder,24
+Baker,4:Baxter Fire Station,Attorney General,"",DEM,Daniel Uhlfelder,2
+Baker,5:Taylor Voting House,Attorney General,"",DEM,Daniel Uhlfelder,7
+Baker,6:Center of the Agriculture,Attorney General,"",DEM,Daniel Uhlfelder,28
+Baker,7:Cuyler Church Hall,Attorney General,"",DEM,Daniel Uhlfelder,8
+Baker,8:Glen Baptist Hall,Attorney General,"",DEM,Daniel Uhlfelder,37
+Baker,9:Olustee Baptist Hall,Attorney General,"",DEM,Daniel Uhlfelder,4
+Baker,1:Sanderson Community Center,Attorney General,"",DEM,OverVotes,0
+Baker,2:Macclenny Baptist Gym,Attorney General,"",DEM,OverVotes,0
+Baker,3:Center of the Agriculture,Attorney General,"",DEM,OverVotes,0
+Baker,4:Baxter Fire Station,Attorney General,"",DEM,OverVotes,0
+Baker,5:Taylor Voting House,Attorney General,"",DEM,OverVotes,0
+Baker,6:Center of the Agriculture,Attorney General,"",DEM,OverVotes,0
+Baker,7:Cuyler Church Hall,Attorney General,"",DEM,OverVotes,0
+Baker,8:Glen Baptist Hall,Attorney General,"",DEM,OverVotes,0
+Baker,9:Olustee Baptist Hall,Attorney General,"",DEM,OverVotes,0
+Baker,1:Sanderson Community Center,Attorney General,"",DEM,UnderVotes,47
+Baker,2:Macclenny Baptist Gym,Attorney General,"",DEM,UnderVotes,41
+Baker,3:Center of the Agriculture,Attorney General,"",DEM,UnderVotes,34
+Baker,4:Baxter Fire Station,Attorney General,"",DEM,UnderVotes,4
+Baker,5:Taylor Voting House,Attorney General,"",DEM,UnderVotes,8
+Baker,6:Center of the Agriculture,Attorney General,"",DEM,UnderVotes,34
+Baker,7:Cuyler Church Hall,Attorney General,"",DEM,UnderVotes,21
+Baker,8:Glen Baptist Hall,Attorney General,"",DEM,UnderVotes,63
+Baker,9:Olustee Baptist Hall,Attorney General,"",DEM,UnderVotes,3
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",REP,James W. Shaw,206
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",REP,James W. Shaw,289
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",REP,James W. Shaw,349
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",REP,James W. Shaw,28
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",REP,James W. Shaw,96
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",REP,James W. Shaw,261
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",REP,James W. Shaw,134
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",REP,James W. Shaw,381
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",REP,James W. Shaw,21
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",REP,Wilton Simpson,257
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",REP,Wilton Simpson,467
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",REP,Wilton Simpson,443
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",REP,Wilton Simpson,34
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",REP,Wilton Simpson,95
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",REP,Wilton Simpson,397
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,145
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,576
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",REP,Wilton Simpson,38
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",REP,OverVotes,0
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",REP,UnderVotes,23
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",REP,UnderVotes,56
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",REP,UnderVotes,59
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",REP,UnderVotes,2
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",REP,UnderVotes,10
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",REP,UnderVotes,59
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",REP,UnderVotes,13
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",REP,UnderVotes,59
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",REP,UnderVotes,1
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,106
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,76
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,69
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,3
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,25
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,10
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,56
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,15
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",DEM,J. R. Gaillot,45
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",DEM,J. R. Gaillot,40
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",DEM,J. R. Gaillot,33
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",DEM,J. R. Gaillot,5
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",DEM,J. R. Gaillot,9
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,14
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,40
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",DEM,Ryan Morales,88
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",DEM,Ryan Morales,47
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",DEM,Ryan Morales,55
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",DEM,Ryan Morales,1
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",DEM,Ryan Morales,16
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",DEM,Ryan Morales,34
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,22
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,68
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",DEM,Ryan Morales,10
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",DEM,OverVotes,0
+Baker,1:Sanderson Community Center,Commissioner of Agriculture,"",DEM,UnderVotes,48
+Baker,2:Macclenny Baptist Gym,Commissioner of Agriculture,"",DEM,UnderVotes,40
+Baker,3:Center of the Agriculture,Commissioner of Agriculture,"",DEM,UnderVotes,38
+Baker,4:Baxter Fire Station,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Baker,5:Taylor Voting House,Commissioner of Agriculture,"",DEM,UnderVotes,8
+Baker,6:Center of the Agriculture,Commissioner of Agriculture,"",DEM,UnderVotes,38
+Baker,7:Cuyler Church Hall,Commissioner of Agriculture,"",DEM,UnderVotes,20
+Baker,8:Glen Baptist Hall,Commissioner of Agriculture,"",DEM,UnderVotes,62
+Baker,9:Olustee Baptist Hall,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Baker,1:Sanderson Community Center,County Commissioner,2,REP,Jimmy Anderson,378
+Baker,2:Macclenny Baptist Gym,County Commissioner,2,REP,Jimmy Anderson,535
+Baker,3:Center of the Agriculture,County Commissioner,2,REP,Jimmy Anderson,573
+Baker,4:Baxter Fire Station,County Commissioner,2,REP,Jimmy Anderson,44
+Baker,5:Taylor Voting House,County Commissioner,2,REP,Jimmy Anderson,127
+Baker,6:Center of the Agriculture,County Commissioner,2,REP,Jimmy Anderson,445
+Baker,7:Cuyler Church Hall,County Commissioner,2,REP,Jimmy Anderson,183
+Baker,8:Glen Baptist Hall,County Commissioner,2,REP,Jimmy Anderson,593
+Baker,9:Olustee Baptist Hall,County Commissioner,2,REP,Jimmy Anderson,29
+Baker,1:Sanderson Community Center,County Commissioner,2,REP,Ricky R Horne,400
+Baker,2:Macclenny Baptist Gym,County Commissioner,2,REP,Ricky R Horne,484
+Baker,3:Center of the Agriculture,County Commissioner,2,REP,Ricky R Horne,509
+Baker,4:Baxter Fire Station,County Commissioner,2,REP,Ricky R Horne,34
+Baker,5:Taylor Voting House,County Commissioner,2,REP,Ricky R Horne,119
+Baker,6:Center of the Agriculture,County Commissioner,2,REP,Ricky R Horne,384
+Baker,7:Cuyler Church Hall,County Commissioner,2,REP,Ricky R Horne,189
+Baker,8:Glen Baptist Hall,County Commissioner,2,REP,Ricky R Horne,672
+Baker,9:Olustee Baptist Hall,County Commissioner,2,REP,Ricky R Horne,55
+Baker,1:Sanderson Community Center,County Commissioner,2,REP,OverVotes,0
+Baker,2:Macclenny Baptist Gym,County Commissioner,2,REP,OverVotes,0
+Baker,3:Center of the Agriculture,County Commissioner,2,REP,OverVotes,0
+Baker,4:Baxter Fire Station,County Commissioner,2,REP,OverVotes,0
+Baker,5:Taylor Voting House,County Commissioner,2,REP,OverVotes,0
+Baker,6:Center of the Agriculture,County Commissioner,2,REP,OverVotes,0
+Baker,7:Cuyler Church Hall,County Commissioner,2,REP,OverVotes,0
+Baker,8:Glen Baptist Hall,County Commissioner,2,REP,OverVotes,0
+Baker,9:Olustee Baptist Hall,County Commissioner,2,REP,OverVotes,0
+Baker,1:Sanderson Community Center,County Commissioner,2,REP,UnderVotes,44
+Baker,2:Macclenny Baptist Gym,County Commissioner,2,REP,UnderVotes,37
+Baker,3:Center of the Agriculture,County Commissioner,2,REP,UnderVotes,33
+Baker,4:Baxter Fire Station,County Commissioner,2,REP,UnderVotes,1
+Baker,5:Taylor Voting House,County Commissioner,2,REP,UnderVotes,6
+Baker,6:Center of the Agriculture,County Commissioner,2,REP,UnderVotes,37
+Baker,7:Cuyler Church Hall,County Commissioner,2,REP,UnderVotes,12
+Baker,8:Glen Baptist Hall,County Commissioner,2,REP,UnderVotes,24
+Baker,9:Olustee Baptist Hall,County Commissioner,2,REP,UnderVotes,14
+Baker,1:Sanderson Community Center,County Commissioner,4,REP,James G Bennett,349
+Baker,2:Macclenny Baptist Gym,County Commissioner,4,REP,James G Bennett,526
+Baker,3:Center of the Agriculture,County Commissioner,4,REP,James G Bennett,526
+Baker,4:Baxter Fire Station,County Commissioner,4,REP,James G Bennett,36
+Baker,5:Taylor Voting House,County Commissioner,4,REP,James G Bennett,135
+Baker,6:Center of the Agriculture,County Commissioner,4,REP,James G Bennett,442
+Baker,7:Cuyler Church Hall,County Commissioner,4,REP,James G Bennett,148
+Baker,8:Glen Baptist Hall,County Commissioner,4,REP,James G Bennett,574
+Baker,9:Olustee Baptist Hall,County Commissioner,4,REP,James G Bennett,40
+Baker,1:Sanderson Community Center,County Commissioner,4,REP,Betty Sue Center,206
+Baker,2:Macclenny Baptist Gym,County Commissioner,4,REP,Betty Sue Center,196
+Baker,3:Center of the Agriculture,County Commissioner,4,REP,Betty Sue Center,202
+Baker,4:Baxter Fire Station,County Commissioner,4,REP,Betty Sue Center,12
+Baker,5:Taylor Voting House,County Commissioner,4,REP,Betty Sue Center,32
+Baker,6:Center of the Agriculture,County Commissioner,4,REP,Betty Sue Center,151
+Baker,7:Cuyler Church Hall,County Commissioner,4,REP,Betty Sue Center,63
+Baker,8:Glen Baptist Hall,County Commissioner,4,REP,Betty Sue Center,291
+Baker,9:Olustee Baptist Hall,County Commissioner,4,REP,Betty Sue Center,32
+Baker,1:Sanderson Community Center,County Commissioner,4,REP,Eric Hair,238
+Baker,2:Macclenny Baptist Gym,County Commissioner,4,REP,Eric Hair,304
+Baker,3:Center of the Agriculture,County Commissioner,4,REP,Eric Hair,355
+Baker,4:Baxter Fire Station,County Commissioner,4,REP,Eric Hair,31
+Baker,5:Taylor Voting House,County Commissioner,4,REP,Eric Hair,83
+Baker,6:Center of the Agriculture,County Commissioner,4,REP,Eric Hair,247
+Baker,7:Cuyler Church Hall,County Commissioner,4,REP,Eric Hair,167
+Baker,8:Glen Baptist Hall,County Commissioner,4,REP,Eric Hair,402
+Baker,9:Olustee Baptist Hall,County Commissioner,4,REP,Eric Hair,16
+Baker,1:Sanderson Community Center,County Commissioner,4,REP,OverVotes,0
+Baker,2:Macclenny Baptist Gym,County Commissioner,4,REP,OverVotes,0
+Baker,3:Center of the Agriculture,County Commissioner,4,REP,OverVotes,0
+Baker,4:Baxter Fire Station,County Commissioner,4,REP,OverVotes,0
+Baker,5:Taylor Voting House,County Commissioner,4,REP,OverVotes,0
+Baker,6:Center of the Agriculture,County Commissioner,4,REP,OverVotes,0
+Baker,7:Cuyler Church Hall,County Commissioner,4,REP,OverVotes,0
+Baker,8:Glen Baptist Hall,County Commissioner,4,REP,OverVotes,0
+Baker,9:Olustee Baptist Hall,County Commissioner,4,REP,OverVotes,0
+Baker,1:Sanderson Community Center,County Commissioner,4,REP,UnderVotes,29
+Baker,2:Macclenny Baptist Gym,County Commissioner,4,REP,UnderVotes,30
+Baker,3:Center of the Agriculture,County Commissioner,4,REP,UnderVotes,32
+Baker,4:Baxter Fire Station,County Commissioner,4,REP,UnderVotes,0
+Baker,5:Taylor Voting House,County Commissioner,4,REP,UnderVotes,2
+Baker,6:Center of the Agriculture,County Commissioner,4,REP,UnderVotes,26
+Baker,7:Cuyler Church Hall,County Commissioner,4,REP,UnderVotes,6
+Baker,8:Glen Baptist Hall,County Commissioner,4,REP,UnderVotes,22
+Baker,9:Olustee Baptist Hall,County Commissioner,4,REP,UnderVotes,10
+Baker,1:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,373
+Baker,2:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,537
+Baker,3:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,580
+Baker,4:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,48
+Baker,5:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,130
+Baker,6:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,431
+Baker,7:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,209
+Baker,8:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,645
+Baker,9:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,37
+Baker,1:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,76
+Baker,2:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,68
+Baker,3:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,84
+Baker,4:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,5
+Baker,5:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,13
+Baker,6:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,26
+Baker,7:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,11
+Baker,8:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,58
+Baker,9:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,9
+Baker,1:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,119
+Baker,2:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,145
+Baker,3:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,143
+Baker,4:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,10
+Baker,5:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,30
+Baker,6:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,151
+Baker,7:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,58
+Baker,8:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,194
+Baker,9:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,23
+Baker,1:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,161
+Baker,2:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,193
+Baker,3:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,221
+Baker,4:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,9
+Baker,5:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,57
+Baker,6:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,163
+Baker,7:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,60
+Baker,8:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,251
+Baker,9:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,17
+Baker,1:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,2:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,3:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,1
+Baker,4:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,5:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,6:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,7:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,8:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,9:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Baker,1:Sanderson Community Center,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,93
+Baker,2:Macclenny Baptist Gym,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,113
+Baker,3:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,86
+Baker,4:Baxter Fire Station,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,7
+Baker,5:Taylor Voting House,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,22
+Baker,6:Center of the Agriculture,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,95
+Baker,7:Cuyler Church Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,46
+Baker,8:Glen Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,141
+Baker,9:Olustee Baptist Hall,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,12
+Baker,1:Sanderson Community Center,School Board,2,NOP,Jack Baker Jr.,499
+Baker,2:Macclenny Baptist Gym,School Board,2,NOP,Jack Baker Jr.,701
+Baker,3:Center of the Agriculture,School Board,2,NOP,Jack Baker Jr.,652
+Baker,4:Baxter Fire Station,School Board,2,NOP,Jack Baker Jr.,44
+Baker,5:Taylor Voting House,School Board,2,NOP,Jack Baker Jr.,155
+Baker,6:Center of the Agriculture,School Board,2,NOP,Jack Baker Jr.,552
+Baker,7:Cuyler Church Hall,School Board,2,NOP,Jack Baker Jr.,240
+Baker,8:Glen Baptist Hall,School Board,2,NOP,Jack Baker Jr.,836
+Baker,9:Olustee Baptist Hall,School Board,2,NOP,Jack Baker Jr.,48
+Baker,1:Sanderson Community Center,School Board,2,NOP,James M Curry II,299
+Baker,2:Macclenny Baptist Gym,School Board,2,NOP,James M Curry II,325
+Baker,3:Center of the Agriculture,School Board,2,NOP,James M Curry II,444
+Baker,4:Baxter Fire Station,School Board,2,NOP,James M Curry II,34
+Baker,5:Taylor Voting House,School Board,2,NOP,James M Curry II,88
+Baker,6:Center of the Agriculture,School Board,2,NOP,James M Curry II,294
+Baker,7:Cuyler Church Hall,School Board,2,NOP,James M Curry II,130
+Baker,8:Glen Baptist Hall,School Board,2,NOP,James M Curry II,426
+Baker,9:Olustee Baptist Hall,School Board,2,NOP,James M Curry II,39
+Baker,1:Sanderson Community Center,School Board,2,NOP,OverVotes,0
+Baker,2:Macclenny Baptist Gym,School Board,2,NOP,OverVotes,0
+Baker,3:Center of the Agriculture,School Board,2,NOP,OverVotes,0
+Baker,4:Baxter Fire Station,School Board,2,NOP,OverVotes,0
+Baker,5:Taylor Voting House,School Board,2,NOP,OverVotes,0
+Baker,6:Center of the Agriculture,School Board,2,NOP,OverVotes,0
+Baker,7:Cuyler Church Hall,School Board,2,NOP,OverVotes,0
+Baker,8:Glen Baptist Hall,School Board,2,NOP,OverVotes,0
+Baker,9:Olustee Baptist Hall,School Board,2,NOP,OverVotes,0
+Baker,1:Sanderson Community Center,School Board,2,NOP,UnderVotes,24
+Baker,2:Macclenny Baptist Gym,School Board,2,NOP,UnderVotes,30
+Baker,3:Center of the Agriculture,School Board,2,NOP,UnderVotes,19
+Baker,4:Baxter Fire Station,School Board,2,NOP,UnderVotes,1
+Baker,5:Taylor Voting House,School Board,2,NOP,UnderVotes,9
+Baker,6:Center of the Agriculture,School Board,2,NOP,UnderVotes,20
+Baker,7:Cuyler Church Hall,School Board,2,NOP,UnderVotes,14
+Baker,8:Glen Baptist Hall,School Board,2,NOP,UnderVotes,27
+Baker,9:Olustee Baptist Hall,School Board,2,NOP,UnderVotes,11
+Baker,1:Sanderson Community Center,School Board,4,NOP,Jody Anderson,151
+Baker,2:Macclenny Baptist Gym,School Board,4,NOP,Jody Anderson,161
+Baker,3:Center of the Agriculture,School Board,4,NOP,Jody Anderson,163
+Baker,4:Baxter Fire Station,School Board,4,NOP,Jody Anderson,21
+Baker,5:Taylor Voting House,School Board,4,NOP,Jody Anderson,50
+Baker,6:Center of the Agriculture,School Board,4,NOP,Jody Anderson,115
+Baker,7:Cuyler Church Hall,School Board,4,NOP,Jody Anderson,84
+Baker,8:Glen Baptist Hall,School Board,4,NOP,Jody Anderson,235
+Baker,9:Olustee Baptist Hall,School Board,4,NOP,Jody Anderson,6
+Baker,1:Sanderson Community Center,School Board,4,NOP,Mandi Canaday,358
+Baker,2:Macclenny Baptist Gym,School Board,4,NOP,Mandi Canaday,463
+Baker,3:Center of the Agriculture,School Board,4,NOP,Mandi Canaday,411
+Baker,4:Baxter Fire Station,School Board,4,NOP,Mandi Canaday,37
+Baker,5:Taylor Voting House,School Board,4,NOP,Mandi Canaday,96
+Baker,6:Center of the Agriculture,School Board,4,NOP,Mandi Canaday,349
+Baker,7:Cuyler Church Hall,School Board,4,NOP,Mandi Canaday,155
+Baker,8:Glen Baptist Hall,School Board,4,NOP,Mandi Canaday,459
+Baker,9:Olustee Baptist Hall,School Board,4,NOP,Mandi Canaday,48
+Baker,1:Sanderson Community Center,School Board,4,NOP,Diana L Chance,43
+Baker,2:Macclenny Baptist Gym,School Board,4,NOP,Diana L Chance,64
+Baker,3:Center of the Agriculture,School Board,4,NOP,Diana L Chance,44
+Baker,4:Baxter Fire Station,School Board,4,NOP,Diana L Chance,0
+Baker,5:Taylor Voting House,School Board,4,NOP,Diana L Chance,20
+Baker,6:Center of the Agriculture,School Board,4,NOP,Diana L Chance,57
+Baker,7:Cuyler Church Hall,School Board,4,NOP,Diana L Chance,34
+Baker,8:Glen Baptist Hall,School Board,4,NOP,Diana L Chance,91
+Baker,9:Olustee Baptist Hall,School Board,4,NOP,Diana L Chance,7
+Baker,1:Sanderson Community Center,School Board,4,NOP,Michele Hodges,184
+Baker,2:Macclenny Baptist Gym,School Board,4,NOP,Michele Hodges,245
+Baker,3:Center of the Agriculture,School Board,4,NOP,Michele Hodges,341
+Baker,4:Baxter Fire Station,School Board,4,NOP,Michele Hodges,20
+Baker,5:Taylor Voting House,School Board,4,NOP,Michele Hodges,52
+Baker,6:Center of the Agriculture,School Board,4,NOP,Michele Hodges,216
+Baker,7:Cuyler Church Hall,School Board,4,NOP,Michele Hodges,75
+Baker,8:Glen Baptist Hall,School Board,4,NOP,Michele Hodges,340
+Baker,9:Olustee Baptist Hall,School Board,4,NOP,Michele Hodges,28
+Baker,1:Sanderson Community Center,School Board,4,NOP,Paul A Scammacca,64
+Baker,2:Macclenny Baptist Gym,School Board,4,NOP,Paul A Scammacca,109
+Baker,3:Center of the Agriculture,School Board,4,NOP,Paul A Scammacca,140
+Baker,4:Baxter Fire Station,School Board,4,NOP,Paul A Scammacca,1
+Baker,5:Taylor Voting House,School Board,4,NOP,Paul A Scammacca,29
+Baker,6:Center of the Agriculture,School Board,4,NOP,Paul A Scammacca,120
+Baker,7:Cuyler Church Hall,School Board,4,NOP,Paul A Scammacca,30
+Baker,8:Glen Baptist Hall,School Board,4,NOP,Paul A Scammacca,146
+Baker,9:Olustee Baptist Hall,School Board,4,NOP,Paul A Scammacca,4
+Baker,1:Sanderson Community Center,School Board,4,NOP,OverVotes,0
+Baker,2:Macclenny Baptist Gym,School Board,4,NOP,OverVotes,0
+Baker,3:Center of the Agriculture,School Board,4,NOP,OverVotes,0
+Baker,4:Baxter Fire Station,School Board,4,NOP,OverVotes,0
+Baker,5:Taylor Voting House,School Board,4,NOP,OverVotes,0
+Baker,6:Center of the Agriculture,School Board,4,NOP,OverVotes,0
+Baker,7:Cuyler Church Hall,School Board,4,NOP,OverVotes,0
+Baker,8:Glen Baptist Hall,School Board,4,NOP,OverVotes,0
+Baker,9:Olustee Baptist Hall,School Board,4,NOP,OverVotes,0
+Baker,1:Sanderson Community Center,School Board,4,NOP,UnderVotes,22
+Baker,2:Macclenny Baptist Gym,School Board,4,NOP,UnderVotes,14
+Baker,3:Center of the Agriculture,School Board,4,NOP,UnderVotes,16
+Baker,4:Baxter Fire Station,School Board,4,NOP,UnderVotes,0
+Baker,5:Taylor Voting House,School Board,4,NOP,UnderVotes,5
+Baker,6:Center of the Agriculture,School Board,4,NOP,UnderVotes,9
+Baker,7:Cuyler Church Hall,School Board,4,NOP,UnderVotes,6
+Baker,8:Glen Baptist Hall,School Board,4,NOP,UnderVotes,18
+Baker,9:Olustee Baptist Hall,School Board,4,NOP,UnderVotes,5
+Baker,1:Sanderson Community Center,Registered Voters,"","","",2419
+Baker,2:Macclenny Baptist Gym,Registered Voters,"","","",3571
+Baker,3:Center of the Agriculture,Registered Voters,"","","",3517
+Baker,4:Baxter Fire Station,Registered Voters,"","","",219
+Baker,5:Taylor Voting House,Registered Voters,"","","",688
+Baker,6:Center of the Agriculture,Registered Voters,"","","",2205
+Baker,7:Cuyler Church Hall,Registered Voters,"","","",1115
+Baker,8:Glen Baptist Hall,Registered Voters,"","","",3651
+Baker,9:Olustee Baptist Hall,Registered Voters,"","","",302

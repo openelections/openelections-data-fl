@@ -1,0 +1,596 @@
+county,precinct,office,district,party,candidate,votes
+Bradford,1,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Bradford,2,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Bradford,3,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Bradford,4,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Bradford,5,U.S. Senate,"",DEM,Ricardo De La Fuente,13
+Bradford,6,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Bradford,7,U.S. Senate,"",DEM,Ricardo De La Fuente,6
+Bradford,8,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Bradford,9,U.S. Senate,"",DEM,Ricardo De La Fuente,4
+Bradford,10,U.S. Senate,"",DEM,Ricardo De La Fuente,2
+Bradford,11,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Bradford,12,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Bradford,13,U.S. Senate,"",DEM,Ricardo De La Fuente,1
+Bradford,14,U.S. Senate,"",DEM,Ricardo De La Fuente,3
+Bradford,1,U.S. Senate,"",DEM,Val Demings,47
+Bradford,2,U.S. Senate,"",DEM,Val Demings,96
+Bradford,3,U.S. Senate,"",DEM,Val Demings,15
+Bradford,4,U.S. Senate,"",DEM,Val Demings,64
+Bradford,5,U.S. Senate,"",DEM,Val Demings,121
+Bradford,6,U.S. Senate,"",DEM,Val Demings,20
+Bradford,7,U.S. Senate,"",DEM,Val Demings,121
+Bradford,8,U.S. Senate,"",DEM,Val Demings,69
+Bradford,9,U.S. Senate,"",DEM,Val Demings,71
+Bradford,10,U.S. Senate,"",DEM,Val Demings,27
+Bradford,11,U.S. Senate,"",DEM,Val Demings,57
+Bradford,12,U.S. Senate,"",DEM,Val Demings,154
+Bradford,13,U.S. Senate,"",DEM,Val Demings,11
+Bradford,14,U.S. Senate,"",DEM,Val Demings,37
+Bradford,1,U.S. Senate,"",DEM,Brian Rush,33
+Bradford,2,U.S. Senate,"",DEM,Brian Rush,15
+Bradford,3,U.S. Senate,"",DEM,Brian Rush,14
+Bradford,4,U.S. Senate,"",DEM,Brian Rush,28
+Bradford,5,U.S. Senate,"",DEM,Brian Rush,44
+Bradford,6,U.S. Senate,"",DEM,Brian Rush,8
+Bradford,7,U.S. Senate,"",DEM,Brian Rush,24
+Bradford,8,U.S. Senate,"",DEM,Brian Rush,22
+Bradford,9,U.S. Senate,"",DEM,Brian Rush,14
+Bradford,10,U.S. Senate,"",DEM,Brian Rush,11
+Bradford,11,U.S. Senate,"",DEM,Brian Rush,14
+Bradford,12,U.S. Senate,"",DEM,Brian Rush,24
+Bradford,13,U.S. Senate,"",DEM,Brian Rush,5
+Bradford,14,U.S. Senate,"",DEM,Brian Rush,20
+Bradford,1,U.S. Senate,"",DEM,William Sanchez,17
+Bradford,2,U.S. Senate,"",DEM,William Sanchez,10
+Bradford,3,U.S. Senate,"",DEM,William Sanchez,7
+Bradford,4,U.S. Senate,"",DEM,William Sanchez,15
+Bradford,5,U.S. Senate,"",DEM,William Sanchez,16
+Bradford,6,U.S. Senate,"",DEM,William Sanchez,3
+Bradford,7,U.S. Senate,"",DEM,William Sanchez,12
+Bradford,8,U.S. Senate,"",DEM,William Sanchez,13
+Bradford,9,U.S. Senate,"",DEM,William Sanchez,8
+Bradford,10,U.S. Senate,"",DEM,William Sanchez,6
+Bradford,11,U.S. Senate,"",DEM,William Sanchez,7
+Bradford,12,U.S. Senate,"",DEM,William Sanchez,7
+Bradford,13,U.S. Senate,"",DEM,William Sanchez,3
+Bradford,14,U.S. Senate,"",DEM,William Sanchez,8
+Bradford,1,U.S. Senate,"",DEM,OverVotes,0
+Bradford,2,U.S. Senate,"",DEM,OverVotes,0
+Bradford,3,U.S. Senate,"",DEM,OverVotes,0
+Bradford,4,U.S. Senate,"",DEM,OverVotes,0
+Bradford,5,U.S. Senate,"",DEM,OverVotes,0
+Bradford,6,U.S. Senate,"",DEM,OverVotes,0
+Bradford,7,U.S. Senate,"",DEM,OverVotes,0
+Bradford,8,U.S. Senate,"",DEM,OverVotes,0
+Bradford,9,U.S. Senate,"",DEM,OverVotes,0
+Bradford,10,U.S. Senate,"",DEM,OverVotes,0
+Bradford,11,U.S. Senate,"",DEM,OverVotes,0
+Bradford,12,U.S. Senate,"",DEM,OverVotes,0
+Bradford,13,U.S. Senate,"",DEM,OverVotes,0
+Bradford,14,U.S. Senate,"",DEM,OverVotes,0
+Bradford,1,U.S. Senate,"",DEM,UnderVotes,17
+Bradford,2,U.S. Senate,"",DEM,UnderVotes,5
+Bradford,3,U.S. Senate,"",DEM,UnderVotes,11
+Bradford,4,U.S. Senate,"",DEM,UnderVotes,16
+Bradford,5,U.S. Senate,"",DEM,UnderVotes,7
+Bradford,6,U.S. Senate,"",DEM,UnderVotes,6
+Bradford,7,U.S. Senate,"",DEM,UnderVotes,4
+Bradford,8,U.S. Senate,"",DEM,UnderVotes,7
+Bradford,9,U.S. Senate,"",DEM,UnderVotes,9
+Bradford,10,U.S. Senate,"",DEM,UnderVotes,7
+Bradford,11,U.S. Senate,"",DEM,UnderVotes,13
+Bradford,12,U.S. Senate,"",DEM,UnderVotes,9
+Bradford,13,U.S. Senate,"",DEM,UnderVotes,4
+Bradford,14,U.S. Senate,"",DEM,UnderVotes,18
+Bradford,1,U.S. House,3,REP,Kat Cammack,442
+Bradford,2,U.S. House,3,REP,Kat Cammack,61
+Bradford,3,U.S. House,3,REP,Kat Cammack,159
+Bradford,4,U.S. House,3,REP,Kat Cammack,328
+Bradford,5,U.S. House,3,REP,Kat Cammack,260
+Bradford,6,U.S. House,3,REP,Kat Cammack,207
+Bradford,7,U.S. House,3,REP,Kat Cammack,73
+Bradford,8,U.S. House,3,REP,Kat Cammack,349
+Bradford,9,U.S. House,3,REP,Kat Cammack,208
+Bradford,10,U.S. House,3,REP,Kat Cammack,271
+Bradford,11,U.S. House,3,REP,Kat Cammack,238
+Bradford,12,U.S. House,3,REP,Kat Cammack,473
+Bradford,13,U.S. House,3,REP,Kat Cammack,118
+Bradford,14,U.S. House,3,REP,Kat Cammack,221
+Bradford,1,U.S. House,3,REP,Justin Waters,48
+Bradford,2,U.S. House,3,REP,Justin Waters,4
+Bradford,3,U.S. House,3,REP,Justin Waters,13
+Bradford,4,U.S. House,3,REP,Justin Waters,24
+Bradford,5,U.S. House,3,REP,Justin Waters,22
+Bradford,6,U.S. House,3,REP,Justin Waters,20
+Bradford,7,U.S. House,3,REP,Justin Waters,10
+Bradford,8,U.S. House,3,REP,Justin Waters,34
+Bradford,9,U.S. House,3,REP,Justin Waters,22
+Bradford,10,U.S. House,3,REP,Justin Waters,15
+Bradford,11,U.S. House,3,REP,Justin Waters,26
+Bradford,12,U.S. House,3,REP,Justin Waters,73
+Bradford,13,U.S. House,3,REP,Justin Waters,11
+Bradford,14,U.S. House,3,REP,Justin Waters,21
+Bradford,1,U.S. House,3,DEM,Danielle Hawk,43
+Bradford,2,U.S. House,3,DEM,Danielle Hawk,63
+Bradford,3,U.S. House,3,DEM,Danielle Hawk,13
+Bradford,4,U.S. House,3,DEM,Danielle Hawk,53
+Bradford,5,U.S. House,3,DEM,Danielle Hawk,108
+Bradford,6,U.S. House,3,DEM,Danielle Hawk,20
+Bradford,7,U.S. House,3,DEM,Danielle Hawk,80
+Bradford,8,U.S. House,3,DEM,Danielle Hawk,56
+Bradford,9,U.S. House,3,DEM,Danielle Hawk,49
+Bradford,10,U.S. House,3,DEM,Danielle Hawk,19
+Bradford,11,U.S. House,3,DEM,Danielle Hawk,37
+Bradford,12,U.S. House,3,DEM,Danielle Hawk,110
+Bradford,13,U.S. House,3,DEM,Danielle Hawk,6
+Bradford,14,U.S. House,3,DEM,Danielle Hawk,38
+Bradford,1,U.S. House,3,DEM,Tom Wells,59
+Bradford,2,U.S. House,3,DEM,Tom Wells,63
+Bradford,3,U.S. House,3,DEM,Tom Wells,21
+Bradford,4,U.S. House,3,DEM,Tom Wells,53
+Bradford,5,U.S. House,3,DEM,Tom Wells,82
+Bradford,6,U.S. House,3,DEM,Tom Wells,14
+Bradford,7,U.S. House,3,DEM,Tom Wells,79
+Bradford,8,U.S. House,3,DEM,Tom Wells,48
+Bradford,9,U.S. House,3,DEM,Tom Wells,44
+Bradford,10,U.S. House,3,DEM,Tom Wells,24
+Bradford,11,U.S. House,3,DEM,Tom Wells,46
+Bradford,12,U.S. House,3,DEM,Tom Wells,62
+Bradford,13,U.S. House,3,DEM,Tom Wells,14
+Bradford,14,U.S. House,3,DEM,Tom Wells,30
+Bradford,1,U.S. House,3,DEM,OverVotes,0
+Bradford,2,U.S. House,3,DEM,OverVotes,0
+Bradford,3,U.S. House,3,DEM,OverVotes,0
+Bradford,4,U.S. House,3,DEM,OverVotes,0
+Bradford,5,U.S. House,3,DEM,OverVotes,0
+Bradford,6,U.S. House,3,DEM,OverVotes,0
+Bradford,7,U.S. House,3,DEM,OverVotes,0
+Bradford,8,U.S. House,3,DEM,OverVotes,0
+Bradford,9,U.S. House,3,DEM,OverVotes,0
+Bradford,10,U.S. House,3,DEM,OverVotes,0
+Bradford,11,U.S. House,3,DEM,OverVotes,0
+Bradford,12,U.S. House,3,DEM,OverVotes,0
+Bradford,13,U.S. House,3,DEM,OverVotes,0
+Bradford,14,U.S. House,3,DEM,OverVotes,0
+Bradford,1,U.S. House,3,DEM,UnderVotes,18
+Bradford,2,U.S. House,3,DEM,UnderVotes,6
+Bradford,3,U.S. House,3,DEM,UnderVotes,15
+Bradford,4,U.S. House,3,DEM,UnderVotes,21
+Bradford,5,U.S. House,3,DEM,UnderVotes,11
+Bradford,6,U.S. House,3,DEM,UnderVotes,4
+Bradford,7,U.S. House,3,DEM,UnderVotes,8
+Bradford,8,U.S. House,3,DEM,UnderVotes,11
+Bradford,9,U.S. House,3,DEM,UnderVotes,13
+Bradford,10,U.S. House,3,DEM,UnderVotes,10
+Bradford,11,U.S. House,3,DEM,UnderVotes,11
+Bradford,12,U.S. House,3,DEM,UnderVotes,25
+Bradford,13,U.S. House,3,DEM,UnderVotes,4
+Bradford,14,U.S. House,3,DEM,UnderVotes,18
+Bradford,1,Governor,"",DEM,Charlie Crist,46
+Bradford,2,Governor,"",DEM,Charlie Crist,76
+Bradford,3,Governor,"",DEM,Charlie Crist,22
+Bradford,4,Governor,"",DEM,Charlie Crist,49
+Bradford,5,Governor,"",DEM,Charlie Crist,107
+Bradford,6,Governor,"",DEM,Charlie Crist,14
+Bradford,7,Governor,"",DEM,Charlie Crist,105
+Bradford,8,Governor,"",DEM,Charlie Crist,49
+Bradford,9,Governor,"",DEM,Charlie Crist,52
+Bradford,10,Governor,"",DEM,Charlie Crist,29
+Bradford,11,Governor,"",DEM,Charlie Crist,45
+Bradford,12,Governor,"",DEM,Charlie Crist,112
+Bradford,13,Governor,"",DEM,Charlie Crist,11
+Bradford,14,Governor,"",DEM,Charlie Crist,35
+Bradford,1,Governor,"",DEM,Cadance Daniel,6
+Bradford,2,Governor,"",DEM,Cadance Daniel,8
+Bradford,3,Governor,"",DEM,Cadance Daniel,1
+Bradford,4,Governor,"",DEM,Cadance Daniel,5
+Bradford,5,Governor,"",DEM,Cadance Daniel,12
+Bradford,6,Governor,"",DEM,Cadance Daniel,1
+Bradford,7,Governor,"",DEM,Cadance Daniel,8
+Bradford,8,Governor,"",DEM,Cadance Daniel,7
+Bradford,9,Governor,"",DEM,Cadance Daniel,5
+Bradford,10,Governor,"",DEM,Cadance Daniel,3
+Bradford,11,Governor,"",DEM,Cadance Daniel,5
+Bradford,12,Governor,"",DEM,Cadance Daniel,7
+Bradford,13,Governor,"",DEM,Cadance Daniel,1
+Bradford,14,Governor,"",DEM,Cadance Daniel,3
+Bradford,1,Governor,"",DEM,"Nicole ""Nikki"" Fried",36
+Bradford,2,Governor,"",DEM,"Nicole ""Nikki"" Fried",43
+Bradford,3,Governor,"",DEM,"Nicole ""Nikki"" Fried",7
+Bradford,4,Governor,"",DEM,"Nicole ""Nikki"" Fried",44
+Bradford,5,Governor,"",DEM,"Nicole ""Nikki"" Fried",66
+Bradford,6,Governor,"",DEM,"Nicole ""Nikki"" Fried",15
+Bradford,7,Governor,"",DEM,"Nicole ""Nikki"" Fried",40
+Bradford,8,Governor,"",DEM,"Nicole ""Nikki"" Fried",42
+Bradford,9,Governor,"",DEM,"Nicole ""Nikki"" Fried",38
+Bradford,10,Governor,"",DEM,"Nicole ""Nikki"" Fried",13
+Bradford,11,Governor,"",DEM,"Nicole ""Nikki"" Fried",34
+Bradford,12,Governor,"",DEM,"Nicole ""Nikki"" Fried",67
+Bradford,13,Governor,"",DEM,"Nicole ""Nikki"" Fried",8
+Bradford,14,Governor,"",DEM,"Nicole ""Nikki"" Fried",32
+Bradford,1,Governor,"",DEM,Robert L. Willis,19
+Bradford,2,Governor,"",DEM,Robert L. Willis,4
+Bradford,3,Governor,"",DEM,Robert L. Willis,8
+Bradford,4,Governor,"",DEM,Robert L. Willis,13
+Bradford,5,Governor,"",DEM,Robert L. Willis,13
+Bradford,6,Governor,"",DEM,Robert L. Willis,3
+Bradford,7,Governor,"",DEM,Robert L. Willis,10
+Bradford,8,Governor,"",DEM,Robert L. Willis,12
+Bradford,9,Governor,"",DEM,Robert L. Willis,4
+Bradford,10,Governor,"",DEM,Robert L. Willis,4
+Bradford,11,Governor,"",DEM,Robert L. Willis,6
+Bradford,12,Governor,"",DEM,Robert L. Willis,4
+Bradford,13,Governor,"",DEM,Robert L. Willis,1
+Bradford,14,Governor,"",DEM,Robert L. Willis,7
+Bradford,1,Governor,"",DEM,OverVotes,0
+Bradford,2,Governor,"",DEM,OverVotes,0
+Bradford,3,Governor,"",DEM,OverVotes,0
+Bradford,4,Governor,"",DEM,OverVotes,0
+Bradford,5,Governor,"",DEM,OverVotes,0
+Bradford,6,Governor,"",DEM,OverVotes,1
+Bradford,7,Governor,"",DEM,OverVotes,1
+Bradford,8,Governor,"",DEM,OverVotes,0
+Bradford,9,Governor,"",DEM,OverVotes,0
+Bradford,10,Governor,"",DEM,OverVotes,0
+Bradford,11,Governor,"",DEM,OverVotes,0
+Bradford,12,Governor,"",DEM,OverVotes,0
+Bradford,13,Governor,"",DEM,OverVotes,0
+Bradford,14,Governor,"",DEM,OverVotes,0
+Bradford,1,Governor,"",DEM,UnderVotes,13
+Bradford,2,Governor,"",DEM,UnderVotes,1
+Bradford,3,Governor,"",DEM,UnderVotes,11
+Bradford,4,Governor,"",DEM,UnderVotes,16
+Bradford,5,Governor,"",DEM,UnderVotes,3
+Bradford,6,Governor,"",DEM,UnderVotes,4
+Bradford,7,Governor,"",DEM,UnderVotes,3
+Bradford,8,Governor,"",DEM,UnderVotes,5
+Bradford,9,Governor,"",DEM,UnderVotes,7
+Bradford,10,Governor,"",DEM,UnderVotes,4
+Bradford,11,Governor,"",DEM,UnderVotes,4
+Bradford,12,Governor,"",DEM,UnderVotes,7
+Bradford,13,Governor,"",DEM,UnderVotes,3
+Bradford,14,Governor,"",DEM,UnderVotes,9
+Bradford,1,Attorney General,"",DEM,Aramis Ayala,20
+Bradford,2,Attorney General,"",DEM,Aramis Ayala,51
+Bradford,3,Attorney General,"",DEM,Aramis Ayala,2
+Bradford,4,Attorney General,"",DEM,Aramis Ayala,28
+Bradford,5,Attorney General,"",DEM,Aramis Ayala,60
+Bradford,6,Attorney General,"",DEM,Aramis Ayala,15
+Bradford,7,Attorney General,"",DEM,Aramis Ayala,50
+Bradford,8,Attorney General,"",DEM,Aramis Ayala,36
+Bradford,9,Attorney General,"",DEM,Aramis Ayala,39
+Bradford,10,Attorney General,"",DEM,Aramis Ayala,9
+Bradford,11,Attorney General,"",DEM,Aramis Ayala,24
+Bradford,12,Attorney General,"",DEM,Aramis Ayala,56
+Bradford,13,Attorney General,"",DEM,Aramis Ayala,3
+Bradford,14,Attorney General,"",DEM,Aramis Ayala,19
+Bradford,1,Attorney General,"",DEM,Jim Lewis,64
+Bradford,2,Attorney General,"",DEM,Jim Lewis,67
+Bradford,3,Attorney General,"",DEM,Jim Lewis,28
+Bradford,4,Attorney General,"",DEM,Jim Lewis,63
+Bradford,5,Attorney General,"",DEM,Jim Lewis,107
+Bradford,6,Attorney General,"",DEM,Jim Lewis,18
+Bradford,7,Attorney General,"",DEM,Jim Lewis,86
+Bradford,8,Attorney General,"",DEM,Jim Lewis,52
+Bradford,9,Attorney General,"",DEM,Jim Lewis,40
+Bradford,10,Attorney General,"",DEM,Jim Lewis,25
+Bradford,11,Attorney General,"",DEM,Jim Lewis,44
+Bradford,12,Attorney General,"",DEM,Jim Lewis,68
+Bradford,13,Attorney General,"",DEM,Jim Lewis,10
+Bradford,14,Attorney General,"",DEM,Jim Lewis,38
+Bradford,1,Attorney General,"",DEM,Daniel Uhlfelder,17
+Bradford,2,Attorney General,"",DEM,Daniel Uhlfelder,8
+Bradford,3,Attorney General,"",DEM,Daniel Uhlfelder,6
+Bradford,4,Attorney General,"",DEM,Daniel Uhlfelder,16
+Bradford,5,Attorney General,"",DEM,Daniel Uhlfelder,21
+Bradford,6,Attorney General,"",DEM,Daniel Uhlfelder,2
+Bradford,7,Attorney General,"",DEM,Daniel Uhlfelder,20
+Bradford,8,Attorney General,"",DEM,Daniel Uhlfelder,17
+Bradford,9,Attorney General,"",DEM,Daniel Uhlfelder,17
+Bradford,10,Attorney General,"",DEM,Daniel Uhlfelder,11
+Bradford,11,Attorney General,"",DEM,Daniel Uhlfelder,13
+Bradford,12,Attorney General,"",DEM,Daniel Uhlfelder,52
+Bradford,13,Attorney General,"",DEM,Daniel Uhlfelder,6
+Bradford,14,Attorney General,"",DEM,Daniel Uhlfelder,15
+Bradford,1,Attorney General,"",DEM,OverVotes,0
+Bradford,2,Attorney General,"",DEM,OverVotes,0
+Bradford,3,Attorney General,"",DEM,OverVotes,0
+Bradford,4,Attorney General,"",DEM,OverVotes,0
+Bradford,5,Attorney General,"",DEM,OverVotes,0
+Bradford,6,Attorney General,"",DEM,OverVotes,0
+Bradford,7,Attorney General,"",DEM,OverVotes,0
+Bradford,8,Attorney General,"",DEM,OverVotes,0
+Bradford,9,Attorney General,"",DEM,OverVotes,0
+Bradford,10,Attorney General,"",DEM,OverVotes,0
+Bradford,11,Attorney General,"",DEM,OverVotes,0
+Bradford,12,Attorney General,"",DEM,OverVotes,0
+Bradford,13,Attorney General,"",DEM,OverVotes,0
+Bradford,14,Attorney General,"",DEM,OverVotes,0
+Bradford,1,Attorney General,"",DEM,UnderVotes,19
+Bradford,2,Attorney General,"",DEM,UnderVotes,6
+Bradford,3,Attorney General,"",DEM,UnderVotes,13
+Bradford,4,Attorney General,"",DEM,UnderVotes,20
+Bradford,5,Attorney General,"",DEM,UnderVotes,13
+Bradford,6,Attorney General,"",DEM,UnderVotes,3
+Bradford,7,Attorney General,"",DEM,UnderVotes,11
+Bradford,8,Attorney General,"",DEM,UnderVotes,10
+Bradford,9,Attorney General,"",DEM,UnderVotes,10
+Bradford,10,Attorney General,"",DEM,UnderVotes,8
+Bradford,11,Attorney General,"",DEM,UnderVotes,13
+Bradford,12,Attorney General,"",DEM,UnderVotes,21
+Bradford,13,Attorney General,"",DEM,UnderVotes,5
+Bradford,14,Attorney General,"",DEM,UnderVotes,14
+Bradford,1,Commissioner of Agriculture,"",REP,James W. Shaw,220
+Bradford,2,Commissioner of Agriculture,"",REP,James W. Shaw,24
+Bradford,3,Commissioner of Agriculture,"",REP,James W. Shaw,54
+Bradford,4,Commissioner of Agriculture,"",REP,James W. Shaw,125
+Bradford,5,Commissioner of Agriculture,"",REP,James W. Shaw,109
+Bradford,6,Commissioner of Agriculture,"",REP,James W. Shaw,71
+Bradford,7,Commissioner of Agriculture,"",REP,James W. Shaw,28
+Bradford,8,Commissioner of Agriculture,"",REP,James W. Shaw,130
+Bradford,9,Commissioner of Agriculture,"",REP,James W. Shaw,99
+Bradford,10,Commissioner of Agriculture,"",REP,James W. Shaw,97
+Bradford,11,Commissioner of Agriculture,"",REP,James W. Shaw,97
+Bradford,12,Commissioner of Agriculture,"",REP,James W. Shaw,193
+Bradford,13,Commissioner of Agriculture,"",REP,James W. Shaw,47
+Bradford,14,Commissioner of Agriculture,"",REP,James W. Shaw,81
+Bradford,1,Commissioner of Agriculture,"",REP,Wilton Simpson,255
+Bradford,2,Commissioner of Agriculture,"",REP,Wilton Simpson,44
+Bradford,3,Commissioner of Agriculture,"",REP,Wilton Simpson,114
+Bradford,4,Commissioner of Agriculture,"",REP,Wilton Simpson,205
+Bradford,5,Commissioner of Agriculture,"",REP,Wilton Simpson,165
+Bradford,6,Commissioner of Agriculture,"",REP,Wilton Simpson,145
+Bradford,7,Commissioner of Agriculture,"",REP,Wilton Simpson,54
+Bradford,8,Commissioner of Agriculture,"",REP,Wilton Simpson,238
+Bradford,9,Commissioner of Agriculture,"",REP,Wilton Simpson,124
+Bradford,10,Commissioner of Agriculture,"",REP,Wilton Simpson,167
+Bradford,11,Commissioner of Agriculture,"",REP,Wilton Simpson,150
+Bradford,12,Commissioner of Agriculture,"",REP,Wilton Simpson,329
+Bradford,13,Commissioner of Agriculture,"",REP,Wilton Simpson,77
+Bradford,14,Commissioner of Agriculture,"",REP,Wilton Simpson,151
+Bradford,1,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,2,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,3,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,4,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,5,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,6,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,7,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,8,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,9,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,10,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,11,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,12,Commissioner of Agriculture,"",REP,OverVotes,1
+Bradford,13,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,14,Commissioner of Agriculture,"",REP,OverVotes,0
+Bradford,1,Commissioner of Agriculture,"",REP,UnderVotes,31
+Bradford,2,Commissioner of Agriculture,"",REP,UnderVotes,2
+Bradford,3,Commissioner of Agriculture,"",REP,UnderVotes,5
+Bradford,4,Commissioner of Agriculture,"",REP,UnderVotes,33
+Bradford,5,Commissioner of Agriculture,"",REP,UnderVotes,12
+Bradford,6,Commissioner of Agriculture,"",REP,UnderVotes,17
+Bradford,7,Commissioner of Agriculture,"",REP,UnderVotes,2
+Bradford,8,Commissioner of Agriculture,"",REP,UnderVotes,21
+Bradford,9,Commissioner of Agriculture,"",REP,UnderVotes,12
+Bradford,10,Commissioner of Agriculture,"",REP,UnderVotes,29
+Bradford,11,Commissioner of Agriculture,"",REP,UnderVotes,23
+Bradford,12,Commissioner of Agriculture,"",REP,UnderVotes,35
+Bradford,13,Commissioner of Agriculture,"",REP,UnderVotes,7
+Bradford,14,Commissioner of Agriculture,"",REP,UnderVotes,14
+Bradford,1,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,34
+Bradford,2,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,65
+Bradford,3,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,10
+Bradford,4,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,41
+Bradford,5,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,85
+Bradford,6,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,11
+Bradford,7,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,69
+Bradford,8,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,47
+Bradford,9,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,51
+Bradford,10,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,17
+Bradford,11,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,38
+Bradford,12,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,75
+Bradford,13,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,7
+Bradford,14,Commissioner of Agriculture,"",DEM,Naomi Esther Blemur,31
+Bradford,1,Commissioner of Agriculture,"",DEM,J. R. Gaillot,30
+Bradford,2,Commissioner of Agriculture,"",DEM,J. R. Gaillot,36
+Bradford,3,Commissioner of Agriculture,"",DEM,J. R. Gaillot,12
+Bradford,4,Commissioner of Agriculture,"",DEM,J. R. Gaillot,23
+Bradford,5,Commissioner of Agriculture,"",DEM,J. R. Gaillot,51
+Bradford,6,Commissioner of Agriculture,"",DEM,J. R. Gaillot,4
+Bradford,7,Commissioner of Agriculture,"",DEM,J. R. Gaillot,42
+Bradford,8,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Bradford,9,Commissioner of Agriculture,"",DEM,J. R. Gaillot,22
+Bradford,10,Commissioner of Agriculture,"",DEM,J. R. Gaillot,7
+Bradford,11,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Bradford,12,Commissioner of Agriculture,"",DEM,J. R. Gaillot,37
+Bradford,13,Commissioner of Agriculture,"",DEM,J. R. Gaillot,7
+Bradford,14,Commissioner of Agriculture,"",DEM,J. R. Gaillot,20
+Bradford,1,Commissioner of Agriculture,"",DEM,Ryan Morales,33
+Bradford,2,Commissioner of Agriculture,"",DEM,Ryan Morales,26
+Bradford,3,Commissioner of Agriculture,"",DEM,Ryan Morales,12
+Bradford,4,Commissioner of Agriculture,"",DEM,Ryan Morales,41
+Bradford,5,Commissioner of Agriculture,"",DEM,Ryan Morales,52
+Bradford,6,Commissioner of Agriculture,"",DEM,Ryan Morales,18
+Bradford,7,Commissioner of Agriculture,"",DEM,Ryan Morales,46
+Bradford,8,Commissioner of Agriculture,"",DEM,Ryan Morales,35
+Bradford,9,Commissioner of Agriculture,"",DEM,Ryan Morales,21
+Bradford,10,Commissioner of Agriculture,"",DEM,Ryan Morales,18
+Bradford,11,Commissioner of Agriculture,"",DEM,Ryan Morales,25
+Bradford,12,Commissioner of Agriculture,"",DEM,Ryan Morales,59
+Bradford,13,Commissioner of Agriculture,"",DEM,Ryan Morales,6
+Bradford,14,Commissioner of Agriculture,"",DEM,Ryan Morales,19
+Bradford,1,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,2,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,3,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,4,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,5,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,6,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,7,Commissioner of Agriculture,"",DEM,OverVotes,1
+Bradford,8,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,9,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,10,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,11,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,12,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,13,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,14,Commissioner of Agriculture,"",DEM,OverVotes,0
+Bradford,1,Commissioner of Agriculture,"",DEM,UnderVotes,23
+Bradford,2,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Bradford,3,Commissioner of Agriculture,"",DEM,UnderVotes,15
+Bradford,4,Commissioner of Agriculture,"",DEM,UnderVotes,22
+Bradford,5,Commissioner of Agriculture,"",DEM,UnderVotes,13
+Bradford,6,Commissioner of Agriculture,"",DEM,UnderVotes,5
+Bradford,7,Commissioner of Agriculture,"",DEM,UnderVotes,9
+Bradford,8,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Bradford,9,Commissioner of Agriculture,"",DEM,UnderVotes,12
+Bradford,10,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Bradford,11,Commissioner of Agriculture,"",DEM,UnderVotes,11
+Bradford,12,Commissioner of Agriculture,"",DEM,UnderVotes,26
+Bradford,13,Commissioner of Agriculture,"",DEM,UnderVotes,4
+Bradford,14,Commissioner of Agriculture,"",DEM,UnderVotes,16
+Bradford,1,County Commissioner,2,REP,Larry Davis,190
+Bradford,3,County Commissioner,2,REP,Larry Davis,63
+Bradford,4,County Commissioner,2,REP,Larry Davis,179
+Bradford,1,County Commissioner,2,REP,Kenny Thompson,401
+Bradford,3,County Commissioner,2,REP,Kenny Thompson,147
+Bradford,4,County Commissioner,2,REP,Kenny Thompson,244
+Bradford,1,County Commissioner,2,REP,Mark R. Williams,56
+Bradford,3,County Commissioner,2,REP,Mark R. Williams,21
+Bradford,4,County Commissioner,2,REP,Mark R. Williams,69
+Bradford,1,County Commissioner,2,REP,OverVotes,0
+Bradford,3,County Commissioner,2,REP,OverVotes,0
+Bradford,4,County Commissioner,2,REP,OverVotes,0
+Bradford,1,County Commissioner,2,REP,UnderVotes,9
+Bradford,3,County Commissioner,2,REP,UnderVotes,3
+Bradford,4,County Commissioner,2,REP,UnderVotes,13
+Bradford,10,County Commissioner,4,REP,Tom Germano,86
+Bradford,11,County Commissioner,4,REP,Tom Germano,47
+Bradford,12,County Commissioner,4,REP,Tom Germano,410
+Bradford,10,County Commissioner,4,REP,Christiann Hudson,33
+Bradford,11,County Commissioner,4,REP,Christiann Hudson,22
+Bradford,12,County Commissioner,4,REP,Christiann Hudson,63
+Bradford,10,County Commissioner,4,REP,Danny Riddick,185
+Bradford,11,County Commissioner,4,REP,Danny Riddick,201
+Bradford,12,County Commissioner,4,REP,Danny Riddick,228
+Bradford,10,County Commissioner,4,REP,Trish Tucker,48
+Bradford,11,County Commissioner,4,REP,Trish Tucker,112
+Bradford,12,County Commissioner,4,REP,Trish Tucker,77
+Bradford,10,County Commissioner,4,REP,OverVotes,1
+Bradford,11,County Commissioner,4,REP,OverVotes,0
+Bradford,12,County Commissioner,4,REP,OverVotes,0
+Bradford,10,County Commissioner,4,REP,UnderVotes,5
+Bradford,11,County Commissioner,4,REP,UnderVotes,5
+Bradford,12,County Commissioner,4,REP,UnderVotes,23
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,339
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,90
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,145
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,279
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,224
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,159
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,100
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,311
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,190
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,166
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,208
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,351
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,86
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Sean Brewer,161
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,36
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,53
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,10
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,60
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,85
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,15
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,70
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,39
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,35
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,12
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,25
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,66
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,7
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,AuBroncee Martin,21
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,100
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,29
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,39
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,73
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,89
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,48
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,30
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,76
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,39
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,42
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,49
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,120
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,23
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Nathan A. Skop,69
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,113
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,25
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,16
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,39
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,86
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,31
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,38
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,71
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,58
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,76
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,69
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,189
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,29
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,Dan Weisman,52
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,1
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,OverVotes,0
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,68
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,14
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,24
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,53
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,29
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,29
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,21
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,30
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,31
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,62
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,36
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,75
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,24
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 12",NOP,UnderVotes,47
+Bradford,6,School Board,5,NOP,Lynn Melvin,135
+Bradford,9,School Board,5,NOP,Lynn Melvin,174
+Bradford,13,School Board,5,NOP,Lynn Melvin,129
+Bradford,14,School Board,5,NOP,Lynn Melvin,290
+Bradford,6,School Board,5,NOP,Erica Mains Reddish,143
+Bradford,9,School Board,5,NOP,Erica Mains Reddish,165
+Bradford,13,School Board,5,NOP,Erica Mains Reddish,38
+Bradford,14,School Board,5,NOP,Erica Mains Reddish,58
+Bradford,6,School Board,5,NOP,OverVotes,0
+Bradford,9,School Board,5,NOP,OverVotes,0
+Bradford,13,School Board,5,NOP,OverVotes,0
+Bradford,14,School Board,5,NOP,OverVotes,0
+Bradford,6,School Board,5,NOP,UnderVotes,4
+Bradford,9,School Board,5,NOP,UnderVotes,14
+Bradford,13,School Board,5,NOP,UnderVotes,2
+Bradford,14,School Board,5,NOP,UnderVotes,2
+Bradford,1,Registered Voters,"","","",1774
+Bradford,10,Registered Voters,"","","",1034
+Bradford,11,Registered Voters,"","","",1326
+Bradford,12,Registered Voters,"","","",2214
+Bradford,13,Registered Voters,"","","",569
+Bradford,14,Registered Voters,"","","",803
+Bradford,2,Registered Voters,"","","",811
+Bradford,3,Registered Voters,"","","",715
+Bradford,4,Registered Voters,"","","",1387
+Bradford,5,Registered Voters,"","","",1834
+Bradford,6,Registered Voters,"","","",869
+Bradford,7,Registered Voters,"","","",1223
+Bradford,8,Registered Voters,"","","",1878
+Bradford,9,Registered Voters,"","","",1416
