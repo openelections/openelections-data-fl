@@ -1,0 +1,551 @@
+county,precinct,office,district,party,candidate,votes
+Lafayette,Day Community Center,U.S. Senate,"",REP,Rick Scott,468
+Lafayette,Day Community Center,U.S. Senate,"",DEM,Bill Nelson,112
+Lafayette,Day Community Center,U.S. Senate,"","",WriteinVotes,1
+Lafayette,Day Community Center,U.S. Senate,"","",OverVotes,0
+Lafayette,Day Community Center,U.S. Senate,"","",UnderVotes,3
+Lafayette,Day Community Center,U.S. House,2,REP,Neal Dunn,508
+Lafayette,Day Community Center,U.S. House,2,DEM,Bob Rackleff,62
+Lafayette,Day Community Center,U.S. House,2,"",OverVotes,0
+Lafayette,Day Community Center,U.S. House,2,"",UnderVotes,14
+Lafayette,Day Community Center,Governor,"",REP,DeSantis / Nuñez,506
+Lafayette,Day Community Center,Governor,"",DEM,Gillum / King,64
+Lafayette,Day Community Center,Governor,"",REF,Richardson / Argenziano,2
+Lafayette,Day Community Center,Governor,"",NPA,Gibson / Wilds,0
+Lafayette,Day Community Center,Governor,"",NPA,Foley / Tutton,0
+Lafayette,Day Community Center,Governor,"",NPA,Stanley / McJury,6
+Lafayette,Day Community Center,Governor,"","",WriteinVotes,0
+Lafayette,Day Community Center,Governor,"","",OverVotes,1
+Lafayette,Day Community Center,Governor,"","",UnderVotes,5
+Lafayette,Day Community Center,Attorney General,"",REP,Ashley Moody,509
+Lafayette,Day Community Center,Attorney General,"",DEM,Sean Shaw,56
+Lafayette,Day Community Center,Attorney General,"",NPA,Jeffrey Marc Siskind,7
+Lafayette,Day Community Center,Attorney General,"","",OverVotes,0
+Lafayette,Day Community Center,Attorney General,"","",UnderVotes,12
+Lafayette,Day Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,497
+Lafayette,Day Community Center,Chief Financial Officer,"",DEM,Jeremy Ring,68
+Lafayette,Day Community Center,Chief Financial Officer,"","",WriteinVotes,0
+Lafayette,Day Community Center,Chief Financial Officer,"","",OverVotes,0
+Lafayette,Day Community Center,Chief Financial Officer,"","",UnderVotes,19
+Lafayette,Day Community Center,Commissioner of Agriculture,"",REP,Matt Caldwell,506
+Lafayette,Day Community Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",65
+Lafayette,Day Community Center,Commissioner of Agriculture,"","",OverVotes,1
+Lafayette,Day Community Center,Commissioner of Agriculture,"","",UnderVotes,12
+Lafayette,Day Community Center,County Commissioner,2,REP,Henry McCray,279
+Lafayette,Day Community Center,County Commissioner,2,DEM,Kevin Barrington,216
+Lafayette,Day Community Center,County Commissioner,2,NPA,James Bradley Knight,80
+Lafayette,Day Community Center,County Commissioner,2,"",OverVotes,1
+Lafayette,Day Community Center,County Commissioner,2,"",UnderVotes,8
+Lafayette,Day Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,326
+Lafayette,Day Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,210
+Lafayette,Day Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Lafayette,Day Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,47
+Lafayette,Day Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,329
+Lafayette,Day Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,209
+Lafayette,Day Community Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,2
+Lafayette,Day Community Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,44
+Lafayette,Day Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,336
+Lafayette,Day Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,204
+Lafayette,Day Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,2
+Lafayette,Day Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,42
+Lafayette,Day Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,323
+Lafayette,Day Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,216
+Lafayette,Day Community Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Lafayette,Day Community Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,44
+Lafayette,Day Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,311
+Lafayette,Day Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,230
+Lafayette,Day Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Lafayette,Day Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,42
+Lafayette,Day Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,327
+Lafayette,Day Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,211
+Lafayette,Day Community Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,2
+Lafayette,Day Community Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,44
+Lafayette,Day Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,300
+Lafayette,Day Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,267
+Lafayette,Day Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Lafayette,Day Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Lafayette,Day Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,410
+Lafayette,Day Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,158
+Lafayette,Day Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Lafayette,Day Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Lafayette,Day Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,370
+Lafayette,Day Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,202
+Lafayette,Day Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,12
+Lafayette,Day Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,203
+Lafayette,Day Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,367
+Lafayette,Day Community Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,14
+Lafayette,Day Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,392
+Lafayette,Day Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,171
+Lafayette,Day Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Lafayette,Day Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,20
+Lafayette,Day Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,336
+Lafayette,Day Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,229
+Lafayette,Day Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,19
+Lafayette,Day Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,335
+Lafayette,Day Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,229
+Lafayette,Day Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,20
+Lafayette,Day Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,241
+Lafayette,Day Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,317
+Lafayette,Day Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Lafayette,Day Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,354
+Lafayette,Day Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,207
+Lafayette,Day Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,23
+Lafayette,Day Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,271
+Lafayette,Day Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,282
+Lafayette,Day Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Lafayette,Day Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,29
+Lafayette,Day Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,358
+Lafayette,Day Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,202
+Lafayette,Day Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,24
+Lafayette,Day Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,167
+Lafayette,Day Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,398
+Lafayette,Day Community Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Lafayette,Day Community Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,19
+Lafayette,Lafayette Public Libary,U.S. Senate,"",REP,Rick Scott,340
+Lafayette,Lafayette Public Libary,U.S. Senate,"",DEM,Bill Nelson,89
+Lafayette,Lafayette Public Libary,U.S. Senate,"","",WriteinVotes,3
+Lafayette,Lafayette Public Libary,U.S. Senate,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,U.S. Senate,"","",UnderVotes,7
+Lafayette,Lafayette Public Libary,U.S. House,2,REP,Neal Dunn,365
+Lafayette,Lafayette Public Libary,U.S. House,2,DEM,Bob Rackleff,66
+Lafayette,Lafayette Public Libary,U.S. House,2,"",OverVotes,0
+Lafayette,Lafayette Public Libary,U.S. House,2,"",UnderVotes,8
+Lafayette,Lafayette Public Libary,Governor,"",REP,DeSantis / Nuñez,375
+Lafayette,Lafayette Public Libary,Governor,"",DEM,Gillum / King,51
+Lafayette,Lafayette Public Libary,Governor,"",REF,Richardson / Argenziano,3
+Lafayette,Lafayette Public Libary,Governor,"",NPA,Gibson / Wilds,2
+Lafayette,Lafayette Public Libary,Governor,"",NPA,Foley / Tutton,1
+Lafayette,Lafayette Public Libary,Governor,"",NPA,Stanley / McJury,0
+Lafayette,Lafayette Public Libary,Governor,"","",WriteinVotes,1
+Lafayette,Lafayette Public Libary,Governor,"","",OverVotes,2
+Lafayette,Lafayette Public Libary,Governor,"","",UnderVotes,4
+Lafayette,Lafayette Public Libary,Attorney General,"",REP,Ashley Moody,367
+Lafayette,Lafayette Public Libary,Attorney General,"",DEM,Sean Shaw,54
+Lafayette,Lafayette Public Libary,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Lafayette,Lafayette Public Libary,Attorney General,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Attorney General,"","",UnderVotes,8
+Lafayette,Lafayette Public Libary,Chief Financial Officer,"",REP,Jimmy Patronis,365
+Lafayette,Lafayette Public Libary,Chief Financial Officer,"",DEM,Jeremy Ring,64
+Lafayette,Lafayette Public Libary,Chief Financial Officer,"","",WriteinVotes,0
+Lafayette,Lafayette Public Libary,Chief Financial Officer,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Chief Financial Officer,"","",UnderVotes,10
+Lafayette,Lafayette Public Libary,Commissioner of Agriculture,"",REP,Matt Caldwell,372
+Lafayette,Lafayette Public Libary,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",57
+Lafayette,Lafayette Public Libary,Commissioner of Agriculture,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Commissioner of Agriculture,"","",UnderVotes,10
+Lafayette,Lafayette Public Libary,County Commissioner,2,REP,Henry McCray,177
+Lafayette,Lafayette Public Libary,County Commissioner,2,DEM,Kevin Barrington,166
+Lafayette,Lafayette Public Libary,County Commissioner,2,NPA,James Bradley Knight,93
+Lafayette,Lafayette Public Libary,County Commissioner,2,"",OverVotes,0
+Lafayette,Lafayette Public Libary,County Commissioner,2,"",UnderVotes,3
+Lafayette,Lafayette Public Libary,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,209
+Lafayette,Lafayette Public Libary,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,192
+Lafayette,Lafayette Public Libary,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Lafayette,Lafayette Public Libary,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,38
+Lafayette,Lafayette Public Libary,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,212
+Lafayette,Lafayette Public Libary,Retention of Harvey Jay,First District Court of Appeal,NOP,No,184
+Lafayette,Lafayette Public Libary,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Lafayette,Lafayette Public Libary,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,43
+Lafayette,Lafayette Public Libary,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,208
+Lafayette,Lafayette Public Libary,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,189
+Lafayette,Lafayette Public Libary,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Lafayette,Lafayette Public Libary,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,41
+Lafayette,Lafayette Public Libary,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,208
+Lafayette,Lafayette Public Libary,Retention of Brad Thomas,First District Court of Appeal,NOP,No,189
+Lafayette,Lafayette Public Libary,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Lafayette,Lafayette Public Libary,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,42
+Lafayette,Lafayette Public Libary,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,207
+Lafayette,Lafayette Public Libary,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,187
+Lafayette,Lafayette Public Libary,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Lafayette,Lafayette Public Libary,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,45
+Lafayette,Lafayette Public Libary,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,209
+Lafayette,Lafayette Public Libary,Retention of Allen Winsor,First District Court of Appeal,NOP,No,186
+Lafayette,Lafayette Public Libary,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Lafayette,Lafayette Public Libary,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,44
+Lafayette,Lafayette Public Libary,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,200
+Lafayette,Lafayette Public Libary,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,225
+Lafayette,Lafayette Public Libary,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Lafayette,Lafayette Public Libary,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Lafayette,Lafayette Public Libary,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,292
+Lafayette,Lafayette Public Libary,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,133
+Lafayette,Lafayette Public Libary,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Lafayette,Lafayette Public Libary,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,13
+Lafayette,Lafayette Public Libary,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,267
+Lafayette,Lafayette Public Libary,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,157
+Lafayette,Lafayette Public Libary,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,15
+Lafayette,Lafayette Public Libary,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,191
+Lafayette,Lafayette Public Libary,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,233
+Lafayette,Lafayette Public Libary,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,15
+Lafayette,Lafayette Public Libary,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,281
+Lafayette,Lafayette Public Libary,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,140
+Lafayette,Lafayette Public Libary,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Lafayette,Lafayette Public Libary,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Lafayette,Lafayette Public Libary,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,241
+Lafayette,Lafayette Public Libary,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,182
+Lafayette,Lafayette Public Libary,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Lafayette,Lafayette Public Libary,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,15
+Lafayette,Lafayette Public Libary,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,273
+Lafayette,Lafayette Public Libary,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,147
+Lafayette,Lafayette Public Libary,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Lafayette,Lafayette Public Libary,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,176
+Lafayette,Lafayette Public Libary,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,245
+Lafayette,Lafayette Public Libary,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,18
+Lafayette,Lafayette Public Libary,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,268
+Lafayette,Lafayette Public Libary,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,148
+Lafayette,Lafayette Public Libary,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,23
+Lafayette,Lafayette Public Libary,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,207
+Lafayette,Lafayette Public Libary,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,208
+Lafayette,Lafayette Public Libary,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,24
+Lafayette,Lafayette Public Libary,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,263
+Lafayette,Lafayette Public Libary,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,155
+Lafayette,Lafayette Public Libary,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Lafayette,Lafayette Public Libary,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Lafayette,Lafayette Public Libary,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,136
+Lafayette,Lafayette Public Libary,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,285
+Lafayette,Lafayette Public Libary,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Lafayette,Lafayette Public Libary,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,17
+Lafayette,Airline Community Center,U.S. Senate,"",REP,Rick Scott,548
+Lafayette,Airline Community Center,U.S. Senate,"",DEM,Bill Nelson,123
+Lafayette,Airline Community Center,U.S. Senate,"","",WriteinVotes,2
+Lafayette,Airline Community Center,U.S. Senate,"","",OverVotes,0
+Lafayette,Airline Community Center,U.S. Senate,"","",UnderVotes,9
+Lafayette,Airline Community Center,U.S. House,2,REP,Neal Dunn,579
+Lafayette,Airline Community Center,U.S. House,2,DEM,Bob Rackleff,83
+Lafayette,Airline Community Center,U.S. House,2,"",OverVotes,0
+Lafayette,Airline Community Center,U.S. House,2,"",UnderVotes,20
+Lafayette,Airline Community Center,Governor,"",REP,DeSantis / Nuñez,601
+Lafayette,Airline Community Center,Governor,"",DEM,Gillum / King,63
+Lafayette,Airline Community Center,Governor,"",REF,Richardson / Argenziano,4
+Lafayette,Airline Community Center,Governor,"",NPA,Gibson / Wilds,3
+Lafayette,Airline Community Center,Governor,"",NPA,Foley / Tutton,0
+Lafayette,Airline Community Center,Governor,"",NPA,Stanley / McJury,3
+Lafayette,Airline Community Center,Governor,"","",WriteinVotes,1
+Lafayette,Airline Community Center,Governor,"","",OverVotes,2
+Lafayette,Airline Community Center,Governor,"","",UnderVotes,5
+Lafayette,Airline Community Center,Attorney General,"",REP,Ashley Moody,590
+Lafayette,Airline Community Center,Attorney General,"",DEM,Sean Shaw,74
+Lafayette,Airline Community Center,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Lafayette,Airline Community Center,Attorney General,"","",OverVotes,0
+Lafayette,Airline Community Center,Attorney General,"","",UnderVotes,12
+Lafayette,Airline Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,573
+Lafayette,Airline Community Center,Chief Financial Officer,"",DEM,Jeremy Ring,87
+Lafayette,Airline Community Center,Chief Financial Officer,"","",WriteinVotes,0
+Lafayette,Airline Community Center,Chief Financial Officer,"","",OverVotes,0
+Lafayette,Airline Community Center,Chief Financial Officer,"","",UnderVotes,22
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",REP,Matt Caldwell,580
+Lafayette,Airline Community Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",87
+Lafayette,Airline Community Center,Commissioner of Agriculture,"","",OverVotes,0
+Lafayette,Airline Community Center,Commissioner of Agriculture,"","",UnderVotes,15
+Lafayette,Airline Community Center,County Commissioner,2,REP,Henry McCray,340
+Lafayette,Airline Community Center,County Commissioner,2,DEM,Kevin Barrington,237
+Lafayette,Airline Community Center,County Commissioner,2,NPA,James Bradley Knight,101
+Lafayette,Airline Community Center,County Commissioner,2,"",OverVotes,0
+Lafayette,Airline Community Center,County Commissioner,2,"",UnderVotes,4
+Lafayette,Airline Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,384
+Lafayette,Airline Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,230
+Lafayette,Airline Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Lafayette,Airline Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,67
+Lafayette,Airline Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,376
+Lafayette,Airline Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,239
+Lafayette,Airline Community Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Lafayette,Airline Community Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,67
+Lafayette,Airline Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,381
+Lafayette,Airline Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,229
+Lafayette,Airline Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Lafayette,Airline Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,72
+Lafayette,Airline Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,368
+Lafayette,Airline Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,239
+Lafayette,Airline Community Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Lafayette,Airline Community Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,75
+Lafayette,Airline Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,372
+Lafayette,Airline Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,239
+Lafayette,Airline Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Lafayette,Airline Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,71
+Lafayette,Airline Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,378
+Lafayette,Airline Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,233
+Lafayette,Airline Community Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Lafayette,Airline Community Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,71
+Lafayette,Airline Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,318
+Lafayette,Airline Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,345
+Lafayette,Airline Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Lafayette,Airline Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,19
+Lafayette,Airline Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,486
+Lafayette,Airline Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,169
+Lafayette,Airline Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Lafayette,Airline Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,25
+Lafayette,Airline Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,381
+Lafayette,Airline Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,273
+Lafayette,Airline Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Lafayette,Airline Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,28
+Lafayette,Airline Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,248
+Lafayette,Airline Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,403
+Lafayette,Airline Community Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Lafayette,Airline Community Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,30
+Lafayette,Airline Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,437
+Lafayette,Airline Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,205
+Lafayette,Airline Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Lafayette,Airline Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,39
+Lafayette,Airline Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,376
+Lafayette,Airline Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,274
+Lafayette,Airline Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Lafayette,Airline Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,30
+Lafayette,Airline Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,385
+Lafayette,Airline Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,258
+Lafayette,Airline Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Lafayette,Airline Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,39
+Lafayette,Airline Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,241
+Lafayette,Airline Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,402
+Lafayette,Airline Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Lafayette,Airline Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,39
+Lafayette,Airline Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,399
+Lafayette,Airline Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,243
+Lafayette,Airline Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Lafayette,Airline Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,40
+Lafayette,Airline Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,279
+Lafayette,Airline Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,349
+Lafayette,Airline Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Lafayette,Airline Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,53
+Lafayette,Airline Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,399
+Lafayette,Airline Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,241
+Lafayette,Airline Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Lafayette,Airline Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,42
+Lafayette,Airline Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,216
+Lafayette,Airline Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,440
+Lafayette,Airline Community Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,3
+Lafayette,Airline Community Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,23
+Lafayette,4TH District Community Center,U.S. Senate,"",REP,Rick Scott,631
+Lafayette,4TH District Community Center,U.S. Senate,"",DEM,Bill Nelson,130
+Lafayette,4TH District Community Center,U.S. Senate,"","",WriteinVotes,4
+Lafayette,4TH District Community Center,U.S. Senate,"","",OverVotes,1
+Lafayette,4TH District Community Center,U.S. Senate,"","",UnderVotes,5
+Lafayette,4TH District Community Center,U.S. House,2,REP,Neal Dunn,660
+Lafayette,4TH District Community Center,U.S. House,2,DEM,Bob Rackleff,94
+Lafayette,4TH District Community Center,U.S. House,2,"",OverVotes,0
+Lafayette,4TH District Community Center,U.S. House,2,"",UnderVotes,17
+Lafayette,4TH District Community Center,Governor,"",REP,DeSantis / Nuñez,671
+Lafayette,4TH District Community Center,Governor,"",DEM,Gillum / King,87
+Lafayette,4TH District Community Center,Governor,"",REF,Richardson / Argenziano,1
+Lafayette,4TH District Community Center,Governor,"",NPA,Gibson / Wilds,3
+Lafayette,4TH District Community Center,Governor,"",NPA,Foley / Tutton,3
+Lafayette,4TH District Community Center,Governor,"",NPA,Stanley / McJury,1
+Lafayette,4TH District Community Center,Governor,"","",WriteinVotes,0
+Lafayette,4TH District Community Center,Governor,"","",OverVotes,2
+Lafayette,4TH District Community Center,Governor,"","",UnderVotes,3
+Lafayette,4TH District Community Center,Attorney General,"",REP,Ashley Moody,661
+Lafayette,4TH District Community Center,Attorney General,"",DEM,Sean Shaw,92
+Lafayette,4TH District Community Center,Attorney General,"",NPA,Jeffrey Marc Siskind,11
+Lafayette,4TH District Community Center,Attorney General,"","",OverVotes,0
+Lafayette,4TH District Community Center,Attorney General,"","",UnderVotes,7
+Lafayette,4TH District Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,652
+Lafayette,4TH District Community Center,Chief Financial Officer,"",DEM,Jeremy Ring,103
+Lafayette,4TH District Community Center,Chief Financial Officer,"","",WriteinVotes,0
+Lafayette,4TH District Community Center,Chief Financial Officer,"","",OverVotes,0
+Lafayette,4TH District Community Center,Chief Financial Officer,"","",UnderVotes,16
+Lafayette,4TH District Community Center,Commissioner of Agriculture,"",REP,Matt Caldwell,666
+Lafayette,4TH District Community Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",97
+Lafayette,4TH District Community Center,Commissioner of Agriculture,"","",OverVotes,0
+Lafayette,4TH District Community Center,Commissioner of Agriculture,"","",UnderVotes,8
+Lafayette,4TH District Community Center,County Commissioner,2,REP,Henry McCray,447
+Lafayette,4TH District Community Center,County Commissioner,2,DEM,Kevin Barrington,206
+Lafayette,4TH District Community Center,County Commissioner,2,NPA,James Bradley Knight,106
+Lafayette,4TH District Community Center,County Commissioner,2,"",OverVotes,0
+Lafayette,4TH District Community Center,County Commissioner,2,"",UnderVotes,12
+Lafayette,4TH District Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,409
+Lafayette,4TH District Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,313
+Lafayette,4TH District Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Lafayette,4TH District Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,49
+Lafayette,4TH District Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,407
+Lafayette,4TH District Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,310
+Lafayette,4TH District Community Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Lafayette,4TH District Community Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,54
+Lafayette,4TH District Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,407
+Lafayette,4TH District Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,311
+Lafayette,4TH District Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Lafayette,4TH District Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,53
+Lafayette,4TH District Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,403
+Lafayette,4TH District Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,317
+Lafayette,4TH District Community Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Lafayette,4TH District Community Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,50
+Lafayette,4TH District Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,392
+Lafayette,4TH District Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,326
+Lafayette,4TH District Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Lafayette,4TH District Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,53
+Lafayette,4TH District Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,395
+Lafayette,4TH District Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,325
+Lafayette,4TH District Community Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Lafayette,4TH District Community Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,51
+Lafayette,4TH District Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,393
+Lafayette,4TH District Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,361
+Lafayette,4TH District Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,17
+Lafayette,4TH District Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,505
+Lafayette,4TH District Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,246
+Lafayette,4TH District Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,20
+Lafayette,4TH District Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,419
+Lafayette,4TH District Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,339
+Lafayette,4TH District Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Lafayette,4TH District Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,12
+Lafayette,4TH District Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,293
+Lafayette,4TH District Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,463
+Lafayette,4TH District Community Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,15
+Lafayette,4TH District Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,487
+Lafayette,4TH District Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,267
+Lafayette,4TH District Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Lafayette,4TH District Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,17
+Lafayette,4TH District Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,407
+Lafayette,4TH District Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,339
+Lafayette,4TH District Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Lafayette,4TH District Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,418
+Lafayette,4TH District Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,328
+Lafayette,4TH District Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Lafayette,4TH District Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Lafayette,4TH District Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,278
+Lafayette,4TH District Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,467
+Lafayette,4TH District Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,26
+Lafayette,4TH District Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,437
+Lafayette,4TH District Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,307
+Lafayette,4TH District Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,27
+Lafayette,4TH District Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,289
+Lafayette,4TH District Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,443
+Lafayette,4TH District Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,39
+Lafayette,4TH District Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,445
+Lafayette,4TH District Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,295
+Lafayette,4TH District Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Lafayette,4TH District Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,30
+Lafayette,4TH District Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,182
+Lafayette,4TH District Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,571
+Lafayette,4TH District Community Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Lafayette,4TH District Community Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,18
+Lafayette,Mayo Community Center,U.S. Senate,"",REP,Rick Scott,207
+Lafayette,Mayo Community Center,U.S. Senate,"",DEM,Bill Nelson,167
+Lafayette,Mayo Community Center,U.S. Senate,"","",WriteinVotes,0
+Lafayette,Mayo Community Center,U.S. Senate,"","",OverVotes,1
+Lafayette,Mayo Community Center,U.S. Senate,"","",UnderVotes,2
+Lafayette,Mayo Community Center,U.S. House,2,REP,Neal Dunn,216
+Lafayette,Mayo Community Center,U.S. House,2,DEM,Bob Rackleff,153
+Lafayette,Mayo Community Center,U.S. House,2,"",OverVotes,0
+Lafayette,Mayo Community Center,U.S. House,2,"",UnderVotes,8
+Lafayette,Mayo Community Center,Governor,"",REP,DeSantis / Nuñez,210
+Lafayette,Mayo Community Center,Governor,"",DEM,Gillum / King,154
+Lafayette,Mayo Community Center,Governor,"",REF,Richardson / Argenziano,4
+Lafayette,Mayo Community Center,Governor,"",NPA,Gibson / Wilds,3
+Lafayette,Mayo Community Center,Governor,"",NPA,Foley / Tutton,1
+Lafayette,Mayo Community Center,Governor,"",NPA,Stanley / McJury,2
+Lafayette,Mayo Community Center,Governor,"","",WriteinVotes,0
+Lafayette,Mayo Community Center,Governor,"","",OverVotes,1
+Lafayette,Mayo Community Center,Governor,"","",UnderVotes,2
+Lafayette,Mayo Community Center,Attorney General,"",REP,Ashley Moody,228
+Lafayette,Mayo Community Center,Attorney General,"",DEM,Sean Shaw,139
+Lafayette,Mayo Community Center,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Lafayette,Mayo Community Center,Attorney General,"","",OverVotes,0
+Lafayette,Mayo Community Center,Attorney General,"","",UnderVotes,5
+Lafayette,Mayo Community Center,Chief Financial Officer,"",REP,Jimmy Patronis,214
+Lafayette,Mayo Community Center,Chief Financial Officer,"",DEM,Jeremy Ring,155
+Lafayette,Mayo Community Center,Chief Financial Officer,"","",WriteinVotes,1
+Lafayette,Mayo Community Center,Chief Financial Officer,"","",OverVotes,0
+Lafayette,Mayo Community Center,Chief Financial Officer,"","",UnderVotes,7
+Lafayette,Mayo Community Center,Commissioner of Agriculture,"",REP,Matt Caldwell,216
+Lafayette,Mayo Community Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",155
+Lafayette,Mayo Community Center,Commissioner of Agriculture,"","",OverVotes,0
+Lafayette,Mayo Community Center,Commissioner of Agriculture,"","",UnderVotes,6
+Lafayette,Mayo Community Center,County Commissioner,2,REP,Henry McCray,136
+Lafayette,Mayo Community Center,County Commissioner,2,DEM,Kevin Barrington,165
+Lafayette,Mayo Community Center,County Commissioner,2,NPA,James Bradley Knight,71
+Lafayette,Mayo Community Center,County Commissioner,2,"",OverVotes,0
+Lafayette,Mayo Community Center,County Commissioner,2,"",UnderVotes,5
+Lafayette,Mayo Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,214
+Lafayette,Mayo Community Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,141
+Lafayette,Mayo Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Lafayette,Mayo Community Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,22
+Lafayette,Mayo Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,211
+Lafayette,Mayo Community Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,140
+Lafayette,Mayo Community Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Lafayette,Mayo Community Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,26
+Lafayette,Mayo Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,224
+Lafayette,Mayo Community Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,129
+Lafayette,Mayo Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Lafayette,Mayo Community Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,24
+Lafayette,Mayo Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,217
+Lafayette,Mayo Community Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,135
+Lafayette,Mayo Community Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Lafayette,Mayo Community Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,25
+Lafayette,Mayo Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,222
+Lafayette,Mayo Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,128
+Lafayette,Mayo Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Lafayette,Mayo Community Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,27
+Lafayette,Mayo Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,212
+Lafayette,Mayo Community Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,139
+Lafayette,Mayo Community Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Lafayette,Mayo Community Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,26
+Lafayette,Mayo Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,182
+Lafayette,Mayo Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,185
+Lafayette,Mayo Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,10
+Lafayette,Mayo Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,251
+Lafayette,Mayo Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,114
+Lafayette,Mayo Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Lafayette,Mayo Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,234
+Lafayette,Mayo Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,131
+Lafayette,Mayo Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Lafayette,Mayo Community Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Lafayette,Mayo Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,219
+Lafayette,Mayo Community Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,148
+Lafayette,Mayo Community Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,10
+Lafayette,Mayo Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,241
+Lafayette,Mayo Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,120
+Lafayette,Mayo Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Lafayette,Mayo Community Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,16
+Lafayette,Mayo Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,235
+Lafayette,Mayo Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,125
+Lafayette,Mayo Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,17
+Lafayette,Mayo Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,253
+Lafayette,Mayo Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,105
+Lafayette,Mayo Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Lafayette,Mayo Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,196
+Lafayette,Mayo Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,162
+Lafayette,Mayo Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Lafayette,Mayo Community Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,18
+Lafayette,Mayo Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,248
+Lafayette,Mayo Community Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,110
+Lafayette,Mayo Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,19
+Lafayette,Mayo Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,208
+Lafayette,Mayo Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,146
+Lafayette,Mayo Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,23
+Lafayette,Mayo Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,232
+Lafayette,Mayo Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,120
+Lafayette,Mayo Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,25
+Lafayette,Mayo Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,156
+Lafayette,Mayo Community Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,204
+Lafayette,Mayo Community Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Lafayette,Mayo Community Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,17
+Lafayette,4TH District Community Center,Registered Voters,"","","",1109
+Lafayette,Airline Community Center,Registered Voters,"","","",1002
+Lafayette,Day Community Center,Registered Voters,"","","",903
+Lafayette,Lafayette Public Libary,Registered Voters,"","","",692
+Lafayette,Mayo Community Center,Registered Voters,"","","",650
