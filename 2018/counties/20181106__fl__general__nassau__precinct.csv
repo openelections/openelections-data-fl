@@ -1,0 +1,1756 @@
+county,precinct,office,district,party,candidate,votes
+Nassau,101-MLK-Elm Rec Ctr,U.S. Senate,"",REP,Rick Scott,795
+Nassau,101-MLK-Elm Rec Ctr,U.S. Senate,"",DEM,Bill Nelson,950
+Nassau,101-MLK-Elm Rec Ctr,U.S. Senate,"","",WriteinVotes,4
+Nassau,101-MLK-Elm Rec Ctr,U.S. Senate,"","",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,U.S. Senate,"","",UnderVotes,12
+Nassau,101-MLK-Elm Rec Ctr,U.S. House,4,REP,John H. Rutherford,837
+Nassau,101-MLK-Elm Rec Ctr,U.S. House,4,DEM,"George ""Ges"" Selmont",844
+Nassau,101-MLK-Elm Rec Ctr,U.S. House,4,NPA,Joceline Berrios,42
+Nassau,101-MLK-Elm Rec Ctr,U.S. House,4,NPA,Jason Michael Bulger,10
+Nassau,101-MLK-Elm Rec Ctr,U.S. House,4,"",WriteinVotes,1
+Nassau,101-MLK-Elm Rec Ctr,U.S. House,4,"",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,U.S. House,4,"",UnderVotes,27
+Nassau,101-MLK-Elm Rec Ctr,Governor,"",REP,DeSantis / Nuñez,789
+Nassau,101-MLK-Elm Rec Ctr,Governor,"",DEM,Gillum / King,936
+Nassau,101-MLK-Elm Rec Ctr,Governor,"",REF,Richardson / Argenziano,12
+Nassau,101-MLK-Elm Rec Ctr,Governor,"",NPA,Gibson / Wilds,5
+Nassau,101-MLK-Elm Rec Ctr,Governor,"",NPA,Foley / Tutton,2
+Nassau,101-MLK-Elm Rec Ctr,Governor,"",NPA,Stanley / McJury,5
+Nassau,101-MLK-Elm Rec Ctr,Governor,"","",WriteinVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Governor,"","",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Governor,"","",UnderVotes,10
+Nassau,101-MLK-Elm Rec Ctr,Attorney General,"",REP,Ashley Moody,831
+Nassau,101-MLK-Elm Rec Ctr,Attorney General,"",DEM,Sean Shaw,872
+Nassau,101-MLK-Elm Rec Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,27
+Nassau,101-MLK-Elm Rec Ctr,Attorney General,"","",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Attorney General,"","",UnderVotes,31
+Nassau,101-MLK-Elm Rec Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,834
+Nassau,101-MLK-Elm Rec Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,883
+Nassau,101-MLK-Elm Rec Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Chief Financial Officer,"","",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Chief Financial Officer,"","",UnderVotes,43
+Nassau,101-MLK-Elm Rec Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,814
+Nassau,101-MLK-Elm Rec Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",904
+Nassau,101-MLK-Elm Rec Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Commissioner of Agriculture,"","",UnderVotes,43
+Nassau,101-MLK-Elm Rec Ctr,State Senate,4,REP,Aaron Bean,887
+Nassau,101-MLK-Elm Rec Ctr,State Senate,4,DEM,Billee Bussard,807
+Nassau,101-MLK-Elm Rec Ctr,State Senate,4,LPF,Joanna Liberty Tavares,46
+Nassau,101-MLK-Elm Rec Ctr,State Senate,4,"",OverVotes,2
+Nassau,101-MLK-Elm Rec Ctr,State Senate,4,"",UnderVotes,19
+Nassau,101-MLK-Elm Rec Ctr,State House,11,REP,Cord Byrd,819
+Nassau,101-MLK-Elm Rec Ctr,State House,11,DEM,Nathcelly Leroy Rohrbaugh,893
+Nassau,101-MLK-Elm Rec Ctr,State House,11,"",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,State House,11,"",UnderVotes,48
+Nassau,101-MLK-Elm Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,986
+Nassau,101-MLK-Elm Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,529
+Nassau,101-MLK-Elm Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,246
+Nassau,101-MLK-Elm Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,967
+Nassau,101-MLK-Elm Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,529
+Nassau,101-MLK-Elm Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,265
+Nassau,101-MLK-Elm Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1008
+Nassau,101-MLK-Elm Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,481
+Nassau,101-MLK-Elm Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,272
+Nassau,101-MLK-Elm Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,959
+Nassau,101-MLK-Elm Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,532
+Nassau,101-MLK-Elm Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,270
+Nassau,101-MLK-Elm Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,959
+Nassau,101-MLK-Elm Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,525
+Nassau,101-MLK-Elm Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,276
+Nassau,101-MLK-Elm Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,949
+Nassau,101-MLK-Elm Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,546
+Nassau,101-MLK-Elm Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,266
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1029
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,664
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,67
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1140
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,528
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,91
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1276
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,414
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,69
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1175
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,525
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,61
+Nassau,101-MLK-Elm Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1121
+Nassau,101-MLK-Elm Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,542
+Nassau,101-MLK-Elm Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,98
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1041
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,638
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,80
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1108
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,558
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,2
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,93
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1151
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,532
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,77
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1084
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,555
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,122
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1044
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,543
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,174
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1282
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,363
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,115
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1211
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,482
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Nassau,101-MLK-Elm Rec Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,67
+Nassau,102-Atlantic Rec Ctr,U.S. Senate,"",REP,Rick Scott,2665
+Nassau,102-Atlantic Rec Ctr,U.S. Senate,"",DEM,Bill Nelson,1814
+Nassau,102-Atlantic Rec Ctr,U.S. Senate,"","",WriteinVotes,15
+Nassau,102-Atlantic Rec Ctr,U.S. Senate,"","",OverVotes,1
+Nassau,102-Atlantic Rec Ctr,U.S. Senate,"","",UnderVotes,29
+Nassau,102-Atlantic Rec Ctr,U.S. House,4,REP,John H. Rutherford,2796
+Nassau,102-Atlantic Rec Ctr,U.S. House,4,DEM,"George ""Ges"" Selmont",1567
+Nassau,102-Atlantic Rec Ctr,U.S. House,4,NPA,Joceline Berrios,69
+Nassau,102-Atlantic Rec Ctr,U.S. House,4,NPA,Jason Michael Bulger,24
+Nassau,102-Atlantic Rec Ctr,U.S. House,4,"",WriteinVotes,1
+Nassau,102-Atlantic Rec Ctr,U.S. House,4,"",OverVotes,1
+Nassau,102-Atlantic Rec Ctr,U.S. House,4,"",UnderVotes,66
+Nassau,102-Atlantic Rec Ctr,Governor,"",REP,DeSantis / Nuñez,2664
+Nassau,102-Atlantic Rec Ctr,Governor,"",DEM,Gillum / King,1786
+Nassau,102-Atlantic Rec Ctr,Governor,"",REF,Richardson / Argenziano,31
+Nassau,102-Atlantic Rec Ctr,Governor,"",NPA,Gibson / Wilds,11
+Nassau,102-Atlantic Rec Ctr,Governor,"",NPA,Foley / Tutton,5
+Nassau,102-Atlantic Rec Ctr,Governor,"",NPA,Stanley / McJury,4
+Nassau,102-Atlantic Rec Ctr,Governor,"","",WriteinVotes,1
+Nassau,102-Atlantic Rec Ctr,Governor,"","",OverVotes,5
+Nassau,102-Atlantic Rec Ctr,Governor,"","",UnderVotes,17
+Nassau,102-Atlantic Rec Ctr,Attorney General,"",REP,Ashley Moody,2789
+Nassau,102-Atlantic Rec Ctr,Attorney General,"",DEM,Sean Shaw,1610
+Nassau,102-Atlantic Rec Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,58
+Nassau,102-Atlantic Rec Ctr,Attorney General,"","",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,Attorney General,"","",UnderVotes,67
+Nassau,102-Atlantic Rec Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,2815
+Nassau,102-Atlantic Rec Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,1591
+Nassau,102-Atlantic Rec Ctr,Chief Financial Officer,"","",WriteinVotes,4
+Nassau,102-Atlantic Rec Ctr,Chief Financial Officer,"","",OverVotes,1
+Nassau,102-Atlantic Rec Ctr,Chief Financial Officer,"","",UnderVotes,113
+Nassau,102-Atlantic Rec Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,2752
+Nassau,102-Atlantic Rec Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",1686
+Nassau,102-Atlantic Rec Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,Commissioner of Agriculture,"","",UnderVotes,86
+Nassau,102-Atlantic Rec Ctr,State Senate,4,REP,Aaron Bean,2850
+Nassau,102-Atlantic Rec Ctr,State Senate,4,DEM,Billee Bussard,1522
+Nassau,102-Atlantic Rec Ctr,State Senate,4,LPF,Joanna Liberty Tavares,109
+Nassau,102-Atlantic Rec Ctr,State Senate,4,"",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,State Senate,4,"",UnderVotes,43
+Nassau,102-Atlantic Rec Ctr,State House,11,REP,Cord Byrd,2708
+Nassau,102-Atlantic Rec Ctr,State House,11,DEM,Nathcelly Leroy Rohrbaugh,1711
+Nassau,102-Atlantic Rec Ctr,State House,11,"",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,State House,11,"",UnderVotes,105
+Nassau,102-Atlantic Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,2779
+Nassau,102-Atlantic Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,1071
+Nassau,102-Atlantic Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Nassau,102-Atlantic Rec Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,672
+Nassau,102-Atlantic Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,2723
+Nassau,102-Atlantic Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,1088
+Nassau,102-Atlantic Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,713
+Nassau,102-Atlantic Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,2799
+Nassau,102-Atlantic Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,1021
+Nassau,102-Atlantic Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,704
+Nassau,102-Atlantic Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,2645
+Nassau,102-Atlantic Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,1147
+Nassau,102-Atlantic Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Nassau,102-Atlantic Rec Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,730
+Nassau,102-Atlantic Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,2642
+Nassau,102-Atlantic Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,1145
+Nassau,102-Atlantic Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,102-Atlantic Rec Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,736
+Nassau,102-Atlantic Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,2585
+Nassau,102-Atlantic Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,1215
+Nassau,102-Atlantic Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,724
+Nassau,102-Atlantic Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,3024
+Nassau,102-Atlantic Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1365
+Nassau,102-Atlantic Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Nassau,102-Atlantic Rec Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,133
+Nassau,102-Atlantic Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,3133
+Nassau,102-Atlantic Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,1225
+Nassau,102-Atlantic Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Nassau,102-Atlantic Rec Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,164
+Nassau,102-Atlantic Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,3289
+Nassau,102-Atlantic Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,1095
+Nassau,102-Atlantic Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,6
+Nassau,102-Atlantic Rec Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,134
+Nassau,102-Atlantic Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,2627
+Nassau,102-Atlantic Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1761
+Nassau,102-Atlantic Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,7
+Nassau,102-Atlantic Rec Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,129
+Nassau,102-Atlantic Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,3051
+Nassau,102-Atlantic Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,1298
+Nassau,102-Atlantic Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,7
+Nassau,102-Atlantic Rec Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,168
+Nassau,102-Atlantic Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,2681
+Nassau,102-Atlantic Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1669
+Nassau,102-Atlantic Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Nassau,102-Atlantic Rec Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,172
+Nassau,102-Atlantic Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2725
+Nassau,102-Atlantic Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1596
+Nassau,102-Atlantic Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Nassau,102-Atlantic Rec Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,202
+Nassau,102-Atlantic Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,2956
+Nassau,102-Atlantic Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1400
+Nassau,102-Atlantic Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,7
+Nassau,102-Atlantic Rec Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,161
+Nassau,102-Atlantic Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2728
+Nassau,102-Atlantic Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1522
+Nassau,102-Atlantic Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,4
+Nassau,102-Atlantic Rec Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,270
+Nassau,102-Atlantic Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,2759
+Nassau,102-Atlantic Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1410
+Nassau,102-Atlantic Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,4
+Nassau,102-Atlantic Rec Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,351
+Nassau,102-Atlantic Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,3564
+Nassau,102-Atlantic Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,726
+Nassau,102-Atlantic Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Nassau,102-Atlantic Rec Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,234
+Nassau,102-Atlantic Rec Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,3241
+Nassau,102-Atlantic Rec Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1155
+Nassau,102-Atlantic Rec Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Nassau,102-Atlantic Rec Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,126
+Nassau,201-First Bapt Chch FB,U.S. Senate,"",REP,Rick Scott,2769
+Nassau,201-First Bapt Chch FB,U.S. Senate,"",DEM,Bill Nelson,1559
+Nassau,201-First Bapt Chch FB,U.S. Senate,"","",WriteinVotes,10
+Nassau,201-First Bapt Chch FB,U.S. Senate,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,U.S. Senate,"","",UnderVotes,23
+Nassau,201-First Bapt Chch FB,U.S. House,4,REP,John H. Rutherford,2868
+Nassau,201-First Bapt Chch FB,U.S. House,4,DEM,"George ""Ges"" Selmont",1337
+Nassau,201-First Bapt Chch FB,U.S. House,4,NPA,Joceline Berrios,56
+Nassau,201-First Bapt Chch FB,U.S. House,4,NPA,Jason Michael Bulger,30
+Nassau,201-First Bapt Chch FB,U.S. House,4,"",WriteinVotes,1
+Nassau,201-First Bapt Chch FB,U.S. House,4,"",OverVotes,2
+Nassau,201-First Bapt Chch FB,U.S. House,4,"",UnderVotes,68
+Nassau,201-First Bapt Chch FB,Governor,"",REP,DeSantis / Nuñez,2761
+Nassau,201-First Bapt Chch FB,Governor,"",DEM,Gillum / King,1535
+Nassau,201-First Bapt Chch FB,Governor,"",REF,Richardson / Argenziano,22
+Nassau,201-First Bapt Chch FB,Governor,"",NPA,Gibson / Wilds,5
+Nassau,201-First Bapt Chch FB,Governor,"",NPA,Foley / Tutton,5
+Nassau,201-First Bapt Chch FB,Governor,"",NPA,Stanley / McJury,3
+Nassau,201-First Bapt Chch FB,Governor,"","",WriteinVotes,2
+Nassau,201-First Bapt Chch FB,Governor,"","",OverVotes,0
+Nassau,201-First Bapt Chch FB,Governor,"","",UnderVotes,29
+Nassau,201-First Bapt Chch FB,Attorney General,"",REP,Ashley Moody,2889
+Nassau,201-First Bapt Chch FB,Attorney General,"",DEM,Sean Shaw,1357
+Nassau,201-First Bapt Chch FB,Attorney General,"",NPA,Jeffrey Marc Siskind,41
+Nassau,201-First Bapt Chch FB,Attorney General,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,Attorney General,"","",UnderVotes,74
+Nassau,201-First Bapt Chch FB,Chief Financial Officer,"",REP,Jimmy Patronis,2870
+Nassau,201-First Bapt Chch FB,Chief Financial Officer,"",DEM,Jeremy Ring,1371
+Nassau,201-First Bapt Chch FB,Chief Financial Officer,"","",WriteinVotes,4
+Nassau,201-First Bapt Chch FB,Chief Financial Officer,"","",OverVotes,0
+Nassau,201-First Bapt Chch FB,Chief Financial Officer,"","",UnderVotes,117
+Nassau,201-First Bapt Chch FB,Commissioner of Agriculture,"",REP,Matt Caldwell,2814
+Nassau,201-First Bapt Chch FB,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",1459
+Nassau,201-First Bapt Chch FB,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,201-First Bapt Chch FB,Commissioner of Agriculture,"","",UnderVotes,89
+Nassau,201-First Bapt Chch FB,State Senate,4,REP,Aaron Bean,2912
+Nassau,201-First Bapt Chch FB,State Senate,4,DEM,Billee Bussard,1293
+Nassau,201-First Bapt Chch FB,State Senate,4,LPF,Joanna Liberty Tavares,83
+Nassau,201-First Bapt Chch FB,State Senate,4,"",OverVotes,1
+Nassau,201-First Bapt Chch FB,State Senate,4,"",UnderVotes,73
+Nassau,201-First Bapt Chch FB,State House,11,REP,Cord Byrd,2773
+Nassau,201-First Bapt Chch FB,State House,11,DEM,Nathcelly Leroy Rohrbaugh,1464
+Nassau,201-First Bapt Chch FB,State House,11,"",OverVotes,2
+Nassau,201-First Bapt Chch FB,State House,11,"",UnderVotes,123
+Nassau,201-First Bapt Chch FB,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,2808
+Nassau,201-First Bapt Chch FB,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,859
+Nassau,201-First Bapt Chch FB,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Nassau,201-First Bapt Chch FB,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,695
+Nassau,201-First Bapt Chch FB,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,2729
+Nassau,201-First Bapt Chch FB,Retention of Harvey Jay,First District Court of Appeal,NOP,No,896
+Nassau,201-First Bapt Chch FB,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,2
+Nassau,201-First Bapt Chch FB,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,735
+Nassau,201-First Bapt Chch FB,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,2828
+Nassau,201-First Bapt Chch FB,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,814
+Nassau,201-First Bapt Chch FB,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,2
+Nassau,201-First Bapt Chch FB,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,718
+Nassau,201-First Bapt Chch FB,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,2694
+Nassau,201-First Bapt Chch FB,Retention of Brad Thomas,First District Court of Appeal,NOP,No,929
+Nassau,201-First Bapt Chch FB,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,201-First Bapt Chch FB,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,739
+Nassau,201-First Bapt Chch FB,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,2651
+Nassau,201-First Bapt Chch FB,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,964
+Nassau,201-First Bapt Chch FB,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Nassau,201-First Bapt Chch FB,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,745
+Nassau,201-First Bapt Chch FB,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,2598
+Nassau,201-First Bapt Chch FB,Retention of Allen Winsor,First District Court of Appeal,NOP,No,1027
+Nassau,201-First Bapt Chch FB,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,201-First Bapt Chch FB,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,737
+Nassau,201-First Bapt Chch FB,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,3036
+Nassau,201-First Bapt Chch FB,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1187
+Nassau,201-First Bapt Chch FB,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,138
+Nassau,201-First Bapt Chch FB,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,3119
+Nassau,201-First Bapt Chch FB,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,1061
+Nassau,201-First Bapt Chch FB,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,3
+Nassau,201-First Bapt Chch FB,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,179
+Nassau,201-First Bapt Chch FB,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,3207
+Nassau,201-First Bapt Chch FB,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,1001
+Nassau,201-First Bapt Chch FB,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,3
+Nassau,201-First Bapt Chch FB,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,151
+Nassau,201-First Bapt Chch FB,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,2443
+Nassau,201-First Bapt Chch FB,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1765
+Nassau,201-First Bapt Chch FB,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,4
+Nassau,201-First Bapt Chch FB,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,150
+Nassau,201-First Bapt Chch FB,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,3071
+Nassau,201-First Bapt Chch FB,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,1102
+Nassau,201-First Bapt Chch FB,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Nassau,201-First Bapt Chch FB,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,187
+Nassau,201-First Bapt Chch FB,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,2673
+Nassau,201-First Bapt Chch FB,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1493
+Nassau,201-First Bapt Chch FB,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,195
+Nassau,201-First Bapt Chch FB,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2683
+Nassau,201-First Bapt Chch FB,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1453
+Nassau,201-First Bapt Chch FB,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,225
+Nassau,201-First Bapt Chch FB,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,2803
+Nassau,201-First Bapt Chch FB,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1377
+Nassau,201-First Bapt Chch FB,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Nassau,201-First Bapt Chch FB,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,180
+Nassau,201-First Bapt Chch FB,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2674
+Nassau,201-First Bapt Chch FB,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1413
+Nassau,201-First Bapt Chch FB,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,201-First Bapt Chch FB,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,275
+Nassau,201-First Bapt Chch FB,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,2714
+Nassau,201-First Bapt Chch FB,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1262
+Nassau,201-First Bapt Chch FB,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,385
+Nassau,201-First Bapt Chch FB,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,3434
+Nassau,201-First Bapt Chch FB,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,661
+Nassau,201-First Bapt Chch FB,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,266
+Nassau,201-First Bapt Chch FB,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,3184
+Nassau,201-First Bapt Chch FB,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1036
+Nassau,201-First Bapt Chch FB,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Nassau,201-First Bapt Chch FB,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,141
+Nassau,202-American Bch Comm Ctr,U.S. Senate,"",REP,Rick Scott,2384
+Nassau,202-American Bch Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,1055
+Nassau,202-American Bch Comm Ctr,U.S. Senate,"","",WriteinVotes,1
+Nassau,202-American Bch Comm Ctr,U.S. Senate,"","",OverVotes,0
+Nassau,202-American Bch Comm Ctr,U.S. Senate,"","",UnderVotes,12
+Nassau,202-American Bch Comm Ctr,U.S. House,4,REP,John H. Rutherford,2437
+Nassau,202-American Bch Comm Ctr,U.S. House,4,DEM,"George ""Ges"" Selmont",940
+Nassau,202-American Bch Comm Ctr,U.S. House,4,NPA,Joceline Berrios,28
+Nassau,202-American Bch Comm Ctr,U.S. House,4,NPA,Jason Michael Bulger,3
+Nassau,202-American Bch Comm Ctr,U.S. House,4,"",WriteinVotes,2
+Nassau,202-American Bch Comm Ctr,U.S. House,4,"",OverVotes,2
+Nassau,202-American Bch Comm Ctr,U.S. House,4,"",UnderVotes,40
+Nassau,202-American Bch Comm Ctr,Governor,"",REP,DeSantis / Nuñez,2367
+Nassau,202-American Bch Comm Ctr,Governor,"",DEM,Gillum / King,1050
+Nassau,202-American Bch Comm Ctr,Governor,"",REF,Richardson / Argenziano,9
+Nassau,202-American Bch Comm Ctr,Governor,"",NPA,Gibson / Wilds,2
+Nassau,202-American Bch Comm Ctr,Governor,"",NPA,Foley / Tutton,3
+Nassau,202-American Bch Comm Ctr,Governor,"",NPA,Stanley / McJury,4
+Nassau,202-American Bch Comm Ctr,Governor,"","",WriteinVotes,1
+Nassau,202-American Bch Comm Ctr,Governor,"","",OverVotes,2
+Nassau,202-American Bch Comm Ctr,Governor,"","",UnderVotes,14
+Nassau,202-American Bch Comm Ctr,Attorney General,"",REP,Ashley Moody,2425
+Nassau,202-American Bch Comm Ctr,Attorney General,"",DEM,Sean Shaw,939
+Nassau,202-American Bch Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,20
+Nassau,202-American Bch Comm Ctr,Attorney General,"","",OverVotes,0
+Nassau,202-American Bch Comm Ctr,Attorney General,"","",UnderVotes,68
+Nassau,202-American Bch Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,2414
+Nassau,202-American Bch Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,952
+Nassau,202-American Bch Comm Ctr,Chief Financial Officer,"","",WriteinVotes,2
+Nassau,202-American Bch Comm Ctr,Chief Financial Officer,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Chief Financial Officer,"","",UnderVotes,83
+Nassau,202-American Bch Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,2380
+Nassau,202-American Bch Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",977
+Nassau,202-American Bch Comm Ctr,Commissioner of Agriculture,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,94
+Nassau,202-American Bch Comm Ctr,State Senate,4,REP,Aaron Bean,2504
+Nassau,202-American Bch Comm Ctr,State Senate,4,DEM,Billee Bussard,857
+Nassau,202-American Bch Comm Ctr,State Senate,4,LPF,Joanna Liberty Tavares,43
+Nassau,202-American Bch Comm Ctr,State Senate,4,"",OverVotes,1
+Nassau,202-American Bch Comm Ctr,State Senate,4,"",UnderVotes,47
+Nassau,202-American Bch Comm Ctr,State House,11,REP,Cord Byrd,2413
+Nassau,202-American Bch Comm Ctr,State House,11,DEM,Nathcelly Leroy Rohrbaugh,949
+Nassau,202-American Bch Comm Ctr,State House,11,"",OverVotes,0
+Nassau,202-American Bch Comm Ctr,State House,11,"",UnderVotes,90
+Nassau,202-American Bch Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,2404
+Nassau,202-American Bch Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,496
+Nassau,202-American Bch Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,551
+Nassau,202-American Bch Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,2358
+Nassau,202-American Bch Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,507
+Nassau,202-American Bch Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,202-American Bch Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,587
+Nassau,202-American Bch Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,2406
+Nassau,202-American Bch Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,468
+Nassau,202-American Bch Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Nassau,202-American Bch Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,578
+Nassau,202-American Bch Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,2328
+Nassau,202-American Bch Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,536
+Nassau,202-American Bch Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,587
+Nassau,202-American Bch Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,2281
+Nassau,202-American Bch Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,571
+Nassau,202-American Bch Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,599
+Nassau,202-American Bch Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,2267
+Nassau,202-American Bch Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,590
+Nassau,202-American Bch Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,202-American Bch Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,595
+Nassau,202-American Bch Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,2414
+Nassau,202-American Bch Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,919
+Nassau,202-American Bch Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,4
+Nassau,202-American Bch Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,115
+Nassau,202-American Bch Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,2645
+Nassau,202-American Bch Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,692
+Nassau,202-American Bch Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Nassau,202-American Bch Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,113
+Nassau,202-American Bch Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,2604
+Nassau,202-American Bch Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,738
+Nassau,202-American Bch Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,109
+Nassau,202-American Bch Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1817
+Nassau,202-American Bch Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1539
+Nassau,202-American Bch Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,95
+Nassau,202-American Bch Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,2459
+Nassau,202-American Bch Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,854
+Nassau,202-American Bch Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,3
+Nassau,202-American Bch Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,136
+Nassau,202-American Bch Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,2088
+Nassau,202-American Bch Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1224
+Nassau,202-American Bch Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Nassau,202-American Bch Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,140
+Nassau,202-American Bch Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2083
+Nassau,202-American Bch Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1208
+Nassau,202-American Bch Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,160
+Nassau,202-American Bch Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,2115
+Nassau,202-American Bch Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1202
+Nassau,202-American Bch Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Nassau,202-American Bch Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,135
+Nassau,202-American Bch Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2048
+Nassau,202-American Bch Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1174
+Nassau,202-American Bch Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,3
+Nassau,202-American Bch Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,227
+Nassau,202-American Bch Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,2310
+Nassau,202-American Bch Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,870
+Nassau,202-American Bch Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,271
+Nassau,202-American Bch Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2756
+Nassau,202-American Bch Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,530
+Nassau,202-American Bch Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,165
+Nassau,202-American Bch Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,2525
+Nassau,202-American Bch Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,796
+Nassau,202-American Bch Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Nassau,202-American Bch Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,130
+Nassau,203-Springhill Bapt Chch,U.S. Senate,"",REP,Rick Scott,1646
+Nassau,203-Springhill Bapt Chch,U.S. Senate,"",DEM,Bill Nelson,622
+Nassau,203-Springhill Bapt Chch,U.S. Senate,"","",WriteinVotes,6
+Nassau,203-Springhill Bapt Chch,U.S. Senate,"","",OverVotes,1
+Nassau,203-Springhill Bapt Chch,U.S. Senate,"","",UnderVotes,11
+Nassau,203-Springhill Bapt Chch,U.S. House,4,REP,John H. Rutherford,1693
+Nassau,203-Springhill Bapt Chch,U.S. House,4,DEM,"George ""Ges"" Selmont",502
+Nassau,203-Springhill Bapt Chch,U.S. House,4,NPA,Joceline Berrios,33
+Nassau,203-Springhill Bapt Chch,U.S. House,4,NPA,Jason Michael Bulger,22
+Nassau,203-Springhill Bapt Chch,U.S. House,4,"",WriteinVotes,0
+Nassau,203-Springhill Bapt Chch,U.S. House,4,"",OverVotes,0
+Nassau,203-Springhill Bapt Chch,U.S. House,4,"",UnderVotes,36
+Nassau,203-Springhill Bapt Chch,Governor,"",REP,DeSantis / Nuñez,1646
+Nassau,203-Springhill Bapt Chch,Governor,"",DEM,Gillum / King,608
+Nassau,203-Springhill Bapt Chch,Governor,"",REF,Richardson / Argenziano,8
+Nassau,203-Springhill Bapt Chch,Governor,"",NPA,Gibson / Wilds,6
+Nassau,203-Springhill Bapt Chch,Governor,"",NPA,Foley / Tutton,3
+Nassau,203-Springhill Bapt Chch,Governor,"",NPA,Stanley / McJury,5
+Nassau,203-Springhill Bapt Chch,Governor,"","",WriteinVotes,2
+Nassau,203-Springhill Bapt Chch,Governor,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Governor,"","",UnderVotes,8
+Nassau,203-Springhill Bapt Chch,Attorney General,"",REP,Ashley Moody,1662
+Nassau,203-Springhill Bapt Chch,Attorney General,"",DEM,Sean Shaw,550
+Nassau,203-Springhill Bapt Chch,Attorney General,"",NPA,Jeffrey Marc Siskind,36
+Nassau,203-Springhill Bapt Chch,Attorney General,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Attorney General,"","",UnderVotes,38
+Nassau,203-Springhill Bapt Chch,Chief Financial Officer,"",REP,Jimmy Patronis,1680
+Nassau,203-Springhill Bapt Chch,Chief Financial Officer,"",DEM,Jeremy Ring,549
+Nassau,203-Springhill Bapt Chch,Chief Financial Officer,"","",WriteinVotes,5
+Nassau,203-Springhill Bapt Chch,Chief Financial Officer,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Chief Financial Officer,"","",UnderVotes,52
+Nassau,203-Springhill Bapt Chch,Commissioner of Agriculture,"",REP,Matt Caldwell,1676
+Nassau,203-Springhill Bapt Chch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",571
+Nassau,203-Springhill Bapt Chch,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Commissioner of Agriculture,"","",UnderVotes,39
+Nassau,203-Springhill Bapt Chch,State Senate,4,REP,Aaron Bean,1686
+Nassau,203-Springhill Bapt Chch,State Senate,4,DEM,Billee Bussard,531
+Nassau,203-Springhill Bapt Chch,State Senate,4,LPF,Joanna Liberty Tavares,42
+Nassau,203-Springhill Bapt Chch,State Senate,4,"",OverVotes,0
+Nassau,203-Springhill Bapt Chch,State Senate,4,"",UnderVotes,27
+Nassau,203-Springhill Bapt Chch,State House,11,REP,Cord Byrd,1670
+Nassau,203-Springhill Bapt Chch,State House,11,DEM,Nathcelly Leroy Rohrbaugh,555
+Nassau,203-Springhill Bapt Chch,State House,11,"",OverVotes,0
+Nassau,203-Springhill Bapt Chch,State House,11,"",UnderVotes,61
+Nassau,203-Springhill Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1437
+Nassau,203-Springhill Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,566
+Nassau,203-Springhill Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,282
+Nassau,203-Springhill Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1434
+Nassau,203-Springhill Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,571
+Nassau,203-Springhill Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,280
+Nassau,203-Springhill Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1460
+Nassau,203-Springhill Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,547
+Nassau,203-Springhill Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,278
+Nassau,203-Springhill Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1414
+Nassau,203-Springhill Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,585
+Nassau,203-Springhill Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,286
+Nassau,203-Springhill Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1408
+Nassau,203-Springhill Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,582
+Nassau,203-Springhill Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,296
+Nassau,203-Springhill Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1386
+Nassau,203-Springhill Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,616
+Nassau,203-Springhill Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,284
+Nassau,203-Springhill Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1533
+Nassau,203-Springhill Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,664
+Nassau,203-Springhill Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,3
+Nassau,203-Springhill Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,86
+Nassau,203-Springhill Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1641
+Nassau,203-Springhill Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,541
+Nassau,203-Springhill Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,103
+Nassau,203-Springhill Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1657
+Nassau,203-Springhill Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,579
+Nassau,203-Springhill Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,50
+Nassau,203-Springhill Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1196
+Nassau,203-Springhill Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1050
+Nassau,203-Springhill Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,39
+Nassau,203-Springhill Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1703
+Nassau,203-Springhill Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,505
+Nassau,203-Springhill Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,78
+Nassau,203-Springhill Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1501
+Nassau,203-Springhill Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,706
+Nassau,203-Springhill Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,78
+Nassau,203-Springhill Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1583
+Nassau,203-Springhill Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,618
+Nassau,203-Springhill Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,85
+Nassau,203-Springhill Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1299
+Nassau,203-Springhill Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,907
+Nassau,203-Springhill Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,80
+Nassau,203-Springhill Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1571
+Nassau,203-Springhill Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,601
+Nassau,203-Springhill Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,113
+Nassau,203-Springhill Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1350
+Nassau,203-Springhill Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,783
+Nassau,203-Springhill Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,203-Springhill Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,153
+Nassau,203-Springhill Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1752
+Nassau,203-Springhill Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,429
+Nassau,203-Springhill Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,104
+Nassau,203-Springhill Bapt Chch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1400
+Nassau,203-Springhill Bapt Chch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,833
+Nassau,203-Springhill Bapt Chch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Nassau,203-Springhill Bapt Chch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,52
+Nassau,204-The Journey Chch,U.S. Senate,"",REP,Rick Scott,3014
+Nassau,204-The Journey Chch,U.S. Senate,"",DEM,Bill Nelson,1347
+Nassau,204-The Journey Chch,U.S. Senate,"","",WriteinVotes,9
+Nassau,204-The Journey Chch,U.S. Senate,"","",OverVotes,2
+Nassau,204-The Journey Chch,U.S. Senate,"","",UnderVotes,22
+Nassau,204-The Journey Chch,U.S. House,4,REP,John H. Rutherford,3061
+Nassau,204-The Journey Chch,U.S. House,4,DEM,"George ""Ges"" Selmont",1197
+Nassau,204-The Journey Chch,U.S. House,4,NPA,Joceline Berrios,60
+Nassau,204-The Journey Chch,U.S. House,4,NPA,Jason Michael Bulger,22
+Nassau,204-The Journey Chch,U.S. House,4,"",WriteinVotes,3
+Nassau,204-The Journey Chch,U.S. House,4,"",OverVotes,1
+Nassau,204-The Journey Chch,U.S. House,4,"",UnderVotes,50
+Nassau,204-The Journey Chch,Governor,"",REP,DeSantis / Nuñez,2982
+Nassau,204-The Journey Chch,Governor,"",DEM,Gillum / King,1356
+Nassau,204-The Journey Chch,Governor,"",REF,Richardson / Argenziano,17
+Nassau,204-The Journey Chch,Governor,"",NPA,Gibson / Wilds,7
+Nassau,204-The Journey Chch,Governor,"",NPA,Foley / Tutton,0
+Nassau,204-The Journey Chch,Governor,"",NPA,Stanley / McJury,4
+Nassau,204-The Journey Chch,Governor,"","",WriteinVotes,1
+Nassau,204-The Journey Chch,Governor,"","",OverVotes,3
+Nassau,204-The Journey Chch,Governor,"","",UnderVotes,24
+Nassau,204-The Journey Chch,Attorney General,"",REP,Ashley Moody,3072
+Nassau,204-The Journey Chch,Attorney General,"",DEM,Sean Shaw,1200
+Nassau,204-The Journey Chch,Attorney General,"",NPA,Jeffrey Marc Siskind,55
+Nassau,204-The Journey Chch,Attorney General,"","",OverVotes,0
+Nassau,204-The Journey Chch,Attorney General,"","",UnderVotes,67
+Nassau,204-The Journey Chch,Chief Financial Officer,"",REP,Jimmy Patronis,3067
+Nassau,204-The Journey Chch,Chief Financial Officer,"",DEM,Jeremy Ring,1236
+Nassau,204-The Journey Chch,Chief Financial Officer,"","",WriteinVotes,1
+Nassau,204-The Journey Chch,Chief Financial Officer,"","",OverVotes,1
+Nassau,204-The Journey Chch,Chief Financial Officer,"","",UnderVotes,89
+Nassau,204-The Journey Chch,Commissioner of Agriculture,"",REP,Matt Caldwell,2994
+Nassau,204-The Journey Chch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",1299
+Nassau,204-The Journey Chch,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,204-The Journey Chch,Commissioner of Agriculture,"","",UnderVotes,101
+Nassau,204-The Journey Chch,State Senate,4,REP,Aaron Bean,3080
+Nassau,204-The Journey Chch,State Senate,4,DEM,Billee Bussard,1174
+Nassau,204-The Journey Chch,State Senate,4,LPF,Joanna Liberty Tavares,80
+Nassau,204-The Journey Chch,State Senate,4,"",OverVotes,0
+Nassau,204-The Journey Chch,State Senate,4,"",UnderVotes,60
+Nassau,204-The Journey Chch,State House,11,REP,Cord Byrd,3002
+Nassau,204-The Journey Chch,State House,11,DEM,Nathcelly Leroy Rohrbaugh,1297
+Nassau,204-The Journey Chch,State House,11,"",OverVotes,0
+Nassau,204-The Journey Chch,State House,11,"",UnderVotes,95
+Nassau,204-The Journey Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,2911
+Nassau,204-The Journey Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,901
+Nassau,204-The Journey Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Nassau,204-The Journey Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,580
+Nassau,204-The Journey Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,2900
+Nassau,204-The Journey Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,886
+Nassau,204-The Journey Chch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,204-The Journey Chch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,608
+Nassau,204-The Journey Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,2948
+Nassau,204-The Journey Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,830
+Nassau,204-The Journey Chch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,2
+Nassau,204-The Journey Chch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,614
+Nassau,204-The Journey Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,2817
+Nassau,204-The Journey Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,942
+Nassau,204-The Journey Chch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,6
+Nassau,204-The Journey Chch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,629
+Nassau,204-The Journey Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,2819
+Nassau,204-The Journey Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,933
+Nassau,204-The Journey Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,204-The Journey Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,642
+Nassau,204-The Journey Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,2810
+Nassau,204-The Journey Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,967
+Nassau,204-The Journey Chch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Nassau,204-The Journey Chch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,616
+Nassau,204-The Journey Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,3003
+Nassau,204-The Journey Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1229
+Nassau,204-The Journey Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Nassau,204-The Journey Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,161
+Nassau,204-The Journey Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,3220
+Nassau,204-The Journey Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,978
+Nassau,204-The Journey Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,5
+Nassau,204-The Journey Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,191
+Nassau,204-The Journey Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,3190
+Nassau,204-The Journey Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,1093
+Nassau,204-The Journey Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Nassau,204-The Journey Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,110
+Nassau,204-The Journey Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,2299
+Nassau,204-The Journey Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1996
+Nassau,204-The Journey Chch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Nassau,204-The Journey Chch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,96
+Nassau,204-The Journey Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,3275
+Nassau,204-The Journey Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,966
+Nassau,204-The Journey Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,3
+Nassau,204-The Journey Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,150
+Nassau,204-The Journey Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,2844
+Nassau,204-The Journey Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1396
+Nassau,204-The Journey Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Nassau,204-The Journey Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,153
+Nassau,204-The Journey Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2997
+Nassau,204-The Journey Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1229
+Nassau,204-The Journey Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Nassau,204-The Journey Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,167
+Nassau,204-The Journey Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,2674
+Nassau,204-The Journey Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1564
+Nassau,204-The Journey Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,5
+Nassau,204-The Journey Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,151
+Nassau,204-The Journey Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2951
+Nassau,204-The Journey Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1196
+Nassau,204-The Journey Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,204-The Journey Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,247
+Nassau,204-The Journey Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,2782
+Nassau,204-The Journey Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1289
+Nassau,204-The Journey Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,4
+Nassau,204-The Journey Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,319
+Nassau,204-The Journey Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,3486
+Nassau,204-The Journey Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,699
+Nassau,204-The Journey Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,3
+Nassau,204-The Journey Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,206
+Nassau,204-The Journey Chch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,3030
+Nassau,204-The Journey Chch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1249
+Nassau,204-The Journey Chch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,5
+Nassau,204-The Journey Chch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,110
+Nassau,301-James Page Govt Cmplx,U.S. Senate,"",REP,Rick Scott,1835
+Nassau,301-James Page Govt Cmplx,U.S. Senate,"",DEM,Bill Nelson,704
+Nassau,301-James Page Govt Cmplx,U.S. Senate,"","",WriteinVotes,5
+Nassau,301-James Page Govt Cmplx,U.S. Senate,"","",OverVotes,1
+Nassau,301-James Page Govt Cmplx,U.S. Senate,"","",UnderVotes,15
+Nassau,301-James Page Govt Cmplx,U.S. House,4,REP,John H. Rutherford,1866
+Nassau,301-James Page Govt Cmplx,U.S. House,4,DEM,"George ""Ges"" Selmont",612
+Nassau,301-James Page Govt Cmplx,U.S. House,4,NPA,Joceline Berrios,40
+Nassau,301-James Page Govt Cmplx,U.S. House,4,NPA,Jason Michael Bulger,8
+Nassau,301-James Page Govt Cmplx,U.S. House,4,"",WriteinVotes,0
+Nassau,301-James Page Govt Cmplx,U.S. House,4,"",OverVotes,1
+Nassau,301-James Page Govt Cmplx,U.S. House,4,"",UnderVotes,33
+Nassau,301-James Page Govt Cmplx,Governor,"",REP,DeSantis / Nuñez,1817
+Nassau,301-James Page Govt Cmplx,Governor,"",DEM,Gillum / King,702
+Nassau,301-James Page Govt Cmplx,Governor,"",REF,Richardson / Argenziano,14
+Nassau,301-James Page Govt Cmplx,Governor,"",NPA,Gibson / Wilds,8
+Nassau,301-James Page Govt Cmplx,Governor,"",NPA,Foley / Tutton,0
+Nassau,301-James Page Govt Cmplx,Governor,"",NPA,Stanley / McJury,4
+Nassau,301-James Page Govt Cmplx,Governor,"","",WriteinVotes,1
+Nassau,301-James Page Govt Cmplx,Governor,"","",OverVotes,1
+Nassau,301-James Page Govt Cmplx,Governor,"","",UnderVotes,13
+Nassau,301-James Page Govt Cmplx,Attorney General,"",REP,Ashley Moody,1859
+Nassau,301-James Page Govt Cmplx,Attorney General,"",DEM,Sean Shaw,635
+Nassau,301-James Page Govt Cmplx,Attorney General,"",NPA,Jeffrey Marc Siskind,31
+Nassau,301-James Page Govt Cmplx,Attorney General,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Attorney General,"","",UnderVotes,35
+Nassau,301-James Page Govt Cmplx,Chief Financial Officer,"",REP,Jimmy Patronis,1859
+Nassau,301-James Page Govt Cmplx,Chief Financial Officer,"",DEM,Jeremy Ring,632
+Nassau,301-James Page Govt Cmplx,Chief Financial Officer,"","",WriteinVotes,5
+Nassau,301-James Page Govt Cmplx,Chief Financial Officer,"","",OverVotes,1
+Nassau,301-James Page Govt Cmplx,Chief Financial Officer,"","",UnderVotes,63
+Nassau,301-James Page Govt Cmplx,Commissioner of Agriculture,"",REP,Matt Caldwell,1810
+Nassau,301-James Page Govt Cmplx,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",699
+Nassau,301-James Page Govt Cmplx,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Commissioner of Agriculture,"","",UnderVotes,51
+Nassau,301-James Page Govt Cmplx,State Senate,4,REP,Aaron Bean,1844
+Nassau,301-James Page Govt Cmplx,State Senate,4,DEM,Billee Bussard,613
+Nassau,301-James Page Govt Cmplx,State Senate,4,LPF,Joanna Liberty Tavares,71
+Nassau,301-James Page Govt Cmplx,State Senate,4,"",OverVotes,0
+Nassau,301-James Page Govt Cmplx,State Senate,4,"",UnderVotes,32
+Nassau,301-James Page Govt Cmplx,State House,11,REP,Cord Byrd,1844
+Nassau,301-James Page Govt Cmplx,State House,11,DEM,Nathcelly Leroy Rohrbaugh,670
+Nassau,301-James Page Govt Cmplx,State House,11,"",OverVotes,0
+Nassau,301-James Page Govt Cmplx,State House,11,"",UnderVotes,46
+Nassau,301-James Page Govt Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1670
+Nassau,301-James Page Govt Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,542
+Nassau,301-James Page Govt Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,348
+Nassau,301-James Page Govt Cmplx,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1639
+Nassau,301-James Page Govt Cmplx,Retention of Harvey Jay,First District Court of Appeal,NOP,No,544
+Nassau,301-James Page Govt Cmplx,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,377
+Nassau,301-James Page Govt Cmplx,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1666
+Nassau,301-James Page Govt Cmplx,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,520
+Nassau,301-James Page Govt Cmplx,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Nassau,301-James Page Govt Cmplx,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,373
+Nassau,301-James Page Govt Cmplx,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1581
+Nassau,301-James Page Govt Cmplx,Retention of Brad Thomas,First District Court of Appeal,NOP,No,595
+Nassau,301-James Page Govt Cmplx,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,384
+Nassau,301-James Page Govt Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1611
+Nassau,301-James Page Govt Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,566
+Nassau,301-James Page Govt Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,383
+Nassau,301-James Page Govt Cmplx,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1615
+Nassau,301-James Page Govt Cmplx,Retention of Allen Winsor,First District Court of Appeal,NOP,No,574
+Nassau,301-James Page Govt Cmplx,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,371
+Nassau,301-James Page Govt Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1778
+Nassau,301-James Page Govt Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,702
+Nassau,301-James Page Govt Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Nassau,301-James Page Govt Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,79
+Nassau,301-James Page Govt Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1901
+Nassau,301-James Page Govt Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,561
+Nassau,301-James Page Govt Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Nassau,301-James Page Govt Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,96
+Nassau,301-James Page Govt Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1845
+Nassau,301-James Page Govt Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,636
+Nassau,301-James Page Govt Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Nassau,301-James Page Govt Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,78
+Nassau,301-James Page Govt Cmplx,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1278
+Nassau,301-James Page Govt Cmplx,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1210
+Nassau,301-James Page Govt Cmplx,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Nassau,301-James Page Govt Cmplx,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,69
+Nassau,301-James Page Govt Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1881
+Nassau,301-James Page Govt Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,585
+Nassau,301-James Page Govt Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,94
+Nassau,301-James Page Govt Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1655
+Nassau,301-James Page Govt Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,802
+Nassau,301-James Page Govt Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,103
+Nassau,301-James Page Govt Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1774
+Nassau,301-James Page Govt Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,669
+Nassau,301-James Page Govt Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,117
+Nassau,301-James Page Govt Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1489
+Nassau,301-James Page Govt Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,975
+Nassau,301-James Page Govt Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,96
+Nassau,301-James Page Govt Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1736
+Nassau,301-James Page Govt Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,671
+Nassau,301-James Page Govt Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,153
+Nassau,301-James Page Govt Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1538
+Nassau,301-James Page Govt Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,824
+Nassau,301-James Page Govt Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,198
+Nassau,301-James Page Govt Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2051
+Nassau,301-James Page Govt Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,395
+Nassau,301-James Page Govt Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Nassau,301-James Page Govt Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,113
+Nassau,301-James Page Govt Cmplx,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1611
+Nassau,301-James Page Govt Cmplx,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,872
+Nassau,301-James Page Govt Cmplx,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Nassau,301-James Page Govt Cmplx,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,77
+Nassau,302-Yulee Sports Cmplx,U.S. Senate,"",REP,Rick Scott,2229
+Nassau,302-Yulee Sports Cmplx,U.S. Senate,"",DEM,Bill Nelson,791
+Nassau,302-Yulee Sports Cmplx,U.S. Senate,"","",WriteinVotes,9
+Nassau,302-Yulee Sports Cmplx,U.S. Senate,"","",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,U.S. Senate,"","",UnderVotes,16
+Nassau,302-Yulee Sports Cmplx,U.S. House,4,REP,John H. Rutherford,2281
+Nassau,302-Yulee Sports Cmplx,U.S. House,4,DEM,"George ""Ges"" Selmont",643
+Nassau,302-Yulee Sports Cmplx,U.S. House,4,NPA,Joceline Berrios,50
+Nassau,302-Yulee Sports Cmplx,U.S. House,4,NPA,Jason Michael Bulger,26
+Nassau,302-Yulee Sports Cmplx,U.S. House,4,"",WriteinVotes,4
+Nassau,302-Yulee Sports Cmplx,U.S. House,4,"",OverVotes,5
+Nassau,302-Yulee Sports Cmplx,U.S. House,4,"",UnderVotes,36
+Nassau,302-Yulee Sports Cmplx,Governor,"",REP,DeSantis / Nuñez,2220
+Nassau,302-Yulee Sports Cmplx,Governor,"",DEM,Gillum / King,762
+Nassau,302-Yulee Sports Cmplx,Governor,"",REF,Richardson / Argenziano,16
+Nassau,302-Yulee Sports Cmplx,Governor,"",NPA,Gibson / Wilds,15
+Nassau,302-Yulee Sports Cmplx,Governor,"",NPA,Foley / Tutton,4
+Nassau,302-Yulee Sports Cmplx,Governor,"",NPA,Stanley / McJury,4
+Nassau,302-Yulee Sports Cmplx,Governor,"","",WriteinVotes,8
+Nassau,302-Yulee Sports Cmplx,Governor,"","",OverVotes,5
+Nassau,302-Yulee Sports Cmplx,Governor,"","",UnderVotes,11
+Nassau,302-Yulee Sports Cmplx,Attorney General,"",REP,Ashley Moody,2259
+Nassau,302-Yulee Sports Cmplx,Attorney General,"",DEM,Sean Shaw,690
+Nassau,302-Yulee Sports Cmplx,Attorney General,"",NPA,Jeffrey Marc Siskind,49
+Nassau,302-Yulee Sports Cmplx,Attorney General,"","",OverVotes,1
+Nassau,302-Yulee Sports Cmplx,Attorney General,"","",UnderVotes,46
+Nassau,302-Yulee Sports Cmplx,Chief Financial Officer,"",REP,Jimmy Patronis,2264
+Nassau,302-Yulee Sports Cmplx,Chief Financial Officer,"",DEM,Jeremy Ring,708
+Nassau,302-Yulee Sports Cmplx,Chief Financial Officer,"","",WriteinVotes,3
+Nassau,302-Yulee Sports Cmplx,Chief Financial Officer,"","",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Chief Financial Officer,"","",UnderVotes,70
+Nassau,302-Yulee Sports Cmplx,Commissioner of Agriculture,"",REP,Matt Caldwell,2240
+Nassau,302-Yulee Sports Cmplx,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",743
+Nassau,302-Yulee Sports Cmplx,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Commissioner of Agriculture,"","",UnderVotes,62
+Nassau,302-Yulee Sports Cmplx,State Senate,4,REP,Aaron Bean,2263
+Nassau,302-Yulee Sports Cmplx,State Senate,4,DEM,Billee Bussard,655
+Nassau,302-Yulee Sports Cmplx,State Senate,4,LPF,Joanna Liberty Tavares,84
+Nassau,302-Yulee Sports Cmplx,State Senate,4,"",OverVotes,1
+Nassau,302-Yulee Sports Cmplx,State Senate,4,"",UnderVotes,42
+Nassau,302-Yulee Sports Cmplx,State House,11,REP,Cord Byrd,2265
+Nassau,302-Yulee Sports Cmplx,State House,11,DEM,Nathcelly Leroy Rohrbaugh,713
+Nassau,302-Yulee Sports Cmplx,State House,11,"",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,State House,11,"",UnderVotes,67
+Nassau,302-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1963
+Nassau,302-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,716
+Nassau,302-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Nassau,302-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,365
+Nassau,302-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1954
+Nassau,302-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,NOP,No,698
+Nassau,302-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,2
+Nassau,302-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,391
+Nassau,302-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1971
+Nassau,302-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,677
+Nassau,302-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Nassau,302-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,396
+Nassau,302-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1918
+Nassau,302-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,NOP,No,729
+Nassau,302-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,398
+Nassau,302-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1919
+Nassau,302-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,717
+Nassau,302-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,409
+Nassau,302-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1905
+Nassau,302-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,NOP,No,744
+Nassau,302-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,396
+Nassau,302-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,2119
+Nassau,302-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,828
+Nassau,302-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,5
+Nassau,302-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,93
+Nassau,302-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,2242
+Nassau,302-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,666
+Nassau,302-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Nassau,302-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,135
+Nassau,302-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,2138
+Nassau,302-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,831
+Nassau,302-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,76
+Nassau,302-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1544
+Nassau,302-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1417
+Nassau,302-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Nassau,302-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,82
+Nassau,302-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,2254
+Nassau,302-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,680
+Nassau,302-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,111
+Nassau,302-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1999
+Nassau,302-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,934
+Nassau,302-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,4
+Nassau,302-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,108
+Nassau,302-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2170
+Nassau,302-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,744
+Nassau,302-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,3
+Nassau,302-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,128
+Nassau,302-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1718
+Nassau,302-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1209
+Nassau,302-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Nassau,302-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,116
+Nassau,302-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2144
+Nassau,302-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,741
+Nassau,302-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,160
+Nassau,302-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1825
+Nassau,302-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,996
+Nassau,302-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Nassau,302-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,223
+Nassau,302-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2395
+Nassau,302-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,509
+Nassau,302-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Nassau,302-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,139
+Nassau,302-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1833
+Nassau,302-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1111
+Nassau,302-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Nassau,302-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,101
+Nassau,303-Mercy Hill Chch,U.S. Senate,"",REP,Rick Scott,2043
+Nassau,303-Mercy Hill Chch,U.S. Senate,"",DEM,Bill Nelson,627
+Nassau,303-Mercy Hill Chch,U.S. Senate,"","",WriteinVotes,5
+Nassau,303-Mercy Hill Chch,U.S. Senate,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,U.S. Senate,"","",UnderVotes,9
+Nassau,303-Mercy Hill Chch,U.S. House,4,REP,John H. Rutherford,2098
+Nassau,303-Mercy Hill Chch,U.S. House,4,DEM,"George ""Ges"" Selmont",493
+Nassau,303-Mercy Hill Chch,U.S. House,4,NPA,Joceline Berrios,45
+Nassau,303-Mercy Hill Chch,U.S. House,4,NPA,Jason Michael Bulger,16
+Nassau,303-Mercy Hill Chch,U.S. House,4,"",WriteinVotes,1
+Nassau,303-Mercy Hill Chch,U.S. House,4,"",OverVotes,1
+Nassau,303-Mercy Hill Chch,U.S. House,4,"",UnderVotes,30
+Nassau,303-Mercy Hill Chch,Governor,"",REP,DeSantis / Nuñez,2025
+Nassau,303-Mercy Hill Chch,Governor,"",DEM,Gillum / King,608
+Nassau,303-Mercy Hill Chch,Governor,"",REF,Richardson / Argenziano,14
+Nassau,303-Mercy Hill Chch,Governor,"",NPA,Gibson / Wilds,8
+Nassau,303-Mercy Hill Chch,Governor,"",NPA,Foley / Tutton,5
+Nassau,303-Mercy Hill Chch,Governor,"",NPA,Stanley / McJury,8
+Nassau,303-Mercy Hill Chch,Governor,"","",WriteinVotes,1
+Nassau,303-Mercy Hill Chch,Governor,"","",OverVotes,2
+Nassau,303-Mercy Hill Chch,Governor,"","",UnderVotes,13
+Nassau,303-Mercy Hill Chch,Attorney General,"",REP,Ashley Moody,2054
+Nassau,303-Mercy Hill Chch,Attorney General,"",DEM,Sean Shaw,548
+Nassau,303-Mercy Hill Chch,Attorney General,"",NPA,Jeffrey Marc Siskind,38
+Nassau,303-Mercy Hill Chch,Attorney General,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,Attorney General,"","",UnderVotes,44
+Nassau,303-Mercy Hill Chch,Chief Financial Officer,"",REP,Jimmy Patronis,2061
+Nassau,303-Mercy Hill Chch,Chief Financial Officer,"",DEM,Jeremy Ring,566
+Nassau,303-Mercy Hill Chch,Chief Financial Officer,"","",WriteinVotes,3
+Nassau,303-Mercy Hill Chch,Chief Financial Officer,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,Chief Financial Officer,"","",UnderVotes,54
+Nassau,303-Mercy Hill Chch,Commissioner of Agriculture,"",REP,Matt Caldwell,2041
+Nassau,303-Mercy Hill Chch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",594
+Nassau,303-Mercy Hill Chch,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,Commissioner of Agriculture,"","",UnderVotes,49
+Nassau,303-Mercy Hill Chch,State Senate,4,REP,Aaron Bean,2054
+Nassau,303-Mercy Hill Chch,State Senate,4,DEM,Billee Bussard,532
+Nassau,303-Mercy Hill Chch,State Senate,4,LPF,Joanna Liberty Tavares,67
+Nassau,303-Mercy Hill Chch,State Senate,4,"",OverVotes,0
+Nassau,303-Mercy Hill Chch,State Senate,4,"",UnderVotes,31
+Nassau,303-Mercy Hill Chch,State House,11,REP,Cord Byrd,2052
+Nassau,303-Mercy Hill Chch,State House,11,DEM,Nathcelly Leroy Rohrbaugh,575
+Nassau,303-Mercy Hill Chch,State House,11,"",OverVotes,1
+Nassau,303-Mercy Hill Chch,State House,11,"",UnderVotes,56
+Nassau,303-Mercy Hill Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1713
+Nassau,303-Mercy Hill Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,683
+Nassau,303-Mercy Hill Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Nassau,303-Mercy Hill Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,287
+Nassau,303-Mercy Hill Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1688
+Nassau,303-Mercy Hill Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,697
+Nassau,303-Mercy Hill Chch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Nassau,303-Mercy Hill Chch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,298
+Nassau,303-Mercy Hill Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1712
+Nassau,303-Mercy Hill Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,671
+Nassau,303-Mercy Hill Chch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Nassau,303-Mercy Hill Chch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,300
+Nassau,303-Mercy Hill Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1651
+Nassau,303-Mercy Hill Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,728
+Nassau,303-Mercy Hill Chch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,303-Mercy Hill Chch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,305
+Nassau,303-Mercy Hill Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1655
+Nassau,303-Mercy Hill Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,715
+Nassau,303-Mercy Hill Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,303-Mercy Hill Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,314
+Nassau,303-Mercy Hill Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1650
+Nassau,303-Mercy Hill Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,727
+Nassau,303-Mercy Hill Chch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,303-Mercy Hill Chch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,307
+Nassau,303-Mercy Hill Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1767
+Nassau,303-Mercy Hill Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,816
+Nassau,303-Mercy Hill Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Nassau,303-Mercy Hill Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,100
+Nassau,303-Mercy Hill Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1889
+Nassau,303-Mercy Hill Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,666
+Nassau,303-Mercy Hill Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Nassau,303-Mercy Hill Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,128
+Nassau,303-Mercy Hill Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1913
+Nassau,303-Mercy Hill Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,692
+Nassau,303-Mercy Hill Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Nassau,303-Mercy Hill Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,78
+Nassau,303-Mercy Hill Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1353
+Nassau,303-Mercy Hill Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1261
+Nassau,303-Mercy Hill Chch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Nassau,303-Mercy Hill Chch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,69
+Nassau,303-Mercy Hill Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1985
+Nassau,303-Mercy Hill Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,583
+Nassau,303-Mercy Hill Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Nassau,303-Mercy Hill Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,115
+Nassau,303-Mercy Hill Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1813
+Nassau,303-Mercy Hill Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,760
+Nassau,303-Mercy Hill Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Nassau,303-Mercy Hill Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,109
+Nassau,303-Mercy Hill Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1930
+Nassau,303-Mercy Hill Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,624
+Nassau,303-Mercy Hill Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,130
+Nassau,303-Mercy Hill Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1467
+Nassau,303-Mercy Hill Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1089
+Nassau,303-Mercy Hill Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Nassau,303-Mercy Hill Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,127
+Nassau,303-Mercy Hill Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1914
+Nassau,303-Mercy Hill Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,607
+Nassau,303-Mercy Hill Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,163
+Nassau,303-Mercy Hill Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1585
+Nassau,303-Mercy Hill Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,898
+Nassau,303-Mercy Hill Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,201
+Nassau,303-Mercy Hill Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2093
+Nassau,303-Mercy Hill Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,430
+Nassau,303-Mercy Hill Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Nassau,303-Mercy Hill Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,161
+Nassau,303-Mercy Hill Chch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1575
+Nassau,303-Mercy Hill Chch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1020
+Nassau,303-Mercy Hill Chch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Nassau,303-Mercy Hill Chch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,87
+Nassau,401-Hilliard Comm Ctr,U.S. Senate,"",REP,Rick Scott,3085
+Nassau,401-Hilliard Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,529
+Nassau,401-Hilliard Comm Ctr,U.S. Senate,"","",WriteinVotes,7
+Nassau,401-Hilliard Comm Ctr,U.S. Senate,"","",OverVotes,3
+Nassau,401-Hilliard Comm Ctr,U.S. Senate,"","",UnderVotes,20
+Nassau,401-Hilliard Comm Ctr,U.S. House,4,REP,John H. Rutherford,3135
+Nassau,401-Hilliard Comm Ctr,U.S. House,4,DEM,"George ""Ges"" Selmont",415
+Nassau,401-Hilliard Comm Ctr,U.S. House,4,NPA,Joceline Berrios,29
+Nassau,401-Hilliard Comm Ctr,U.S. House,4,NPA,Jason Michael Bulger,23
+Nassau,401-Hilliard Comm Ctr,U.S. House,4,"",WriteinVotes,2
+Nassau,401-Hilliard Comm Ctr,U.S. House,4,"",OverVotes,3
+Nassau,401-Hilliard Comm Ctr,U.S. House,4,"",UnderVotes,37
+Nassau,401-Hilliard Comm Ctr,Governor,"",REP,DeSantis / Nuñez,3087
+Nassau,401-Hilliard Comm Ctr,Governor,"",DEM,Gillum / King,495
+Nassau,401-Hilliard Comm Ctr,Governor,"",REF,Richardson / Argenziano,14
+Nassau,401-Hilliard Comm Ctr,Governor,"",NPA,Gibson / Wilds,9
+Nassau,401-Hilliard Comm Ctr,Governor,"",NPA,Foley / Tutton,7
+Nassau,401-Hilliard Comm Ctr,Governor,"",NPA,Stanley / McJury,7
+Nassau,401-Hilliard Comm Ctr,Governor,"","",WriteinVotes,1
+Nassau,401-Hilliard Comm Ctr,Governor,"","",OverVotes,4
+Nassau,401-Hilliard Comm Ctr,Governor,"","",UnderVotes,20
+Nassau,401-Hilliard Comm Ctr,Attorney General,"",REP,Ashley Moody,3109
+Nassau,401-Hilliard Comm Ctr,Attorney General,"",DEM,Sean Shaw,446
+Nassau,401-Hilliard Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,43
+Nassau,401-Hilliard Comm Ctr,Attorney General,"","",OverVotes,3
+Nassau,401-Hilliard Comm Ctr,Attorney General,"","",UnderVotes,43
+Nassau,401-Hilliard Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,3094
+Nassau,401-Hilliard Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,478
+Nassau,401-Hilliard Comm Ctr,Chief Financial Officer,"","",WriteinVotes,3
+Nassau,401-Hilliard Comm Ctr,Chief Financial Officer,"","",OverVotes,2
+Nassau,401-Hilliard Comm Ctr,Chief Financial Officer,"","",UnderVotes,67
+Nassau,401-Hilliard Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,3098
+Nassau,401-Hilliard Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",492
+Nassau,401-Hilliard Comm Ctr,Commissioner of Agriculture,"","",OverVotes,3
+Nassau,401-Hilliard Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,51
+Nassau,401-Hilliard Comm Ctr,State Senate,4,REP,Aaron Bean,3105
+Nassau,401-Hilliard Comm Ctr,State Senate,4,DEM,Billee Bussard,432
+Nassau,401-Hilliard Comm Ctr,State Senate,4,LPF,Joanna Liberty Tavares,53
+Nassau,401-Hilliard Comm Ctr,State Senate,4,"",OverVotes,1
+Nassau,401-Hilliard Comm Ctr,State Senate,4,"",UnderVotes,53
+Nassau,401-Hilliard Comm Ctr,State House,11,REP,Cord Byrd,3098
+Nassau,401-Hilliard Comm Ctr,State House,11,DEM,Nathcelly Leroy Rohrbaugh,476
+Nassau,401-Hilliard Comm Ctr,State House,11,"",OverVotes,0
+Nassau,401-Hilliard Comm Ctr,State House,11,"",UnderVotes,70
+Nassau,401-Hilliard Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,2277
+Nassau,401-Hilliard Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,931
+Nassau,401-Hilliard Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Nassau,401-Hilliard Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,435
+Nassau,401-Hilliard Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,2228
+Nassau,401-Hilliard Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,967
+Nassau,401-Hilliard Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,2
+Nassau,401-Hilliard Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,447
+Nassau,401-Hilliard Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,2253
+Nassau,401-Hilliard Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,938
+Nassau,401-Hilliard Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Nassau,401-Hilliard Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,452
+Nassau,401-Hilliard Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,2195
+Nassau,401-Hilliard Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,1002
+Nassau,401-Hilliard Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,401-Hilliard Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,446
+Nassau,401-Hilliard Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,2158
+Nassau,401-Hilliard Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,1017
+Nassau,401-Hilliard Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,401-Hilliard Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,468
+Nassau,401-Hilliard Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,2221
+Nassau,401-Hilliard Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,971
+Nassau,401-Hilliard Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,2
+Nassau,401-Hilliard Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,450
+Nassau,401-Hilliard Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,2276
+Nassau,401-Hilliard Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1211
+Nassau,401-Hilliard Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,4
+Nassau,401-Hilliard Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,153
+Nassau,401-Hilliard Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,2546
+Nassau,401-Hilliard Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,928
+Nassau,401-Hilliard Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Nassau,401-Hilliard Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,168
+Nassau,401-Hilliard Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,2344
+Nassau,401-Hilliard Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,1175
+Nassau,401-Hilliard Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,3
+Nassau,401-Hilliard Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,122
+Nassau,401-Hilliard Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1489
+Nassau,401-Hilliard Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,2029
+Nassau,401-Hilliard Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Nassau,401-Hilliard Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,126
+Nassau,401-Hilliard Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,2549
+Nassau,401-Hilliard Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,916
+Nassau,401-Hilliard Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Nassau,401-Hilliard Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,177
+Nassau,401-Hilliard Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,2261
+Nassau,401-Hilliard Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1196
+Nassau,401-Hilliard Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,4
+Nassau,401-Hilliard Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,183
+Nassau,401-Hilliard Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2330
+Nassau,401-Hilliard Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1108
+Nassau,401-Hilliard Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Nassau,401-Hilliard Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,205
+Nassau,401-Hilliard Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1547
+Nassau,401-Hilliard Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1884
+Nassau,401-Hilliard Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,6
+Nassau,401-Hilliard Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,207
+Nassau,401-Hilliard Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2348
+Nassau,401-Hilliard Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1061
+Nassau,401-Hilliard Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Nassau,401-Hilliard Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,233
+Nassau,401-Hilliard Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1873
+Nassau,401-Hilliard Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1458
+Nassau,401-Hilliard Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,401-Hilliard Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,313
+Nassau,401-Hilliard Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2417
+Nassau,401-Hilliard Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,970
+Nassau,401-Hilliard Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,4
+Nassau,401-Hilliard Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,253
+Nassau,401-Hilliard Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1533
+Nassau,401-Hilliard Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1971
+Nassau,401-Hilliard Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,4
+Nassau,401-Hilliard Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,136
+Nassau,402-River Road Bapt Chch,U.S. Senate,"",REP,Rick Scott,860
+Nassau,402-River Road Bapt Chch,U.S. Senate,"",DEM,Bill Nelson,65
+Nassau,402-River Road Bapt Chch,U.S. Senate,"","",WriteinVotes,2
+Nassau,402-River Road Bapt Chch,U.S. Senate,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,U.S. Senate,"","",UnderVotes,6
+Nassau,402-River Road Bapt Chch,U.S. House,4,REP,John H. Rutherford,876
+Nassau,402-River Road Bapt Chch,U.S. House,4,DEM,"George ""Ges"" Selmont",42
+Nassau,402-River Road Bapt Chch,U.S. House,4,NPA,Joceline Berrios,5
+Nassau,402-River Road Bapt Chch,U.S. House,4,NPA,Jason Michael Bulger,3
+Nassau,402-River Road Bapt Chch,U.S. House,4,"",WriteinVotes,0
+Nassau,402-River Road Bapt Chch,U.S. House,4,"",OverVotes,0
+Nassau,402-River Road Bapt Chch,U.S. House,4,"",UnderVotes,7
+Nassau,402-River Road Bapt Chch,Governor,"",REP,DeSantis / Nuñez,871
+Nassau,402-River Road Bapt Chch,Governor,"",DEM,Gillum / King,55
+Nassau,402-River Road Bapt Chch,Governor,"",REF,Richardson / Argenziano,2
+Nassau,402-River Road Bapt Chch,Governor,"",NPA,Gibson / Wilds,2
+Nassau,402-River Road Bapt Chch,Governor,"",NPA,Foley / Tutton,0
+Nassau,402-River Road Bapt Chch,Governor,"",NPA,Stanley / McJury,1
+Nassau,402-River Road Bapt Chch,Governor,"","",WriteinVotes,0
+Nassau,402-River Road Bapt Chch,Governor,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,Governor,"","",UnderVotes,2
+Nassau,402-River Road Bapt Chch,Attorney General,"",REP,Ashley Moody,871
+Nassau,402-River Road Bapt Chch,Attorney General,"",DEM,Sean Shaw,49
+Nassau,402-River Road Bapt Chch,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Nassau,402-River Road Bapt Chch,Attorney General,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,Attorney General,"","",UnderVotes,9
+Nassau,402-River Road Bapt Chch,Chief Financial Officer,"",REP,Jimmy Patronis,875
+Nassau,402-River Road Bapt Chch,Chief Financial Officer,"",DEM,Jeremy Ring,44
+Nassau,402-River Road Bapt Chch,Chief Financial Officer,"","",WriteinVotes,1
+Nassau,402-River Road Bapt Chch,Chief Financial Officer,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,Chief Financial Officer,"","",UnderVotes,13
+Nassau,402-River Road Bapt Chch,Commissioner of Agriculture,"",REP,Matt Caldwell,872
+Nassau,402-River Road Bapt Chch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",48
+Nassau,402-River Road Bapt Chch,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,Commissioner of Agriculture,"","",UnderVotes,13
+Nassau,402-River Road Bapt Chch,State Senate,4,REP,Aaron Bean,863
+Nassau,402-River Road Bapt Chch,State Senate,4,DEM,Billee Bussard,41
+Nassau,402-River Road Bapt Chch,State Senate,4,LPF,Joanna Liberty Tavares,21
+Nassau,402-River Road Bapt Chch,State Senate,4,"",OverVotes,0
+Nassau,402-River Road Bapt Chch,State Senate,4,"",UnderVotes,8
+Nassau,402-River Road Bapt Chch,State House,11,REP,Cord Byrd,862
+Nassau,402-River Road Bapt Chch,State House,11,DEM,Nathcelly Leroy Rohrbaugh,56
+Nassau,402-River Road Bapt Chch,State House,11,"",OverVotes,0
+Nassau,402-River Road Bapt Chch,State House,11,"",UnderVotes,15
+Nassau,402-River Road Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,533
+Nassau,402-River Road Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,273
+Nassau,402-River Road Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Nassau,402-River Road Bapt Chch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,126
+Nassau,402-River Road Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,531
+Nassau,402-River Road Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,277
+Nassau,402-River Road Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,402-River Road Bapt Chch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,125
+Nassau,402-River Road Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,528
+Nassau,402-River Road Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,272
+Nassau,402-River Road Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Nassau,402-River Road Bapt Chch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,133
+Nassau,402-River Road Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,513
+Nassau,402-River Road Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,296
+Nassau,402-River Road Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,402-River Road Bapt Chch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,123
+Nassau,402-River Road Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,510
+Nassau,402-River Road Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,294
+Nassau,402-River Road Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,402-River Road Bapt Chch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,128
+Nassau,402-River Road Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,523
+Nassau,402-River Road Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,288
+Nassau,402-River Road Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,402-River Road Bapt Chch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,122
+Nassau,402-River Road Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,521
+Nassau,402-River Road Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,363
+Nassau,402-River Road Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Nassau,402-River Road Bapt Chch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,48
+Nassau,402-River Road Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,611
+Nassau,402-River Road Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,263
+Nassau,402-River Road Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Nassau,402-River Road Bapt Chch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,58
+Nassau,402-River Road Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,557
+Nassau,402-River Road Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,345
+Nassau,402-River Road Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Nassau,402-River Road Bapt Chch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,29
+Nassau,402-River Road Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,332
+Nassau,402-River Road Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,563
+Nassau,402-River Road Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Nassau,402-River Road Bapt Chch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,37
+Nassau,402-River Road Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,624
+Nassau,402-River Road Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,261
+Nassau,402-River Road Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Nassau,402-River Road Bapt Chch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,47
+Nassau,402-River Road Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,525
+Nassau,402-River Road Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,352
+Nassau,402-River Road Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Nassau,402-River Road Bapt Chch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,54
+Nassau,402-River Road Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,530
+Nassau,402-River Road Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,338
+Nassau,402-River Road Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,65
+Nassau,402-River Road Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,339
+Nassau,402-River Road Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,538
+Nassau,402-River Road Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Nassau,402-River Road Bapt Chch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,55
+Nassau,402-River Road Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,540
+Nassau,402-River Road Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,317
+Nassau,402-River Road Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Nassau,402-River Road Bapt Chch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,75
+Nassau,402-River Road Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,417
+Nassau,402-River Road Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,427
+Nassau,402-River Road Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Nassau,402-River Road Bapt Chch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,88
+Nassau,402-River Road Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,587
+Nassau,402-River Road Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,270
+Nassau,402-River Road Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,76
+Nassau,402-River Road Bapt Chch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,351
+Nassau,402-River Road Bapt Chch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,546
+Nassau,402-River Road Bapt Chch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Nassau,402-River Road Bapt Chch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,36
+Nassau,403-Bryceville Comm Ctr,U.S. Senate,"",REP,Rick Scott,1782
+Nassau,403-Bryceville Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,174
+Nassau,403-Bryceville Comm Ctr,U.S. Senate,"","",WriteinVotes,2
+Nassau,403-Bryceville Comm Ctr,U.S. Senate,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,U.S. Senate,"","",UnderVotes,7
+Nassau,403-Bryceville Comm Ctr,U.S. House,4,REP,John H. Rutherford,1803
+Nassau,403-Bryceville Comm Ctr,U.S. House,4,DEM,"George ""Ges"" Selmont",136
+Nassau,403-Bryceville Comm Ctr,U.S. House,4,NPA,Joceline Berrios,5
+Nassau,403-Bryceville Comm Ctr,U.S. House,4,NPA,Jason Michael Bulger,6
+Nassau,403-Bryceville Comm Ctr,U.S. House,4,"",WriteinVotes,0
+Nassau,403-Bryceville Comm Ctr,U.S. House,4,"",OverVotes,1
+Nassau,403-Bryceville Comm Ctr,U.S. House,4,"",UnderVotes,14
+Nassau,403-Bryceville Comm Ctr,Governor,"",REP,DeSantis / Nuñez,1787
+Nassau,403-Bryceville Comm Ctr,Governor,"",DEM,Gillum / King,164
+Nassau,403-Bryceville Comm Ctr,Governor,"",REF,Richardson / Argenziano,2
+Nassau,403-Bryceville Comm Ctr,Governor,"",NPA,Gibson / Wilds,3
+Nassau,403-Bryceville Comm Ctr,Governor,"",NPA,Foley / Tutton,1
+Nassau,403-Bryceville Comm Ctr,Governor,"",NPA,Stanley / McJury,1
+Nassau,403-Bryceville Comm Ctr,Governor,"","",WriteinVotes,1
+Nassau,403-Bryceville Comm Ctr,Governor,"","",OverVotes,2
+Nassau,403-Bryceville Comm Ctr,Governor,"","",UnderVotes,4
+Nassau,403-Bryceville Comm Ctr,Attorney General,"",REP,Ashley Moody,1799
+Nassau,403-Bryceville Comm Ctr,Attorney General,"",DEM,Sean Shaw,138
+Nassau,403-Bryceville Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Nassau,403-Bryceville Comm Ctr,Attorney General,"","",OverVotes,1
+Nassau,403-Bryceville Comm Ctr,Attorney General,"","",UnderVotes,17
+Nassau,403-Bryceville Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,1786
+Nassau,403-Bryceville Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,149
+Nassau,403-Bryceville Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Nassau,403-Bryceville Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Chief Financial Officer,"","",UnderVotes,30
+Nassau,403-Bryceville Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,1775
+Nassau,403-Bryceville Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",168
+Nassau,403-Bryceville Comm Ctr,Commissioner of Agriculture,"","",OverVotes,1
+Nassau,403-Bryceville Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,21
+Nassau,403-Bryceville Comm Ctr,State Senate,4,REP,Aaron Bean,1784
+Nassau,403-Bryceville Comm Ctr,State Senate,4,DEM,Billee Bussard,139
+Nassau,403-Bryceville Comm Ctr,State Senate,4,LPF,Joanna Liberty Tavares,19
+Nassau,403-Bryceville Comm Ctr,State Senate,4,"",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,State Senate,4,"",UnderVotes,23
+Nassau,403-Bryceville Comm Ctr,State House,11,REP,Cord Byrd,1801
+Nassau,403-Bryceville Comm Ctr,State House,11,DEM,Nathcelly Leroy Rohrbaugh,139
+Nassau,403-Bryceville Comm Ctr,State House,11,"",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,State House,11,"",UnderVotes,25
+Nassau,403-Bryceville Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1248
+Nassau,403-Bryceville Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,484
+Nassau,403-Bryceville Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,233
+Nassau,403-Bryceville Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1217
+Nassau,403-Bryceville Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,503
+Nassau,403-Bryceville Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Nassau,403-Bryceville Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,244
+Nassau,403-Bryceville Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1217
+Nassau,403-Bryceville Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,502
+Nassau,403-Bryceville Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,246
+Nassau,403-Bryceville Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1182
+Nassau,403-Bryceville Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,533
+Nassau,403-Bryceville Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Nassau,403-Bryceville Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,248
+Nassau,403-Bryceville Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1172
+Nassau,403-Bryceville Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,535
+Nassau,403-Bryceville Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,403-Bryceville Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,257
+Nassau,403-Bryceville Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1206
+Nassau,403-Bryceville Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,519
+Nassau,403-Bryceville Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Nassau,403-Bryceville Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,239
+Nassau,403-Bryceville Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1178
+Nassau,403-Bryceville Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,704
+Nassau,403-Bryceville Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,3
+Nassau,403-Bryceville Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,80
+Nassau,403-Bryceville Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1341
+Nassau,403-Bryceville Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,535
+Nassau,403-Bryceville Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,89
+Nassau,403-Bryceville Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1178
+Nassau,403-Bryceville Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,730
+Nassau,403-Bryceville Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,57
+Nassau,403-Bryceville Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,653
+Nassau,403-Bryceville Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1256
+Nassau,403-Bryceville Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,56
+Nassau,403-Bryceville Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1316
+Nassau,403-Bryceville Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,561
+Nassau,403-Bryceville Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,88
+Nassau,403-Bryceville Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1103
+Nassau,403-Bryceville Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,788
+Nassau,403-Bryceville Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Nassau,403-Bryceville Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,72
+Nassau,403-Bryceville Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1148
+Nassau,403-Bryceville Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,723
+Nassau,403-Bryceville Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,94
+Nassau,403-Bryceville Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,728
+Nassau,403-Bryceville Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1150
+Nassau,403-Bryceville Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Nassau,403-Bryceville Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,85
+Nassau,403-Bryceville Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1132
+Nassau,403-Bryceville Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,708
+Nassau,403-Bryceville Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,125
+Nassau,403-Bryceville Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,856
+Nassau,403-Bryceville Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,960
+Nassau,403-Bryceville Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,149
+Nassau,403-Bryceville Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1261
+Nassau,403-Bryceville Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,575
+Nassau,403-Bryceville Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Nassau,403-Bryceville Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,129
+Nassau,403-Bryceville Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,773
+Nassau,403-Bryceville Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1131
+Nassau,403-Bryceville Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Nassau,403-Bryceville Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,60
+Nassau,501-Yulee Sports Cmplx,U.S. Senate,"",REP,Rick Scott,1172
+Nassau,501-Yulee Sports Cmplx,U.S. Senate,"",DEM,Bill Nelson,558
+Nassau,501-Yulee Sports Cmplx,U.S. Senate,"","",WriteinVotes,5
+Nassau,501-Yulee Sports Cmplx,U.S. Senate,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,U.S. Senate,"","",UnderVotes,7
+Nassau,501-Yulee Sports Cmplx,U.S. House,4,REP,John H. Rutherford,1173
+Nassau,501-Yulee Sports Cmplx,U.S. House,4,DEM,"George ""Ges"" Selmont",500
+Nassau,501-Yulee Sports Cmplx,U.S. House,4,NPA,Joceline Berrios,37
+Nassau,501-Yulee Sports Cmplx,U.S. House,4,NPA,Jason Michael Bulger,9
+Nassau,501-Yulee Sports Cmplx,U.S. House,4,"",WriteinVotes,2
+Nassau,501-Yulee Sports Cmplx,U.S. House,4,"",OverVotes,1
+Nassau,501-Yulee Sports Cmplx,U.S. House,4,"",UnderVotes,20
+Nassau,501-Yulee Sports Cmplx,Governor,"",REP,DeSantis / Nuñez,1142
+Nassau,501-Yulee Sports Cmplx,Governor,"",DEM,Gillum / King,582
+Nassau,501-Yulee Sports Cmplx,Governor,"",REF,Richardson / Argenziano,7
+Nassau,501-Yulee Sports Cmplx,Governor,"",NPA,Gibson / Wilds,4
+Nassau,501-Yulee Sports Cmplx,Governor,"",NPA,Foley / Tutton,0
+Nassau,501-Yulee Sports Cmplx,Governor,"",NPA,Stanley / McJury,2
+Nassau,501-Yulee Sports Cmplx,Governor,"","",WriteinVotes,0
+Nassau,501-Yulee Sports Cmplx,Governor,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Governor,"","",UnderVotes,5
+Nassau,501-Yulee Sports Cmplx,Attorney General,"",REP,Ashley Moody,1170
+Nassau,501-Yulee Sports Cmplx,Attorney General,"",DEM,Sean Shaw,519
+Nassau,501-Yulee Sports Cmplx,Attorney General,"",NPA,Jeffrey Marc Siskind,34
+Nassau,501-Yulee Sports Cmplx,Attorney General,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Attorney General,"","",UnderVotes,19
+Nassau,501-Yulee Sports Cmplx,Chief Financial Officer,"",REP,Jimmy Patronis,1158
+Nassau,501-Yulee Sports Cmplx,Chief Financial Officer,"",DEM,Jeremy Ring,551
+Nassau,501-Yulee Sports Cmplx,Chief Financial Officer,"","",WriteinVotes,2
+Nassau,501-Yulee Sports Cmplx,Chief Financial Officer,"","",OverVotes,1
+Nassau,501-Yulee Sports Cmplx,Chief Financial Officer,"","",UnderVotes,30
+Nassau,501-Yulee Sports Cmplx,Commissioner of Agriculture,"",REP,Matt Caldwell,1133
+Nassau,501-Yulee Sports Cmplx,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",581
+Nassau,501-Yulee Sports Cmplx,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Commissioner of Agriculture,"","",UnderVotes,28
+Nassau,501-Yulee Sports Cmplx,State Senate,4,REP,Aaron Bean,1162
+Nassau,501-Yulee Sports Cmplx,State Senate,4,DEM,Billee Bussard,511
+Nassau,501-Yulee Sports Cmplx,State Senate,4,LPF,Joanna Liberty Tavares,45
+Nassau,501-Yulee Sports Cmplx,State Senate,4,"",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,State Senate,4,"",UnderVotes,24
+Nassau,501-Yulee Sports Cmplx,State House,11,REP,Cord Byrd,1167
+Nassau,501-Yulee Sports Cmplx,State House,11,DEM,Nathcelly Leroy Rohrbaugh,544
+Nassau,501-Yulee Sports Cmplx,State House,11,"",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,State House,11,"",UnderVotes,31
+Nassau,501-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1124
+Nassau,501-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,424
+Nassau,501-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Nassau,501-Yulee Sports Cmplx,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,193
+Nassau,501-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1111
+Nassau,501-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,NOP,No,436
+Nassau,501-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,195
+Nassau,501-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1130
+Nassau,501-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,415
+Nassau,501-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,197
+Nassau,501-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1102
+Nassau,501-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,NOP,No,440
+Nassau,501-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,200
+Nassau,501-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1092
+Nassau,501-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,448
+Nassau,501-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Nassau,501-Yulee Sports Cmplx,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,201
+Nassau,501-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1091
+Nassau,501-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,NOP,No,452
+Nassau,501-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,199
+Nassau,501-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1173
+Nassau,501-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,504
+Nassau,501-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,65
+Nassau,501-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1239
+Nassau,501-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,416
+Nassau,501-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,3
+Nassau,501-Yulee Sports Cmplx,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,84
+Nassau,501-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1253
+Nassau,501-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,447
+Nassau,501-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,42
+Nassau,501-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,913
+Nassau,501-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,786
+Nassau,501-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Nassau,501-Yulee Sports Cmplx,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,41
+Nassau,501-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1299
+Nassau,501-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,372
+Nassau,501-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Nassau,501-Yulee Sports Cmplx,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,70
+Nassau,501-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1115
+Nassau,501-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,560
+Nassau,501-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Nassau,501-Yulee Sports Cmplx,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,66
+Nassau,501-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1235
+Nassau,501-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,437
+Nassau,501-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,70
+Nassau,501-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1020
+Nassau,501-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,664
+Nassau,501-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,58
+Nassau,501-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1219
+Nassau,501-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,422
+Nassau,501-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Nassau,501-Yulee Sports Cmplx,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,100
+Nassau,501-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1030
+Nassau,501-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,587
+Nassau,501-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,125
+Nassau,501-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1335
+Nassau,501-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,314
+Nassau,501-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,93
+Nassau,501-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1040
+Nassau,501-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,643
+Nassau,501-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Nassau,501-Yulee Sports Cmplx,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,59
+Nassau,503-Callahan Cnty Bldg,U.S. Senate,"",REP,Rick Scott,3340
+Nassau,503-Callahan Cnty Bldg,U.S. Senate,"",DEM,Bill Nelson,634
+Nassau,503-Callahan Cnty Bldg,U.S. Senate,"","",WriteinVotes,9
+Nassau,503-Callahan Cnty Bldg,U.S. Senate,"","",OverVotes,1
+Nassau,503-Callahan Cnty Bldg,U.S. Senate,"","",UnderVotes,14
+Nassau,503-Callahan Cnty Bldg,U.S. House,4,REP,John H. Rutherford,3422
+Nassau,503-Callahan Cnty Bldg,U.S. House,4,DEM,"George ""Ges"" Selmont",481
+Nassau,503-Callahan Cnty Bldg,U.S. House,4,NPA,Joceline Berrios,32
+Nassau,503-Callahan Cnty Bldg,U.S. House,4,NPA,Jason Michael Bulger,19
+Nassau,503-Callahan Cnty Bldg,U.S. House,4,"",WriteinVotes,1
+Nassau,503-Callahan Cnty Bldg,U.S. House,4,"",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,U.S. House,4,"",UnderVotes,43
+Nassau,503-Callahan Cnty Bldg,Governor,"",REP,DeSantis / Nuñez,3359
+Nassau,503-Callahan Cnty Bldg,Governor,"",DEM,Gillum / King,594
+Nassau,503-Callahan Cnty Bldg,Governor,"",REF,Richardson / Argenziano,13
+Nassau,503-Callahan Cnty Bldg,Governor,"",NPA,Gibson / Wilds,4
+Nassau,503-Callahan Cnty Bldg,Governor,"",NPA,Foley / Tutton,4
+Nassau,503-Callahan Cnty Bldg,Governor,"",NPA,Stanley / McJury,6
+Nassau,503-Callahan Cnty Bldg,Governor,"","",WriteinVotes,3
+Nassau,503-Callahan Cnty Bldg,Governor,"","",OverVotes,2
+Nassau,503-Callahan Cnty Bldg,Governor,"","",UnderVotes,13
+Nassau,503-Callahan Cnty Bldg,Attorney General,"",REP,Ashley Moody,3356
+Nassau,503-Callahan Cnty Bldg,Attorney General,"",DEM,Sean Shaw,541
+Nassau,503-Callahan Cnty Bldg,Attorney General,"",NPA,Jeffrey Marc Siskind,35
+Nassau,503-Callahan Cnty Bldg,Attorney General,"","",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,Attorney General,"","",UnderVotes,66
+Nassau,503-Callahan Cnty Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,3338
+Nassau,503-Callahan Cnty Bldg,Chief Financial Officer,"",DEM,Jeremy Ring,557
+Nassau,503-Callahan Cnty Bldg,Chief Financial Officer,"","",WriteinVotes,6
+Nassau,503-Callahan Cnty Bldg,Chief Financial Officer,"","",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,Chief Financial Officer,"","",UnderVotes,97
+Nassau,503-Callahan Cnty Bldg,Commissioner of Agriculture,"",REP,Matt Caldwell,3325
+Nassau,503-Callahan Cnty Bldg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",593
+Nassau,503-Callahan Cnty Bldg,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,Commissioner of Agriculture,"","",UnderVotes,80
+Nassau,503-Callahan Cnty Bldg,State Senate,4,REP,Aaron Bean,3348
+Nassau,503-Callahan Cnty Bldg,State Senate,4,DEM,Billee Bussard,525
+Nassau,503-Callahan Cnty Bldg,State Senate,4,LPF,Joanna Liberty Tavares,68
+Nassau,503-Callahan Cnty Bldg,State Senate,4,"",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,State Senate,4,"",UnderVotes,57
+Nassau,503-Callahan Cnty Bldg,State House,11,REP,Cord Byrd,3356
+Nassau,503-Callahan Cnty Bldg,State House,11,DEM,Nathcelly Leroy Rohrbaugh,552
+Nassau,503-Callahan Cnty Bldg,State House,11,"",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,State House,11,"",UnderVotes,90
+Nassau,503-Callahan Cnty Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,2541
+Nassau,503-Callahan Cnty Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,970
+Nassau,503-Callahan Cnty Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,487
+Nassau,503-Callahan Cnty Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,2489
+Nassau,503-Callahan Cnty Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,No,1011
+Nassau,503-Callahan Cnty Bldg,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,498
+Nassau,503-Callahan Cnty Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,2504
+Nassau,503-Callahan Cnty Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,993
+Nassau,503-Callahan Cnty Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Nassau,503-Callahan Cnty Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,500
+Nassau,503-Callahan Cnty Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,2439
+Nassau,503-Callahan Cnty Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,No,1052
+Nassau,503-Callahan Cnty Bldg,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Nassau,503-Callahan Cnty Bldg,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,505
+Nassau,503-Callahan Cnty Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,2364
+Nassau,503-Callahan Cnty Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,1101
+Nassau,503-Callahan Cnty Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Nassau,503-Callahan Cnty Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,531
+Nassau,503-Callahan Cnty Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,2454
+Nassau,503-Callahan Cnty Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,No,1035
+Nassau,503-Callahan Cnty Bldg,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,2
+Nassau,503-Callahan Cnty Bldg,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,507
+Nassau,503-Callahan Cnty Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,2379
+Nassau,503-Callahan Cnty Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1434
+Nassau,503-Callahan Cnty Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,4
+Nassau,503-Callahan Cnty Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,181
+Nassau,503-Callahan Cnty Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,2698
+Nassau,503-Callahan Cnty Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,1070
+Nassau,503-Callahan Cnty Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,3
+Nassau,503-Callahan Cnty Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,227
+Nassau,503-Callahan Cnty Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,2517
+Nassau,503-Callahan Cnty Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,1366
+Nassau,503-Callahan Cnty Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,3
+Nassau,503-Callahan Cnty Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,112
+Nassau,503-Callahan Cnty Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1632
+Nassau,503-Callahan Cnty Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,2236
+Nassau,503-Callahan Cnty Bldg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Nassau,503-Callahan Cnty Bldg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,128
+Nassau,503-Callahan Cnty Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,2749
+Nassau,503-Callahan Cnty Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,1056
+Nassau,503-Callahan Cnty Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,3
+Nassau,503-Callahan Cnty Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,190
+Nassau,503-Callahan Cnty Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,2364
+Nassau,503-Callahan Cnty Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1445
+Nassau,503-Callahan Cnty Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Nassau,503-Callahan Cnty Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,187
+Nassau,503-Callahan Cnty Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2499
+Nassau,503-Callahan Cnty Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1293
+Nassau,503-Callahan Cnty Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,206
+Nassau,503-Callahan Cnty Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1790
+Nassau,503-Callahan Cnty Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1995
+Nassau,503-Callahan Cnty Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Nassau,503-Callahan Cnty Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,211
+Nassau,503-Callahan Cnty Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2427
+Nassau,503-Callahan Cnty Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1290
+Nassau,503-Callahan Cnty Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,503-Callahan Cnty Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,281
+Nassau,503-Callahan Cnty Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1986
+Nassau,503-Callahan Cnty Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1673
+Nassau,503-Callahan Cnty Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Nassau,503-Callahan Cnty Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,338
+Nassau,503-Callahan Cnty Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2638
+Nassau,503-Callahan Cnty Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,1084
+Nassau,503-Callahan Cnty Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Nassau,503-Callahan Cnty Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,275
+Nassau,503-Callahan Cnty Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1763
+Nassau,503-Callahan Cnty Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,2092
+Nassau,503-Callahan Cnty Bldg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,3
+Nassau,503-Callahan Cnty Bldg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,140
+Nassau,504-First Bapt Chch Gray Gable,U.S. Senate,"",REP,Rick Scott,2172
+Nassau,504-First Bapt Chch Gray Gable,U.S. Senate,"",DEM,Bill Nelson,266
+Nassau,504-First Bapt Chch Gray Gable,U.S. Senate,"","",WriteinVotes,7
+Nassau,504-First Bapt Chch Gray Gable,U.S. Senate,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,U.S. Senate,"","",UnderVotes,13
+Nassau,504-First Bapt Chch Gray Gable,U.S. House,4,REP,John H. Rutherford,2225
+Nassau,504-First Bapt Chch Gray Gable,U.S. House,4,DEM,"George ""Ges"" Selmont",186
+Nassau,504-First Bapt Chch Gray Gable,U.S. House,4,NPA,Joceline Berrios,20
+Nassau,504-First Bapt Chch Gray Gable,U.S. House,4,NPA,Jason Michael Bulger,7
+Nassau,504-First Bapt Chch Gray Gable,U.S. House,4,"",WriteinVotes,0
+Nassau,504-First Bapt Chch Gray Gable,U.S. House,4,"",OverVotes,1
+Nassau,504-First Bapt Chch Gray Gable,U.S. House,4,"",UnderVotes,19
+Nassau,504-First Bapt Chch Gray Gable,Governor,"",REP,DeSantis / Nuñez,2186
+Nassau,504-First Bapt Chch Gray Gable,Governor,"",DEM,Gillum / King,239
+Nassau,504-First Bapt Chch Gray Gable,Governor,"",REF,Richardson / Argenziano,9
+Nassau,504-First Bapt Chch Gray Gable,Governor,"",NPA,Gibson / Wilds,9
+Nassau,504-First Bapt Chch Gray Gable,Governor,"",NPA,Foley / Tutton,2
+Nassau,504-First Bapt Chch Gray Gable,Governor,"",NPA,Stanley / McJury,3
+Nassau,504-First Bapt Chch Gray Gable,Governor,"","",WriteinVotes,1
+Nassau,504-First Bapt Chch Gray Gable,Governor,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Governor,"","",UnderVotes,9
+Nassau,504-First Bapt Chch Gray Gable,Attorney General,"",REP,Ashley Moody,2175
+Nassau,504-First Bapt Chch Gray Gable,Attorney General,"",DEM,Sean Shaw,229
+Nassau,504-First Bapt Chch Gray Gable,Attorney General,"",NPA,Jeffrey Marc Siskind,30
+Nassau,504-First Bapt Chch Gray Gable,Attorney General,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Attorney General,"","",UnderVotes,24
+Nassau,504-First Bapt Chch Gray Gable,Chief Financial Officer,"",REP,Jimmy Patronis,2191
+Nassau,504-First Bapt Chch Gray Gable,Chief Financial Officer,"",DEM,Jeremy Ring,232
+Nassau,504-First Bapt Chch Gray Gable,Chief Financial Officer,"","",WriteinVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Chief Financial Officer,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Chief Financial Officer,"","",UnderVotes,33
+Nassau,504-First Bapt Chch Gray Gable,Commissioner of Agriculture,"",REP,Matt Caldwell,2179
+Nassau,504-First Bapt Chch Gray Gable,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",247
+Nassau,504-First Bapt Chch Gray Gable,Commissioner of Agriculture,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Commissioner of Agriculture,"","",UnderVotes,32
+Nassau,504-First Bapt Chch Gray Gable,State Senate,4,REP,Aaron Bean,2176
+Nassau,504-First Bapt Chch Gray Gable,State Senate,4,DEM,Billee Bussard,203
+Nassau,504-First Bapt Chch Gray Gable,State Senate,4,LPF,Joanna Liberty Tavares,47
+Nassau,504-First Bapt Chch Gray Gable,State Senate,4,"",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,State Senate,4,"",UnderVotes,32
+Nassau,504-First Bapt Chch Gray Gable,State House,11,REP,Cord Byrd,2190
+Nassau,504-First Bapt Chch Gray Gable,State House,11,DEM,Nathcelly Leroy Rohrbaugh,221
+Nassau,504-First Bapt Chch Gray Gable,State House,11,"",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,State House,11,"",UnderVotes,47
+Nassau,504-First Bapt Chch Gray Gable,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1600
+Nassau,504-First Bapt Chch Gray Gable,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,592
+Nassau,504-First Bapt Chch Gray Gable,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,266
+Nassau,504-First Bapt Chch Gray Gable,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1563
+Nassau,504-First Bapt Chch Gray Gable,Retention of Harvey Jay,First District Court of Appeal,NOP,No,628
+Nassau,504-First Bapt Chch Gray Gable,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Nassau,504-First Bapt Chch Gray Gable,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,266
+Nassau,504-First Bapt Chch Gray Gable,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1550
+Nassau,504-First Bapt Chch Gray Gable,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,636
+Nassau,504-First Bapt Chch Gray Gable,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,270
+Nassau,504-First Bapt Chch Gray Gable,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1534
+Nassau,504-First Bapt Chch Gray Gable,Retention of Brad Thomas,First District Court of Appeal,NOP,No,649
+Nassau,504-First Bapt Chch Gray Gable,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,273
+Nassau,504-First Bapt Chch Gray Gable,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1505
+Nassau,504-First Bapt Chch Gray Gable,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,669
+Nassau,504-First Bapt Chch Gray Gable,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,282
+Nassau,504-First Bapt Chch Gray Gable,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1532
+Nassau,504-First Bapt Chch Gray Gable,Retention of Allen Winsor,First District Court of Appeal,NOP,No,653
+Nassau,504-First Bapt Chch Gray Gable,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Nassau,504-First Bapt Chch Gray Gable,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,272
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1474
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,898
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,4
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,82
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1711
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,638
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,108
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1578
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,820
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,58
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1025
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1367
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,64
+Nassau,504-First Bapt Chch Gray Gable,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1727
+Nassau,504-First Bapt Chch Gray Gable,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,631
+Nassau,504-First Bapt Chch Gray Gable,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Nassau,504-First Bapt Chch Gray Gable,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,99
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1494
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,869
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,93
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1638
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,707
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,112
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1106
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1231
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,119
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1586
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,722
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,150
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1260
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1010
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,188
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1752
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,575
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,131
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1125
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1258
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 13: Ends Dog Racing,"","",OverVotes,3
+Nassau,504-First Bapt Chch Gray Gable,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,72
+Nassau,101-MLK-Elm Rec Ctr,Registered Voters,"","","",2816
+Nassau,102-Atlantic Rec Ctr,Registered Voters,"","","",6412
+Nassau,201-First Bapt Chch FB,Registered Voters,"","","",5987
+Nassau,202-American Bch Comm Ctr,Registered Voters,"","","",4379
+Nassau,203-Springhill Bapt Chch,Registered Voters,"","","",3763
+Nassau,204-The Journey Chch,Registered Voters,"","","",6350
+Nassau,301-James Page Govt Cmplx,Registered Voters,"","","",3774
+Nassau,302-Yulee Sports Cmplx,Registered Voters,"","","",5305
+Nassau,303-Mercy Hill Chch,Registered Voters,"","","",4689
+Nassau,401-Hilliard Comm Ctr,Registered Voters,"","","",5973
+Nassau,402-River Road Bapt Chch,Registered Voters,"","","",1385
+Nassau,403-Bryceville Comm Ctr,Registered Voters,"","","",2830
+Nassau,501-Yulee Sports Cmplx,Registered Voters,"","","",2904
+Nassau,503-Callahan Cnty Bldg,Registered Voters,"","","",6159
+Nassau,504-First Bapt Chch Gray Gable,Registered Voters,"","","",4072
