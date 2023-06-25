@@ -1,0 +1,937 @@
+county,precinct,office,district,party,candidate,votes
+Liberty,ROCK BLUFF 01,U.S. Senate,"",REP,Rick Scott,63
+Liberty,ROCK BLUFF 01,U.S. Senate,"",DEM,Bill Nelson,173
+Liberty,ROCK BLUFF 01,U.S. Senate,"","",WriteinVotes,0
+Liberty,ROCK BLUFF 01,U.S. Senate,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,U.S. Senate,"","",UnderVotes,2
+Liberty,ROCK BLUFF 01,U.S. House,2,REP,Neal Dunn,66
+Liberty,ROCK BLUFF 01,U.S. House,2,DEM,Bob Rackleff,157
+Liberty,ROCK BLUFF 01,U.S. House,2,"",OverVotes,0
+Liberty,ROCK BLUFF 01,U.S. House,2,"",UnderVotes,15
+Liberty,ROCK BLUFF 01,Governor,"",REP,DeSantis / Nuñez,60
+Liberty,ROCK BLUFF 01,Governor,"",DEM,Gillum / King,170
+Liberty,ROCK BLUFF 01,Governor,"",REF,Richardson / Argenziano,1
+Liberty,ROCK BLUFF 01,Governor,"",NPA,Gibson / Wilds,0
+Liberty,ROCK BLUFF 01,Governor,"",NPA,Foley / Tutton,0
+Liberty,ROCK BLUFF 01,Governor,"",NPA,Stanley / McJury,1
+Liberty,ROCK BLUFF 01,Governor,"","",WriteinVotes,0
+Liberty,ROCK BLUFF 01,Governor,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Governor,"","",UnderVotes,6
+Liberty,ROCK BLUFF 01,Attorney General,"",REP,Ashley Moody,62
+Liberty,ROCK BLUFF 01,Attorney General,"",DEM,Sean Shaw,158
+Liberty,ROCK BLUFF 01,Attorney General,"",NPA,Jeffrey Marc Siskind,2
+Liberty,ROCK BLUFF 01,Attorney General,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Attorney General,"","",UnderVotes,16
+Liberty,ROCK BLUFF 01,Chief Financial Officer,"",REP,Jimmy Patronis,65
+Liberty,ROCK BLUFF 01,Chief Financial Officer,"",DEM,Jeremy Ring,156
+Liberty,ROCK BLUFF 01,Chief Financial Officer,"","",WriteinVotes,0
+Liberty,ROCK BLUFF 01,Chief Financial Officer,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Chief Financial Officer,"","",UnderVotes,17
+Liberty,ROCK BLUFF 01,Commissioner of Agriculture,"",REP,Matt Caldwell,66
+Liberty,ROCK BLUFF 01,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",155
+Liberty,ROCK BLUFF 01,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Commissioner of Agriculture,"","",UnderVotes,17
+Liberty,ROCK BLUFF 01,County Commissioner,2,DEM,Dexter Barber,121
+Liberty,ROCK BLUFF 01,County Commissioner,2,NPA,Teddy Eubanks,106
+Liberty,ROCK BLUFF 01,County Commissioner,2,"",OverVotes,0
+Liberty,ROCK BLUFF 01,County Commissioner,2,"",UnderVotes,11
+Liberty,ROCK BLUFF 01,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,141
+Liberty,ROCK BLUFF 01,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,64
+Liberty,ROCK BLUFF 01,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Liberty,ROCK BLUFF 01,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,33
+Liberty,ROCK BLUFF 01,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,116
+Liberty,ROCK BLUFF 01,Retention of Harvey Jay,First District Court of Appeal,NOP,No,84
+Liberty,ROCK BLUFF 01,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Liberty,ROCK BLUFF 01,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,38
+Liberty,ROCK BLUFF 01,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,122
+Liberty,ROCK BLUFF 01,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,76
+Liberty,ROCK BLUFF 01,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Liberty,ROCK BLUFF 01,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,40
+Liberty,ROCK BLUFF 01,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,109
+Liberty,ROCK BLUFF 01,Retention of Brad Thomas,First District Court of Appeal,NOP,No,91
+Liberty,ROCK BLUFF 01,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,ROCK BLUFF 01,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,38
+Liberty,ROCK BLUFF 01,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,112
+Liberty,ROCK BLUFF 01,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,82
+Liberty,ROCK BLUFF 01,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,ROCK BLUFF 01,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,44
+Liberty,ROCK BLUFF 01,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,114
+Liberty,ROCK BLUFF 01,Retention of Allen Winsor,First District Court of Appeal,NOP,No,87
+Liberty,ROCK BLUFF 01,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,ROCK BLUFF 01,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,37
+Liberty,ROCK BLUFF 01,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,83
+Liberty,ROCK BLUFF 01,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,115
+Liberty,ROCK BLUFF 01,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,ROCK BLUFF 01,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,40
+Liberty,ROCK BLUFF 01,School Board,5,NOP,"James S. ""Jamie"" Chester",81
+Liberty,ROCK BLUFF 01,School Board,5,NOP,"Charles ""Boo"" Morris",134
+Liberty,ROCK BLUFF 01,School Board,5,"",OverVotes,0
+Liberty,ROCK BLUFF 01,School Board,5,"",UnderVotes,23
+Liberty,ROCK BLUFF 01,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,118
+Liberty,ROCK BLUFF 01,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,104
+Liberty,ROCK BLUFF 01,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Liberty,ROCK BLUFF 01,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,139
+Liberty,ROCK BLUFF 01,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,80
+Liberty,ROCK BLUFF 01,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,19
+Liberty,ROCK BLUFF 01,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,164
+Liberty,ROCK BLUFF 01,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,49
+Liberty,ROCK BLUFF 01,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,25
+Liberty,ROCK BLUFF 01,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,160
+Liberty,ROCK BLUFF 01,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,53
+Liberty,ROCK BLUFF 01,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,25
+Liberty,ROCK BLUFF 01,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,113
+Liberty,ROCK BLUFF 01,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,96
+Liberty,ROCK BLUFF 01,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Liberty,ROCK BLUFF 01,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,29
+Liberty,ROCK BLUFF 01,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,130
+Liberty,ROCK BLUFF 01,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,80
+Liberty,ROCK BLUFF 01,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,28
+Liberty,ROCK BLUFF 01,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,141
+Liberty,ROCK BLUFF 01,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,62
+Liberty,ROCK BLUFF 01,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,35
+Liberty,ROCK BLUFF 01,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,118
+Liberty,ROCK BLUFF 01,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,87
+Liberty,ROCK BLUFF 01,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,33
+Liberty,ROCK BLUFF 01,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,118
+Liberty,ROCK BLUFF 01,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,79
+Liberty,ROCK BLUFF 01,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,41
+Liberty,ROCK BLUFF 01,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,98
+Liberty,ROCK BLUFF 01,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,95
+Liberty,ROCK BLUFF 01,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,45
+Liberty,ROCK BLUFF 01,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,124
+Liberty,ROCK BLUFF 01,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,73
+Liberty,ROCK BLUFF 01,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,41
+Liberty,ROCK BLUFF 01,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,81
+Liberty,ROCK BLUFF 01,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,126
+Liberty,ROCK BLUFF 01,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Liberty,ROCK BLUFF 01,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,31
+Liberty,ANNEX 02,U.S. Senate,"",REP,Rick Scott,88
+Liberty,ANNEX 02,U.S. Senate,"",DEM,Bill Nelson,65
+Liberty,ANNEX 02,U.S. Senate,"","",WriteinVotes,1
+Liberty,ANNEX 02,U.S. Senate,"","",OverVotes,0
+Liberty,ANNEX 02,U.S. Senate,"","",UnderVotes,1
+Liberty,ANNEX 02,U.S. House,2,REP,Neal Dunn,84
+Liberty,ANNEX 02,U.S. House,2,DEM,Bob Rackleff,69
+Liberty,ANNEX 02,U.S. House,2,"",OverVotes,0
+Liberty,ANNEX 02,U.S. House,2,"",UnderVotes,2
+Liberty,ANNEX 02,Governor,"",REP,DeSantis / Nuñez,82
+Liberty,ANNEX 02,Governor,"",DEM,Gillum / King,64
+Liberty,ANNEX 02,Governor,"",REF,Richardson / Argenziano,3
+Liberty,ANNEX 02,Governor,"",NPA,Gibson / Wilds,1
+Liberty,ANNEX 02,Governor,"",NPA,Foley / Tutton,0
+Liberty,ANNEX 02,Governor,"",NPA,Stanley / McJury,2
+Liberty,ANNEX 02,Governor,"","",WriteinVotes,0
+Liberty,ANNEX 02,Governor,"","",OverVotes,1
+Liberty,ANNEX 02,Governor,"","",UnderVotes,2
+Liberty,ANNEX 02,Attorney General,"",REP,Ashley Moody,84
+Liberty,ANNEX 02,Attorney General,"",DEM,Sean Shaw,64
+Liberty,ANNEX 02,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Liberty,ANNEX 02,Attorney General,"","",OverVotes,0
+Liberty,ANNEX 02,Attorney General,"","",UnderVotes,2
+Liberty,ANNEX 02,Chief Financial Officer,"",REP,Jimmy Patronis,87
+Liberty,ANNEX 02,Chief Financial Officer,"",DEM,Jeremy Ring,65
+Liberty,ANNEX 02,Chief Financial Officer,"","",WriteinVotes,0
+Liberty,ANNEX 02,Chief Financial Officer,"","",OverVotes,0
+Liberty,ANNEX 02,Chief Financial Officer,"","",UnderVotes,3
+Liberty,ANNEX 02,Commissioner of Agriculture,"",REP,Matt Caldwell,84
+Liberty,ANNEX 02,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",67
+Liberty,ANNEX 02,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,ANNEX 02,Commissioner of Agriculture,"","",UnderVotes,4
+Liberty,ANNEX 02,County Commissioner,2,DEM,Dexter Barber,78
+Liberty,ANNEX 02,County Commissioner,2,NPA,Teddy Eubanks,74
+Liberty,ANNEX 02,County Commissioner,2,"",OverVotes,0
+Liberty,ANNEX 02,County Commissioner,2,"",UnderVotes,3
+Liberty,ANNEX 02,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,96
+Liberty,ANNEX 02,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,46
+Liberty,ANNEX 02,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Liberty,ANNEX 02,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,13
+Liberty,ANNEX 02,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,88
+Liberty,ANNEX 02,Retention of Harvey Jay,First District Court of Appeal,NOP,No,50
+Liberty,ANNEX 02,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Liberty,ANNEX 02,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,17
+Liberty,ANNEX 02,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,88
+Liberty,ANNEX 02,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,49
+Liberty,ANNEX 02,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Liberty,ANNEX 02,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,18
+Liberty,ANNEX 02,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,88
+Liberty,ANNEX 02,Retention of Brad Thomas,First District Court of Appeal,NOP,No,50
+Liberty,ANNEX 02,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,ANNEX 02,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,17
+Liberty,ANNEX 02,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,86
+Liberty,ANNEX 02,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,52
+Liberty,ANNEX 02,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,ANNEX 02,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,17
+Liberty,ANNEX 02,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,87
+Liberty,ANNEX 02,Retention of Allen Winsor,First District Court of Appeal,NOP,No,52
+Liberty,ANNEX 02,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,ANNEX 02,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,16
+Liberty,ANNEX 02,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,70
+Liberty,ANNEX 02,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,67
+Liberty,ANNEX 02,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,ANNEX 02,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,18
+Liberty,ANNEX 02,School Board,5,NOP,"James S. ""Jamie"" Chester",55
+Liberty,ANNEX 02,School Board,5,NOP,"Charles ""Boo"" Morris",88
+Liberty,ANNEX 02,School Board,5,"",OverVotes,0
+Liberty,ANNEX 02,School Board,5,"",UnderVotes,12
+Liberty,ANNEX 02,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,62
+Liberty,ANNEX 02,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,82
+Liberty,ANNEX 02,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Liberty,ANNEX 02,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,93
+Liberty,ANNEX 02,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,52
+Liberty,ANNEX 02,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,10
+Liberty,ANNEX 02,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,118
+Liberty,ANNEX 02,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,32
+Liberty,ANNEX 02,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,5
+Liberty,ANNEX 02,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,98
+Liberty,ANNEX 02,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,52
+Liberty,ANNEX 02,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,5
+Liberty,ANNEX 02,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,74
+Liberty,ANNEX 02,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,64
+Liberty,ANNEX 02,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Liberty,ANNEX 02,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,17
+Liberty,ANNEX 02,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,107
+Liberty,ANNEX 02,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,38
+Liberty,ANNEX 02,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,10
+Liberty,ANNEX 02,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,111
+Liberty,ANNEX 02,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,35
+Liberty,ANNEX 02,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,9
+Liberty,ANNEX 02,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,76
+Liberty,ANNEX 02,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,70
+Liberty,ANNEX 02,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Liberty,ANNEX 02,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,8
+Liberty,ANNEX 02,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,107
+Liberty,ANNEX 02,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,31
+Liberty,ANNEX 02,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,17
+Liberty,ANNEX 02,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,86
+Liberty,ANNEX 02,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,53
+Liberty,ANNEX 02,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,16
+Liberty,ANNEX 02,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,112
+Liberty,ANNEX 02,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,33
+Liberty,ANNEX 02,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,10
+Liberty,ANNEX 02,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,69
+Liberty,ANNEX 02,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,79
+Liberty,ANNEX 02,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Liberty,ANNEX 02,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,7
+Liberty,BRISTOL 03,U.S. Senate,"",REP,Rick Scott,521
+Liberty,BRISTOL 03,U.S. Senate,"",DEM,Bill Nelson,89
+Liberty,BRISTOL 03,U.S. Senate,"","",WriteinVotes,2
+Liberty,BRISTOL 03,U.S. Senate,"","",OverVotes,1
+Liberty,BRISTOL 03,U.S. Senate,"","",UnderVotes,4
+Liberty,BRISTOL 03,U.S. House,2,REP,Neal Dunn,514
+Liberty,BRISTOL 03,U.S. House,2,DEM,Bob Rackleff,86
+Liberty,BRISTOL 03,U.S. House,2,"",OverVotes,0
+Liberty,BRISTOL 03,U.S. House,2,"",UnderVotes,17
+Liberty,BRISTOL 03,Governor,"",REP,DeSantis / Nuñez,509
+Liberty,BRISTOL 03,Governor,"",DEM,Gillum / King,76
+Liberty,BRISTOL 03,Governor,"",REF,Richardson / Argenziano,8
+Liberty,BRISTOL 03,Governor,"",NPA,Gibson / Wilds,4
+Liberty,BRISTOL 03,Governor,"",NPA,Foley / Tutton,2
+Liberty,BRISTOL 03,Governor,"",NPA,Stanley / McJury,1
+Liberty,BRISTOL 03,Governor,"","",WriteinVotes,1
+Liberty,BRISTOL 03,Governor,"","",OverVotes,4
+Liberty,BRISTOL 03,Governor,"","",UnderVotes,12
+Liberty,BRISTOL 03,Attorney General,"",REP,Ashley Moody,491
+Liberty,BRISTOL 03,Attorney General,"",DEM,Sean Shaw,88
+Liberty,BRISTOL 03,Attorney General,"",NPA,Jeffrey Marc Siskind,14
+Liberty,BRISTOL 03,Attorney General,"","",OverVotes,0
+Liberty,BRISTOL 03,Attorney General,"","",UnderVotes,24
+Liberty,BRISTOL 03,Chief Financial Officer,"",REP,Jimmy Patronis,519
+Liberty,BRISTOL 03,Chief Financial Officer,"",DEM,Jeremy Ring,83
+Liberty,BRISTOL 03,Chief Financial Officer,"","",WriteinVotes,1
+Liberty,BRISTOL 03,Chief Financial Officer,"","",OverVotes,0
+Liberty,BRISTOL 03,Chief Financial Officer,"","",UnderVotes,14
+Liberty,BRISTOL 03,Commissioner of Agriculture,"",REP,Matt Caldwell,493
+Liberty,BRISTOL 03,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",105
+Liberty,BRISTOL 03,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,BRISTOL 03,Commissioner of Agriculture,"","",UnderVotes,19
+Liberty,BRISTOL 03,County Commissioner,2,DEM,Dexter Barber,369
+Liberty,BRISTOL 03,County Commissioner,2,NPA,Teddy Eubanks,230
+Liberty,BRISTOL 03,County Commissioner,2,"",OverVotes,0
+Liberty,BRISTOL 03,County Commissioner,2,"",UnderVotes,18
+Liberty,BRISTOL 03,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,351
+Liberty,BRISTOL 03,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,189
+Liberty,BRISTOL 03,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Liberty,BRISTOL 03,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,77
+Liberty,BRISTOL 03,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,341
+Liberty,BRISTOL 03,Retention of Harvey Jay,First District Court of Appeal,NOP,No,187
+Liberty,BRISTOL 03,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Liberty,BRISTOL 03,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,89
+Liberty,BRISTOL 03,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,332
+Liberty,BRISTOL 03,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,187
+Liberty,BRISTOL 03,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Liberty,BRISTOL 03,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,97
+Liberty,BRISTOL 03,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,329
+Liberty,BRISTOL 03,Retention of Brad Thomas,First District Court of Appeal,NOP,No,191
+Liberty,BRISTOL 03,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Liberty,BRISTOL 03,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,96
+Liberty,BRISTOL 03,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,331
+Liberty,BRISTOL 03,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,190
+Liberty,BRISTOL 03,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,BRISTOL 03,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,96
+Liberty,BRISTOL 03,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,328
+Liberty,BRISTOL 03,Retention of Allen Winsor,First District Court of Appeal,NOP,No,193
+Liberty,BRISTOL 03,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,BRISTOL 03,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,96
+Liberty,BRISTOL 03,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,272
+Liberty,BRISTOL 03,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,244
+Liberty,BRISTOL 03,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,BRISTOL 03,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,101
+Liberty,BRISTOL 03,School Board,5,NOP,"James S. ""Jamie"" Chester",256
+Liberty,BRISTOL 03,School Board,5,NOP,"Charles ""Boo"" Morris",323
+Liberty,BRISTOL 03,School Board,5,"",OverVotes,0
+Liberty,BRISTOL 03,School Board,5,"",UnderVotes,38
+Liberty,BRISTOL 03,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,335
+Liberty,BRISTOL 03,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,250
+Liberty,BRISTOL 03,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Liberty,BRISTOL 03,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,30
+Liberty,BRISTOL 03,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,383
+Liberty,BRISTOL 03,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,190
+Liberty,BRISTOL 03,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Liberty,BRISTOL 03,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,42
+Liberty,BRISTOL 03,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,377
+Liberty,BRISTOL 03,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,209
+Liberty,BRISTOL 03,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Liberty,BRISTOL 03,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,31
+Liberty,BRISTOL 03,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,300
+Liberty,BRISTOL 03,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,278
+Liberty,BRISTOL 03,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Liberty,BRISTOL 03,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,38
+Liberty,BRISTOL 03,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,397
+Liberty,BRISTOL 03,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,174
+Liberty,BRISTOL 03,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Liberty,BRISTOL 03,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,45
+Liberty,BRISTOL 03,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,340
+Liberty,BRISTOL 03,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,231
+Liberty,BRISTOL 03,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,BRISTOL 03,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,46
+Liberty,BRISTOL 03,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,389
+Liberty,BRISTOL 03,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,169
+Liberty,BRISTOL 03,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Liberty,BRISTOL 03,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,58
+Liberty,BRISTOL 03,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,243
+Liberty,BRISTOL 03,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,327
+Liberty,BRISTOL 03,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Liberty,BRISTOL 03,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,46
+Liberty,BRISTOL 03,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,355
+Liberty,BRISTOL 03,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,204
+Liberty,BRISTOL 03,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Liberty,BRISTOL 03,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,57
+Liberty,BRISTOL 03,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,284
+Liberty,BRISTOL 03,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,267
+Liberty,BRISTOL 03,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Liberty,BRISTOL 03,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,66
+Liberty,BRISTOL 03,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,376
+Liberty,BRISTOL 03,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,185
+Liberty,BRISTOL 03,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Liberty,BRISTOL 03,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,56
+Liberty,BRISTOL 03,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,235
+Liberty,BRISTOL 03,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,351
+Liberty,BRISTOL 03,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Liberty,BRISTOL 03,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,30
+Liberty,LAKE MYSTIC 04,U.S. Senate,"",REP,Rick Scott,540
+Liberty,LAKE MYSTIC 04,U.S. Senate,"",DEM,Bill Nelson,80
+Liberty,LAKE MYSTIC 04,U.S. Senate,"","",WriteinVotes,1
+Liberty,LAKE MYSTIC 04,U.S. Senate,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,U.S. Senate,"","",UnderVotes,4
+Liberty,LAKE MYSTIC 04,U.S. House,2,REP,Neal Dunn,546
+Liberty,LAKE MYSTIC 04,U.S. House,2,DEM,Bob Rackleff,69
+Liberty,LAKE MYSTIC 04,U.S. House,2,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,U.S. House,2,"",UnderVotes,10
+Liberty,LAKE MYSTIC 04,Governor,"",REP,DeSantis / Nuñez,539
+Liberty,LAKE MYSTIC 04,Governor,"",DEM,Gillum / King,60
+Liberty,LAKE MYSTIC 04,Governor,"",REF,Richardson / Argenziano,6
+Liberty,LAKE MYSTIC 04,Governor,"",NPA,Gibson / Wilds,7
+Liberty,LAKE MYSTIC 04,Governor,"",NPA,Foley / Tutton,1
+Liberty,LAKE MYSTIC 04,Governor,"",NPA,Stanley / McJury,3
+Liberty,LAKE MYSTIC 04,Governor,"","",WriteinVotes,0
+Liberty,LAKE MYSTIC 04,Governor,"","",OverVotes,1
+Liberty,LAKE MYSTIC 04,Governor,"","",UnderVotes,8
+Liberty,LAKE MYSTIC 04,Attorney General,"",REP,Ashley Moody,532
+Liberty,LAKE MYSTIC 04,Attorney General,"",DEM,Sean Shaw,68
+Liberty,LAKE MYSTIC 04,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Liberty,LAKE MYSTIC 04,Attorney General,"","",OverVotes,1
+Liberty,LAKE MYSTIC 04,Attorney General,"","",UnderVotes,19
+Liberty,LAKE MYSTIC 04,Chief Financial Officer,"",REP,Jimmy Patronis,562
+Liberty,LAKE MYSTIC 04,Chief Financial Officer,"",DEM,Jeremy Ring,47
+Liberty,LAKE MYSTIC 04,Chief Financial Officer,"","",WriteinVotes,0
+Liberty,LAKE MYSTIC 04,Chief Financial Officer,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Chief Financial Officer,"","",UnderVotes,16
+Liberty,LAKE MYSTIC 04,Commissioner of Agriculture,"",REP,Matt Caldwell,531
+Liberty,LAKE MYSTIC 04,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",74
+Liberty,LAKE MYSTIC 04,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Commissioner of Agriculture,"","",UnderVotes,20
+Liberty,LAKE MYSTIC 04,County Commissioner,2,DEM,Dexter Barber,383
+Liberty,LAKE MYSTIC 04,County Commissioner,2,NPA,Teddy Eubanks,222
+Liberty,LAKE MYSTIC 04,County Commissioner,2,"",OverVotes,1
+Liberty,LAKE MYSTIC 04,County Commissioner,2,"",UnderVotes,19
+Liberty,LAKE MYSTIC 04,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,341
+Liberty,LAKE MYSTIC 04,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,192
+Liberty,LAKE MYSTIC 04,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,92
+Liberty,LAKE MYSTIC 04,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,323
+Liberty,LAKE MYSTIC 04,Retention of Harvey Jay,First District Court of Appeal,NOP,No,194
+Liberty,LAKE MYSTIC 04,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,108
+Liberty,LAKE MYSTIC 04,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,317
+Liberty,LAKE MYSTIC 04,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,202
+Liberty,LAKE MYSTIC 04,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,106
+Liberty,LAKE MYSTIC 04,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,326
+Liberty,LAKE MYSTIC 04,Retention of Brad Thomas,First District Court of Appeal,NOP,No,191
+Liberty,LAKE MYSTIC 04,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,108
+Liberty,LAKE MYSTIC 04,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,312
+Liberty,LAKE MYSTIC 04,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,204
+Liberty,LAKE MYSTIC 04,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,109
+Liberty,LAKE MYSTIC 04,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,326
+Liberty,LAKE MYSTIC 04,Retention of Allen Winsor,First District Court of Appeal,NOP,No,191
+Liberty,LAKE MYSTIC 04,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,108
+Liberty,LAKE MYSTIC 04,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,261
+Liberty,LAKE MYSTIC 04,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,240
+Liberty,LAKE MYSTIC 04,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,124
+Liberty,LAKE MYSTIC 04,School Board,5,NOP,"James S. ""Jamie"" Chester",204
+Liberty,LAKE MYSTIC 04,School Board,5,NOP,"Charles ""Boo"" Morris",383
+Liberty,LAKE MYSTIC 04,School Board,5,"",OverVotes,0
+Liberty,LAKE MYSTIC 04,School Board,5,"",UnderVotes,38
+Liberty,LAKE MYSTIC 04,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,357
+Liberty,LAKE MYSTIC 04,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,222
+Liberty,LAKE MYSTIC 04,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,46
+Liberty,LAKE MYSTIC 04,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,379
+Liberty,LAKE MYSTIC 04,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,194
+Liberty,LAKE MYSTIC 04,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Liberty,LAKE MYSTIC 04,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,51
+Liberty,LAKE MYSTIC 04,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,391
+Liberty,LAKE MYSTIC 04,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,187
+Liberty,LAKE MYSTIC 04,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Liberty,LAKE MYSTIC 04,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,46
+Liberty,LAKE MYSTIC 04,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,252
+Liberty,LAKE MYSTIC 04,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,327
+Liberty,LAKE MYSTIC 04,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,46
+Liberty,LAKE MYSTIC 04,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,400
+Liberty,LAKE MYSTIC 04,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,157
+Liberty,LAKE MYSTIC 04,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Liberty,LAKE MYSTIC 04,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,68
+Liberty,LAKE MYSTIC 04,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,352
+Liberty,LAKE MYSTIC 04,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,207
+Liberty,LAKE MYSTIC 04,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,66
+Liberty,LAKE MYSTIC 04,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,389
+Liberty,LAKE MYSTIC 04,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,162
+Liberty,LAKE MYSTIC 04,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,74
+Liberty,LAKE MYSTIC 04,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,235
+Liberty,LAKE MYSTIC 04,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,321
+Liberty,LAKE MYSTIC 04,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,69
+Liberty,LAKE MYSTIC 04,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,359
+Liberty,LAKE MYSTIC 04,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,193
+Liberty,LAKE MYSTIC 04,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,73
+Liberty,LAKE MYSTIC 04,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,251
+Liberty,LAKE MYSTIC 04,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,269
+Liberty,LAKE MYSTIC 04,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Liberty,LAKE MYSTIC 04,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,103
+Liberty,LAKE MYSTIC 04,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,377
+Liberty,LAKE MYSTIC 04,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,175
+Liberty,LAKE MYSTIC 04,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Liberty,LAKE MYSTIC 04,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,72
+Liberty,LAKE MYSTIC 04,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,238
+Liberty,LAKE MYSTIC 04,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,333
+Liberty,LAKE MYSTIC 04,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Liberty,LAKE MYSTIC 04,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,54
+Liberty,HOSFORD 05,U.S. Senate,"",REP,Rick Scott,318
+Liberty,HOSFORD 05,U.S. Senate,"",DEM,Bill Nelson,84
+Liberty,HOSFORD 05,U.S. Senate,"","",WriteinVotes,1
+Liberty,HOSFORD 05,U.S. Senate,"","",OverVotes,0
+Liberty,HOSFORD 05,U.S. Senate,"","",UnderVotes,4
+Liberty,HOSFORD 05,U.S. House,2,REP,Neal Dunn,324
+Liberty,HOSFORD 05,U.S. House,2,DEM,Bob Rackleff,69
+Liberty,HOSFORD 05,U.S. House,2,"",OverVotes,1
+Liberty,HOSFORD 05,U.S. House,2,"",UnderVotes,13
+Liberty,HOSFORD 05,Governor,"",REP,DeSantis / Nuñez,331
+Liberty,HOSFORD 05,Governor,"",DEM,Gillum / King,55
+Liberty,HOSFORD 05,Governor,"",REF,Richardson / Argenziano,4
+Liberty,HOSFORD 05,Governor,"",NPA,Gibson / Wilds,5
+Liberty,HOSFORD 05,Governor,"",NPA,Foley / Tutton,5
+Liberty,HOSFORD 05,Governor,"",NPA,Stanley / McJury,0
+Liberty,HOSFORD 05,Governor,"","",WriteinVotes,1
+Liberty,HOSFORD 05,Governor,"","",OverVotes,0
+Liberty,HOSFORD 05,Governor,"","",UnderVotes,6
+Liberty,HOSFORD 05,Attorney General,"",REP,Ashley Moody,327
+Liberty,HOSFORD 05,Attorney General,"",DEM,Sean Shaw,54
+Liberty,HOSFORD 05,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Liberty,HOSFORD 05,Attorney General,"","",OverVotes,0
+Liberty,HOSFORD 05,Attorney General,"","",UnderVotes,18
+Liberty,HOSFORD 05,Chief Financial Officer,"",REP,Jimmy Patronis,343
+Liberty,HOSFORD 05,Chief Financial Officer,"",DEM,Jeremy Ring,49
+Liberty,HOSFORD 05,Chief Financial Officer,"","",WriteinVotes,0
+Liberty,HOSFORD 05,Chief Financial Officer,"","",OverVotes,0
+Liberty,HOSFORD 05,Chief Financial Officer,"","",UnderVotes,15
+Liberty,HOSFORD 05,Commissioner of Agriculture,"",REP,Matt Caldwell,323
+Liberty,HOSFORD 05,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",69
+Liberty,HOSFORD 05,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,HOSFORD 05,Commissioner of Agriculture,"","",UnderVotes,15
+Liberty,HOSFORD 05,County Commissioner,2,DEM,Dexter Barber,221
+Liberty,HOSFORD 05,County Commissioner,2,NPA,Teddy Eubanks,183
+Liberty,HOSFORD 05,County Commissioner,2,"",OverVotes,0
+Liberty,HOSFORD 05,County Commissioner,2,"",UnderVotes,3
+Liberty,HOSFORD 05,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,254
+Liberty,HOSFORD 05,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,113
+Liberty,HOSFORD 05,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Liberty,HOSFORD 05,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,39
+Liberty,HOSFORD 05,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,231
+Liberty,HOSFORD 05,Retention of Harvey Jay,First District Court of Appeal,NOP,No,123
+Liberty,HOSFORD 05,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Liberty,HOSFORD 05,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,52
+Liberty,HOSFORD 05,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,240
+Liberty,HOSFORD 05,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,116
+Liberty,HOSFORD 05,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Liberty,HOSFORD 05,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,51
+Liberty,HOSFORD 05,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,228
+Liberty,HOSFORD 05,Retention of Brad Thomas,First District Court of Appeal,NOP,No,125
+Liberty,HOSFORD 05,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,HOSFORD 05,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,54
+Liberty,HOSFORD 05,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,232
+Liberty,HOSFORD 05,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,121
+Liberty,HOSFORD 05,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,HOSFORD 05,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,54
+Liberty,HOSFORD 05,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,231
+Liberty,HOSFORD 05,Retention of Allen Winsor,First District Court of Appeal,NOP,No,125
+Liberty,HOSFORD 05,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,HOSFORD 05,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,51
+Liberty,HOSFORD 05,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,190
+Liberty,HOSFORD 05,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,167
+Liberty,HOSFORD 05,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,HOSFORD 05,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,50
+Liberty,HOSFORD 05,School Board,5,NOP,"James S. ""Jamie"" Chester",186
+Liberty,HOSFORD 05,School Board,5,NOP,"Charles ""Boo"" Morris",204
+Liberty,HOSFORD 05,School Board,5,"",OverVotes,0
+Liberty,HOSFORD 05,School Board,5,"",UnderVotes,17
+Liberty,HOSFORD 05,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,249
+Liberty,HOSFORD 05,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,141
+Liberty,HOSFORD 05,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Liberty,HOSFORD 05,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,15
+Liberty,HOSFORD 05,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,252
+Liberty,HOSFORD 05,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,133
+Liberty,HOSFORD 05,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Liberty,HOSFORD 05,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,21
+Liberty,HOSFORD 05,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,238
+Liberty,HOSFORD 05,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,150
+Liberty,HOSFORD 05,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Liberty,HOSFORD 05,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,18
+Liberty,HOSFORD 05,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,175
+Liberty,HOSFORD 05,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,208
+Liberty,HOSFORD 05,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Liberty,HOSFORD 05,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,24
+Liberty,HOSFORD 05,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,252
+Liberty,HOSFORD 05,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,131
+Liberty,HOSFORD 05,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Liberty,HOSFORD 05,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,24
+Liberty,HOSFORD 05,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,235
+Liberty,HOSFORD 05,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,147
+Liberty,HOSFORD 05,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,HOSFORD 05,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Liberty,HOSFORD 05,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,234
+Liberty,HOSFORD 05,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,141
+Liberty,HOSFORD 05,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Liberty,HOSFORD 05,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,32
+Liberty,HOSFORD 05,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,154
+Liberty,HOSFORD 05,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,219
+Liberty,HOSFORD 05,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Liberty,HOSFORD 05,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,32
+Liberty,HOSFORD 05,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,216
+Liberty,HOSFORD 05,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,155
+Liberty,HOSFORD 05,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Liberty,HOSFORD 05,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,35
+Liberty,HOSFORD 05,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,156
+Liberty,HOSFORD 05,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,209
+Liberty,HOSFORD 05,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Liberty,HOSFORD 05,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,42
+Liberty,HOSFORD 05,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,229
+Liberty,HOSFORD 05,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,149
+Liberty,HOSFORD 05,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Liberty,HOSFORD 05,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,29
+Liberty,HOSFORD 05,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,156
+Liberty,HOSFORD 05,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,231
+Liberty,HOSFORD 05,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Liberty,HOSFORD 05,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,20
+Liberty,TELOGIA 06,U.S. Senate,"",REP,Rick Scott,348
+Liberty,TELOGIA 06,U.S. Senate,"",DEM,Bill Nelson,85
+Liberty,TELOGIA 06,U.S. Senate,"","",WriteinVotes,0
+Liberty,TELOGIA 06,U.S. Senate,"","",OverVotes,0
+Liberty,TELOGIA 06,U.S. Senate,"","",UnderVotes,5
+Liberty,TELOGIA 06,U.S. House,2,REP,Neal Dunn,347
+Liberty,TELOGIA 06,U.S. House,2,DEM,Bob Rackleff,72
+Liberty,TELOGIA 06,U.S. House,2,"",OverVotes,0
+Liberty,TELOGIA 06,U.S. House,2,"",UnderVotes,19
+Liberty,TELOGIA 06,Governor,"",REP,DeSantis / Nuñez,347
+Liberty,TELOGIA 06,Governor,"",DEM,Gillum / King,54
+Liberty,TELOGIA 06,Governor,"",REF,Richardson / Argenziano,7
+Liberty,TELOGIA 06,Governor,"",NPA,Gibson / Wilds,8
+Liberty,TELOGIA 06,Governor,"",NPA,Foley / Tutton,4
+Liberty,TELOGIA 06,Governor,"",NPA,Stanley / McJury,5
+Liberty,TELOGIA 06,Governor,"","",WriteinVotes,0
+Liberty,TELOGIA 06,Governor,"","",OverVotes,1
+Liberty,TELOGIA 06,Governor,"","",UnderVotes,12
+Liberty,TELOGIA 06,Attorney General,"",REP,Ashley Moody,331
+Liberty,TELOGIA 06,Attorney General,"",DEM,Sean Shaw,76
+Liberty,TELOGIA 06,Attorney General,"",NPA,Jeffrey Marc Siskind,7
+Liberty,TELOGIA 06,Attorney General,"","",OverVotes,0
+Liberty,TELOGIA 06,Attorney General,"","",UnderVotes,24
+Liberty,TELOGIA 06,Chief Financial Officer,"",REP,Jimmy Patronis,337
+Liberty,TELOGIA 06,Chief Financial Officer,"",DEM,Jeremy Ring,79
+Liberty,TELOGIA 06,Chief Financial Officer,"","",WriteinVotes,0
+Liberty,TELOGIA 06,Chief Financial Officer,"","",OverVotes,0
+Liberty,TELOGIA 06,Chief Financial Officer,"","",UnderVotes,22
+Liberty,TELOGIA 06,Commissioner of Agriculture,"",REP,Matt Caldwell,332
+Liberty,TELOGIA 06,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",84
+Liberty,TELOGIA 06,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,TELOGIA 06,Commissioner of Agriculture,"","",UnderVotes,22
+Liberty,TELOGIA 06,County Commissioner,2,DEM,Dexter Barber,204
+Liberty,TELOGIA 06,County Commissioner,2,NPA,Teddy Eubanks,220
+Liberty,TELOGIA 06,County Commissioner,2,"",OverVotes,0
+Liberty,TELOGIA 06,County Commissioner,2,"",UnderVotes,14
+Liberty,TELOGIA 06,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,246
+Liberty,TELOGIA 06,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,132
+Liberty,TELOGIA 06,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Liberty,TELOGIA 06,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,60
+Liberty,TELOGIA 06,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,227
+Liberty,TELOGIA 06,Retention of Harvey Jay,First District Court of Appeal,NOP,No,133
+Liberty,TELOGIA 06,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Liberty,TELOGIA 06,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,78
+Liberty,TELOGIA 06,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,226
+Liberty,TELOGIA 06,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,126
+Liberty,TELOGIA 06,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Liberty,TELOGIA 06,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,85
+Liberty,TELOGIA 06,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,208
+Liberty,TELOGIA 06,Retention of Brad Thomas,First District Court of Appeal,NOP,No,143
+Liberty,TELOGIA 06,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Liberty,TELOGIA 06,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,86
+Liberty,TELOGIA 06,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,213
+Liberty,TELOGIA 06,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,138
+Liberty,TELOGIA 06,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,TELOGIA 06,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,87
+Liberty,TELOGIA 06,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,215
+Liberty,TELOGIA 06,Retention of Allen Winsor,First District Court of Appeal,NOP,No,139
+Liberty,TELOGIA 06,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,TELOGIA 06,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,84
+Liberty,TELOGIA 06,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,161
+Liberty,TELOGIA 06,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,202
+Liberty,TELOGIA 06,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,TELOGIA 06,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,75
+Liberty,TELOGIA 06,School Board,5,NOP,"James S. ""Jamie"" Chester",228
+Liberty,TELOGIA 06,School Board,5,NOP,"Charles ""Boo"" Morris",202
+Liberty,TELOGIA 06,School Board,5,"",OverVotes,0
+Liberty,TELOGIA 06,School Board,5,"",UnderVotes,8
+Liberty,TELOGIA 06,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,221
+Liberty,TELOGIA 06,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,181
+Liberty,TELOGIA 06,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,36
+Liberty,TELOGIA 06,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,244
+Liberty,TELOGIA 06,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,153
+Liberty,TELOGIA 06,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,41
+Liberty,TELOGIA 06,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,308
+Liberty,TELOGIA 06,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,95
+Liberty,TELOGIA 06,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,35
+Liberty,TELOGIA 06,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,216
+Liberty,TELOGIA 06,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,184
+Liberty,TELOGIA 06,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,38
+Liberty,TELOGIA 06,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,270
+Liberty,TELOGIA 06,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,122
+Liberty,TELOGIA 06,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Liberty,TELOGIA 06,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,45
+Liberty,TELOGIA 06,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,273
+Liberty,TELOGIA 06,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,124
+Liberty,TELOGIA 06,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,41
+Liberty,TELOGIA 06,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,277
+Liberty,TELOGIA 06,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,114
+Liberty,TELOGIA 06,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,47
+Liberty,TELOGIA 06,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,173
+Liberty,TELOGIA 06,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,219
+Liberty,TELOGIA 06,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,46
+Liberty,TELOGIA 06,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,259
+Liberty,TELOGIA 06,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,121
+Liberty,TELOGIA 06,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,58
+Liberty,TELOGIA 06,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,179
+Liberty,TELOGIA 06,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,183
+Liberty,TELOGIA 06,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,76
+Liberty,TELOGIA 06,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,268
+Liberty,TELOGIA 06,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,112
+Liberty,TELOGIA 06,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,58
+Liberty,TELOGIA 06,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,146
+Liberty,TELOGIA 06,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,258
+Liberty,TELOGIA 06,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Liberty,TELOGIA 06,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,34
+Liberty,SUMATRA 07,U.S. Senate,"",REP,Rick Scott,87
+Liberty,SUMATRA 07,U.S. Senate,"",DEM,Bill Nelson,15
+Liberty,SUMATRA 07,U.S. Senate,"","",WriteinVotes,2
+Liberty,SUMATRA 07,U.S. Senate,"","",OverVotes,0
+Liberty,SUMATRA 07,U.S. Senate,"","",UnderVotes,2
+Liberty,SUMATRA 07,U.S. House,2,REP,Neal Dunn,90
+Liberty,SUMATRA 07,U.S. House,2,DEM,Bob Rackleff,15
+Liberty,SUMATRA 07,U.S. House,2,"",OverVotes,0
+Liberty,SUMATRA 07,U.S. House,2,"",UnderVotes,1
+Liberty,SUMATRA 07,Governor,"",REP,DeSantis / Nuñez,89
+Liberty,SUMATRA 07,Governor,"",DEM,Gillum / King,8
+Liberty,SUMATRA 07,Governor,"",REF,Richardson / Argenziano,4
+Liberty,SUMATRA 07,Governor,"",NPA,Gibson / Wilds,1
+Liberty,SUMATRA 07,Governor,"",NPA,Foley / Tutton,2
+Liberty,SUMATRA 07,Governor,"",NPA,Stanley / McJury,2
+Liberty,SUMATRA 07,Governor,"","",WriteinVotes,0
+Liberty,SUMATRA 07,Governor,"","",OverVotes,0
+Liberty,SUMATRA 07,Governor,"","",UnderVotes,0
+Liberty,SUMATRA 07,Attorney General,"",REP,Ashley Moody,88
+Liberty,SUMATRA 07,Attorney General,"",DEM,Sean Shaw,16
+Liberty,SUMATRA 07,Attorney General,"",NPA,Jeffrey Marc Siskind,1
+Liberty,SUMATRA 07,Attorney General,"","",OverVotes,0
+Liberty,SUMATRA 07,Attorney General,"","",UnderVotes,1
+Liberty,SUMATRA 07,Chief Financial Officer,"",REP,Jimmy Patronis,93
+Liberty,SUMATRA 07,Chief Financial Officer,"",DEM,Jeremy Ring,11
+Liberty,SUMATRA 07,Chief Financial Officer,"","",WriteinVotes,0
+Liberty,SUMATRA 07,Chief Financial Officer,"","",OverVotes,0
+Liberty,SUMATRA 07,Chief Financial Officer,"","",UnderVotes,2
+Liberty,SUMATRA 07,Commissioner of Agriculture,"",REP,Matt Caldwell,90
+Liberty,SUMATRA 07,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",14
+Liberty,SUMATRA 07,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,SUMATRA 07,Commissioner of Agriculture,"","",UnderVotes,2
+Liberty,SUMATRA 07,County Commissioner,2,DEM,Dexter Barber,63
+Liberty,SUMATRA 07,County Commissioner,2,NPA,Teddy Eubanks,39
+Liberty,SUMATRA 07,County Commissioner,2,"",OverVotes,0
+Liberty,SUMATRA 07,County Commissioner,2,"",UnderVotes,4
+Liberty,SUMATRA 07,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,48
+Liberty,SUMATRA 07,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,48
+Liberty,SUMATRA 07,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Liberty,SUMATRA 07,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,10
+Liberty,SUMATRA 07,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,48
+Liberty,SUMATRA 07,Retention of Harvey Jay,First District Court of Appeal,NOP,No,45
+Liberty,SUMATRA 07,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Liberty,SUMATRA 07,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,13
+Liberty,SUMATRA 07,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,47
+Liberty,SUMATRA 07,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,45
+Liberty,SUMATRA 07,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Liberty,SUMATRA 07,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,14
+Liberty,SUMATRA 07,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,47
+Liberty,SUMATRA 07,Retention of Brad Thomas,First District Court of Appeal,NOP,No,46
+Liberty,SUMATRA 07,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,SUMATRA 07,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,13
+Liberty,SUMATRA 07,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,44
+Liberty,SUMATRA 07,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,48
+Liberty,SUMATRA 07,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,SUMATRA 07,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,14
+Liberty,SUMATRA 07,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,44
+Liberty,SUMATRA 07,Retention of Allen Winsor,First District Court of Appeal,NOP,No,48
+Liberty,SUMATRA 07,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,SUMATRA 07,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,14
+Liberty,SUMATRA 07,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,54
+Liberty,SUMATRA 07,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,37
+Liberty,SUMATRA 07,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,SUMATRA 07,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,15
+Liberty,SUMATRA 07,School Board,5,NOP,"James S. ""Jamie"" Chester",51
+Liberty,SUMATRA 07,School Board,5,NOP,"Charles ""Boo"" Morris",47
+Liberty,SUMATRA 07,School Board,5,"",OverVotes,0
+Liberty,SUMATRA 07,School Board,5,"",UnderVotes,8
+Liberty,SUMATRA 07,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,53
+Liberty,SUMATRA 07,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,46
+Liberty,SUMATRA 07,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,7
+Liberty,SUMATRA 07,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,59
+Liberty,SUMATRA 07,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,40
+Liberty,SUMATRA 07,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,7
+Liberty,SUMATRA 07,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,71
+Liberty,SUMATRA 07,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,25
+Liberty,SUMATRA 07,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Liberty,SUMATRA 07,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,52
+Liberty,SUMATRA 07,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,45
+Liberty,SUMATRA 07,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,9
+Liberty,SUMATRA 07,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,69
+Liberty,SUMATRA 07,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,27
+Liberty,SUMATRA 07,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Liberty,SUMATRA 07,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,10
+Liberty,SUMATRA 07,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,62
+Liberty,SUMATRA 07,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,33
+Liberty,SUMATRA 07,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,11
+Liberty,SUMATRA 07,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,66
+Liberty,SUMATRA 07,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,27
+Liberty,SUMATRA 07,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Liberty,SUMATRA 07,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,12
+Liberty,SUMATRA 07,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,36
+Liberty,SUMATRA 07,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,60
+Liberty,SUMATRA 07,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,10
+Liberty,SUMATRA 07,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,61
+Liberty,SUMATRA 07,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,31
+Liberty,SUMATRA 07,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,14
+Liberty,SUMATRA 07,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,42
+Liberty,SUMATRA 07,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,50
+Liberty,SUMATRA 07,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,14
+Liberty,SUMATRA 07,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,58
+Liberty,SUMATRA 07,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,38
+Liberty,SUMATRA 07,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,10
+Liberty,SUMATRA 07,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,29
+Liberty,SUMATRA 07,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,69
+Liberty,SUMATRA 07,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Liberty,SUMATRA 07,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,8
+Liberty,ORANGE 08,U.S. Senate,"",REP,Rick Scott,110
+Liberty,ORANGE 08,U.S. Senate,"",DEM,Bill Nelson,40
+Liberty,ORANGE 08,U.S. Senate,"","",WriteinVotes,0
+Liberty,ORANGE 08,U.S. Senate,"","",OverVotes,0
+Liberty,ORANGE 08,U.S. Senate,"","",UnderVotes,1
+Liberty,ORANGE 08,U.S. House,2,REP,Neal Dunn,106
+Liberty,ORANGE 08,U.S. House,2,DEM,Bob Rackleff,43
+Liberty,ORANGE 08,U.S. House,2,"",OverVotes,0
+Liberty,ORANGE 08,U.S. House,2,"",UnderVotes,2
+Liberty,ORANGE 08,Governor,"",REP,DeSantis / Nuñez,102
+Liberty,ORANGE 08,Governor,"",DEM,Gillum / King,39
+Liberty,ORANGE 08,Governor,"",REF,Richardson / Argenziano,3
+Liberty,ORANGE 08,Governor,"",NPA,Gibson / Wilds,1
+Liberty,ORANGE 08,Governor,"",NPA,Foley / Tutton,2
+Liberty,ORANGE 08,Governor,"",NPA,Stanley / McJury,2
+Liberty,ORANGE 08,Governor,"","",WriteinVotes,0
+Liberty,ORANGE 08,Governor,"","",OverVotes,1
+Liberty,ORANGE 08,Governor,"","",UnderVotes,1
+Liberty,ORANGE 08,Attorney General,"",REP,Ashley Moody,99
+Liberty,ORANGE 08,Attorney General,"",DEM,Sean Shaw,42
+Liberty,ORANGE 08,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Liberty,ORANGE 08,Attorney General,"","",OverVotes,0
+Liberty,ORANGE 08,Attorney General,"","",UnderVotes,4
+Liberty,ORANGE 08,Chief Financial Officer,"",REP,Jimmy Patronis,110
+Liberty,ORANGE 08,Chief Financial Officer,"",DEM,Jeremy Ring,35
+Liberty,ORANGE 08,Chief Financial Officer,"","",WriteinVotes,0
+Liberty,ORANGE 08,Chief Financial Officer,"","",OverVotes,0
+Liberty,ORANGE 08,Chief Financial Officer,"","",UnderVotes,6
+Liberty,ORANGE 08,Commissioner of Agriculture,"",REP,Matt Caldwell,104
+Liberty,ORANGE 08,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",42
+Liberty,ORANGE 08,Commissioner of Agriculture,"","",OverVotes,0
+Liberty,ORANGE 08,Commissioner of Agriculture,"","",UnderVotes,5
+Liberty,ORANGE 08,County Commissioner,2,DEM,Dexter Barber,70
+Liberty,ORANGE 08,County Commissioner,2,NPA,Teddy Eubanks,74
+Liberty,ORANGE 08,County Commissioner,2,"",OverVotes,0
+Liberty,ORANGE 08,County Commissioner,2,"",UnderVotes,7
+Liberty,ORANGE 08,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,78
+Liberty,ORANGE 08,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,58
+Liberty,ORANGE 08,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Liberty,ORANGE 08,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,15
+Liberty,ORANGE 08,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,78
+Liberty,ORANGE 08,Retention of Harvey Jay,First District Court of Appeal,NOP,No,58
+Liberty,ORANGE 08,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Liberty,ORANGE 08,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,15
+Liberty,ORANGE 08,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,82
+Liberty,ORANGE 08,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,53
+Liberty,ORANGE 08,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Liberty,ORANGE 08,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,16
+Liberty,ORANGE 08,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,76
+Liberty,ORANGE 08,Retention of Brad Thomas,First District Court of Appeal,NOP,No,57
+Liberty,ORANGE 08,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Liberty,ORANGE 08,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,17
+Liberty,ORANGE 08,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,77
+Liberty,ORANGE 08,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,55
+Liberty,ORANGE 08,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Liberty,ORANGE 08,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,19
+Liberty,ORANGE 08,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,76
+Liberty,ORANGE 08,Retention of Allen Winsor,First District Court of Appeal,NOP,No,60
+Liberty,ORANGE 08,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Liberty,ORANGE 08,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,15
+Liberty,ORANGE 08,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,67
+Liberty,ORANGE 08,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,64
+Liberty,ORANGE 08,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Liberty,ORANGE 08,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,20
+Liberty,ORANGE 08,School Board,5,NOP,"James S. ""Jamie"" Chester",59
+Liberty,ORANGE 08,School Board,5,NOP,"Charles ""Boo"" Morris",84
+Liberty,ORANGE 08,School Board,5,"",OverVotes,0
+Liberty,ORANGE 08,School Board,5,"",UnderVotes,8
+Liberty,ORANGE 08,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,92
+Liberty,ORANGE 08,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,52
+Liberty,ORANGE 08,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,7
+Liberty,ORANGE 08,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,103
+Liberty,ORANGE 08,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,39
+Liberty,ORANGE 08,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,9
+Liberty,ORANGE 08,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,113
+Liberty,ORANGE 08,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,31
+Liberty,ORANGE 08,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Liberty,ORANGE 08,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,88
+Liberty,ORANGE 08,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,58
+Liberty,ORANGE 08,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,5
+Liberty,ORANGE 08,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,103
+Liberty,ORANGE 08,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,39
+Liberty,ORANGE 08,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Liberty,ORANGE 08,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,9
+Liberty,ORANGE 08,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,105
+Liberty,ORANGE 08,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,42
+Liberty,ORANGE 08,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,4
+Liberty,ORANGE 08,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,111
+Liberty,ORANGE 08,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,35
+Liberty,ORANGE 08,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,5
+Liberty,ORANGE 08,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,81
+Liberty,ORANGE 08,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,66
+Liberty,ORANGE 08,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,4
+Liberty,ORANGE 08,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,100
+Liberty,ORANGE 08,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,43
+Liberty,ORANGE 08,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,8
+Liberty,ORANGE 08,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,85
+Liberty,ORANGE 08,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,50
+Liberty,ORANGE 08,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Liberty,ORANGE 08,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,15
+Liberty,ORANGE 08,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,110
+Liberty,ORANGE 08,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,33
+Liberty,ORANGE 08,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,8
+Liberty,ORANGE 08,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,61
+Liberty,ORANGE 08,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,85
+Liberty,ORANGE 08,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Liberty,ORANGE 08,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,5
+Liberty,ANNEX 02,Registered Voters,"","","",0
+Liberty,BRISTOL 03,Registered Voters,"","","",0
+Liberty,HOSFORD 05,Registered Voters,"","","",0
+Liberty,LAKE MYSTIC 04,Registered Voters,"","","",0
+Liberty,ORANGE 08,Registered Voters,"","","",0
+Liberty,ROCK BLUFF 01,Registered Voters,"","","",0
+Liberty,SUMATRA 07,Registered Voters,"","","",0
+Liberty,TELOGIA 06,Registered Voters,"","","",0

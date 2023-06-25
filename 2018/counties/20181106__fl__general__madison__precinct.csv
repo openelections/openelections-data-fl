@@ -1,0 +1,1200 @@
+county,precinct,office,district,party,candidate,votes
+Madison,1:Agriculture Center,U.S. Senate,"",REP,Rick Scott,747
+Madison,1:Agriculture Center,U.S. Senate,"",DEM,Bill Nelson,674
+Madison,1:Agriculture Center,U.S. Senate,"","",WriteinVotes,2
+Madison,1:Agriculture Center,U.S. Senate,"","",OverVotes,0
+Madison,1:Agriculture Center,U.S. Senate,"","",UnderVotes,8
+Madison,1:Agriculture Center,U.S. House,5,REP,Virginia Fuller,729
+Madison,1:Agriculture Center,U.S. House,5,DEM,Al Lawson,680
+Madison,1:Agriculture Center,U.S. House,5,"",OverVotes,0
+Madison,1:Agriculture Center,U.S. House,5,"",UnderVotes,22
+Madison,1:Agriculture Center,Governor,"",REP,DeSantis / Nuñez,770
+Madison,1:Agriculture Center,Governor,"",DEM,Gillum / King,649
+Madison,1:Agriculture Center,Governor,"",REF,Richardson / Argenziano,2
+Madison,1:Agriculture Center,Governor,"",NPA,Gibson / Wilds,2
+Madison,1:Agriculture Center,Governor,"",NPA,Foley / Tutton,2
+Madison,1:Agriculture Center,Governor,"",NPA,Stanley / McJury,1
+Madison,1:Agriculture Center,Governor,"","",WriteinVotes,0
+Madison,1:Agriculture Center,Governor,"","",OverVotes,1
+Madison,1:Agriculture Center,Governor,"","",UnderVotes,4
+Madison,1:Agriculture Center,Attorney General,"",REP,Ashley Moody,798
+Madison,1:Agriculture Center,Attorney General,"",DEM,Sean Shaw,604
+Madison,1:Agriculture Center,Attorney General,"",NPA,Jeffrey Marc Siskind,12
+Madison,1:Agriculture Center,Attorney General,"","",OverVotes,0
+Madison,1:Agriculture Center,Attorney General,"","",UnderVotes,17
+Madison,1:Agriculture Center,Chief Financial Officer,"",REP,Jimmy Patronis,776
+Madison,1:Agriculture Center,Chief Financial Officer,"",DEM,Jeremy Ring,623
+Madison,1:Agriculture Center,Chief Financial Officer,"","",WriteinVotes,1
+Madison,1:Agriculture Center,Chief Financial Officer,"","",OverVotes,0
+Madison,1:Agriculture Center,Chief Financial Officer,"","",UnderVotes,31
+Madison,1:Agriculture Center,Commissioner of Agriculture,"",REP,Matt Caldwell,780
+Madison,1:Agriculture Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",622
+Madison,1:Agriculture Center,Commissioner of Agriculture,"","",OverVotes,0
+Madison,1:Agriculture Center,Commissioner of Agriculture,"","",UnderVotes,29
+Madison,1:Agriculture Center,Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,439
+Madison,1:Agriculture Center,Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,842
+Madison,1:Agriculture Center,Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,1:Agriculture Center,Madison Soil and Water Conservation District,Group 2,"",UnderVotes,150
+Madison,1:Agriculture Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,907
+Madison,1:Agriculture Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,426
+Madison,1:Agriculture Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Madison,1:Agriculture Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,97
+Madison,1:Agriculture Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,826
+Madison,1:Agriculture Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,471
+Madison,1:Agriculture Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Madison,1:Agriculture Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,133
+Madison,1:Agriculture Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,820
+Madison,1:Agriculture Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,463
+Madison,1:Agriculture Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,1:Agriculture Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,148
+Madison,1:Agriculture Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,814
+Madison,1:Agriculture Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,480
+Madison,1:Agriculture Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Madison,1:Agriculture Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,136
+Madison,1:Agriculture Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,810
+Madison,1:Agriculture Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,476
+Madison,1:Agriculture Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,1:Agriculture Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,145
+Madison,1:Agriculture Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,794
+Madison,1:Agriculture Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,495
+Madison,1:Agriculture Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,1:Agriculture Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,142
+Madison,1:Agriculture Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,674
+Madison,1:Agriculture Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,714
+Madison,1:Agriculture Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Madison,1:Agriculture Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,41
+Madison,1:Agriculture Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,894
+Madison,1:Agriculture Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,497
+Madison,1:Agriculture Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Madison,1:Agriculture Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,38
+Madison,1:Agriculture Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,964
+Madison,1:Agriculture Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,435
+Madison,1:Agriculture Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,1:Agriculture Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,32
+Madison,1:Agriculture Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,824
+Madison,1:Agriculture Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,586
+Madison,1:Agriculture Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,1:Agriculture Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,21
+Madison,1:Agriculture Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,846
+Madison,1:Agriculture Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,526
+Madison,1:Agriculture Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,1:Agriculture Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,59
+Madison,1:Agriculture Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,770
+Madison,1:Agriculture Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,612
+Madison,1:Agriculture Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,1:Agriculture Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,49
+Madison,1:Agriculture Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,839
+Madison,1:Agriculture Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,526
+Madison,1:Agriculture Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,1:Agriculture Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,66
+Madison,1:Agriculture Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,753
+Madison,1:Agriculture Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,612
+Madison,1:Agriculture Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Madison,1:Agriculture Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,65
+Madison,1:Agriculture Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,844
+Madison,1:Agriculture Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,506
+Madison,1:Agriculture Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Madison,1:Agriculture Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,80
+Madison,1:Agriculture Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,694
+Madison,1:Agriculture Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,639
+Madison,1:Agriculture Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,1:Agriculture Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,98
+Madison,1:Agriculture Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,893
+Madison,1:Agriculture Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,466
+Madison,1:Agriculture Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,1:Agriculture Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,72
+Madison,1:Agriculture Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,608
+Madison,1:Agriculture Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,771
+Madison,1:Agriculture Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,1:Agriculture Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,52
+Madison,2:Madison Recreation Center,U.S. Senate,"",REP,Rick Scott,52
+Madison,2:Madison Recreation Center,U.S. Senate,"",DEM,Bill Nelson,232
+Madison,2:Madison Recreation Center,U.S. Senate,"","",WriteinVotes,2
+Madison,2:Madison Recreation Center,U.S. Senate,"","",OverVotes,0
+Madison,2:Madison Recreation Center,U.S. Senate,"","",UnderVotes,6
+Madison,2:Madison Recreation Center,U.S. House,5,REP,Virginia Fuller,49
+Madison,2:Madison Recreation Center,U.S. House,5,DEM,Al Lawson,239
+Madison,2:Madison Recreation Center,U.S. House,5,"",OverVotes,0
+Madison,2:Madison Recreation Center,U.S. House,5,"",UnderVotes,4
+Madison,2:Madison Recreation Center,Governor,"",REP,DeSantis / Nuñez,50
+Madison,2:Madison Recreation Center,Governor,"",DEM,Gillum / King,237
+Madison,2:Madison Recreation Center,Governor,"",REF,Richardson / Argenziano,1
+Madison,2:Madison Recreation Center,Governor,"",NPA,Gibson / Wilds,0
+Madison,2:Madison Recreation Center,Governor,"",NPA,Foley / Tutton,0
+Madison,2:Madison Recreation Center,Governor,"",NPA,Stanley / McJury,0
+Madison,2:Madison Recreation Center,Governor,"","",WriteinVotes,0
+Madison,2:Madison Recreation Center,Governor,"","",OverVotes,1
+Madison,2:Madison Recreation Center,Governor,"","",UnderVotes,3
+Madison,2:Madison Recreation Center,Attorney General,"",REP,Ashley Moody,56
+Madison,2:Madison Recreation Center,Attorney General,"",DEM,Sean Shaw,231
+Madison,2:Madison Recreation Center,Attorney General,"",NPA,Jeffrey Marc Siskind,0
+Madison,2:Madison Recreation Center,Attorney General,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Attorney General,"","",UnderVotes,5
+Madison,2:Madison Recreation Center,Chief Financial Officer,"",REP,Jimmy Patronis,53
+Madison,2:Madison Recreation Center,Chief Financial Officer,"",DEM,Jeremy Ring,231
+Madison,2:Madison Recreation Center,Chief Financial Officer,"","",WriteinVotes,0
+Madison,2:Madison Recreation Center,Chief Financial Officer,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Chief Financial Officer,"","",UnderVotes,8
+Madison,2:Madison Recreation Center,Commissioner of Agriculture,"",REP,Matt Caldwell,54
+Madison,2:Madison Recreation Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",227
+Madison,2:Madison Recreation Center,Commissioner of Agriculture,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Commissioner of Agriculture,"","",UnderVotes,11
+Madison,2:Madison Recreation Center,Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,122
+Madison,2:Madison Recreation Center,Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,138
+Madison,2:Madison Recreation Center,Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,2:Madison Recreation Center,Madison Soil and Water Conservation District,Group 2,"",UnderVotes,32
+Madison,2:Madison Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,206
+Madison,2:Madison Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,72
+Madison,2:Madison Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Madison,2:Madison Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,14
+Madison,2:Madison Recreation Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,183
+Madison,2:Madison Recreation Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,88
+Madison,2:Madison Recreation Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison Recreation Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,21
+Madison,2:Madison Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,190
+Madison,2:Madison Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,70
+Madison,2:Madison Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,32
+Madison,2:Madison Recreation Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,189
+Madison,2:Madison Recreation Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,82
+Madison,2:Madison Recreation Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison Recreation Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,21
+Madison,2:Madison Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,196
+Madison,2:Madison Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,71
+Madison,2:Madison Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,25
+Madison,2:Madison Recreation Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,181
+Madison,2:Madison Recreation Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,88
+Madison,2:Madison Recreation Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,2:Madison Recreation Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,23
+Madison,2:Madison Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,118
+Madison,2:Madison Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,156
+Madison,2:Madison Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Madison,2:Madison Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,17
+Madison,2:Madison Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,143
+Madison,2:Madison Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,133
+Madison,2:Madison Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Madison,2:Madison Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Madison,2:Madison Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,216
+Madison,2:Madison Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,66
+Madison,2:Madison Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Madison,2:Madison Recreation Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,217
+Madison,2:Madison Recreation Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,67
+Madison,2:Madison Recreation Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Madison,2:Madison Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,117
+Madison,2:Madison Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,166
+Madison,2:Madison Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,2:Madison Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,9
+Madison,2:Madison Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,144
+Madison,2:Madison Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,141
+Madison,2:Madison Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,7
+Madison,2:Madison Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,150
+Madison,2:Madison Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,131
+Madison,2:Madison Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,11
+Madison,2:Madison Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,183
+Madison,2:Madison Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,98
+Madison,2:Madison Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,11
+Madison,2:Madison Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,150
+Madison,2:Madison Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,129
+Madison,2:Madison Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,13
+Madison,2:Madison Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,125
+Madison,2:Madison Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,151
+Madison,2:Madison Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,16
+Madison,2:Madison Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,152
+Madison,2:Madison Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,128
+Madison,2:Madison Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,12
+Madison,2:Madison Recreation Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,138
+Madison,2:Madison Recreation Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,144
+Madison,2:Madison Recreation Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,2:Madison Recreation Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,10
+Madison,3:Lee City Hall,U.S. Senate,"",REP,Rick Scott,1013
+Madison,3:Lee City Hall,U.S. Senate,"",DEM,Bill Nelson,279
+Madison,3:Lee City Hall,U.S. Senate,"","",WriteinVotes,1
+Madison,3:Lee City Hall,U.S. Senate,"","",OverVotes,0
+Madison,3:Lee City Hall,U.S. Senate,"","",UnderVotes,3
+Madison,3:Lee City Hall,U.S. House,5,REP,Virginia Fuller,1016
+Madison,3:Lee City Hall,U.S. House,5,DEM,Al Lawson,270
+Madison,3:Lee City Hall,U.S. House,5,"",OverVotes,0
+Madison,3:Lee City Hall,U.S. House,5,"",UnderVotes,10
+Madison,3:Lee City Hall,Governor,"",REP,DeSantis / Nuñez,1059
+Madison,3:Lee City Hall,Governor,"",DEM,Gillum / King,223
+Madison,3:Lee City Hall,Governor,"",REF,Richardson / Argenziano,4
+Madison,3:Lee City Hall,Governor,"",NPA,Gibson / Wilds,1
+Madison,3:Lee City Hall,Governor,"",NPA,Foley / Tutton,1
+Madison,3:Lee City Hall,Governor,"",NPA,Stanley / McJury,1
+Madison,3:Lee City Hall,Governor,"","",WriteinVotes,1
+Madison,3:Lee City Hall,Governor,"","",OverVotes,1
+Madison,3:Lee City Hall,Governor,"","",UnderVotes,5
+Madison,3:Lee City Hall,Attorney General,"",REP,Ashley Moody,1051
+Madison,3:Lee City Hall,Attorney General,"",DEM,Sean Shaw,220
+Madison,3:Lee City Hall,Attorney General,"",NPA,Jeffrey Marc Siskind,13
+Madison,3:Lee City Hall,Attorney General,"","",OverVotes,0
+Madison,3:Lee City Hall,Attorney General,"","",UnderVotes,12
+Madison,3:Lee City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,1033
+Madison,3:Lee City Hall,Chief Financial Officer,"",DEM,Jeremy Ring,242
+Madison,3:Lee City Hall,Chief Financial Officer,"","",WriteinVotes,1
+Madison,3:Lee City Hall,Chief Financial Officer,"","",OverVotes,0
+Madison,3:Lee City Hall,Chief Financial Officer,"","",UnderVotes,20
+Madison,3:Lee City Hall,Commissioner of Agriculture,"",REP,Matt Caldwell,1043
+Madison,3:Lee City Hall,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",237
+Madison,3:Lee City Hall,Commissioner of Agriculture,"","",OverVotes,0
+Madison,3:Lee City Hall,Commissioner of Agriculture,"","",UnderVotes,16
+Madison,3:Lee City Hall,Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,465
+Madison,3:Lee City Hall,Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,686
+Madison,3:Lee City Hall,Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,3:Lee City Hall,Madison Soil and Water Conservation District,Group 2,"",UnderVotes,145
+Madison,3:Lee City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,719
+Madison,3:Lee City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,473
+Madison,3:Lee City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,104
+Madison,3:Lee City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,722
+Madison,3:Lee City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,No,453
+Madison,3:Lee City Hall,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,121
+Madison,3:Lee City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,720
+Madison,3:Lee City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,436
+Madison,3:Lee City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,140
+Madison,3:Lee City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,707
+Madison,3:Lee City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,No,467
+Madison,3:Lee City Hall,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Madison,3:Lee City Hall,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,121
+Madison,3:Lee City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,684
+Madison,3:Lee City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,482
+Madison,3:Lee City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,3:Lee City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,130
+Madison,3:Lee City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,712
+Madison,3:Lee City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,No,457
+Madison,3:Lee City Hall,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,2
+Madison,3:Lee City Hall,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,125
+Madison,3:Lee City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,716
+Madison,3:Lee City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,549
+Madison,3:Lee City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Madison,3:Lee City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,30
+Madison,3:Lee City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,914
+Madison,3:Lee City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,346
+Madison,3:Lee City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,36
+Madison,3:Lee City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,851
+Madison,3:Lee City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,421
+Madison,3:Lee City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,24
+Madison,3:Lee City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,534
+Madison,3:Lee City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,748
+Madison,3:Lee City Hall,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,14
+Madison,3:Lee City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,914
+Madison,3:Lee City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,348
+Madison,3:Lee City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,3:Lee City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,34
+Madison,3:Lee City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,773
+Madison,3:Lee City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,488
+Madison,3:Lee City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,35
+Madison,3:Lee City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,815
+Madison,3:Lee City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,448
+Madison,3:Lee City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,33
+Madison,3:Lee City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,590
+Madison,3:Lee City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,669
+Madison,3:Lee City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Madison,3:Lee City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,36
+Madison,3:Lee City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,805
+Madison,3:Lee City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,444
+Madison,3:Lee City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,47
+Madison,3:Lee City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,628
+Madison,3:Lee City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,588
+Madison,3:Lee City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,80
+Madison,3:Lee City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,885
+Madison,3:Lee City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,367
+Madison,3:Lee City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,44
+Madison,3:Lee City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,365
+Madison,3:Lee City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,906
+Madison,3:Lee City Hall,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,3:Lee City Hall,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,25
+Madison,"4:Voting House, Sirmans",U.S. Senate,"",REP,Rick Scott,209
+Madison,"4:Voting House, Sirmans",U.S. Senate,"",DEM,Bill Nelson,85
+Madison,"4:Voting House, Sirmans",U.S. Senate,"","",WriteinVotes,0
+Madison,"4:Voting House, Sirmans",U.S. Senate,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",U.S. Senate,"","",UnderVotes,1
+Madison,"4:Voting House, Sirmans",U.S. House,5,REP,Virginia Fuller,201
+Madison,"4:Voting House, Sirmans",U.S. House,5,DEM,Al Lawson,87
+Madison,"4:Voting House, Sirmans",U.S. House,5,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",U.S. House,5,"",UnderVotes,7
+Madison,"4:Voting House, Sirmans",Governor,"",REP,DeSantis / Nuñez,219
+Madison,"4:Voting House, Sirmans",Governor,"",DEM,Gillum / King,72
+Madison,"4:Voting House, Sirmans",Governor,"",REF,Richardson / Argenziano,1
+Madison,"4:Voting House, Sirmans",Governor,"",NPA,Gibson / Wilds,0
+Madison,"4:Voting House, Sirmans",Governor,"",NPA,Foley / Tutton,0
+Madison,"4:Voting House, Sirmans",Governor,"",NPA,Stanley / McJury,1
+Madison,"4:Voting House, Sirmans",Governor,"","",WriteinVotes,0
+Madison,"4:Voting House, Sirmans",Governor,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Governor,"","",UnderVotes,2
+Madison,"4:Voting House, Sirmans",Attorney General,"",REP,Ashley Moody,218
+Madison,"4:Voting House, Sirmans",Attorney General,"",DEM,Sean Shaw,63
+Madison,"4:Voting House, Sirmans",Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Madison,"4:Voting House, Sirmans",Attorney General,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Attorney General,"","",UnderVotes,6
+Madison,"4:Voting House, Sirmans",Chief Financial Officer,"",REP,Jimmy Patronis,213
+Madison,"4:Voting House, Sirmans",Chief Financial Officer,"",DEM,Jeremy Ring,73
+Madison,"4:Voting House, Sirmans",Chief Financial Officer,"","",WriteinVotes,0
+Madison,"4:Voting House, Sirmans",Chief Financial Officer,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Chief Financial Officer,"","",UnderVotes,9
+Madison,"4:Voting House, Sirmans",Commissioner of Agriculture,"",REP,Matt Caldwell,218
+Madison,"4:Voting House, Sirmans",Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",72
+Madison,"4:Voting House, Sirmans",Commissioner of Agriculture,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Commissioner of Agriculture,"","",UnderVotes,5
+Madison,"4:Voting House, Sirmans",Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,119
+Madison,"4:Voting House, Sirmans",Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,137
+Madison,"4:Voting House, Sirmans",Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",Madison Soil and Water Conservation District,Group 2,"",UnderVotes,39
+Madison,"4:Voting House, Sirmans",Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,174
+Madison,"4:Voting House, Sirmans",Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,93
+Madison,"4:Voting House, Sirmans",Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,28
+Madison,"4:Voting House, Sirmans",Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,154
+Madison,"4:Voting House, Sirmans",Retention of Harvey Jay,First District Court of Appeal,NOP,No,101
+Madison,"4:Voting House, Sirmans",Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,40
+Madison,"4:Voting House, Sirmans",Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,152
+Madison,"4:Voting House, Sirmans",Retention of Stephanie Ray,First District Court of Appeal,NOP,No,97
+Madison,"4:Voting House, Sirmans",Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,46
+Madison,"4:Voting House, Sirmans",Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,149
+Madison,"4:Voting House, Sirmans",Retention of Brad Thomas,First District Court of Appeal,NOP,No,104
+Madison,"4:Voting House, Sirmans",Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,42
+Madison,"4:Voting House, Sirmans",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,144
+Madison,"4:Voting House, Sirmans",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,106
+Madison,"4:Voting House, Sirmans",Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,45
+Madison,"4:Voting House, Sirmans",Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,154
+Madison,"4:Voting House, Sirmans",Retention of Allen Winsor,First District Court of Appeal,NOP,No,98
+Madison,"4:Voting House, Sirmans",Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,"4:Voting House, Sirmans",Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,43
+Madison,"4:Voting House, Sirmans",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,132
+Madison,"4:Voting House, Sirmans",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,148
+Madison,"4:Voting House, Sirmans",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,15
+Madison,"4:Voting House, Sirmans",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,191
+Madison,"4:Voting House, Sirmans",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,92
+Madison,"4:Voting House, Sirmans",Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Madison,"4:Voting House, Sirmans",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,184
+Madison,"4:Voting House, Sirmans",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,100
+Madison,"4:Voting House, Sirmans",Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Madison,"4:Voting House, Sirmans",Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,130
+Madison,"4:Voting House, Sirmans",Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,157
+Madison,"4:Voting House, Sirmans",Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Madison,"4:Voting House, Sirmans","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,185
+Madison,"4:Voting House, Sirmans","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,91
+Madison,"4:Voting House, Sirmans","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,"4:Voting House, Sirmans","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,19
+Madison,"4:Voting House, Sirmans",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,148
+Madison,"4:Voting House, Sirmans",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,126
+Madison,"4:Voting House, Sirmans",Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,21
+Madison,"4:Voting House, Sirmans",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,147
+Madison,"4:Voting House, Sirmans",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,129
+Madison,"4:Voting House, Sirmans",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Madison,"4:Voting House, Sirmans",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,100
+Madison,"4:Voting House, Sirmans",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,172
+Madison,"4:Voting House, Sirmans",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,23
+Madison,"4:Voting House, Sirmans",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,177
+Madison,"4:Voting House, Sirmans",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,95
+Madison,"4:Voting House, Sirmans",Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,23
+Madison,"4:Voting House, Sirmans",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,127
+Madison,"4:Voting House, Sirmans",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,134
+Madison,"4:Voting House, Sirmans",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,34
+Madison,"4:Voting House, Sirmans",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,167
+Madison,"4:Voting House, Sirmans",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,100
+Madison,"4:Voting House, Sirmans",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,28
+Madison,"4:Voting House, Sirmans",Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,79
+Madison,"4:Voting House, Sirmans",Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,201
+Madison,"4:Voting House, Sirmans",Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,"4:Voting House, Sirmans",Amendment No. 13: Ends Dog Racing,"","",UnderVotes,15
+Madison,5:Senior Citizens Building,U.S. Senate,"",REP,Rick Scott,282
+Madison,5:Senior Citizens Building,U.S. Senate,"",DEM,Bill Nelson,492
+Madison,5:Senior Citizens Building,U.S. Senate,"","",WriteinVotes,0
+Madison,5:Senior Citizens Building,U.S. Senate,"","",OverVotes,1
+Madison,5:Senior Citizens Building,U.S. Senate,"","",UnderVotes,5
+Madison,5:Senior Citizens Building,U.S. House,5,REP,Virginia Fuller,260
+Madison,5:Senior Citizens Building,U.S. House,5,DEM,Al Lawson,502
+Madison,5:Senior Citizens Building,U.S. House,5,"",OverVotes,0
+Madison,5:Senior Citizens Building,U.S. House,5,"",UnderVotes,18
+Madison,5:Senior Citizens Building,Governor,"",REP,DeSantis / Nuñez,290
+Madison,5:Senior Citizens Building,Governor,"",DEM,Gillum / King,478
+Madison,5:Senior Citizens Building,Governor,"",REF,Richardson / Argenziano,3
+Madison,5:Senior Citizens Building,Governor,"",NPA,Gibson / Wilds,1
+Madison,5:Senior Citizens Building,Governor,"",NPA,Foley / Tutton,2
+Madison,5:Senior Citizens Building,Governor,"",NPA,Stanley / McJury,2
+Madison,5:Senior Citizens Building,Governor,"","",WriteinVotes,0
+Madison,5:Senior Citizens Building,Governor,"","",OverVotes,1
+Madison,5:Senior Citizens Building,Governor,"","",UnderVotes,3
+Madison,5:Senior Citizens Building,Attorney General,"",REP,Ashley Moody,308
+Madison,5:Senior Citizens Building,Attorney General,"",DEM,Sean Shaw,455
+Madison,5:Senior Citizens Building,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Madison,5:Senior Citizens Building,Attorney General,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Attorney General,"","",UnderVotes,9
+Madison,5:Senior Citizens Building,Chief Financial Officer,"",REP,Jimmy Patronis,294
+Madison,5:Senior Citizens Building,Chief Financial Officer,"",DEM,Jeremy Ring,465
+Madison,5:Senior Citizens Building,Chief Financial Officer,"","",WriteinVotes,0
+Madison,5:Senior Citizens Building,Chief Financial Officer,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Chief Financial Officer,"","",UnderVotes,21
+Madison,5:Senior Citizens Building,Commissioner of Agriculture,"",REP,Matt Caldwell,305
+Madison,5:Senior Citizens Building,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",455
+Madison,5:Senior Citizens Building,Commissioner of Agriculture,"","",OverVotes,1
+Madison,5:Senior Citizens Building,Commissioner of Agriculture,"","",UnderVotes,19
+Madison,5:Senior Citizens Building,Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,281
+Madison,5:Senior Citizens Building,Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,390
+Madison,5:Senior Citizens Building,Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,5:Senior Citizens Building,Madison Soil and Water Conservation District,Group 2,"",UnderVotes,109
+Madison,5:Senior Citizens Building,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,498
+Madison,5:Senior Citizens Building,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,224
+Madison,5:Senior Citizens Building,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Madison,5:Senior Citizens Building,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,57
+Madison,5:Senior Citizens Building,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,442
+Madison,5:Senior Citizens Building,Retention of Harvey Jay,First District Court of Appeal,NOP,No,267
+Madison,5:Senior Citizens Building,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,5:Senior Citizens Building,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,71
+Madison,5:Senior Citizens Building,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,447
+Madison,5:Senior Citizens Building,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,243
+Madison,5:Senior Citizens Building,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,5:Senior Citizens Building,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,90
+Madison,5:Senior Citizens Building,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,448
+Madison,5:Senior Citizens Building,Retention of Brad Thomas,First District Court of Appeal,NOP,No,257
+Madison,5:Senior Citizens Building,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,5:Senior Citizens Building,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,75
+Madison,5:Senior Citizens Building,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,429
+Madison,5:Senior Citizens Building,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,268
+Madison,5:Senior Citizens Building,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Madison,5:Senior Citizens Building,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,82
+Madison,5:Senior Citizens Building,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,425
+Madison,5:Senior Citizens Building,Retention of Allen Winsor,First District Court of Appeal,NOP,No,269
+Madison,5:Senior Citizens Building,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,5:Senior Citizens Building,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,86
+Madison,5:Senior Citizens Building,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,309
+Madison,5:Senior Citizens Building,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,440
+Madison,5:Senior Citizens Building,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Madison,5:Senior Citizens Building,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,30
+Madison,5:Senior Citizens Building,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,468
+Madison,5:Senior Citizens Building,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,283
+Madison,5:Senior Citizens Building,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,29
+Madison,5:Senior Citizens Building,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,544
+Madison,5:Senior Citizens Building,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,211
+Madison,5:Senior Citizens Building,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,25
+Madison,5:Senior Citizens Building,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,507
+Madison,5:Senior Citizens Building,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,252
+Madison,5:Senior Citizens Building,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,21
+Madison,5:Senior Citizens Building,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,419
+Madison,5:Senior Citizens Building,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,319
+Madison,5:Senior Citizens Building,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,5:Senior Citizens Building,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,42
+Madison,5:Senior Citizens Building,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,460
+Madison,5:Senior Citizens Building,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,282
+Madison,5:Senior Citizens Building,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,38
+Madison,5:Senior Citizens Building,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,490
+Madison,5:Senior Citizens Building,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,248
+Madison,5:Senior Citizens Building,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,42
+Madison,5:Senior Citizens Building,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,448
+Madison,5:Senior Citizens Building,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,285
+Madison,5:Senior Citizens Building,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,47
+Madison,5:Senior Citizens Building,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,454
+Madison,5:Senior Citizens Building,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,274
+Madison,5:Senior Citizens Building,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Madison,5:Senior Citizens Building,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,51
+Madison,5:Senior Citizens Building,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,425
+Madison,5:Senior Citizens Building,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,300
+Madison,5:Senior Citizens Building,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,55
+Madison,5:Senior Citizens Building,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,478
+Madison,5:Senior Citizens Building,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,253
+Madison,5:Senior Citizens Building,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,5:Senior Citizens Building,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,49
+Madison,5:Senior Citizens Building,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,337
+Madison,5:Senior Citizens Building,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,403
+Madison,5:Senior Citizens Building,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Madison,5:Senior Citizens Building,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,39
+Madison,6:Hamburg Vol. Fire Station,U.S. Senate,"",REP,Rick Scott,141
+Madison,6:Hamburg Vol. Fire Station,U.S. Senate,"",DEM,Bill Nelson,49
+Madison,6:Hamburg Vol. Fire Station,U.S. Senate,"","",WriteinVotes,1
+Madison,6:Hamburg Vol. Fire Station,U.S. Senate,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,U.S. Senate,"","",UnderVotes,0
+Madison,6:Hamburg Vol. Fire Station,U.S. House,5,REP,Virginia Fuller,134
+Madison,6:Hamburg Vol. Fire Station,U.S. House,5,DEM,Al Lawson,54
+Madison,6:Hamburg Vol. Fire Station,U.S. House,5,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,U.S. House,5,"",UnderVotes,3
+Madison,6:Hamburg Vol. Fire Station,Governor,"",REP,DeSantis / Nuñez,141
+Madison,6:Hamburg Vol. Fire Station,Governor,"",DEM,Gillum / King,48
+Madison,6:Hamburg Vol. Fire Station,Governor,"",REF,Richardson / Argenziano,1
+Madison,6:Hamburg Vol. Fire Station,Governor,"",NPA,Gibson / Wilds,0
+Madison,6:Hamburg Vol. Fire Station,Governor,"",NPA,Foley / Tutton,1
+Madison,6:Hamburg Vol. Fire Station,Governor,"",NPA,Stanley / McJury,0
+Madison,6:Hamburg Vol. Fire Station,Governor,"","",WriteinVotes,0
+Madison,6:Hamburg Vol. Fire Station,Governor,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Governor,"","",UnderVotes,0
+Madison,6:Hamburg Vol. Fire Station,Attorney General,"",REP,Ashley Moody,143
+Madison,6:Hamburg Vol. Fire Station,Attorney General,"",DEM,Sean Shaw,41
+Madison,6:Hamburg Vol. Fire Station,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Madison,6:Hamburg Vol. Fire Station,Attorney General,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Attorney General,"","",UnderVotes,2
+Madison,6:Hamburg Vol. Fire Station,Chief Financial Officer,"",REP,Jimmy Patronis,139
+Madison,6:Hamburg Vol. Fire Station,Chief Financial Officer,"",DEM,Jeremy Ring,45
+Madison,6:Hamburg Vol. Fire Station,Chief Financial Officer,"","",WriteinVotes,1
+Madison,6:Hamburg Vol. Fire Station,Chief Financial Officer,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Chief Financial Officer,"","",UnderVotes,6
+Madison,6:Hamburg Vol. Fire Station,Commissioner of Agriculture,"",REP,Matt Caldwell,138
+Madison,6:Hamburg Vol. Fire Station,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",49
+Madison,6:Hamburg Vol. Fire Station,Commissioner of Agriculture,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Commissioner of Agriculture,"","",UnderVotes,4
+Madison,6:Hamburg Vol. Fire Station,Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,71
+Madison,6:Hamburg Vol. Fire Station,Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,90
+Madison,6:Hamburg Vol. Fire Station,Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Madison Soil and Water Conservation District,Group 2,"",UnderVotes,30
+Madison,6:Hamburg Vol. Fire Station,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,90
+Madison,6:Hamburg Vol. Fire Station,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,79
+Madison,6:Hamburg Vol. Fire Station,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,22
+Madison,6:Hamburg Vol. Fire Station,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,89
+Madison,6:Hamburg Vol. Fire Station,Retention of Harvey Jay,First District Court of Appeal,NOP,No,76
+Madison,6:Hamburg Vol. Fire Station,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,26
+Madison,6:Hamburg Vol. Fire Station,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,95
+Madison,6:Hamburg Vol. Fire Station,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,68
+Madison,6:Hamburg Vol. Fire Station,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,28
+Madison,6:Hamburg Vol. Fire Station,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,94
+Madison,6:Hamburg Vol. Fire Station,Retention of Brad Thomas,First District Court of Appeal,NOP,No,71
+Madison,6:Hamburg Vol. Fire Station,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,26
+Madison,6:Hamburg Vol. Fire Station,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,90
+Madison,6:Hamburg Vol. Fire Station,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,76
+Madison,6:Hamburg Vol. Fire Station,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,25
+Madison,6:Hamburg Vol. Fire Station,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,87
+Madison,6:Hamburg Vol. Fire Station,Retention of Allen Winsor,First District Court of Appeal,NOP,No,77
+Madison,6:Hamburg Vol. Fire Station,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,27
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,76
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,105
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,9
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,115
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,69
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,7
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,120
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,64
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,83
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,103
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,5
+Madison,6:Hamburg Vol. Fire Station,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,100
+Madison,6:Hamburg Vol. Fire Station,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,80
+Madison,6:Hamburg Vol. Fire Station,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,11
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,99
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,80
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,12
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,102
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,73
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,16
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,89
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,89
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,13
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,100
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,75
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,16
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,84
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,93
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,14
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,98
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,80
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,13
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,76
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,109
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,6:Hamburg Vol. Fire Station,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,6
+Madison,"7:Voting House, Crossroads",U.S. Senate,"",REP,Rick Scott,519
+Madison,"7:Voting House, Crossroads",U.S. Senate,"",DEM,Bill Nelson,270
+Madison,"7:Voting House, Crossroads",U.S. Senate,"","",WriteinVotes,2
+Madison,"7:Voting House, Crossroads",U.S. Senate,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",U.S. Senate,"","",UnderVotes,7
+Madison,"7:Voting House, Crossroads",U.S. House,5,REP,Virginia Fuller,521
+Madison,"7:Voting House, Crossroads",U.S. House,5,DEM,Al Lawson,261
+Madison,"7:Voting House, Crossroads",U.S. House,5,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",U.S. House,5,"",UnderVotes,16
+Madison,"7:Voting House, Crossroads",Governor,"",REP,DeSantis / Nuñez,562
+Madison,"7:Voting House, Crossroads",Governor,"",DEM,Gillum / King,224
+Madison,"7:Voting House, Crossroads",Governor,"",REF,Richardson / Argenziano,1
+Madison,"7:Voting House, Crossroads",Governor,"",NPA,Gibson / Wilds,2
+Madison,"7:Voting House, Crossroads",Governor,"",NPA,Foley / Tutton,1
+Madison,"7:Voting House, Crossroads",Governor,"",NPA,Stanley / McJury,1
+Madison,"7:Voting House, Crossroads",Governor,"","",WriteinVotes,1
+Madison,"7:Voting House, Crossroads",Governor,"","",OverVotes,1
+Madison,"7:Voting House, Crossroads",Governor,"","",UnderVotes,5
+Madison,"7:Voting House, Crossroads",Attorney General,"",REP,Ashley Moody,560
+Madison,"7:Voting House, Crossroads",Attorney General,"",DEM,Sean Shaw,222
+Madison,"7:Voting House, Crossroads",Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Madison,"7:Voting House, Crossroads",Attorney General,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Attorney General,"","",UnderVotes,12
+Madison,"7:Voting House, Crossroads",Chief Financial Officer,"",REP,Jimmy Patronis,539
+Madison,"7:Voting House, Crossroads",Chief Financial Officer,"",DEM,Jeremy Ring,235
+Madison,"7:Voting House, Crossroads",Chief Financial Officer,"","",WriteinVotes,1
+Madison,"7:Voting House, Crossroads",Chief Financial Officer,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Chief Financial Officer,"","",UnderVotes,23
+Madison,"7:Voting House, Crossroads",Commissioner of Agriculture,"",REP,Matt Caldwell,549
+Madison,"7:Voting House, Crossroads",Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",230
+Madison,"7:Voting House, Crossroads",Commissioner of Agriculture,"","",OverVotes,2
+Madison,"7:Voting House, Crossroads",Commissioner of Agriculture,"","",UnderVotes,17
+Madison,"7:Voting House, Crossroads",Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,241
+Madison,"7:Voting House, Crossroads",Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,458
+Madison,"7:Voting House, Crossroads",Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",Madison Soil and Water Conservation District,Group 2,"",UnderVotes,99
+Madison,"7:Voting House, Crossroads",Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,474
+Madison,"7:Voting House, Crossroads",Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,245
+Madison,"7:Voting House, Crossroads",Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,79
+Madison,"7:Voting House, Crossroads",Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,471
+Madison,"7:Voting House, Crossroads",Retention of Harvey Jay,First District Court of Appeal,NOP,No,226
+Madison,"7:Voting House, Crossroads",Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,101
+Madison,"7:Voting House, Crossroads",Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,472
+Madison,"7:Voting House, Crossroads",Retention of Stephanie Ray,First District Court of Appeal,NOP,No,209
+Madison,"7:Voting House, Crossroads",Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,117
+Madison,"7:Voting House, Crossroads",Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,462
+Madison,"7:Voting House, Crossroads",Retention of Brad Thomas,First District Court of Appeal,NOP,No,228
+Madison,"7:Voting House, Crossroads",Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,108
+Madison,"7:Voting House, Crossroads",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,465
+Madison,"7:Voting House, Crossroads",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,226
+Madison,"7:Voting House, Crossroads",Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,107
+Madison,"7:Voting House, Crossroads",Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,457
+Madison,"7:Voting House, Crossroads",Retention of Allen Winsor,First District Court of Appeal,NOP,No,231
+Madison,"7:Voting House, Crossroads",Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,"7:Voting House, Crossroads",Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,110
+Madison,"7:Voting House, Crossroads",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,413
+Madison,"7:Voting House, Crossroads",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,349
+Madison,"7:Voting House, Crossroads",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,36
+Madison,"7:Voting House, Crossroads",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,530
+Madison,"7:Voting House, Crossroads",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,234
+Madison,"7:Voting House, Crossroads",Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,34
+Madison,"7:Voting House, Crossroads",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,522
+Madison,"7:Voting House, Crossroads",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,253
+Madison,"7:Voting House, Crossroads",Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Madison,"7:Voting House, Crossroads",Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,22
+Madison,"7:Voting House, Crossroads",Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,373
+Madison,"7:Voting House, Crossroads",Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,401
+Madison,"7:Voting House, Crossroads",Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,24
+Madison,"7:Voting House, Crossroads","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,482
+Madison,"7:Voting House, Crossroads","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,262
+Madison,"7:Voting House, Crossroads","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,"7:Voting House, Crossroads","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,54
+Madison,"7:Voting House, Crossroads",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,441
+Madison,"7:Voting House, Crossroads",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,309
+Madison,"7:Voting House, Crossroads",Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,48
+Madison,"7:Voting House, Crossroads",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,452
+Madison,"7:Voting House, Crossroads",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,286
+Madison,"7:Voting House, Crossroads",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,60
+Madison,"7:Voting House, Crossroads",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,400
+Madison,"7:Voting House, Crossroads",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,348
+Madison,"7:Voting House, Crossroads",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,50
+Madison,"7:Voting House, Crossroads",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,458
+Madison,"7:Voting House, Crossroads",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,278
+Madison,"7:Voting House, Crossroads",Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,62
+Madison,"7:Voting House, Crossroads",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,409
+Madison,"7:Voting House, Crossroads",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,309
+Madison,"7:Voting House, Crossroads",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,80
+Madison,"7:Voting House, Crossroads",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,483
+Madison,"7:Voting House, Crossroads",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,254
+Madison,"7:Voting House, Crossroads",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,"7:Voting House, Crossroads",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,61
+Madison,"7:Voting House, Crossroads",Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,294
+Madison,"7:Voting House, Crossroads",Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,461
+Madison,"7:Voting House, Crossroads",Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Madison,"7:Voting House, Crossroads",Amendment No. 13: Ends Dog Racing,"","",UnderVotes,42
+Madison,8:Pinetta Vol. Fire Dept,U.S. Senate,"",REP,Rick Scott,509
+Madison,8:Pinetta Vol. Fire Dept,U.S. Senate,"",DEM,Bill Nelson,203
+Madison,8:Pinetta Vol. Fire Dept,U.S. Senate,"","",WriteinVotes,3
+Madison,8:Pinetta Vol. Fire Dept,U.S. Senate,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,U.S. Senate,"","",UnderVotes,7
+Madison,8:Pinetta Vol. Fire Dept,U.S. House,5,REP,Virginia Fuller,501
+Madison,8:Pinetta Vol. Fire Dept,U.S. House,5,DEM,Al Lawson,209
+Madison,8:Pinetta Vol. Fire Dept,U.S. House,5,"",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,U.S. House,5,"",UnderVotes,12
+Madison,8:Pinetta Vol. Fire Dept,Governor,"",REP,DeSantis / Nuñez,532
+Madison,8:Pinetta Vol. Fire Dept,Governor,"",DEM,Gillum / King,182
+Madison,8:Pinetta Vol. Fire Dept,Governor,"",REF,Richardson / Argenziano,3
+Madison,8:Pinetta Vol. Fire Dept,Governor,"",NPA,Gibson / Wilds,0
+Madison,8:Pinetta Vol. Fire Dept,Governor,"",NPA,Foley / Tutton,0
+Madison,8:Pinetta Vol. Fire Dept,Governor,"",NPA,Stanley / McJury,0
+Madison,8:Pinetta Vol. Fire Dept,Governor,"","",WriteinVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Governor,"","",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,Governor,"","",UnderVotes,4
+Madison,8:Pinetta Vol. Fire Dept,Attorney General,"",REP,Ashley Moody,532
+Madison,8:Pinetta Vol. Fire Dept,Attorney General,"",DEM,Sean Shaw,171
+Madison,8:Pinetta Vol. Fire Dept,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Madison,8:Pinetta Vol. Fire Dept,Attorney General,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Attorney General,"","",UnderVotes,11
+Madison,8:Pinetta Vol. Fire Dept,Chief Financial Officer,"",REP,Jimmy Patronis,523
+Madison,8:Pinetta Vol. Fire Dept,Chief Financial Officer,"",DEM,Jeremy Ring,186
+Madison,8:Pinetta Vol. Fire Dept,Chief Financial Officer,"","",WriteinVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Chief Financial Officer,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Chief Financial Officer,"","",UnderVotes,13
+Madison,8:Pinetta Vol. Fire Dept,Commissioner of Agriculture,"",REP,Matt Caldwell,528
+Madison,8:Pinetta Vol. Fire Dept,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",182
+Madison,8:Pinetta Vol. Fire Dept,Commissioner of Agriculture,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Commissioner of Agriculture,"","",UnderVotes,12
+Madison,8:Pinetta Vol. Fire Dept,Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,246
+Madison,8:Pinetta Vol. Fire Dept,Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,392
+Madison,8:Pinetta Vol. Fire Dept,Madison Soil and Water Conservation District,Group 2,"",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,Madison Soil and Water Conservation District,Group 2,"",UnderVotes,83
+Madison,8:Pinetta Vol. Fire Dept,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,417
+Madison,8:Pinetta Vol. Fire Dept,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,233
+Madison,8:Pinetta Vol. Fire Dept,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,72
+Madison,8:Pinetta Vol. Fire Dept,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,422
+Madison,8:Pinetta Vol. Fire Dept,Retention of Harvey Jay,First District Court of Appeal,NOP,No,217
+Madison,8:Pinetta Vol. Fire Dept,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,2
+Madison,8:Pinetta Vol. Fire Dept,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,81
+Madison,8:Pinetta Vol. Fire Dept,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,416
+Madison,8:Pinetta Vol. Fire Dept,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,218
+Madison,8:Pinetta Vol. Fire Dept,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,88
+Madison,8:Pinetta Vol. Fire Dept,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,419
+Madison,8:Pinetta Vol. Fire Dept,Retention of Brad Thomas,First District Court of Appeal,NOP,No,216
+Madison,8:Pinetta Vol. Fire Dept,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,87
+Madison,8:Pinetta Vol. Fire Dept,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,406
+Madison,8:Pinetta Vol. Fire Dept,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,227
+Madison,8:Pinetta Vol. Fire Dept,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,89
+Madison,8:Pinetta Vol. Fire Dept,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,410
+Madison,8:Pinetta Vol. Fire Dept,Retention of Allen Winsor,First District Court of Appeal,NOP,No,214
+Madison,8:Pinetta Vol. Fire Dept,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,98
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,381
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,312
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,28
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,489
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,207
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,25
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,492
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,212
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,17
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,328
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,376
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,17
+Madison,8:Pinetta Vol. Fire Dept,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,473
+Madison,8:Pinetta Vol. Fire Dept,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,212
+Madison,8:Pinetta Vol. Fire Dept,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,36
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,429
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,259
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,34
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,451
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,231
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,39
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,350
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,336
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,36
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,470
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,209
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,43
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,399
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,274
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,49
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,454
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,227
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,41
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,280
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,411
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,8:Pinetta Vol. Fire Dept,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,31
+Madison,"9:Recycling Center, Lamont",U.S. Senate,"",REP,Rick Scott,95
+Madison,"9:Recycling Center, Lamont",U.S. Senate,"",DEM,Bill Nelson,87
+Madison,"9:Recycling Center, Lamont",U.S. Senate,"","",WriteinVotes,0
+Madison,"9:Recycling Center, Lamont",U.S. Senate,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",U.S. Senate,"","",UnderVotes,3
+Madison,"9:Recycling Center, Lamont",U.S. House,5,REP,Virginia Fuller,92
+Madison,"9:Recycling Center, Lamont",U.S. House,5,DEM,Al Lawson,88
+Madison,"9:Recycling Center, Lamont",U.S. House,5,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",U.S. House,5,"",UnderVotes,5
+Madison,"9:Recycling Center, Lamont",Governor,"",REP,DeSantis / Nuñez,96
+Madison,"9:Recycling Center, Lamont",Governor,"",DEM,Gillum / King,86
+Madison,"9:Recycling Center, Lamont",Governor,"",REF,Richardson / Argenziano,1
+Madison,"9:Recycling Center, Lamont",Governor,"",NPA,Gibson / Wilds,1
+Madison,"9:Recycling Center, Lamont",Governor,"",NPA,Foley / Tutton,0
+Madison,"9:Recycling Center, Lamont",Governor,"",NPA,Stanley / McJury,0
+Madison,"9:Recycling Center, Lamont",Governor,"","",WriteinVotes,0
+Madison,"9:Recycling Center, Lamont",Governor,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Governor,"","",UnderVotes,1
+Madison,"9:Recycling Center, Lamont",Attorney General,"",REP,Ashley Moody,97
+Madison,"9:Recycling Center, Lamont",Attorney General,"",DEM,Sean Shaw,80
+Madison,"9:Recycling Center, Lamont",Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Madison,"9:Recycling Center, Lamont",Attorney General,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Attorney General,"","",UnderVotes,5
+Madison,"9:Recycling Center, Lamont",Chief Financial Officer,"",REP,Jimmy Patronis,94
+Madison,"9:Recycling Center, Lamont",Chief Financial Officer,"",DEM,Jeremy Ring,83
+Madison,"9:Recycling Center, Lamont",Chief Financial Officer,"","",WriteinVotes,0
+Madison,"9:Recycling Center, Lamont",Chief Financial Officer,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Chief Financial Officer,"","",UnderVotes,8
+Madison,"9:Recycling Center, Lamont",Commissioner of Agriculture,"",REP,Matt Caldwell,99
+Madison,"9:Recycling Center, Lamont",Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",76
+Madison,"9:Recycling Center, Lamont",Commissioner of Agriculture,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Commissioner of Agriculture,"","",UnderVotes,10
+Madison,"9:Recycling Center, Lamont",Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,74
+Madison,"9:Recycling Center, Lamont",Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,68
+Madison,"9:Recycling Center, Lamont",Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Madison Soil and Water Conservation District,Group 2,"",UnderVotes,43
+Madison,"9:Recycling Center, Lamont",Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,109
+Madison,"9:Recycling Center, Lamont",Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,49
+Madison,"9:Recycling Center, Lamont",Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,27
+Madison,"9:Recycling Center, Lamont",Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,94
+Madison,"9:Recycling Center, Lamont",Retention of Harvey Jay,First District Court of Appeal,NOP,No,61
+Madison,"9:Recycling Center, Lamont",Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,30
+Madison,"9:Recycling Center, Lamont",Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,98
+Madison,"9:Recycling Center, Lamont",Retention of Stephanie Ray,First District Court of Appeal,NOP,No,53
+Madison,"9:Recycling Center, Lamont",Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,34
+Madison,"9:Recycling Center, Lamont",Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,98
+Madison,"9:Recycling Center, Lamont",Retention of Brad Thomas,First District Court of Appeal,NOP,No,59
+Madison,"9:Recycling Center, Lamont",Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,28
+Madison,"9:Recycling Center, Lamont",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,90
+Madison,"9:Recycling Center, Lamont",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,62
+Madison,"9:Recycling Center, Lamont",Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,33
+Madison,"9:Recycling Center, Lamont",Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,92
+Madison,"9:Recycling Center, Lamont",Retention of Allen Winsor,First District Court of Appeal,NOP,No,59
+Madison,"9:Recycling Center, Lamont",Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,34
+Madison,"9:Recycling Center, Lamont",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,89
+Madison,"9:Recycling Center, Lamont",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,85
+Madison,"9:Recycling Center, Lamont",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Madison,"9:Recycling Center, Lamont",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,110
+Madison,"9:Recycling Center, Lamont",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,61
+Madison,"9:Recycling Center, Lamont",Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,14
+Madison,"9:Recycling Center, Lamont",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,115
+Madison,"9:Recycling Center, Lamont",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,56
+Madison,"9:Recycling Center, Lamont",Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,14
+Madison,"9:Recycling Center, Lamont",Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,98
+Madison,"9:Recycling Center, Lamont",Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,71
+Madison,"9:Recycling Center, Lamont",Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,16
+Madison,"9:Recycling Center, Lamont","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,102
+Madison,"9:Recycling Center, Lamont","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,66
+Madison,"9:Recycling Center, Lamont","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,"9:Recycling Center, Lamont","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,17
+Madison,"9:Recycling Center, Lamont",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,92
+Madison,"9:Recycling Center, Lamont",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,77
+Madison,"9:Recycling Center, Lamont",Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,16
+Madison,"9:Recycling Center, Lamont",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,96
+Madison,"9:Recycling Center, Lamont",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,69
+Madison,"9:Recycling Center, Lamont",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,20
+Madison,"9:Recycling Center, Lamont",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,91
+Madison,"9:Recycling Center, Lamont",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,75
+Madison,"9:Recycling Center, Lamont",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,19
+Madison,"9:Recycling Center, Lamont",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,95
+Madison,"9:Recycling Center, Lamont",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,66
+Madison,"9:Recycling Center, Lamont",Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Madison,"9:Recycling Center, Lamont",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,83
+Madison,"9:Recycling Center, Lamont",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,75
+Madison,"9:Recycling Center, Lamont",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,27
+Madison,"9:Recycling Center, Lamont",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,96
+Madison,"9:Recycling Center, Lamont",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,68
+Madison,"9:Recycling Center, Lamont",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Madison,"9:Recycling Center, Lamont",Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,69
+Madison,"9:Recycling Center, Lamont",Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,98
+Madison,"9:Recycling Center, Lamont",Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,"9:Recycling Center, Lamont",Amendment No. 13: Ends Dog Racing,"","",UnderVotes,18
+Madison,10:Board Room Madison County Annex,U.S. Senate,"",REP,Rick Scott,391
+Madison,10:Board Room Madison County Annex,U.S. Senate,"",DEM,Bill Nelson,600
+Madison,10:Board Room Madison County Annex,U.S. Senate,"","",WriteinVotes,3
+Madison,10:Board Room Madison County Annex,U.S. Senate,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,U.S. Senate,"","",UnderVotes,8
+Madison,10:Board Room Madison County Annex,U.S. House,5,REP,Virginia Fuller,378
+Madison,10:Board Room Madison County Annex,U.S. House,5,DEM,Al Lawson,609
+Madison,10:Board Room Madison County Annex,U.S. House,5,"",OverVotes,0
+Madison,10:Board Room Madison County Annex,U.S. House,5,"",UnderVotes,15
+Madison,10:Board Room Madison County Annex,Governor,"",REP,DeSantis / Nuñez,393
+Madison,10:Board Room Madison County Annex,Governor,"",DEM,Gillum / King,596
+Madison,10:Board Room Madison County Annex,Governor,"",REF,Richardson / Argenziano,2
+Madison,10:Board Room Madison County Annex,Governor,"",NPA,Gibson / Wilds,0
+Madison,10:Board Room Madison County Annex,Governor,"",NPA,Foley / Tutton,2
+Madison,10:Board Room Madison County Annex,Governor,"",NPA,Stanley / McJury,0
+Madison,10:Board Room Madison County Annex,Governor,"","",WriteinVotes,0
+Madison,10:Board Room Madison County Annex,Governor,"","",OverVotes,4
+Madison,10:Board Room Madison County Annex,Governor,"","",UnderVotes,5
+Madison,10:Board Room Madison County Annex,Attorney General,"",REP,Ashley Moody,403
+Madison,10:Board Room Madison County Annex,Attorney General,"",DEM,Sean Shaw,578
+Madison,10:Board Room Madison County Annex,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Madison,10:Board Room Madison County Annex,Attorney General,"","",OverVotes,1
+Madison,10:Board Room Madison County Annex,Attorney General,"","",UnderVotes,17
+Madison,10:Board Room Madison County Annex,Chief Financial Officer,"",REP,Jimmy Patronis,392
+Madison,10:Board Room Madison County Annex,Chief Financial Officer,"",DEM,Jeremy Ring,580
+Madison,10:Board Room Madison County Annex,Chief Financial Officer,"","",WriteinVotes,0
+Madison,10:Board Room Madison County Annex,Chief Financial Officer,"","",OverVotes,1
+Madison,10:Board Room Madison County Annex,Chief Financial Officer,"","",UnderVotes,29
+Madison,10:Board Room Madison County Annex,Commissioner of Agriculture,"",REP,Matt Caldwell,389
+Madison,10:Board Room Madison County Annex,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",582
+Madison,10:Board Room Madison County Annex,Commissioner of Agriculture,"","",OverVotes,1
+Madison,10:Board Room Madison County Annex,Commissioner of Agriculture,"","",UnderVotes,30
+Madison,10:Board Room Madison County Annex,Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,398
+Madison,10:Board Room Madison County Annex,Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,501
+Madison,10:Board Room Madison County Annex,Madison Soil and Water Conservation District,Group 2,"",OverVotes,2
+Madison,10:Board Room Madison County Annex,Madison Soil and Water Conservation District,Group 2,"",UnderVotes,101
+Madison,10:Board Room Madison County Annex,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,669
+Madison,10:Board Room Madison County Annex,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,252
+Madison,10:Board Room Madison County Annex,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Madison,10:Board Room Madison County Annex,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,79
+Madison,10:Board Room Madison County Annex,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,621
+Madison,10:Board Room Madison County Annex,Retention of Harvey Jay,First District Court of Appeal,NOP,No,299
+Madison,10:Board Room Madison County Annex,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Madison,10:Board Room Madison County Annex,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,81
+Madison,10:Board Room Madison County Annex,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,598
+Madison,10:Board Room Madison County Annex,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,295
+Madison,10:Board Room Madison County Annex,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,10:Board Room Madison County Annex,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,109
+Madison,10:Board Room Madison County Annex,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,625
+Madison,10:Board Room Madison County Annex,Retention of Brad Thomas,First District Court of Appeal,NOP,No,289
+Madison,10:Board Room Madison County Annex,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,10:Board Room Madison County Annex,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,88
+Madison,10:Board Room Madison County Annex,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,610
+Madison,10:Board Room Madison County Annex,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,297
+Madison,10:Board Room Madison County Annex,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Madison,10:Board Room Madison County Annex,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,94
+Madison,10:Board Room Madison County Annex,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,594
+Madison,10:Board Room Madison County Annex,Retention of Allen Winsor,First District Court of Appeal,NOP,No,313
+Madison,10:Board Room Madison County Annex,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,10:Board Room Madison County Annex,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,95
+Madison,10:Board Room Madison County Annex,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,388
+Madison,10:Board Room Madison County Annex,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,571
+Madison,10:Board Room Madison County Annex,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,43
+Madison,10:Board Room Madison County Annex,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,569
+Madison,10:Board Room Madison County Annex,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,394
+Madison,10:Board Room Madison County Annex,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,39
+Madison,10:Board Room Madison County Annex,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,691
+Madison,10:Board Room Madison County Annex,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,269
+Madison,10:Board Room Madison County Annex,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,42
+Madison,10:Board Room Madison County Annex,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,660
+Madison,10:Board Room Madison County Annex,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,316
+Madison,10:Board Room Madison County Annex,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,26
+Madison,10:Board Room Madison County Annex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,499
+Madison,10:Board Room Madison County Annex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,467
+Madison,10:Board Room Madison County Annex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,10:Board Room Madison County Annex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,36
+Madison,10:Board Room Madison County Annex,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,525
+Madison,10:Board Room Madison County Annex,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,441
+Madison,10:Board Room Madison County Annex,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Madison,10:Board Room Madison County Annex,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,35
+Madison,10:Board Room Madison County Annex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,595
+Madison,10:Board Room Madison County Annex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,361
+Madison,10:Board Room Madison County Annex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,46
+Madison,10:Board Room Madison County Annex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,583
+Madison,10:Board Room Madison County Annex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,375
+Madison,10:Board Room Madison County Annex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Madison,10:Board Room Madison County Annex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,42
+Madison,10:Board Room Madison County Annex,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,562
+Madison,10:Board Room Madison County Annex,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,394
+Madison,10:Board Room Madison County Annex,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,46
+Madison,10:Board Room Madison County Annex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,496
+Madison,10:Board Room Madison County Annex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,453
+Madison,10:Board Room Madison County Annex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Madison,10:Board Room Madison County Annex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,52
+Madison,10:Board Room Madison County Annex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,567
+Madison,10:Board Room Madison County Annex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,391
+Madison,10:Board Room Madison County Annex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,44
+Madison,10:Board Room Madison County Annex,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,495
+Madison,10:Board Room Madison County Annex,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,474
+Madison,10:Board Room Madison County Annex,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,10:Board Room Madison County Annex,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,33
+Madison,"11:Voting House, Bunker St.",U.S. Senate,"",REP,Rick Scott,225
+Madison,"11:Voting House, Bunker St.",U.S. Senate,"",DEM,Bill Nelson,452
+Madison,"11:Voting House, Bunker St.",U.S. Senate,"","",WriteinVotes,2
+Madison,"11:Voting House, Bunker St.",U.S. Senate,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",U.S. Senate,"","",UnderVotes,5
+Madison,"11:Voting House, Bunker St.",U.S. House,5,REP,Virginia Fuller,220
+Madison,"11:Voting House, Bunker St.",U.S. House,5,DEM,Al Lawson,457
+Madison,"11:Voting House, Bunker St.",U.S. House,5,"",OverVotes,0
+Madison,"11:Voting House, Bunker St.",U.S. House,5,"",UnderVotes,7
+Madison,"11:Voting House, Bunker St.",Governor,"",REP,DeSantis / Nuñez,235
+Madison,"11:Voting House, Bunker St.",Governor,"",DEM,Gillum / King,442
+Madison,"11:Voting House, Bunker St.",Governor,"",REF,Richardson / Argenziano,1
+Madison,"11:Voting House, Bunker St.",Governor,"",NPA,Gibson / Wilds,2
+Madison,"11:Voting House, Bunker St.",Governor,"",NPA,Foley / Tutton,1
+Madison,"11:Voting House, Bunker St.",Governor,"",NPA,Stanley / McJury,0
+Madison,"11:Voting House, Bunker St.",Governor,"","",WriteinVotes,1
+Madison,"11:Voting House, Bunker St.",Governor,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Governor,"","",UnderVotes,2
+Madison,"11:Voting House, Bunker St.",Attorney General,"",REP,Ashley Moody,247
+Madison,"11:Voting House, Bunker St.",Attorney General,"",DEM,Sean Shaw,419
+Madison,"11:Voting House, Bunker St.",Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Madison,"11:Voting House, Bunker St.",Attorney General,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Attorney General,"","",UnderVotes,13
+Madison,"11:Voting House, Bunker St.",Chief Financial Officer,"",REP,Jimmy Patronis,240
+Madison,"11:Voting House, Bunker St.",Chief Financial Officer,"",DEM,Jeremy Ring,430
+Madison,"11:Voting House, Bunker St.",Chief Financial Officer,"","",WriteinVotes,0
+Madison,"11:Voting House, Bunker St.",Chief Financial Officer,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Chief Financial Officer,"","",UnderVotes,14
+Madison,"11:Voting House, Bunker St.",Commissioner of Agriculture,"",REP,Matt Caldwell,239
+Madison,"11:Voting House, Bunker St.",Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",431
+Madison,"11:Voting House, Bunker St.",Commissioner of Agriculture,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Commissioner of Agriculture,"","",UnderVotes,14
+Madison,"11:Voting House, Bunker St.",Madison Soil and Water Conservation District,Group 2,NOP,Martha F. Carter,239
+Madison,"11:Voting House, Bunker St.",Madison Soil and Water Conservation District,Group 2,NOP,Margie Foust McLeod,364
+Madison,"11:Voting House, Bunker St.",Madison Soil and Water Conservation District,Group 2,"",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Madison Soil and Water Conservation District,Group 2,"",UnderVotes,81
+Madison,"11:Voting House, Bunker St.",Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,434
+Madison,"11:Voting House, Bunker St.",Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,196
+Madison,"11:Voting House, Bunker St.",Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Madison,"11:Voting House, Bunker St.",Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,53
+Madison,"11:Voting House, Bunker St.",Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,394
+Madison,"11:Voting House, Bunker St.",Retention of Harvey Jay,First District Court of Appeal,NOP,No,230
+Madison,"11:Voting House, Bunker St.",Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,60
+Madison,"11:Voting House, Bunker St.",Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,397
+Madison,"11:Voting House, Bunker St.",Retention of Stephanie Ray,First District Court of Appeal,NOP,No,207
+Madison,"11:Voting House, Bunker St.",Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,80
+Madison,"11:Voting House, Bunker St.",Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,408
+Madison,"11:Voting House, Bunker St.",Retention of Brad Thomas,First District Court of Appeal,NOP,No,210
+Madison,"11:Voting House, Bunker St.",Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,66
+Madison,"11:Voting House, Bunker St.",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,397
+Madison,"11:Voting House, Bunker St.",Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,211
+Madison,"11:Voting House, Bunker St.",Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,76
+Madison,"11:Voting House, Bunker St.",Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,383
+Madison,"11:Voting House, Bunker St.",Retention of Allen Winsor,First District Court of Appeal,NOP,No,228
+Madison,"11:Voting House, Bunker St.",Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,73
+Madison,"11:Voting House, Bunker St.",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,282
+Madison,"11:Voting House, Bunker St.",Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,376
+Madison,"11:Voting House, Bunker St.",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,26
+Madison,"11:Voting House, Bunker St.",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,381
+Madison,"11:Voting House, Bunker St.",Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,273
+Madison,"11:Voting House, Bunker St.",Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,30
+Madison,"11:Voting House, Bunker St.",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,469
+Madison,"11:Voting House, Bunker St.",Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,194
+Madison,"11:Voting House, Bunker St.",Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,21
+Madison,"11:Voting House, Bunker St.",Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,439
+Madison,"11:Voting House, Bunker St.",Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,218
+Madison,"11:Voting House, Bunker St.",Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,27
+Madison,"11:Voting House, Bunker St.","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,325
+Madison,"11:Voting House, Bunker St.","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,332
+Madison,"11:Voting House, Bunker St.","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Madison,"11:Voting House, Bunker St.","Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,27
+Madison,"11:Voting House, Bunker St.",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,328
+Madison,"11:Voting House, Bunker St.",Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,331
+Madison,"11:Voting House, Bunker St.",Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Madison,"11:Voting House, Bunker St.",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,355
+Madison,"11:Voting House, Bunker St.",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,291
+Madison,"11:Voting House, Bunker St.",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,38
+Madison,"11:Voting House, Bunker St.",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,377
+Madison,"11:Voting House, Bunker St.",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,269
+Madison,"11:Voting House, Bunker St.",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,38
+Madison,"11:Voting House, Bunker St.",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,349
+Madison,"11:Voting House, Bunker St.",Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,298
+Madison,"11:Voting House, Bunker St.",Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,37
+Madison,"11:Voting House, Bunker St.",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,296
+Madison,"11:Voting House, Bunker St.",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,348
+Madison,"11:Voting House, Bunker St.",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,40
+Madison,"11:Voting House, Bunker St.",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,378
+Madison,"11:Voting House, Bunker St.",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,276
+Madison,"11:Voting House, Bunker St.",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,30
+Madison,"11:Voting House, Bunker St.",Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,309
+Madison,"11:Voting House, Bunker St.",Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,351
+Madison,"11:Voting House, Bunker St.",Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Madison,"11:Voting House, Bunker St.",Amendment No. 13: Ends Dog Racing,"","",UnderVotes,24
+Madison,1:Agriculture Center,Registered Voters,"","","",2260
+Madison,10:Board Room Madison County Annex,Registered Voters,"","","",1543
+Madison,"11:Voting House, Bunker St.",Registered Voters,"","","",1042
+Madison,2:Madison Recreation Center,Registered Voters,"","","",446
+Madison,3:Lee City Hall,Registered Voters,"","","",2049
+Madison,"4:Voting House, Sirmans",Registered Voters,"","","",432
+Madison,5:Senior Citizens Building,Registered Voters,"","","",1198
+Madison,6:Hamburg Vol. Fire Station,Registered Voters,"","","",282
+Madison,"7:Voting House, Crossroads",Registered Voters,"","","",1228
+Madison,8:Pinetta Vol. Fire Dept,Registered Voters,"","","",1098
+Madison,"9:Recycling Center, Lamont",Registered Voters,"","","",263
