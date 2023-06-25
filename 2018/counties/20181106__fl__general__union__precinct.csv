@@ -1,0 +1,917 @@
+county,precinct,office,district,party,candidate,votes
+Union,1A & 1B,U.S. Senate,"",REP,Rick Scott,608
+Union,1A & 1B,U.S. Senate,"",DEM,Bill Nelson,213
+Union,1A & 1B,U.S. Senate,"","",WriteinVotes,4
+Union,1A & 1B,U.S. Senate,"","",OverVotes,0
+Union,1A & 1B,U.S. Senate,"","",UnderVotes,8
+Union,1A & 1B,U.S. House,3,REP,Ted Yoho,672
+Union,1A & 1B,U.S. House,3,DEM,Yvonne Hayes Hinson,156
+Union,1A & 1B,U.S. House,3,"",OverVotes,0
+Union,1A & 1B,U.S. House,3,"",UnderVotes,5
+Union,1A & 1B,Governor,"",REP,DeSantis / Nuñez,654
+Union,1A & 1B,Governor,"",DEM,Gillum / King,169
+Union,1A & 1B,Governor,"",REF,Richardson / Argenziano,1
+Union,1A & 1B,Governor,"",NPA,Gibson / Wilds,0
+Union,1A & 1B,Governor,"",NPA,Foley / Tutton,2
+Union,1A & 1B,Governor,"",NPA,Stanley / McJury,4
+Union,1A & 1B,Governor,"","",WriteinVotes,0
+Union,1A & 1B,Governor,"","",OverVotes,2
+Union,1A & 1B,Governor,"","",UnderVotes,1
+Union,1A & 1B,Attorney General,"",REP,Ashley Moody,650
+Union,1A & 1B,Attorney General,"",DEM,Sean Shaw,162
+Union,1A & 1B,Attorney General,"",NPA,Jeffrey Marc Siskind,13
+Union,1A & 1B,Attorney General,"","",OverVotes,1
+Union,1A & 1B,Attorney General,"","",UnderVotes,7
+Union,1A & 1B,Chief Financial Officer,"",REP,Jimmy Patronis,658
+Union,1A & 1B,Chief Financial Officer,"",DEM,Jeremy Ring,164
+Union,1A & 1B,Chief Financial Officer,"","",WriteinVotes,1
+Union,1A & 1B,Chief Financial Officer,"","",OverVotes,0
+Union,1A & 1B,Chief Financial Officer,"","",UnderVotes,10
+Union,1A & 1B,Commissioner of Agriculture,"",REP,Matt Caldwell,664
+Union,1A & 1B,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",165
+Union,1A & 1B,Commissioner of Agriculture,"","",OverVotes,0
+Union,1A & 1B,Commissioner of Agriculture,"","",UnderVotes,4
+Union,1A & 1B,State House,19,REP,Bobby Payne,660
+Union,1A & 1B,State House,19,DEM,Paul Still,158
+Union,1A & 1B,State House,19,"",OverVotes,0
+Union,1A & 1B,State House,19,"",UnderVotes,15
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,566
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,208
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Union,1A & 1B,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,59
+Union,1A & 1B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,463
+Union,1A & 1B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,285
+Union,1A & 1B,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Union,1A & 1B,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,84
+Union,1A & 1B,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,460
+Union,1A & 1B,Retention of Harvey Jay,First District Court of Appeal,NOP,No,288
+Union,1A & 1B,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,85
+Union,1A & 1B,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,450
+Union,1A & 1B,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,289
+Union,1A & 1B,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,94
+Union,1A & 1B,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,456
+Union,1A & 1B,Retention of Brad Thomas,First District Court of Appeal,NOP,No,287
+Union,1A & 1B,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,90
+Union,1A & 1B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,446
+Union,1A & 1B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,299
+Union,1A & 1B,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,88
+Union,1A & 1B,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,440
+Union,1A & 1B,Retention of Allen Winsor,First District Court of Appeal,NOP,No,305
+Union,1A & 1B,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Union,1A & 1B,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,88
+Union,1A & 1B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,480
+Union,1A & 1B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,330
+Union,1A & 1B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,23
+Union,1A & 1B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,578
+Union,1A & 1B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,221
+Union,1A & 1B,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,34
+Union,1A & 1B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,555
+Union,1A & 1B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,253
+Union,1A & 1B,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,25
+Union,1A & 1B,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,347
+Union,1A & 1B,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,461
+Union,1A & 1B,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,25
+Union,1A & 1B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,548
+Union,1A & 1B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,254
+Union,1A & 1B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Union,1A & 1B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,29
+Union,1A & 1B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,483
+Union,1A & 1B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,313
+Union,1A & 1B,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,37
+Union,1A & 1B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,546
+Union,1A & 1B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,251
+Union,1A & 1B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Union,1A & 1B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,36
+Union,1A & 1B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,411
+Union,1A & 1B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,382
+Union,1A & 1B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Union,1A & 1B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,38
+Union,1A & 1B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,546
+Union,1A & 1B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,243
+Union,1A & 1B,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Union,1A & 1B,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,43
+Union,1A & 1B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,426
+Union,1A & 1B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,343
+Union,1A & 1B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Union,1A & 1B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,63
+Union,1A & 1B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,528
+Union,1A & 1B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,258
+Union,1A & 1B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Union,1A & 1B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,45
+Union,1A & 1B,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,391
+Union,1A & 1B,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,420
+Union,1A & 1B,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Union,1A & 1B,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,21
+Union,2A & 2B,U.S. Senate,"",REP,Rick Scott,575
+Union,2A & 2B,U.S. Senate,"",DEM,Bill Nelson,181
+Union,2A & 2B,U.S. Senate,"","",WriteinVotes,4
+Union,2A & 2B,U.S. Senate,"","",OverVotes,0
+Union,2A & 2B,U.S. Senate,"","",UnderVotes,8
+Union,2A & 2B,U.S. House,3,REP,Ted Yoho,630
+Union,2A & 2B,U.S. House,3,DEM,Yvonne Hayes Hinson,128
+Union,2A & 2B,U.S. House,3,"",OverVotes,0
+Union,2A & 2B,U.S. House,3,"",UnderVotes,10
+Union,2A & 2B,Governor,"",REP,DeSantis / Nuñez,604
+Union,2A & 2B,Governor,"",DEM,Gillum / King,148
+Union,2A & 2B,Governor,"",REF,Richardson / Argenziano,6
+Union,2A & 2B,Governor,"",NPA,Gibson / Wilds,1
+Union,2A & 2B,Governor,"",NPA,Foley / Tutton,1
+Union,2A & 2B,Governor,"",NPA,Stanley / McJury,3
+Union,2A & 2B,Governor,"","",WriteinVotes,1
+Union,2A & 2B,Governor,"","",OverVotes,2
+Union,2A & 2B,Governor,"","",UnderVotes,2
+Union,2A & 2B,Attorney General,"",REP,Ashley Moody,604
+Union,2A & 2B,Attorney General,"",DEM,Sean Shaw,142
+Union,2A & 2B,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Union,2A & 2B,Attorney General,"","",OverVotes,0
+Union,2A & 2B,Attorney General,"","",UnderVotes,12
+Union,2A & 2B,Chief Financial Officer,"",REP,Jimmy Patronis,614
+Union,2A & 2B,Chief Financial Officer,"",DEM,Jeremy Ring,138
+Union,2A & 2B,Chief Financial Officer,"","",WriteinVotes,0
+Union,2A & 2B,Chief Financial Officer,"","",OverVotes,0
+Union,2A & 2B,Chief Financial Officer,"","",UnderVotes,16
+Union,2A & 2B,Commissioner of Agriculture,"",REP,Matt Caldwell,614
+Union,2A & 2B,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",142
+Union,2A & 2B,Commissioner of Agriculture,"","",OverVotes,1
+Union,2A & 2B,Commissioner of Agriculture,"","",UnderVotes,11
+Union,2A & 2B,State House,19,REP,Bobby Payne,610
+Union,2A & 2B,State House,19,DEM,Paul Still,140
+Union,2A & 2B,State House,19,"",OverVotes,0
+Union,2A & 2B,State House,19,"",UnderVotes,18
+Union,2A & 2B,County Commissioner,2,REP,Nancy J Griffis,217
+Union,2A & 2B,County Commissioner,2,DEM,Channing R Dobbs,546
+Union,2A & 2B,County Commissioner,2,"",OverVotes,1
+Union,2A & 2B,County Commissioner,2,"",UnderVotes,4
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,497
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,197
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Union,2A & 2B,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,74
+Union,2A & 2B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,418
+Union,2A & 2B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,261
+Union,2A & 2B,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Union,2A & 2B,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,88
+Union,2A & 2B,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,430
+Union,2A & 2B,Retention of Harvey Jay,First District Court of Appeal,NOP,No,260
+Union,2A & 2B,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Union,2A & 2B,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,78
+Union,2A & 2B,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,414
+Union,2A & 2B,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,268
+Union,2A & 2B,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Union,2A & 2B,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,85
+Union,2A & 2B,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,432
+Union,2A & 2B,Retention of Brad Thomas,First District Court of Appeal,NOP,No,257
+Union,2A & 2B,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Union,2A & 2B,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,79
+Union,2A & 2B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,423
+Union,2A & 2B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,257
+Union,2A & 2B,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,2A & 2B,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,88
+Union,2A & 2B,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,417
+Union,2A & 2B,Retention of Allen Winsor,First District Court of Appeal,NOP,No,254
+Union,2A & 2B,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Union,2A & 2B,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,96
+Union,2A & 2B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,433
+Union,2A & 2B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,302
+Union,2A & 2B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,33
+Union,2A & 2B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,535
+Union,2A & 2B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,190
+Union,2A & 2B,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,43
+Union,2A & 2B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,500
+Union,2A & 2B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,225
+Union,2A & 2B,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,43
+Union,2A & 2B,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,343
+Union,2A & 2B,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,388
+Union,2A & 2B,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Union,2A & 2B,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,34
+Union,2A & 2B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,533
+Union,2A & 2B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,186
+Union,2A & 2B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Union,2A & 2B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,47
+Union,2A & 2B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,473
+Union,2A & 2B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,246
+Union,2A & 2B,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Union,2A & 2B,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,48
+Union,2A & 2B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,551
+Union,2A & 2B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,169
+Union,2A & 2B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,48
+Union,2A & 2B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,386
+Union,2A & 2B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,327
+Union,2A & 2B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Union,2A & 2B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,54
+Union,2A & 2B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,516
+Union,2A & 2B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,201
+Union,2A & 2B,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,51
+Union,2A & 2B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,380
+Union,2A & 2B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,311
+Union,2A & 2B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Union,2A & 2B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,76
+Union,2A & 2B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,524
+Union,2A & 2B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,182
+Union,2A & 2B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,62
+Union,2A & 2B,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,303
+Union,2A & 2B,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,430
+Union,2A & 2B,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Union,2A & 2B,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,35
+Union,3A & 3B,U.S. Senate,"",REP,Rick Scott,817
+Union,3A & 3B,U.S. Senate,"",DEM,Bill Nelson,220
+Union,3A & 3B,U.S. Senate,"","",WriteinVotes,3
+Union,3A & 3B,U.S. Senate,"","",OverVotes,0
+Union,3A & 3B,U.S. Senate,"","",UnderVotes,6
+Union,3A & 3B,U.S. House,3,REP,Ted Yoho,865
+Union,3A & 3B,U.S. House,3,DEM,Yvonne Hayes Hinson,175
+Union,3A & 3B,U.S. House,3,"",OverVotes,0
+Union,3A & 3B,U.S. House,3,"",UnderVotes,6
+Union,3A & 3B,Governor,"",REP,DeSantis / Nuñez,849
+Union,3A & 3B,Governor,"",DEM,Gillum / King,178
+Union,3A & 3B,Governor,"",REF,Richardson / Argenziano,6
+Union,3A & 3B,Governor,"",NPA,Gibson / Wilds,3
+Union,3A & 3B,Governor,"",NPA,Foley / Tutton,0
+Union,3A & 3B,Governor,"",NPA,Stanley / McJury,2
+Union,3A & 3B,Governor,"","",WriteinVotes,2
+Union,3A & 3B,Governor,"","",OverVotes,0
+Union,3A & 3B,Governor,"","",UnderVotes,6
+Union,3A & 3B,Attorney General,"",REP,Ashley Moody,851
+Union,3A & 3B,Attorney General,"",DEM,Sean Shaw,167
+Union,3A & 3B,Attorney General,"",NPA,Jeffrey Marc Siskind,14
+Union,3A & 3B,Attorney General,"","",OverVotes,0
+Union,3A & 3B,Attorney General,"","",UnderVotes,14
+Union,3A & 3B,Chief Financial Officer,"",REP,Jimmy Patronis,850
+Union,3A & 3B,Chief Financial Officer,"",DEM,Jeremy Ring,174
+Union,3A & 3B,Chief Financial Officer,"","",WriteinVotes,0
+Union,3A & 3B,Chief Financial Officer,"","",OverVotes,0
+Union,3A & 3B,Chief Financial Officer,"","",UnderVotes,22
+Union,3A & 3B,Commissioner of Agriculture,"",REP,Matt Caldwell,861
+Union,3A & 3B,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",175
+Union,3A & 3B,Commissioner of Agriculture,"","",OverVotes,0
+Union,3A & 3B,Commissioner of Agriculture,"","",UnderVotes,10
+Union,3A & 3B,State House,19,REP,Bobby Payne,845
+Union,3A & 3B,State House,19,DEM,Paul Still,184
+Union,3A & 3B,State House,19,"",OverVotes,0
+Union,3A & 3B,State House,19,"",UnderVotes,17
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,692
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,262
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Union,3A & 3B,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,92
+Union,3A & 3B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,579
+Union,3A & 3B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,359
+Union,3A & 3B,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Union,3A & 3B,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,108
+Union,3A & 3B,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,581
+Union,3A & 3B,Retention of Harvey Jay,First District Court of Appeal,NOP,No,356
+Union,3A & 3B,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Union,3A & 3B,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,109
+Union,3A & 3B,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,579
+Union,3A & 3B,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,359
+Union,3A & 3B,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Union,3A & 3B,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,108
+Union,3A & 3B,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,569
+Union,3A & 3B,Retention of Brad Thomas,First District Court of Appeal,NOP,No,365
+Union,3A & 3B,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Union,3A & 3B,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,111
+Union,3A & 3B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,567
+Union,3A & 3B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,371
+Union,3A & 3B,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,3A & 3B,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,108
+Union,3A & 3B,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,574
+Union,3A & 3B,Retention of Allen Winsor,First District Court of Appeal,NOP,No,361
+Union,3A & 3B,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Union,3A & 3B,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,111
+Union,3A & 3B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,655
+Union,3A & 3B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,362
+Union,3A & 3B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,29
+Union,3A & 3B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,734
+Union,3A & 3B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,272
+Union,3A & 3B,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,40
+Union,3A & 3B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,700
+Union,3A & 3B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,311
+Union,3A & 3B,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,35
+Union,3A & 3B,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,446
+Union,3A & 3B,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,563
+Union,3A & 3B,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,37
+Union,3A & 3B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,740
+Union,3A & 3B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,255
+Union,3A & 3B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Union,3A & 3B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,51
+Union,3A & 3B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,648
+Union,3A & 3B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,356
+Union,3A & 3B,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Union,3A & 3B,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,41
+Union,3A & 3B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,662
+Union,3A & 3B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,319
+Union,3A & 3B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,65
+Union,3A & 3B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,514
+Union,3A & 3B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,484
+Union,3A & 3B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Union,3A & 3B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,47
+Union,3A & 3B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,711
+Union,3A & 3B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,273
+Union,3A & 3B,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,62
+Union,3A & 3B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,510
+Union,3A & 3B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,455
+Union,3A & 3B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Union,3A & 3B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,80
+Union,3A & 3B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,681
+Union,3A & 3B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,306
+Union,3A & 3B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Union,3A & 3B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,58
+Union,3A & 3B,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,454
+Union,3A & 3B,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,561
+Union,3A & 3B,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Union,3A & 3B,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,31
+Union,3C,U.S. Senate,"",REP,Rick Scott,143
+Union,3C,U.S. Senate,"",DEM,Bill Nelson,53
+Union,3C,U.S. Senate,"","",WriteinVotes,2
+Union,3C,U.S. Senate,"","",OverVotes,1
+Union,3C,U.S. Senate,"","",UnderVotes,2
+Union,3C,U.S. House,3,REP,Ted Yoho,175
+Union,3C,U.S. House,3,DEM,Yvonne Hayes Hinson,23
+Union,3C,U.S. House,3,"",OverVotes,0
+Union,3C,U.S. House,3,"",UnderVotes,2
+Union,3C,Governor,"",REP,DeSantis / Nuñez,165
+Union,3C,Governor,"",DEM,Gillum / King,27
+Union,3C,Governor,"",REF,Richardson / Argenziano,2
+Union,3C,Governor,"",NPA,Gibson / Wilds,2
+Union,3C,Governor,"",NPA,Foley / Tutton,1
+Union,3C,Governor,"",NPA,Stanley / McJury,1
+Union,3C,Governor,"","",WriteinVotes,0
+Union,3C,Governor,"","",OverVotes,1
+Union,3C,Governor,"","",UnderVotes,1
+Union,3C,Attorney General,"",REP,Ashley Moody,166
+Union,3C,Attorney General,"",DEM,Sean Shaw,28
+Union,3C,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Union,3C,Attorney General,"","",OverVotes,0
+Union,3C,Attorney General,"","",UnderVotes,2
+Union,3C,Chief Financial Officer,"",REP,Jimmy Patronis,172
+Union,3C,Chief Financial Officer,"",DEM,Jeremy Ring,25
+Union,3C,Chief Financial Officer,"","",WriteinVotes,0
+Union,3C,Chief Financial Officer,"","",OverVotes,0
+Union,3C,Chief Financial Officer,"","",UnderVotes,3
+Union,3C,Commissioner of Agriculture,"",REP,Matt Caldwell,174
+Union,3C,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",25
+Union,3C,Commissioner of Agriculture,"","",OverVotes,0
+Union,3C,Commissioner of Agriculture,"","",UnderVotes,1
+Union,3C,State House,19,REP,Bobby Payne,167
+Union,3C,State House,19,DEM,Paul Still,32
+Union,3C,State House,19,"",OverVotes,0
+Union,3C,State House,19,"",UnderVotes,1
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,148
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,36
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Union,3C,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,16
+Union,3C,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,101
+Union,3C,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,80
+Union,3C,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Union,3C,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,19
+Union,3C,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,99
+Union,3C,Retention of Harvey Jay,First District Court of Appeal,NOP,No,82
+Union,3C,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,19
+Union,3C,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,99
+Union,3C,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,80
+Union,3C,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,21
+Union,3C,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,99
+Union,3C,Retention of Brad Thomas,First District Court of Appeal,NOP,No,81
+Union,3C,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,20
+Union,3C,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,99
+Union,3C,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,81
+Union,3C,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,20
+Union,3C,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,101
+Union,3C,Retention of Allen Winsor,First District Court of Appeal,NOP,No,80
+Union,3C,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Union,3C,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,19
+Union,3C,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,120
+Union,3C,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,70
+Union,3C,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Union,3C,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,10
+Union,3C,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,134
+Union,3C,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,56
+Union,3C,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Union,3C,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,10
+Union,3C,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,149
+Union,3C,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,44
+Union,3C,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Union,3C,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Union,3C,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,79
+Union,3C,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,111
+Union,3C,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Union,3C,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,10
+Union,3C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,145
+Union,3C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,41
+Union,3C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Union,3C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,14
+Union,3C,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,135
+Union,3C,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,57
+Union,3C,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Union,3C,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,8
+Union,3C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,134
+Union,3C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,52
+Union,3C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Union,3C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,14
+Union,3C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,98
+Union,3C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,91
+Union,3C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Union,3C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,11
+Union,3C,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,137
+Union,3C,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,49
+Union,3C,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Union,3C,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,13
+Union,3C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,101
+Union,3C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,80
+Union,3C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Union,3C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,18
+Union,3C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,132
+Union,3C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,54
+Union,3C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Union,3C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,14
+Union,3C,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,80
+Union,3C,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,111
+Union,3C,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Union,3C,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,8
+Union,4A & 4C,U.S. Senate,"",REP,Rick Scott,340
+Union,4A & 4C,U.S. Senate,"",DEM,Bill Nelson,145
+Union,4A & 4C,U.S. Senate,"","",WriteinVotes,0
+Union,4A & 4C,U.S. Senate,"","",OverVotes,0
+Union,4A & 4C,U.S. Senate,"","",UnderVotes,7
+Union,4A & 4C,U.S. House,3,REP,Ted Yoho,367
+Union,4A & 4C,U.S. House,3,DEM,Yvonne Hayes Hinson,120
+Union,4A & 4C,U.S. House,3,"",OverVotes,2
+Union,4A & 4C,U.S. House,3,"",UnderVotes,3
+Union,4A & 4C,Governor,"",REP,DeSantis / Nuñez,354
+Union,4A & 4C,Governor,"",DEM,Gillum / King,133
+Union,4A & 4C,Governor,"",REF,Richardson / Argenziano,2
+Union,4A & 4C,Governor,"",NPA,Gibson / Wilds,2
+Union,4A & 4C,Governor,"",NPA,Foley / Tutton,1
+Union,4A & 4C,Governor,"",NPA,Stanley / McJury,0
+Union,4A & 4C,Governor,"","",WriteinVotes,0
+Union,4A & 4C,Governor,"","",OverVotes,0
+Union,4A & 4C,Governor,"","",UnderVotes,0
+Union,4A & 4C,Attorney General,"",REP,Ashley Moody,358
+Union,4A & 4C,Attorney General,"",DEM,Sean Shaw,125
+Union,4A & 4C,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Union,4A & 4C,Attorney General,"","",OverVotes,0
+Union,4A & 4C,Attorney General,"","",UnderVotes,4
+Union,4A & 4C,Chief Financial Officer,"",REP,Jimmy Patronis,350
+Union,4A & 4C,Chief Financial Officer,"",DEM,Jeremy Ring,132
+Union,4A & 4C,Chief Financial Officer,"","",WriteinVotes,0
+Union,4A & 4C,Chief Financial Officer,"","",OverVotes,0
+Union,4A & 4C,Chief Financial Officer,"","",UnderVotes,10
+Union,4A & 4C,Commissioner of Agriculture,"",REP,Matt Caldwell,360
+Union,4A & 4C,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",128
+Union,4A & 4C,Commissioner of Agriculture,"","",OverVotes,0
+Union,4A & 4C,Commissioner of Agriculture,"","",UnderVotes,4
+Union,4A & 4C,State House,19,REP,Bobby Payne,360
+Union,4A & 4C,State House,19,DEM,Paul Still,125
+Union,4A & 4C,State House,19,"",OverVotes,0
+Union,4A & 4C,State House,19,"",UnderVotes,7
+Union,4A & 4C,County Commissioner,4,REP,Lacey D Cannon,331
+Union,4A & 4C,County Commissioner,4,DEM,M Wayne Smith,152
+Union,4A & 4C,County Commissioner,4,"",OverVotes,0
+Union,4A & 4C,County Commissioner,4,"",UnderVotes,9
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,308
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,148
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Union,4A & 4C,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,36
+Union,4A & 4C,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,242
+Union,4A & 4C,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,199
+Union,4A & 4C,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Union,4A & 4C,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,51
+Union,4A & 4C,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,245
+Union,4A & 4C,Retention of Harvey Jay,First District Court of Appeal,NOP,No,201
+Union,4A & 4C,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,46
+Union,4A & 4C,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,258
+Union,4A & 4C,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,187
+Union,4A & 4C,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,47
+Union,4A & 4C,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,253
+Union,4A & 4C,Retention of Brad Thomas,First District Court of Appeal,NOP,No,193
+Union,4A & 4C,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,46
+Union,4A & 4C,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,251
+Union,4A & 4C,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,197
+Union,4A & 4C,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,44
+Union,4A & 4C,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,253
+Union,4A & 4C,Retention of Allen Winsor,First District Court of Appeal,NOP,No,193
+Union,4A & 4C,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Union,4A & 4C,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,46
+Union,4A & 4C,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,270
+Union,4A & 4C,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,211
+Union,4A & 4C,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Union,4A & 4C,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,10
+Union,4A & 4C,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,318
+Union,4A & 4C,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,162
+Union,4A & 4C,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Union,4A & 4C,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,336
+Union,4A & 4C,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,147
+Union,4A & 4C,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,9
+Union,4A & 4C,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,259
+Union,4A & 4C,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,224
+Union,4A & 4C,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Union,4A & 4C,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Union,4A & 4C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,324
+Union,4A & 4C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,153
+Union,4A & 4C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Union,4A & 4C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,15
+Union,4A & 4C,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,312
+Union,4A & 4C,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,165
+Union,4A & 4C,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,15
+Union,4A & 4C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,336
+Union,4A & 4C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,134
+Union,4A & 4C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,22
+Union,4A & 4C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,257
+Union,4A & 4C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,216
+Union,4A & 4C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,19
+Union,4A & 4C,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,325
+Union,4A & 4C,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,152
+Union,4A & 4C,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Union,4A & 4C,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,14
+Union,4A & 4C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,255
+Union,4A & 4C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,210
+Union,4A & 4C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,27
+Union,4A & 4C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,327
+Union,4A & 4C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,143
+Union,4A & 4C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,22
+Union,4A & 4C,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,233
+Union,4A & 4C,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,250
+Union,4A & 4C,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Union,4A & 4C,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,9
+Union,4B,U.S. Senate,"",REP,Rick Scott,790
+Union,4B,U.S. Senate,"",DEM,Bill Nelson,252
+Union,4B,U.S. Senate,"","",WriteinVotes,2
+Union,4B,U.S. Senate,"","",OverVotes,0
+Union,4B,U.S. Senate,"","",UnderVotes,7
+Union,4B,U.S. House,3,REP,Ted Yoho,839
+Union,4B,U.S. House,3,DEM,Yvonne Hayes Hinson,204
+Union,4B,U.S. House,3,"",OverVotes,0
+Union,4B,U.S. House,3,"",UnderVotes,7
+Union,4B,Governor,"",REP,DeSantis / Nuñez,822
+Union,4B,Governor,"",DEM,Gillum / King,209
+Union,4B,Governor,"",REF,Richardson / Argenziano,7
+Union,4B,Governor,"",NPA,Gibson / Wilds,1
+Union,4B,Governor,"",NPA,Foley / Tutton,1
+Union,4B,Governor,"",NPA,Stanley / McJury,1
+Union,4B,Governor,"","",WriteinVotes,1
+Union,4B,Governor,"","",OverVotes,0
+Union,4B,Governor,"","",UnderVotes,8
+Union,4B,Attorney General,"",REP,Ashley Moody,833
+Union,4B,Attorney General,"",DEM,Sean Shaw,184
+Union,4B,Attorney General,"",NPA,Jeffrey Marc Siskind,15
+Union,4B,Attorney General,"","",OverVotes,0
+Union,4B,Attorney General,"","",UnderVotes,18
+Union,4B,Chief Financial Officer,"",REP,Jimmy Patronis,821
+Union,4B,Chief Financial Officer,"",DEM,Jeremy Ring,204
+Union,4B,Chief Financial Officer,"","",WriteinVotes,1
+Union,4B,Chief Financial Officer,"","",OverVotes,0
+Union,4B,Chief Financial Officer,"","",UnderVotes,24
+Union,4B,Commissioner of Agriculture,"",REP,Matt Caldwell,826
+Union,4B,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",213
+Union,4B,Commissioner of Agriculture,"","",OverVotes,0
+Union,4B,Commissioner of Agriculture,"","",UnderVotes,12
+Union,4B,State House,19,REP,Bobby Payne,817
+Union,4B,State House,19,DEM,Paul Still,202
+Union,4B,State House,19,"",OverVotes,0
+Union,4B,State House,19,"",UnderVotes,31
+Union,4B,County Commissioner,4,REP,Lacey D Cannon,689
+Union,4B,County Commissioner,4,DEM,M Wayne Smith,353
+Union,4B,County Commissioner,4,"",OverVotes,1
+Union,4B,County Commissioner,4,"",UnderVotes,7
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,654
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,309
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,1
+Union,4B,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,86
+Union,4B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,565
+Union,4B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,335
+Union,4B,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Union,4B,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,150
+Union,4B,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,564
+Union,4B,Retention of Harvey Jay,First District Court of Appeal,NOP,No,334
+Union,4B,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,152
+Union,4B,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,566
+Union,4B,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,328
+Union,4B,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,2
+Union,4B,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,154
+Union,4B,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,563
+Union,4B,Retention of Brad Thomas,First District Court of Appeal,NOP,No,330
+Union,4B,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Union,4B,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,155
+Union,4B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,572
+Union,4B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,326
+Union,4B,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,152
+Union,4B,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,555
+Union,4B,Retention of Allen Winsor,First District Court of Appeal,NOP,No,340
+Union,4B,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Union,4B,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,155
+Union,4B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,621
+Union,4B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,387
+Union,4B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Union,4B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,40
+Union,4B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,736
+Union,4B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,265
+Union,4B,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Union,4B,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,48
+Union,4B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,710
+Union,4B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,290
+Union,4B,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Union,4B,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,49
+Union,4B,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,450
+Union,4B,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,546
+Union,4B,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Union,4B,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,53
+Union,4B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,708
+Union,4B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,277
+Union,4B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Union,4B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,65
+Union,4B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,622
+Union,4B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,370
+Union,4B,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Union,4B,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,58
+Union,4B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,648
+Union,4B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,331
+Union,4B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Union,4B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,70
+Union,4B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,527
+Union,4B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,454
+Union,4B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Union,4B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,69
+Union,4B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,663
+Union,4B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,300
+Union,4B,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Union,4B,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,87
+Union,4B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,487
+Union,4B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,462
+Union,4B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Union,4B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,100
+Union,4B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,683
+Union,4B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,287
+Union,4B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Union,4B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,80
+Union,4B,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,451
+Union,4B,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,554
+Union,4B,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Union,4B,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,44
+Union,5A & 5C,U.S. Senate,"",REP,Rick Scott,186
+Union,5A & 5C,U.S. Senate,"",DEM,Bill Nelson,105
+Union,5A & 5C,U.S. Senate,"","",WriteinVotes,1
+Union,5A & 5C,U.S. Senate,"","",OverVotes,0
+Union,5A & 5C,U.S. Senate,"","",UnderVotes,3
+Union,5A & 5C,U.S. House,3,REP,Ted Yoho,220
+Union,5A & 5C,U.S. House,3,DEM,Yvonne Hayes Hinson,70
+Union,5A & 5C,U.S. House,3,"",OverVotes,0
+Union,5A & 5C,U.S. House,3,"",UnderVotes,4
+Union,5A & 5C,Governor,"",REP,DeSantis / Nuñez,197
+Union,5A & 5C,Governor,"",DEM,Gillum / King,90
+Union,5A & 5C,Governor,"",REF,Richardson / Argenziano,1
+Union,5A & 5C,Governor,"",NPA,Gibson / Wilds,1
+Union,5A & 5C,Governor,"",NPA,Foley / Tutton,1
+Union,5A & 5C,Governor,"",NPA,Stanley / McJury,0
+Union,5A & 5C,Governor,"","",WriteinVotes,0
+Union,5A & 5C,Governor,"","",OverVotes,0
+Union,5A & 5C,Governor,"","",UnderVotes,4
+Union,5A & 5C,Attorney General,"",REP,Ashley Moody,203
+Union,5A & 5C,Attorney General,"",DEM,Sean Shaw,82
+Union,5A & 5C,Attorney General,"",NPA,Jeffrey Marc Siskind,2
+Union,5A & 5C,Attorney General,"","",OverVotes,0
+Union,5A & 5C,Attorney General,"","",UnderVotes,7
+Union,5A & 5C,Chief Financial Officer,"",REP,Jimmy Patronis,200
+Union,5A & 5C,Chief Financial Officer,"",DEM,Jeremy Ring,85
+Union,5A & 5C,Chief Financial Officer,"","",WriteinVotes,0
+Union,5A & 5C,Chief Financial Officer,"","",OverVotes,0
+Union,5A & 5C,Chief Financial Officer,"","",UnderVotes,9
+Union,5A & 5C,Commissioner of Agriculture,"",REP,Matt Caldwell,208
+Union,5A & 5C,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",79
+Union,5A & 5C,Commissioner of Agriculture,"","",OverVotes,0
+Union,5A & 5C,Commissioner of Agriculture,"","",UnderVotes,8
+Union,5A & 5C,State House,19,REP,Bobby Payne,206
+Union,5A & 5C,State House,19,DEM,Paul Still,80
+Union,5A & 5C,State House,19,"",OverVotes,0
+Union,5A & 5C,State House,19,"",UnderVotes,8
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,179
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,84
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Union,5A & 5C,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,31
+Union,5A & 5C,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,160
+Union,5A & 5C,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,101
+Union,5A & 5C,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Union,5A & 5C,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,33
+Union,5A & 5C,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,160
+Union,5A & 5C,Retention of Harvey Jay,First District Court of Appeal,NOP,No,99
+Union,5A & 5C,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,35
+Union,5A & 5C,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,154
+Union,5A & 5C,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,103
+Union,5A & 5C,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Union,5A & 5C,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,36
+Union,5A & 5C,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,161
+Union,5A & 5C,Retention of Brad Thomas,First District Court of Appeal,NOP,No,97
+Union,5A & 5C,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,36
+Union,5A & 5C,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,156
+Union,5A & 5C,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,102
+Union,5A & 5C,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,36
+Union,5A & 5C,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,157
+Union,5A & 5C,Retention of Allen Winsor,First District Court of Appeal,NOP,No,101
+Union,5A & 5C,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Union,5A & 5C,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,36
+Union,5A & 5C,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,151
+Union,5A & 5C,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,137
+Union,5A & 5C,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Union,5A & 5C,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,5
+Union,5A & 5C,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,178
+Union,5A & 5C,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,105
+Union,5A & 5C,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,11
+Union,5A & 5C,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,186
+Union,5A & 5C,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,99
+Union,5A & 5C,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,9
+Union,5A & 5C,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,141
+Union,5A & 5C,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,143
+Union,5A & 5C,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,10
+Union,5A & 5C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,168
+Union,5A & 5C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,115
+Union,5A & 5C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Union,5A & 5C,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,11
+Union,5A & 5C,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,169
+Union,5A & 5C,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,114
+Union,5A & 5C,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,11
+Union,5A & 5C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,176
+Union,5A & 5C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,101
+Union,5A & 5C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,17
+Union,5A & 5C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,151
+Union,5A & 5C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,128
+Union,5A & 5C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,15
+Union,5A & 5C,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,181
+Union,5A & 5C,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,97
+Union,5A & 5C,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Union,5A & 5C,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,15
+Union,5A & 5C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,142
+Union,5A & 5C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,129
+Union,5A & 5C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Union,5A & 5C,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,22
+Union,5A & 5C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,188
+Union,5A & 5C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,90
+Union,5A & 5C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,16
+Union,5A & 5C,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,141
+Union,5A & 5C,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,141
+Union,5A & 5C,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Union,5A & 5C,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,12
+Union,5B,U.S. Senate,"",REP,Rick Scott,191
+Union,5B,U.S. Senate,"",DEM,Bill Nelson,28
+Union,5B,U.S. Senate,"","",WriteinVotes,0
+Union,5B,U.S. Senate,"","",OverVotes,0
+Union,5B,U.S. Senate,"","",UnderVotes,2
+Union,5B,U.S. House,3,REP,Ted Yoho,196
+Union,5B,U.S. House,3,DEM,Yvonne Hayes Hinson,23
+Union,5B,U.S. House,3,"",OverVotes,0
+Union,5B,U.S. House,3,"",UnderVotes,1
+Union,5B,Governor,"",REP,DeSantis / Nuñez,197
+Union,5B,Governor,"",DEM,Gillum / King,19
+Union,5B,Governor,"",REF,Richardson / Argenziano,1
+Union,5B,Governor,"",NPA,Gibson / Wilds,0
+Union,5B,Governor,"",NPA,Foley / Tutton,1
+Union,5B,Governor,"",NPA,Stanley / McJury,0
+Union,5B,Governor,"","",WriteinVotes,0
+Union,5B,Governor,"","",OverVotes,1
+Union,5B,Governor,"","",UnderVotes,1
+Union,5B,Attorney General,"",REP,Ashley Moody,192
+Union,5B,Attorney General,"",DEM,Sean Shaw,22
+Union,5B,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Union,5B,Attorney General,"","",OverVotes,0
+Union,5B,Attorney General,"","",UnderVotes,2
+Union,5B,Chief Financial Officer,"",REP,Jimmy Patronis,196
+Union,5B,Chief Financial Officer,"",DEM,Jeremy Ring,18
+Union,5B,Chief Financial Officer,"","",WriteinVotes,0
+Union,5B,Chief Financial Officer,"","",OverVotes,0
+Union,5B,Chief Financial Officer,"","",UnderVotes,6
+Union,5B,Commissioner of Agriculture,"",REP,Matt Caldwell,197
+Union,5B,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",21
+Union,5B,Commissioner of Agriculture,"","",OverVotes,0
+Union,5B,Commissioner of Agriculture,"","",UnderVotes,3
+Union,5B,State House,19,REP,Bobby Payne,194
+Union,5B,State House,19,DEM,Paul Still,21
+Union,5B,State House,19,"",OverVotes,0
+Union,5B,State House,19,"",UnderVotes,5
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,154
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,39
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Union,5B,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,27
+Union,5B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,116
+Union,5B,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,71
+Union,5B,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Union,5B,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,33
+Union,5B,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,119
+Union,5B,Retention of Harvey Jay,First District Court of Appeal,NOP,No,71
+Union,5B,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Union,5B,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,29
+Union,5B,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,119
+Union,5B,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,69
+Union,5B,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Union,5B,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,31
+Union,5B,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,118
+Union,5B,Retention of Brad Thomas,First District Court of Appeal,NOP,No,73
+Union,5B,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Union,5B,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,29
+Union,5B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,120
+Union,5B,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,68
+Union,5B,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Union,5B,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,32
+Union,5B,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,113
+Union,5B,Retention of Allen Winsor,First District Court of Appeal,NOP,No,78
+Union,5B,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Union,5B,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,28
+Union,5B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,121
+Union,5B,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,89
+Union,5B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Union,5B,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,9
+Union,5B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,142
+Union,5B,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,59
+Union,5B,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Union,5B,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,19
+Union,5B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,143
+Union,5B,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,67
+Union,5B,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Union,5B,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Union,5B,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,85
+Union,5B,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,123
+Union,5B,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Union,5B,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,12
+Union,5B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,145
+Union,5B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,57
+Union,5B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Union,5B,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Union,5B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,122
+Union,5B,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,82
+Union,5B,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Union,5B,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,16
+Union,5B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,138
+Union,5B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,58
+Union,5B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Union,5B,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Union,5B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,114
+Union,5B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,87
+Union,5B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Union,5B,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,19
+Union,5B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,132
+Union,5B,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,70
+Union,5B,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Union,5B,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,18
+Union,5B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,107
+Union,5B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,86
+Union,5B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Union,5B,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,27
+Union,5B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,141
+Union,5B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,59
+Union,5B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Union,5B,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,20
+Union,5B,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,91
+Union,5B,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,117
+Union,5B,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Union,5B,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,12
+Union,1A & 1B,Registered Voters,"","","",1169
+Union,2A & 2B,Registered Voters,"","","",1134
+Union,3A & 3B,Registered Voters,"","","",1634
+Union,3C,Registered Voters,"","","",325
+Union,4A & 4C,Registered Voters,"","","",747
+Union,4B,Registered Voters,"","","",1508
+Union,5A & 5C,Registered Voters,"","","",542
+Union,5B,Registered Voters,"","","",337
