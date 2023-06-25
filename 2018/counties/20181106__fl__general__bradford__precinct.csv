@@ -1,0 +1,1610 @@
+county,precinct,office,district,party,candidate,votes
+Bradford,1,U.S. Senate,"",REP,Rick Scott,944
+Bradford,1,U.S. Senate,"",DEM,Bill Nelson,163
+Bradford,1,U.S. Senate,"","",WriteinVotes,8
+Bradford,1,U.S. Senate,"","",OverVotes,0
+Bradford,1,U.S. Senate,"","",UnderVotes,15
+Bradford,1,U.S. House,3,REP,Ted Yoho,1006
+Bradford,1,U.S. House,3,DEM,Yvonne Hayes Hinson,107
+Bradford,1,U.S. House,3,"",OverVotes,0
+Bradford,1,U.S. House,3,"",UnderVotes,17
+Bradford,1,Governor,"",REP,DeSantis / Nuñez,977
+Bradford,1,Governor,"",DEM,Gillum / King,125
+Bradford,1,Governor,"",REF,Richardson / Argenziano,6
+Bradford,1,Governor,"",NPA,Gibson / Wilds,6
+Bradford,1,Governor,"",NPA,Foley / Tutton,2
+Bradford,1,Governor,"",NPA,Stanley / McJury,4
+Bradford,1,Governor,"","",WriteinVotes,1
+Bradford,1,Governor,"","",OverVotes,0
+Bradford,1,Governor,"","",UnderVotes,9
+Bradford,1,Attorney General,"",REP,Ashley Moody,968
+Bradford,1,Attorney General,"",DEM,Sean Shaw,116
+Bradford,1,Attorney General,"",NPA,Jeffrey Marc Siskind,24
+Bradford,1,Attorney General,"","",OverVotes,1
+Bradford,1,Attorney General,"","",UnderVotes,21
+Bradford,1,Chief Financial Officer,"",REP,Jimmy Patronis,990
+Bradford,1,Chief Financial Officer,"",DEM,Jeremy Ring,109
+Bradford,1,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,1,Chief Financial Officer,"","",OverVotes,1
+Bradford,1,Chief Financial Officer,"","",UnderVotes,30
+Bradford,1,Commissioner of Agriculture,"",REP,Matt Caldwell,978
+Bradford,1,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",134
+Bradford,1,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,1,Commissioner of Agriculture,"","",UnderVotes,18
+Bradford,1,State House,19,REP,Bobby Payne,970
+Bradford,1,State House,19,DEM,Paul Still,124
+Bradford,1,State House,19,"",OverVotes,0
+Bradford,1,State House,19,"",UnderVotes,36
+Bradford,1,County Commissioner,2,REP,Kenny Thompson,629
+Bradford,1,County Commissioner,2,NPA,"James ""Jamie"" Clemons",392
+Bradford,1,County Commissioner,2,NPA,John F Crawford,100
+Bradford,1,County Commissioner,2,"",OverVotes,0
+Bradford,1,County Commissioner,2,"",UnderVotes,9
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,775
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,209
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,1
+Bradford,1,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,145
+Bradford,1,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,637
+Bradford,1,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,322
+Bradford,1,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Bradford,1,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,170
+Bradford,1,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,608
+Bradford,1,Retention of Harvey Jay,First District Court of Appeal,NOP,No,344
+Bradford,1,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Bradford,1,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,177
+Bradford,1,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,608
+Bradford,1,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,335
+Bradford,1,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,1,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,187
+Bradford,1,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,601
+Bradford,1,Retention of Brad Thomas,First District Court of Appeal,NOP,No,342
+Bradford,1,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Bradford,1,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,186
+Bradford,1,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,594
+Bradford,1,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,354
+Bradford,1,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,1,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,182
+Bradford,1,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,604
+Bradford,1,Retention of Allen Winsor,First District Court of Appeal,NOP,No,350
+Bradford,1,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,1,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,176
+Bradford,1,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,692
+Bradford,1,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,385
+Bradford,1,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,4
+Bradford,1,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,49
+Bradford,1,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,834
+Bradford,1,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,242
+Bradford,1,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,1,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,54
+Bradford,1,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,759
+Bradford,1,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,343
+Bradford,1,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Bradford,1,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,27
+Bradford,1,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,504
+Bradford,1,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,593
+Bradford,1,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Bradford,1,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,32
+Bradford,1,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,837
+Bradford,1,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,240
+Bradford,1,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Bradford,1,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,51
+Bradford,1,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,698
+Bradford,1,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,378
+Bradford,1,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,3
+Bradford,1,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,51
+Bradford,1,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,750
+Bradford,1,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,307
+Bradford,1,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,1,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,73
+Bradford,1,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,494
+Bradford,1,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,578
+Bradford,1,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Bradford,1,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,57
+Bradford,1,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,675
+Bradford,1,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,363
+Bradford,1,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Bradford,1,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,90
+Bradford,1,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,570
+Bradford,1,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,448
+Bradford,1,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,1,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,112
+Bradford,1,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,782
+Bradford,1,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,278
+Bradford,1,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Bradford,1,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,69
+Bradford,1,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,493
+Bradford,1,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,605
+Bradford,1,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Bradford,1,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,31
+Bradford,2,U.S. Senate,"",REP,Rick Scott,221
+Bradford,2,U.S. Senate,"",DEM,Bill Nelson,272
+Bradford,2,U.S. Senate,"","",WriteinVotes,2
+Bradford,2,U.S. Senate,"","",OverVotes,0
+Bradford,2,U.S. Senate,"","",UnderVotes,4
+Bradford,2,U.S. House,3,REP,Ted Yoho,239
+Bradford,2,U.S. House,3,DEM,Yvonne Hayes Hinson,250
+Bradford,2,U.S. House,3,"",OverVotes,0
+Bradford,2,U.S. House,3,"",UnderVotes,10
+Bradford,2,Governor,"",REP,DeSantis / Nuñez,216
+Bradford,2,Governor,"",DEM,Gillum / King,274
+Bradford,2,Governor,"",REF,Richardson / Argenziano,2
+Bradford,2,Governor,"",NPA,Gibson / Wilds,2
+Bradford,2,Governor,"",NPA,Foley / Tutton,0
+Bradford,2,Governor,"",NPA,Stanley / McJury,0
+Bradford,2,Governor,"","",WriteinVotes,2
+Bradford,2,Governor,"","",OverVotes,0
+Bradford,2,Governor,"","",UnderVotes,3
+Bradford,2,Attorney General,"",REP,Ashley Moody,229
+Bradford,2,Attorney General,"",DEM,Sean Shaw,252
+Bradford,2,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Bradford,2,Attorney General,"","",OverVotes,0
+Bradford,2,Attorney General,"","",UnderVotes,9
+Bradford,2,Chief Financial Officer,"",REP,Jimmy Patronis,235
+Bradford,2,Chief Financial Officer,"",DEM,Jeremy Ring,253
+Bradford,2,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,2,Chief Financial Officer,"","",OverVotes,0
+Bradford,2,Chief Financial Officer,"","",UnderVotes,11
+Bradford,2,Commissioner of Agriculture,"",REP,Matt Caldwell,232
+Bradford,2,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",256
+Bradford,2,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,2,Commissioner of Agriculture,"","",UnderVotes,11
+Bradford,2,State House,19,REP,Bobby Payne,226
+Bradford,2,State House,19,DEM,Paul Still,259
+Bradford,2,State House,19,"",OverVotes,0
+Bradford,2,State House,19,"",UnderVotes,14
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,178
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,283
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,2,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,38
+Bradford,2,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,276
+Bradford,2,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,167
+Bradford,2,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Bradford,2,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,55
+Bradford,2,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,268
+Bradford,2,Retention of Harvey Jay,First District Court of Appeal,NOP,No,178
+Bradford,2,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,2,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,53
+Bradford,2,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,284
+Bradford,2,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,159
+Bradford,2,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,2,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,56
+Bradford,2,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,270
+Bradford,2,Retention of Brad Thomas,First District Court of Appeal,NOP,No,169
+Bradford,2,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,2,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,60
+Bradford,2,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,266
+Bradford,2,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,174
+Bradford,2,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,2,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,59
+Bradford,2,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,258
+Bradford,2,Retention of Allen Winsor,First District Court of Appeal,NOP,No,183
+Bradford,2,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,2,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,58
+Bradford,2,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,224
+Bradford,2,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,251
+Bradford,2,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Bradford,2,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,24
+Bradford,2,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,291
+Bradford,2,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,182
+Bradford,2,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,2,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,26
+Bradford,2,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,360
+Bradford,2,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,118
+Bradford,2,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,2,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,21
+Bradford,2,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,345
+Bradford,2,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,138
+Bradford,2,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,2,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,16
+Bradford,2,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,288
+Bradford,2,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,182
+Bradford,2,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Bradford,2,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,28
+Bradford,2,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,281
+Bradford,2,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,191
+Bradford,2,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Bradford,2,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Bradford,2,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,324
+Bradford,2,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,145
+Bradford,2,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,2,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,30
+Bradford,2,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,319
+Bradford,2,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,147
+Bradford,2,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,2,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,33
+Bradford,2,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,290
+Bradford,2,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,172
+Bradford,2,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,2,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,37
+Bradford,2,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,247
+Bradford,2,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,208
+Bradford,2,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,2,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,44
+Bradford,2,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,305
+Bradford,2,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,159
+Bradford,2,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,2,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,35
+Bradford,2,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,277
+Bradford,2,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,204
+Bradford,2,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,2,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,18
+Bradford,3,U.S. Senate,"",REP,Rick Scott,349
+Bradford,3,U.S. Senate,"",DEM,Bill Nelson,65
+Bradford,3,U.S. Senate,"","",WriteinVotes,3
+Bradford,3,U.S. Senate,"","",OverVotes,0
+Bradford,3,U.S. Senate,"","",UnderVotes,2
+Bradford,3,U.S. House,3,REP,Ted Yoho,367
+Bradford,3,U.S. House,3,DEM,Yvonne Hayes Hinson,50
+Bradford,3,U.S. House,3,"",OverVotes,0
+Bradford,3,U.S. House,3,"",UnderVotes,2
+Bradford,3,Governor,"",REP,DeSantis / Nuñez,349
+Bradford,3,Governor,"",DEM,Gillum / King,55
+Bradford,3,Governor,"",REF,Richardson / Argenziano,1
+Bradford,3,Governor,"",NPA,Gibson / Wilds,0
+Bradford,3,Governor,"",NPA,Foley / Tutton,5
+Bradford,3,Governor,"",NPA,Stanley / McJury,4
+Bradford,3,Governor,"","",WriteinVotes,0
+Bradford,3,Governor,"","",OverVotes,2
+Bradford,3,Governor,"","",UnderVotes,3
+Bradford,3,Attorney General,"",REP,Ashley Moody,351
+Bradford,3,Attorney General,"",DEM,Sean Shaw,56
+Bradford,3,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Bradford,3,Attorney General,"","",OverVotes,0
+Bradford,3,Attorney General,"","",UnderVotes,4
+Bradford,3,Chief Financial Officer,"",REP,Jimmy Patronis,344
+Bradford,3,Chief Financial Officer,"",DEM,Jeremy Ring,65
+Bradford,3,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,3,Chief Financial Officer,"","",OverVotes,0
+Bradford,3,Chief Financial Officer,"","",UnderVotes,10
+Bradford,3,Commissioner of Agriculture,"",REP,Matt Caldwell,346
+Bradford,3,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",65
+Bradford,3,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,3,Commissioner of Agriculture,"","",UnderVotes,8
+Bradford,3,State House,19,REP,Bobby Payne,341
+Bradford,3,State House,19,DEM,Paul Still,69
+Bradford,3,State House,19,"",OverVotes,0
+Bradford,3,State House,19,"",UnderVotes,9
+Bradford,3,County Commissioner,2,REP,Kenny Thompson,206
+Bradford,3,County Commissioner,2,NPA,"James ""Jamie"" Clemons",154
+Bradford,3,County Commissioner,2,NPA,John F Crawford,53
+Bradford,3,County Commissioner,2,"",OverVotes,0
+Bradford,3,County Commissioner,2,"",UnderVotes,6
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,265
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,89
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,3,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,65
+Bradford,3,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,205
+Bradford,3,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,161
+Bradford,3,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,3,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,53
+Bradford,3,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,201
+Bradford,3,Retention of Harvey Jay,First District Court of Appeal,NOP,No,157
+Bradford,3,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,3,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,61
+Bradford,3,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,204
+Bradford,3,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,153
+Bradford,3,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,3,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,62
+Bradford,3,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,198
+Bradford,3,Retention of Brad Thomas,First District Court of Appeal,NOP,No,160
+Bradford,3,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,3,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,61
+Bradford,3,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,201
+Bradford,3,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,159
+Bradford,3,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,3,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,59
+Bradford,3,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,198
+Bradford,3,Retention of Allen Winsor,First District Court of Appeal,NOP,No,161
+Bradford,3,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,3,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,60
+Bradford,3,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,263
+Bradford,3,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,140
+Bradford,3,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Bradford,3,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Bradford,3,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,300
+Bradford,3,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,97
+Bradford,3,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,3,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,22
+Bradford,3,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,297
+Bradford,3,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,112
+Bradford,3,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,3,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Bradford,3,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,195
+Bradford,3,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,211
+Bradford,3,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,3,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,13
+Bradford,3,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,315
+Bradford,3,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,88
+Bradford,3,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,3,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,16
+Bradford,3,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,257
+Bradford,3,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,145
+Bradford,3,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Bradford,3,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,17
+Bradford,3,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,293
+Bradford,3,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,105
+Bradford,3,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,3,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,21
+Bradford,3,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,206
+Bradford,3,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,194
+Bradford,3,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,3,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,19
+Bradford,3,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,286
+Bradford,3,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,109
+Bradford,3,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Bradford,3,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,23
+Bradford,3,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,224
+Bradford,3,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,150
+Bradford,3,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Bradford,3,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,44
+Bradford,3,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,304
+Bradford,3,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,95
+Bradford,3,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Bradford,3,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,19
+Bradford,3,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,196
+Bradford,3,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,217
+Bradford,3,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,3,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,6
+Bradford,4,U.S. Senate,"",REP,Rick Scott,702
+Bradford,4,U.S. Senate,"",DEM,Bill Nelson,157
+Bradford,4,U.S. Senate,"","",WriteinVotes,3
+Bradford,4,U.S. Senate,"","",OverVotes,0
+Bradford,4,U.S. Senate,"","",UnderVotes,9
+Bradford,4,U.S. House,3,REP,Ted Yoho,716
+Bradford,4,U.S. House,3,DEM,Yvonne Hayes Hinson,139
+Bradford,4,U.S. House,3,"",OverVotes,0
+Bradford,4,U.S. House,3,"",UnderVotes,16
+Bradford,4,Governor,"",REP,DeSantis / Nuñez,709
+Bradford,4,Governor,"",DEM,Gillum / King,150
+Bradford,4,Governor,"",REF,Richardson / Argenziano,7
+Bradford,4,Governor,"",NPA,Gibson / Wilds,2
+Bradford,4,Governor,"",NPA,Foley / Tutton,0
+Bradford,4,Governor,"",NPA,Stanley / McJury,0
+Bradford,4,Governor,"","",WriteinVotes,0
+Bradford,4,Governor,"","",OverVotes,0
+Bradford,4,Governor,"","",UnderVotes,3
+Bradford,4,Attorney General,"",REP,Ashley Moody,704
+Bradford,4,Attorney General,"",DEM,Sean Shaw,134
+Bradford,4,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Bradford,4,Attorney General,"","",OverVotes,0
+Bradford,4,Attorney General,"","",UnderVotes,23
+Bradford,4,Chief Financial Officer,"",REP,Jimmy Patronis,711
+Bradford,4,Chief Financial Officer,"",DEM,Jeremy Ring,133
+Bradford,4,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,4,Chief Financial Officer,"","",OverVotes,0
+Bradford,4,Chief Financial Officer,"","",UnderVotes,27
+Bradford,4,Commissioner of Agriculture,"",REP,Matt Caldwell,707
+Bradford,4,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",150
+Bradford,4,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,4,Commissioner of Agriculture,"","",UnderVotes,14
+Bradford,4,State House,19,REP,Bobby Payne,700
+Bradford,4,State House,19,DEM,Paul Still,144
+Bradford,4,State House,19,"",OverVotes,0
+Bradford,4,State House,19,"",UnderVotes,27
+Bradford,4,County Commissioner,2,REP,Kenny Thompson,412
+Bradford,4,County Commissioner,2,NPA,"James ""Jamie"" Clemons",357
+Bradford,4,County Commissioner,2,NPA,John F Crawford,75
+Bradford,4,County Commissioner,2,"",OverVotes,0
+Bradford,4,County Commissioner,2,"",UnderVotes,27
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,567
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,183
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,4,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,121
+Bradford,4,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,459
+Bradford,4,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,271
+Bradford,4,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,4,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,141
+Bradford,4,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,436
+Bradford,4,Retention of Harvey Jay,First District Court of Appeal,NOP,No,281
+Bradford,4,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,4,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,154
+Bradford,4,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,430
+Bradford,4,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,279
+Bradford,4,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,4,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,162
+Bradford,4,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,444
+Bradford,4,Retention of Brad Thomas,First District Court of Appeal,NOP,No,267
+Bradford,4,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,4,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,160
+Bradford,4,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,427
+Bradford,4,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,284
+Bradford,4,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,4,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,160
+Bradford,4,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,432
+Bradford,4,Retention of Allen Winsor,First District Court of Appeal,NOP,No,275
+Bradford,4,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,4,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,164
+Bradford,4,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,492
+Bradford,4,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,328
+Bradford,4,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Bradford,4,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,50
+Bradford,4,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,598
+Bradford,4,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,217
+Bradford,4,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Bradford,4,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,55
+Bradford,4,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,570
+Bradford,4,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,257
+Bradford,4,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,4,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,44
+Bradford,4,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,360
+Bradford,4,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,473
+Bradford,4,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Bradford,4,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,36
+Bradford,4,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,588
+Bradford,4,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,229
+Bradford,4,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,4,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,54
+Bradford,4,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,522
+Bradford,4,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,300
+Bradford,4,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Bradford,4,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,49
+Bradford,4,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,554
+Bradford,4,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,259
+Bradford,4,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Bradford,4,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,57
+Bradford,4,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,382
+Bradford,4,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,431
+Bradford,4,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,4,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,58
+Bradford,4,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,573
+Bradford,4,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,225
+Bradford,4,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,4,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,73
+Bradford,4,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,393
+Bradford,4,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,365
+Bradford,4,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Bradford,4,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,112
+Bradford,4,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,550
+Bradford,4,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,246
+Bradford,4,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Bradford,4,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,73
+Bradford,4,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,357
+Bradford,4,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,478
+Bradford,4,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,4,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,36
+Bradford,5,U.S. Senate,"",REP,Rick Scott,646
+Bradford,5,U.S. Senate,"",DEM,Bill Nelson,413
+Bradford,5,U.S. Senate,"","",WriteinVotes,5
+Bradford,5,U.S. Senate,"","",OverVotes,0
+Bradford,5,U.S. Senate,"","",UnderVotes,17
+Bradford,5,U.S. House,3,REP,Ted Yoho,703
+Bradford,5,U.S. House,3,DEM,Yvonne Hayes Hinson,354
+Bradford,5,U.S. House,3,"",OverVotes,0
+Bradford,5,U.S. House,3,"",UnderVotes,24
+Bradford,5,Governor,"",REP,DeSantis / Nuñez,660
+Bradford,5,Governor,"",DEM,Gillum / King,400
+Bradford,5,Governor,"",REF,Richardson / Argenziano,3
+Bradford,5,Governor,"",NPA,Gibson / Wilds,4
+Bradford,5,Governor,"",NPA,Foley / Tutton,3
+Bradford,5,Governor,"",NPA,Stanley / McJury,1
+Bradford,5,Governor,"","",WriteinVotes,0
+Bradford,5,Governor,"","",OverVotes,4
+Bradford,5,Governor,"","",UnderVotes,6
+Bradford,5,Attorney General,"",REP,Ashley Moody,690
+Bradford,5,Attorney General,"",DEM,Sean Shaw,342
+Bradford,5,Attorney General,"",NPA,Jeffrey Marc Siskind,18
+Bradford,5,Attorney General,"","",OverVotes,0
+Bradford,5,Attorney General,"","",UnderVotes,31
+Bradford,5,Chief Financial Officer,"",REP,Jimmy Patronis,681
+Bradford,5,Chief Financial Officer,"",DEM,Jeremy Ring,358
+Bradford,5,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,5,Chief Financial Officer,"","",OverVotes,0
+Bradford,5,Chief Financial Officer,"","",UnderVotes,42
+Bradford,5,Commissioner of Agriculture,"",REP,Matt Caldwell,678
+Bradford,5,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",367
+Bradford,5,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,5,Commissioner of Agriculture,"","",UnderVotes,36
+Bradford,5,State House,19,REP,Bobby Payne,666
+Bradford,5,State House,19,DEM,Paul Still,369
+Bradford,5,State House,19,"",OverVotes,0
+Bradford,5,State House,19,"",UnderVotes,46
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,516
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,421
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,5,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,144
+Bradford,5,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,607
+Bradford,5,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,304
+Bradford,5,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,5,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,170
+Bradford,5,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,604
+Bradford,5,Retention of Harvey Jay,First District Court of Appeal,NOP,No,291
+Bradford,5,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,5,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,186
+Bradford,5,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,602
+Bradford,5,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,284
+Bradford,5,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Bradford,5,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,194
+Bradford,5,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,598
+Bradford,5,Retention of Brad Thomas,First District Court of Appeal,NOP,No,285
+Bradford,5,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,5,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,198
+Bradford,5,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,601
+Bradford,5,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,282
+Bradford,5,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,5,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,198
+Bradford,5,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,595
+Bradford,5,Retention of Allen Winsor,First District Court of Appeal,NOP,No,302
+Bradford,5,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,5,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,184
+Bradford,5,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,567
+Bradford,5,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,450
+Bradford,5,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Bradford,5,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,63
+Bradford,5,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,684
+Bradford,5,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,319
+Bradford,5,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,5,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,78
+Bradford,5,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,742
+Bradford,5,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,287
+Bradford,5,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,5,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,52
+Bradford,5,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,612
+Bradford,5,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,435
+Bradford,5,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,5,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,34
+Bradford,5,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,695
+Bradford,5,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,315
+Bradford,5,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,5,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,71
+Bradford,5,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,650
+Bradford,5,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,363
+Bradford,5,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Bradford,5,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,67
+Bradford,5,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,730
+Bradford,5,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,289
+Bradford,5,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,5,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,62
+Bradford,5,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,610
+Bradford,5,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,394
+Bradford,5,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,5,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,77
+Bradford,5,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,671
+Bradford,5,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,316
+Bradford,5,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,5,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,94
+Bradford,5,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,543
+Bradford,5,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,416
+Bradford,5,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,5,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,122
+Bradford,5,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,740
+Bradford,5,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,257
+Bradford,5,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,5,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,84
+Bradford,5,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,619
+Bradford,5,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,415
+Bradford,5,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Bradford,5,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,46
+Bradford,6,U.S. Senate,"",REP,Rick Scott,438
+Bradford,6,U.S. Senate,"",DEM,Bill Nelson,76
+Bradford,6,U.S. Senate,"","",WriteinVotes,1
+Bradford,6,U.S. Senate,"","",OverVotes,0
+Bradford,6,U.S. Senate,"","",UnderVotes,3
+Bradford,6,U.S. House,3,REP,Ted Yoho,469
+Bradford,6,U.S. House,3,DEM,Yvonne Hayes Hinson,47
+Bradford,6,U.S. House,3,"",OverVotes,0
+Bradford,6,U.S. House,3,"",UnderVotes,2
+Bradford,6,Governor,"",REP,DeSantis / Nuñez,448
+Bradford,6,Governor,"",DEM,Gillum / King,65
+Bradford,6,Governor,"",REF,Richardson / Argenziano,3
+Bradford,6,Governor,"",NPA,Gibson / Wilds,1
+Bradford,6,Governor,"",NPA,Foley / Tutton,0
+Bradford,6,Governor,"",NPA,Stanley / McJury,0
+Bradford,6,Governor,"","",WriteinVotes,0
+Bradford,6,Governor,"","",OverVotes,0
+Bradford,6,Governor,"","",UnderVotes,1
+Bradford,6,Attorney General,"",REP,Ashley Moody,455
+Bradford,6,Attorney General,"",DEM,Sean Shaw,52
+Bradford,6,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Bradford,6,Attorney General,"","",OverVotes,0
+Bradford,6,Attorney General,"","",UnderVotes,5
+Bradford,6,Chief Financial Officer,"",REP,Jimmy Patronis,457
+Bradford,6,Chief Financial Officer,"",DEM,Jeremy Ring,48
+Bradford,6,Chief Financial Officer,"","",WriteinVotes,1
+Bradford,6,Chief Financial Officer,"","",OverVotes,0
+Bradford,6,Chief Financial Officer,"","",UnderVotes,12
+Bradford,6,Commissioner of Agriculture,"",REP,Matt Caldwell,456
+Bradford,6,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",58
+Bradford,6,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,6,Commissioner of Agriculture,"","",UnderVotes,4
+Bradford,6,State House,19,REP,Bobby Payne,437
+Bradford,6,State House,19,DEM,Paul Still,74
+Bradford,6,State House,19,"",OverVotes,0
+Bradford,6,State House,19,"",UnderVotes,7
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,334
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,116
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,6,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,68
+Bradford,6,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,296
+Bradford,6,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,156
+Bradford,6,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,6,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,66
+Bradford,6,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,281
+Bradford,6,Retention of Harvey Jay,First District Court of Appeal,NOP,No,157
+Bradford,6,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,6,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,80
+Bradford,6,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,268
+Bradford,6,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,164
+Bradford,6,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,6,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,86
+Bradford,6,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,276
+Bradford,6,Retention of Brad Thomas,First District Court of Appeal,NOP,No,156
+Bradford,6,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,6,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,86
+Bradford,6,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,269
+Bradford,6,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,162
+Bradford,6,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,6,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,87
+Bradford,6,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,277
+Bradford,6,Retention of Allen Winsor,First District Court of Appeal,NOP,No,163
+Bradford,6,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,6,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,78
+Bradford,6,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,307
+Bradford,6,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,197
+Bradford,6,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Bradford,6,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,14
+Bradford,6,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,368
+Bradford,6,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,130
+Bradford,6,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,6,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,20
+Bradford,6,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,367
+Bradford,6,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,136
+Bradford,6,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,6,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,15
+Bradford,6,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,203
+Bradford,6,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,303
+Bradford,6,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,6,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,12
+Bradford,6,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,386
+Bradford,6,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,112
+Bradford,6,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,6,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,20
+Bradford,6,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,312
+Bradford,6,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,187
+Bradford,6,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Bradford,6,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,19
+Bradford,6,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,348
+Bradford,6,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,150
+Bradford,6,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,6,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,20
+Bradford,6,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,230
+Bradford,6,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,266
+Bradford,6,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,6,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,22
+Bradford,6,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,342
+Bradford,6,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,147
+Bradford,6,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Bradford,6,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,28
+Bradford,6,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,242
+Bradford,6,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,228
+Bradford,6,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Bradford,6,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,46
+Bradford,6,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,370
+Bradford,6,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,117
+Bradford,6,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,6,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,31
+Bradford,6,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,236
+Bradford,6,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,266
+Bradford,6,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,6,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Bradford,7,U.S. Senate,"",REP,Rick Scott,245
+Bradford,7,U.S. Senate,"",DEM,Bill Nelson,404
+Bradford,7,U.S. Senate,"","",WriteinVotes,1
+Bradford,7,U.S. Senate,"","",OverVotes,1
+Bradford,7,U.S. Senate,"","",UnderVotes,5
+Bradford,7,U.S. House,3,REP,Ted Yoho,257
+Bradford,7,U.S. House,3,DEM,Yvonne Hayes Hinson,385
+Bradford,7,U.S. House,3,"",OverVotes,0
+Bradford,7,U.S. House,3,"",UnderVotes,14
+Bradford,7,Governor,"",REP,DeSantis / Nuñez,244
+Bradford,7,Governor,"",DEM,Gillum / King,397
+Bradford,7,Governor,"",REF,Richardson / Argenziano,1
+Bradford,7,Governor,"",NPA,Gibson / Wilds,6
+Bradford,7,Governor,"",NPA,Foley / Tutton,3
+Bradford,7,Governor,"",NPA,Stanley / McJury,3
+Bradford,7,Governor,"","",WriteinVotes,0
+Bradford,7,Governor,"","",OverVotes,0
+Bradford,7,Governor,"","",UnderVotes,2
+Bradford,7,Attorney General,"",REP,Ashley Moody,245
+Bradford,7,Attorney General,"",DEM,Sean Shaw,387
+Bradford,7,Attorney General,"",NPA,Jeffrey Marc Siskind,12
+Bradford,7,Attorney General,"","",OverVotes,0
+Bradford,7,Attorney General,"","",UnderVotes,12
+Bradford,7,Chief Financial Officer,"",REP,Jimmy Patronis,246
+Bradford,7,Chief Financial Officer,"",DEM,Jeremy Ring,391
+Bradford,7,Chief Financial Officer,"","",WriteinVotes,1
+Bradford,7,Chief Financial Officer,"","",OverVotes,0
+Bradford,7,Chief Financial Officer,"","",UnderVotes,18
+Bradford,7,Commissioner of Agriculture,"",REP,Matt Caldwell,248
+Bradford,7,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",388
+Bradford,7,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,7,Commissioner of Agriculture,"","",UnderVotes,20
+Bradford,7,State House,19,REP,Bobby Payne,244
+Bradford,7,State House,19,DEM,Paul Still,390
+Bradford,7,State House,19,"",OverVotes,0
+Bradford,7,State House,19,"",UnderVotes,22
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,184
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,389
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,7,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,83
+Bradford,7,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,357
+Bradford,7,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,206
+Bradford,7,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,7,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,93
+Bradford,7,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,347
+Bradford,7,Retention of Harvey Jay,First District Court of Appeal,NOP,No,213
+Bradford,7,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Bradford,7,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,95
+Bradford,7,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,358
+Bradford,7,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,201
+Bradford,7,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,7,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,97
+Bradford,7,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,345
+Bradford,7,Retention of Brad Thomas,First District Court of Appeal,NOP,No,212
+Bradford,7,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,7,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,99
+Bradford,7,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,343
+Bradford,7,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,217
+Bradford,7,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,7,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,96
+Bradford,7,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,336
+Bradford,7,Retention of Allen Winsor,First District Court of Appeal,NOP,No,226
+Bradford,7,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,7,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,94
+Bradford,7,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,295
+Bradford,7,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,318
+Bradford,7,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Bradford,7,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,41
+Bradford,7,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,389
+Bradford,7,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,221
+Bradford,7,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,7,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,46
+Bradford,7,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,487
+Bradford,7,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,144
+Bradford,7,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,7,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,25
+Bradford,7,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,472
+Bradford,7,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,151
+Bradford,7,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,7,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,33
+Bradford,7,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,345
+Bradford,7,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,259
+Bradford,7,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Bradford,7,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,51
+Bradford,7,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,379
+Bradford,7,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,230
+Bradford,7,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Bradford,7,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,47
+Bradford,7,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,425
+Bradford,7,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,178
+Bradford,7,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,7,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,53
+Bradford,7,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,389
+Bradford,7,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,203
+Bradford,7,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,7,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,64
+Bradford,7,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,381
+Bradford,7,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,210
+Bradford,7,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,7,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,65
+Bradford,7,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,350
+Bradford,7,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,227
+Bradford,7,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,7,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,79
+Bradford,7,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,412
+Bradford,7,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,182
+Bradford,7,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,7,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,62
+Bradford,7,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,339
+Bradford,7,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,288
+Bradford,7,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,7,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,29
+Bradford,8,U.S. Senate,"",REP,Rick Scott,843
+Bradford,8,U.S. Senate,"",DEM,Bill Nelson,268
+Bradford,8,U.S. Senate,"","",WriteinVotes,4
+Bradford,8,U.S. Senate,"","",OverVotes,0
+Bradford,8,U.S. Senate,"","",UnderVotes,8
+Bradford,8,U.S. House,3,REP,Ted Yoho,892
+Bradford,8,U.S. House,3,DEM,Yvonne Hayes Hinson,218
+Bradford,8,U.S. House,3,"",OverVotes,0
+Bradford,8,U.S. House,3,"",UnderVotes,13
+Bradford,8,Governor,"",REP,DeSantis / Nuñez,868
+Bradford,8,Governor,"",DEM,Gillum / King,237
+Bradford,8,Governor,"",REF,Richardson / Argenziano,8
+Bradford,8,Governor,"",NPA,Gibson / Wilds,2
+Bradford,8,Governor,"",NPA,Foley / Tutton,0
+Bradford,8,Governor,"",NPA,Stanley / McJury,2
+Bradford,8,Governor,"","",WriteinVotes,0
+Bradford,8,Governor,"","",OverVotes,1
+Bradford,8,Governor,"","",UnderVotes,5
+Bradford,8,Attorney General,"",REP,Ashley Moody,880
+Bradford,8,Attorney General,"",DEM,Sean Shaw,214
+Bradford,8,Attorney General,"",NPA,Jeffrey Marc Siskind,14
+Bradford,8,Attorney General,"","",OverVotes,1
+Bradford,8,Attorney General,"","",UnderVotes,14
+Bradford,8,Chief Financial Officer,"",REP,Jimmy Patronis,864
+Bradford,8,Chief Financial Officer,"",DEM,Jeremy Ring,234
+Bradford,8,Chief Financial Officer,"","",WriteinVotes,1
+Bradford,8,Chief Financial Officer,"","",OverVotes,0
+Bradford,8,Chief Financial Officer,"","",UnderVotes,24
+Bradford,8,Commissioner of Agriculture,"",REP,Matt Caldwell,883
+Bradford,8,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",222
+Bradford,8,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,8,Commissioner of Agriculture,"","",UnderVotes,18
+Bradford,8,State House,19,REP,Bobby Payne,870
+Bradford,8,State House,19,DEM,Paul Still,232
+Bradford,8,State House,19,"",OverVotes,0
+Bradford,8,State House,19,"",UnderVotes,21
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,672
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,332
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,1
+Bradford,8,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,118
+Bradford,8,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,675
+Bradford,8,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,328
+Bradford,8,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,8,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,120
+Bradford,8,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,631
+Bradford,8,Retention of Harvey Jay,First District Court of Appeal,NOP,No,345
+Bradford,8,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,8,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,147
+Bradford,8,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,647
+Bradford,8,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,320
+Bradford,8,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,8,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,156
+Bradford,8,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,627
+Bradford,8,Retention of Brad Thomas,First District Court of Appeal,NOP,No,334
+Bradford,8,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,8,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,162
+Bradford,8,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,612
+Bradford,8,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,349
+Bradford,8,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Bradford,8,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,161
+Bradford,8,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,642
+Bradford,8,Retention of Allen Winsor,First District Court of Appeal,NOP,No,327
+Bradford,8,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,8,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,154
+Bradford,8,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,651
+Bradford,8,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,441
+Bradford,8,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Bradford,8,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,29
+Bradford,8,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,774
+Bradford,8,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,302
+Bradford,8,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,8,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,47
+Bradford,8,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,746
+Bradford,8,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,357
+Bradford,8,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,8,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,20
+Bradford,8,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,511
+Bradford,8,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,588
+Bradford,8,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,8,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,24
+Bradford,8,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,799
+Bradford,8,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,278
+Bradford,8,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Bradford,8,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,44
+Bradford,8,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,687
+Bradford,8,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,394
+Bradford,8,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Bradford,8,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,41
+Bradford,8,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,796
+Bradford,8,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,285
+Bradford,8,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Bradford,8,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,41
+Bradford,8,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,530
+Bradford,8,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,537
+Bradford,8,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Bradford,8,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,54
+Bradford,8,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,745
+Bradford,8,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,318
+Bradford,8,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Bradford,8,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,58
+Bradford,8,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,599
+Bradford,8,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,441
+Bradford,8,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,8,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,83
+Bradford,8,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,809
+Bradford,8,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,260
+Bradford,8,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,8,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,54
+Bradford,8,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,587
+Bradford,8,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,515
+Bradford,8,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Bradford,8,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,20
+Bradford,9,U.S. Senate,"",REP,Rick Scott,473
+Bradford,9,U.S. Senate,"",DEM,Bill Nelson,272
+Bradford,9,U.S. Senate,"","",WriteinVotes,4
+Bradford,9,U.S. Senate,"","",OverVotes,0
+Bradford,9,U.S. Senate,"","",UnderVotes,5
+Bradford,9,U.S. House,3,REP,Ted Yoho,492
+Bradford,9,U.S. House,3,DEM,Yvonne Hayes Hinson,250
+Bradford,9,U.S. House,3,"",OverVotes,0
+Bradford,9,U.S. House,3,"",UnderVotes,12
+Bradford,9,Governor,"",REP,DeSantis / Nuñez,472
+Bradford,9,Governor,"",DEM,Gillum / King,262
+Bradford,9,Governor,"",REF,Richardson / Argenziano,6
+Bradford,9,Governor,"",NPA,Gibson / Wilds,2
+Bradford,9,Governor,"",NPA,Foley / Tutton,1
+Bradford,9,Governor,"",NPA,Stanley / McJury,0
+Bradford,9,Governor,"","",WriteinVotes,2
+Bradford,9,Governor,"","",OverVotes,6
+Bradford,9,Governor,"","",UnderVotes,3
+Bradford,9,Attorney General,"",REP,Ashley Moody,482
+Bradford,9,Attorney General,"",DEM,Sean Shaw,244
+Bradford,9,Attorney General,"",NPA,Jeffrey Marc Siskind,11
+Bradford,9,Attorney General,"","",OverVotes,0
+Bradford,9,Attorney General,"","",UnderVotes,17
+Bradford,9,Chief Financial Officer,"",REP,Jimmy Patronis,487
+Bradford,9,Chief Financial Officer,"",DEM,Jeremy Ring,248
+Bradford,9,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,9,Chief Financial Officer,"","",OverVotes,0
+Bradford,9,Chief Financial Officer,"","",UnderVotes,19
+Bradford,9,Commissioner of Agriculture,"",REP,Matt Caldwell,492
+Bradford,9,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",246
+Bradford,9,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,9,Commissioner of Agriculture,"","",UnderVotes,16
+Bradford,9,State House,19,REP,Bobby Payne,475
+Bradford,9,State House,19,DEM,Paul Still,258
+Bradford,9,State House,19,"",OverVotes,0
+Bradford,9,State House,19,"",UnderVotes,21
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,371
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,280
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,9,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,103
+Bradford,9,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,405
+Bradford,9,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,212
+Bradford,9,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,9,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,137
+Bradford,9,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,399
+Bradford,9,Retention of Harvey Jay,First District Court of Appeal,NOP,No,213
+Bradford,9,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,9,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,142
+Bradford,9,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,399
+Bradford,9,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,205
+Bradford,9,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,9,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,150
+Bradford,9,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,401
+Bradford,9,Retention of Brad Thomas,First District Court of Appeal,NOP,No,201
+Bradford,9,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,9,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,152
+Bradford,9,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,401
+Bradford,9,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,203
+Bradford,9,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,9,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,150
+Bradford,9,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,408
+Bradford,9,Retention of Allen Winsor,First District Court of Appeal,NOP,No,200
+Bradford,9,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,9,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,146
+Bradford,9,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,388
+Bradford,9,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,318
+Bradford,9,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Bradford,9,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,47
+Bradford,9,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,502
+Bradford,9,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,195
+Bradford,9,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,9,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,57
+Bradford,9,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,528
+Bradford,9,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,186
+Bradford,9,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,9,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,40
+Bradford,9,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,432
+Bradford,9,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,292
+Bradford,9,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,9,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,30
+Bradford,9,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,483
+Bradford,9,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,221
+Bradford,9,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,9,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,50
+Bradford,9,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,442
+Bradford,9,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,263
+Bradford,9,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Bradford,9,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,48
+Bradford,9,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,476
+Bradford,9,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,213
+Bradford,9,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Bradford,9,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,64
+Bradford,9,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,391
+Bradford,9,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,288
+Bradford,9,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Bradford,9,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,73
+Bradford,9,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,447
+Bradford,9,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,229
+Bradford,9,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,9,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,78
+Bradford,9,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,366
+Bradford,9,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,287
+Bradford,9,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,9,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,101
+Bradford,9,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,492
+Bradford,9,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,185
+Bradford,9,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,9,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,77
+Bradford,9,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,372
+Bradford,9,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,333
+Bradford,9,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,9,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,49
+Bradford,10,U.S. Senate,"",REP,Rick Scott,543
+Bradford,10,U.S. Senate,"",DEM,Bill Nelson,78
+Bradford,10,U.S. Senate,"","",WriteinVotes,2
+Bradford,10,U.S. Senate,"","",OverVotes,0
+Bradford,10,U.S. Senate,"","",UnderVotes,6
+Bradford,10,U.S. House,3,REP,Ted Yoho,571
+Bradford,10,U.S. House,3,DEM,Yvonne Hayes Hinson,57
+Bradford,10,U.S. House,3,"",OverVotes,0
+Bradford,10,U.S. House,3,"",UnderVotes,1
+Bradford,10,Governor,"",REP,DeSantis / Nuñez,552
+Bradford,10,Governor,"",DEM,Gillum / King,68
+Bradford,10,Governor,"",REF,Richardson / Argenziano,5
+Bradford,10,Governor,"",NPA,Gibson / Wilds,1
+Bradford,10,Governor,"",NPA,Foley / Tutton,0
+Bradford,10,Governor,"",NPA,Stanley / McJury,0
+Bradford,10,Governor,"","",WriteinVotes,0
+Bradford,10,Governor,"","",OverVotes,2
+Bradford,10,Governor,"","",UnderVotes,1
+Bradford,10,Attorney General,"",REP,Ashley Moody,554
+Bradford,10,Attorney General,"",DEM,Sean Shaw,63
+Bradford,10,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Bradford,10,Attorney General,"","",OverVotes,0
+Bradford,10,Attorney General,"","",UnderVotes,8
+Bradford,10,Chief Financial Officer,"",REP,Jimmy Patronis,553
+Bradford,10,Chief Financial Officer,"",DEM,Jeremy Ring,61
+Bradford,10,Chief Financial Officer,"","",WriteinVotes,1
+Bradford,10,Chief Financial Officer,"","",OverVotes,0
+Bradford,10,Chief Financial Officer,"","",UnderVotes,14
+Bradford,10,Commissioner of Agriculture,"",REP,Matt Caldwell,545
+Bradford,10,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",76
+Bradford,10,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,10,Commissioner of Agriculture,"","",UnderVotes,8
+Bradford,10,State House,19,REP,Bobby Payne,543
+Bradford,10,State House,19,DEM,Paul Still,71
+Bradford,10,State House,19,"",OverVotes,0
+Bradford,10,State House,19,"",UnderVotes,15
+Bradford,10,County Commissioner,4,REP,Danny Riddick,550
+Bradford,10,County Commissioner,4,"",WriteinVotes,26
+Bradford,10,County Commissioner,4,"",OverVotes,0
+Bradford,10,County Commissioner,4,"",UnderVotes,53
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,401
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,122
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,10,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,106
+Bradford,10,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,351
+Bradford,10,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,156
+Bradford,10,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,10,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,122
+Bradford,10,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,334
+Bradford,10,Retention of Harvey Jay,First District Court of Appeal,NOP,No,163
+Bradford,10,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,10,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,132
+Bradford,10,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,324
+Bradford,10,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,164
+Bradford,10,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,10,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,141
+Bradford,10,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,325
+Bradford,10,Retention of Brad Thomas,First District Court of Appeal,NOP,No,163
+Bradford,10,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,10,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,141
+Bradford,10,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,311
+Bradford,10,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,176
+Bradford,10,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,10,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,142
+Bradford,10,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,340
+Bradford,10,Retention of Allen Winsor,First District Court of Appeal,NOP,No,153
+Bradford,10,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,10,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,136
+Bradford,10,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,396
+Bradford,10,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,206
+Bradford,10,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Bradford,10,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,26
+Bradford,10,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,476
+Bradford,10,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,128
+Bradford,10,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,10,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,25
+Bradford,10,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,428
+Bradford,10,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,184
+Bradford,10,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Bradford,10,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,16
+Bradford,10,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,248
+Bradford,10,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,364
+Bradford,10,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,10,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,17
+Bradford,10,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,465
+Bradford,10,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,137
+Bradford,10,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,10,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,27
+Bradford,10,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,354
+Bradford,10,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,241
+Bradford,10,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Bradford,10,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,33
+Bradford,10,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,389
+Bradford,10,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,203
+Bradford,10,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,10,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,37
+Bradford,10,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,303
+Bradford,10,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,292
+Bradford,10,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Bradford,10,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,33
+Bradford,10,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,411
+Bradford,10,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,174
+Bradford,10,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,10,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,44
+Bradford,10,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,305
+Bradford,10,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,260
+Bradford,10,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Bradford,10,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,63
+Bradford,10,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,423
+Bradford,10,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,166
+Bradford,10,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,10,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,40
+Bradford,10,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,288
+Bradford,10,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,326
+Bradford,10,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Bradford,10,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,14
+Bradford,11,U.S. Senate,"",REP,Rick Scott,576
+Bradford,11,U.S. Senate,"",DEM,Bill Nelson,184
+Bradford,11,U.S. Senate,"","",WriteinVotes,0
+Bradford,11,U.S. Senate,"","",OverVotes,0
+Bradford,11,U.S. Senate,"","",UnderVotes,9
+Bradford,11,U.S. House,3,REP,Ted Yoho,614
+Bradford,11,U.S. House,3,DEM,Yvonne Hayes Hinson,142
+Bradford,11,U.S. House,3,"",OverVotes,0
+Bradford,11,U.S. House,3,"",UnderVotes,13
+Bradford,11,Governor,"",REP,DeSantis / Nuñez,580
+Bradford,11,Governor,"",DEM,Gillum / King,166
+Bradford,11,Governor,"",REF,Richardson / Argenziano,5
+Bradford,11,Governor,"",NPA,Gibson / Wilds,2
+Bradford,11,Governor,"",NPA,Foley / Tutton,3
+Bradford,11,Governor,"",NPA,Stanley / McJury,3
+Bradford,11,Governor,"","",WriteinVotes,0
+Bradford,11,Governor,"","",OverVotes,1
+Bradford,11,Governor,"","",UnderVotes,9
+Bradford,11,Attorney General,"",REP,Ashley Moody,584
+Bradford,11,Attorney General,"",DEM,Sean Shaw,138
+Bradford,11,Attorney General,"",NPA,Jeffrey Marc Siskind,27
+Bradford,11,Attorney General,"","",OverVotes,0
+Bradford,11,Attorney General,"","",UnderVotes,20
+Bradford,11,Chief Financial Officer,"",REP,Jimmy Patronis,587
+Bradford,11,Chief Financial Officer,"",DEM,Jeremy Ring,149
+Bradford,11,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,11,Chief Financial Officer,"","",OverVotes,0
+Bradford,11,Chief Financial Officer,"","",UnderVotes,33
+Bradford,11,Commissioner of Agriculture,"",REP,Matt Caldwell,582
+Bradford,11,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",163
+Bradford,11,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,11,Commissioner of Agriculture,"","",UnderVotes,24
+Bradford,11,State House,19,REP,Bobby Payne,569
+Bradford,11,State House,19,DEM,Paul Still,161
+Bradford,11,State House,19,"",OverVotes,0
+Bradford,11,State House,19,"",UnderVotes,39
+Bradford,11,County Commissioner,4,REP,Danny Riddick,652
+Bradford,11,County Commissioner,4,"",WriteinVotes,20
+Bradford,11,County Commissioner,4,"",OverVotes,0
+Bradford,11,County Commissioner,4,"",UnderVotes,97
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,446
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,192
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,11,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,131
+Bradford,11,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,375
+Bradford,11,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,244
+Bradford,11,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,11,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,150
+Bradford,11,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,353
+Bradford,11,Retention of Harvey Jay,First District Court of Appeal,NOP,No,253
+Bradford,11,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,11,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,163
+Bradford,11,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,357
+Bradford,11,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,245
+Bradford,11,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,11,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,167
+Bradford,11,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,366
+Bradford,11,Retention of Brad Thomas,First District Court of Appeal,NOP,No,239
+Bradford,11,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,11,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,164
+Bradford,11,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,356
+Bradford,11,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,248
+Bradford,11,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,11,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,165
+Bradford,11,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,372
+Bradford,11,Retention of Allen Winsor,First District Court of Appeal,NOP,No,239
+Bradford,11,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,11,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,158
+Bradford,11,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,436
+Bradford,11,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,298
+Bradford,11,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Bradford,11,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,35
+Bradford,11,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,540
+Bradford,11,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,184
+Bradford,11,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Bradford,11,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,44
+Bradford,11,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,551
+Bradford,11,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,191
+Bradford,11,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,11,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,27
+Bradford,11,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,371
+Bradford,11,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,373
+Bradford,11,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Bradford,11,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,24
+Bradford,11,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,561
+Bradford,11,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,167
+Bradford,11,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Bradford,11,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,40
+Bradford,11,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,476
+Bradford,11,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,253
+Bradford,11,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Bradford,11,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,39
+Bradford,11,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,504
+Bradford,11,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,222
+Bradford,11,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Bradford,11,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,42
+Bradford,11,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,401
+Bradford,11,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,329
+Bradford,11,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Bradford,11,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,38
+Bradford,11,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,490
+Bradford,11,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,215
+Bradford,11,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,11,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,64
+Bradford,11,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,369
+Bradford,11,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,300
+Bradford,11,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Bradford,11,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,99
+Bradford,11,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,546
+Bradford,11,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,168
+Bradford,11,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,11,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,55
+Bradford,11,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,372
+Bradford,11,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,362
+Bradford,11,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,11,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,35
+Bradford,12,U.S. Senate,"",REP,Rick Scott,941
+Bradford,12,U.S. Senate,"",DEM,Bill Nelson,358
+Bradford,12,U.S. Senate,"","",WriteinVotes,4
+Bradford,12,U.S. Senate,"","",OverVotes,0
+Bradford,12,U.S. Senate,"","",UnderVotes,12
+Bradford,12,U.S. House,3,REP,Ted Yoho,964
+Bradford,12,U.S. House,3,DEM,Yvonne Hayes Hinson,332
+Bradford,12,U.S. House,3,"",OverVotes,0
+Bradford,12,U.S. House,3,"",UnderVotes,19
+Bradford,12,Governor,"",REP,DeSantis / Nuñez,947
+Bradford,12,Governor,"",DEM,Gillum / King,340
+Bradford,12,Governor,"",REF,Richardson / Argenziano,4
+Bradford,12,Governor,"",NPA,Gibson / Wilds,3
+Bradford,12,Governor,"",NPA,Foley / Tutton,4
+Bradford,12,Governor,"",NPA,Stanley / McJury,4
+Bradford,12,Governor,"","",WriteinVotes,3
+Bradford,12,Governor,"","",OverVotes,4
+Bradford,12,Governor,"","",UnderVotes,6
+Bradford,12,Attorney General,"",REP,Ashley Moody,961
+Bradford,12,Attorney General,"",DEM,Sean Shaw,311
+Bradford,12,Attorney General,"",NPA,Jeffrey Marc Siskind,16
+Bradford,12,Attorney General,"","",OverVotes,0
+Bradford,12,Attorney General,"","",UnderVotes,27
+Bradford,12,Chief Financial Officer,"",REP,Jimmy Patronis,948
+Bradford,12,Chief Financial Officer,"",DEM,Jeremy Ring,322
+Bradford,12,Chief Financial Officer,"","",WriteinVotes,1
+Bradford,12,Chief Financial Officer,"","",OverVotes,0
+Bradford,12,Chief Financial Officer,"","",UnderVotes,44
+Bradford,12,Commissioner of Agriculture,"",REP,Matt Caldwell,959
+Bradford,12,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",321
+Bradford,12,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,12,Commissioner of Agriculture,"","",UnderVotes,35
+Bradford,12,State House,19,REP,Bobby Payne,942
+Bradford,12,State House,19,DEM,Paul Still,318
+Bradford,12,State House,19,"",OverVotes,0
+Bradford,12,State House,19,"",UnderVotes,55
+Bradford,12,County Commissioner,4,REP,Danny Riddick,987
+Bradford,12,County Commissioner,4,"",WriteinVotes,80
+Bradford,12,County Commissioner,4,"",OverVotes,0
+Bradford,12,County Commissioner,4,"",UnderVotes,248
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,625
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,406
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,12,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,284
+Bradford,12,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,693
+Bradford,12,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,347
+Bradford,12,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,12,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,275
+Bradford,12,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,646
+Bradford,12,Retention of Harvey Jay,First District Court of Appeal,NOP,No,345
+Bradford,12,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,12,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,324
+Bradford,12,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,660
+Bradford,12,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,327
+Bradford,12,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,12,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,328
+Bradford,12,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,624
+Bradford,12,Retention of Brad Thomas,First District Court of Appeal,NOP,No,361
+Bradford,12,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,12,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,330
+Bradford,12,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,638
+Bradford,12,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,347
+Bradford,12,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,12,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,330
+Bradford,12,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,643
+Bradford,12,Retention of Allen Winsor,First District Court of Appeal,NOP,No,362
+Bradford,12,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Bradford,12,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,309
+Bradford,12,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,798
+Bradford,12,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,453
+Bradford,12,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Bradford,12,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,63
+Bradford,12,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,935
+Bradford,12,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,304
+Bradford,12,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Bradford,12,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,75
+Bradford,12,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,948
+Bradford,12,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,324
+Bradford,12,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,12,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,43
+Bradford,12,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,629
+Bradford,12,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,644
+Bradford,12,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,12,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,42
+Bradford,12,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,942
+Bradford,12,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,307
+Bradford,12,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,12,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,66
+Bradford,12,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,810
+Bradford,12,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,440
+Bradford,12,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Bradford,12,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,64
+Bradford,12,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,760
+Bradford,12,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,472
+Bradford,12,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,12,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,83
+Bradford,12,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,727
+Bradford,12,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,529
+Bradford,12,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,12,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,59
+Bradford,12,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,833
+Bradford,12,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,375
+Bradford,12,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,12,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,107
+Bradford,12,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,729
+Bradford,12,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,450
+Bradford,12,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,12,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,136
+Bradford,12,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,953
+Bradford,12,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,280
+Bradford,12,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,12,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,82
+Bradford,12,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,751
+Bradford,12,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,511
+Bradford,12,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Bradford,12,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,52
+Bradford,13,U.S. Senate,"",REP,Rick Scott,272
+Bradford,13,U.S. Senate,"",DEM,Bill Nelson,44
+Bradford,13,U.S. Senate,"","",WriteinVotes,2
+Bradford,13,U.S. Senate,"","",OverVotes,0
+Bradford,13,U.S. Senate,"","",UnderVotes,1
+Bradford,13,U.S. House,3,REP,Ted Yoho,288
+Bradford,13,U.S. House,3,DEM,Yvonne Hayes Hinson,29
+Bradford,13,U.S. House,3,"",OverVotes,0
+Bradford,13,U.S. House,3,"",UnderVotes,2
+Bradford,13,Governor,"",REP,DeSantis / Nuñez,277
+Bradford,13,Governor,"",DEM,Gillum / King,29
+Bradford,13,Governor,"",REF,Richardson / Argenziano,3
+Bradford,13,Governor,"",NPA,Gibson / Wilds,0
+Bradford,13,Governor,"",NPA,Foley / Tutton,3
+Bradford,13,Governor,"",NPA,Stanley / McJury,2
+Bradford,13,Governor,"","",WriteinVotes,0
+Bradford,13,Governor,"","",OverVotes,1
+Bradford,13,Governor,"","",UnderVotes,4
+Bradford,13,Attorney General,"",REP,Ashley Moody,282
+Bradford,13,Attorney General,"",DEM,Sean Shaw,26
+Bradford,13,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Bradford,13,Attorney General,"","",OverVotes,0
+Bradford,13,Attorney General,"","",UnderVotes,5
+Bradford,13,Chief Financial Officer,"",REP,Jimmy Patronis,281
+Bradford,13,Chief Financial Officer,"",DEM,Jeremy Ring,27
+Bradford,13,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,13,Chief Financial Officer,"","",OverVotes,0
+Bradford,13,Chief Financial Officer,"","",UnderVotes,11
+Bradford,13,Commissioner of Agriculture,"",REP,Matt Caldwell,280
+Bradford,13,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",33
+Bradford,13,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,13,Commissioner of Agriculture,"","",UnderVotes,6
+Bradford,13,State House,19,REP,Bobby Payne,281
+Bradford,13,State House,19,DEM,Paul Still,31
+Bradford,13,State House,19,"",OverVotes,1
+Bradford,13,State House,19,"",UnderVotes,6
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,199
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,64
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,13,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,56
+Bradford,13,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,189
+Bradford,13,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,78
+Bradford,13,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,13,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,52
+Bradford,13,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,179
+Bradford,13,Retention of Harvey Jay,First District Court of Appeal,NOP,No,85
+Bradford,13,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,13,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,55
+Bradford,13,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,175
+Bradford,13,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,85
+Bradford,13,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,13,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,59
+Bradford,13,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,171
+Bradford,13,Retention of Brad Thomas,First District Court of Appeal,NOP,No,88
+Bradford,13,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,13,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,60
+Bradford,13,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,172
+Bradford,13,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,85
+Bradford,13,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,13,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,62
+Bradford,13,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,173
+Bradford,13,Retention of Allen Winsor,First District Court of Appeal,NOP,No,91
+Bradford,13,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,13,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,55
+Bradford,13,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,185
+Bradford,13,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,119
+Bradford,13,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Bradford,13,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,14
+Bradford,13,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,211
+Bradford,13,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,93
+Bradford,13,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,13,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Bradford,13,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,215
+Bradford,13,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,98
+Bradford,13,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Bradford,13,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,5
+Bradford,13,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,149
+Bradford,13,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,160
+Bradford,13,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Bradford,13,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,7
+Bradford,13,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,216
+Bradford,13,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,83
+Bradford,13,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,13,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,20
+Bradford,13,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,186
+Bradford,13,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,117
+Bradford,13,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Bradford,13,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,16
+Bradford,13,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,193
+Bradford,13,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,110
+Bradford,13,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,13,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,16
+Bradford,13,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,149
+Bradford,13,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,152
+Bradford,13,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Bradford,13,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,16
+Bradford,13,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,198
+Bradford,13,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,96
+Bradford,13,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Bradford,13,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,25
+Bradford,13,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,150
+Bradford,13,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,136
+Bradford,13,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Bradford,13,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,32
+Bradford,13,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,222
+Bradford,13,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,75
+Bradford,13,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,13,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,22
+Bradford,13,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,138
+Bradford,13,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,170
+Bradford,13,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Bradford,13,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,11
+Bradford,14,U.S. Senate,"",REP,Rick Scott,383
+Bradford,14,U.S. Senate,"",DEM,Bill Nelson,125
+Bradford,14,U.S. Senate,"","",WriteinVotes,0
+Bradford,14,U.S. Senate,"","",OverVotes,0
+Bradford,14,U.S. Senate,"","",UnderVotes,3
+Bradford,14,U.S. House,3,REP,Ted Yoho,405
+Bradford,14,U.S. House,3,DEM,Yvonne Hayes Hinson,100
+Bradford,14,U.S. House,3,"",OverVotes,0
+Bradford,14,U.S. House,3,"",UnderVotes,6
+Bradford,14,Governor,"",REP,DeSantis / Nuñez,399
+Bradford,14,Governor,"",DEM,Gillum / King,103
+Bradford,14,Governor,"",REF,Richardson / Argenziano,0
+Bradford,14,Governor,"",NPA,Gibson / Wilds,1
+Bradford,14,Governor,"",NPA,Foley / Tutton,3
+Bradford,14,Governor,"",NPA,Stanley / McJury,0
+Bradford,14,Governor,"","",WriteinVotes,0
+Bradford,14,Governor,"","",OverVotes,1
+Bradford,14,Governor,"","",UnderVotes,4
+Bradford,14,Attorney General,"",REP,Ashley Moody,406
+Bradford,14,Attorney General,"",DEM,Sean Shaw,88
+Bradford,14,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Bradford,14,Attorney General,"","",OverVotes,0
+Bradford,14,Attorney General,"","",UnderVotes,11
+Bradford,14,Chief Financial Officer,"",REP,Jimmy Patronis,387
+Bradford,14,Chief Financial Officer,"",DEM,Jeremy Ring,101
+Bradford,14,Chief Financial Officer,"","",WriteinVotes,0
+Bradford,14,Chief Financial Officer,"","",OverVotes,1
+Bradford,14,Chief Financial Officer,"","",UnderVotes,22
+Bradford,14,Commissioner of Agriculture,"",REP,Matt Caldwell,384
+Bradford,14,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",112
+Bradford,14,Commissioner of Agriculture,"","",OverVotes,0
+Bradford,14,Commissioner of Agriculture,"","",UnderVotes,15
+Bradford,14,State House,19,REP,Bobby Payne,380
+Bradford,14,State House,19,DEM,Paul Still,113
+Bradford,14,State House,19,"",OverVotes,0
+Bradford,14,State House,19,"",UnderVotes,18
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,David Robertson,326
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 8",NOP,Gloria Walker,111
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 8","",OverVotes,0
+Bradford,14,Circuit Judge,"8th Judicial Circuit, Group 8","",UnderVotes,74
+Bradford,14,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,297
+Bradford,14,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,129
+Bradford,14,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Bradford,14,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,85
+Bradford,14,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,274
+Bradford,14,Retention of Harvey Jay,First District Court of Appeal,NOP,No,138
+Bradford,14,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Bradford,14,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,99
+Bradford,14,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,269
+Bradford,14,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,139
+Bradford,14,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Bradford,14,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,103
+Bradford,14,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,269
+Bradford,14,Retention of Brad Thomas,First District Court of Appeal,NOP,No,139
+Bradford,14,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,14,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,103
+Bradford,14,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,257
+Bradford,14,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,151
+Bradford,14,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Bradford,14,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,103
+Bradford,14,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,280
+Bradford,14,Retention of Allen Winsor,First District Court of Appeal,NOP,No,133
+Bradford,14,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Bradford,14,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,98
+Bradford,14,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,280
+Bradford,14,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,210
+Bradford,14,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Bradford,14,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,21
+Bradford,14,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,348
+Bradford,14,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,133
+Bradford,14,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Bradford,14,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,30
+Bradford,14,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,368
+Bradford,14,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,127
+Bradford,14,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Bradford,14,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,16
+Bradford,14,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,214
+Bradford,14,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,280
+Bradford,14,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Bradford,14,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,17
+Bradford,14,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,338
+Bradford,14,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,142
+Bradford,14,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Bradford,14,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,31
+Bradford,14,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,305
+Bradford,14,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,179
+Bradford,14,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Bradford,14,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,26
+Bradford,14,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,312
+Bradford,14,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,176
+Bradford,14,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Bradford,14,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,23
+Bradford,14,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,275
+Bradford,14,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,213
+Bradford,14,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Bradford,14,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,23
+Bradford,14,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,322
+Bradford,14,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,150
+Bradford,14,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Bradford,14,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,38
+Bradford,14,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,250
+Bradford,14,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,205
+Bradford,14,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Bradford,14,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,56
+Bradford,14,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,331
+Bradford,14,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,147
+Bradford,14,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Bradford,14,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,33
+Bradford,14,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,220
+Bradford,14,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,278
+Bradford,14,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Bradford,14,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,12
+Bradford,1,Registered Voters,"","","",1693
+Bradford,10,Registered Voters,"","","",952
+Bradford,11,Registered Voters,"","","",1226
+Bradford,12,Registered Voters,"","","",1749
+Bradford,13,Registered Voters,"","","",554
+Bradford,14,Registered Voters,"","","",700
+Bradford,2,Registered Voters,"","","",768
+Bradford,3,Registered Voters,"","","",659
+Bradford,4,Registered Voters,"","","",1276
+Bradford,5,Registered Voters,"","","",1697
+Bradford,6,Registered Voters,"","","",815
+Bradford,7,Registered Voters,"","","",1158
+Bradford,8,Registered Voters,"","","",1724
+Bradford,9,Registered Voters,"","","",1341
