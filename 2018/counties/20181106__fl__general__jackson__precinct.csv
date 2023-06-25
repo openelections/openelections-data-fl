@@ -1,0 +1,1588 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,Malone City Hall,U.S. Senate,"",REP,Rick Scott,567
+Jackson,Malone City Hall,U.S. Senate,"",DEM,Bill Nelson,329
+Jackson,Malone City Hall,U.S. Senate,"","",WriteinVotes,2
+Jackson,Malone City Hall,U.S. Senate,"","",OverVotes,0
+Jackson,Malone City Hall,U.S. Senate,"","",UnderVotes,4
+Jackson,Malone City Hall,U.S. House,2,REP,Neal Dunn,575
+Jackson,Malone City Hall,U.S. House,2,DEM,Bob Rackleff,311
+Jackson,Malone City Hall,U.S. House,2,"",OverVotes,0
+Jackson,Malone City Hall,U.S. House,2,"",UnderVotes,16
+Jackson,Malone City Hall,Governor,"",REP,DeSantis / Nuñez,562
+Jackson,Malone City Hall,Governor,"",DEM,Gillum / King,320
+Jackson,Malone City Hall,Governor,"",REF,Richardson / Argenziano,5
+Jackson,Malone City Hall,Governor,"",NPA,Gibson / Wilds,2
+Jackson,Malone City Hall,Governor,"",NPA,Foley / Tutton,2
+Jackson,Malone City Hall,Governor,"",NPA,Stanley / McJury,1
+Jackson,Malone City Hall,Governor,"","",WriteinVotes,0
+Jackson,Malone City Hall,Governor,"","",OverVotes,6
+Jackson,Malone City Hall,Governor,"","",UnderVotes,4
+Jackson,Malone City Hall,Attorney General,"",REP,Ashley Moody,567
+Jackson,Malone City Hall,Attorney General,"",DEM,Sean Shaw,319
+Jackson,Malone City Hall,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Jackson,Malone City Hall,Attorney General,"","",OverVotes,0
+Jackson,Malone City Hall,Attorney General,"","",UnderVotes,10
+Jackson,Malone City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,574
+Jackson,Malone City Hall,Chief Financial Officer,"",DEM,Jeremy Ring,316
+Jackson,Malone City Hall,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Malone City Hall,Chief Financial Officer,"","",OverVotes,1
+Jackson,Malone City Hall,Chief Financial Officer,"","",UnderVotes,11
+Jackson,Malone City Hall,Commissioner of Agriculture,"",REP,Matt Caldwell,564
+Jackson,Malone City Hall,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",329
+Jackson,Malone City Hall,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Malone City Hall,Commissioner of Agriculture,"","",UnderVotes,9
+Jackson,Malone City Hall,State Senate,2,REP,George B. Gainer,571
+Jackson,Malone City Hall,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",308
+Jackson,Malone City Hall,State Senate,2,"",OverVotes,0
+Jackson,Malone City Hall,State Senate,2,"",UnderVotes,23
+Jackson,Malone City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,539
+Jackson,Malone City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,295
+Jackson,Malone City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Jackson,Malone City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,66
+Jackson,Malone City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,513
+Jackson,Malone City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,No,325
+Jackson,Malone City Hall,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Malone City Hall,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,64
+Jackson,Malone City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,509
+Jackson,Malone City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,310
+Jackson,Malone City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Malone City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,83
+Jackson,Malone City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,490
+Jackson,Malone City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,No,326
+Jackson,Malone City Hall,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Malone City Hall,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,86
+Jackson,Malone City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,502
+Jackson,Malone City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,322
+Jackson,Malone City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Malone City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,78
+Jackson,Malone City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,507
+Jackson,Malone City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,No,325
+Jackson,Malone City Hall,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Malone City Hall,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,70
+Jackson,Malone City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,499
+Jackson,Malone City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,382
+Jackson,Malone City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,21
+Jackson,Malone City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,586
+Jackson,Malone City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,288
+Jackson,Malone City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,28
+Jackson,Malone City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,684
+Jackson,Malone City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,198
+Jackson,Malone City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Jackson,Malone City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,18
+Jackson,Malone City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,543
+Jackson,Malone City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,338
+Jackson,Malone City Hall,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,21
+Jackson,Malone City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,611
+Jackson,Malone City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,261
+Jackson,Malone City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Malone City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,30
+Jackson,Malone City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,572
+Jackson,Malone City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,294
+Jackson,Malone City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,36
+Jackson,Malone City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,643
+Jackson,Malone City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,220
+Jackson,Malone City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,39
+Jackson,Malone City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,503
+Jackson,Malone City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,359
+Jackson,Malone City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Jackson,Malone City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,39
+Jackson,Malone City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,625
+Jackson,Malone City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,229
+Jackson,Malone City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,48
+Jackson,Malone City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,497
+Jackson,Malone City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,346
+Jackson,Malone City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Jackson,Malone City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,57
+Jackson,Malone City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,619
+Jackson,Malone City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,240
+Jackson,Malone City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,43
+Jackson,Malone City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,423
+Jackson,Malone City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,451
+Jackson,Malone City Hall,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Malone City Hall,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,28
+Jackson,Campbellton Comm Center,U.S. Senate,"",REP,Rick Scott,245
+Jackson,Campbellton Comm Center,U.S. Senate,"",DEM,Bill Nelson,522
+Jackson,Campbellton Comm Center,U.S. Senate,"","",WriteinVotes,0
+Jackson,Campbellton Comm Center,U.S. Senate,"","",OverVotes,0
+Jackson,Campbellton Comm Center,U.S. Senate,"","",UnderVotes,7
+Jackson,Campbellton Comm Center,U.S. House,2,REP,Neal Dunn,248
+Jackson,Campbellton Comm Center,U.S. House,2,DEM,Bob Rackleff,498
+Jackson,Campbellton Comm Center,U.S. House,2,"",OverVotes,0
+Jackson,Campbellton Comm Center,U.S. House,2,"",UnderVotes,28
+Jackson,Campbellton Comm Center,Governor,"",REP,DeSantis / Nuñez,222
+Jackson,Campbellton Comm Center,Governor,"",DEM,Gillum / King,539
+Jackson,Campbellton Comm Center,Governor,"",REF,Richardson / Argenziano,3
+Jackson,Campbellton Comm Center,Governor,"",NPA,Gibson / Wilds,0
+Jackson,Campbellton Comm Center,Governor,"",NPA,Foley / Tutton,2
+Jackson,Campbellton Comm Center,Governor,"",NPA,Stanley / McJury,0
+Jackson,Campbellton Comm Center,Governor,"","",WriteinVotes,0
+Jackson,Campbellton Comm Center,Governor,"","",OverVotes,3
+Jackson,Campbellton Comm Center,Governor,"","",UnderVotes,5
+Jackson,Campbellton Comm Center,Attorney General,"",REP,Ashley Moody,232
+Jackson,Campbellton Comm Center,Attorney General,"",DEM,Sean Shaw,522
+Jackson,Campbellton Comm Center,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Jackson,Campbellton Comm Center,Attorney General,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Attorney General,"","",UnderVotes,15
+Jackson,Campbellton Comm Center,Chief Financial Officer,"",REP,Jimmy Patronis,246
+Jackson,Campbellton Comm Center,Chief Financial Officer,"",DEM,Jeremy Ring,506
+Jackson,Campbellton Comm Center,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Campbellton Comm Center,Chief Financial Officer,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Chief Financial Officer,"","",UnderVotes,22
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",REP,Matt Caldwell,232
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",522
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Commissioner of Agriculture,"","",UnderVotes,20
+Jackson,Campbellton Comm Center,State Senate,2,REP,George B. Gainer,274
+Jackson,Campbellton Comm Center,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",472
+Jackson,Campbellton Comm Center,State Senate,2,"",OverVotes,1
+Jackson,Campbellton Comm Center,State Senate,2,"",UnderVotes,27
+Jackson,Campbellton Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,489
+Jackson,Campbellton Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,200
+Jackson,Campbellton Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Jackson,Campbellton Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,85
+Jackson,Campbellton Comm Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,458
+Jackson,Campbellton Comm Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,224
+Jackson,Campbellton Comm Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Campbellton Comm Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,92
+Jackson,Campbellton Comm Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,466
+Jackson,Campbellton Comm Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,212
+Jackson,Campbellton Comm Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Campbellton Comm Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,96
+Jackson,Campbellton Comm Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,458
+Jackson,Campbellton Comm Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,219
+Jackson,Campbellton Comm Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Campbellton Comm Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,97
+Jackson,Campbellton Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,447
+Jackson,Campbellton Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,228
+Jackson,Campbellton Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Jackson,Campbellton Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,98
+Jackson,Campbellton Comm Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,454
+Jackson,Campbellton Comm Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,224
+Jackson,Campbellton Comm Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Campbellton Comm Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,96
+Jackson,Campbellton Comm Center,School Board,1,NOP,Diane Long,482
+Jackson,Campbellton Comm Center,School Board,1,NOP,Terry E. Nichols,264
+Jackson,Campbellton Comm Center,School Board,1,"",OverVotes,0
+Jackson,Campbellton Comm Center,School Board,1,"",UnderVotes,28
+Jackson,Campbellton Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,363
+Jackson,Campbellton Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,375
+Jackson,Campbellton Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Jackson,Campbellton Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,34
+Jackson,Campbellton Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,468
+Jackson,Campbellton Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,263
+Jackson,Campbellton Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,43
+Jackson,Campbellton Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,599
+Jackson,Campbellton Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,150
+Jackson,Campbellton Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,25
+Jackson,Campbellton Comm Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,572
+Jackson,Campbellton Comm Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,166
+Jackson,Campbellton Comm Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Jackson,Campbellton Comm Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,35
+Jackson,Campbellton Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,429
+Jackson,Campbellton Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,295
+Jackson,Campbellton Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Campbellton Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,50
+Jackson,Campbellton Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,500
+Jackson,Campbellton Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,226
+Jackson,Campbellton Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,48
+Jackson,Campbellton Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,556
+Jackson,Campbellton Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,167
+Jackson,Campbellton Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,51
+Jackson,Campbellton Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,472
+Jackson,Campbellton Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,250
+Jackson,Campbellton Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,52
+Jackson,Campbellton Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,527
+Jackson,Campbellton Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,184
+Jackson,Campbellton Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,63
+Jackson,Campbellton Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,482
+Jackson,Campbellton Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,231
+Jackson,Campbellton Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,61
+Jackson,Campbellton Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,532
+Jackson,Campbellton Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,182
+Jackson,Campbellton Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,60
+Jackson,Campbellton Comm Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,347
+Jackson,Campbellton Comm Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,391
+Jackson,Campbellton Comm Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Campbellton Comm Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,36
+Jackson,Citizens Lodge,U.S. Senate,"",REP,Rick Scott,1399
+Jackson,Citizens Lodge,U.S. Senate,"",DEM,Bill Nelson,599
+Jackson,Citizens Lodge,U.S. Senate,"","",WriteinVotes,5
+Jackson,Citizens Lodge,U.S. Senate,"","",OverVotes,0
+Jackson,Citizens Lodge,U.S. Senate,"","",UnderVotes,9
+Jackson,Citizens Lodge,U.S. House,2,REP,Neal Dunn,1405
+Jackson,Citizens Lodge,U.S. House,2,DEM,Bob Rackleff,574
+Jackson,Citizens Lodge,U.S. House,2,"",OverVotes,0
+Jackson,Citizens Lodge,U.S. House,2,"",UnderVotes,33
+Jackson,Citizens Lodge,Governor,"",REP,DeSantis / Nuñez,1387
+Jackson,Citizens Lodge,Governor,"",DEM,Gillum / King,589
+Jackson,Citizens Lodge,Governor,"",REF,Richardson / Argenziano,8
+Jackson,Citizens Lodge,Governor,"",NPA,Gibson / Wilds,4
+Jackson,Citizens Lodge,Governor,"",NPA,Foley / Tutton,3
+Jackson,Citizens Lodge,Governor,"",NPA,Stanley / McJury,5
+Jackson,Citizens Lodge,Governor,"","",WriteinVotes,3
+Jackson,Citizens Lodge,Governor,"","",OverVotes,3
+Jackson,Citizens Lodge,Governor,"","",UnderVotes,10
+Jackson,Citizens Lodge,Attorney General,"",REP,Ashley Moody,1387
+Jackson,Citizens Lodge,Attorney General,"",DEM,Sean Shaw,577
+Jackson,Citizens Lodge,Attorney General,"",NPA,Jeffrey Marc Siskind,19
+Jackson,Citizens Lodge,Attorney General,"","",OverVotes,1
+Jackson,Citizens Lodge,Attorney General,"","",UnderVotes,28
+Jackson,Citizens Lodge,Chief Financial Officer,"",REP,Jimmy Patronis,1445
+Jackson,Citizens Lodge,Chief Financial Officer,"",DEM,Jeremy Ring,546
+Jackson,Citizens Lodge,Chief Financial Officer,"","",WriteinVotes,1
+Jackson,Citizens Lodge,Chief Financial Officer,"","",OverVotes,0
+Jackson,Citizens Lodge,Chief Financial Officer,"","",UnderVotes,20
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",REP,Matt Caldwell,1371
+Jackson,Citizens Lodge,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",610
+Jackson,Citizens Lodge,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Citizens Lodge,Commissioner of Agriculture,"","",UnderVotes,31
+Jackson,Citizens Lodge,State Senate,2,REP,George B. Gainer,1447
+Jackson,Citizens Lodge,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",524
+Jackson,Citizens Lodge,State Senate,2,"",OverVotes,1
+Jackson,Citizens Lodge,State Senate,2,"",UnderVotes,40
+Jackson,Citizens Lodge,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1150
+Jackson,Citizens Lodge,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,672
+Jackson,Citizens Lodge,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Jackson,Citizens Lodge,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,190
+Jackson,Citizens Lodge,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1122
+Jackson,Citizens Lodge,Retention of Harvey Jay,First District Court of Appeal,NOP,No,683
+Jackson,Citizens Lodge,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Citizens Lodge,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,207
+Jackson,Citizens Lodge,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1130
+Jackson,Citizens Lodge,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,649
+Jackson,Citizens Lodge,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Citizens Lodge,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,233
+Jackson,Citizens Lodge,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1116
+Jackson,Citizens Lodge,Retention of Brad Thomas,First District Court of Appeal,NOP,No,669
+Jackson,Citizens Lodge,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Jackson,Citizens Lodge,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,226
+Jackson,Citizens Lodge,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1114
+Jackson,Citizens Lodge,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,665
+Jackson,Citizens Lodge,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Citizens Lodge,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,233
+Jackson,Citizens Lodge,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1122
+Jackson,Citizens Lodge,Retention of Allen Winsor,First District Court of Appeal,NOP,No,679
+Jackson,Citizens Lodge,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Jackson,Citizens Lodge,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,210
+Jackson,Citizens Lodge,School Board,1,NOP,Diane Long,49
+Jackson,Citizens Lodge,School Board,1,NOP,Terry E. Nichols,34
+Jackson,Citizens Lodge,School Board,1,"",OverVotes,0
+Jackson,Citizens Lodge,School Board,1,"",UnderVotes,1
+Jackson,Citizens Lodge,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1235
+Jackson,Citizens Lodge,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,723
+Jackson,Citizens Lodge,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,5
+Jackson,Citizens Lodge,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,49
+Jackson,Citizens Lodge,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1331
+Jackson,Citizens Lodge,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,597
+Jackson,Citizens Lodge,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Jackson,Citizens Lodge,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,83
+Jackson,Citizens Lodge,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1377
+Jackson,Citizens Lodge,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,596
+Jackson,Citizens Lodge,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Jackson,Citizens Lodge,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,37
+Jackson,Citizens Lodge,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1064
+Jackson,Citizens Lodge,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,889
+Jackson,Citizens Lodge,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Jackson,Citizens Lodge,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,56
+Jackson,Citizens Lodge,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1353
+Jackson,Citizens Lodge,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,576
+Jackson,Citizens Lodge,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Jackson,Citizens Lodge,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,82
+Jackson,Citizens Lodge,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1176
+Jackson,Citizens Lodge,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,759
+Jackson,Citizens Lodge,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Citizens Lodge,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,77
+Jackson,Citizens Lodge,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1378
+Jackson,Citizens Lodge,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,534
+Jackson,Citizens Lodge,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Jackson,Citizens Lodge,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,99
+Jackson,Citizens Lodge,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1043
+Jackson,Citizens Lodge,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,876
+Jackson,Citizens Lodge,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,4
+Jackson,Citizens Lodge,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,89
+Jackson,Citizens Lodge,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1352
+Jackson,Citizens Lodge,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,554
+Jackson,Citizens Lodge,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Jackson,Citizens Lodge,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,104
+Jackson,Citizens Lodge,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1028
+Jackson,Citizens Lodge,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,834
+Jackson,Citizens Lodge,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Citizens Lodge,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,150
+Jackson,Citizens Lodge,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1345
+Jackson,Citizens Lodge,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,566
+Jackson,Citizens Lodge,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Jackson,Citizens Lodge,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,99
+Jackson,Citizens Lodge,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,936
+Jackson,Citizens Lodge,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,994
+Jackson,Citizens Lodge,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Citizens Lodge,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,82
+Jackson,Alford Comm Center,U.S. Senate,"",REP,Rick Scott,1409
+Jackson,Alford Comm Center,U.S. Senate,"",DEM,Bill Nelson,364
+Jackson,Alford Comm Center,U.S. Senate,"","",WriteinVotes,5
+Jackson,Alford Comm Center,U.S. Senate,"","",OverVotes,0
+Jackson,Alford Comm Center,U.S. Senate,"","",UnderVotes,7
+Jackson,Alford Comm Center,U.S. House,2,REP,Neal Dunn,1409
+Jackson,Alford Comm Center,U.S. House,2,DEM,Bob Rackleff,346
+Jackson,Alford Comm Center,U.S. House,2,"",OverVotes,0
+Jackson,Alford Comm Center,U.S. House,2,"",UnderVotes,30
+Jackson,Alford Comm Center,Governor,"",REP,DeSantis / Nuñez,1399
+Jackson,Alford Comm Center,Governor,"",DEM,Gillum / King,344
+Jackson,Alford Comm Center,Governor,"",REF,Richardson / Argenziano,8
+Jackson,Alford Comm Center,Governor,"",NPA,Gibson / Wilds,11
+Jackson,Alford Comm Center,Governor,"",NPA,Foley / Tutton,4
+Jackson,Alford Comm Center,Governor,"",NPA,Stanley / McJury,6
+Jackson,Alford Comm Center,Governor,"","",WriteinVotes,0
+Jackson,Alford Comm Center,Governor,"","",OverVotes,4
+Jackson,Alford Comm Center,Governor,"","",UnderVotes,9
+Jackson,Alford Comm Center,Attorney General,"",REP,Ashley Moody,1393
+Jackson,Alford Comm Center,Attorney General,"",DEM,Sean Shaw,334
+Jackson,Alford Comm Center,Attorney General,"",NPA,Jeffrey Marc Siskind,27
+Jackson,Alford Comm Center,Attorney General,"","",OverVotes,0
+Jackson,Alford Comm Center,Attorney General,"","",UnderVotes,31
+Jackson,Alford Comm Center,Chief Financial Officer,"",REP,Jimmy Patronis,1445
+Jackson,Alford Comm Center,Chief Financial Officer,"",DEM,Jeremy Ring,312
+Jackson,Alford Comm Center,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Alford Comm Center,Chief Financial Officer,"","",OverVotes,0
+Jackson,Alford Comm Center,Chief Financial Officer,"","",UnderVotes,28
+Jackson,Alford Comm Center,Commissioner of Agriculture,"",REP,Matt Caldwell,1376
+Jackson,Alford Comm Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",375
+Jackson,Alford Comm Center,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Alford Comm Center,Commissioner of Agriculture,"","",UnderVotes,34
+Jackson,Alford Comm Center,State Senate,2,REP,George B. Gainer,1439
+Jackson,Alford Comm Center,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",315
+Jackson,Alford Comm Center,State Senate,2,"",OverVotes,0
+Jackson,Alford Comm Center,State Senate,2,"",UnderVotes,31
+Jackson,Alford Comm Center,County Commissioner,2,REP,Clint Pate,564
+Jackson,Alford Comm Center,County Commissioner,2,DEM,Edward E. Crutchfield,364
+Jackson,Alford Comm Center,County Commissioner,2,"",OverVotes,0
+Jackson,Alford Comm Center,County Commissioner,2,"",UnderVotes,23
+Jackson,Alford Comm Center,County Commissioner,4,REP,Eric Hill,525
+Jackson,Alford Comm Center,County Commissioner,4,DEM,Terry Charles,165
+Jackson,Alford Comm Center,County Commissioner,4,NPA,John Bryan,134
+Jackson,Alford Comm Center,County Commissioner,4,"",OverVotes,0
+Jackson,Alford Comm Center,County Commissioner,4,"",UnderVotes,10
+Jackson,Alford Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1051
+Jackson,Alford Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,588
+Jackson,Alford Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Jackson,Alford Comm Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,145
+Jackson,Alford Comm Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1022
+Jackson,Alford Comm Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,596
+Jackson,Alford Comm Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Alford Comm Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,167
+Jackson,Alford Comm Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1009
+Jackson,Alford Comm Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,575
+Jackson,Alford Comm Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Jackson,Alford Comm Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,200
+Jackson,Alford Comm Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1001
+Jackson,Alford Comm Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,607
+Jackson,Alford Comm Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Jackson,Alford Comm Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,176
+Jackson,Alford Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1007
+Jackson,Alford Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,596
+Jackson,Alford Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Alford Comm Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,182
+Jackson,Alford Comm Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1019
+Jackson,Alford Comm Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,599
+Jackson,Alford Comm Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Alford Comm Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,167
+Jackson,Alford Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1166
+Jackson,Alford Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,562
+Jackson,Alford Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Jackson,Alford Comm Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,56
+Jackson,Alford Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1214
+Jackson,Alford Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,495
+Jackson,Alford Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Alford Comm Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,76
+Jackson,Alford Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1303
+Jackson,Alford Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,447
+Jackson,Alford Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Jackson,Alford Comm Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,33
+Jackson,Alford Comm Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,930
+Jackson,Alford Comm Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,801
+Jackson,Alford Comm Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Jackson,Alford Comm Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,53
+Jackson,Alford Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1315
+Jackson,Alford Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,402
+Jackson,Alford Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,3
+Jackson,Alford Comm Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,65
+Jackson,Alford Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1161
+Jackson,Alford Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,556
+Jackson,Alford Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Jackson,Alford Comm Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,66
+Jackson,Alford Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1264
+Jackson,Alford Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,449
+Jackson,Alford Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Alford Comm Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,72
+Jackson,Alford Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,880
+Jackson,Alford Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,819
+Jackson,Alford Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,4
+Jackson,Alford Comm Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,82
+Jackson,Alford Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1244
+Jackson,Alford Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,443
+Jackson,Alford Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Alford Comm Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,98
+Jackson,Alford Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,972
+Jackson,Alford Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,680
+Jackson,Alford Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Alford Comm Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,133
+Jackson,Alford Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1308
+Jackson,Alford Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,389
+Jackson,Alford Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Alford Comm Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,88
+Jackson,Alford Comm Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,721
+Jackson,Alford Comm Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1010
+Jackson,Alford Comm Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Alford Comm Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,54
+Jackson,Cypress Park,U.S. Senate,"",REP,Rick Scott,274
+Jackson,Cypress Park,U.S. Senate,"",DEM,Bill Nelson,97
+Jackson,Cypress Park,U.S. Senate,"","",WriteinVotes,1
+Jackson,Cypress Park,U.S. Senate,"","",OverVotes,0
+Jackson,Cypress Park,U.S. Senate,"","",UnderVotes,3
+Jackson,Cypress Park,U.S. House,2,REP,Neal Dunn,282
+Jackson,Cypress Park,U.S. House,2,DEM,Bob Rackleff,90
+Jackson,Cypress Park,U.S. House,2,"",OverVotes,0
+Jackson,Cypress Park,U.S. House,2,"",UnderVotes,3
+Jackson,Cypress Park,Governor,"",REP,DeSantis / Nuñez,280
+Jackson,Cypress Park,Governor,"",DEM,Gillum / King,90
+Jackson,Cypress Park,Governor,"",REF,Richardson / Argenziano,0
+Jackson,Cypress Park,Governor,"",NPA,Gibson / Wilds,1
+Jackson,Cypress Park,Governor,"",NPA,Foley / Tutton,1
+Jackson,Cypress Park,Governor,"",NPA,Stanley / McJury,1
+Jackson,Cypress Park,Governor,"","",WriteinVotes,0
+Jackson,Cypress Park,Governor,"","",OverVotes,1
+Jackson,Cypress Park,Governor,"","",UnderVotes,1
+Jackson,Cypress Park,Attorney General,"",REP,Ashley Moody,270
+Jackson,Cypress Park,Attorney General,"",DEM,Sean Shaw,92
+Jackson,Cypress Park,Attorney General,"",NPA,Jeffrey Marc Siskind,7
+Jackson,Cypress Park,Attorney General,"","",OverVotes,0
+Jackson,Cypress Park,Attorney General,"","",UnderVotes,6
+Jackson,Cypress Park,Chief Financial Officer,"",REP,Jimmy Patronis,286
+Jackson,Cypress Park,Chief Financial Officer,"",DEM,Jeremy Ring,86
+Jackson,Cypress Park,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Cypress Park,Chief Financial Officer,"","",OverVotes,0
+Jackson,Cypress Park,Chief Financial Officer,"","",UnderVotes,3
+Jackson,Cypress Park,Commissioner of Agriculture,"",REP,Matt Caldwell,270
+Jackson,Cypress Park,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",102
+Jackson,Cypress Park,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Cypress Park,Commissioner of Agriculture,"","",UnderVotes,3
+Jackson,Cypress Park,State Senate,2,REP,George B. Gainer,287
+Jackson,Cypress Park,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",82
+Jackson,Cypress Park,State Senate,2,"",OverVotes,0
+Jackson,Cypress Park,State Senate,2,"",UnderVotes,6
+Jackson,Cypress Park,County Commissioner,4,REP,Eric Hill,187
+Jackson,Cypress Park,County Commissioner,4,DEM,Terry Charles,152
+Jackson,Cypress Park,County Commissioner,4,NPA,John Bryan,32
+Jackson,Cypress Park,County Commissioner,4,"",OverVotes,0
+Jackson,Cypress Park,County Commissioner,4,"",UnderVotes,4
+Jackson,Cypress Park,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,219
+Jackson,Cypress Park,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,120
+Jackson,Cypress Park,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Jackson,Cypress Park,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,36
+Jackson,Cypress Park,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,204
+Jackson,Cypress Park,Retention of Harvey Jay,First District Court of Appeal,NOP,No,129
+Jackson,Cypress Park,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Cypress Park,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,42
+Jackson,Cypress Park,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,198
+Jackson,Cypress Park,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,134
+Jackson,Cypress Park,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Cypress Park,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,43
+Jackson,Cypress Park,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,207
+Jackson,Cypress Park,Retention of Brad Thomas,First District Court of Appeal,NOP,No,126
+Jackson,Cypress Park,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Cypress Park,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,42
+Jackson,Cypress Park,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,201
+Jackson,Cypress Park,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,123
+Jackson,Cypress Park,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Jackson,Cypress Park,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,49
+Jackson,Cypress Park,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,201
+Jackson,Cypress Park,Retention of Allen Winsor,First District Court of Appeal,NOP,No,129
+Jackson,Cypress Park,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Cypress Park,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,45
+Jackson,Cypress Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,223
+Jackson,Cypress Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,142
+Jackson,Cypress Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,10
+Jackson,Cypress Park,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,255
+Jackson,Cypress Park,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,107
+Jackson,Cypress Park,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,13
+Jackson,Cypress Park,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,294
+Jackson,Cypress Park,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,72
+Jackson,Cypress Park,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Jackson,Cypress Park,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,8
+Jackson,Cypress Park,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,229
+Jackson,Cypress Park,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,139
+Jackson,Cypress Park,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,7
+Jackson,Cypress Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,291
+Jackson,Cypress Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,76
+Jackson,Cypress Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Cypress Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,8
+Jackson,Cypress Park,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,251
+Jackson,Cypress Park,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,113
+Jackson,Cypress Park,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,11
+Jackson,Cypress Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,282
+Jackson,Cypress Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,81
+Jackson,Cypress Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,12
+Jackson,Cypress Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,207
+Jackson,Cypress Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,154
+Jackson,Cypress Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,14
+Jackson,Cypress Park,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,282
+Jackson,Cypress Park,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,77
+Jackson,Cypress Park,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,16
+Jackson,Cypress Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,233
+Jackson,Cypress Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,118
+Jackson,Cypress Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Jackson,Cypress Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,23
+Jackson,Cypress Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,292
+Jackson,Cypress Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,71
+Jackson,Cypress Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,12
+Jackson,Cypress Park,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,185
+Jackson,Cypress Park,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,177
+Jackson,Cypress Park,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Cypress Park,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,13
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",REP,Rick Scott,627
+Jackson,Co Comm Admin Bldg,U.S. Senate,"",DEM,Bill Nelson,744
+Jackson,Co Comm Admin Bldg,U.S. Senate,"","",WriteinVotes,2
+Jackson,Co Comm Admin Bldg,U.S. Senate,"","",OverVotes,2
+Jackson,Co Comm Admin Bldg,U.S. Senate,"","",UnderVotes,4
+Jackson,Co Comm Admin Bldg,U.S. House,2,REP,Neal Dunn,623
+Jackson,Co Comm Admin Bldg,U.S. House,2,DEM,Bob Rackleff,732
+Jackson,Co Comm Admin Bldg,U.S. House,2,"",OverVotes,0
+Jackson,Co Comm Admin Bldg,U.S. House,2,"",UnderVotes,24
+Jackson,Co Comm Admin Bldg,Governor,"",REP,DeSantis / Nuñez,599
+Jackson,Co Comm Admin Bldg,Governor,"",DEM,Gillum / King,762
+Jackson,Co Comm Admin Bldg,Governor,"",REF,Richardson / Argenziano,5
+Jackson,Co Comm Admin Bldg,Governor,"",NPA,Gibson / Wilds,1
+Jackson,Co Comm Admin Bldg,Governor,"",NPA,Foley / Tutton,4
+Jackson,Co Comm Admin Bldg,Governor,"",NPA,Stanley / McJury,2
+Jackson,Co Comm Admin Bldg,Governor,"","",WriteinVotes,0
+Jackson,Co Comm Admin Bldg,Governor,"","",OverVotes,2
+Jackson,Co Comm Admin Bldg,Governor,"","",UnderVotes,4
+Jackson,Co Comm Admin Bldg,Attorney General,"",REP,Ashley Moody,609
+Jackson,Co Comm Admin Bldg,Attorney General,"",DEM,Sean Shaw,737
+Jackson,Co Comm Admin Bldg,Attorney General,"",NPA,Jeffrey Marc Siskind,15
+Jackson,Co Comm Admin Bldg,Attorney General,"","",OverVotes,1
+Jackson,Co Comm Admin Bldg,Attorney General,"","",UnderVotes,17
+Jackson,Co Comm Admin Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,635
+Jackson,Co Comm Admin Bldg,Chief Financial Officer,"",DEM,Jeremy Ring,721
+Jackson,Co Comm Admin Bldg,Chief Financial Officer,"","",WriteinVotes,3
+Jackson,Co Comm Admin Bldg,Chief Financial Officer,"","",OverVotes,0
+Jackson,Co Comm Admin Bldg,Chief Financial Officer,"","",UnderVotes,20
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",REP,Matt Caldwell,608
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",756
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Co Comm Admin Bldg,Commissioner of Agriculture,"","",UnderVotes,15
+Jackson,Co Comm Admin Bldg,State Senate,2,REP,George B. Gainer,629
+Jackson,Co Comm Admin Bldg,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",715
+Jackson,Co Comm Admin Bldg,State Senate,2,"",OverVotes,1
+Jackson,Co Comm Admin Bldg,State Senate,2,"",UnderVotes,34
+Jackson,Co Comm Admin Bldg,County Commissioner,2,REP,Clint Pate,399
+Jackson,Co Comm Admin Bldg,County Commissioner,2,DEM,Edward E. Crutchfield,373
+Jackson,Co Comm Admin Bldg,County Commissioner,2,"",OverVotes,0
+Jackson,Co Comm Admin Bldg,County Commissioner,2,"",UnderVotes,15
+Jackson,Co Comm Admin Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,822
+Jackson,Co Comm Admin Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,461
+Jackson,Co Comm Admin Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Jackson,Co Comm Admin Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,96
+Jackson,Co Comm Admin Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,776
+Jackson,Co Comm Admin Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,No,502
+Jackson,Co Comm Admin Bldg,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Co Comm Admin Bldg,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,101
+Jackson,Co Comm Admin Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,789
+Jackson,Co Comm Admin Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,470
+Jackson,Co Comm Admin Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Jackson,Co Comm Admin Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,119
+Jackson,Co Comm Admin Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,764
+Jackson,Co Comm Admin Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,No,502
+Jackson,Co Comm Admin Bldg,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Co Comm Admin Bldg,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,113
+Jackson,Co Comm Admin Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,792
+Jackson,Co Comm Admin Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,474
+Jackson,Co Comm Admin Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Co Comm Admin Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,113
+Jackson,Co Comm Admin Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,768
+Jackson,Co Comm Admin Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,No,512
+Jackson,Co Comm Admin Bldg,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Co Comm Admin Bldg,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,99
+Jackson,Co Comm Admin Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,646
+Jackson,Co Comm Admin Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,686
+Jackson,Co Comm Admin Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Jackson,Co Comm Admin Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,45
+Jackson,Co Comm Admin Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,784
+Jackson,Co Comm Admin Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,541
+Jackson,Co Comm Admin Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Co Comm Admin Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,54
+Jackson,Co Comm Admin Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1043
+Jackson,Co Comm Admin Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,300
+Jackson,Co Comm Admin Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Co Comm Admin Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,36
+Jackson,Co Comm Admin Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,931
+Jackson,Co Comm Admin Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,410
+Jackson,Co Comm Admin Bldg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Jackson,Co Comm Admin Bldg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,36
+Jackson,Co Comm Admin Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,776
+Jackson,Co Comm Admin Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,546
+Jackson,Co Comm Admin Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Co Comm Admin Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,57
+Jackson,Co Comm Admin Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,818
+Jackson,Co Comm Admin Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,505
+Jackson,Co Comm Admin Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Jackson,Co Comm Admin Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,54
+Jackson,Co Comm Admin Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,961
+Jackson,Co Comm Admin Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,362
+Jackson,Co Comm Admin Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Jackson,Co Comm Admin Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,55
+Jackson,Co Comm Admin Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,793
+Jackson,Co Comm Admin Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,517
+Jackson,Co Comm Admin Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Jackson,Co Comm Admin Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,68
+Jackson,Co Comm Admin Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,887
+Jackson,Co Comm Admin Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,418
+Jackson,Co Comm Admin Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Jackson,Co Comm Admin Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,73
+Jackson,Co Comm Admin Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,755
+Jackson,Co Comm Admin Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,539
+Jackson,Co Comm Admin Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Co Comm Admin Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,85
+Jackson,Co Comm Admin Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,907
+Jackson,Co Comm Admin Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,396
+Jackson,Co Comm Admin Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Co Comm Admin Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,76
+Jackson,Co Comm Admin Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,657
+Jackson,Co Comm Admin Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,670
+Jackson,Co Comm Admin Bldg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Co Comm Admin Bldg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,52
+Jackson,Eastside Baptist Church,U.S. Senate,"",REP,Rick Scott,1279
+Jackson,Eastside Baptist Church,U.S. Senate,"",DEM,Bill Nelson,324
+Jackson,Eastside Baptist Church,U.S. Senate,"","",WriteinVotes,4
+Jackson,Eastside Baptist Church,U.S. Senate,"","",OverVotes,1
+Jackson,Eastside Baptist Church,U.S. Senate,"","",UnderVotes,10
+Jackson,Eastside Baptist Church,U.S. House,2,REP,Neal Dunn,1287
+Jackson,Eastside Baptist Church,U.S. House,2,DEM,Bob Rackleff,302
+Jackson,Eastside Baptist Church,U.S. House,2,"",OverVotes,0
+Jackson,Eastside Baptist Church,U.S. House,2,"",UnderVotes,29
+Jackson,Eastside Baptist Church,Governor,"",REP,DeSantis / Nuñez,1277
+Jackson,Eastside Baptist Church,Governor,"",DEM,Gillum / King,312
+Jackson,Eastside Baptist Church,Governor,"",REF,Richardson / Argenziano,1
+Jackson,Eastside Baptist Church,Governor,"",NPA,Gibson / Wilds,3
+Jackson,Eastside Baptist Church,Governor,"",NPA,Foley / Tutton,7
+Jackson,Eastside Baptist Church,Governor,"",NPA,Stanley / McJury,4
+Jackson,Eastside Baptist Church,Governor,"","",WriteinVotes,0
+Jackson,Eastside Baptist Church,Governor,"","",OverVotes,5
+Jackson,Eastside Baptist Church,Governor,"","",UnderVotes,9
+Jackson,Eastside Baptist Church,Attorney General,"",REP,Ashley Moody,1269
+Jackson,Eastside Baptist Church,Attorney General,"",DEM,Sean Shaw,304
+Jackson,Eastside Baptist Church,Attorney General,"",NPA,Jeffrey Marc Siskind,18
+Jackson,Eastside Baptist Church,Attorney General,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Attorney General,"","",UnderVotes,27
+Jackson,Eastside Baptist Church,Chief Financial Officer,"",REP,Jimmy Patronis,1319
+Jackson,Eastside Baptist Church,Chief Financial Officer,"",DEM,Jeremy Ring,278
+Jackson,Eastside Baptist Church,Chief Financial Officer,"","",WriteinVotes,2
+Jackson,Eastside Baptist Church,Chief Financial Officer,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Chief Financial Officer,"","",UnderVotes,19
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",REP,Matt Caldwell,1249
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",345
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Commissioner of Agriculture,"","",UnderVotes,24
+Jackson,Eastside Baptist Church,State Senate,2,REP,George B. Gainer,1307
+Jackson,Eastside Baptist Church,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",273
+Jackson,Eastside Baptist Church,State Senate,2,"",OverVotes,1
+Jackson,Eastside Baptist Church,State Senate,2,"",UnderVotes,37
+Jackson,Eastside Baptist Church,County Commissioner,4,REP,Eric Hill,308
+Jackson,Eastside Baptist Church,County Commissioner,4,DEM,Terry Charles,146
+Jackson,Eastside Baptist Church,County Commissioner,4,NPA,John Bryan,106
+Jackson,Eastside Baptist Church,County Commissioner,4,"",OverVotes,0
+Jackson,Eastside Baptist Church,County Commissioner,4,"",UnderVotes,6
+Jackson,Eastside Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,925
+Jackson,Eastside Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,523
+Jackson,Eastside Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,3
+Jackson,Eastside Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,167
+Jackson,Eastside Baptist Church,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,905
+Jackson,Eastside Baptist Church,Retention of Harvey Jay,First District Court of Appeal,NOP,No,538
+Jackson,Eastside Baptist Church,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Eastside Baptist Church,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,175
+Jackson,Eastside Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,897
+Jackson,Eastside Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,527
+Jackson,Eastside Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Jackson,Eastside Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,193
+Jackson,Eastside Baptist Church,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,892
+Jackson,Eastside Baptist Church,Retention of Brad Thomas,First District Court of Appeal,NOP,No,536
+Jackson,Eastside Baptist Church,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Jackson,Eastside Baptist Church,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,189
+Jackson,Eastside Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,894
+Jackson,Eastside Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,531
+Jackson,Eastside Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Eastside Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,193
+Jackson,Eastside Baptist Church,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,884
+Jackson,Eastside Baptist Church,Retention of Allen Winsor,First District Court of Appeal,NOP,No,548
+Jackson,Eastside Baptist Church,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Jackson,Eastside Baptist Church,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,185
+Jackson,Eastside Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1079
+Jackson,Eastside Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,488
+Jackson,Eastside Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Jackson,Eastside Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,49
+Jackson,Eastside Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1125
+Jackson,Eastside Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,427
+Jackson,Eastside Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,66
+Jackson,Eastside Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1177
+Jackson,Eastside Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,404
+Jackson,Eastside Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,37
+Jackson,Eastside Baptist Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,758
+Jackson,Eastside Baptist Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,808
+Jackson,Eastside Baptist Church,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,52
+Jackson,Eastside Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1193
+Jackson,Eastside Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,356
+Jackson,Eastside Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Jackson,Eastside Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,67
+Jackson,Eastside Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1021
+Jackson,Eastside Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,521
+Jackson,Eastside Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Jackson,Eastside Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,75
+Jackson,Eastside Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1133
+Jackson,Eastside Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,412
+Jackson,Eastside Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Jackson,Eastside Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,72
+Jackson,Eastside Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,789
+Jackson,Eastside Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,747
+Jackson,Eastside Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Jackson,Eastside Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,81
+Jackson,Eastside Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1093
+Jackson,Eastside Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,427
+Jackson,Eastside Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,98
+Jackson,Eastside Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,881
+Jackson,Eastside Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,606
+Jackson,Eastside Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Jackson,Eastside Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,130
+Jackson,Eastside Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1136
+Jackson,Eastside Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,389
+Jackson,Eastside Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,3
+Jackson,Eastside Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,90
+Jackson,Eastside Baptist Church,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,703
+Jackson,Eastside Baptist Church,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,850
+Jackson,Eastside Baptist Church,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Eastside Baptist Church,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,65
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",REP,Rick Scott,497
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"",DEM,Bill Nelson,81
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"","",WriteinVotes,2
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,U.S. Senate,"","",UnderVotes,4
+Jackson,Shady Grove Methodist Ch,U.S. House,2,REP,Neal Dunn,494
+Jackson,Shady Grove Methodist Ch,U.S. House,2,DEM,Bob Rackleff,78
+Jackson,Shady Grove Methodist Ch,U.S. House,2,"",OverVotes,0
+Jackson,Shady Grove Methodist Ch,U.S. House,2,"",UnderVotes,12
+Jackson,Shady Grove Methodist Ch,Governor,"",REP,DeSantis / Nuñez,505
+Jackson,Shady Grove Methodist Ch,Governor,"",DEM,Gillum / King,69
+Jackson,Shady Grove Methodist Ch,Governor,"",REF,Richardson / Argenziano,3
+Jackson,Shady Grove Methodist Ch,Governor,"",NPA,Gibson / Wilds,2
+Jackson,Shady Grove Methodist Ch,Governor,"",NPA,Foley / Tutton,2
+Jackson,Shady Grove Methodist Ch,Governor,"",NPA,Stanley / McJury,1
+Jackson,Shady Grove Methodist Ch,Governor,"","",WriteinVotes,1
+Jackson,Shady Grove Methodist Ch,Governor,"","",OverVotes,1
+Jackson,Shady Grove Methodist Ch,Governor,"","",UnderVotes,0
+Jackson,Shady Grove Methodist Ch,Attorney General,"",REP,Ashley Moody,497
+Jackson,Shady Grove Methodist Ch,Attorney General,"",DEM,Sean Shaw,74
+Jackson,Shady Grove Methodist Ch,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Jackson,Shady Grove Methodist Ch,Attorney General,"","",OverVotes,1
+Jackson,Shady Grove Methodist Ch,Attorney General,"","",UnderVotes,8
+Jackson,Shady Grove Methodist Ch,Chief Financial Officer,"",REP,Jimmy Patronis,506
+Jackson,Shady Grove Methodist Ch,Chief Financial Officer,"",DEM,Jeremy Ring,69
+Jackson,Shady Grove Methodist Ch,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Shady Grove Methodist Ch,Chief Financial Officer,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Chief Financial Officer,"","",UnderVotes,9
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",REP,Matt Caldwell,491
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",83
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Commissioner of Agriculture,"","",UnderVotes,10
+Jackson,Shady Grove Methodist Ch,State Senate,2,REP,George B. Gainer,497
+Jackson,Shady Grove Methodist Ch,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",72
+Jackson,Shady Grove Methodist Ch,State Senate,2,"",OverVotes,0
+Jackson,Shady Grove Methodist Ch,State Senate,2,"",UnderVotes,15
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,REP,Eric Hill,347
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,DEM,Terry Charles,161
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,NPA,John Bryan,66
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,"",OverVotes,0
+Jackson,Shady Grove Methodist Ch,County Commissioner,4,"",UnderVotes,10
+Jackson,Shady Grove Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,334
+Jackson,Shady Grove Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,201
+Jackson,Shady Grove Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Jackson,Shady Grove Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,48
+Jackson,Shady Grove Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,319
+Jackson,Shady Grove Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,208
+Jackson,Shady Grove Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,57
+Jackson,Shady Grove Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,319
+Jackson,Shady Grove Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,202
+Jackson,Shady Grove Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Jackson,Shady Grove Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,62
+Jackson,Shady Grove Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,324
+Jackson,Shady Grove Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,204
+Jackson,Shady Grove Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,56
+Jackson,Shady Grove Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,317
+Jackson,Shady Grove Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,204
+Jackson,Shady Grove Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,63
+Jackson,Shady Grove Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,314
+Jackson,Shady Grove Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,211
+Jackson,Shady Grove Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,59
+Jackson,Shady Grove Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,396
+Jackson,Shady Grove Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,171
+Jackson,Shady Grove Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,4
+Jackson,Shady Grove Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Jackson,Shady Grove Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,420
+Jackson,Shady Grove Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,143
+Jackson,Shady Grove Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,21
+Jackson,Shady Grove Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,448
+Jackson,Shady Grove Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,126
+Jackson,Shady Grove Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Jackson,Shady Grove Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,270
+Jackson,Shady Grove Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,293
+Jackson,Shady Grove Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,4
+Jackson,Shady Grove Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,17
+Jackson,Shady Grove Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,449
+Jackson,Shady Grove Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,112
+Jackson,Shady Grove Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,23
+Jackson,Shady Grove Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,387
+Jackson,Shady Grove Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,173
+Jackson,Shady Grove Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Jackson,Shady Grove Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,23
+Jackson,Shady Grove Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,434
+Jackson,Shady Grove Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,126
+Jackson,Shady Grove Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Jackson,Shady Grove Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,267
+Jackson,Shady Grove Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,285
+Jackson,Shady Grove Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,32
+Jackson,Shady Grove Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,409
+Jackson,Shady Grove Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,143
+Jackson,Shady Grove Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,32
+Jackson,Shady Grove Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,313
+Jackson,Shady Grove Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,224
+Jackson,Shady Grove Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,47
+Jackson,Shady Grove Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,407
+Jackson,Shady Grove Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,151
+Jackson,Shady Grove Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,26
+Jackson,Shady Grove Methodist Ch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,245
+Jackson,Shady Grove Methodist Ch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,323
+Jackson,Shady Grove Methodist Ch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Shady Grove Methodist Ch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",REP,Rick Scott,653
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,186
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"","",WriteinVotes,2
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"","",OverVotes,1
+Jackson,Grand Ridge Comm Ctr,U.S. Senate,"","",UnderVotes,11
+Jackson,Grand Ridge Comm Ctr,U.S. House,2,REP,Neal Dunn,662
+Jackson,Grand Ridge Comm Ctr,U.S. House,2,DEM,Bob Rackleff,176
+Jackson,Grand Ridge Comm Ctr,U.S. House,2,"",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,U.S. House,2,"",UnderVotes,15
+Jackson,Grand Ridge Comm Ctr,Governor,"",REP,DeSantis / Nuñez,662
+Jackson,Grand Ridge Comm Ctr,Governor,"",DEM,Gillum / King,168
+Jackson,Grand Ridge Comm Ctr,Governor,"",REF,Richardson / Argenziano,6
+Jackson,Grand Ridge Comm Ctr,Governor,"",NPA,Gibson / Wilds,2
+Jackson,Grand Ridge Comm Ctr,Governor,"",NPA,Foley / Tutton,1
+Jackson,Grand Ridge Comm Ctr,Governor,"",NPA,Stanley / McJury,3
+Jackson,Grand Ridge Comm Ctr,Governor,"","",WriteinVotes,2
+Jackson,Grand Ridge Comm Ctr,Governor,"","",OverVotes,2
+Jackson,Grand Ridge Comm Ctr,Governor,"","",UnderVotes,7
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",REP,Ashley Moody,663
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",DEM,Sean Shaw,170
+Jackson,Grand Ridge Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Jackson,Grand Ridge Comm Ctr,Attorney General,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Attorney General,"","",UnderVotes,10
+Jackson,Grand Ridge Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,677
+Jackson,Grand Ridge Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,164
+Jackson,Grand Ridge Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Grand Ridge Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Chief Financial Officer,"","",UnderVotes,12
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,662
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",178
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,13
+Jackson,Grand Ridge Comm Ctr,State Senate,2,REP,George B. Gainer,670
+Jackson,Grand Ridge Comm Ctr,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",166
+Jackson,Grand Ridge Comm Ctr,State Senate,2,"",OverVotes,1
+Jackson,Grand Ridge Comm Ctr,State Senate,2,"",UnderVotes,16
+Jackson,Grand Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,470
+Jackson,Grand Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,302
+Jackson,Grand Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,81
+Jackson,Grand Ridge Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,454
+Jackson,Grand Ridge Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,308
+Jackson,Grand Ridge Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,91
+Jackson,Grand Ridge Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,441
+Jackson,Grand Ridge Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,307
+Jackson,Grand Ridge Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,105
+Jackson,Grand Ridge Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,440
+Jackson,Grand Ridge Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,314
+Jackson,Grand Ridge Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,99
+Jackson,Grand Ridge Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,439
+Jackson,Grand Ridge Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,313
+Jackson,Grand Ridge Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,101
+Jackson,Grand Ridge Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,440
+Jackson,Grand Ridge Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,317
+Jackson,Grand Ridge Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,96
+Jackson,Grand Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,497
+Jackson,Grand Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,331
+Jackson,Grand Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,25
+Jackson,Grand Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,567
+Jackson,Grand Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,244
+Jackson,Grand Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,42
+Jackson,Grand Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,605
+Jackson,Grand Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,219
+Jackson,Grand Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,29
+Jackson,Grand Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,431
+Jackson,Grand Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,398
+Jackson,Grand Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,24
+Jackson,Grand Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,605
+Jackson,Grand Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,209
+Jackson,Grand Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,39
+Jackson,Grand Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,531
+Jackson,Grand Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,292
+Jackson,Grand Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,30
+Jackson,Grand Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,620
+Jackson,Grand Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,188
+Jackson,Grand Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,45
+Jackson,Grand Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,417
+Jackson,Grand Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,398
+Jackson,Grand Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Jackson,Grand Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,37
+Jackson,Grand Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,586
+Jackson,Grand Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,212
+Jackson,Grand Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,55
+Jackson,Grand Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,443
+Jackson,Grand Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,329
+Jackson,Grand Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Jackson,Grand Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,80
+Jackson,Grand Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,580
+Jackson,Grand Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,226
+Jackson,Grand Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,47
+Jackson,Grand Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,394
+Jackson,Grand Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,430
+Jackson,Grand Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Grand Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,29
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",REP,Rick Scott,547
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"",DEM,Bill Nelson,531
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"","",WriteinVotes,2
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,U.S. Senate,"","",UnderVotes,10
+Jackson,Welcome Assembly of God Ch,U.S. House,2,REP,Neal Dunn,565
+Jackson,Welcome Assembly of God Ch,U.S. House,2,DEM,Bob Rackleff,507
+Jackson,Welcome Assembly of God Ch,U.S. House,2,"",OverVotes,0
+Jackson,Welcome Assembly of God Ch,U.S. House,2,"",UnderVotes,18
+Jackson,Welcome Assembly of God Ch,Governor,"",REP,DeSantis / Nuñez,554
+Jackson,Welcome Assembly of God Ch,Governor,"",DEM,Gillum / King,518
+Jackson,Welcome Assembly of God Ch,Governor,"",REF,Richardson / Argenziano,7
+Jackson,Welcome Assembly of God Ch,Governor,"",NPA,Gibson / Wilds,2
+Jackson,Welcome Assembly of God Ch,Governor,"",NPA,Foley / Tutton,0
+Jackson,Welcome Assembly of God Ch,Governor,"",NPA,Stanley / McJury,1
+Jackson,Welcome Assembly of God Ch,Governor,"","",WriteinVotes,1
+Jackson,Welcome Assembly of God Ch,Governor,"","",OverVotes,2
+Jackson,Welcome Assembly of God Ch,Governor,"","",UnderVotes,5
+Jackson,Welcome Assembly of God Ch,Attorney General,"",REP,Ashley Moody,557
+Jackson,Welcome Assembly of God Ch,Attorney General,"",DEM,Sean Shaw,511
+Jackson,Welcome Assembly of God Ch,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Jackson,Welcome Assembly of God Ch,Attorney General,"","",OverVotes,2
+Jackson,Welcome Assembly of God Ch,Attorney General,"","",UnderVotes,10
+Jackson,Welcome Assembly of God Ch,Chief Financial Officer,"",REP,Jimmy Patronis,576
+Jackson,Welcome Assembly of God Ch,Chief Financial Officer,"",DEM,Jeremy Ring,506
+Jackson,Welcome Assembly of God Ch,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Welcome Assembly of God Ch,Chief Financial Officer,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Chief Financial Officer,"","",UnderVotes,8
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",REP,Matt Caldwell,556
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",520
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Commissioner of Agriculture,"","",UnderVotes,14
+Jackson,Welcome Assembly of God Ch,State Senate,2,REP,George B. Gainer,570
+Jackson,Welcome Assembly of God Ch,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",497
+Jackson,Welcome Assembly of God Ch,State Senate,2,"",OverVotes,0
+Jackson,Welcome Assembly of God Ch,State Senate,2,"",UnderVotes,23
+Jackson,Welcome Assembly of God Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,693
+Jackson,Welcome Assembly of God Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,322
+Jackson,Welcome Assembly of God Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Jackson,Welcome Assembly of God Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,73
+Jackson,Welcome Assembly of God Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,629
+Jackson,Welcome Assembly of God Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,373
+Jackson,Welcome Assembly of God Ch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,88
+Jackson,Welcome Assembly of God Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,633
+Jackson,Welcome Assembly of God Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,363
+Jackson,Welcome Assembly of God Ch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Jackson,Welcome Assembly of God Ch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,93
+Jackson,Welcome Assembly of God Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,644
+Jackson,Welcome Assembly of God Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,339
+Jackson,Welcome Assembly of God Ch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Jackson,Welcome Assembly of God Ch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,106
+Jackson,Welcome Assembly of God Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,618
+Jackson,Welcome Assembly of God Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,368
+Jackson,Welcome Assembly of God Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,104
+Jackson,Welcome Assembly of God Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,639
+Jackson,Welcome Assembly of God Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,361
+Jackson,Welcome Assembly of God Ch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,90
+Jackson,Welcome Assembly of God Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,590
+Jackson,Welcome Assembly of God Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,477
+Jackson,Welcome Assembly of God Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,23
+Jackson,Welcome Assembly of God Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,669
+Jackson,Welcome Assembly of God Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,391
+Jackson,Welcome Assembly of God Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,30
+Jackson,Welcome Assembly of God Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,858
+Jackson,Welcome Assembly of God Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,219
+Jackson,Welcome Assembly of God Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,13
+Jackson,Welcome Assembly of God Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,701
+Jackson,Welcome Assembly of God Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,361
+Jackson,Welcome Assembly of God Ch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Jackson,Welcome Assembly of God Ch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,27
+Jackson,Welcome Assembly of God Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,710
+Jackson,Welcome Assembly of God Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,345
+Jackson,Welcome Assembly of God Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,35
+Jackson,Welcome Assembly of God Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,640
+Jackson,Welcome Assembly of God Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,420
+Jackson,Welcome Assembly of God Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,30
+Jackson,Welcome Assembly of God Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,767
+Jackson,Welcome Assembly of God Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,280
+Jackson,Welcome Assembly of God Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,43
+Jackson,Welcome Assembly of God Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,638
+Jackson,Welcome Assembly of God Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,411
+Jackson,Welcome Assembly of God Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Jackson,Welcome Assembly of God Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,40
+Jackson,Welcome Assembly of God Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,741
+Jackson,Welcome Assembly of God Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,297
+Jackson,Welcome Assembly of God Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,52
+Jackson,Welcome Assembly of God Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,608
+Jackson,Welcome Assembly of God Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,424
+Jackson,Welcome Assembly of God Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Jackson,Welcome Assembly of God Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,57
+Jackson,Welcome Assembly of God Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,754
+Jackson,Welcome Assembly of God Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,281
+Jackson,Welcome Assembly of God Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Jackson,Welcome Assembly of God Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,54
+Jackson,Welcome Assembly of God Ch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,503
+Jackson,Welcome Assembly of God Ch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,553
+Jackson,Welcome Assembly of God Ch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Welcome Assembly of God Ch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,34
+Jackson,Sneads City Hall,U.S. Senate,"",REP,Rick Scott,1034
+Jackson,Sneads City Hall,U.S. Senate,"",DEM,Bill Nelson,404
+Jackson,Sneads City Hall,U.S. Senate,"","",WriteinVotes,1
+Jackson,Sneads City Hall,U.S. Senate,"","",OverVotes,1
+Jackson,Sneads City Hall,U.S. Senate,"","",UnderVotes,11
+Jackson,Sneads City Hall,U.S. House,2,REP,Neal Dunn,1081
+Jackson,Sneads City Hall,U.S. House,2,DEM,Bob Rackleff,339
+Jackson,Sneads City Hall,U.S. House,2,"",OverVotes,0
+Jackson,Sneads City Hall,U.S. House,2,"",UnderVotes,31
+Jackson,Sneads City Hall,Governor,"",REP,DeSantis / Nuñez,1091
+Jackson,Sneads City Hall,Governor,"",DEM,Gillum / King,330
+Jackson,Sneads City Hall,Governor,"",REF,Richardson / Argenziano,5
+Jackson,Sneads City Hall,Governor,"",NPA,Gibson / Wilds,8
+Jackson,Sneads City Hall,Governor,"",NPA,Foley / Tutton,2
+Jackson,Sneads City Hall,Governor,"",NPA,Stanley / McJury,4
+Jackson,Sneads City Hall,Governor,"","",WriteinVotes,1
+Jackson,Sneads City Hall,Governor,"","",OverVotes,2
+Jackson,Sneads City Hall,Governor,"","",UnderVotes,8
+Jackson,Sneads City Hall,Attorney General,"",REP,Ashley Moody,1061
+Jackson,Sneads City Hall,Attorney General,"",DEM,Sean Shaw,346
+Jackson,Sneads City Hall,Attorney General,"",NPA,Jeffrey Marc Siskind,21
+Jackson,Sneads City Hall,Attorney General,"","",OverVotes,1
+Jackson,Sneads City Hall,Attorney General,"","",UnderVotes,22
+Jackson,Sneads City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,1095
+Jackson,Sneads City Hall,Chief Financial Officer,"",DEM,Jeremy Ring,331
+Jackson,Sneads City Hall,Chief Financial Officer,"","",WriteinVotes,4
+Jackson,Sneads City Hall,Chief Financial Officer,"","",OverVotes,0
+Jackson,Sneads City Hall,Chief Financial Officer,"","",UnderVotes,21
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",REP,Matt Caldwell,1044
+Jackson,Sneads City Hall,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",373
+Jackson,Sneads City Hall,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Sneads City Hall,Commissioner of Agriculture,"","",UnderVotes,34
+Jackson,Sneads City Hall,State Senate,2,REP,George B. Gainer,1082
+Jackson,Sneads City Hall,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",340
+Jackson,Sneads City Hall,State Senate,2,"",OverVotes,0
+Jackson,Sneads City Hall,State Senate,2,"",UnderVotes,29
+Jackson,Sneads City Hall,County Commissioner,4,REP,Eric Hill,572
+Jackson,Sneads City Hall,County Commissioner,4,DEM,Terry Charles,741
+Jackson,Sneads City Hall,County Commissioner,4,NPA,John Bryan,123
+Jackson,Sneads City Hall,County Commissioner,4,"",OverVotes,0
+Jackson,Sneads City Hall,County Commissioner,4,"",UnderVotes,15
+Jackson,Sneads City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,851
+Jackson,Sneads City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,502
+Jackson,Sneads City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Jackson,Sneads City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,97
+Jackson,Sneads City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,832
+Jackson,Sneads City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,No,499
+Jackson,Sneads City Hall,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Jackson,Sneads City Hall,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,119
+Jackson,Sneads City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,822
+Jackson,Sneads City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,487
+Jackson,Sneads City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Jackson,Sneads City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,141
+Jackson,Sneads City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,825
+Jackson,Sneads City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,No,495
+Jackson,Sneads City Hall,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Sneads City Hall,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,131
+Jackson,Sneads City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,804
+Jackson,Sneads City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,493
+Jackson,Sneads City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Sneads City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,154
+Jackson,Sneads City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,828
+Jackson,Sneads City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,No,500
+Jackson,Sneads City Hall,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Sneads City Hall,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,123
+Jackson,Sneads City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,854
+Jackson,Sneads City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,546
+Jackson,Sneads City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Jackson,Sneads City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,50
+Jackson,Sneads City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,936
+Jackson,Sneads City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,455
+Jackson,Sneads City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Jackson,Sneads City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,59
+Jackson,Sneads City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1027
+Jackson,Sneads City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,383
+Jackson,Sneads City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,41
+Jackson,Sneads City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,740
+Jackson,Sneads City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,659
+Jackson,Sneads City Hall,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Jackson,Sneads City Hall,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,50
+Jackson,Sneads City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,992
+Jackson,Sneads City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,394
+Jackson,Sneads City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Sneads City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,65
+Jackson,Sneads City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,893
+Jackson,Sneads City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,494
+Jackson,Sneads City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,64
+Jackson,Sneads City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1069
+Jackson,Sneads City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,319
+Jackson,Sneads City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,63
+Jackson,Sneads City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,746
+Jackson,Sneads City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,640
+Jackson,Sneads City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,65
+Jackson,Sneads City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,993
+Jackson,Sneads City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,375
+Jackson,Sneads City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,83
+Jackson,Sneads City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,767
+Jackson,Sneads City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,581
+Jackson,Sneads City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,103
+Jackson,Sneads City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1031
+Jackson,Sneads City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,344
+Jackson,Sneads City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,76
+Jackson,Sneads City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,612
+Jackson,Sneads City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,788
+Jackson,Sneads City Hall,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Jackson,Sneads City Hall,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,51
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",REP,Rick Scott,732
+Jackson,Cottondale Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,348
+Jackson,Cottondale Comm Ctr,U.S. Senate,"","",WriteinVotes,5
+Jackson,Cottondale Comm Ctr,U.S. Senate,"","",OverVotes,1
+Jackson,Cottondale Comm Ctr,U.S. Senate,"","",UnderVotes,7
+Jackson,Cottondale Comm Ctr,U.S. House,2,REP,Neal Dunn,745
+Jackson,Cottondale Comm Ctr,U.S. House,2,DEM,Bob Rackleff,330
+Jackson,Cottondale Comm Ctr,U.S. House,2,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,U.S. House,2,"",UnderVotes,18
+Jackson,Cottondale Comm Ctr,Governor,"",REP,DeSantis / Nuñez,713
+Jackson,Cottondale Comm Ctr,Governor,"",DEM,Gillum / King,355
+Jackson,Cottondale Comm Ctr,Governor,"",REF,Richardson / Argenziano,8
+Jackson,Cottondale Comm Ctr,Governor,"",NPA,Gibson / Wilds,0
+Jackson,Cottondale Comm Ctr,Governor,"",NPA,Foley / Tutton,2
+Jackson,Cottondale Comm Ctr,Governor,"",NPA,Stanley / McJury,2
+Jackson,Cottondale Comm Ctr,Governor,"","",WriteinVotes,1
+Jackson,Cottondale Comm Ctr,Governor,"","",OverVotes,2
+Jackson,Cottondale Comm Ctr,Governor,"","",UnderVotes,10
+Jackson,Cottondale Comm Ctr,Attorney General,"",REP,Ashley Moody,728
+Jackson,Cottondale Comm Ctr,Attorney General,"",DEM,Sean Shaw,342
+Jackson,Cottondale Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Jackson,Cottondale Comm Ctr,Attorney General,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Attorney General,"","",UnderVotes,14
+Jackson,Cottondale Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,744
+Jackson,Cottondale Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,335
+Jackson,Cottondale Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Cottondale Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Chief Financial Officer,"","",UnderVotes,14
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,725
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",353
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,15
+Jackson,Cottondale Comm Ctr,State Senate,2,REP,George B. Gainer,756
+Jackson,Cottondale Comm Ctr,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",316
+Jackson,Cottondale Comm Ctr,State Senate,2,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,State Senate,2,"",UnderVotes,21
+Jackson,Cottondale Comm Ctr,County Commissioner,2,REP,Clint Pate,418
+Jackson,Cottondale Comm Ctr,County Commissioner,2,DEM,Edward E. Crutchfield,377
+Jackson,Cottondale Comm Ctr,County Commissioner,2,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,County Commissioner,2,"",UnderVotes,13
+Jackson,Cottondale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,642
+Jackson,Cottondale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,364
+Jackson,Cottondale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,87
+Jackson,Cottondale Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,608
+Jackson,Cottondale Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,390
+Jackson,Cottondale Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Jackson,Cottondale Comm Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,94
+Jackson,Cottondale Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,623
+Jackson,Cottondale Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,360
+Jackson,Cottondale Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,110
+Jackson,Cottondale Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,610
+Jackson,Cottondale Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,376
+Jackson,Cottondale Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,107
+Jackson,Cottondale Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,609
+Jackson,Cottondale Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,380
+Jackson,Cottondale Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,104
+Jackson,Cottondale Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,598
+Jackson,Cottondale Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,393
+Jackson,Cottondale Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,102
+Jackson,Cottondale Comm Ctr,School Board,1,NOP,Diane Long,172
+Jackson,Cottondale Comm Ctr,School Board,1,NOP,Terry E. Nichols,107
+Jackson,Cottondale Comm Ctr,School Board,1,"",OverVotes,0
+Jackson,Cottondale Comm Ctr,School Board,1,"",UnderVotes,6
+Jackson,Cottondale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,669
+Jackson,Cottondale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,393
+Jackson,Cottondale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,31
+Jackson,Cottondale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,725
+Jackson,Cottondale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,328
+Jackson,Cottondale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,40
+Jackson,Cottondale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,822
+Jackson,Cottondale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,255
+Jackson,Cottondale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,16
+Jackson,Cottondale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,625
+Jackson,Cottondale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,438
+Jackson,Cottondale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,30
+Jackson,Cottondale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,754
+Jackson,Cottondale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,293
+Jackson,Cottondale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Cottondale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,46
+Jackson,Cottondale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,692
+Jackson,Cottondale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,359
+Jackson,Cottondale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,42
+Jackson,Cottondale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,779
+Jackson,Cottondale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,267
+Jackson,Cottondale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,2
+Jackson,Cottondale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,45
+Jackson,Cottondale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,580
+Jackson,Cottondale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,466
+Jackson,Cottondale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,47
+Jackson,Cottondale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,778
+Jackson,Cottondale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,255
+Jackson,Cottondale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,60
+Jackson,Cottondale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,592
+Jackson,Cottondale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,420
+Jackson,Cottondale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,81
+Jackson,Cottondale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,754
+Jackson,Cottondale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,286
+Jackson,Cottondale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Cottondale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,53
+Jackson,Cottondale Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,428
+Jackson,Cottondale Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,626
+Jackson,Cottondale Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Jackson,Cottondale Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,37
+Jackson,Greenwood Town Hall,U.S. Senate,"",REP,Rick Scott,234
+Jackson,Greenwood Town Hall,U.S. Senate,"",DEM,Bill Nelson,289
+Jackson,Greenwood Town Hall,U.S. Senate,"","",WriteinVotes,0
+Jackson,Greenwood Town Hall,U.S. Senate,"","",OverVotes,0
+Jackson,Greenwood Town Hall,U.S. Senate,"","",UnderVotes,3
+Jackson,Greenwood Town Hall,U.S. House,2,REP,Neal Dunn,237
+Jackson,Greenwood Town Hall,U.S. House,2,DEM,Bob Rackleff,282
+Jackson,Greenwood Town Hall,U.S. House,2,"",OverVotes,0
+Jackson,Greenwood Town Hall,U.S. House,2,"",UnderVotes,7
+Jackson,Greenwood Town Hall,Governor,"",REP,DeSantis / Nuñez,230
+Jackson,Greenwood Town Hall,Governor,"",DEM,Gillum / King,290
+Jackson,Greenwood Town Hall,Governor,"",REF,Richardson / Argenziano,1
+Jackson,Greenwood Town Hall,Governor,"",NPA,Gibson / Wilds,3
+Jackson,Greenwood Town Hall,Governor,"",NPA,Foley / Tutton,0
+Jackson,Greenwood Town Hall,Governor,"",NPA,Stanley / McJury,0
+Jackson,Greenwood Town Hall,Governor,"","",WriteinVotes,1
+Jackson,Greenwood Town Hall,Governor,"","",OverVotes,1
+Jackson,Greenwood Town Hall,Governor,"","",UnderVotes,0
+Jackson,Greenwood Town Hall,Attorney General,"",REP,Ashley Moody,231
+Jackson,Greenwood Town Hall,Attorney General,"",DEM,Sean Shaw,288
+Jackson,Greenwood Town Hall,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Jackson,Greenwood Town Hall,Attorney General,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Attorney General,"","",UnderVotes,3
+Jackson,Greenwood Town Hall,Chief Financial Officer,"",REP,Jimmy Patronis,242
+Jackson,Greenwood Town Hall,Chief Financial Officer,"",DEM,Jeremy Ring,280
+Jackson,Greenwood Town Hall,Chief Financial Officer,"","",WriteinVotes,0
+Jackson,Greenwood Town Hall,Chief Financial Officer,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Chief Financial Officer,"","",UnderVotes,4
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",REP,Matt Caldwell,230
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",295
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Commissioner of Agriculture,"","",UnderVotes,1
+Jackson,Greenwood Town Hall,State Senate,2,REP,George B. Gainer,244
+Jackson,Greenwood Town Hall,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",276
+Jackson,Greenwood Town Hall,State Senate,2,"",OverVotes,0
+Jackson,Greenwood Town Hall,State Senate,2,"",UnderVotes,6
+Jackson,Greenwood Town Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,313
+Jackson,Greenwood Town Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,183
+Jackson,Greenwood Town Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Jackson,Greenwood Town Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,30
+Jackson,Greenwood Town Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,279
+Jackson,Greenwood Town Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,No,210
+Jackson,Greenwood Town Hall,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Jackson,Greenwood Town Hall,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,37
+Jackson,Greenwood Town Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,288
+Jackson,Greenwood Town Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,191
+Jackson,Greenwood Town Hall,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Greenwood Town Hall,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,47
+Jackson,Greenwood Town Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,280
+Jackson,Greenwood Town Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,No,201
+Jackson,Greenwood Town Hall,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Jackson,Greenwood Town Hall,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,44
+Jackson,Greenwood Town Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,284
+Jackson,Greenwood Town Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,202
+Jackson,Greenwood Town Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Greenwood Town Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,40
+Jackson,Greenwood Town Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,277
+Jackson,Greenwood Town Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,No,207
+Jackson,Greenwood Town Hall,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Jackson,Greenwood Town Hall,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,42
+Jackson,Greenwood Town Hall,School Board,1,NOP,Diane Long,290
+Jackson,Greenwood Town Hall,School Board,1,NOP,Terry E. Nichols,222
+Jackson,Greenwood Town Hall,School Board,1,"",OverVotes,0
+Jackson,Greenwood Town Hall,School Board,1,"",UnderVotes,14
+Jackson,Greenwood Town Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,226
+Jackson,Greenwood Town Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,288
+Jackson,Greenwood Town Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,12
+Jackson,Greenwood Town Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,297
+Jackson,Greenwood Town Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,215
+Jackson,Greenwood Town Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,14
+Jackson,Greenwood Town Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,410
+Jackson,Greenwood Town Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,105
+Jackson,Greenwood Town Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Jackson,Greenwood Town Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Jackson,Greenwood Town Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,351
+Jackson,Greenwood Town Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,163
+Jackson,Greenwood Town Hall,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Jackson,Greenwood Town Hall,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,11
+Jackson,Greenwood Town Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,282
+Jackson,Greenwood Town Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,218
+Jackson,Greenwood Town Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Jackson,Greenwood Town Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,26
+Jackson,Greenwood Town Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,306
+Jackson,Greenwood Town Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,202
+Jackson,Greenwood Town Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,18
+Jackson,Greenwood Town Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,337
+Jackson,Greenwood Town Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,161
+Jackson,Greenwood Town Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,28
+Jackson,Greenwood Town Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,318
+Jackson,Greenwood Town Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,185
+Jackson,Greenwood Town Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Jackson,Greenwood Town Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,22
+Jackson,Greenwood Town Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,319
+Jackson,Greenwood Town Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,184
+Jackson,Greenwood Town Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,23
+Jackson,Greenwood Town Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,274
+Jackson,Greenwood Town Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,226
+Jackson,Greenwood Town Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,26
+Jackson,Greenwood Town Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,325
+Jackson,Greenwood Town Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,180
+Jackson,Greenwood Town Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Greenwood Town Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Jackson,Greenwood Town Hall,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,249
+Jackson,Greenwood Town Hall,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,256
+Jackson,Greenwood Town Hall,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Jackson,Greenwood Town Hall,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,20
+Jackson,Graceville Civic Ctr,U.S. Senate,"",REP,Rick Scott,1294
+Jackson,Graceville Civic Ctr,U.S. Senate,"",DEM,Bill Nelson,364
+Jackson,Graceville Civic Ctr,U.S. Senate,"","",WriteinVotes,5
+Jackson,Graceville Civic Ctr,U.S. Senate,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,U.S. Senate,"","",UnderVotes,6
+Jackson,Graceville Civic Ctr,U.S. House,2,REP,Neal Dunn,1322
+Jackson,Graceville Civic Ctr,U.S. House,2,DEM,Bob Rackleff,326
+Jackson,Graceville Civic Ctr,U.S. House,2,"",OverVotes,0
+Jackson,Graceville Civic Ctr,U.S. House,2,"",UnderVotes,21
+Jackson,Graceville Civic Ctr,Governor,"",REP,DeSantis / Nuñez,1290
+Jackson,Graceville Civic Ctr,Governor,"",DEM,Gillum / King,333
+Jackson,Graceville Civic Ctr,Governor,"",REF,Richardson / Argenziano,12
+Jackson,Graceville Civic Ctr,Governor,"",NPA,Gibson / Wilds,6
+Jackson,Graceville Civic Ctr,Governor,"",NPA,Foley / Tutton,7
+Jackson,Graceville Civic Ctr,Governor,"",NPA,Stanley / McJury,3
+Jackson,Graceville Civic Ctr,Governor,"","",WriteinVotes,1
+Jackson,Graceville Civic Ctr,Governor,"","",OverVotes,1
+Jackson,Graceville Civic Ctr,Governor,"","",UnderVotes,16
+Jackson,Graceville Civic Ctr,Attorney General,"",REP,Ashley Moody,1280
+Jackson,Graceville Civic Ctr,Attorney General,"",DEM,Sean Shaw,340
+Jackson,Graceville Civic Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,14
+Jackson,Graceville Civic Ctr,Attorney General,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Attorney General,"","",UnderVotes,35
+Jackson,Graceville Civic Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,1328
+Jackson,Graceville Civic Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,311
+Jackson,Graceville Civic Ctr,Chief Financial Officer,"","",WriteinVotes,1
+Jackson,Graceville Civic Ctr,Chief Financial Officer,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Chief Financial Officer,"","",UnderVotes,29
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,1265
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",373
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Commissioner of Agriculture,"","",UnderVotes,31
+Jackson,Graceville Civic Ctr,State Senate,2,REP,George B. Gainer,1308
+Jackson,Graceville Civic Ctr,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",326
+Jackson,Graceville Civic Ctr,State Senate,2,"",OverVotes,0
+Jackson,Graceville Civic Ctr,State Senate,2,"",UnderVotes,35
+Jackson,Graceville Civic Ctr,County Commissioner,2,REP,Clint Pate,426
+Jackson,Graceville Civic Ctr,County Commissioner,2,DEM,Edward E. Crutchfield,506
+Jackson,Graceville Civic Ctr,County Commissioner,2,"",OverVotes,1
+Jackson,Graceville Civic Ctr,County Commissioner,2,"",UnderVotes,5
+Jackson,Graceville Civic Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1052
+Jackson,Graceville Civic Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,472
+Jackson,Graceville Civic Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Jackson,Graceville Civic Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,144
+Jackson,Graceville Civic Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1038
+Jackson,Graceville Civic Ctr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,487
+Jackson,Graceville Civic Ctr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Jackson,Graceville Civic Ctr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,143
+Jackson,Graceville Civic Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1013
+Jackson,Graceville Civic Ctr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,493
+Jackson,Graceville Civic Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Jackson,Graceville Civic Ctr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,163
+Jackson,Graceville Civic Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1012
+Jackson,Graceville Civic Ctr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,498
+Jackson,Graceville Civic Ctr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Jackson,Graceville Civic Ctr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,159
+Jackson,Graceville Civic Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,994
+Jackson,Graceville Civic Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,518
+Jackson,Graceville Civic Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Jackson,Graceville Civic Ctr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,156
+Jackson,Graceville Civic Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1018
+Jackson,Graceville Civic Ctr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,504
+Jackson,Graceville Civic Ctr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,2
+Jackson,Graceville Civic Ctr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,145
+Jackson,Graceville Civic Ctr,School Board,1,NOP,Diane Long,193
+Jackson,Graceville Civic Ctr,School Board,1,NOP,Terry E. Nichols,525
+Jackson,Graceville Civic Ctr,School Board,1,"",OverVotes,2
+Jackson,Graceville Civic Ctr,School Board,1,"",UnderVotes,11
+Jackson,Graceville Civic Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1033
+Jackson,Graceville Civic Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,582
+Jackson,Graceville Civic Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Jackson,Graceville Civic Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,53
+Jackson,Graceville Civic Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1127
+Jackson,Graceville Civic Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,467
+Jackson,Graceville Civic Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,75
+Jackson,Graceville Civic Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1240
+Jackson,Graceville Civic Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,383
+Jackson,Graceville Civic Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Jackson,Graceville Civic Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,45
+Jackson,Graceville Civic Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,772
+Jackson,Graceville Civic Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,831
+Jackson,Graceville Civic Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,66
+Jackson,Graceville Civic Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1211
+Jackson,Graceville Civic Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,375
+Jackson,Graceville Civic Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Jackson,Graceville Civic Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,82
+Jackson,Graceville Civic Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1021
+Jackson,Graceville Civic Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,566
+Jackson,Graceville Civic Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Jackson,Graceville Civic Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,80
+Jackson,Graceville Civic Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1201
+Jackson,Graceville Civic Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,377
+Jackson,Graceville Civic Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,91
+Jackson,Graceville Civic Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,850
+Jackson,Graceville Civic Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,733
+Jackson,Graceville Civic Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Jackson,Graceville Civic Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,85
+Jackson,Graceville Civic Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1134
+Jackson,Graceville Civic Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,425
+Jackson,Graceville Civic Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,110
+Jackson,Graceville Civic Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,938
+Jackson,Graceville Civic Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,606
+Jackson,Graceville Civic Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Jackson,Graceville Civic Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,124
+Jackson,Graceville Civic Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1203
+Jackson,Graceville Civic Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,373
+Jackson,Graceville Civic Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Jackson,Graceville Civic Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,93
+Jackson,Graceville Civic Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,726
+Jackson,Graceville Civic Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,874
+Jackson,Graceville Civic Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Jackson,Graceville Civic Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,68
+Jackson,Alford Comm Center,Registered Voters,"","","",3303
+Jackson,Campbellton Comm Center,Registered Voters,"","","",1210
+Jackson,Citizens Lodge,Registered Voters,"","","",3434
+Jackson,Co Comm Admin Bldg,Registered Voters,"","","",2709
+Jackson,Cottondale Comm Ctr,Registered Voters,"","","",2004
+Jackson,Cypress Park,Registered Voters,"","","",661
+Jackson,Eastside Baptist Church,Registered Voters,"","","",2808
+Jackson,Graceville Civic Ctr,Registered Voters,"","","",2670
+Jackson,Grand Ridge Comm Ctr,Registered Voters,"","","",1500
+Jackson,Greenwood Town Hall,Registered Voters,"","","",958
+Jackson,Malone City Hall,Registered Voters,"","","",1725
+Jackson,Shady Grove Methodist Ch,Registered Voters,"","","",951
+Jackson,Sneads City Hall,Registered Voters,"","","",2238
+Jackson,Welcome Assembly of God Ch,Registered Voters,"","","",1825

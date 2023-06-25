@@ -1,0 +1,941 @@
+county,precinct,office,district,party,candidate,votes
+Holmes,Ponce de Leon,U.S. Senate,"",REP,Rick Scott,601
+Holmes,Ponce de Leon,U.S. Senate,"",DEM,Bill Nelson,97
+Holmes,Ponce de Leon,U.S. Senate,"","",WriteinVotes,3
+Holmes,Ponce de Leon,U.S. Senate,"","",OverVotes,0
+Holmes,Ponce de Leon,U.S. Senate,"","",UnderVotes,7
+Holmes,Ponce de Leon,U.S. House,1,REP,Matt Gaetz,611
+Holmes,Ponce de Leon,U.S. House,1,DEM,Jennifer M. Zimmerman,90
+Holmes,Ponce de Leon,U.S. House,1,"",OverVotes,0
+Holmes,Ponce de Leon,U.S. House,1,"",UnderVotes,7
+Holmes,Ponce de Leon,Governor,"",REP,DeSantis / Nuñez,612
+Holmes,Ponce de Leon,Governor,"",DEM,Gillum / King,77
+Holmes,Ponce de Leon,Governor,"",REF,Richardson / Argenziano,3
+Holmes,Ponce de Leon,Governor,"",NPA,Gibson / Wilds,5
+Holmes,Ponce de Leon,Governor,"",NPA,Foley / Tutton,2
+Holmes,Ponce de Leon,Governor,"",NPA,Stanley / McJury,4
+Holmes,Ponce de Leon,Governor,"","",WriteinVotes,0
+Holmes,Ponce de Leon,Governor,"","",OverVotes,1
+Holmes,Ponce de Leon,Governor,"","",UnderVotes,4
+Holmes,Ponce de Leon,Attorney General,"",REP,Ashley Moody,612
+Holmes,Ponce de Leon,Attorney General,"",DEM,Sean Shaw,78
+Holmes,Ponce de Leon,Attorney General,"",NPA,Jeffrey Marc Siskind,12
+Holmes,Ponce de Leon,Attorney General,"","",OverVotes,0
+Holmes,Ponce de Leon,Attorney General,"","",UnderVotes,6
+Holmes,Ponce de Leon,Chief Financial Officer,"",REP,Jimmy Patronis,627
+Holmes,Ponce de Leon,Chief Financial Officer,"",DEM,Jeremy Ring,70
+Holmes,Ponce de Leon,Chief Financial Officer,"","",WriteinVotes,2
+Holmes,Ponce de Leon,Chief Financial Officer,"","",OverVotes,0
+Holmes,Ponce de Leon,Chief Financial Officer,"","",UnderVotes,9
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",REP,Matt Caldwell,611
+Holmes,Ponce de Leon,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",86
+Holmes,Ponce de Leon,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Ponce de Leon,Commissioner of Agriculture,"","",UnderVotes,11
+Holmes,Ponce de Leon,State Senate,2,REP,George B. Gainer,614
+Holmes,Ponce de Leon,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",79
+Holmes,Ponce de Leon,State Senate,2,"",OverVotes,0
+Holmes,Ponce de Leon,State Senate,2,"",UnderVotes,15
+Holmes,Ponce de Leon,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,417
+Holmes,Ponce de Leon,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,227
+Holmes,Ponce de Leon,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,64
+Holmes,Ponce de Leon,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,410
+Holmes,Ponce de Leon,Retention of Harvey Jay,First District Court of Appeal,NOP,No,222
+Holmes,Ponce de Leon,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Holmes,Ponce de Leon,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,75
+Holmes,Ponce de Leon,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,394
+Holmes,Ponce de Leon,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,234
+Holmes,Ponce de Leon,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,80
+Holmes,Ponce de Leon,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,408
+Holmes,Ponce de Leon,Retention of Brad Thomas,First District Court of Appeal,NOP,No,225
+Holmes,Ponce de Leon,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,75
+Holmes,Ponce de Leon,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,394
+Holmes,Ponce de Leon,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,237
+Holmes,Ponce de Leon,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,77
+Holmes,Ponce de Leon,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,406
+Holmes,Ponce de Leon,Retention of Allen Winsor,First District Court of Appeal,NOP,No,226
+Holmes,Ponce de Leon,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,Ponce de Leon,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,76
+Holmes,Ponce de Leon,School Board,1,NOP,Kaci Howell Johnson,461
+Holmes,Ponce de Leon,School Board,1,NOP,Milton Tad Wilson,194
+Holmes,Ponce de Leon,School Board,1,"",OverVotes,1
+Holmes,Ponce de Leon,School Board,1,"",UnderVotes,52
+Holmes,Ponce de Leon,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,411
+Holmes,Ponce de Leon,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,223
+Holmes,Ponce de Leon,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,1
+Holmes,Ponce de Leon,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,73
+Holmes,Ponce de Leon,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,460
+Holmes,Ponce de Leon,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,230
+Holmes,Ponce de Leon,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Holmes,Ponce de Leon,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,17
+Holmes,Ponce de Leon,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,479
+Holmes,Ponce de Leon,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,205
+Holmes,Ponce de Leon,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,24
+Holmes,Ponce de Leon,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,507
+Holmes,Ponce de Leon,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,185
+Holmes,Ponce de Leon,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,16
+Holmes,Ponce de Leon,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,362
+Holmes,Ponce de Leon,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,326
+Holmes,Ponce de Leon,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,20
+Holmes,Ponce de Leon,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,516
+Holmes,Ponce de Leon,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,164
+Holmes,Ponce de Leon,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Holmes,Ponce de Leon,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,28
+Holmes,Ponce de Leon,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,430
+Holmes,Ponce de Leon,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,255
+Holmes,Ponce de Leon,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,23
+Holmes,Ponce de Leon,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,470
+Holmes,Ponce de Leon,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,206
+Holmes,Ponce de Leon,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,32
+Holmes,Ponce de Leon,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,331
+Holmes,Ponce de Leon,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,347
+Holmes,Ponce de Leon,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,30
+Holmes,Ponce de Leon,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,488
+Holmes,Ponce de Leon,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,177
+Holmes,Ponce de Leon,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Holmes,Ponce de Leon,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,42
+Holmes,Ponce de Leon,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,362
+Holmes,Ponce de Leon,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,291
+Holmes,Ponce de Leon,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,55
+Holmes,Ponce de Leon,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,492
+Holmes,Ponce de Leon,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,180
+Holmes,Ponce de Leon,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Holmes,Ponce de Leon,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,36
+Holmes,Ponce de Leon,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,227
+Holmes,Ponce de Leon,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,451
+Holmes,Ponce de Leon,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Holmes,Ponce de Leon,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,29
+Holmes,Pine Log,U.S. Senate,"",REP,Rick Scott,647
+Holmes,Pine Log,U.S. Senate,"",DEM,Bill Nelson,117
+Holmes,Pine Log,U.S. Senate,"","",WriteinVotes,1
+Holmes,Pine Log,U.S. Senate,"","",OverVotes,1
+Holmes,Pine Log,U.S. Senate,"","",UnderVotes,3
+Holmes,Pine Log,U.S. House,1,REP,Matt Gaetz,661
+Holmes,Pine Log,U.S. House,1,DEM,Jennifer M. Zimmerman,101
+Holmes,Pine Log,U.S. House,1,"",OverVotes,0
+Holmes,Pine Log,U.S. House,1,"",UnderVotes,6
+Holmes,Pine Log,Governor,"",REP,DeSantis / Nuñez,666
+Holmes,Pine Log,Governor,"",DEM,Gillum / King,85
+Holmes,Pine Log,Governor,"",REF,Richardson / Argenziano,1
+Holmes,Pine Log,Governor,"",NPA,Gibson / Wilds,3
+Holmes,Pine Log,Governor,"",NPA,Foley / Tutton,2
+Holmes,Pine Log,Governor,"",NPA,Stanley / McJury,4
+Holmes,Pine Log,Governor,"","",WriteinVotes,2
+Holmes,Pine Log,Governor,"","",OverVotes,2
+Holmes,Pine Log,Governor,"","",UnderVotes,4
+Holmes,Pine Log,Attorney General,"",REP,Ashley Moody,672
+Holmes,Pine Log,Attorney General,"",DEM,Sean Shaw,85
+Holmes,Pine Log,Attorney General,"",NPA,Jeffrey Marc Siskind,7
+Holmes,Pine Log,Attorney General,"","",OverVotes,0
+Holmes,Pine Log,Attorney General,"","",UnderVotes,4
+Holmes,Pine Log,Chief Financial Officer,"",REP,Jimmy Patronis,678
+Holmes,Pine Log,Chief Financial Officer,"",DEM,Jeremy Ring,83
+Holmes,Pine Log,Chief Financial Officer,"","",WriteinVotes,0
+Holmes,Pine Log,Chief Financial Officer,"","",OverVotes,0
+Holmes,Pine Log,Chief Financial Officer,"","",UnderVotes,7
+Holmes,Pine Log,Commissioner of Agriculture,"",REP,Matt Caldwell,666
+Holmes,Pine Log,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",98
+Holmes,Pine Log,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Pine Log,Commissioner of Agriculture,"","",UnderVotes,5
+Holmes,Pine Log,State Senate,2,REP,George B. Gainer,671
+Holmes,Pine Log,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",90
+Holmes,Pine Log,State Senate,2,"",OverVotes,0
+Holmes,Pine Log,State Senate,2,"",UnderVotes,7
+Holmes,Pine Log,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,405
+Holmes,Pine Log,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,251
+Holmes,Pine Log,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Pine Log,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,112
+Holmes,Pine Log,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,399
+Holmes,Pine Log,Retention of Harvey Jay,First District Court of Appeal,NOP,No,256
+Holmes,Pine Log,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,113
+Holmes,Pine Log,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,388
+Holmes,Pine Log,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,258
+Holmes,Pine Log,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,122
+Holmes,Pine Log,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,390
+Holmes,Pine Log,Retention of Brad Thomas,First District Court of Appeal,NOP,No,255
+Holmes,Pine Log,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,123
+Holmes,Pine Log,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,377
+Holmes,Pine Log,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,269
+Holmes,Pine Log,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,122
+Holmes,Pine Log,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,391
+Holmes,Pine Log,Retention of Allen Winsor,First District Court of Appeal,NOP,No,259
+Holmes,Pine Log,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,Pine Log,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,118
+Holmes,Pine Log,School Board,1,NOP,Kaci Howell Johnson,509
+Holmes,Pine Log,School Board,1,NOP,Milton Tad Wilson,186
+Holmes,Pine Log,School Board,1,"",OverVotes,0
+Holmes,Pine Log,School Board,1,"",UnderVotes,73
+Holmes,Pine Log,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,412
+Holmes,Pine Log,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,256
+Holmes,Pine Log,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,0
+Holmes,Pine Log,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,100
+Holmes,Pine Log,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,475
+Holmes,Pine Log,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,268
+Holmes,Pine Log,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Holmes,Pine Log,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,24
+Holmes,Pine Log,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,530
+Holmes,Pine Log,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,200
+Holmes,Pine Log,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,38
+Holmes,Pine Log,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,558
+Holmes,Pine Log,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,184
+Holmes,Pine Log,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,26
+Holmes,Pine Log,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,366
+Holmes,Pine Log,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,367
+Holmes,Pine Log,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Holmes,Pine Log,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,34
+Holmes,Pine Log,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,576
+Holmes,Pine Log,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,155
+Holmes,Pine Log,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Holmes,Pine Log,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,37
+Holmes,Pine Log,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,474
+Holmes,Pine Log,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,261
+Holmes,Pine Log,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,33
+Holmes,Pine Log,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,508
+Holmes,Pine Log,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,212
+Holmes,Pine Log,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Holmes,Pine Log,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,47
+Holmes,Pine Log,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,338
+Holmes,Pine Log,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,388
+Holmes,Pine Log,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Holmes,Pine Log,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,41
+Holmes,Pine Log,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,504
+Holmes,Pine Log,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,216
+Holmes,Pine Log,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,48
+Holmes,Pine Log,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,351
+Holmes,Pine Log,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,345
+Holmes,Pine Log,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,72
+Holmes,Pine Log,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,509
+Holmes,Pine Log,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,214
+Holmes,Pine Log,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,45
+Holmes,Pine Log,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,243
+Holmes,Pine Log,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,488
+Holmes,Pine Log,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Holmes,Pine Log,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,37
+Holmes,New Hope,U.S. Senate,"",REP,Rick Scott,508
+Holmes,New Hope,U.S. Senate,"",DEM,Bill Nelson,83
+Holmes,New Hope,U.S. Senate,"","",WriteinVotes,3
+Holmes,New Hope,U.S. Senate,"","",OverVotes,0
+Holmes,New Hope,U.S. Senate,"","",UnderVotes,7
+Holmes,New Hope,U.S. House,1,REP,Matt Gaetz,516
+Holmes,New Hope,U.S. House,1,DEM,Jennifer M. Zimmerman,73
+Holmes,New Hope,U.S. House,1,"",OverVotes,1
+Holmes,New Hope,U.S. House,1,"",UnderVotes,11
+Holmes,New Hope,Governor,"",REP,DeSantis / Nuñez,526
+Holmes,New Hope,Governor,"",DEM,Gillum / King,64
+Holmes,New Hope,Governor,"",REF,Richardson / Argenziano,5
+Holmes,New Hope,Governor,"",NPA,Gibson / Wilds,0
+Holmes,New Hope,Governor,"",NPA,Foley / Tutton,1
+Holmes,New Hope,Governor,"",NPA,Stanley / McJury,1
+Holmes,New Hope,Governor,"","",WriteinVotes,0
+Holmes,New Hope,Governor,"","",OverVotes,1
+Holmes,New Hope,Governor,"","",UnderVotes,3
+Holmes,New Hope,Attorney General,"",REP,Ashley Moody,516
+Holmes,New Hope,Attorney General,"",DEM,Sean Shaw,61
+Holmes,New Hope,Attorney General,"",NPA,Jeffrey Marc Siskind,13
+Holmes,New Hope,Attorney General,"","",OverVotes,0
+Holmes,New Hope,Attorney General,"","",UnderVotes,11
+Holmes,New Hope,Chief Financial Officer,"",REP,Jimmy Patronis,525
+Holmes,New Hope,Chief Financial Officer,"",DEM,Jeremy Ring,64
+Holmes,New Hope,Chief Financial Officer,"","",WriteinVotes,0
+Holmes,New Hope,Chief Financial Officer,"","",OverVotes,0
+Holmes,New Hope,Chief Financial Officer,"","",UnderVotes,12
+Holmes,New Hope,Commissioner of Agriculture,"",REP,Matt Caldwell,525
+Holmes,New Hope,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",66
+Holmes,New Hope,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,New Hope,Commissioner of Agriculture,"","",UnderVotes,10
+Holmes,New Hope,State Senate,2,REP,George B. Gainer,525
+Holmes,New Hope,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",64
+Holmes,New Hope,State Senate,2,"",OverVotes,0
+Holmes,New Hope,State Senate,2,"",UnderVotes,12
+Holmes,New Hope,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,344
+Holmes,New Hope,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,197
+Holmes,New Hope,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Holmes,New Hope,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,59
+Holmes,New Hope,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,329
+Holmes,New Hope,Retention of Harvey Jay,First District Court of Appeal,NOP,No,207
+Holmes,New Hope,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,2
+Holmes,New Hope,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,63
+Holmes,New Hope,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,321
+Holmes,New Hope,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,213
+Holmes,New Hope,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,67
+Holmes,New Hope,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,321
+Holmes,New Hope,Retention of Brad Thomas,First District Court of Appeal,NOP,No,212
+Holmes,New Hope,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,68
+Holmes,New Hope,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,313
+Holmes,New Hope,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,219
+Holmes,New Hope,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,69
+Holmes,New Hope,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,327
+Holmes,New Hope,Retention of Allen Winsor,First District Court of Appeal,NOP,No,209
+Holmes,New Hope,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,New Hope,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,65
+Holmes,New Hope,School Board,1,NOP,Kaci Howell Johnson,362
+Holmes,New Hope,School Board,1,NOP,Milton Tad Wilson,173
+Holmes,New Hope,School Board,1,"",OverVotes,0
+Holmes,New Hope,School Board,1,"",UnderVotes,66
+Holmes,New Hope,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,343
+Holmes,New Hope,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,183
+Holmes,New Hope,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,0
+Holmes,New Hope,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,75
+Holmes,New Hope,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,409
+Holmes,New Hope,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,166
+Holmes,New Hope,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,26
+Holmes,New Hope,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,450
+Holmes,New Hope,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,123
+Holmes,New Hope,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,28
+Holmes,New Hope,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,462
+Holmes,New Hope,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,118
+Holmes,New Hope,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,21
+Holmes,New Hope,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,298
+Holmes,New Hope,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,275
+Holmes,New Hope,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,28
+Holmes,New Hope,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,464
+Holmes,New Hope,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,102
+Holmes,New Hope,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Holmes,New Hope,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,35
+Holmes,New Hope,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,391
+Holmes,New Hope,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,179
+Holmes,New Hope,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,31
+Holmes,New Hope,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,405
+Holmes,New Hope,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,162
+Holmes,New Hope,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,34
+Holmes,New Hope,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,283
+Holmes,New Hope,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,282
+Holmes,New Hope,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,36
+Holmes,New Hope,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,415
+Holmes,New Hope,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,139
+Holmes,New Hope,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,47
+Holmes,New Hope,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,316
+Holmes,New Hope,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,227
+Holmes,New Hope,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Holmes,New Hope,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,57
+Holmes,New Hope,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,440
+Holmes,New Hope,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,122
+Holmes,New Hope,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,39
+Holmes,New Hope,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,238
+Holmes,New Hope,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,333
+Holmes,New Hope,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Holmes,New Hope,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,30
+Holmes,Bethlehem,U.S. Senate,"",REP,Rick Scott,861
+Holmes,Bethlehem,U.S. Senate,"",DEM,Bill Nelson,110
+Holmes,Bethlehem,U.S. Senate,"","",WriteinVotes,3
+Holmes,Bethlehem,U.S. Senate,"","",OverVotes,1
+Holmes,Bethlehem,U.S. Senate,"","",UnderVotes,6
+Holmes,Bethlehem,U.S. House,1,REP,Matt Gaetz,862
+Holmes,Bethlehem,U.S. House,1,DEM,Jennifer M. Zimmerman,106
+Holmes,Bethlehem,U.S. House,1,"",OverVotes,1
+Holmes,Bethlehem,U.S. House,1,"",UnderVotes,12
+Holmes,Bethlehem,Governor,"",REP,DeSantis / Nuñez,868
+Holmes,Bethlehem,Governor,"",DEM,Gillum / King,104
+Holmes,Bethlehem,Governor,"",REF,Richardson / Argenziano,2
+Holmes,Bethlehem,Governor,"",NPA,Gibson / Wilds,1
+Holmes,Bethlehem,Governor,"",NPA,Foley / Tutton,1
+Holmes,Bethlehem,Governor,"",NPA,Stanley / McJury,1
+Holmes,Bethlehem,Governor,"","",WriteinVotes,0
+Holmes,Bethlehem,Governor,"","",OverVotes,1
+Holmes,Bethlehem,Governor,"","",UnderVotes,3
+Holmes,Bethlehem,Attorney General,"",REP,Ashley Moody,860
+Holmes,Bethlehem,Attorney General,"",DEM,Sean Shaw,96
+Holmes,Bethlehem,Attorney General,"",NPA,Jeffrey Marc Siskind,11
+Holmes,Bethlehem,Attorney General,"","",OverVotes,0
+Holmes,Bethlehem,Attorney General,"","",UnderVotes,14
+Holmes,Bethlehem,Chief Financial Officer,"",REP,Jimmy Patronis,872
+Holmes,Bethlehem,Chief Financial Officer,"",DEM,Jeremy Ring,92
+Holmes,Bethlehem,Chief Financial Officer,"","",WriteinVotes,0
+Holmes,Bethlehem,Chief Financial Officer,"","",OverVotes,0
+Holmes,Bethlehem,Chief Financial Officer,"","",UnderVotes,17
+Holmes,Bethlehem,Commissioner of Agriculture,"",REP,Matt Caldwell,858
+Holmes,Bethlehem,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",106
+Holmes,Bethlehem,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Bethlehem,Commissioner of Agriculture,"","",UnderVotes,17
+Holmes,Bethlehem,State Senate,2,REP,George B. Gainer,867
+Holmes,Bethlehem,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",92
+Holmes,Bethlehem,State Senate,2,"",OverVotes,0
+Holmes,Bethlehem,State Senate,2,"",UnderVotes,22
+Holmes,Bethlehem,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,514
+Holmes,Bethlehem,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,330
+Holmes,Bethlehem,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Bethlehem,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,137
+Holmes,Bethlehem,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,503
+Holmes,Bethlehem,Retention of Harvey Jay,First District Court of Appeal,NOP,No,342
+Holmes,Bethlehem,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Holmes,Bethlehem,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,136
+Holmes,Bethlehem,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,486
+Holmes,Bethlehem,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,338
+Holmes,Bethlehem,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Holmes,Bethlehem,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,156
+Holmes,Bethlehem,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,487
+Holmes,Bethlehem,Retention of Brad Thomas,First District Court of Appeal,NOP,No,351
+Holmes,Bethlehem,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Holmes,Bethlehem,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,142
+Holmes,Bethlehem,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,488
+Holmes,Bethlehem,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,347
+Holmes,Bethlehem,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Holmes,Bethlehem,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,145
+Holmes,Bethlehem,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,491
+Holmes,Bethlehem,Retention of Allen Winsor,First District Court of Appeal,NOP,No,351
+Holmes,Bethlehem,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,Bethlehem,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,139
+Holmes,Bethlehem,School Board,1,NOP,Kaci Howell Johnson,571
+Holmes,Bethlehem,School Board,1,NOP,Milton Tad Wilson,331
+Holmes,Bethlehem,School Board,1,"",OverVotes,1
+Holmes,Bethlehem,School Board,1,"",UnderVotes,78
+Holmes,Bethlehem,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,447
+Holmes,Bethlehem,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,427
+Holmes,Bethlehem,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,1
+Holmes,Bethlehem,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,106
+Holmes,Bethlehem,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,657
+Holmes,Bethlehem,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,283
+Holmes,Bethlehem,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,41
+Holmes,Bethlehem,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,695
+Holmes,Bethlehem,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,228
+Holmes,Bethlehem,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,58
+Holmes,Bethlehem,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,749
+Holmes,Bethlehem,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,197
+Holmes,Bethlehem,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,35
+Holmes,Bethlehem,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,481
+Holmes,Bethlehem,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,452
+Holmes,Bethlehem,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Holmes,Bethlehem,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,46
+Holmes,Bethlehem,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,742
+Holmes,Bethlehem,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,185
+Holmes,Bethlehem,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Holmes,Bethlehem,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,54
+Holmes,Bethlehem,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,638
+Holmes,Bethlehem,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,282
+Holmes,Bethlehem,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,61
+Holmes,Bethlehem,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,687
+Holmes,Bethlehem,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,228
+Holmes,Bethlehem,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,66
+Holmes,Bethlehem,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,431
+Holmes,Bethlehem,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,482
+Holmes,Bethlehem,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,68
+Holmes,Bethlehem,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,653
+Holmes,Bethlehem,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,248
+Holmes,Bethlehem,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,80
+Holmes,Bethlehem,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,558
+Holmes,Bethlehem,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,330
+Holmes,Bethlehem,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Holmes,Bethlehem,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,92
+Holmes,Bethlehem,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,728
+Holmes,Bethlehem,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,191
+Holmes,Bethlehem,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,62
+Holmes,Bethlehem,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,377
+Holmes,Bethlehem,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,561
+Holmes,Bethlehem,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Holmes,Bethlehem,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,43
+Holmes,Gritney,U.S. Senate,"",REP,Rick Scott,305
+Holmes,Gritney,U.S. Senate,"",DEM,Bill Nelson,25
+Holmes,Gritney,U.S. Senate,"","",WriteinVotes,1
+Holmes,Gritney,U.S. Senate,"","",OverVotes,0
+Holmes,Gritney,U.S. Senate,"","",UnderVotes,3
+Holmes,Gritney,U.S. House,1,REP,Matt Gaetz,298
+Holmes,Gritney,U.S. House,1,DEM,Jennifer M. Zimmerman,28
+Holmes,Gritney,U.S. House,1,"",OverVotes,0
+Holmes,Gritney,U.S. House,1,"",UnderVotes,8
+Holmes,Gritney,Governor,"",REP,DeSantis / Nuñez,287
+Holmes,Gritney,Governor,"",DEM,Gillum / King,32
+Holmes,Gritney,Governor,"",REF,Richardson / Argenziano,2
+Holmes,Gritney,Governor,"",NPA,Gibson / Wilds,2
+Holmes,Gritney,Governor,"",NPA,Foley / Tutton,1
+Holmes,Gritney,Governor,"",NPA,Stanley / McJury,1
+Holmes,Gritney,Governor,"","",WriteinVotes,2
+Holmes,Gritney,Governor,"","",OverVotes,1
+Holmes,Gritney,Governor,"","",UnderVotes,6
+Holmes,Gritney,Attorney General,"",REP,Ashley Moody,294
+Holmes,Gritney,Attorney General,"",DEM,Sean Shaw,30
+Holmes,Gritney,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Holmes,Gritney,Attorney General,"","",OverVotes,0
+Holmes,Gritney,Attorney General,"","",UnderVotes,5
+Holmes,Gritney,Chief Financial Officer,"",REP,Jimmy Patronis,297
+Holmes,Gritney,Chief Financial Officer,"",DEM,Jeremy Ring,30
+Holmes,Gritney,Chief Financial Officer,"","",WriteinVotes,0
+Holmes,Gritney,Chief Financial Officer,"","",OverVotes,0
+Holmes,Gritney,Chief Financial Officer,"","",UnderVotes,7
+Holmes,Gritney,Commissioner of Agriculture,"",REP,Matt Caldwell,301
+Holmes,Gritney,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",28
+Holmes,Gritney,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Gritney,Commissioner of Agriculture,"","",UnderVotes,5
+Holmes,Gritney,State Senate,2,REP,George B. Gainer,300
+Holmes,Gritney,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",29
+Holmes,Gritney,State Senate,2,"",OverVotes,0
+Holmes,Gritney,State Senate,2,"",UnderVotes,5
+Holmes,Gritney,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,190
+Holmes,Gritney,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,106
+Holmes,Gritney,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Gritney,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,38
+Holmes,Gritney,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,193
+Holmes,Gritney,Retention of Harvey Jay,First District Court of Appeal,NOP,No,99
+Holmes,Gritney,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,42
+Holmes,Gritney,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,194
+Holmes,Gritney,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,100
+Holmes,Gritney,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,40
+Holmes,Gritney,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,192
+Holmes,Gritney,Retention of Brad Thomas,First District Court of Appeal,NOP,No,98
+Holmes,Gritney,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,44
+Holmes,Gritney,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,193
+Holmes,Gritney,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,97
+Holmes,Gritney,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,44
+Holmes,Gritney,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,186
+Holmes,Gritney,Retention of Allen Winsor,First District Court of Appeal,NOP,No,106
+Holmes,Gritney,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,Gritney,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,42
+Holmes,Gritney,School Board,1,NOP,Kaci Howell Johnson,180
+Holmes,Gritney,School Board,1,NOP,Milton Tad Wilson,132
+Holmes,Gritney,School Board,1,"",OverVotes,0
+Holmes,Gritney,School Board,1,"",UnderVotes,22
+Holmes,Gritney,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,169
+Holmes,Gritney,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,130
+Holmes,Gritney,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,0
+Holmes,Gritney,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,35
+Holmes,Gritney,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,212
+Holmes,Gritney,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,113
+Holmes,Gritney,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,9
+Holmes,Gritney,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,223
+Holmes,Gritney,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,97
+Holmes,Gritney,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,14
+Holmes,Gritney,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,245
+Holmes,Gritney,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,82
+Holmes,Gritney,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Holmes,Gritney,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,177
+Holmes,Gritney,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,148
+Holmes,Gritney,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,9
+Holmes,Gritney,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,241
+Holmes,Gritney,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,76
+Holmes,Gritney,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Holmes,Gritney,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,16
+Holmes,Gritney,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,221
+Holmes,Gritney,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,93
+Holmes,Gritney,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,20
+Holmes,Gritney,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,254
+Holmes,Gritney,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,61
+Holmes,Gritney,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Holmes,Gritney,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,160
+Holmes,Gritney,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,157
+Holmes,Gritney,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,17
+Holmes,Gritney,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,226
+Holmes,Gritney,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,84
+Holmes,Gritney,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Holmes,Gritney,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,179
+Holmes,Gritney,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,123
+Holmes,Gritney,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,32
+Holmes,Gritney,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,244
+Holmes,Gritney,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,72
+Holmes,Gritney,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,18
+Holmes,Gritney,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,115
+Holmes,Gritney,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,207
+Holmes,Gritney,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Holmes,Gritney,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,12
+Holmes,Noma,U.S. Senate,"",REP,Rick Scott,1313
+Holmes,Noma,U.S. Senate,"",DEM,Bill Nelson,126
+Holmes,Noma,U.S. Senate,"","",WriteinVotes,5
+Holmes,Noma,U.S. Senate,"","",OverVotes,0
+Holmes,Noma,U.S. Senate,"","",UnderVotes,8
+Holmes,Noma,U.S. House,1,REP,Matt Gaetz,880
+Holmes,Noma,U.S. House,1,DEM,Jennifer M. Zimmerman,96
+Holmes,Noma,U.S. House,1,"",OverVotes,0
+Holmes,Noma,U.S. House,1,"",UnderVotes,16
+Holmes,Noma,U.S. House,2,REP,Neal Dunn,432
+Holmes,Noma,U.S. House,2,DEM,Bob Rackleff,25
+Holmes,Noma,U.S. House,2,"",OverVotes,0
+Holmes,Noma,U.S. House,2,"",UnderVotes,3
+Holmes,Noma,Governor,"",REP,DeSantis / Nuñez,1302
+Holmes,Noma,Governor,"",DEM,Gillum / King,110
+Holmes,Noma,Governor,"",REF,Richardson / Argenziano,5
+Holmes,Noma,Governor,"",NPA,Gibson / Wilds,8
+Holmes,Noma,Governor,"",NPA,Foley / Tutton,4
+Holmes,Noma,Governor,"",NPA,Stanley / McJury,8
+Holmes,Noma,Governor,"","",WriteinVotes,1
+Holmes,Noma,Governor,"","",OverVotes,3
+Holmes,Noma,Governor,"","",UnderVotes,11
+Holmes,Noma,Attorney General,"",REP,Ashley Moody,1300
+Holmes,Noma,Attorney General,"",DEM,Sean Shaw,110
+Holmes,Noma,Attorney General,"",NPA,Jeffrey Marc Siskind,21
+Holmes,Noma,Attorney General,"","",OverVotes,1
+Holmes,Noma,Attorney General,"","",UnderVotes,20
+Holmes,Noma,Chief Financial Officer,"",REP,Jimmy Patronis,1329
+Holmes,Noma,Chief Financial Officer,"",DEM,Jeremy Ring,103
+Holmes,Noma,Chief Financial Officer,"","",WriteinVotes,0
+Holmes,Noma,Chief Financial Officer,"","",OverVotes,0
+Holmes,Noma,Chief Financial Officer,"","",UnderVotes,20
+Holmes,Noma,Commissioner of Agriculture,"",REP,Matt Caldwell,1318
+Holmes,Noma,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",114
+Holmes,Noma,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,Noma,Commissioner of Agriculture,"","",UnderVotes,20
+Holmes,Noma,State Senate,2,REP,George B. Gainer,1326
+Holmes,Noma,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",109
+Holmes,Noma,State Senate,2,"",OverVotes,0
+Holmes,Noma,State Senate,2,"",UnderVotes,17
+Holmes,Noma,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,853
+Holmes,Noma,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,439
+Holmes,Noma,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Holmes,Noma,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,160
+Holmes,Noma,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,830
+Holmes,Noma,Retention of Harvey Jay,First District Court of Appeal,NOP,No,453
+Holmes,Noma,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Holmes,Noma,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,169
+Holmes,Noma,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,810
+Holmes,Noma,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,451
+Holmes,Noma,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,3
+Holmes,Noma,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,188
+Holmes,Noma,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,808
+Holmes,Noma,Retention of Brad Thomas,First District Court of Appeal,NOP,No,462
+Holmes,Noma,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Holmes,Noma,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,181
+Holmes,Noma,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,792
+Holmes,Noma,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,476
+Holmes,Noma,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Holmes,Noma,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,183
+Holmes,Noma,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,828
+Holmes,Noma,Retention of Allen Winsor,First District Court of Appeal,NOP,No,451
+Holmes,Noma,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,Noma,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,173
+Holmes,Noma,School Board,1,NOP,Kaci Howell Johnson,861
+Holmes,Noma,School Board,1,NOP,Milton Tad Wilson,504
+Holmes,Noma,School Board,1,"",OverVotes,0
+Holmes,Noma,School Board,1,"",UnderVotes,87
+Holmes,Noma,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,664
+Holmes,Noma,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,608
+Holmes,Noma,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,0
+Holmes,Noma,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,180
+Holmes,Noma,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,964
+Holmes,Noma,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,428
+Holmes,Noma,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Holmes,Noma,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,60
+Holmes,Noma,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1014
+Holmes,Noma,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,359
+Holmes,Noma,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Holmes,Noma,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,79
+Holmes,Noma,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1055
+Holmes,Noma,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,345
+Holmes,Noma,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,Noma,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,52
+Holmes,Noma,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,650
+Holmes,Noma,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,741
+Holmes,Noma,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Holmes,Noma,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,61
+Holmes,Noma,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1074
+Holmes,Noma,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,300
+Holmes,Noma,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Holmes,Noma,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,78
+Holmes,Noma,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,917
+Holmes,Noma,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,452
+Holmes,Noma,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Holmes,Noma,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,81
+Holmes,Noma,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,976
+Holmes,Noma,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,367
+Holmes,Noma,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Holmes,Noma,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,109
+Holmes,Noma,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,610
+Holmes,Noma,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,740
+Holmes,Noma,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,3
+Holmes,Noma,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,99
+Holmes,Noma,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,943
+Holmes,Noma,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,394
+Holmes,Noma,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Holmes,Noma,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,115
+Holmes,Noma,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,750
+Holmes,Noma,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,556
+Holmes,Noma,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Holmes,Noma,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,146
+Holmes,Noma,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,988
+Holmes,Noma,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,354
+Holmes,Noma,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,3
+Holmes,Noma,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,107
+Holmes,Noma,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,500
+Holmes,Noma,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,876
+Holmes,Noma,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Holmes,Noma,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,76
+Holmes,West Bonifay,U.S. Senate,"",REP,Rick Scott,1006
+Holmes,West Bonifay,U.S. Senate,"",DEM,Bill Nelson,141
+Holmes,West Bonifay,U.S. Senate,"","",WriteinVotes,2
+Holmes,West Bonifay,U.S. Senate,"","",OverVotes,0
+Holmes,West Bonifay,U.S. Senate,"","",UnderVotes,6
+Holmes,West Bonifay,U.S. House,2,REP,Neal Dunn,1027
+Holmes,West Bonifay,U.S. House,2,DEM,Bob Rackleff,118
+Holmes,West Bonifay,U.S. House,2,"",OverVotes,0
+Holmes,West Bonifay,U.S. House,2,"",UnderVotes,10
+Holmes,West Bonifay,Governor,"",REP,DeSantis / Nuñez,1002
+Holmes,West Bonifay,Governor,"",DEM,Gillum / King,114
+Holmes,West Bonifay,Governor,"",REF,Richardson / Argenziano,8
+Holmes,West Bonifay,Governor,"",NPA,Gibson / Wilds,7
+Holmes,West Bonifay,Governor,"",NPA,Foley / Tutton,2
+Holmes,West Bonifay,Governor,"",NPA,Stanley / McJury,6
+Holmes,West Bonifay,Governor,"","",WriteinVotes,3
+Holmes,West Bonifay,Governor,"","",OverVotes,5
+Holmes,West Bonifay,Governor,"","",UnderVotes,8
+Holmes,West Bonifay,Attorney General,"",REP,Ashley Moody,997
+Holmes,West Bonifay,Attorney General,"",DEM,Sean Shaw,123
+Holmes,West Bonifay,Attorney General,"",NPA,Jeffrey Marc Siskind,23
+Holmes,West Bonifay,Attorney General,"","",OverVotes,0
+Holmes,West Bonifay,Attorney General,"","",UnderVotes,12
+Holmes,West Bonifay,Chief Financial Officer,"",REP,Jimmy Patronis,1029
+Holmes,West Bonifay,Chief Financial Officer,"",DEM,Jeremy Ring,114
+Holmes,West Bonifay,Chief Financial Officer,"","",WriteinVotes,1
+Holmes,West Bonifay,Chief Financial Officer,"","",OverVotes,0
+Holmes,West Bonifay,Chief Financial Officer,"","",UnderVotes,11
+Holmes,West Bonifay,Commissioner of Agriculture,"",REP,Matt Caldwell,1011
+Holmes,West Bonifay,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",134
+Holmes,West Bonifay,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,West Bonifay,Commissioner of Agriculture,"","",UnderVotes,10
+Holmes,West Bonifay,State Senate,2,REP,George B. Gainer,1031
+Holmes,West Bonifay,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",114
+Holmes,West Bonifay,State Senate,2,"",OverVotes,0
+Holmes,West Bonifay,State Senate,2,"",UnderVotes,10
+Holmes,West Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,686
+Holmes,West Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,355
+Holmes,West Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Holmes,West Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,113
+Holmes,West Bonifay,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,666
+Holmes,West Bonifay,Retention of Harvey Jay,First District Court of Appeal,NOP,No,371
+Holmes,West Bonifay,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Holmes,West Bonifay,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,118
+Holmes,West Bonifay,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,663
+Holmes,West Bonifay,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,366
+Holmes,West Bonifay,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Holmes,West Bonifay,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,126
+Holmes,West Bonifay,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,651
+Holmes,West Bonifay,Retention of Brad Thomas,First District Court of Appeal,NOP,No,383
+Holmes,West Bonifay,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,West Bonifay,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,121
+Holmes,West Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,650
+Holmes,West Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,382
+Holmes,West Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,West Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,123
+Holmes,West Bonifay,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,661
+Holmes,West Bonifay,Retention of Allen Winsor,First District Court of Appeal,NOP,No,369
+Holmes,West Bonifay,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,West Bonifay,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,125
+Holmes,West Bonifay,School Board,1,NOP,Kaci Howell Johnson,725
+Holmes,West Bonifay,School Board,1,NOP,Milton Tad Wilson,378
+Holmes,West Bonifay,School Board,1,"",OverVotes,0
+Holmes,West Bonifay,School Board,1,"",UnderVotes,52
+Holmes,West Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,483
+Holmes,West Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,582
+Holmes,West Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,1
+Holmes,West Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,89
+Holmes,West Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,708
+Holmes,West Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,399
+Holmes,West Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Holmes,West Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,48
+Holmes,West Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,804
+Holmes,West Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,296
+Holmes,West Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Holmes,West Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,54
+Holmes,West Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,793
+Holmes,West Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,319
+Holmes,West Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,West Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,43
+Holmes,West Bonifay,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,523
+Holmes,West Bonifay,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,586
+Holmes,West Bonifay,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Holmes,West Bonifay,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,45
+Holmes,West Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,821
+Holmes,West Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,272
+Holmes,West Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Holmes,West Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,62
+Holmes,West Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,701
+Holmes,West Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,395
+Holmes,West Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Holmes,West Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,58
+Holmes,West Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,808
+Holmes,West Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,280
+Holmes,West Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Holmes,West Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,66
+Holmes,West Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,533
+Holmes,West Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,558
+Holmes,West Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Holmes,West Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,64
+Holmes,West Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,787
+Holmes,West Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,295
+Holmes,West Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Holmes,West Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,73
+Holmes,West Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,611
+Holmes,West Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,449
+Holmes,West Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Holmes,West Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,95
+Holmes,West Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,827
+Holmes,West Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,261
+Holmes,West Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Holmes,West Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,67
+Holmes,West Bonifay,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,410
+Holmes,West Bonifay,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,688
+Holmes,West Bonifay,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Holmes,West Bonifay,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,55
+Holmes,East Bonifay,U.S. Senate,"",REP,Rick Scott,678
+Holmes,East Bonifay,U.S. Senate,"",DEM,Bill Nelson,157
+Holmes,East Bonifay,U.S. Senate,"","",WriteinVotes,1
+Holmes,East Bonifay,U.S. Senate,"","",OverVotes,1
+Holmes,East Bonifay,U.S. Senate,"","",UnderVotes,4
+Holmes,East Bonifay,U.S. House,2,REP,Neal Dunn,676
+Holmes,East Bonifay,U.S. House,2,DEM,Bob Rackleff,150
+Holmes,East Bonifay,U.S. House,2,"",OverVotes,0
+Holmes,East Bonifay,U.S. House,2,"",UnderVotes,15
+Holmes,East Bonifay,Governor,"",REP,DeSantis / Nuñez,677
+Holmes,East Bonifay,Governor,"",DEM,Gillum / King,151
+Holmes,East Bonifay,Governor,"",REF,Richardson / Argenziano,1
+Holmes,East Bonifay,Governor,"",NPA,Gibson / Wilds,5
+Holmes,East Bonifay,Governor,"",NPA,Foley / Tutton,0
+Holmes,East Bonifay,Governor,"",NPA,Stanley / McJury,0
+Holmes,East Bonifay,Governor,"","",WriteinVotes,0
+Holmes,East Bonifay,Governor,"","",OverVotes,0
+Holmes,East Bonifay,Governor,"","",UnderVotes,7
+Holmes,East Bonifay,Attorney General,"",REP,Ashley Moody,670
+Holmes,East Bonifay,Attorney General,"",DEM,Sean Shaw,149
+Holmes,East Bonifay,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Holmes,East Bonifay,Attorney General,"","",OverVotes,0
+Holmes,East Bonifay,Attorney General,"","",UnderVotes,12
+Holmes,East Bonifay,Chief Financial Officer,"",REP,Jimmy Patronis,696
+Holmes,East Bonifay,Chief Financial Officer,"",DEM,Jeremy Ring,132
+Holmes,East Bonifay,Chief Financial Officer,"","",WriteinVotes,1
+Holmes,East Bonifay,Chief Financial Officer,"","",OverVotes,0
+Holmes,East Bonifay,Chief Financial Officer,"","",UnderVotes,12
+Holmes,East Bonifay,Commissioner of Agriculture,"",REP,Matt Caldwell,668
+Holmes,East Bonifay,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",159
+Holmes,East Bonifay,Commissioner of Agriculture,"","",OverVotes,0
+Holmes,East Bonifay,Commissioner of Agriculture,"","",UnderVotes,14
+Holmes,East Bonifay,State Senate,2,REP,George B. Gainer,688
+Holmes,East Bonifay,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",143
+Holmes,East Bonifay,State Senate,2,"",OverVotes,0
+Holmes,East Bonifay,State Senate,2,"",UnderVotes,10
+Holmes,East Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,460
+Holmes,East Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,307
+Holmes,East Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Holmes,East Bonifay,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,74
+Holmes,East Bonifay,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,454
+Holmes,East Bonifay,Retention of Harvey Jay,First District Court of Appeal,NOP,No,307
+Holmes,East Bonifay,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Holmes,East Bonifay,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,79
+Holmes,East Bonifay,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,451
+Holmes,East Bonifay,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,301
+Holmes,East Bonifay,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Holmes,East Bonifay,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,89
+Holmes,East Bonifay,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,435
+Holmes,East Bonifay,Retention of Brad Thomas,First District Court of Appeal,NOP,No,323
+Holmes,East Bonifay,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,East Bonifay,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,83
+Holmes,East Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,441
+Holmes,East Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,312
+Holmes,East Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Holmes,East Bonifay,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,88
+Holmes,East Bonifay,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,440
+Holmes,East Bonifay,Retention of Allen Winsor,First District Court of Appeal,NOP,No,318
+Holmes,East Bonifay,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Holmes,East Bonifay,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,83
+Holmes,East Bonifay,School Board,1,NOP,Kaci Howell Johnson,545
+Holmes,East Bonifay,School Board,1,NOP,Milton Tad Wilson,257
+Holmes,East Bonifay,School Board,1,"",OverVotes,0
+Holmes,East Bonifay,School Board,1,"",UnderVotes,39
+Holmes,East Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Randall Baker,305
+Holmes,East Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,NOP,Carlton Treadwell,472
+Holmes,East Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,"",OverVotes,0
+Holmes,East Bonifay,Holmes Creek Soil and Water Conservation District,Group 1,"",UnderVotes,64
+Holmes,East Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,535
+Holmes,East Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,282
+Holmes,East Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,24
+Holmes,East Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,580
+Holmes,East Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,221
+Holmes,East Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,40
+Holmes,East Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,604
+Holmes,East Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,215
+Holmes,East Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,22
+Holmes,East Bonifay,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,415
+Holmes,East Bonifay,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,398
+Holmes,East Bonifay,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,28
+Holmes,East Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,592
+Holmes,East Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,207
+Holmes,East Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Holmes,East Bonifay,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,42
+Holmes,East Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,497
+Holmes,East Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,308
+Holmes,East Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,36
+Holmes,East Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,586
+Holmes,East Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,212
+Holmes,East Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Holmes,East Bonifay,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,42
+Holmes,East Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,397
+Holmes,East Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,409
+Holmes,East Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,35
+Holmes,East Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,565
+Holmes,East Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,225
+Holmes,East Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Holmes,East Bonifay,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,50
+Holmes,East Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,436
+Holmes,East Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,345
+Holmes,East Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,60
+Holmes,East Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,573
+Holmes,East Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,224
+Holmes,East Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Holmes,East Bonifay,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,44
+Holmes,East Bonifay,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,313
+Holmes,East Bonifay,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,499
+Holmes,East Bonifay,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Holmes,East Bonifay,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,28
+Holmes,Bethlehem,Registered Voters,"","","",1503
+Holmes,East Bonifay,Registered Voters,"","","",0
+Holmes,Gritney,Registered Voters,"","","",546
+Holmes,New Hope,Registered Voters,"","","",921
+Holmes,Noma,Registered Voters,"","","",2333
+Holmes,Pine Log,Registered Voters,"","","",1091
+Holmes,Ponce de Leon,Registered Voters,"","","",1152
+Holmes,West Bonifay,Registered Voters,"","","",1908
