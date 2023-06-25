@@ -1,0 +1,1193 @@
+county,precinct,office,district,party,candidate,votes
+Hendry,001,U.S. Senate,"",REP,Rick Scott,395
+Hendry,001,U.S. Senate,"",DEM,Bill Nelson,1292
+Hendry,001,U.S. Senate,"","",WriteinVotes,9
+Hendry,001,U.S. Senate,"","",OverVotes,0
+Hendry,001,U.S. Senate,"","",UnderVotes,22
+Hendry,001,U.S. House,25,REP,Mario Diaz-Balart,372
+Hendry,001,U.S. House,25,DEM,Mary Barzee Flores,1244
+Hendry,001,U.S. House,25,"",OverVotes,0
+Hendry,001,U.S. House,25,"",UnderVotes,101
+Hendry,001,Governor,"",REP,DeSantis / Nuñez,340
+Hendry,001,Governor,"",DEM,Gillum / King,1337
+Hendry,001,Governor,"",REF,Richardson / Argenziano,10
+Hendry,001,Governor,"",NPA,Gibson / Wilds,6
+Hendry,001,Governor,"",NPA,Foley / Tutton,3
+Hendry,001,Governor,"",NPA,Stanley / McJury,6
+Hendry,001,Governor,"","",WriteinVotes,1
+Hendry,001,Governor,"","",OverVotes,5
+Hendry,001,Governor,"","",UnderVotes,9
+Hendry,001,Attorney General,"",REP,Ashley Moody,370
+Hendry,001,Attorney General,"",DEM,Sean Shaw,1288
+Hendry,001,Attorney General,"",NPA,Jeffrey Marc Siskind,17
+Hendry,001,Attorney General,"","",OverVotes,0
+Hendry,001,Attorney General,"","",UnderVotes,42
+Hendry,001,Chief Financial Officer,"",REP,Jimmy Patronis,359
+Hendry,001,Chief Financial Officer,"",DEM,Jeremy Ring,1299
+Hendry,001,Chief Financial Officer,"","",WriteinVotes,3
+Hendry,001,Chief Financial Officer,"","",OverVotes,2
+Hendry,001,Chief Financial Officer,"","",UnderVotes,54
+Hendry,001,Commissioner of Agriculture,"",REP,Matt Caldwell,369
+Hendry,001,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",1307
+Hendry,001,Commissioner of Agriculture,"","",OverVotes,1
+Hendry,001,Commissioner of Agriculture,"","",UnderVotes,42
+Hendry,001,State Attorney,20th Judicial Circuit,REP,Amira Fox,760
+Hendry,001,State Attorney,20th Judicial Circuit,"",WriteinVotes,111
+Hendry,001,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,001,State Attorney,20th Judicial Circuit,"",UnderVotes,846
+Hendry,001,State Senate,28,REP,Kathleen Passidomo,353
+Hendry,001,State Senate,28,DEM,Annisa Karim,1300
+Hendry,001,State Senate,28,"",OverVotes,0
+Hendry,001,State Senate,28,"",UnderVotes,64
+Hendry,001,State House,80,REP,Byron Donalds,340
+Hendry,001,State House,80,DEM,Jennifer Boddicker,1292
+Hendry,001,State House,80,NPA,Dustin Alexander Lapolla,23
+Hendry,001,State House,80,"",OverVotes,0
+Hendry,001,State House,80,"",UnderVotes,62
+Hendry,001,Property Appraiser,"",REP,Dena R Pittman,406
+Hendry,001,Property Appraiser,"",DEM,Tony Aguilar,1257
+Hendry,001,Property Appraiser,"","",OverVotes,0
+Hendry,001,Property Appraiser,"","",UnderVotes,54
+Hendry,001,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,971
+Hendry,001,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,526
+Hendry,001,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hendry,001,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,219
+Hendry,001,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,1002
+Hendry,001,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,493
+Hendry,001,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,1
+Hendry,001,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,221
+Hendry,001,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,970
+Hendry,001,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,517
+Hendry,001,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,1
+Hendry,001,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,229
+Hendry,001,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,939
+Hendry,001,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,543
+Hendry,001,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,2
+Hendry,001,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,233
+Hendry,001,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,929
+Hendry,001,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,530
+Hendry,001,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Hendry,001,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,258
+Hendry,001,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,727
+Hendry,001,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,862
+Hendry,001,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,3
+Hendry,001,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,125
+Hendry,001,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,939
+Hendry,001,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,624
+Hendry,001,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Hendry,001,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,152
+Hendry,001,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1136
+Hendry,001,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,451
+Hendry,001,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Hendry,001,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,128
+Hendry,001,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1300
+Hendry,001,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,297
+Hendry,001,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Hendry,001,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,118
+Hendry,001,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,919
+Hendry,001,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,638
+Hendry,001,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,001,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,160
+Hendry,001,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1066
+Hendry,001,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,500
+Hendry,001,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,4
+Hendry,001,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,147
+Hendry,001,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1137
+Hendry,001,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,411
+Hendry,001,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hendry,001,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,169
+Hendry,001,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,992
+Hendry,001,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,558
+Hendry,001,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Hendry,001,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,166
+Hendry,001,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,974
+Hendry,001,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,551
+Hendry,001,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,6
+Hendry,001,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,186
+Hendry,001,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,976
+Hendry,001,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,547
+Hendry,001,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Hendry,001,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,192
+Hendry,001,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1015
+Hendry,001,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,506
+Hendry,001,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Hendry,001,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,195
+Hendry,001,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,871
+Hendry,001,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,693
+Hendry,001,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,001,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,153
+Hendry,002,U.S. Senate,"",REP,Rick Scott,1211
+Hendry,002,U.S. Senate,"",DEM,Bill Nelson,576
+Hendry,002,U.S. Senate,"","",WriteinVotes,4
+Hendry,002,U.S. Senate,"","",OverVotes,0
+Hendry,002,U.S. Senate,"","",UnderVotes,15
+Hendry,002,U.S. House,25,REP,Mario Diaz-Balart,1121
+Hendry,002,U.S. House,25,DEM,Mary Barzee Flores,611
+Hendry,002,U.S. House,25,"",OverVotes,0
+Hendry,002,U.S. House,25,"",UnderVotes,73
+Hendry,002,Governor,"",REP,DeSantis / Nuñez,1195
+Hendry,002,Governor,"",DEM,Gillum / King,554
+Hendry,002,Governor,"",REF,Richardson / Argenziano,17
+Hendry,002,Governor,"",NPA,Gibson / Wilds,8
+Hendry,002,Governor,"",NPA,Foley / Tutton,5
+Hendry,002,Governor,"",NPA,Stanley / McJury,7
+Hendry,002,Governor,"","",WriteinVotes,2
+Hendry,002,Governor,"","",OverVotes,2
+Hendry,002,Governor,"","",UnderVotes,16
+Hendry,002,Attorney General,"",REP,Ashley Moody,1236
+Hendry,002,Attorney General,"",DEM,Sean Shaw,494
+Hendry,002,Attorney General,"",NPA,Jeffrey Marc Siskind,41
+Hendry,002,Attorney General,"","",OverVotes,0
+Hendry,002,Attorney General,"","",UnderVotes,34
+Hendry,002,Chief Financial Officer,"",REP,Jimmy Patronis,1188
+Hendry,002,Chief Financial Officer,"",DEM,Jeremy Ring,555
+Hendry,002,Chief Financial Officer,"","",WriteinVotes,3
+Hendry,002,Chief Financial Officer,"","",OverVotes,0
+Hendry,002,Chief Financial Officer,"","",UnderVotes,59
+Hendry,002,Commissioner of Agriculture,"",REP,Matt Caldwell,1244
+Hendry,002,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",532
+Hendry,002,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,002,Commissioner of Agriculture,"","",UnderVotes,30
+Hendry,002,State Attorney,20th Judicial Circuit,REP,Amira Fox,1449
+Hendry,002,State Attorney,20th Judicial Circuit,"",WriteinVotes,39
+Hendry,002,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,002,State Attorney,20th Judicial Circuit,"",UnderVotes,317
+Hendry,002,State Senate,28,REP,Kathleen Passidomo,1218
+Hendry,002,State Senate,28,DEM,Annisa Karim,530
+Hendry,002,State Senate,28,"",OverVotes,0
+Hendry,002,State Senate,28,"",UnderVotes,57
+Hendry,002,State House,80,REP,Byron Donalds,1140
+Hendry,002,State House,80,DEM,Jennifer Boddicker,558
+Hendry,002,State House,80,NPA,Dustin Alexander Lapolla,45
+Hendry,002,State House,80,"",OverVotes,0
+Hendry,002,State House,80,"",UnderVotes,62
+Hendry,002,Property Appraiser,"",REP,Dena R Pittman,1155
+Hendry,002,Property Appraiser,"",DEM,Tony Aguilar,617
+Hendry,002,Property Appraiser,"","",OverVotes,0
+Hendry,002,Property Appraiser,"","",UnderVotes,33
+Hendry,002,County Commissioner,2,REP,Darrell R. Harris,1153
+Hendry,002,County Commissioner,2,NPA,Kenneth C Diaz,569
+Hendry,002,County Commissioner,2,"",OverVotes,1
+Hendry,002,County Commissioner,2,"",UnderVotes,82
+Hendry,002,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1204
+Hendry,002,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,404
+Hendry,002,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hendry,002,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,196
+Hendry,002,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,1206
+Hendry,002,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,398
+Hendry,002,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,002,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,201
+Hendry,002,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,1100
+Hendry,002,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,481
+Hendry,002,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,1
+Hendry,002,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,223
+Hendry,002,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,1139
+Hendry,002,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,431
+Hendry,002,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,1
+Hendry,002,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,234
+Hendry,002,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,1140
+Hendry,002,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,426
+Hendry,002,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,1
+Hendry,002,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,238
+Hendry,002,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1022
+Hendry,002,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,705
+Hendry,002,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Hendry,002,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,76
+Hendry,002,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1226
+Hendry,002,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,508
+Hendry,002,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hendry,002,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,71
+Hendry,002,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1206
+Hendry,002,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,531
+Hendry,002,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hendry,002,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,68
+Hendry,002,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,976
+Hendry,002,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,764
+Hendry,002,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hendry,002,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,65
+Hendry,002,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1228
+Hendry,002,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,496
+Hendry,002,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Hendry,002,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,80
+Hendry,002,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1146
+Hendry,002,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,583
+Hendry,002,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Hendry,002,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,75
+Hendry,002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1214
+Hendry,002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,507
+Hendry,002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Hendry,002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,83
+Hendry,002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,975
+Hendry,002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,743
+Hendry,002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hendry,002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,87
+Hendry,002,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1166
+Hendry,002,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,542
+Hendry,002,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hendry,002,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,97
+Hendry,002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1004
+Hendry,002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,682
+Hendry,002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hendry,002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,119
+Hendry,002,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1256
+Hendry,002,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,433
+Hendry,002,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Hendry,002,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,115
+Hendry,002,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,926
+Hendry,002,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,805
+Hendry,002,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Hendry,002,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,73
+Hendry,003,U.S. Senate,"",REP,Rick Scott,1095
+Hendry,003,U.S. Senate,"",DEM,Bill Nelson,454
+Hendry,003,U.S. Senate,"","",WriteinVotes,6
+Hendry,003,U.S. Senate,"","",OverVotes,1
+Hendry,003,U.S. Senate,"","",UnderVotes,4
+Hendry,003,U.S. House,25,REP,Mario Diaz-Balart,1030
+Hendry,003,U.S. House,25,DEM,Mary Barzee Flores,480
+Hendry,003,U.S. House,25,"",OverVotes,0
+Hendry,003,U.S. House,25,"",UnderVotes,51
+Hendry,003,Governor,"",REP,DeSantis / Nuñez,1084
+Hendry,003,Governor,"",DEM,Gillum / King,434
+Hendry,003,Governor,"",REF,Richardson / Argenziano,6
+Hendry,003,Governor,"",NPA,Gibson / Wilds,8
+Hendry,003,Governor,"",NPA,Foley / Tutton,8
+Hendry,003,Governor,"",NPA,Stanley / McJury,3
+Hendry,003,Governor,"","",WriteinVotes,0
+Hendry,003,Governor,"","",OverVotes,3
+Hendry,003,Governor,"","",UnderVotes,15
+Hendry,003,Attorney General,"",REP,Ashley Moody,1101
+Hendry,003,Attorney General,"",DEM,Sean Shaw,408
+Hendry,003,Attorney General,"",NPA,Jeffrey Marc Siskind,21
+Hendry,003,Attorney General,"","",OverVotes,0
+Hendry,003,Attorney General,"","",UnderVotes,31
+Hendry,003,Chief Financial Officer,"",REP,Jimmy Patronis,1070
+Hendry,003,Chief Financial Officer,"",DEM,Jeremy Ring,438
+Hendry,003,Chief Financial Officer,"","",WriteinVotes,1
+Hendry,003,Chief Financial Officer,"","",OverVotes,0
+Hendry,003,Chief Financial Officer,"","",UnderVotes,52
+Hendry,003,Commissioner of Agriculture,"",REP,Matt Caldwell,1114
+Hendry,003,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",422
+Hendry,003,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,003,Commissioner of Agriculture,"","",UnderVotes,23
+Hendry,003,State Attorney,20th Judicial Circuit,REP,Amira Fox,1225
+Hendry,003,State Attorney,20th Judicial Circuit,"",WriteinVotes,52
+Hendry,003,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,003,State Attorney,20th Judicial Circuit,"",UnderVotes,284
+Hendry,003,State Senate,28,REP,Kathleen Passidomo,1087
+Hendry,003,State Senate,28,DEM,Annisa Karim,427
+Hendry,003,State Senate,28,"",OverVotes,0
+Hendry,003,State Senate,28,"",UnderVotes,47
+Hendry,003,State House,80,REP,Byron Donalds,1041
+Hendry,003,State House,80,DEM,Jennifer Boddicker,444
+Hendry,003,State House,80,NPA,Dustin Alexander Lapolla,25
+Hendry,003,State House,80,"",OverVotes,1
+Hendry,003,State House,80,"",UnderVotes,50
+Hendry,003,Property Appraiser,"",REP,Dena R Pittman,1066
+Hendry,003,Property Appraiser,"",DEM,Tony Aguilar,458
+Hendry,003,Property Appraiser,"","",OverVotes,0
+Hendry,003,Property Appraiser,"","",UnderVotes,37
+Hendry,003,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1014
+Hendry,003,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,373
+Hendry,003,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hendry,003,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,173
+Hendry,003,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,981
+Hendry,003,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,383
+Hendry,003,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,003,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,197
+Hendry,003,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,911
+Hendry,003,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,434
+Hendry,003,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Hendry,003,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,216
+Hendry,003,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,944
+Hendry,003,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,392
+Hendry,003,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Hendry,003,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,225
+Hendry,003,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,928
+Hendry,003,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,394
+Hendry,003,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,2
+Hendry,003,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,237
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 2,NOP,Julie Camp,30
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 2,NOP,David Duane Deetscreek,11
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 2,"",OverVotes,0
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 2,"",UnderVotes,8
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 4,NOP,Mike Bonacolta,24
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 4,NOP,Julie Hollingsworth,18
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 4,"",OverVotes,0
+Hendry,003,Lehigh Acres Municipal Services Improvement District,Seat 4,"",UnderVotes,7
+Hendry,003,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,943
+Hendry,003,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,556
+Hendry,003,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hendry,003,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,62
+Hendry,003,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1081
+Hendry,003,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,416
+Hendry,003,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Hendry,003,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,63
+Hendry,003,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1003
+Hendry,003,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,501
+Hendry,003,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Hendry,003,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,55
+Hendry,003,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,753
+Hendry,003,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,752
+Hendry,003,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Hendry,003,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,55
+Hendry,003,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1085
+Hendry,003,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,402
+Hendry,003,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,003,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,74
+Hendry,003,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,956
+Hendry,003,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,530
+Hendry,003,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Hendry,003,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,74
+Hendry,003,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1023
+Hendry,003,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,461
+Hendry,003,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hendry,003,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,77
+Hendry,003,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,816
+Hendry,003,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,657
+Hendry,003,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,3
+Hendry,003,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,85
+Hendry,003,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,953
+Hendry,003,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,497
+Hendry,003,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Hendry,003,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,110
+Hendry,003,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,804
+Hendry,003,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,630
+Hendry,003,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Hendry,003,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,125
+Hendry,003,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1081
+Hendry,003,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,377
+Hendry,003,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Hendry,003,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,102
+Hendry,003,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,717
+Hendry,003,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,771
+Hendry,003,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Hendry,003,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,72
+Hendry,004,U.S. Senate,"",REP,Rick Scott,52
+Hendry,004,U.S. Senate,"",DEM,Bill Nelson,50
+Hendry,004,U.S. Senate,"","",WriteinVotes,0
+Hendry,004,U.S. Senate,"","",OverVotes,0
+Hendry,004,U.S. Senate,"","",UnderVotes,2
+Hendry,004,U.S. House,25,REP,Mario Diaz-Balart,46
+Hendry,004,U.S. House,25,DEM,Mary Barzee Flores,53
+Hendry,004,U.S. House,25,"",OverVotes,0
+Hendry,004,U.S. House,25,"",UnderVotes,5
+Hendry,004,Governor,"",REP,DeSantis / Nuñez,46
+Hendry,004,Governor,"",DEM,Gillum / King,52
+Hendry,004,Governor,"",REF,Richardson / Argenziano,2
+Hendry,004,Governor,"",NPA,Gibson / Wilds,3
+Hendry,004,Governor,"",NPA,Foley / Tutton,1
+Hendry,004,Governor,"",NPA,Stanley / McJury,0
+Hendry,004,Governor,"","",WriteinVotes,0
+Hendry,004,Governor,"","",OverVotes,0
+Hendry,004,Governor,"","",UnderVotes,0
+Hendry,004,Attorney General,"",REP,Ashley Moody,46
+Hendry,004,Attorney General,"",DEM,Sean Shaw,51
+Hendry,004,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Hendry,004,Attorney General,"","",OverVotes,0
+Hendry,004,Attorney General,"","",UnderVotes,2
+Hendry,004,Chief Financial Officer,"",REP,Jimmy Patronis,47
+Hendry,004,Chief Financial Officer,"",DEM,Jeremy Ring,57
+Hendry,004,Chief Financial Officer,"","",WriteinVotes,0
+Hendry,004,Chief Financial Officer,"","",OverVotes,0
+Hendry,004,Chief Financial Officer,"","",UnderVotes,0
+Hendry,004,Commissioner of Agriculture,"",REP,Matt Caldwell,54
+Hendry,004,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",50
+Hendry,004,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,004,Commissioner of Agriculture,"","",UnderVotes,0
+Hendry,004,State Attorney,20th Judicial Circuit,REP,Amira Fox,74
+Hendry,004,State Attorney,20th Judicial Circuit,"",WriteinVotes,4
+Hendry,004,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,004,State Attorney,20th Judicial Circuit,"",UnderVotes,26
+Hendry,004,State Senate,28,REP,Kathleen Passidomo,51
+Hendry,004,State Senate,28,DEM,Annisa Karim,52
+Hendry,004,State Senate,28,"",OverVotes,0
+Hendry,004,State Senate,28,"",UnderVotes,1
+Hendry,004,State House,80,REP,Byron Donalds,43
+Hendry,004,State House,80,DEM,Jennifer Boddicker,55
+Hendry,004,State House,80,NPA,Dustin Alexander Lapolla,4
+Hendry,004,State House,80,"",OverVotes,0
+Hendry,004,State House,80,"",UnderVotes,2
+Hendry,004,Property Appraiser,"",REP,Dena R Pittman,48
+Hendry,004,Property Appraiser,"",DEM,Tony Aguilar,55
+Hendry,004,Property Appraiser,"","",OverVotes,0
+Hendry,004,Property Appraiser,"","",UnderVotes,1
+Hendry,004,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,65
+Hendry,004,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,27
+Hendry,004,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hendry,004,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,12
+Hendry,004,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,72
+Hendry,004,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,22
+Hendry,004,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,004,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,10
+Hendry,004,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,66
+Hendry,004,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,28
+Hendry,004,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Hendry,004,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,10
+Hendry,004,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,65
+Hendry,004,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,28
+Hendry,004,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Hendry,004,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,11
+Hendry,004,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,63
+Hendry,004,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,30
+Hendry,004,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Hendry,004,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,11
+Hendry,004,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,44
+Hendry,004,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,60
+Hendry,004,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hendry,004,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,0
+Hendry,004,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,60
+Hendry,004,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,41
+Hendry,004,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Hendry,004,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,2
+Hendry,004,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,81
+Hendry,004,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,23
+Hendry,004,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hendry,004,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,0
+Hendry,004,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,65
+Hendry,004,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,39
+Hendry,004,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hendry,004,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,0
+Hendry,004,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,76
+Hendry,004,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,24
+Hendry,004,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,004,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,4
+Hendry,004,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,81
+Hendry,004,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,15
+Hendry,004,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hendry,004,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,8
+Hendry,004,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,83
+Hendry,004,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,16
+Hendry,004,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hendry,004,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,5
+Hendry,004,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,64
+Hendry,004,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,36
+Hendry,004,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hendry,004,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,4
+Hendry,004,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,73
+Hendry,004,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,26
+Hendry,004,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hendry,004,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,5
+Hendry,004,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,67
+Hendry,004,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,31
+Hendry,004,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hendry,004,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,6
+Hendry,004,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,74
+Hendry,004,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,24
+Hendry,004,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hendry,004,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,6
+Hendry,004,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,53
+Hendry,004,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,47
+Hendry,004,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,004,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,4
+Hendry,005,U.S. Senate,"",REP,Rick Scott,187
+Hendry,005,U.S. Senate,"",DEM,Bill Nelson,51
+Hendry,005,U.S. Senate,"","",WriteinVotes,1
+Hendry,005,U.S. Senate,"","",OverVotes,0
+Hendry,005,U.S. Senate,"","",UnderVotes,2
+Hendry,005,U.S. House,25,REP,Mario Diaz-Balart,176
+Hendry,005,U.S. House,25,DEM,Mary Barzee Flores,56
+Hendry,005,U.S. House,25,"",OverVotes,0
+Hendry,005,U.S. House,25,"",UnderVotes,9
+Hendry,005,Governor,"",REP,DeSantis / Nuñez,197
+Hendry,005,Governor,"",DEM,Gillum / King,39
+Hendry,005,Governor,"",REF,Richardson / Argenziano,1
+Hendry,005,Governor,"",NPA,Gibson / Wilds,1
+Hendry,005,Governor,"",NPA,Foley / Tutton,0
+Hendry,005,Governor,"",NPA,Stanley / McJury,0
+Hendry,005,Governor,"","",WriteinVotes,0
+Hendry,005,Governor,"","",OverVotes,0
+Hendry,005,Governor,"","",UnderVotes,3
+Hendry,005,Attorney General,"",REP,Ashley Moody,196
+Hendry,005,Attorney General,"",DEM,Sean Shaw,36
+Hendry,005,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Hendry,005,Attorney General,"","",OverVotes,0
+Hendry,005,Attorney General,"","",UnderVotes,4
+Hendry,005,Chief Financial Officer,"",REP,Jimmy Patronis,194
+Hendry,005,Chief Financial Officer,"",DEM,Jeremy Ring,39
+Hendry,005,Chief Financial Officer,"","",WriteinVotes,0
+Hendry,005,Chief Financial Officer,"","",OverVotes,0
+Hendry,005,Chief Financial Officer,"","",UnderVotes,8
+Hendry,005,Commissioner of Agriculture,"",REP,Matt Caldwell,200
+Hendry,005,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",41
+Hendry,005,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,005,Commissioner of Agriculture,"","",UnderVotes,0
+Hendry,005,State Attorney,20th Judicial Circuit,REP,Amira Fox,197
+Hendry,005,State Attorney,20th Judicial Circuit,"",WriteinVotes,4
+Hendry,005,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,005,State Attorney,20th Judicial Circuit,"",UnderVotes,40
+Hendry,005,State Senate,28,REP,Kathleen Passidomo,191
+Hendry,005,State Senate,28,DEM,Annisa Karim,39
+Hendry,005,State Senate,28,"",OverVotes,0
+Hendry,005,State Senate,28,"",UnderVotes,11
+Hendry,005,State House,80,REP,Byron Donalds,190
+Hendry,005,State House,80,DEM,Jennifer Boddicker,40
+Hendry,005,State House,80,NPA,Dustin Alexander Lapolla,4
+Hendry,005,State House,80,"",OverVotes,0
+Hendry,005,State House,80,"",UnderVotes,7
+Hendry,005,Property Appraiser,"",REP,Dena R Pittman,177
+Hendry,005,Property Appraiser,"",DEM,Tony Aguilar,57
+Hendry,005,Property Appraiser,"","",OverVotes,0
+Hendry,005,Property Appraiser,"","",UnderVotes,7
+Hendry,005,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,148
+Hendry,005,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,62
+Hendry,005,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hendry,005,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,31
+Hendry,005,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,143
+Hendry,005,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,67
+Hendry,005,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,005,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,31
+Hendry,005,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,126
+Hendry,005,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,83
+Hendry,005,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Hendry,005,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,32
+Hendry,005,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,138
+Hendry,005,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,72
+Hendry,005,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Hendry,005,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,31
+Hendry,005,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,126
+Hendry,005,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,79
+Hendry,005,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Hendry,005,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,36
+Hendry,005,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,118
+Hendry,005,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,112
+Hendry,005,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hendry,005,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Hendry,005,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,155
+Hendry,005,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,70
+Hendry,005,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Hendry,005,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Hendry,005,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,141
+Hendry,005,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,89
+Hendry,005,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hendry,005,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Hendry,005,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,105
+Hendry,005,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,125
+Hendry,005,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hendry,005,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,11
+Hendry,005,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,167
+Hendry,005,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,62
+Hendry,005,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,005,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,12
+Hendry,005,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,138
+Hendry,005,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,92
+Hendry,005,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hendry,005,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,11
+Hendry,005,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,129
+Hendry,005,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,97
+Hendry,005,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Hendry,005,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,14
+Hendry,005,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,82
+Hendry,005,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,141
+Hendry,005,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Hendry,005,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,17
+Hendry,005,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,123
+Hendry,005,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,99
+Hendry,005,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hendry,005,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,19
+Hendry,005,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,108
+Hendry,005,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,109
+Hendry,005,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hendry,005,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,24
+Hendry,005,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,142
+Hendry,005,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,78
+Hendry,005,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hendry,005,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Hendry,005,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,71
+Hendry,005,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,161
+Hendry,005,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,005,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,9
+Hendry,006,U.S. Senate,"",REP,Rick Scott,526
+Hendry,006,U.S. Senate,"",DEM,Bill Nelson,272
+Hendry,006,U.S. Senate,"","",WriteinVotes,3
+Hendry,006,U.S. Senate,"","",OverVotes,0
+Hendry,006,U.S. Senate,"","",UnderVotes,8
+Hendry,006,U.S. House,25,REP,Mario Diaz-Balart,494
+Hendry,006,U.S. House,25,DEM,Mary Barzee Flores,296
+Hendry,006,U.S. House,25,"",OverVotes,0
+Hendry,006,U.S. House,25,"",UnderVotes,19
+Hendry,006,Governor,"",REP,DeSantis / Nuñez,505
+Hendry,006,Governor,"",DEM,Gillum / King,281
+Hendry,006,Governor,"",REF,Richardson / Argenziano,6
+Hendry,006,Governor,"",NPA,Gibson / Wilds,5
+Hendry,006,Governor,"",NPA,Foley / Tutton,2
+Hendry,006,Governor,"",NPA,Stanley / McJury,2
+Hendry,006,Governor,"","",WriteinVotes,2
+Hendry,006,Governor,"","",OverVotes,3
+Hendry,006,Governor,"","",UnderVotes,3
+Hendry,006,Attorney General,"",REP,Ashley Moody,520
+Hendry,006,Attorney General,"",DEM,Sean Shaw,260
+Hendry,006,Attorney General,"",NPA,Jeffrey Marc Siskind,12
+Hendry,006,Attorney General,"","",OverVotes,0
+Hendry,006,Attorney General,"","",UnderVotes,17
+Hendry,006,Chief Financial Officer,"",REP,Jimmy Patronis,503
+Hendry,006,Chief Financial Officer,"",DEM,Jeremy Ring,280
+Hendry,006,Chief Financial Officer,"","",WriteinVotes,0
+Hendry,006,Chief Financial Officer,"","",OverVotes,0
+Hendry,006,Chief Financial Officer,"","",UnderVotes,26
+Hendry,006,Commissioner of Agriculture,"",REP,Matt Caldwell,520
+Hendry,006,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",279
+Hendry,006,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,006,Commissioner of Agriculture,"","",UnderVotes,10
+Hendry,006,State Attorney,20th Judicial Circuit,REP,Amira Fox,633
+Hendry,006,State Attorney,20th Judicial Circuit,"",WriteinVotes,29
+Hendry,006,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,006,State Attorney,20th Judicial Circuit,"",UnderVotes,147
+Hendry,006,State Senate,28,REP,Kathleen Passidomo,508
+Hendry,006,State Senate,28,DEM,Annisa Karim,273
+Hendry,006,State Senate,28,"",OverVotes,0
+Hendry,006,State Senate,28,"",UnderVotes,28
+Hendry,006,State House,80,REP,Byron Donalds,493
+Hendry,006,State House,80,DEM,Jennifer Boddicker,273
+Hendry,006,State House,80,NPA,Dustin Alexander Lapolla,17
+Hendry,006,State House,80,"",OverVotes,0
+Hendry,006,State House,80,"",UnderVotes,26
+Hendry,006,Property Appraiser,"",REP,Dena R Pittman,538
+Hendry,006,Property Appraiser,"",DEM,Tony Aguilar,254
+Hendry,006,Property Appraiser,"","",OverVotes,0
+Hendry,006,Property Appraiser,"","",UnderVotes,17
+Hendry,006,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,514
+Hendry,006,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,195
+Hendry,006,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hendry,006,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,100
+Hendry,006,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,503
+Hendry,006,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,206
+Hendry,006,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,006,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,100
+Hendry,006,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,497
+Hendry,006,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,209
+Hendry,006,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Hendry,006,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,103
+Hendry,006,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,486
+Hendry,006,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,214
+Hendry,006,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Hendry,006,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,109
+Hendry,006,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,493
+Hendry,006,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,204
+Hendry,006,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Hendry,006,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,112
+Hendry,006,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,413
+Hendry,006,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,354
+Hendry,006,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hendry,006,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,42
+Hendry,006,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,508
+Hendry,006,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,255
+Hendry,006,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Hendry,006,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,45
+Hendry,006,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,519
+Hendry,006,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,260
+Hendry,006,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hendry,006,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,30
+Hendry,006,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,435
+Hendry,006,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,341
+Hendry,006,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Hendry,006,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,31
+Hendry,006,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,523
+Hendry,006,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,240
+Hendry,006,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,006,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,46
+Hendry,006,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,527
+Hendry,006,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,236
+Hendry,006,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Hendry,006,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,45
+Hendry,006,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,591
+Hendry,006,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,181
+Hendry,006,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hendry,006,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,37
+Hendry,006,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,428
+Hendry,006,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,330
+Hendry,006,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Hendry,006,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,50
+Hendry,006,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,529
+Hendry,006,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,218
+Hendry,006,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hendry,006,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,62
+Hendry,006,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,435
+Hendry,006,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,316
+Hendry,006,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hendry,006,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,58
+Hendry,006,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,543
+Hendry,006,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,212
+Hendry,006,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hendry,006,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,54
+Hendry,006,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,382
+Hendry,006,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,387
+Hendry,006,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,006,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,40
+Hendry,007,U.S. Senate,"",REP,Rick Scott,1018
+Hendry,007,U.S. Senate,"",DEM,Bill Nelson,273
+Hendry,007,U.S. Senate,"","",WriteinVotes,3
+Hendry,007,U.S. Senate,"","",OverVotes,0
+Hendry,007,U.S. Senate,"","",UnderVotes,19
+Hendry,007,U.S. House,25,REP,Mario Diaz-Balart,1022
+Hendry,007,U.S. House,25,DEM,Mary Barzee Flores,252
+Hendry,007,U.S. House,25,"",OverVotes,0
+Hendry,007,U.S. House,25,"",UnderVotes,39
+Hendry,007,Governor,"",REP,DeSantis / Nuñez,1027
+Hendry,007,Governor,"",DEM,Gillum / King,249
+Hendry,007,Governor,"",REF,Richardson / Argenziano,11
+Hendry,007,Governor,"",NPA,Gibson / Wilds,3
+Hendry,007,Governor,"",NPA,Foley / Tutton,5
+Hendry,007,Governor,"",NPA,Stanley / McJury,2
+Hendry,007,Governor,"","",WriteinVotes,2
+Hendry,007,Governor,"","",OverVotes,1
+Hendry,007,Governor,"","",UnderVotes,13
+Hendry,007,Attorney General,"",REP,Ashley Moody,1052
+Hendry,007,Attorney General,"",DEM,Sean Shaw,222
+Hendry,007,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Hendry,007,Attorney General,"","",OverVotes,0
+Hendry,007,Attorney General,"","",UnderVotes,30
+Hendry,007,Chief Financial Officer,"",REP,Jimmy Patronis,1005
+Hendry,007,Chief Financial Officer,"",DEM,Jeremy Ring,243
+Hendry,007,Chief Financial Officer,"","",WriteinVotes,2
+Hendry,007,Chief Financial Officer,"","",OverVotes,0
+Hendry,007,Chief Financial Officer,"","",UnderVotes,63
+Hendry,007,Commissioner of Agriculture,"",REP,Matt Caldwell,1048
+Hendry,007,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",239
+Hendry,007,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,007,Commissioner of Agriculture,"","",UnderVotes,26
+Hendry,007,State Attorney,20th Judicial Circuit,REP,Amira Fox,1094
+Hendry,007,State Attorney,20th Judicial Circuit,"",WriteinVotes,21
+Hendry,007,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,007,State Attorney,20th Judicial Circuit,"",UnderVotes,198
+Hendry,007,State Senate,28,REP,Kathleen Passidomo,1021
+Hendry,007,State Senate,28,DEM,Annisa Karim,235
+Hendry,007,State Senate,28,"",OverVotes,0
+Hendry,007,State Senate,28,"",UnderVotes,57
+Hendry,007,State House,80,REP,Byron Donalds,986
+Hendry,007,State House,80,DEM,Jennifer Boddicker,242
+Hendry,007,State House,80,NPA,Dustin Alexander Lapolla,18
+Hendry,007,State House,80,"",OverVotes,0
+Hendry,007,State House,80,"",UnderVotes,67
+Hendry,007,Property Appraiser,"",REP,Dena R Pittman,1050
+Hendry,007,Property Appraiser,"",DEM,Tony Aguilar,229
+Hendry,007,Property Appraiser,"","",OverVotes,0
+Hendry,007,Property Appraiser,"","",UnderVotes,34
+Hendry,007,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,815
+Hendry,007,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,304
+Hendry,007,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hendry,007,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,193
+Hendry,007,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,762
+Hendry,007,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,342
+Hendry,007,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,007,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,209
+Hendry,007,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,693
+Hendry,007,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,410
+Hendry,007,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Hendry,007,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,210
+Hendry,007,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,741
+Hendry,007,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,351
+Hendry,007,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,1
+Hendry,007,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,220
+Hendry,007,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,719
+Hendry,007,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,361
+Hendry,007,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,1
+Hendry,007,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,232
+Hendry,007,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,729
+Hendry,007,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,519
+Hendry,007,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hendry,007,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,65
+Hendry,007,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,863
+Hendry,007,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,370
+Hendry,007,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hendry,007,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,80
+Hendry,007,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,798
+Hendry,007,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,468
+Hendry,007,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hendry,007,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,47
+Hendry,007,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,571
+Hendry,007,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,691
+Hendry,007,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hendry,007,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,51
+Hendry,007,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,855
+Hendry,007,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,377
+Hendry,007,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,007,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,81
+Hendry,007,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,791
+Hendry,007,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,448
+Hendry,007,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Hendry,007,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,73
+Hendry,007,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,836
+Hendry,007,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,397
+Hendry,007,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,2
+Hendry,007,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,78
+Hendry,007,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,610
+Hendry,007,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,609
+Hendry,007,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Hendry,007,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,92
+Hendry,007,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,779
+Hendry,007,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,425
+Hendry,007,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Hendry,007,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,108
+Hendry,007,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,631
+Hendry,007,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,550
+Hendry,007,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Hendry,007,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,131
+Hendry,007,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,832
+Hendry,007,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,368
+Hendry,007,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hendry,007,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,113
+Hendry,007,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,569
+Hendry,007,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,670
+Hendry,007,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,007,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,74
+Hendry,008,U.S. Senate,"",REP,Rick Scott,235
+Hendry,008,U.S. Senate,"",DEM,Bill Nelson,84
+Hendry,008,U.S. Senate,"","",WriteinVotes,0
+Hendry,008,U.S. Senate,"","",OverVotes,0
+Hendry,008,U.S. Senate,"","",UnderVotes,6
+Hendry,008,U.S. House,25,REP,Mario Diaz-Balart,223
+Hendry,008,U.S. House,25,DEM,Mary Barzee Flores,89
+Hendry,008,U.S. House,25,"",OverVotes,0
+Hendry,008,U.S. House,25,"",UnderVotes,13
+Hendry,008,Governor,"",REP,DeSantis / Nuñez,236
+Hendry,008,Governor,"",DEM,Gillum / King,73
+Hendry,008,Governor,"",REF,Richardson / Argenziano,6
+Hendry,008,Governor,"",NPA,Gibson / Wilds,3
+Hendry,008,Governor,"",NPA,Foley / Tutton,3
+Hendry,008,Governor,"",NPA,Stanley / McJury,2
+Hendry,008,Governor,"","",WriteinVotes,0
+Hendry,008,Governor,"","",OverVotes,0
+Hendry,008,Governor,"","",UnderVotes,2
+Hendry,008,Attorney General,"",REP,Ashley Moody,234
+Hendry,008,Attorney General,"",DEM,Sean Shaw,74
+Hendry,008,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Hendry,008,Attorney General,"","",OverVotes,0
+Hendry,008,Attorney General,"","",UnderVotes,7
+Hendry,008,Chief Financial Officer,"",REP,Jimmy Patronis,229
+Hendry,008,Chief Financial Officer,"",DEM,Jeremy Ring,82
+Hendry,008,Chief Financial Officer,"","",WriteinVotes,0
+Hendry,008,Chief Financial Officer,"","",OverVotes,0
+Hendry,008,Chief Financial Officer,"","",UnderVotes,14
+Hendry,008,Commissioner of Agriculture,"",REP,Matt Caldwell,240
+Hendry,008,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",80
+Hendry,008,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,008,Commissioner of Agriculture,"","",UnderVotes,5
+Hendry,008,State Attorney,20th Judicial Circuit,REP,Amira Fox,263
+Hendry,008,State Attorney,20th Judicial Circuit,"",WriteinVotes,10
+Hendry,008,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,008,State Attorney,20th Judicial Circuit,"",UnderVotes,52
+Hendry,008,State Senate,28,REP,Kathleen Passidomo,236
+Hendry,008,State Senate,28,DEM,Annisa Karim,80
+Hendry,008,State Senate,28,"",OverVotes,0
+Hendry,008,State Senate,28,"",UnderVotes,9
+Hendry,008,State House,80,REP,Byron Donalds,229
+Hendry,008,State House,80,DEM,Jennifer Boddicker,77
+Hendry,008,State House,80,NPA,Dustin Alexander Lapolla,7
+Hendry,008,State House,80,"",OverVotes,0
+Hendry,008,State House,80,"",UnderVotes,12
+Hendry,008,Property Appraiser,"",REP,Dena R Pittman,242
+Hendry,008,Property Appraiser,"",DEM,Tony Aguilar,77
+Hendry,008,Property Appraiser,"","",OverVotes,0
+Hendry,008,Property Appraiser,"","",UnderVotes,6
+Hendry,008,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,211
+Hendry,008,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,74
+Hendry,008,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hendry,008,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,40
+Hendry,008,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,205
+Hendry,008,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,76
+Hendry,008,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,008,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,44
+Hendry,008,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,190
+Hendry,008,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,85
+Hendry,008,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,1
+Hendry,008,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,49
+Hendry,008,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,199
+Hendry,008,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,77
+Hendry,008,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Hendry,008,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,49
+Hendry,008,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,196
+Hendry,008,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,78
+Hendry,008,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,1
+Hendry,008,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,50
+Hendry,008,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,187
+Hendry,008,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,119
+Hendry,008,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Hendry,008,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,18
+Hendry,008,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,223
+Hendry,008,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,84
+Hendry,008,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Hendry,008,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,17
+Hendry,008,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,227
+Hendry,008,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,86
+Hendry,008,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hendry,008,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,12
+Hendry,008,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,170
+Hendry,008,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,140
+Hendry,008,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hendry,008,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,15
+Hendry,008,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,233
+Hendry,008,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,74
+Hendry,008,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,008,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Hendry,008,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,227
+Hendry,008,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,81
+Hendry,008,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hendry,008,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,17
+Hendry,008,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,213
+Hendry,008,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,93
+Hendry,008,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hendry,008,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Hendry,008,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,192
+Hendry,008,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,119
+Hendry,008,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hendry,008,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,14
+Hendry,008,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,203
+Hendry,008,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,94
+Hendry,008,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hendry,008,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,28
+Hendry,008,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,167
+Hendry,008,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,128
+Hendry,008,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hendry,008,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,30
+Hendry,008,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,237
+Hendry,008,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,67
+Hendry,008,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hendry,008,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Hendry,008,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,167
+Hendry,008,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,147
+Hendry,008,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,008,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,11
+Hendry,009,U.S. Senate,"",REP,Rick Scott,324
+Hendry,009,U.S. Senate,"",DEM,Bill Nelson,300
+Hendry,009,U.S. Senate,"","",WriteinVotes,1
+Hendry,009,U.S. Senate,"","",OverVotes,0
+Hendry,009,U.S. Senate,"","",UnderVotes,8
+Hendry,009,U.S. House,25,REP,Mario Diaz-Balart,319
+Hendry,009,U.S. House,25,DEM,Mary Barzee Flores,290
+Hendry,009,U.S. House,25,"",OverVotes,0
+Hendry,009,U.S. House,25,"",UnderVotes,24
+Hendry,009,Governor,"",REP,DeSantis / Nuñez,304
+Hendry,009,Governor,"",DEM,Gillum / King,309
+Hendry,009,Governor,"",REF,Richardson / Argenziano,8
+Hendry,009,Governor,"",NPA,Gibson / Wilds,3
+Hendry,009,Governor,"",NPA,Foley / Tutton,5
+Hendry,009,Governor,"",NPA,Stanley / McJury,1
+Hendry,009,Governor,"","",WriteinVotes,0
+Hendry,009,Governor,"","",OverVotes,1
+Hendry,009,Governor,"","",UnderVotes,2
+Hendry,009,Attorney General,"",REP,Ashley Moody,329
+Hendry,009,Attorney General,"",DEM,Sean Shaw,276
+Hendry,009,Attorney General,"",NPA,Jeffrey Marc Siskind,15
+Hendry,009,Attorney General,"","",OverVotes,0
+Hendry,009,Attorney General,"","",UnderVotes,13
+Hendry,009,Chief Financial Officer,"",REP,Jimmy Patronis,336
+Hendry,009,Chief Financial Officer,"",DEM,Jeremy Ring,275
+Hendry,009,Chief Financial Officer,"","",WriteinVotes,2
+Hendry,009,Chief Financial Officer,"","",OverVotes,0
+Hendry,009,Chief Financial Officer,"","",UnderVotes,20
+Hendry,009,Commissioner of Agriculture,"",REP,Matt Caldwell,349
+Hendry,009,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",271
+Hendry,009,Commissioner of Agriculture,"","",OverVotes,0
+Hendry,009,Commissioner of Agriculture,"","",UnderVotes,13
+Hendry,009,State Attorney,20th Judicial Circuit,REP,Amira Fox,463
+Hendry,009,State Attorney,20th Judicial Circuit,"",WriteinVotes,23
+Hendry,009,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Hendry,009,State Attorney,20th Judicial Circuit,"",UnderVotes,147
+Hendry,009,State Senate,28,REP,Kathleen Passidomo,333
+Hendry,009,State Senate,28,DEM,Annisa Karim,284
+Hendry,009,State Senate,28,"",OverVotes,0
+Hendry,009,State Senate,28,"",UnderVotes,16
+Hendry,009,State House,80,REP,Byron Donalds,311
+Hendry,009,State House,80,DEM,Jennifer Boddicker,282
+Hendry,009,State House,80,NPA,Dustin Alexander Lapolla,15
+Hendry,009,State House,80,"",OverVotes,0
+Hendry,009,State House,80,"",UnderVotes,25
+Hendry,009,Property Appraiser,"",REP,Dena R Pittman,299
+Hendry,009,Property Appraiser,"",DEM,Tony Aguilar,319
+Hendry,009,Property Appraiser,"","",OverVotes,0
+Hendry,009,Property Appraiser,"","",UnderVotes,15
+Hendry,009,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,402
+Hendry,009,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,161
+Hendry,009,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hendry,009,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,69
+Hendry,009,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,405
+Hendry,009,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,155
+Hendry,009,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,1
+Hendry,009,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,72
+Hendry,009,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,383
+Hendry,009,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,169
+Hendry,009,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,1
+Hendry,009,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,80
+Hendry,009,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,382
+Hendry,009,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,166
+Hendry,009,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Hendry,009,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,85
+Hendry,009,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,394
+Hendry,009,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,157
+Hendry,009,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Hendry,009,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,82
+Hendry,009,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,335
+Hendry,009,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,267
+Hendry,009,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hendry,009,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,31
+Hendry,009,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,398
+Hendry,009,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,200
+Hendry,009,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hendry,009,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,35
+Hendry,009,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,435
+Hendry,009,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,175
+Hendry,009,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hendry,009,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,23
+Hendry,009,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,386
+Hendry,009,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,224
+Hendry,009,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Hendry,009,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,22
+Hendry,009,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,415
+Hendry,009,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,186
+Hendry,009,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hendry,009,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,32
+Hendry,009,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,418
+Hendry,009,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,182
+Hendry,009,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hendry,009,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,33
+Hendry,009,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,449
+Hendry,009,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,150
+Hendry,009,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hendry,009,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,34
+Hendry,009,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,381
+Hendry,009,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,218
+Hendry,009,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hendry,009,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,34
+Hendry,009,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,399
+Hendry,009,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,187
+Hendry,009,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hendry,009,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,47
+Hendry,009,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,338
+Hendry,009,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,244
+Hendry,009,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hendry,009,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,51
+Hendry,009,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,449
+Hendry,009,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,140
+Hendry,009,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hendry,009,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,44
+Hendry,009,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,367
+Hendry,009,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,236
+Hendry,009,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,009,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,30
+Hendry,010,U.S. Senate,"",REP,Rick Scott,261
+Hendry,010,U.S. Senate,"",DEM,Bill Nelson,190
+Hendry,010,U.S. Senate,"","",WriteinVotes,5
+Hendry,010,U.S. Senate,"","",OverVotes,0
+Hendry,010,U.S. Senate,"","",UnderVotes,7
+Hendry,010,U.S. House,25,REP,Mario Diaz-Balart,248
+Hendry,010,U.S. House,25,DEM,Mary Barzee Flores,186
+Hendry,010,U.S. House,25,"",OverVotes,0
+Hendry,010,U.S. House,25,"",UnderVotes,29
+Hendry,010,Governor,"",REP,DeSantis / Nuñez,243
+Hendry,010,Governor,"",DEM,Gillum / King,188
+Hendry,010,Governor,"",REF,Richardson / Argenziano,9
+Hendry,010,Governor,"",NPA,Gibson / Wilds,2
+Hendry,010,Governor,"",NPA,Foley / Tutton,4
+Hendry,010,Governor,"",NPA,Stanley / McJury,3
+Hendry,010,Governor,"","",WriteinVotes,2
+Hendry,010,Governor,"","",OverVotes,3
+Hendry,010,Governor,"","",UnderVotes,9
+Hendry,010,Attorney General,"",REP,Ashley Moody,248
+Hendry,010,Attorney General,"",DEM,Sean Shaw,180
+Hendry,010,Attorney General,"",NPA,Jeffrey Marc Siskind,13
+Hendry,010,Attorney General,"","",OverVotes,0
+Hendry,010,Attorney General,"","",UnderVotes,22
+Hendry,010,Chief Financial Officer,"",REP,Jimmy Patronis,246
+Hendry,010,Chief Financial Officer,"",DEM,Jeremy Ring,192
+Hendry,010,Chief Financial Officer,"","",WriteinVotes,0
+Hendry,010,Chief Financial Officer,"","",OverVotes,0
+Hendry,010,Chief Financial Officer,"","",UnderVotes,25
+Hendry,010,Commissioner of Agriculture,"",REP,Matt Caldwell,251
+Hendry,010,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",192
+Hendry,010,Commissioner of Agriculture,"","",OverVotes,1
+Hendry,010,Commissioner of Agriculture,"","",UnderVotes,19
+Hendry,010,State Attorney,20th Judicial Circuit,REP,Amira Fox,325
+Hendry,010,State Attorney,20th Judicial Circuit,"",WriteinVotes,21
+Hendry,010,State Attorney,20th Judicial Circuit,"",OverVotes,1
+Hendry,010,State Attorney,20th Judicial Circuit,"",UnderVotes,116
+Hendry,010,State Senate,28,REP,Kathleen Passidomo,248
+Hendry,010,State Senate,28,DEM,Annisa Karim,184
+Hendry,010,State Senate,28,"",OverVotes,0
+Hendry,010,State Senate,28,"",UnderVotes,31
+Hendry,010,State House,80,REP,Byron Donalds,242
+Hendry,010,State House,80,DEM,Jennifer Boddicker,187
+Hendry,010,State House,80,NPA,Dustin Alexander Lapolla,8
+Hendry,010,State House,80,"",OverVotes,0
+Hendry,010,State House,80,"",UnderVotes,26
+Hendry,010,Property Appraiser,"",REP,Dena R Pittman,268
+Hendry,010,Property Appraiser,"",DEM,Tony Aguilar,179
+Hendry,010,Property Appraiser,"","",OverVotes,0
+Hendry,010,Property Appraiser,"","",UnderVotes,16
+Hendry,010,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,302
+Hendry,010,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,105
+Hendry,010,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hendry,010,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,55
+Hendry,010,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,288
+Hendry,010,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,99
+Hendry,010,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Hendry,010,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,76
+Hendry,010,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,290
+Hendry,010,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,95
+Hendry,010,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Hendry,010,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,78
+Hendry,010,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,278
+Hendry,010,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,104
+Hendry,010,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Hendry,010,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,81
+Hendry,010,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,267
+Hendry,010,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,116
+Hendry,010,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Hendry,010,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,80
+Hendry,010,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,244
+Hendry,010,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,169
+Hendry,010,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Hendry,010,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,49
+Hendry,010,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,299
+Hendry,010,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,119
+Hendry,010,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hendry,010,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,45
+Hendry,010,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,316
+Hendry,010,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,103
+Hendry,010,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Hendry,010,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,43
+Hendry,010,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,252
+Hendry,010,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,169
+Hendry,010,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hendry,010,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,42
+Hendry,010,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,296
+Hendry,010,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,119
+Hendry,010,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Hendry,010,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,46
+Hendry,010,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,294
+Hendry,010,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,126
+Hendry,010,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hendry,010,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,43
+Hendry,010,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,348
+Hendry,010,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,71
+Hendry,010,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hendry,010,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,44
+Hendry,010,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,267
+Hendry,010,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,148
+Hendry,010,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hendry,010,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,48
+Hendry,010,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,289
+Hendry,010,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,123
+Hendry,010,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hendry,010,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,51
+Hendry,010,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,252
+Hendry,010,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,157
+Hendry,010,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hendry,010,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,54
+Hendry,010,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,326
+Hendry,010,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,81
+Hendry,010,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Hendry,010,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,55
+Hendry,010,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,252
+Hendry,010,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,162
+Hendry,010,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hendry,010,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,49
+Hendry,001,Registered Voters,"","","",3343
+Hendry,002,Registered Voters,"","","",3720
+Hendry,003,Registered Voters,"","","",3114
+Hendry,004,Registered Voters,"","","",217
+Hendry,005,Registered Voters,"","","",415
+Hendry,006,Registered Voters,"","","",1843
+Hendry,007,Registered Voters,"","","",1987
+Hendry,008,Registered Voters,"","","",618
+Hendry,009,Registered Voters,"","","",1303
+Hendry,010,Registered Voters,"","","",1214

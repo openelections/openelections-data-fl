@@ -1,0 +1,897 @@
+county,precinct,office,district,party,candidate,votes
+Hamilton,Jennings City Hall,U.S. Senate,"",REP,Rick Scott,183
+Hamilton,Jennings City Hall,U.S. Senate,"",DEM,Bill Nelson,118
+Hamilton,Jennings City Hall,U.S. Senate,"","",WriteinVotes,2
+Hamilton,Jennings City Hall,U.S. Senate,"","",OverVotes,0
+Hamilton,Jennings City Hall,U.S. Senate,"","",UnderVotes,7
+Hamilton,Jennings City Hall,U.S. House,5,REP,Virginia Fuller,176
+Hamilton,Jennings City Hall,U.S. House,5,DEM,Al Lawson,130
+Hamilton,Jennings City Hall,U.S. House,5,"",OverVotes,0
+Hamilton,Jennings City Hall,U.S. House,5,"",UnderVotes,4
+Hamilton,Jennings City Hall,Governor,"",REP,DeSantis / Nuñez,190
+Hamilton,Jennings City Hall,Governor,"",DEM,Gillum / King,110
+Hamilton,Jennings City Hall,Governor,"",REF,Richardson / Argenziano,2
+Hamilton,Jennings City Hall,Governor,"",NPA,Gibson / Wilds,3
+Hamilton,Jennings City Hall,Governor,"",NPA,Foley / Tutton,2
+Hamilton,Jennings City Hall,Governor,"",NPA,Stanley / McJury,0
+Hamilton,Jennings City Hall,Governor,"","",WriteinVotes,1
+Hamilton,Jennings City Hall,Governor,"","",OverVotes,0
+Hamilton,Jennings City Hall,Governor,"","",UnderVotes,2
+Hamilton,Jennings City Hall,Attorney General,"",REP,Ashley Moody,190
+Hamilton,Jennings City Hall,Attorney General,"",DEM,Sean Shaw,107
+Hamilton,Jennings City Hall,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Hamilton,Jennings City Hall,Attorney General,"","",OverVotes,0
+Hamilton,Jennings City Hall,Attorney General,"","",UnderVotes,9
+Hamilton,Jennings City Hall,Chief Financial Officer,"",REP,Jimmy Patronis,183
+Hamilton,Jennings City Hall,Chief Financial Officer,"",DEM,Jeremy Ring,115
+Hamilton,Jennings City Hall,Chief Financial Officer,"","",WriteinVotes,0
+Hamilton,Jennings City Hall,Chief Financial Officer,"","",OverVotes,0
+Hamilton,Jennings City Hall,Chief Financial Officer,"","",UnderVotes,12
+Hamilton,Jennings City Hall,Commissioner of Agriculture,"",REP,Matt Caldwell,188
+Hamilton,Jennings City Hall,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",116
+Hamilton,Jennings City Hall,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,Jennings City Hall,Commissioner of Agriculture,"","",UnderVotes,6
+Hamilton,Jennings City Hall,State House,10,REP,Chuck Brannan,187
+Hamilton,Jennings City Hall,State House,10,DEM,Ronald W. Williams II,112
+Hamilton,Jennings City Hall,State House,10,NPA,Fred S. Martin,2
+Hamilton,Jennings City Hall,State House,10,NPA,Merrillee Malwitz Jipson,3
+Hamilton,Jennings City Hall,State House,10,"",OverVotes,0
+Hamilton,Jennings City Hall,State House,10,"",UnderVotes,6
+Hamilton,Jennings City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,174
+Hamilton,Jennings City Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,108
+Hamilton,Jennings City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,Jennings City Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,28
+Hamilton,Jennings City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,172
+Hamilton,Jennings City Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,No,104
+Hamilton,Jennings City Hall,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jennings City Hall,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,34
+Hamilton,Jennings City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,172
+Hamilton,Jennings City Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,107
+Hamilton,Jennings City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jennings City Hall,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,31
+Hamilton,Jennings City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,163
+Hamilton,Jennings City Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,No,116
+Hamilton,Jennings City Hall,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jennings City Hall,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,31
+Hamilton,Jennings City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,168
+Hamilton,Jennings City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,114
+Hamilton,Jennings City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jennings City Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,28
+Hamilton,Jennings City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,167
+Hamilton,Jennings City Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,No,109
+Hamilton,Jennings City Hall,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Hamilton,Jennings City Hall,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,33
+Hamilton,Jennings City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,145
+Hamilton,Jennings City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,155
+Hamilton,Jennings City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Hamilton,Jennings City Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,9
+Hamilton,Jennings City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,206
+Hamilton,Jennings City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,94
+Hamilton,Jennings City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,10
+Hamilton,Jennings City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,196
+Hamilton,Jennings City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,96
+Hamilton,Jennings City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,18
+Hamilton,Jennings City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,171
+Hamilton,Jennings City Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,122
+Hamilton,Jennings City Hall,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,17
+Hamilton,Jennings City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,177
+Hamilton,Jennings City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,111
+Hamilton,Jennings City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Hamilton,Jennings City Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,21
+Hamilton,Jennings City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,186
+Hamilton,Jennings City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,100
+Hamilton,Jennings City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,24
+Hamilton,Jennings City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,189
+Hamilton,Jennings City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,97
+Hamilton,Jennings City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Hamilton,Jennings City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,152
+Hamilton,Jennings City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,136
+Hamilton,Jennings City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,22
+Hamilton,Jennings City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,185
+Hamilton,Jennings City Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,99
+Hamilton,Jennings City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,26
+Hamilton,Jennings City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,167
+Hamilton,Jennings City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,117
+Hamilton,Jennings City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,26
+Hamilton,Jennings City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,206
+Hamilton,Jennings City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,76
+Hamilton,Jennings City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,28
+Hamilton,Jennings City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,147
+Hamilton,Jennings City Hall,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,145
+Hamilton,Jennings City Hall,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hamilton,Jennings City Hall,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,18
+Hamilton,Jasper Courthouse,U.S. Senate,"",REP,Rick Scott,227
+Hamilton,Jasper Courthouse,U.S. Senate,"",DEM,Bill Nelson,504
+Hamilton,Jasper Courthouse,U.S. Senate,"","",WriteinVotes,3
+Hamilton,Jasper Courthouse,U.S. Senate,"","",OverVotes,0
+Hamilton,Jasper Courthouse,U.S. Senate,"","",UnderVotes,7
+Hamilton,Jasper Courthouse,U.S. House,5,REP,Virginia Fuller,216
+Hamilton,Jasper Courthouse,U.S. House,5,DEM,Al Lawson,515
+Hamilton,Jasper Courthouse,U.S. House,5,"",OverVotes,0
+Hamilton,Jasper Courthouse,U.S. House,5,"",UnderVotes,10
+Hamilton,Jasper Courthouse,Governor,"",REP,DeSantis / Nuñez,223
+Hamilton,Jasper Courthouse,Governor,"",DEM,Gillum / King,505
+Hamilton,Jasper Courthouse,Governor,"",REF,Richardson / Argenziano,1
+Hamilton,Jasper Courthouse,Governor,"",NPA,Gibson / Wilds,4
+Hamilton,Jasper Courthouse,Governor,"",NPA,Foley / Tutton,2
+Hamilton,Jasper Courthouse,Governor,"",NPA,Stanley / McJury,1
+Hamilton,Jasper Courthouse,Governor,"","",WriteinVotes,0
+Hamilton,Jasper Courthouse,Governor,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Governor,"","",UnderVotes,5
+Hamilton,Jasper Courthouse,Attorney General,"",REP,Ashley Moody,239
+Hamilton,Jasper Courthouse,Attorney General,"",DEM,Sean Shaw,480
+Hamilton,Jasper Courthouse,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Hamilton,Jasper Courthouse,Attorney General,"","",OverVotes,1
+Hamilton,Jasper Courthouse,Attorney General,"","",UnderVotes,11
+Hamilton,Jasper Courthouse,Chief Financial Officer,"",REP,Jimmy Patronis,234
+Hamilton,Jasper Courthouse,Chief Financial Officer,"",DEM,Jeremy Ring,490
+Hamilton,Jasper Courthouse,Chief Financial Officer,"","",WriteinVotes,2
+Hamilton,Jasper Courthouse,Chief Financial Officer,"","",OverVotes,1
+Hamilton,Jasper Courthouse,Chief Financial Officer,"","",UnderVotes,14
+Hamilton,Jasper Courthouse,Commissioner of Agriculture,"",REP,Matt Caldwell,233
+Hamilton,Jasper Courthouse,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",494
+Hamilton,Jasper Courthouse,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Commissioner of Agriculture,"","",UnderVotes,14
+Hamilton,Jasper Courthouse,State House,10,REP,Chuck Brannan,224
+Hamilton,Jasper Courthouse,State House,10,DEM,Ronald W. Williams II,484
+Hamilton,Jasper Courthouse,State House,10,NPA,Fred S. Martin,10
+Hamilton,Jasper Courthouse,State House,10,NPA,Merrillee Malwitz Jipson,7
+Hamilton,Jasper Courthouse,State House,10,"",OverVotes,0
+Hamilton,Jasper Courthouse,State House,10,"",UnderVotes,16
+Hamilton,Jasper Courthouse,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,478
+Hamilton,Jasper Courthouse,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,208
+Hamilton,Jasper Courthouse,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,Jasper Courthouse,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,55
+Hamilton,Jasper Courthouse,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,415
+Hamilton,Jasper Courthouse,Retention of Harvey Jay,First District Court of Appeal,NOP,No,255
+Hamilton,Jasper Courthouse,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jasper Courthouse,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,71
+Hamilton,Jasper Courthouse,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,438
+Hamilton,Jasper Courthouse,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,229
+Hamilton,Jasper Courthouse,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jasper Courthouse,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,74
+Hamilton,Jasper Courthouse,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,416
+Hamilton,Jasper Courthouse,Retention of Brad Thomas,First District Court of Appeal,NOP,No,250
+Hamilton,Jasper Courthouse,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jasper Courthouse,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,75
+Hamilton,Jasper Courthouse,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,440
+Hamilton,Jasper Courthouse,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,231
+Hamilton,Jasper Courthouse,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jasper Courthouse,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,70
+Hamilton,Jasper Courthouse,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,416
+Hamilton,Jasper Courthouse,Retention of Allen Winsor,First District Court of Appeal,NOP,No,250
+Hamilton,Jasper Courthouse,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Hamilton,Jasper Courthouse,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,74
+Hamilton,Jasper Courthouse,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,298
+Hamilton,Jasper Courthouse,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,410
+Hamilton,Jasper Courthouse,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Hamilton,Jasper Courthouse,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,31
+Hamilton,Jasper Courthouse,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,405
+Hamilton,Jasper Courthouse,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,306
+Hamilton,Jasper Courthouse,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,30
+Hamilton,Jasper Courthouse,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,519
+Hamilton,Jasper Courthouse,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,173
+Hamilton,Jasper Courthouse,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Hamilton,Jasper Courthouse,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,48
+Hamilton,Jasper Courthouse,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,496
+Hamilton,Jasper Courthouse,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,190
+Hamilton,Jasper Courthouse,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Hamilton,Jasper Courthouse,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,54
+Hamilton,Jasper Courthouse,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,357
+Hamilton,Jasper Courthouse,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,314
+Hamilton,Jasper Courthouse,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Hamilton,Jasper Courthouse,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,69
+Hamilton,Jasper Courthouse,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,429
+Hamilton,Jasper Courthouse,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,254
+Hamilton,Jasper Courthouse,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,58
+Hamilton,Jasper Courthouse,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,430
+Hamilton,Jasper Courthouse,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,240
+Hamilton,Jasper Courthouse,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,71
+Hamilton,Jasper Courthouse,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,422
+Hamilton,Jasper Courthouse,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,253
+Hamilton,Jasper Courthouse,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Hamilton,Jasper Courthouse,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,65
+Hamilton,Jasper Courthouse,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,418
+Hamilton,Jasper Courthouse,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,248
+Hamilton,Jasper Courthouse,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,75
+Hamilton,Jasper Courthouse,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,377
+Hamilton,Jasper Courthouse,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,276
+Hamilton,Jasper Courthouse,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,88
+Hamilton,Jasper Courthouse,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,449
+Hamilton,Jasper Courthouse,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,217
+Hamilton,Jasper Courthouse,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hamilton,Jasper Courthouse,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,75
+Hamilton,Jasper Courthouse,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,348
+Hamilton,Jasper Courthouse,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,334
+Hamilton,Jasper Courthouse,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Hamilton,Jasper Courthouse,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,58
+Hamilton,White Springs Library,U.S. Senate,"",REP,Rick Scott,310
+Hamilton,White Springs Library,U.S. Senate,"",DEM,Bill Nelson,256
+Hamilton,White Springs Library,U.S. Senate,"","",WriteinVotes,3
+Hamilton,White Springs Library,U.S. Senate,"","",OverVotes,0
+Hamilton,White Springs Library,U.S. Senate,"","",UnderVotes,3
+Hamilton,White Springs Library,U.S. House,5,REP,Virginia Fuller,286
+Hamilton,White Springs Library,U.S. House,5,DEM,Al Lawson,271
+Hamilton,White Springs Library,U.S. House,5,"",OverVotes,0
+Hamilton,White Springs Library,U.S. House,5,"",UnderVotes,15
+Hamilton,White Springs Library,Governor,"",REP,DeSantis / Nuñez,313
+Hamilton,White Springs Library,Governor,"",DEM,Gillum / King,252
+Hamilton,White Springs Library,Governor,"",REF,Richardson / Argenziano,1
+Hamilton,White Springs Library,Governor,"",NPA,Gibson / Wilds,0
+Hamilton,White Springs Library,Governor,"",NPA,Foley / Tutton,0
+Hamilton,White Springs Library,Governor,"",NPA,Stanley / McJury,1
+Hamilton,White Springs Library,Governor,"","",WriteinVotes,0
+Hamilton,White Springs Library,Governor,"","",OverVotes,1
+Hamilton,White Springs Library,Governor,"","",UnderVotes,4
+Hamilton,White Springs Library,Attorney General,"",REP,Ashley Moody,309
+Hamilton,White Springs Library,Attorney General,"",DEM,Sean Shaw,250
+Hamilton,White Springs Library,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Hamilton,White Springs Library,Attorney General,"","",OverVotes,0
+Hamilton,White Springs Library,Attorney General,"","",UnderVotes,10
+Hamilton,White Springs Library,Chief Financial Officer,"",REP,Jimmy Patronis,302
+Hamilton,White Springs Library,Chief Financial Officer,"",DEM,Jeremy Ring,251
+Hamilton,White Springs Library,Chief Financial Officer,"","",WriteinVotes,0
+Hamilton,White Springs Library,Chief Financial Officer,"","",OverVotes,0
+Hamilton,White Springs Library,Chief Financial Officer,"","",UnderVotes,19
+Hamilton,White Springs Library,Commissioner of Agriculture,"",REP,Matt Caldwell,300
+Hamilton,White Springs Library,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",258
+Hamilton,White Springs Library,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,White Springs Library,Commissioner of Agriculture,"","",UnderVotes,14
+Hamilton,White Springs Library,State House,10,REP,Chuck Brannan,296
+Hamilton,White Springs Library,State House,10,DEM,Ronald W. Williams II,247
+Hamilton,White Springs Library,State House,10,NPA,Fred S. Martin,4
+Hamilton,White Springs Library,State House,10,NPA,Merrillee Malwitz Jipson,7
+Hamilton,White Springs Library,State House,10,"",OverVotes,0
+Hamilton,White Springs Library,State House,10,"",UnderVotes,18
+Hamilton,White Springs Library,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,310
+Hamilton,White Springs Library,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,197
+Hamilton,White Springs Library,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Hamilton,White Springs Library,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,63
+Hamilton,White Springs Library,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,286
+Hamilton,White Springs Library,Retention of Harvey Jay,First District Court of Appeal,NOP,No,211
+Hamilton,White Springs Library,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Hamilton,White Springs Library,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,75
+Hamilton,White Springs Library,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,287
+Hamilton,White Springs Library,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,211
+Hamilton,White Springs Library,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Hamilton,White Springs Library,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,74
+Hamilton,White Springs Library,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,293
+Hamilton,White Springs Library,Retention of Brad Thomas,First District Court of Appeal,NOP,No,206
+Hamilton,White Springs Library,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,White Springs Library,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,73
+Hamilton,White Springs Library,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,290
+Hamilton,White Springs Library,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,216
+Hamilton,White Springs Library,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,White Springs Library,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,66
+Hamilton,White Springs Library,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,288
+Hamilton,White Springs Library,Retention of Allen Winsor,First District Court of Appeal,NOP,No,210
+Hamilton,White Springs Library,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Hamilton,White Springs Library,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,74
+Hamilton,White Springs Library,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,253
+Hamilton,White Springs Library,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,285
+Hamilton,White Springs Library,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,34
+Hamilton,White Springs Library,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,341
+Hamilton,White Springs Library,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,197
+Hamilton,White Springs Library,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,34
+Hamilton,White Springs Library,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,389
+Hamilton,White Springs Library,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,160
+Hamilton,White Springs Library,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,23
+Hamilton,White Springs Library,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,347
+Hamilton,White Springs Library,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,199
+Hamilton,White Springs Library,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,26
+Hamilton,White Springs Library,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,323
+Hamilton,White Springs Library,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,207
+Hamilton,White Springs Library,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hamilton,White Springs Library,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,42
+Hamilton,White Springs Library,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,332
+Hamilton,White Springs Library,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,205
+Hamilton,White Springs Library,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,35
+Hamilton,White Springs Library,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,347
+Hamilton,White Springs Library,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,173
+Hamilton,White Springs Library,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,52
+Hamilton,White Springs Library,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,275
+Hamilton,White Springs Library,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,255
+Hamilton,White Springs Library,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,42
+Hamilton,White Springs Library,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,331
+Hamilton,White Springs Library,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,194
+Hamilton,White Springs Library,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Hamilton,White Springs Library,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,46
+Hamilton,White Springs Library,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,279
+Hamilton,White Springs Library,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,233
+Hamilton,White Springs Library,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,60
+Hamilton,White Springs Library,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,356
+Hamilton,White Springs Library,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,168
+Hamilton,White Springs Library,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,48
+Hamilton,White Springs Library,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,232
+Hamilton,White Springs Library,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,302
+Hamilton,White Springs Library,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hamilton,White Springs Library,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,38
+Hamilton,Jasper Civic Center,U.S. Senate,"",REP,Rick Scott,656
+Hamilton,Jasper Civic Center,U.S. Senate,"",DEM,Bill Nelson,243
+Hamilton,Jasper Civic Center,U.S. Senate,"","",WriteinVotes,0
+Hamilton,Jasper Civic Center,U.S. Senate,"","",OverVotes,0
+Hamilton,Jasper Civic Center,U.S. Senate,"","",UnderVotes,12
+Hamilton,Jasper Civic Center,U.S. House,5,REP,Virginia Fuller,644
+Hamilton,Jasper Civic Center,U.S. House,5,DEM,Al Lawson,253
+Hamilton,Jasper Civic Center,U.S. House,5,"",OverVotes,0
+Hamilton,Jasper Civic Center,U.S. House,5,"",UnderVotes,14
+Hamilton,Jasper Civic Center,Governor,"",REP,DeSantis / Nuñez,673
+Hamilton,Jasper Civic Center,Governor,"",DEM,Gillum / King,224
+Hamilton,Jasper Civic Center,Governor,"",REF,Richardson / Argenziano,5
+Hamilton,Jasper Civic Center,Governor,"",NPA,Gibson / Wilds,1
+Hamilton,Jasper Civic Center,Governor,"",NPA,Foley / Tutton,1
+Hamilton,Jasper Civic Center,Governor,"",NPA,Stanley / McJury,2
+Hamilton,Jasper Civic Center,Governor,"","",WriteinVotes,0
+Hamilton,Jasper Civic Center,Governor,"","",OverVotes,2
+Hamilton,Jasper Civic Center,Governor,"","",UnderVotes,3
+Hamilton,Jasper Civic Center,Attorney General,"",REP,Ashley Moody,688
+Hamilton,Jasper Civic Center,Attorney General,"",DEM,Sean Shaw,205
+Hamilton,Jasper Civic Center,Attorney General,"",NPA,Jeffrey Marc Siskind,7
+Hamilton,Jasper Civic Center,Attorney General,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Attorney General,"","",UnderVotes,11
+Hamilton,Jasper Civic Center,Chief Financial Officer,"",REP,Jimmy Patronis,667
+Hamilton,Jasper Civic Center,Chief Financial Officer,"",DEM,Jeremy Ring,226
+Hamilton,Jasper Civic Center,Chief Financial Officer,"","",WriteinVotes,0
+Hamilton,Jasper Civic Center,Chief Financial Officer,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Chief Financial Officer,"","",UnderVotes,18
+Hamilton,Jasper Civic Center,Commissioner of Agriculture,"",REP,Matt Caldwell,667
+Hamilton,Jasper Civic Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",230
+Hamilton,Jasper Civic Center,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Commissioner of Agriculture,"","",UnderVotes,14
+Hamilton,Jasper Civic Center,State House,10,REP,Chuck Brannan,653
+Hamilton,Jasper Civic Center,State House,10,DEM,Ronald W. Williams II,206
+Hamilton,Jasper Civic Center,State House,10,NPA,Fred S. Martin,13
+Hamilton,Jasper Civic Center,State House,10,NPA,Merrillee Malwitz Jipson,16
+Hamilton,Jasper Civic Center,State House,10,"",OverVotes,0
+Hamilton,Jasper Civic Center,State House,10,"",UnderVotes,23
+Hamilton,Jasper Civic Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,473
+Hamilton,Jasper Civic Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,325
+Hamilton,Jasper Civic Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,Jasper Civic Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,112
+Hamilton,Jasper Civic Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,478
+Hamilton,Jasper Civic Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,324
+Hamilton,Jasper Civic Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jasper Civic Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,109
+Hamilton,Jasper Civic Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,469
+Hamilton,Jasper Civic Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,322
+Hamilton,Jasper Civic Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jasper Civic Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,120
+Hamilton,Jasper Civic Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,470
+Hamilton,Jasper Civic Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,327
+Hamilton,Jasper Civic Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Hamilton,Jasper Civic Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,113
+Hamilton,Jasper Civic Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,460
+Hamilton,Jasper Civic Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,338
+Hamilton,Jasper Civic Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Jasper Civic Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,113
+Hamilton,Jasper Civic Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,484
+Hamilton,Jasper Civic Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,314
+Hamilton,Jasper Civic Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Hamilton,Jasper Civic Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,112
+Hamilton,Jasper Civic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,469
+Hamilton,Jasper Civic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,394
+Hamilton,Jasper Civic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Hamilton,Jasper Civic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,47
+Hamilton,Jasper Civic Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,576
+Hamilton,Jasper Civic Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,289
+Hamilton,Jasper Civic Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,46
+Hamilton,Jasper Civic Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,617
+Hamilton,Jasper Civic Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,237
+Hamilton,Jasper Civic Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Hamilton,Jasper Civic Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,56
+Hamilton,Jasper Civic Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,435
+Hamilton,Jasper Civic Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,419
+Hamilton,Jasper Civic Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Hamilton,Jasper Civic Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,56
+Hamilton,Jasper Civic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,574
+Hamilton,Jasper Civic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,254
+Hamilton,Jasper Civic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hamilton,Jasper Civic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,83
+Hamilton,Jasper Civic Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,526
+Hamilton,Jasper Civic Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,319
+Hamilton,Jasper Civic Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Hamilton,Jasper Civic Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,65
+Hamilton,Jasper Civic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,561
+Hamilton,Jasper Civic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,270
+Hamilton,Jasper Civic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,80
+Hamilton,Jasper Civic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,371
+Hamilton,Jasper Civic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,463
+Hamilton,Jasper Civic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Hamilton,Jasper Civic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,76
+Hamilton,Jasper Civic Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,563
+Hamilton,Jasper Civic Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,268
+Hamilton,Jasper Civic Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,80
+Hamilton,Jasper Civic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,395
+Hamilton,Jasper Civic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,405
+Hamilton,Jasper Civic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,111
+Hamilton,Jasper Civic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,584
+Hamilton,Jasper Civic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,234
+Hamilton,Jasper Civic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,93
+Hamilton,Jasper Civic Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,355
+Hamilton,Jasper Civic Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,487
+Hamilton,Jasper Civic Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hamilton,Jasper Civic Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,69
+Hamilton,Bright Pond Fellowship,U.S. Senate,"",REP,Rick Scott,121
+Hamilton,Bright Pond Fellowship,U.S. Senate,"",DEM,Bill Nelson,39
+Hamilton,Bright Pond Fellowship,U.S. Senate,"","",WriteinVotes,1
+Hamilton,Bright Pond Fellowship,U.S. Senate,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,U.S. Senate,"","",UnderVotes,3
+Hamilton,Bright Pond Fellowship,U.S. House,5,REP,Virginia Fuller,120
+Hamilton,Bright Pond Fellowship,U.S. House,5,DEM,Al Lawson,35
+Hamilton,Bright Pond Fellowship,U.S. House,5,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,U.S. House,5,"",UnderVotes,9
+Hamilton,Bright Pond Fellowship,Governor,"",REP,DeSantis / Nuñez,124
+Hamilton,Bright Pond Fellowship,Governor,"",DEM,Gillum / King,32
+Hamilton,Bright Pond Fellowship,Governor,"",REF,Richardson / Argenziano,3
+Hamilton,Bright Pond Fellowship,Governor,"",NPA,Gibson / Wilds,1
+Hamilton,Bright Pond Fellowship,Governor,"",NPA,Foley / Tutton,0
+Hamilton,Bright Pond Fellowship,Governor,"",NPA,Stanley / McJury,0
+Hamilton,Bright Pond Fellowship,Governor,"","",WriteinVotes,1
+Hamilton,Bright Pond Fellowship,Governor,"","",OverVotes,1
+Hamilton,Bright Pond Fellowship,Governor,"","",UnderVotes,2
+Hamilton,Bright Pond Fellowship,Attorney General,"",REP,Ashley Moody,126
+Hamilton,Bright Pond Fellowship,Attorney General,"",DEM,Sean Shaw,31
+Hamilton,Bright Pond Fellowship,Attorney General,"",NPA,Jeffrey Marc Siskind,2
+Hamilton,Bright Pond Fellowship,Attorney General,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Attorney General,"","",UnderVotes,5
+Hamilton,Bright Pond Fellowship,Chief Financial Officer,"",REP,Jimmy Patronis,123
+Hamilton,Bright Pond Fellowship,Chief Financial Officer,"",DEM,Jeremy Ring,35
+Hamilton,Bright Pond Fellowship,Chief Financial Officer,"","",WriteinVotes,0
+Hamilton,Bright Pond Fellowship,Chief Financial Officer,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Chief Financial Officer,"","",UnderVotes,6
+Hamilton,Bright Pond Fellowship,Commissioner of Agriculture,"",REP,Matt Caldwell,123
+Hamilton,Bright Pond Fellowship,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",37
+Hamilton,Bright Pond Fellowship,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Commissioner of Agriculture,"","",UnderVotes,4
+Hamilton,Bright Pond Fellowship,State House,10,REP,Chuck Brannan,118
+Hamilton,Bright Pond Fellowship,State House,10,DEM,Ronald W. Williams II,28
+Hamilton,Bright Pond Fellowship,State House,10,NPA,Fred S. Martin,8
+Hamilton,Bright Pond Fellowship,State House,10,NPA,Merrillee Malwitz Jipson,3
+Hamilton,Bright Pond Fellowship,State House,10,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,State House,10,"",UnderVotes,7
+Hamilton,Bright Pond Fellowship,County Commissioner,2,REP,Josh Smith,87
+Hamilton,Bright Pond Fellowship,County Commissioner,2,DEM,Sandy Hurst,74
+Hamilton,Bright Pond Fellowship,County Commissioner,2,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,County Commissioner,2,"",UnderVotes,3
+Hamilton,Bright Pond Fellowship,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,89
+Hamilton,Bright Pond Fellowship,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,64
+Hamilton,Bright Pond Fellowship,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,11
+Hamilton,Bright Pond Fellowship,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,89
+Hamilton,Bright Pond Fellowship,Retention of Harvey Jay,First District Court of Appeal,NOP,No,62
+Hamilton,Bright Pond Fellowship,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,13
+Hamilton,Bright Pond Fellowship,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,87
+Hamilton,Bright Pond Fellowship,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,64
+Hamilton,Bright Pond Fellowship,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,13
+Hamilton,Bright Pond Fellowship,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,83
+Hamilton,Bright Pond Fellowship,Retention of Brad Thomas,First District Court of Appeal,NOP,No,70
+Hamilton,Bright Pond Fellowship,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,11
+Hamilton,Bright Pond Fellowship,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,93
+Hamilton,Bright Pond Fellowship,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,60
+Hamilton,Bright Pond Fellowship,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,11
+Hamilton,Bright Pond Fellowship,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,90
+Hamilton,Bright Pond Fellowship,Retention of Allen Winsor,First District Court of Appeal,NOP,No,62
+Hamilton,Bright Pond Fellowship,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bright Pond Fellowship,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,12
+Hamilton,Bright Pond Fellowship,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,87
+Hamilton,Bright Pond Fellowship,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,74
+Hamilton,Bright Pond Fellowship,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,3
+Hamilton,Bright Pond Fellowship,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,118
+Hamilton,Bright Pond Fellowship,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,42
+Hamilton,Bright Pond Fellowship,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,4
+Hamilton,Bright Pond Fellowship,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,122
+Hamilton,Bright Pond Fellowship,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,37
+Hamilton,Bright Pond Fellowship,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,5
+Hamilton,Bright Pond Fellowship,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,72
+Hamilton,Bright Pond Fellowship,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,86
+Hamilton,Bright Pond Fellowship,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,6
+Hamilton,Bright Pond Fellowship,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,109
+Hamilton,Bright Pond Fellowship,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,50
+Hamilton,Bright Pond Fellowship,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hamilton,Bright Pond Fellowship,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,5
+Hamilton,Bright Pond Fellowship,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,95
+Hamilton,Bright Pond Fellowship,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,64
+Hamilton,Bright Pond Fellowship,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,5
+Hamilton,Bright Pond Fellowship,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,104
+Hamilton,Bright Pond Fellowship,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,54
+Hamilton,Bright Pond Fellowship,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,6
+Hamilton,Bright Pond Fellowship,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,86
+Hamilton,Bright Pond Fellowship,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,72
+Hamilton,Bright Pond Fellowship,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,6
+Hamilton,Bright Pond Fellowship,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,111
+Hamilton,Bright Pond Fellowship,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,45
+Hamilton,Bright Pond Fellowship,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,8
+Hamilton,Bright Pond Fellowship,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,78
+Hamilton,Bright Pond Fellowship,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,77
+Hamilton,Bright Pond Fellowship,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,9
+Hamilton,Bright Pond Fellowship,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,112
+Hamilton,Bright Pond Fellowship,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,44
+Hamilton,Bright Pond Fellowship,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,8
+Hamilton,Bright Pond Fellowship,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,67
+Hamilton,Bright Pond Fellowship,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,92
+Hamilton,Bright Pond Fellowship,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hamilton,Bright Pond Fellowship,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,5
+Hamilton,Genoa Vol. Fire Dept.,U.S. Senate,"",REP,Rick Scott,309
+Hamilton,Genoa Vol. Fire Dept.,U.S. Senate,"",DEM,Bill Nelson,173
+Hamilton,Genoa Vol. Fire Dept.,U.S. Senate,"","",WriteinVotes,3
+Hamilton,Genoa Vol. Fire Dept.,U.S. Senate,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,U.S. Senate,"","",UnderVotes,5
+Hamilton,Genoa Vol. Fire Dept.,U.S. House,5,REP,Virginia Fuller,288
+Hamilton,Genoa Vol. Fire Dept.,U.S. House,5,DEM,Al Lawson,191
+Hamilton,Genoa Vol. Fire Dept.,U.S. House,5,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,U.S. House,5,"",UnderVotes,11
+Hamilton,Genoa Vol. Fire Dept.,Governor,"",REP,DeSantis / Nuñez,320
+Hamilton,Genoa Vol. Fire Dept.,Governor,"",DEM,Gillum / King,156
+Hamilton,Genoa Vol. Fire Dept.,Governor,"",REF,Richardson / Argenziano,2
+Hamilton,Genoa Vol. Fire Dept.,Governor,"",NPA,Gibson / Wilds,2
+Hamilton,Genoa Vol. Fire Dept.,Governor,"",NPA,Foley / Tutton,2
+Hamilton,Genoa Vol. Fire Dept.,Governor,"",NPA,Stanley / McJury,1
+Hamilton,Genoa Vol. Fire Dept.,Governor,"","",WriteinVotes,1
+Hamilton,Genoa Vol. Fire Dept.,Governor,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Governor,"","",UnderVotes,6
+Hamilton,Genoa Vol. Fire Dept.,Attorney General,"",REP,Ashley Moody,320
+Hamilton,Genoa Vol. Fire Dept.,Attorney General,"",DEM,Sean Shaw,156
+Hamilton,Genoa Vol. Fire Dept.,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Hamilton,Genoa Vol. Fire Dept.,Attorney General,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Attorney General,"","",UnderVotes,8
+Hamilton,Genoa Vol. Fire Dept.,Chief Financial Officer,"",REP,Jimmy Patronis,318
+Hamilton,Genoa Vol. Fire Dept.,Chief Financial Officer,"",DEM,Jeremy Ring,158
+Hamilton,Genoa Vol. Fire Dept.,Chief Financial Officer,"","",WriteinVotes,1
+Hamilton,Genoa Vol. Fire Dept.,Chief Financial Officer,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Chief Financial Officer,"","",UnderVotes,13
+Hamilton,Genoa Vol. Fire Dept.,Commissioner of Agriculture,"",REP,Matt Caldwell,320
+Hamilton,Genoa Vol. Fire Dept.,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",158
+Hamilton,Genoa Vol. Fire Dept.,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Commissioner of Agriculture,"","",UnderVotes,12
+Hamilton,Genoa Vol. Fire Dept.,State House,10,REP,Chuck Brannan,314
+Hamilton,Genoa Vol. Fire Dept.,State House,10,DEM,Ronald W. Williams II,154
+Hamilton,Genoa Vol. Fire Dept.,State House,10,NPA,Fred S. Martin,6
+Hamilton,Genoa Vol. Fire Dept.,State House,10,NPA,Merrillee Malwitz Jipson,6
+Hamilton,Genoa Vol. Fire Dept.,State House,10,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,State House,10,"",UnderVotes,10
+Hamilton,Genoa Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,284
+Hamilton,Genoa Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,173
+Hamilton,Genoa Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,33
+Hamilton,Genoa Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,270
+Hamilton,Genoa Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,NOP,No,180
+Hamilton,Genoa Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,40
+Hamilton,Genoa Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,272
+Hamilton,Genoa Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,171
+Hamilton,Genoa Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,47
+Hamilton,Genoa Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,266
+Hamilton,Genoa Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,NOP,No,178
+Hamilton,Genoa Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,46
+Hamilton,Genoa Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,272
+Hamilton,Genoa Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,177
+Hamilton,Genoa Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,41
+Hamilton,Genoa Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,269
+Hamilton,Genoa Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,NOP,No,176
+Hamilton,Genoa Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,45
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,250
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,224
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,302
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,166
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,22
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,345
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,126
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,19
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,255
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,216
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,19
+Hamilton,Genoa Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,292
+Hamilton,Genoa Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,172
+Hamilton,Genoa Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,26
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,289
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,182
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,18
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,297
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,167
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,25
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,249
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,217
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,23
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,301
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,156
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,33
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,232
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,210
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,47
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,327
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,133
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,30
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,217
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,253
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hamilton,Genoa Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,20
+Hamilton,Bellville Vol. Fire Dept.,U.S. Senate,"",REP,Rick Scott,292
+Hamilton,Bellville Vol. Fire Dept.,U.S. Senate,"",DEM,Bill Nelson,181
+Hamilton,Bellville Vol. Fire Dept.,U.S. Senate,"","",WriteinVotes,0
+Hamilton,Bellville Vol. Fire Dept.,U.S. Senate,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,U.S. Senate,"","",UnderVotes,5
+Hamilton,Bellville Vol. Fire Dept.,U.S. House,5,REP,Virginia Fuller,279
+Hamilton,Bellville Vol. Fire Dept.,U.S. House,5,DEM,Al Lawson,190
+Hamilton,Bellville Vol. Fire Dept.,U.S. House,5,"",OverVotes,1
+Hamilton,Bellville Vol. Fire Dept.,U.S. House,5,"",UnderVotes,8
+Hamilton,Bellville Vol. Fire Dept.,Governor,"",REP,DeSantis / Nuñez,294
+Hamilton,Bellville Vol. Fire Dept.,Governor,"",DEM,Gillum / King,175
+Hamilton,Bellville Vol. Fire Dept.,Governor,"",REF,Richardson / Argenziano,1
+Hamilton,Bellville Vol. Fire Dept.,Governor,"",NPA,Gibson / Wilds,3
+Hamilton,Bellville Vol. Fire Dept.,Governor,"",NPA,Foley / Tutton,0
+Hamilton,Bellville Vol. Fire Dept.,Governor,"",NPA,Stanley / McJury,1
+Hamilton,Bellville Vol. Fire Dept.,Governor,"","",WriteinVotes,1
+Hamilton,Bellville Vol. Fire Dept.,Governor,"","",OverVotes,1
+Hamilton,Bellville Vol. Fire Dept.,Governor,"","",UnderVotes,2
+Hamilton,Bellville Vol. Fire Dept.,Attorney General,"",REP,Ashley Moody,298
+Hamilton,Bellville Vol. Fire Dept.,Attorney General,"",DEM,Sean Shaw,169
+Hamilton,Bellville Vol. Fire Dept.,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Hamilton,Bellville Vol. Fire Dept.,Attorney General,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Attorney General,"","",UnderVotes,5
+Hamilton,Bellville Vol. Fire Dept.,Chief Financial Officer,"",REP,Jimmy Patronis,291
+Hamilton,Bellville Vol. Fire Dept.,Chief Financial Officer,"",DEM,Jeremy Ring,175
+Hamilton,Bellville Vol. Fire Dept.,Chief Financial Officer,"","",WriteinVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Chief Financial Officer,"","",OverVotes,1
+Hamilton,Bellville Vol. Fire Dept.,Chief Financial Officer,"","",UnderVotes,11
+Hamilton,Bellville Vol. Fire Dept.,Commissioner of Agriculture,"",REP,Matt Caldwell,292
+Hamilton,Bellville Vol. Fire Dept.,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",181
+Hamilton,Bellville Vol. Fire Dept.,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Commissioner of Agriculture,"","",UnderVotes,5
+Hamilton,Bellville Vol. Fire Dept.,State House,10,REP,Chuck Brannan,287
+Hamilton,Bellville Vol. Fire Dept.,State House,10,DEM,Ronald W. Williams II,172
+Hamilton,Bellville Vol. Fire Dept.,State House,10,NPA,Fred S. Martin,4
+Hamilton,Bellville Vol. Fire Dept.,State House,10,NPA,Merrillee Malwitz Jipson,6
+Hamilton,Bellville Vol. Fire Dept.,State House,10,"",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,State House,10,"",UnderVotes,9
+Hamilton,Bellville Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,298
+Hamilton,Bellville Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,125
+Hamilton,Bellville Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,55
+Hamilton,Bellville Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,296
+Hamilton,Bellville Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,NOP,No,121
+Hamilton,Bellville Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,61
+Hamilton,Bellville Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,297
+Hamilton,Bellville Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,118
+Hamilton,Bellville Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,63
+Hamilton,Bellville Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,292
+Hamilton,Bellville Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,NOP,No,123
+Hamilton,Bellville Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Hamilton,Bellville Vol. Fire Dept.,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,61
+Hamilton,Bellville Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,288
+Hamilton,Bellville Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,132
+Hamilton,Bellville Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,58
+Hamilton,Bellville Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,292
+Hamilton,Bellville Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,NOP,No,125
+Hamilton,Bellville Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,61
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,283
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,167
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,28
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,318
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,134
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,25
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,360
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,95
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,23
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,236
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,215
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,27
+Hamilton,Bellville Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,322
+Hamilton,Bellville Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,124
+Hamilton,Bellville Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Hamilton,Bellville Vol. Fire Dept.,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,31
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,290
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,157
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,31
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,319
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,121
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,38
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,225
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,219
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,34
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,310
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,124
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,44
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,240
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,188
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,50
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,326
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,113
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,39
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,188
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,261
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Hamilton,Bellville Vol. Fire Dept.,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,28
+Hamilton,Cross Roads,U.S. Senate,"",REP,Rick Scott,758
+Hamilton,Cross Roads,U.S. Senate,"",DEM,Bill Nelson,157
+Hamilton,Cross Roads,U.S. Senate,"","",WriteinVotes,2
+Hamilton,Cross Roads,U.S. Senate,"","",OverVotes,0
+Hamilton,Cross Roads,U.S. Senate,"","",UnderVotes,10
+Hamilton,Cross Roads,U.S. House,5,REP,Virginia Fuller,737
+Hamilton,Cross Roads,U.S. House,5,DEM,Al Lawson,171
+Hamilton,Cross Roads,U.S. House,5,"",OverVotes,0
+Hamilton,Cross Roads,U.S. House,5,"",UnderVotes,19
+Hamilton,Cross Roads,Governor,"",REP,DeSantis / Nuñez,771
+Hamilton,Cross Roads,Governor,"",DEM,Gillum / King,137
+Hamilton,Cross Roads,Governor,"",REF,Richardson / Argenziano,6
+Hamilton,Cross Roads,Governor,"",NPA,Gibson / Wilds,3
+Hamilton,Cross Roads,Governor,"",NPA,Foley / Tutton,1
+Hamilton,Cross Roads,Governor,"",NPA,Stanley / McJury,1
+Hamilton,Cross Roads,Governor,"","",WriteinVotes,0
+Hamilton,Cross Roads,Governor,"","",OverVotes,2
+Hamilton,Cross Roads,Governor,"","",UnderVotes,6
+Hamilton,Cross Roads,Attorney General,"",REP,Ashley Moody,772
+Hamilton,Cross Roads,Attorney General,"",DEM,Sean Shaw,132
+Hamilton,Cross Roads,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Hamilton,Cross Roads,Attorney General,"","",OverVotes,0
+Hamilton,Cross Roads,Attorney General,"","",UnderVotes,14
+Hamilton,Cross Roads,Chief Financial Officer,"",REP,Jimmy Patronis,759
+Hamilton,Cross Roads,Chief Financial Officer,"",DEM,Jeremy Ring,144
+Hamilton,Cross Roads,Chief Financial Officer,"","",WriteinVotes,0
+Hamilton,Cross Roads,Chief Financial Officer,"","",OverVotes,0
+Hamilton,Cross Roads,Chief Financial Officer,"","",UnderVotes,24
+Hamilton,Cross Roads,Commissioner of Agriculture,"",REP,Matt Caldwell,775
+Hamilton,Cross Roads,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",144
+Hamilton,Cross Roads,Commissioner of Agriculture,"","",OverVotes,0
+Hamilton,Cross Roads,Commissioner of Agriculture,"","",UnderVotes,8
+Hamilton,Cross Roads,State House,10,REP,Chuck Brannan,736
+Hamilton,Cross Roads,State House,10,DEM,Ronald W. Williams II,139
+Hamilton,Cross Roads,State House,10,NPA,Fred S. Martin,16
+Hamilton,Cross Roads,State House,10,NPA,Merrillee Malwitz Jipson,19
+Hamilton,Cross Roads,State House,10,"",OverVotes,0
+Hamilton,Cross Roads,State House,10,"",UnderVotes,17
+Hamilton,Cross Roads,County Commissioner,2,REP,Josh Smith,545
+Hamilton,Cross Roads,County Commissioner,2,DEM,Sandy Hurst,370
+Hamilton,Cross Roads,County Commissioner,2,"",OverVotes,2
+Hamilton,Cross Roads,County Commissioner,2,"",UnderVotes,10
+Hamilton,Cross Roads,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,508
+Hamilton,Cross Roads,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,327
+Hamilton,Cross Roads,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Hamilton,Cross Roads,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,91
+Hamilton,Cross Roads,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,523
+Hamilton,Cross Roads,Retention of Harvey Jay,First District Court of Appeal,NOP,No,305
+Hamilton,Cross Roads,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Hamilton,Cross Roads,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,98
+Hamilton,Cross Roads,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,524
+Hamilton,Cross Roads,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,311
+Hamilton,Cross Roads,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Hamilton,Cross Roads,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,91
+Hamilton,Cross Roads,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,500
+Hamilton,Cross Roads,Retention of Brad Thomas,First District Court of Appeal,NOP,No,331
+Hamilton,Cross Roads,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Hamilton,Cross Roads,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,95
+Hamilton,Cross Roads,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,496
+Hamilton,Cross Roads,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,333
+Hamilton,Cross Roads,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Hamilton,Cross Roads,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,96
+Hamilton,Cross Roads,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,506
+Hamilton,Cross Roads,Retention of Allen Winsor,First District Court of Appeal,NOP,No,317
+Hamilton,Cross Roads,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,2
+Hamilton,Cross Roads,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,102
+Hamilton,Cross Roads,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,573
+Hamilton,Cross Roads,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,333
+Hamilton,Cross Roads,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Hamilton,Cross Roads,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,19
+Hamilton,Cross Roads,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,678
+Hamilton,Cross Roads,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,221
+Hamilton,Cross Roads,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Hamilton,Cross Roads,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,28
+Hamilton,Cross Roads,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,654
+Hamilton,Cross Roads,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,228
+Hamilton,Cross Roads,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Hamilton,Cross Roads,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,45
+Hamilton,Cross Roads,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,361
+Hamilton,Cross Roads,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,521
+Hamilton,Cross Roads,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Hamilton,Cross Roads,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,45
+Hamilton,Cross Roads,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,644
+Hamilton,Cross Roads,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,221
+Hamilton,Cross Roads,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Hamilton,Cross Roads,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,61
+Hamilton,Cross Roads,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,560
+Hamilton,Cross Roads,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,312
+Hamilton,Cross Roads,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Hamilton,Cross Roads,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,55
+Hamilton,Cross Roads,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,614
+Hamilton,Cross Roads,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,241
+Hamilton,Cross Roads,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Hamilton,Cross Roads,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,71
+Hamilton,Cross Roads,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,442
+Hamilton,Cross Roads,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,429
+Hamilton,Cross Roads,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Hamilton,Cross Roads,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,54
+Hamilton,Cross Roads,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,622
+Hamilton,Cross Roads,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,247
+Hamilton,Cross Roads,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Hamilton,Cross Roads,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,58
+Hamilton,Cross Roads,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,492
+Hamilton,Cross Roads,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,357
+Hamilton,Cross Roads,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Hamilton,Cross Roads,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,77
+Hamilton,Cross Roads,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,654
+Hamilton,Cross Roads,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,212
+Hamilton,Cross Roads,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Hamilton,Cross Roads,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,60
+Hamilton,Cross Roads,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,381
+Hamilton,Cross Roads,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,496
+Hamilton,Cross Roads,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Hamilton,Cross Roads,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,50
+Hamilton,Bellville Vol. Fire Dept.,Registered Voters,"","","",839
+Hamilton,Bright Pond Fellowship,Registered Voters,"","","",267
+Hamilton,Cross Roads,Registered Voters,"","","",1469
+Hamilton,Genoa Vol. Fire Dept.,Registered Voters,"","","",769
+Hamilton,Jasper Civic Center,Registered Voters,"","","",1555
+Hamilton,Jasper Courthouse,Registered Voters,"","","",1307
+Hamilton,Jennings City Hall,Registered Voters,"","","",592
+Hamilton,White Springs Library,Registered Voters,"","","",929
