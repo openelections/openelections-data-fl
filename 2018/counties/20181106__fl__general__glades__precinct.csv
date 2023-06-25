@@ -1,0 +1,1574 @@
+county,precinct,office,district,party,candidate,votes
+Glades,1:1 American Legion,U.S. Senate,"",REP,Rick Scott,173
+Glades,1:1 American Legion,U.S. Senate,"",DEM,Bill Nelson,56
+Glades,1:1 American Legion,U.S. Senate,"","",WriteinVotes,2
+Glades,1:1 American Legion,U.S. Senate,"","",OverVotes,0
+Glades,1:1 American Legion,U.S. Senate,"","",UnderVotes,4
+Glades,1:1 American Legion,U.S. House,17,REP,Greg Steube,168
+Glades,1:1 American Legion,U.S. House,17,DEM,Allen Ellison,60
+Glades,1:1 American Legion,U.S. House,17,"",OverVotes,0
+Glades,1:1 American Legion,U.S. House,17,"",UnderVotes,7
+Glades,1:1 American Legion,Governor,"",REP,DeSantis / Nuñez,178
+Glades,1:1 American Legion,Governor,"",DEM,Gillum / King,49
+Glades,1:1 American Legion,Governor,"",REF,Richardson / Argenziano,3
+Glades,1:1 American Legion,Governor,"",NPA,Gibson / Wilds,0
+Glades,1:1 American Legion,Governor,"",NPA,Foley / Tutton,1
+Glades,1:1 American Legion,Governor,"",NPA,Stanley / McJury,0
+Glades,1:1 American Legion,Governor,"","",WriteinVotes,0
+Glades,1:1 American Legion,Governor,"","",OverVotes,1
+Glades,1:1 American Legion,Governor,"","",UnderVotes,3
+Glades,1:1 American Legion,Attorney General,"",REP,Ashley Moody,176
+Glades,1:1 American Legion,Attorney General,"",DEM,Sean Shaw,44
+Glades,1:1 American Legion,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Glades,1:1 American Legion,Attorney General,"","",OverVotes,0
+Glades,1:1 American Legion,Attorney General,"","",UnderVotes,10
+Glades,1:1 American Legion,Chief Financial Officer,"",REP,Jimmy Patronis,171
+Glades,1:1 American Legion,Chief Financial Officer,"",DEM,Jeremy Ring,50
+Glades,1:1 American Legion,Chief Financial Officer,"","",WriteinVotes,0
+Glades,1:1 American Legion,Chief Financial Officer,"","",OverVotes,0
+Glades,1:1 American Legion,Chief Financial Officer,"","",UnderVotes,14
+Glades,1:1 American Legion,Commissioner of Agriculture,"",REP,Matt Caldwell,180
+Glades,1:1 American Legion,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",45
+Glades,1:1 American Legion,Commissioner of Agriculture,"","",OverVotes,0
+Glades,1:1 American Legion,Commissioner of Agriculture,"","",UnderVotes,10
+Glades,1:1 American Legion,State Attorney,20th Judicial Circuit,REP,Amira Fox,187
+Glades,1:1 American Legion,State Attorney,20th Judicial Circuit,"",WriteinVotes,5
+Glades,1:1 American Legion,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,1:1 American Legion,State Attorney,20th Judicial Circuit,"",UnderVotes,43
+Glades,1:1 American Legion,State Senate,26,REP,Ben Albritton,178
+Glades,1:1 American Legion,State Senate,26,DEM,Catherine Price,46
+Glades,1:1 American Legion,State Senate,26,"",OverVotes,0
+Glades,1:1 American Legion,State Senate,26,"",UnderVotes,11
+Glades,1:1 American Legion,State House,55,REP,Cary Pigman,172
+Glades,1:1 American Legion,State House,55,DEM,Audrey Asciutto,52
+Glades,1:1 American Legion,State House,55,"",OverVotes,0
+Glades,1:1 American Legion,State House,55,"",UnderVotes,11
+Glades,1:1 American Legion,County Commissioner,2,REP,Donna Storter Long,121
+Glades,1:1 American Legion,County Commissioner,2,NPA,Jeff Barnes,109
+Glades,1:1 American Legion,County Commissioner,2,"",OverVotes,0
+Glades,1:1 American Legion,County Commissioner,2,"",UnderVotes,5
+Glades,1:1 American Legion,County Commissioner,4,REP,John R Ahern,168
+Glades,1:1 American Legion,County Commissioner,4,DEM,Jerri Lynn Schlueter,63
+Glades,1:1 American Legion,County Commissioner,4,"",OverVotes,0
+Glades,1:1 American Legion,County Commissioner,4,"",UnderVotes,4
+Glades,1:1 American Legion,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,135
+Glades,1:1 American Legion,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,61
+Glades,1:1 American Legion,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,1:1 American Legion,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,39
+Glades,1:1 American Legion,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,129
+Glades,1:1 American Legion,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,68
+Glades,1:1 American Legion,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,1:1 American Legion,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,38
+Glades,1:1 American Legion,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,123
+Glades,1:1 American Legion,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,74
+Glades,1:1 American Legion,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,1:1 American Legion,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,38
+Glades,1:1 American Legion,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,131
+Glades,1:1 American Legion,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,66
+Glades,1:1 American Legion,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,1:1 American Legion,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,38
+Glades,1:1 American Legion,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,133
+Glades,1:1 American Legion,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,64
+Glades,1:1 American Legion,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,1:1 American Legion,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,38
+Glades,1:1 American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,124
+Glades,1:1 American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,102
+Glades,1:1 American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,9
+Glades,1:1 American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,162
+Glades,1:1 American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,57
+Glades,1:1 American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,16
+Glades,1:1 American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,144
+Glades,1:1 American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,83
+Glades,1:1 American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,8
+Glades,1:1 American Legion,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,108
+Glades,1:1 American Legion,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,119
+Glades,1:1 American Legion,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Glades,1:1 American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,164
+Glades,1:1 American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,55
+Glades,1:1 American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,1:1 American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,16
+Glades,1:1 American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,153
+Glades,1:1 American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,68
+Glades,1:1 American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,14
+Glades,1:1 American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,171
+Glades,1:1 American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,51
+Glades,1:1 American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,13
+Glades,1:1 American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,108
+Glades,1:1 American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,115
+Glades,1:1 American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,12
+Glades,1:1 American Legion,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,168
+Glades,1:1 American Legion,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,47
+Glades,1:1 American Legion,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,20
+Glades,1:1 American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,108
+Glades,1:1 American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,100
+Glades,1:1 American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,27
+Glades,1:1 American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,167
+Glades,1:1 American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,55
+Glades,1:1 American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,1:1 American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,13
+Glades,1:1 American Legion,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,107
+Glades,1:1 American Legion,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,117
+Glades,1:1 American Legion,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Glades,1:1 American Legion,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,10
+Glades,2:2 Ortona Comm Ctr,U.S. Senate,"",REP,Rick Scott,206
+Glades,2:2 Ortona Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,68
+Glades,2:2 Ortona Comm Ctr,U.S. Senate,"","",WriteinVotes,3
+Glades,2:2 Ortona Comm Ctr,U.S. Senate,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,U.S. Senate,"","",UnderVotes,4
+Glades,2:2 Ortona Comm Ctr,U.S. House,17,REP,Greg Steube,210
+Glades,2:2 Ortona Comm Ctr,U.S. House,17,DEM,Allen Ellison,69
+Glades,2:2 Ortona Comm Ctr,U.S. House,17,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,U.S. House,17,"",UnderVotes,2
+Glades,2:2 Ortona Comm Ctr,Governor,"",REP,DeSantis / Nuñez,215
+Glades,2:2 Ortona Comm Ctr,Governor,"",DEM,Gillum / King,60
+Glades,2:2 Ortona Comm Ctr,Governor,"",REF,Richardson / Argenziano,1
+Glades,2:2 Ortona Comm Ctr,Governor,"",NPA,Gibson / Wilds,2
+Glades,2:2 Ortona Comm Ctr,Governor,"",NPA,Foley / Tutton,0
+Glades,2:2 Ortona Comm Ctr,Governor,"",NPA,Stanley / McJury,0
+Glades,2:2 Ortona Comm Ctr,Governor,"","",WriteinVotes,2
+Glades,2:2 Ortona Comm Ctr,Governor,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Governor,"","",UnderVotes,1
+Glades,2:2 Ortona Comm Ctr,Attorney General,"",REP,Ashley Moody,216
+Glades,2:2 Ortona Comm Ctr,Attorney General,"",DEM,Sean Shaw,50
+Glades,2:2 Ortona Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Glades,2:2 Ortona Comm Ctr,Attorney General,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Attorney General,"","",UnderVotes,7
+Glades,2:2 Ortona Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,210
+Glades,2:2 Ortona Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,62
+Glades,2:2 Ortona Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Glades,2:2 Ortona Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Chief Financial Officer,"","",UnderVotes,9
+Glades,2:2 Ortona Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,214
+Glades,2:2 Ortona Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",66
+Glades,2:2 Ortona Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,1
+Glades,2:2 Ortona Comm Ctr,State Attorney,20th Judicial Circuit,REP,Amira Fox,233
+Glades,2:2 Ortona Comm Ctr,State Attorney,20th Judicial Circuit,"",WriteinVotes,9
+Glades,2:2 Ortona Comm Ctr,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,State Attorney,20th Judicial Circuit,"",UnderVotes,39
+Glades,2:2 Ortona Comm Ctr,State Senate,26,REP,Ben Albritton,214
+Glades,2:2 Ortona Comm Ctr,State Senate,26,DEM,Catherine Price,63
+Glades,2:2 Ortona Comm Ctr,State Senate,26,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,State Senate,26,"",UnderVotes,4
+Glades,2:2 Ortona Comm Ctr,State House,55,REP,Cary Pigman,212
+Glades,2:2 Ortona Comm Ctr,State House,55,DEM,Audrey Asciutto,65
+Glades,2:2 Ortona Comm Ctr,State House,55,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,State House,55,"",UnderVotes,4
+Glades,2:2 Ortona Comm Ctr,County Commissioner,2,REP,Donna Storter Long,165
+Glades,2:2 Ortona Comm Ctr,County Commissioner,2,NPA,Jeff Barnes,114
+Glades,2:2 Ortona Comm Ctr,County Commissioner,2,"",OverVotes,1
+Glades,2:2 Ortona Comm Ctr,County Commissioner,2,"",UnderVotes,1
+Glades,2:2 Ortona Comm Ctr,County Commissioner,4,REP,John R Ahern,204
+Glades,2:2 Ortona Comm Ctr,County Commissioner,4,DEM,Jerri Lynn Schlueter,77
+Glades,2:2 Ortona Comm Ctr,County Commissioner,4,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,County Commissioner,4,"",UnderVotes,0
+Glades,2:2 Ortona Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,169
+Glades,2:2 Ortona Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,83
+Glades,2:2 Ortona Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,29
+Glades,2:2 Ortona Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,164
+Glades,2:2 Ortona Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,86
+Glades,2:2 Ortona Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,31
+Glades,2:2 Ortona Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,149
+Glades,2:2 Ortona Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,95
+Glades,2:2 Ortona Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,37
+Glades,2:2 Ortona Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,154
+Glades,2:2 Ortona Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,90
+Glades,2:2 Ortona Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,37
+Glades,2:2 Ortona Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,161
+Glades,2:2 Ortona Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,83
+Glades,2:2 Ortona Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,37
+Glades,2:2 Ortona Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,148
+Glades,2:2 Ortona Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,123
+Glades,2:2 Ortona Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,10
+Glades,2:2 Ortona Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,185
+Glades,2:2 Ortona Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,88
+Glades,2:2 Ortona Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,8
+Glades,2:2 Ortona Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,191
+Glades,2:2 Ortona Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,85
+Glades,2:2 Ortona Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,5
+Glades,2:2 Ortona Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,139
+Glades,2:2 Ortona Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,135
+Glades,2:2 Ortona Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,7
+Glades,2:2 Ortona Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,191
+Glades,2:2 Ortona Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,83
+Glades,2:2 Ortona Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,7
+Glades,2:2 Ortona Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,165
+Glades,2:2 Ortona Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,105
+Glades,2:2 Ortona Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,11
+Glades,2:2 Ortona Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,175
+Glades,2:2 Ortona Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,99
+Glades,2:2 Ortona Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,7
+Glades,2:2 Ortona Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,135
+Glades,2:2 Ortona Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,136
+Glades,2:2 Ortona Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Glades,2:2 Ortona Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,9
+Glades,2:2 Ortona Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,185
+Glades,2:2 Ortona Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,87
+Glades,2:2 Ortona Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,9
+Glades,2:2 Ortona Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,151
+Glades,2:2 Ortona Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,116
+Glades,2:2 Ortona Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,14
+Glades,2:2 Ortona Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,204
+Glades,2:2 Ortona Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,67
+Glades,2:2 Ortona Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,10
+Glades,2:2 Ortona Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,128
+Glades,2:2 Ortona Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,148
+Glades,2:2 Ortona Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,2:2 Ortona Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,5
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. Senate,"",REP,Rick Scott,111
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. Senate,"",DEM,Bill Nelson,62
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",WriteinVotes,2
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",UnderVotes,2
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. House,17,REP,Greg Steube,109
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. House,17,DEM,Allen Ellison,61
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. House,17,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,U.S. House,17,"",UnderVotes,7
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"",REP,DeSantis / Nuñez,107
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"",DEM,Gillum / King,65
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"",REF,Richardson / Argenziano,2
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Gibson / Wilds,1
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Foley / Tutton,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Stanley / McJury,2
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"","",WriteinVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Governor,"","",UnderVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Attorney General,"",REP,Ashley Moody,110
+Glades,3:3 Moore Haven Doyle Conn Bldg,Attorney General,"",DEM,Sean Shaw,59
+Glades,3:3 Moore Haven Doyle Conn Bldg,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Glades,3:3 Moore Haven Doyle Conn Bldg,Attorney General,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Attorney General,"","",UnderVotes,5
+Glades,3:3 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,105
+Glades,3:3 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"",DEM,Jeremy Ring,63
+Glades,3:3 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",WriteinVotes,1
+Glades,3:3 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",UnderVotes,8
+Glades,3:3 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"",REP,Matt Caldwell,118
+Glades,3:3 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",57
+Glades,3:3 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"","",UnderVotes,2
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,REP,Amira Fox,142
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",WriteinVotes,4
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",UnderVotes,31
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Senate,26,REP,Ben Albritton,115
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Senate,26,DEM,Catherine Price,57
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Senate,26,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,State Senate,26,"",UnderVotes,5
+Glades,3:3 Moore Haven Doyle Conn Bldg,State House,55,REP,Cary Pigman,118
+Glades,3:3 Moore Haven Doyle Conn Bldg,State House,55,DEM,Audrey Asciutto,50
+Glades,3:3 Moore Haven Doyle Conn Bldg,State House,55,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,State House,55,"",UnderVotes,9
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,2,REP,Donna Storter Long,79
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,2,NPA,Jeff Barnes,94
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,2,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,2,"",UnderVotes,4
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,4,REP,John R Ahern,109
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,4,DEM,Jerri Lynn Schlueter,65
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,4,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,County Commissioner,4,"",UnderVotes,3
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,105
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,51
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,21
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,105
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,53
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,19
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,105
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,52
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,20
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,99
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,58
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,20
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,102
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,56
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,19
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,88
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,86
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,3
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,108
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,58
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,11
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,116
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,57
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,4
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,100
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,71
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,6
+Glades,3:3 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,105
+Glades,3:3 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,62
+Glades,3:3 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,10
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,117
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,53
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,7
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,134
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,35
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,8
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,83
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,86
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,8
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,122
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,45
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,10
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,94
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,72
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,11
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,126
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,42
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,9
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,62
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,106
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,3:3 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,9
+Glades,4:4 Palmdale Comm Ctr,U.S. Senate,"",REP,Rick Scott,98
+Glades,4:4 Palmdale Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,30
+Glades,4:4 Palmdale Comm Ctr,U.S. Senate,"","",WriteinVotes,0
+Glades,4:4 Palmdale Comm Ctr,U.S. Senate,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,U.S. Senate,"","",UnderVotes,1
+Glades,4:4 Palmdale Comm Ctr,U.S. House,17,REP,Greg Steube,101
+Glades,4:4 Palmdale Comm Ctr,U.S. House,17,DEM,Allen Ellison,26
+Glades,4:4 Palmdale Comm Ctr,U.S. House,17,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,U.S. House,17,"",UnderVotes,2
+Glades,4:4 Palmdale Comm Ctr,Governor,"",REP,DeSantis / Nuñez,95
+Glades,4:4 Palmdale Comm Ctr,Governor,"",DEM,Gillum / King,21
+Glades,4:4 Palmdale Comm Ctr,Governor,"",REF,Richardson / Argenziano,7
+Glades,4:4 Palmdale Comm Ctr,Governor,"",NPA,Gibson / Wilds,3
+Glades,4:4 Palmdale Comm Ctr,Governor,"",NPA,Foley / Tutton,1
+Glades,4:4 Palmdale Comm Ctr,Governor,"",NPA,Stanley / McJury,0
+Glades,4:4 Palmdale Comm Ctr,Governor,"","",WriteinVotes,1
+Glades,4:4 Palmdale Comm Ctr,Governor,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Governor,"","",UnderVotes,1
+Glades,4:4 Palmdale Comm Ctr,Attorney General,"",REP,Ashley Moody,104
+Glades,4:4 Palmdale Comm Ctr,Attorney General,"",DEM,Sean Shaw,18
+Glades,4:4 Palmdale Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Glades,4:4 Palmdale Comm Ctr,Attorney General,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Attorney General,"","",UnderVotes,3
+Glades,4:4 Palmdale Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,101
+Glades,4:4 Palmdale Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,23
+Glades,4:4 Palmdale Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Glades,4:4 Palmdale Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Chief Financial Officer,"","",UnderVotes,5
+Glades,4:4 Palmdale Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,109
+Glades,4:4 Palmdale Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",19
+Glades,4:4 Palmdale Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,1
+Glades,4:4 Palmdale Comm Ctr,State Attorney,20th Judicial Circuit,REP,Amira Fox,110
+Glades,4:4 Palmdale Comm Ctr,State Attorney,20th Judicial Circuit,"",WriteinVotes,0
+Glades,4:4 Palmdale Comm Ctr,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,State Attorney,20th Judicial Circuit,"",UnderVotes,19
+Glades,4:4 Palmdale Comm Ctr,State Senate,26,REP,Ben Albritton,106
+Glades,4:4 Palmdale Comm Ctr,State Senate,26,DEM,Catherine Price,19
+Glades,4:4 Palmdale Comm Ctr,State Senate,26,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,State Senate,26,"",UnderVotes,4
+Glades,4:4 Palmdale Comm Ctr,State House,55,REP,Cary Pigman,102
+Glades,4:4 Palmdale Comm Ctr,State House,55,DEM,Audrey Asciutto,22
+Glades,4:4 Palmdale Comm Ctr,State House,55,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,State House,55,"",UnderVotes,5
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,2,REP,Donna Storter Long,66
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,2,NPA,Jeff Barnes,60
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,2,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,2,"",UnderVotes,3
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,4,REP,John R Ahern,96
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,4,DEM,Jerri Lynn Schlueter,30
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,4,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,County Commissioner,4,"",UnderVotes,3
+Glades,4:4 Palmdale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,57
+Glades,4:4 Palmdale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,48
+Glades,4:4 Palmdale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,24
+Glades,4:4 Palmdale Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,63
+Glades,4:4 Palmdale Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,44
+Glades,4:4 Palmdale Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,22
+Glades,4:4 Palmdale Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,58
+Glades,4:4 Palmdale Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,46
+Glades,4:4 Palmdale Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,25
+Glades,4:4 Palmdale Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,58
+Glades,4:4 Palmdale Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,47
+Glades,4:4 Palmdale Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,24
+Glades,4:4 Palmdale Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,54
+Glades,4:4 Palmdale Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,50
+Glades,4:4 Palmdale Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,25
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,64
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,63
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,2
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,85
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,42
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,2
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,70
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,56
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,3
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,61
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,65
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,3
+Glades,4:4 Palmdale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,67
+Glades,4:4 Palmdale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,58
+Glades,4:4 Palmdale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,4
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,71
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,53
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,5
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,76
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,49
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,4
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,52
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,71
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,6
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,78
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,44
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,7
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,66
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,56
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,7
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,78
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,46
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,5
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,41
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,82
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,4:4 Palmdale Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,6
+Glades,5:5 Muse Comm Ctr,U.S. Senate,"",REP,Rick Scott,505
+Glades,5:5 Muse Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,140
+Glades,5:5 Muse Comm Ctr,U.S. Senate,"","",WriteinVotes,1
+Glades,5:5 Muse Comm Ctr,U.S. Senate,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,U.S. Senate,"","",UnderVotes,3
+Glades,5:5 Muse Comm Ctr,U.S. House,17,REP,Greg Steube,490
+Glades,5:5 Muse Comm Ctr,U.S. House,17,DEM,Allen Ellison,146
+Glades,5:5 Muse Comm Ctr,U.S. House,17,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,U.S. House,17,"",UnderVotes,13
+Glades,5:5 Muse Comm Ctr,Governor,"",REP,DeSantis / Nuñez,506
+Glades,5:5 Muse Comm Ctr,Governor,"",DEM,Gillum / King,125
+Glades,5:5 Muse Comm Ctr,Governor,"",REF,Richardson / Argenziano,4
+Glades,5:5 Muse Comm Ctr,Governor,"",NPA,Gibson / Wilds,4
+Glades,5:5 Muse Comm Ctr,Governor,"",NPA,Foley / Tutton,6
+Glades,5:5 Muse Comm Ctr,Governor,"",NPA,Stanley / McJury,0
+Glades,5:5 Muse Comm Ctr,Governor,"","",WriteinVotes,0
+Glades,5:5 Muse Comm Ctr,Governor,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Governor,"","",UnderVotes,4
+Glades,5:5 Muse Comm Ctr,Attorney General,"",REP,Ashley Moody,508
+Glades,5:5 Muse Comm Ctr,Attorney General,"",DEM,Sean Shaw,122
+Glades,5:5 Muse Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,13
+Glades,5:5 Muse Comm Ctr,Attorney General,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Attorney General,"","",UnderVotes,6
+Glades,5:5 Muse Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,499
+Glades,5:5 Muse Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,131
+Glades,5:5 Muse Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Glades,5:5 Muse Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Chief Financial Officer,"","",UnderVotes,19
+Glades,5:5 Muse Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,520
+Glades,5:5 Muse Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",123
+Glades,5:5 Muse Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,6
+Glades,5:5 Muse Comm Ctr,State Attorney,20th Judicial Circuit,REP,Amira Fox,542
+Glades,5:5 Muse Comm Ctr,State Attorney,20th Judicial Circuit,"",WriteinVotes,16
+Glades,5:5 Muse Comm Ctr,State Attorney,20th Judicial Circuit,"",OverVotes,1
+Glades,5:5 Muse Comm Ctr,State Attorney,20th Judicial Circuit,"",UnderVotes,90
+Glades,5:5 Muse Comm Ctr,State Senate,26,REP,Ben Albritton,495
+Glades,5:5 Muse Comm Ctr,State Senate,26,DEM,Catherine Price,142
+Glades,5:5 Muse Comm Ctr,State Senate,26,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,State Senate,26,"",UnderVotes,12
+Glades,5:5 Muse Comm Ctr,State House,55,REP,Cary Pigman,484
+Glades,5:5 Muse Comm Ctr,State House,55,DEM,Audrey Asciutto,149
+Glades,5:5 Muse Comm Ctr,State House,55,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,State House,55,"",UnderVotes,16
+Glades,5:5 Muse Comm Ctr,County Commissioner,2,REP,Donna Storter Long,451
+Glades,5:5 Muse Comm Ctr,County Commissioner,2,NPA,Jeff Barnes,178
+Glades,5:5 Muse Comm Ctr,County Commissioner,2,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,County Commissioner,2,"",UnderVotes,20
+Glades,5:5 Muse Comm Ctr,County Commissioner,4,REP,John R Ahern,480
+Glades,5:5 Muse Comm Ctr,County Commissioner,4,DEM,Jerri Lynn Schlueter,152
+Glades,5:5 Muse Comm Ctr,County Commissioner,4,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,County Commissioner,4,"",UnderVotes,17
+Glades,5:5 Muse Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,411
+Glades,5:5 Muse Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,157
+Glades,5:5 Muse Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Glades,5:5 Muse Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,80
+Glades,5:5 Muse Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,389
+Glades,5:5 Muse Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,180
+Glades,5:5 Muse Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,80
+Glades,5:5 Muse Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,356
+Glades,5:5 Muse Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,210
+Glades,5:5 Muse Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,83
+Glades,5:5 Muse Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,368
+Glades,5:5 Muse Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,196
+Glades,5:5 Muse Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,1
+Glades,5:5 Muse Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,84
+Glades,5:5 Muse Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,375
+Glades,5:5 Muse Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,195
+Glades,5:5 Muse Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,79
+Glades,5:5 Muse Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,420
+Glades,5:5 Muse Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,210
+Glades,5:5 Muse Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,19
+Glades,5:5 Muse Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,468
+Glades,5:5 Muse Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,160
+Glades,5:5 Muse Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,21
+Glades,5:5 Muse Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,441
+Glades,5:5 Muse Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,197
+Glades,5:5 Muse Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Glades,5:5 Muse Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,320
+Glades,5:5 Muse Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,320
+Glades,5:5 Muse Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,9
+Glades,5:5 Muse Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,493
+Glades,5:5 Muse Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,137
+Glades,5:5 Muse Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,19
+Glades,5:5 Muse Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,426
+Glades,5:5 Muse Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,207
+Glades,5:5 Muse Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,16
+Glades,5:5 Muse Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,430
+Glades,5:5 Muse Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,200
+Glades,5:5 Muse Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Glades,5:5 Muse Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,337
+Glades,5:5 Muse Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,286
+Glades,5:5 Muse Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Glades,5:5 Muse Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Glades,5:5 Muse Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,447
+Glades,5:5 Muse Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,174
+Glades,5:5 Muse Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,28
+Glades,5:5 Muse Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,335
+Glades,5:5 Muse Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,273
+Glades,5:5 Muse Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,41
+Glades,5:5 Muse Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,491
+Glades,5:5 Muse Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,137
+Glades,5:5 Muse Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Glades,5:5 Muse Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,298
+Glades,5:5 Muse Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,332
+Glades,5:5 Muse Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,5:5 Muse Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,19
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. Senate,"",REP,Rick Scott,103
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. Senate,"",DEM,Bill Nelson,194
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",WriteinVotes,1
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",UnderVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. House,17,REP,Greg Steube,87
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. House,17,DEM,Allen Ellison,204
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. House,17,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,U.S. House,17,"",UnderVotes,7
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"",REP,DeSantis / Nuñez,90
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"",DEM,Gillum / King,198
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"",REF,Richardson / Argenziano,2
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Gibson / Wilds,2
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Foley / Tutton,1
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Stanley / McJury,1
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"","",WriteinVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Governor,"","",UnderVotes,4
+Glades,6:6 Moore Haven Doyle Conn Bldg,Attorney General,"",REP,Ashley Moody,101
+Glades,6:6 Moore Haven Doyle Conn Bldg,Attorney General,"",DEM,Sean Shaw,187
+Glades,6:6 Moore Haven Doyle Conn Bldg,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Glades,6:6 Moore Haven Doyle Conn Bldg,Attorney General,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Attorney General,"","",UnderVotes,4
+Glades,6:6 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,90
+Glades,6:6 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"",DEM,Jeremy Ring,198
+Glades,6:6 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",WriteinVotes,2
+Glades,6:6 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",UnderVotes,8
+Glades,6:6 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"",REP,Matt Caldwell,99
+Glades,6:6 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",196
+Glades,6:6 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"","",UnderVotes,3
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,REP,Amira Fox,192
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",WriteinVotes,9
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",UnderVotes,97
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Senate,26,REP,Ben Albritton,89
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Senate,26,DEM,Catherine Price,202
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Senate,26,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,State Senate,26,"",UnderVotes,7
+Glades,6:6 Moore Haven Doyle Conn Bldg,State House,55,REP,Cary Pigman,92
+Glades,6:6 Moore Haven Doyle Conn Bldg,State House,55,DEM,Audrey Asciutto,196
+Glades,6:6 Moore Haven Doyle Conn Bldg,State House,55,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,State House,55,"",UnderVotes,10
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,2,REP,Donna Storter Long,127
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,2,NPA,Jeff Barnes,143
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,2,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,2,"",UnderVotes,28
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,4,REP,John R Ahern,133
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,4,DEM,Jerri Lynn Schlueter,162
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,4,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,County Commissioner,4,"",UnderVotes,3
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,166
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,98
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,34
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,165
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,97
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,36
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,157
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,103
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,38
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,160
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,101
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,37
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,156
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,105
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,37
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,143
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,143
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,12
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,173
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,110
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,211
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,81
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,6
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,205
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,84
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,9
+Glades,6:6 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,170
+Glades,6:6 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,115
+Glades,6:6 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,13
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,203
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,85
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,10
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,222
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,63
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,13
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,167
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,117
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,14
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,207
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,76
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,15
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,182
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,97
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,19
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,206
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,74
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,18
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,149
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,136
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,6:6 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,13
+Glades,7:7 Lakeport Comm Ctr,U.S. Senate,"",REP,Rick Scott,328
+Glades,7:7 Lakeport Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,104
+Glades,7:7 Lakeport Comm Ctr,U.S. Senate,"","",WriteinVotes,1
+Glades,7:7 Lakeport Comm Ctr,U.S. Senate,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,U.S. Senate,"","",UnderVotes,6
+Glades,7:7 Lakeport Comm Ctr,U.S. House,17,REP,Greg Steube,314
+Glades,7:7 Lakeport Comm Ctr,U.S. House,17,DEM,Allen Ellison,116
+Glades,7:7 Lakeport Comm Ctr,U.S. House,17,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,U.S. House,17,"",UnderVotes,9
+Glades,7:7 Lakeport Comm Ctr,Governor,"",REP,DeSantis / Nuñez,328
+Glades,7:7 Lakeport Comm Ctr,Governor,"",DEM,Gillum / King,97
+Glades,7:7 Lakeport Comm Ctr,Governor,"",REF,Richardson / Argenziano,1
+Glades,7:7 Lakeport Comm Ctr,Governor,"",NPA,Gibson / Wilds,0
+Glades,7:7 Lakeport Comm Ctr,Governor,"",NPA,Foley / Tutton,2
+Glades,7:7 Lakeport Comm Ctr,Governor,"",NPA,Stanley / McJury,6
+Glades,7:7 Lakeport Comm Ctr,Governor,"","",WriteinVotes,1
+Glades,7:7 Lakeport Comm Ctr,Governor,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Governor,"","",UnderVotes,4
+Glades,7:7 Lakeport Comm Ctr,Attorney General,"",REP,Ashley Moody,322
+Glades,7:7 Lakeport Comm Ctr,Attorney General,"",DEM,Sean Shaw,103
+Glades,7:7 Lakeport Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,7
+Glades,7:7 Lakeport Comm Ctr,Attorney General,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Attorney General,"","",UnderVotes,7
+Glades,7:7 Lakeport Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,311
+Glades,7:7 Lakeport Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,113
+Glades,7:7 Lakeport Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Glades,7:7 Lakeport Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Chief Financial Officer,"","",UnderVotes,15
+Glades,7:7 Lakeport Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,330
+Glades,7:7 Lakeport Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",103
+Glades,7:7 Lakeport Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,6
+Glades,7:7 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,REP,Amira Fox,365
+Glades,7:7 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",WriteinVotes,6
+Glades,7:7 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",UnderVotes,68
+Glades,7:7 Lakeport Comm Ctr,State Senate,26,REP,Ben Albritton,316
+Glades,7:7 Lakeport Comm Ctr,State Senate,26,DEM,Catherine Price,119
+Glades,7:7 Lakeport Comm Ctr,State Senate,26,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,State Senate,26,"",UnderVotes,4
+Glades,7:7 Lakeport Comm Ctr,State House,55,REP,Cary Pigman,322
+Glades,7:7 Lakeport Comm Ctr,State House,55,DEM,Audrey Asciutto,107
+Glades,7:7 Lakeport Comm Ctr,State House,55,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,State House,55,"",UnderVotes,10
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,2,REP,Donna Storter Long,267
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,2,NPA,Jeff Barnes,153
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,2,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,2,"",UnderVotes,19
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,4,REP,John R Ahern,292
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,4,DEM,Jerri Lynn Schlueter,131
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,4,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,County Commissioner,4,"",UnderVotes,16
+Glades,7:7 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,246
+Glades,7:7 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,123
+Glades,7:7 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,70
+Glades,7:7 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,234
+Glades,7:7 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,138
+Glades,7:7 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,67
+Glades,7:7 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,225
+Glades,7:7 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,147
+Glades,7:7 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,67
+Glades,7:7 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,243
+Glades,7:7 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,128
+Glades,7:7 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,68
+Glades,7:7 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,244
+Glades,7:7 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,129
+Glades,7:7 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,66
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,237
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,188
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,14
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,296
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,126
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,17
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,322
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,109
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,8
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,206
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,227
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,6
+Glades,7:7 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,330
+Glades,7:7 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,96
+Glades,7:7 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,13
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,313
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,114
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,12
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,303
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,112
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,205
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,217
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,17
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,295
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,118
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,26
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,240
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,165
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,34
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,342
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,74
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,23
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,211
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,212
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,7:7 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. Senate,"",REP,Rick Scott,499
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,197
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. Senate,"","",WriteinVotes,4
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. Senate,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. Senate,"","",UnderVotes,2
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. House,17,REP,Greg Steube,483
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. House,17,DEM,Allen Ellison,199
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. House,17,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,U.S. House,17,"",UnderVotes,20
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"",REP,DeSantis / Nuñez,494
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"",DEM,Gillum / King,179
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"",REF,Richardson / Argenziano,4
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"",NPA,Gibson / Wilds,6
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"",NPA,Foley / Tutton,2
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"",NPA,Stanley / McJury,7
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"","",WriteinVotes,1
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"","",OverVotes,1
+Glades,8:8 Buckhead Ridge Comm Ctr,Governor,"","",UnderVotes,8
+Glades,8:8 Buckhead Ridge Comm Ctr,Attorney General,"",REP,Ashley Moody,513
+Glades,8:8 Buckhead Ridge Comm Ctr,Attorney General,"",DEM,Sean Shaw,164
+Glades,8:8 Buckhead Ridge Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Glades,8:8 Buckhead Ridge Comm Ctr,Attorney General,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Attorney General,"","",UnderVotes,15
+Glades,8:8 Buckhead Ridge Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,499
+Glades,8:8 Buckhead Ridge Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,179
+Glades,8:8 Buckhead Ridge Comm Ctr,Chief Financial Officer,"","",WriteinVotes,1
+Glades,8:8 Buckhead Ridge Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Chief Financial Officer,"","",UnderVotes,23
+Glades,8:8 Buckhead Ridge Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,497
+Glades,8:8 Buckhead Ridge Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",189
+Glades,8:8 Buckhead Ridge Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,16
+Glades,8:8 Buckhead Ridge Comm Ctr,State Attorney,20th Judicial Circuit,REP,Amira Fox,570
+Glades,8:8 Buckhead Ridge Comm Ctr,State Attorney,20th Judicial Circuit,"",WriteinVotes,10
+Glades,8:8 Buckhead Ridge Comm Ctr,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,State Attorney,20th Judicial Circuit,"",UnderVotes,122
+Glades,8:8 Buckhead Ridge Comm Ctr,State Senate,26,REP,Ben Albritton,494
+Glades,8:8 Buckhead Ridge Comm Ctr,State Senate,26,DEM,Catherine Price,188
+Glades,8:8 Buckhead Ridge Comm Ctr,State Senate,26,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,State Senate,26,"",UnderVotes,20
+Glades,8:8 Buckhead Ridge Comm Ctr,State House,55,REP,Cary Pigman,491
+Glades,8:8 Buckhead Ridge Comm Ctr,State House,55,DEM,Audrey Asciutto,187
+Glades,8:8 Buckhead Ridge Comm Ctr,State House,55,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,State House,55,"",UnderVotes,24
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,2,REP,Donna Storter Long,498
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,2,NPA,Jeff Barnes,173
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,2,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,2,"",UnderVotes,31
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,4,REP,John R Ahern,507
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,4,DEM,Jerri Lynn Schlueter,177
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,4,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,County Commissioner,4,"",UnderVotes,18
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,456
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,153
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,93
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,435
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,173
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,94
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,433
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,170
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,99
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,434
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,162
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,106
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,416
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,184
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,102
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,396
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,289
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,17
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,500
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,167
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,35
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,462
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,224
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,16
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,340
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,346
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,15
+Glades,8:8 Buckhead Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,519
+Glades,8:8 Buckhead Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,161
+Glades,8:8 Buckhead Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,22
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,458
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,218
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,26
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,474
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,199
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,29
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,359
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,315
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,28
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,485
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,174
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,43
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,388
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,255
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,59
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,520
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,145
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,37
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,357
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,322
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,8:8 Buckhead Ridge Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,23
+Glades,9:9 Lakeport Comm Ctr,U.S. Senate,"",REP,Rick Scott,73
+Glades,9:9 Lakeport Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,14
+Glades,9:9 Lakeport Comm Ctr,U.S. Senate,"","",WriteinVotes,0
+Glades,9:9 Lakeport Comm Ctr,U.S. Senate,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,U.S. Senate,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,U.S. House,17,REP,Greg Steube,74
+Glades,9:9 Lakeport Comm Ctr,U.S. House,17,DEM,Allen Ellison,12
+Glades,9:9 Lakeport Comm Ctr,U.S. House,17,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,U.S. House,17,"",UnderVotes,2
+Glades,9:9 Lakeport Comm Ctr,Governor,"",REP,DeSantis / Nuñez,76
+Glades,9:9 Lakeport Comm Ctr,Governor,"",DEM,Gillum / King,10
+Glades,9:9 Lakeport Comm Ctr,Governor,"",REF,Richardson / Argenziano,1
+Glades,9:9 Lakeport Comm Ctr,Governor,"",NPA,Gibson / Wilds,0
+Glades,9:9 Lakeport Comm Ctr,Governor,"",NPA,Foley / Tutton,0
+Glades,9:9 Lakeport Comm Ctr,Governor,"",NPA,Stanley / McJury,0
+Glades,9:9 Lakeport Comm Ctr,Governor,"","",WriteinVotes,0
+Glades,9:9 Lakeport Comm Ctr,Governor,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Governor,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Attorney General,"",REP,Ashley Moody,74
+Glades,9:9 Lakeport Comm Ctr,Attorney General,"",DEM,Sean Shaw,12
+Glades,9:9 Lakeport Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,0
+Glades,9:9 Lakeport Comm Ctr,Attorney General,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Attorney General,"","",UnderVotes,2
+Glades,9:9 Lakeport Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,73
+Glades,9:9 Lakeport Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,13
+Glades,9:9 Lakeport Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Glades,9:9 Lakeport Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Chief Financial Officer,"","",UnderVotes,2
+Glades,9:9 Lakeport Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,79
+Glades,9:9 Lakeport Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",8
+Glades,9:9 Lakeport Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,REP,Amira Fox,78
+Glades,9:9 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",WriteinVotes,2
+Glades,9:9 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",UnderVotes,8
+Glades,9:9 Lakeport Comm Ctr,State Senate,26,REP,Ben Albritton,74
+Glades,9:9 Lakeport Comm Ctr,State Senate,26,DEM,Catherine Price,12
+Glades,9:9 Lakeport Comm Ctr,State Senate,26,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,State Senate,26,"",UnderVotes,2
+Glades,9:9 Lakeport Comm Ctr,State House,55,REP,Cary Pigman,75
+Glades,9:9 Lakeport Comm Ctr,State House,55,DEM,Audrey Asciutto,12
+Glades,9:9 Lakeport Comm Ctr,State House,55,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,State House,55,"",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,2,REP,Donna Storter Long,69
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,2,NPA,Jeff Barnes,18
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,2,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,2,"",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,4,REP,John R Ahern,75
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,4,DEM,Jerri Lynn Schlueter,12
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,4,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,County Commissioner,4,"",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,49
+Glades,9:9 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,28
+Glades,9:9 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,11
+Glades,9:9 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,49
+Glades,9:9 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,27
+Glades,9:9 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,12
+Glades,9:9 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,46
+Glades,9:9 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,30
+Glades,9:9 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,12
+Glades,9:9 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,45
+Glades,9:9 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,31
+Glades,9:9 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,12
+Glades,9:9 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,45
+Glades,9:9 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,31
+Glades,9:9 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,12
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,56
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,31
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,68
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,19
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,65
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,23
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,35
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,53
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,0
+Glades,9:9 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,66
+Glades,9:9 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,21
+Glades,9:9 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,65
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,23
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,64
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,23
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,50
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,37
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,63
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,24
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,47
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,39
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,2
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,72
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,15
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,1
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,50
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,37
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,9:9 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,1
+Glades,10:10 Lakeport Comm Ctr,U.S. Senate,"",REP,Rick Scott,63
+Glades,10:10 Lakeport Comm Ctr,U.S. Senate,"",DEM,Bill Nelson,47
+Glades,10:10 Lakeport Comm Ctr,U.S. Senate,"","",WriteinVotes,0
+Glades,10:10 Lakeport Comm Ctr,U.S. Senate,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,U.S. Senate,"","",UnderVotes,1
+Glades,10:10 Lakeport Comm Ctr,U.S. House,17,REP,Greg Steube,56
+Glades,10:10 Lakeport Comm Ctr,U.S. House,17,DEM,Allen Ellison,52
+Glades,10:10 Lakeport Comm Ctr,U.S. House,17,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,U.S. House,17,"",UnderVotes,3
+Glades,10:10 Lakeport Comm Ctr,Governor,"",REP,DeSantis / Nuñez,51
+Glades,10:10 Lakeport Comm Ctr,Governor,"",DEM,Gillum / King,55
+Glades,10:10 Lakeport Comm Ctr,Governor,"",REF,Richardson / Argenziano,0
+Glades,10:10 Lakeport Comm Ctr,Governor,"",NPA,Gibson / Wilds,3
+Glades,10:10 Lakeport Comm Ctr,Governor,"",NPA,Foley / Tutton,0
+Glades,10:10 Lakeport Comm Ctr,Governor,"",NPA,Stanley / McJury,2
+Glades,10:10 Lakeport Comm Ctr,Governor,"","",WriteinVotes,0
+Glades,10:10 Lakeport Comm Ctr,Governor,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Governor,"","",UnderVotes,0
+Glades,10:10 Lakeport Comm Ctr,Attorney General,"",REP,Ashley Moody,56
+Glades,10:10 Lakeport Comm Ctr,Attorney General,"",DEM,Sean Shaw,48
+Glades,10:10 Lakeport Comm Ctr,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Glades,10:10 Lakeport Comm Ctr,Attorney General,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Attorney General,"","",UnderVotes,4
+Glades,10:10 Lakeport Comm Ctr,Chief Financial Officer,"",REP,Jimmy Patronis,54
+Glades,10:10 Lakeport Comm Ctr,Chief Financial Officer,"",DEM,Jeremy Ring,52
+Glades,10:10 Lakeport Comm Ctr,Chief Financial Officer,"","",WriteinVotes,0
+Glades,10:10 Lakeport Comm Ctr,Chief Financial Officer,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Chief Financial Officer,"","",UnderVotes,5
+Glades,10:10 Lakeport Comm Ctr,Commissioner of Agriculture,"",REP,Matt Caldwell,67
+Glades,10:10 Lakeport Comm Ctr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",39
+Glades,10:10 Lakeport Comm Ctr,Commissioner of Agriculture,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Commissioner of Agriculture,"","",UnderVotes,5
+Glades,10:10 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,REP,Amira Fox,85
+Glades,10:10 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",WriteinVotes,0
+Glades,10:10 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,State Attorney,20th Judicial Circuit,"",UnderVotes,26
+Glades,10:10 Lakeport Comm Ctr,State Senate,26,REP,Ben Albritton,58
+Glades,10:10 Lakeport Comm Ctr,State Senate,26,DEM,Catherine Price,48
+Glades,10:10 Lakeport Comm Ctr,State Senate,26,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,State Senate,26,"",UnderVotes,5
+Glades,10:10 Lakeport Comm Ctr,State House,55,REP,Cary Pigman,59
+Glades,10:10 Lakeport Comm Ctr,State House,55,DEM,Audrey Asciutto,48
+Glades,10:10 Lakeport Comm Ctr,State House,55,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,State House,55,"",UnderVotes,4
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,2,REP,Donna Storter Long,70
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,2,NPA,Jeff Barnes,35
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,2,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,2,"",UnderVotes,6
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,4,REP,John R Ahern,61
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,4,DEM,Jerri Lynn Schlueter,48
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,4,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,County Commissioner,4,"",UnderVotes,2
+Glades,10:10 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,63
+Glades,10:10 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,33
+Glades,10:10 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,15
+Glades,10:10 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,69
+Glades,10:10 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,29
+Glades,10:10 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,13
+Glades,10:10 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,65
+Glades,10:10 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,31
+Glades,10:10 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,15
+Glades,10:10 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,66
+Glades,10:10 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,30
+Glades,10:10 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,15
+Glades,10:10 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,68
+Glades,10:10 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,29
+Glades,10:10 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,14
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,47
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,60
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,4
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,68
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,39
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,4
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,89
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,21
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,1
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,70
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,40
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,1
+Glades,10:10 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,67
+Glades,10:10 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,38
+Glades,10:10 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,6
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,59
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,47
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,5
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,74
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,32
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,5
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,56
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,50
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,5
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,73
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,33
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,5
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,60
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,41
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,10
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,71
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,31
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,9
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,43
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,64
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,10:10 Lakeport Comm Ctr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,4
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. Senate,"",REP,Rick Scott,202
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. Senate,"",DEM,Bill Nelson,53
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",WriteinVotes,2
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. Senate,"","",UnderVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. House,17,REP,Greg Steube,202
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. House,17,DEM,Allen Ellison,49
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. House,17,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,U.S. House,17,"",UnderVotes,6
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"",REP,DeSantis / Nuñez,201
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"",DEM,Gillum / King,50
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"",REF,Richardson / Argenziano,1
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Gibson / Wilds,2
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Foley / Tutton,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"",NPA,Stanley / McJury,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"","",WriteinVotes,2
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Governor,"","",UnderVotes,1
+Glades,11:11 Moore Haven Doyle Conn Bldg,Attorney General,"",REP,Ashley Moody,202
+Glades,11:11 Moore Haven Doyle Conn Bldg,Attorney General,"",DEM,Sean Shaw,45
+Glades,11:11 Moore Haven Doyle Conn Bldg,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Glades,11:11 Moore Haven Doyle Conn Bldg,Attorney General,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Attorney General,"","",UnderVotes,6
+Glades,11:11 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,201
+Glades,11:11 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"",DEM,Jeremy Ring,46
+Glades,11:11 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",WriteinVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Chief Financial Officer,"","",UnderVotes,10
+Glades,11:11 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"",REP,Matt Caldwell,211
+Glades,11:11 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",42
+Glades,11:11 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Commissioner of Agriculture,"","",UnderVotes,4
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,REP,Amira Fox,209
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",WriteinVotes,8
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Attorney,20th Judicial Circuit,"",UnderVotes,40
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Senate,26,REP,Ben Albritton,207
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Senate,26,DEM,Catherine Price,46
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Senate,26,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,State Senate,26,"",UnderVotes,4
+Glades,11:11 Moore Haven Doyle Conn Bldg,State House,55,REP,Cary Pigman,210
+Glades,11:11 Moore Haven Doyle Conn Bldg,State House,55,DEM,Audrey Asciutto,43
+Glades,11:11 Moore Haven Doyle Conn Bldg,State House,55,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,State House,55,"",UnderVotes,4
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,2,REP,Donna Storter Long,116
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,2,NPA,Jeff Barnes,138
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,2,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,2,"",UnderVotes,3
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,4,REP,John R Ahern,188
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,4,DEM,Jerri Lynn Schlueter,67
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,4,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,County Commissioner,4,"",UnderVotes,2
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,153
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,70
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,34
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,149
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,77
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,31
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,147
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,82
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,28
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,141
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,86
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,30
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,148
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,78
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,31
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,118
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,133
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,6
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,156
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,93
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,8
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,132
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,120
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,5
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,96
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,156
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,5
+Glades,11:11 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,148
+Glades,11:11 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,100
+Glades,11:11 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,9
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,166
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,84
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,7
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,150
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,99
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,8
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,92
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,159
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,6
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,143
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,104
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,10
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,102
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,141
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,14
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,153
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,90
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,14
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,64
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,185
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,11:11 Moore Haven Doyle Conn Bldg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,8
+Glades,12:12 Washington Park,U.S. Senate,"",REP,Rick Scott,3
+Glades,12:12 Washington Park,U.S. Senate,"",DEM,Bill Nelson,87
+Glades,12:12 Washington Park,U.S. Senate,"","",WriteinVotes,1
+Glades,12:12 Washington Park,U.S. Senate,"","",OverVotes,0
+Glades,12:12 Washington Park,U.S. Senate,"","",UnderVotes,1
+Glades,12:12 Washington Park,U.S. House,17,REP,Greg Steube,1
+Glades,12:12 Washington Park,U.S. House,17,DEM,Allen Ellison,88
+Glades,12:12 Washington Park,U.S. House,17,"",OverVotes,0
+Glades,12:12 Washington Park,U.S. House,17,"",UnderVotes,3
+Glades,12:12 Washington Park,Governor,"",REP,DeSantis / Nuñez,1
+Glades,12:12 Washington Park,Governor,"",DEM,Gillum / King,91
+Glades,12:12 Washington Park,Governor,"",REF,Richardson / Argenziano,0
+Glades,12:12 Washington Park,Governor,"",NPA,Gibson / Wilds,0
+Glades,12:12 Washington Park,Governor,"",NPA,Foley / Tutton,0
+Glades,12:12 Washington Park,Governor,"",NPA,Stanley / McJury,0
+Glades,12:12 Washington Park,Governor,"","",WriteinVotes,0
+Glades,12:12 Washington Park,Governor,"","",OverVotes,0
+Glades,12:12 Washington Park,Governor,"","",UnderVotes,0
+Glades,12:12 Washington Park,Attorney General,"",REP,Ashley Moody,3
+Glades,12:12 Washington Park,Attorney General,"",DEM,Sean Shaw,87
+Glades,12:12 Washington Park,Attorney General,"",NPA,Jeffrey Marc Siskind,1
+Glades,12:12 Washington Park,Attorney General,"","",OverVotes,0
+Glades,12:12 Washington Park,Attorney General,"","",UnderVotes,1
+Glades,12:12 Washington Park,Chief Financial Officer,"",REP,Jimmy Patronis,2
+Glades,12:12 Washington Park,Chief Financial Officer,"",DEM,Jeremy Ring,89
+Glades,12:12 Washington Park,Chief Financial Officer,"","",WriteinVotes,0
+Glades,12:12 Washington Park,Chief Financial Officer,"","",OverVotes,0
+Glades,12:12 Washington Park,Chief Financial Officer,"","",UnderVotes,1
+Glades,12:12 Washington Park,Commissioner of Agriculture,"",REP,Matt Caldwell,2
+Glades,12:12 Washington Park,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",89
+Glades,12:12 Washington Park,Commissioner of Agriculture,"","",OverVotes,0
+Glades,12:12 Washington Park,Commissioner of Agriculture,"","",UnderVotes,1
+Glades,12:12 Washington Park,State Attorney,20th Judicial Circuit,REP,Amira Fox,34
+Glades,12:12 Washington Park,State Attorney,20th Judicial Circuit,"",WriteinVotes,12
+Glades,12:12 Washington Park,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,12:12 Washington Park,State Attorney,20th Judicial Circuit,"",UnderVotes,46
+Glades,12:12 Washington Park,State Senate,26,REP,Ben Albritton,1
+Glades,12:12 Washington Park,State Senate,26,DEM,Catherine Price,88
+Glades,12:12 Washington Park,State Senate,26,"",OverVotes,0
+Glades,12:12 Washington Park,State Senate,26,"",UnderVotes,3
+Glades,12:12 Washington Park,State House,55,REP,Cary Pigman,1
+Glades,12:12 Washington Park,State House,55,DEM,Audrey Asciutto,87
+Glades,12:12 Washington Park,State House,55,"",OverVotes,0
+Glades,12:12 Washington Park,State House,55,"",UnderVotes,4
+Glades,12:12 Washington Park,County Commissioner,2,REP,Donna Storter Long,32
+Glades,12:12 Washington Park,County Commissioner,2,NPA,Jeff Barnes,49
+Glades,12:12 Washington Park,County Commissioner,2,"",OverVotes,0
+Glades,12:12 Washington Park,County Commissioner,2,"",UnderVotes,11
+Glades,12:12 Washington Park,County Commissioner,4,REP,John R Ahern,16
+Glades,12:12 Washington Park,County Commissioner,4,DEM,Jerri Lynn Schlueter,73
+Glades,12:12 Washington Park,County Commissioner,4,"",OverVotes,0
+Glades,12:12 Washington Park,County Commissioner,4,"",UnderVotes,3
+Glades,12:12 Washington Park,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,45
+Glades,12:12 Washington Park,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,41
+Glades,12:12 Washington Park,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,12:12 Washington Park,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,6
+Glades,12:12 Washington Park,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,44
+Glades,12:12 Washington Park,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,40
+Glades,12:12 Washington Park,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,12:12 Washington Park,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,8
+Glades,12:12 Washington Park,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,45
+Glades,12:12 Washington Park,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,38
+Glades,12:12 Washington Park,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,12:12 Washington Park,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,9
+Glades,12:12 Washington Park,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,41
+Glades,12:12 Washington Park,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,43
+Glades,12:12 Washington Park,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,12:12 Washington Park,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,8
+Glades,12:12 Washington Park,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,51
+Glades,12:12 Washington Park,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,35
+Glades,12:12 Washington Park,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,12:12 Washington Park,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,6
+Glades,12:12 Washington Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,31
+Glades,12:12 Washington Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,59
+Glades,12:12 Washington Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,2
+Glades,12:12 Washington Park,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,50
+Glades,12:12 Washington Park,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,38
+Glades,12:12 Washington Park,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,4
+Glades,12:12 Washington Park,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,61
+Glades,12:12 Washington Park,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,29
+Glades,12:12 Washington Park,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,2
+Glades,12:12 Washington Park,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,80
+Glades,12:12 Washington Park,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,11
+Glades,12:12 Washington Park,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,1
+Glades,12:12 Washington Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,53
+Glades,12:12 Washington Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,37
+Glades,12:12 Washington Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Glades,12:12 Washington Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,2
+Glades,12:12 Washington Park,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,62
+Glades,12:12 Washington Park,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,27
+Glades,12:12 Washington Park,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,3
+Glades,12:12 Washington Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,74
+Glades,12:12 Washington Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,15
+Glades,12:12 Washington Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,3
+Glades,12:12 Washington Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,63
+Glades,12:12 Washington Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,26
+Glades,12:12 Washington Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,3
+Glades,12:12 Washington Park,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,62
+Glades,12:12 Washington Park,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,25
+Glades,12:12 Washington Park,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,5
+Glades,12:12 Washington Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,66
+Glades,12:12 Washington Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,22
+Glades,12:12 Washington Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,4
+Glades,12:12 Washington Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,60
+Glades,12:12 Washington Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,28
+Glades,12:12 Washington Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,4
+Glades,12:12 Washington Park,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,60
+Glades,12:12 Washington Park,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,31
+Glades,12:12 Washington Park,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,12:12 Washington Park,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,1
+Glades,13:13 Indian Hills FD,U.S. Senate,"",REP,Rick Scott,302
+Glades,13:13 Indian Hills FD,U.S. Senate,"",DEM,Bill Nelson,104
+Glades,13:13 Indian Hills FD,U.S. Senate,"","",WriteinVotes,2
+Glades,13:13 Indian Hills FD,U.S. Senate,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,U.S. Senate,"","",UnderVotes,5
+Glades,13:13 Indian Hills FD,U.S. House,17,REP,Greg Steube,303
+Glades,13:13 Indian Hills FD,U.S. House,17,DEM,Allen Ellison,102
+Glades,13:13 Indian Hills FD,U.S. House,17,"",OverVotes,0
+Glades,13:13 Indian Hills FD,U.S. House,17,"",UnderVotes,8
+Glades,13:13 Indian Hills FD,Governor,"",REP,DeSantis / Nuñez,305
+Glades,13:13 Indian Hills FD,Governor,"",DEM,Gillum / King,95
+Glades,13:13 Indian Hills FD,Governor,"",REF,Richardson / Argenziano,3
+Glades,13:13 Indian Hills FD,Governor,"",NPA,Gibson / Wilds,2
+Glades,13:13 Indian Hills FD,Governor,"",NPA,Foley / Tutton,1
+Glades,13:13 Indian Hills FD,Governor,"",NPA,Stanley / McJury,2
+Glades,13:13 Indian Hills FD,Governor,"","",WriteinVotes,1
+Glades,13:13 Indian Hills FD,Governor,"","",OverVotes,1
+Glades,13:13 Indian Hills FD,Governor,"","",UnderVotes,3
+Glades,13:13 Indian Hills FD,Attorney General,"",REP,Ashley Moody,305
+Glades,13:13 Indian Hills FD,Attorney General,"",DEM,Sean Shaw,93
+Glades,13:13 Indian Hills FD,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Glades,13:13 Indian Hills FD,Attorney General,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Attorney General,"","",UnderVotes,6
+Glades,13:13 Indian Hills FD,Chief Financial Officer,"",REP,Jimmy Patronis,303
+Glades,13:13 Indian Hills FD,Chief Financial Officer,"",DEM,Jeremy Ring,102
+Glades,13:13 Indian Hills FD,Chief Financial Officer,"","",WriteinVotes,0
+Glades,13:13 Indian Hills FD,Chief Financial Officer,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Chief Financial Officer,"","",UnderVotes,8
+Glades,13:13 Indian Hills FD,Commissioner of Agriculture,"",REP,Matt Caldwell,318
+Glades,13:13 Indian Hills FD,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",90
+Glades,13:13 Indian Hills FD,Commissioner of Agriculture,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Commissioner of Agriculture,"","",UnderVotes,5
+Glades,13:13 Indian Hills FD,State Attorney,20th Judicial Circuit,REP,Amira Fox,352
+Glades,13:13 Indian Hills FD,State Attorney,20th Judicial Circuit,"",WriteinVotes,12
+Glades,13:13 Indian Hills FD,State Attorney,20th Judicial Circuit,"",OverVotes,0
+Glades,13:13 Indian Hills FD,State Attorney,20th Judicial Circuit,"",UnderVotes,49
+Glades,13:13 Indian Hills FD,State Senate,26,REP,Ben Albritton,308
+Glades,13:13 Indian Hills FD,State Senate,26,DEM,Catherine Price,97
+Glades,13:13 Indian Hills FD,State Senate,26,"",OverVotes,0
+Glades,13:13 Indian Hills FD,State Senate,26,"",UnderVotes,8
+Glades,13:13 Indian Hills FD,State House,55,REP,Cary Pigman,305
+Glades,13:13 Indian Hills FD,State House,55,DEM,Audrey Asciutto,98
+Glades,13:13 Indian Hills FD,State House,55,"",OverVotes,0
+Glades,13:13 Indian Hills FD,State House,55,"",UnderVotes,10
+Glades,13:13 Indian Hills FD,County Commissioner,2,REP,Donna Storter Long,287
+Glades,13:13 Indian Hills FD,County Commissioner,2,NPA,Jeff Barnes,113
+Glades,13:13 Indian Hills FD,County Commissioner,2,"",OverVotes,0
+Glades,13:13 Indian Hills FD,County Commissioner,2,"",UnderVotes,13
+Glades,13:13 Indian Hills FD,County Commissioner,4,REP,John R Ahern,300
+Glades,13:13 Indian Hills FD,County Commissioner,4,DEM,Jerri Lynn Schlueter,107
+Glades,13:13 Indian Hills FD,County Commissioner,4,"",OverVotes,0
+Glades,13:13 Indian Hills FD,County Commissioner,4,"",UnderVotes,6
+Glades,13:13 Indian Hills FD,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,258
+Glades,13:13 Indian Hills FD,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,109
+Glades,13:13 Indian Hills FD,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Glades,13:13 Indian Hills FD,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,46
+Glades,13:13 Indian Hills FD,Retention of Anthony K. Black,Second District Court of Appeal,NOP,Yes,263
+Glades,13:13 Indian Hills FD,Retention of Anthony K. Black,Second District Court of Appeal,NOP,No,109
+Glades,13:13 Indian Hills FD,Retention of Anthony K. Black,Second District Court of Appeal,"",OverVotes,0
+Glades,13:13 Indian Hills FD,Retention of Anthony K. Black,Second District Court of Appeal,"",UnderVotes,41
+Glades,13:13 Indian Hills FD,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,Yes,231
+Glades,13:13 Indian Hills FD,Retention of Darryl C. Casanueva,Second District Court of Appeal,NOP,No,137
+Glades,13:13 Indian Hills FD,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",OverVotes,0
+Glades,13:13 Indian Hills FD,Retention of Darryl C. Casanueva,Second District Court of Appeal,"",UnderVotes,45
+Glades,13:13 Indian Hills FD,Retention of Edward C. Larose,Second District Court of Appeal,NOP,Yes,250
+Glades,13:13 Indian Hills FD,Retention of Edward C. Larose,Second District Court of Appeal,NOP,No,114
+Glades,13:13 Indian Hills FD,Retention of Edward C. Larose,Second District Court of Appeal,"",OverVotes,0
+Glades,13:13 Indian Hills FD,Retention of Edward C. Larose,Second District Court of Appeal,"",UnderVotes,49
+Glades,13:13 Indian Hills FD,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,Yes,248
+Glades,13:13 Indian Hills FD,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,NOP,No,121
+Glades,13:13 Indian Hills FD,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",OverVotes,0
+Glades,13:13 Indian Hills FD,Retention of Susan H. Rothstein-Youakim,Second District Court of Appeal,"",UnderVotes,44
+Glades,13:13 Indian Hills FD,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,253
+Glades,13:13 Indian Hills FD,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,146
+Glades,13:13 Indian Hills FD,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,14
+Glades,13:13 Indian Hills FD,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,283
+Glades,13:13 Indian Hills FD,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,117
+Glades,13:13 Indian Hills FD,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,13
+Glades,13:13 Indian Hills FD,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,283
+Glades,13:13 Indian Hills FD,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,123
+Glades,13:13 Indian Hills FD,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Glades,13:13 Indian Hills FD,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,202
+Glades,13:13 Indian Hills FD,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,208
+Glades,13:13 Indian Hills FD,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,3
+Glades,13:13 Indian Hills FD,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,296
+Glades,13:13 Indian Hills FD,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,106
+Glades,13:13 Indian Hills FD,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Glades,13:13 Indian Hills FD,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,10
+Glades,13:13 Indian Hills FD,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,279
+Glades,13:13 Indian Hills FD,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,124
+Glades,13:13 Indian Hills FD,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,10
+Glades,13:13 Indian Hills FD,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,260
+Glades,13:13 Indian Hills FD,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,144
+Glades,13:13 Indian Hills FD,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,9
+Glades,13:13 Indian Hills FD,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,221
+Glades,13:13 Indian Hills FD,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,180
+Glades,13:13 Indian Hills FD,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,12
+Glades,13:13 Indian Hills FD,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,255
+Glades,13:13 Indian Hills FD,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,138
+Glades,13:13 Indian Hills FD,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,20
+Glades,13:13 Indian Hills FD,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,207
+Glades,13:13 Indian Hills FD,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,180
+Glades,13:13 Indian Hills FD,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,26
+Glades,13:13 Indian Hills FD,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,289
+Glades,13:13 Indian Hills FD,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,103
+Glades,13:13 Indian Hills FD,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Glades,13:13 Indian Hills FD,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,202
+Glades,13:13 Indian Hills FD,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,201
+Glades,13:13 Indian Hills FD,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Glades,13:13 Indian Hills FD,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,10
+Glades,1:1 American Legion,Registered Voters,"","","",334
+Glades,10:10 Lakeport Comm Ctr,Registered Voters,"","","",237
+Glades,11:11 Moore Haven Doyle Conn Bldg,Registered Voters,"","","",388
+Glades,12:12 Washington Park,Registered Voters,"","","",153
+Glades,13:13 Indian Hills FD,Registered Voters,"","","",672
+Glades,2:2 Ortona Comm Ctr,Registered Voters,"","","",420
+Glades,3:3 Moore Haven Doyle Conn Bldg,Registered Voters,"","","",287
+Glades,4:4 Palmdale Comm Ctr,Registered Voters,"","","",234
+Glades,5:5 Muse Comm Ctr,Registered Voters,"","","",1276
+Glades,6:6 Moore Haven Doyle Conn Bldg,Registered Voters,"","","",605
+Glades,7:7 Lakeport Comm Ctr,Registered Voters,"","","",782
+Glades,8:8 Buckhead Ridge Comm Ctr,Registered Voters,"","","",1242
+Glades,9:9 Lakeport Comm Ctr,Registered Voters,"","","",154
