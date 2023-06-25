@@ -1,0 +1,1131 @@
+county,precinct,office,district,party,candidate,votes
+Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"",REP,Rick Scott,985
+Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"",DEM,Bill Nelson,303
+Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"","",WriteinVotes,7
+Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,U.S. Senate,"","",UnderVotes,10
+Dixie,1 1ST DIST. COM. BLDG,U.S. House,2,REP,Neal Dunn,1064
+Dixie,1 1ST DIST. COM. BLDG,U.S. House,2,DEM,Bob Rackleff,216
+Dixie,1 1ST DIST. COM. BLDG,U.S. House,2,"",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,U.S. House,2,"",UnderVotes,25
+Dixie,1 1ST DIST. COM. BLDG,Governor,"",REP,DeSantis / Nuñez,1042
+Dixie,1 1ST DIST. COM. BLDG,Governor,"",DEM,Gillum / King,225
+Dixie,1 1ST DIST. COM. BLDG,Governor,"",REF,Richardson / Argenziano,19
+Dixie,1 1ST DIST. COM. BLDG,Governor,"",NPA,Gibson / Wilds,5
+Dixie,1 1ST DIST. COM. BLDG,Governor,"",NPA,Foley / Tutton,3
+Dixie,1 1ST DIST. COM. BLDG,Governor,"",NPA,Stanley / McJury,2
+Dixie,1 1ST DIST. COM. BLDG,Governor,"","",WriteinVotes,1
+Dixie,1 1ST DIST. COM. BLDG,Governor,"","",OverVotes,4
+Dixie,1 1ST DIST. COM. BLDG,Governor,"","",UnderVotes,4
+Dixie,1 1ST DIST. COM. BLDG,Attorney General,"",REP,Ashley Moody,1068
+Dixie,1 1ST DIST. COM. BLDG,Attorney General,"",DEM,Sean Shaw,210
+Dixie,1 1ST DIST. COM. BLDG,Attorney General,"",NPA,Jeffrey Marc Siskind,16
+Dixie,1 1ST DIST. COM. BLDG,Attorney General,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Attorney General,"","",UnderVotes,11
+Dixie,1 1ST DIST. COM. BLDG,Chief Financial Officer,"",REP,Jimmy Patronis,1032
+Dixie,1 1ST DIST. COM. BLDG,Chief Financial Officer,"",DEM,Jeremy Ring,246
+Dixie,1 1ST DIST. COM. BLDG,Chief Financial Officer,"","",WriteinVotes,1
+Dixie,1 1ST DIST. COM. BLDG,Chief Financial Officer,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Chief Financial Officer,"","",UnderVotes,26
+Dixie,1 1ST DIST. COM. BLDG,Commissioner of Agriculture,"",REP,Matt Caldwell,1055
+Dixie,1 1ST DIST. COM. BLDG,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",232
+Dixie,1 1ST DIST. COM. BLDG,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Commissioner of Agriculture,"","",UnderVotes,18
+Dixie,1 1ST DIST. COM. BLDG,State House,21,REP,Chuck Clemons,1089
+Dixie,1 1ST DIST. COM. BLDG,State House,21,DEM,Jason Lee Haeseler,204
+Dixie,1 1ST DIST. COM. BLDG,State House,21,"",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,State House,21,"",UnderVotes,12
+Dixie,1 1ST DIST. COM. BLDG,County Commissioner,4,NPA,Jamie Storey,747
+Dixie,1 1ST DIST. COM. BLDG,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",499
+Dixie,1 1ST DIST. COM. BLDG,County Commissioner,4,"",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,County Commissioner,4,"",UnderVotes,59
+Dixie,1 1ST DIST. COM. BLDG,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,754
+Dixie,1 1ST DIST. COM. BLDG,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,427
+Dixie,1 1ST DIST. COM. BLDG,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,124
+Dixie,1 1ST DIST. COM. BLDG,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,748
+Dixie,1 1ST DIST. COM. BLDG,Retention of Harvey Jay,First District Court of Appeal,NOP,No,424
+Dixie,1 1ST DIST. COM. BLDG,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,133
+Dixie,1 1ST DIST. COM. BLDG,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,763
+Dixie,1 1ST DIST. COM. BLDG,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,412
+Dixie,1 1ST DIST. COM. BLDG,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Dixie,1 1ST DIST. COM. BLDG,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,129
+Dixie,1 1ST DIST. COM. BLDG,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,742
+Dixie,1 1ST DIST. COM. BLDG,Retention of Brad Thomas,First District Court of Appeal,NOP,No,429
+Dixie,1 1ST DIST. COM. BLDG,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Dixie,1 1ST DIST. COM. BLDG,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,133
+Dixie,1 1ST DIST. COM. BLDG,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,739
+Dixie,1 1ST DIST. COM. BLDG,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,429
+Dixie,1 1ST DIST. COM. BLDG,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,137
+Dixie,1 1ST DIST. COM. BLDG,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,746
+Dixie,1 1ST DIST. COM. BLDG,Retention of Allen Winsor,First District Court of Appeal,NOP,No,429
+Dixie,1 1ST DIST. COM. BLDG,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,130
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,736
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,528
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,40
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,882
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,370
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,53
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,923
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,350
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,32
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,650
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,613
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,41
+Dixie,1 1ST DIST. COM. BLDG,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,914
+Dixie,1 1ST DIST. COM. BLDG,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,341
+Dixie,1 1ST DIST. COM. BLDG,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,50
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,854
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,404
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,46
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,889
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,354
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,62
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,622
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,620
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,3
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,60
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,895
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,347
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,63
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,691
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,509
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,105
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,960
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,292
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,53
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,530
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,734
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Dixie,1 1ST DIST. COM. BLDG,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,41
+Dixie,2 MASONIC LODGE,U.S. Senate,"",REP,Rick Scott,210
+Dixie,2 MASONIC LODGE,U.S. Senate,"",DEM,Bill Nelson,64
+Dixie,2 MASONIC LODGE,U.S. Senate,"","",WriteinVotes,1
+Dixie,2 MASONIC LODGE,U.S. Senate,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,U.S. Senate,"","",UnderVotes,6
+Dixie,2 MASONIC LODGE,U.S. House,2,REP,Neal Dunn,232
+Dixie,2 MASONIC LODGE,U.S. House,2,DEM,Bob Rackleff,41
+Dixie,2 MASONIC LODGE,U.S. House,2,"",OverVotes,0
+Dixie,2 MASONIC LODGE,U.S. House,2,"",UnderVotes,8
+Dixie,2 MASONIC LODGE,Governor,"",REP,DeSantis / Nuñez,227
+Dixie,2 MASONIC LODGE,Governor,"",DEM,Gillum / King,45
+Dixie,2 MASONIC LODGE,Governor,"",REF,Richardson / Argenziano,1
+Dixie,2 MASONIC LODGE,Governor,"",NPA,Gibson / Wilds,1
+Dixie,2 MASONIC LODGE,Governor,"",NPA,Foley / Tutton,1
+Dixie,2 MASONIC LODGE,Governor,"",NPA,Stanley / McJury,1
+Dixie,2 MASONIC LODGE,Governor,"","",WriteinVotes,0
+Dixie,2 MASONIC LODGE,Governor,"","",OverVotes,2
+Dixie,2 MASONIC LODGE,Governor,"","",UnderVotes,3
+Dixie,2 MASONIC LODGE,Attorney General,"",REP,Ashley Moody,233
+Dixie,2 MASONIC LODGE,Attorney General,"",DEM,Sean Shaw,36
+Dixie,2 MASONIC LODGE,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Dixie,2 MASONIC LODGE,Attorney General,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Attorney General,"","",UnderVotes,8
+Dixie,2 MASONIC LODGE,Chief Financial Officer,"",REP,Jimmy Patronis,228
+Dixie,2 MASONIC LODGE,Chief Financial Officer,"",DEM,Jeremy Ring,40
+Dixie,2 MASONIC LODGE,Chief Financial Officer,"","",WriteinVotes,1
+Dixie,2 MASONIC LODGE,Chief Financial Officer,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Chief Financial Officer,"","",UnderVotes,12
+Dixie,2 MASONIC LODGE,Commissioner of Agriculture,"",REP,Matt Caldwell,232
+Dixie,2 MASONIC LODGE,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",39
+Dixie,2 MASONIC LODGE,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Commissioner of Agriculture,"","",UnderVotes,10
+Dixie,2 MASONIC LODGE,State House,21,REP,Chuck Clemons,242
+Dixie,2 MASONIC LODGE,State House,21,DEM,Jason Lee Haeseler,33
+Dixie,2 MASONIC LODGE,State House,21,"",OverVotes,0
+Dixie,2 MASONIC LODGE,State House,21,"",UnderVotes,6
+Dixie,2 MASONIC LODGE,County Commissioner,4,NPA,Jamie Storey,153
+Dixie,2 MASONIC LODGE,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",117
+Dixie,2 MASONIC LODGE,County Commissioner,4,"",OverVotes,0
+Dixie,2 MASONIC LODGE,County Commissioner,4,"",UnderVotes,11
+Dixie,2 MASONIC LODGE,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,151
+Dixie,2 MASONIC LODGE,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,99
+Dixie,2 MASONIC LODGE,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,2 MASONIC LODGE,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,31
+Dixie,2 MASONIC LODGE,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,145
+Dixie,2 MASONIC LODGE,Retention of Harvey Jay,First District Court of Appeal,NOP,No,103
+Dixie,2 MASONIC LODGE,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,2 MASONIC LODGE,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,33
+Dixie,2 MASONIC LODGE,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,143
+Dixie,2 MASONIC LODGE,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,103
+Dixie,2 MASONIC LODGE,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,2 MASONIC LODGE,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,35
+Dixie,2 MASONIC LODGE,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,146
+Dixie,2 MASONIC LODGE,Retention of Brad Thomas,First District Court of Appeal,NOP,No,100
+Dixie,2 MASONIC LODGE,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,2 MASONIC LODGE,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,35
+Dixie,2 MASONIC LODGE,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,147
+Dixie,2 MASONIC LODGE,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,100
+Dixie,2 MASONIC LODGE,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,2 MASONIC LODGE,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,34
+Dixie,2 MASONIC LODGE,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,146
+Dixie,2 MASONIC LODGE,Retention of Allen Winsor,First District Court of Appeal,NOP,No,102
+Dixie,2 MASONIC LODGE,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,2 MASONIC LODGE,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,33
+Dixie,2 MASONIC LODGE,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,146
+Dixie,2 MASONIC LODGE,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,119
+Dixie,2 MASONIC LODGE,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Dixie,2 MASONIC LODGE,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,164
+Dixie,2 MASONIC LODGE,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,95
+Dixie,2 MASONIC LODGE,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,22
+Dixie,2 MASONIC LODGE,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,171
+Dixie,2 MASONIC LODGE,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,89
+Dixie,2 MASONIC LODGE,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,21
+Dixie,2 MASONIC LODGE,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,120
+Dixie,2 MASONIC LODGE,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,143
+Dixie,2 MASONIC LODGE,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,18
+Dixie,2 MASONIC LODGE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,155
+Dixie,2 MASONIC LODGE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,101
+Dixie,2 MASONIC LODGE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Dixie,2 MASONIC LODGE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,25
+Dixie,2 MASONIC LODGE,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,155
+Dixie,2 MASONIC LODGE,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,105
+Dixie,2 MASONIC LODGE,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,21
+Dixie,2 MASONIC LODGE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,167
+Dixie,2 MASONIC LODGE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,95
+Dixie,2 MASONIC LODGE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Dixie,2 MASONIC LODGE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,116
+Dixie,2 MASONIC LODGE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,139
+Dixie,2 MASONIC LODGE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,26
+Dixie,2 MASONIC LODGE,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,170
+Dixie,2 MASONIC LODGE,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,87
+Dixie,2 MASONIC LODGE,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Dixie,2 MASONIC LODGE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,109
+Dixie,2 MASONIC LODGE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,142
+Dixie,2 MASONIC LODGE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,30
+Dixie,2 MASONIC LODGE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,167
+Dixie,2 MASONIC LODGE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,89
+Dixie,2 MASONIC LODGE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,25
+Dixie,2 MASONIC LODGE,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,83
+Dixie,2 MASONIC LODGE,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,176
+Dixie,2 MASONIC LODGE,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Dixie,2 MASONIC LODGE,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,22
+Dixie,4 Old Town CTR,U.S. Senate,"",REP,Rick Scott,1204
+Dixie,4 Old Town CTR,U.S. Senate,"",DEM,Bill Nelson,356
+Dixie,4 Old Town CTR,U.S. Senate,"","",WriteinVotes,6
+Dixie,4 Old Town CTR,U.S. Senate,"","",OverVotes,1
+Dixie,4 Old Town CTR,U.S. Senate,"","",UnderVotes,11
+Dixie,4 Old Town CTR,U.S. House,2,REP,Neal Dunn,1276
+Dixie,4 Old Town CTR,U.S. House,2,DEM,Bob Rackleff,278
+Dixie,4 Old Town CTR,U.S. House,2,"",OverVotes,0
+Dixie,4 Old Town CTR,U.S. House,2,"",UnderVotes,24
+Dixie,4 Old Town CTR,Governor,"",REP,DeSantis / Nuñez,1241
+Dixie,4 Old Town CTR,Governor,"",DEM,Gillum / King,266
+Dixie,4 Old Town CTR,Governor,"",REF,Richardson / Argenziano,25
+Dixie,4 Old Town CTR,Governor,"",NPA,Gibson / Wilds,10
+Dixie,4 Old Town CTR,Governor,"",NPA,Foley / Tutton,10
+Dixie,4 Old Town CTR,Governor,"",NPA,Stanley / McJury,9
+Dixie,4 Old Town CTR,Governor,"","",WriteinVotes,2
+Dixie,4 Old Town CTR,Governor,"","",OverVotes,1
+Dixie,4 Old Town CTR,Governor,"","",UnderVotes,14
+Dixie,4 Old Town CTR,Attorney General,"",REP,Ashley Moody,1265
+Dixie,4 Old Town CTR,Attorney General,"",DEM,Sean Shaw,257
+Dixie,4 Old Town CTR,Attorney General,"",NPA,Jeffrey Marc Siskind,32
+Dixie,4 Old Town CTR,Attorney General,"","",OverVotes,0
+Dixie,4 Old Town CTR,Attorney General,"","",UnderVotes,24
+Dixie,4 Old Town CTR,Chief Financial Officer,"",REP,Jimmy Patronis,1233
+Dixie,4 Old Town CTR,Chief Financial Officer,"",DEM,Jeremy Ring,295
+Dixie,4 Old Town CTR,Chief Financial Officer,"","",WriteinVotes,2
+Dixie,4 Old Town CTR,Chief Financial Officer,"","",OverVotes,0
+Dixie,4 Old Town CTR,Chief Financial Officer,"","",UnderVotes,48
+Dixie,4 Old Town CTR,Commissioner of Agriculture,"",REP,Matt Caldwell,1242
+Dixie,4 Old Town CTR,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",302
+Dixie,4 Old Town CTR,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,4 Old Town CTR,Commissioner of Agriculture,"","",UnderVotes,34
+Dixie,4 Old Town CTR,State House,21,REP,Chuck Clemons,1281
+Dixie,4 Old Town CTR,State House,21,DEM,Jason Lee Haeseler,270
+Dixie,4 Old Town CTR,State House,21,"",OverVotes,1
+Dixie,4 Old Town CTR,State House,21,"",UnderVotes,26
+Dixie,4 Old Town CTR,County Commissioner,4,NPA,Jamie Storey,1029
+Dixie,4 Old Town CTR,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",463
+Dixie,4 Old Town CTR,County Commissioner,4,"",OverVotes,2
+Dixie,4 Old Town CTR,County Commissioner,4,"",UnderVotes,84
+Dixie,4 Old Town CTR,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,903
+Dixie,4 Old Town CTR,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,502
+Dixie,4 Old Town CTR,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,4 Old Town CTR,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,173
+Dixie,4 Old Town CTR,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,904
+Dixie,4 Old Town CTR,Retention of Harvey Jay,First District Court of Appeal,NOP,No,496
+Dixie,4 Old Town CTR,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,4 Old Town CTR,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,178
+Dixie,4 Old Town CTR,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,911
+Dixie,4 Old Town CTR,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,485
+Dixie,4 Old Town CTR,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,4 Old Town CTR,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,182
+Dixie,4 Old Town CTR,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,902
+Dixie,4 Old Town CTR,Retention of Brad Thomas,First District Court of Appeal,NOP,No,490
+Dixie,4 Old Town CTR,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Dixie,4 Old Town CTR,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,185
+Dixie,4 Old Town CTR,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,880
+Dixie,4 Old Town CTR,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,511
+Dixie,4 Old Town CTR,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Dixie,4 Old Town CTR,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,186
+Dixie,4 Old Town CTR,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,894
+Dixie,4 Old Town CTR,Retention of Allen Winsor,First District Court of Appeal,NOP,No,501
+Dixie,4 Old Town CTR,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,4 Old Town CTR,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,183
+Dixie,4 Old Town CTR,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,875
+Dixie,4 Old Town CTR,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,663
+Dixie,4 Old Town CTR,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,40
+Dixie,4 Old Town CTR,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1036
+Dixie,4 Old Town CTR,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,473
+Dixie,4 Old Town CTR,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,69
+Dixie,4 Old Town CTR,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1084
+Dixie,4 Old Town CTR,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,458
+Dixie,4 Old Town CTR,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,36
+Dixie,4 Old Town CTR,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,815
+Dixie,4 Old Town CTR,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,724
+Dixie,4 Old Town CTR,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Dixie,4 Old Town CTR,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,37
+Dixie,4 Old Town CTR,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1127
+Dixie,4 Old Town CTR,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,395
+Dixie,4 Old Town CTR,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Dixie,4 Old Town CTR,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,56
+Dixie,4 Old Town CTR,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,956
+Dixie,4 Old Town CTR,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,564
+Dixie,4 Old Town CTR,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,58
+Dixie,4 Old Town CTR,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1057
+Dixie,4 Old Town CTR,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,450
+Dixie,4 Old Town CTR,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,71
+Dixie,4 Old Town CTR,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,752
+Dixie,4 Old Town CTR,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,752
+Dixie,4 Old Town CTR,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Dixie,4 Old Town CTR,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,73
+Dixie,4 Old Town CTR,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1061
+Dixie,4 Old Town CTR,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,445
+Dixie,4 Old Town CTR,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,72
+Dixie,4 Old Town CTR,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,812
+Dixie,4 Old Town CTR,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,665
+Dixie,4 Old Town CTR,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,101
+Dixie,4 Old Town CTR,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1166
+Dixie,4 Old Town CTR,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,347
+Dixie,4 Old Town CTR,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Dixie,4 Old Town CTR,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,63
+Dixie,4 Old Town CTR,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,659
+Dixie,4 Old Town CTR,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,875
+Dixie,4 Old Town CTR,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Dixie,4 Old Town CTR,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,44
+Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"",REP,Rick Scott,226
+Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"",DEM,Bill Nelson,35
+Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"","",WriteinVotes,0
+Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,U.S. Senate,"","",UnderVotes,2
+Dixie,5 SUWANNEE COM. CENTER,U.S. House,2,REP,Neal Dunn,236
+Dixie,5 SUWANNEE COM. CENTER,U.S. House,2,DEM,Bob Rackleff,25
+Dixie,5 SUWANNEE COM. CENTER,U.S. House,2,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,U.S. House,2,"",UnderVotes,2
+Dixie,5 SUWANNEE COM. CENTER,Governor,"",REP,DeSantis / Nuñez,234
+Dixie,5 SUWANNEE COM. CENTER,Governor,"",DEM,Gillum / King,24
+Dixie,5 SUWANNEE COM. CENTER,Governor,"",REF,Richardson / Argenziano,2
+Dixie,5 SUWANNEE COM. CENTER,Governor,"",NPA,Gibson / Wilds,0
+Dixie,5 SUWANNEE COM. CENTER,Governor,"",NPA,Foley / Tutton,1
+Dixie,5 SUWANNEE COM. CENTER,Governor,"",NPA,Stanley / McJury,0
+Dixie,5 SUWANNEE COM. CENTER,Governor,"","",WriteinVotes,1
+Dixie,5 SUWANNEE COM. CENTER,Governor,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Governor,"","",UnderVotes,1
+Dixie,5 SUWANNEE COM. CENTER,Attorney General,"",REP,Ashley Moody,237
+Dixie,5 SUWANNEE COM. CENTER,Attorney General,"",DEM,Sean Shaw,24
+Dixie,5 SUWANNEE COM. CENTER,Attorney General,"",NPA,Jeffrey Marc Siskind,0
+Dixie,5 SUWANNEE COM. CENTER,Attorney General,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Attorney General,"","",UnderVotes,2
+Dixie,5 SUWANNEE COM. CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,231
+Dixie,5 SUWANNEE COM. CENTER,Chief Financial Officer,"",DEM,Jeremy Ring,30
+Dixie,5 SUWANNEE COM. CENTER,Chief Financial Officer,"","",WriteinVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Chief Financial Officer,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Chief Financial Officer,"","",UnderVotes,2
+Dixie,5 SUWANNEE COM. CENTER,Commissioner of Agriculture,"",REP,Matt Caldwell,229
+Dixie,5 SUWANNEE COM. CENTER,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",29
+Dixie,5 SUWANNEE COM. CENTER,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Commissioner of Agriculture,"","",UnderVotes,5
+Dixie,5 SUWANNEE COM. CENTER,State House,21,REP,Chuck Clemons,238
+Dixie,5 SUWANNEE COM. CENTER,State House,21,DEM,Jason Lee Haeseler,22
+Dixie,5 SUWANNEE COM. CENTER,State House,21,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,State House,21,"",UnderVotes,3
+Dixie,5 SUWANNEE COM. CENTER,County Commissioner,4,NPA,Jamie Storey,151
+Dixie,5 SUWANNEE COM. CENTER,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",88
+Dixie,5 SUWANNEE COM. CENTER,County Commissioner,4,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,County Commissioner,4,"",UnderVotes,24
+Dixie,5 SUWANNEE COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,145
+Dixie,5 SUWANNEE COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,79
+Dixie,5 SUWANNEE COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,39
+Dixie,5 SUWANNEE COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,139
+Dixie,5 SUWANNEE COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,NOP,No,79
+Dixie,5 SUWANNEE COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,45
+Dixie,5 SUWANNEE COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,140
+Dixie,5 SUWANNEE COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,78
+Dixie,5 SUWANNEE COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,45
+Dixie,5 SUWANNEE COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,138
+Dixie,5 SUWANNEE COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,NOP,No,77
+Dixie,5 SUWANNEE COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,48
+Dixie,5 SUWANNEE COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,138
+Dixie,5 SUWANNEE COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,78
+Dixie,5 SUWANNEE COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,47
+Dixie,5 SUWANNEE COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,138
+Dixie,5 SUWANNEE COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,NOP,No,79
+Dixie,5 SUWANNEE COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,46
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,146
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,105
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,12
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,160
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,91
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,175
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,77
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,125
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,125
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,13
+Dixie,5 SUWANNEE COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,171
+Dixie,5 SUWANNEE COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,77
+Dixie,5 SUWANNEE COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,15
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,165
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,81
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,17
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,169
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,73
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,21
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,129
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,121
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,13
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,173
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,70
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,20
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,131
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,102
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,30
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,199
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,48
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,16
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,105
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,145
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Dixie,5 SUWANNEE COM. CENTER,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,13
+Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"",REP,Rick Scott,485
+Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"",DEM,Bill Nelson,101
+Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"","",WriteinVotes,1
+Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,U.S. Senate,"","",UnderVotes,7
+Dixie,6 COM. BUILDING HWY 55A,U.S. House,2,REP,Neal Dunn,515
+Dixie,6 COM. BUILDING HWY 55A,U.S. House,2,DEM,Bob Rackleff,66
+Dixie,6 COM. BUILDING HWY 55A,U.S. House,2,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,U.S. House,2,"",UnderVotes,13
+Dixie,6 COM. BUILDING HWY 55A,Governor,"",REP,DeSantis / Nuñez,521
+Dixie,6 COM. BUILDING HWY 55A,Governor,"",DEM,Gillum / King,58
+Dixie,6 COM. BUILDING HWY 55A,Governor,"",REF,Richardson / Argenziano,5
+Dixie,6 COM. BUILDING HWY 55A,Governor,"",NPA,Gibson / Wilds,1
+Dixie,6 COM. BUILDING HWY 55A,Governor,"",NPA,Foley / Tutton,1
+Dixie,6 COM. BUILDING HWY 55A,Governor,"",NPA,Stanley / McJury,2
+Dixie,6 COM. BUILDING HWY 55A,Governor,"","",WriteinVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Governor,"","",OverVotes,1
+Dixie,6 COM. BUILDING HWY 55A,Governor,"","",UnderVotes,5
+Dixie,6 COM. BUILDING HWY 55A,Attorney General,"",REP,Ashley Moody,522
+Dixie,6 COM. BUILDING HWY 55A,Attorney General,"",DEM,Sean Shaw,58
+Dixie,6 COM. BUILDING HWY 55A,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Dixie,6 COM. BUILDING HWY 55A,Attorney General,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Attorney General,"","",UnderVotes,10
+Dixie,6 COM. BUILDING HWY 55A,Chief Financial Officer,"",REP,Jimmy Patronis,510
+Dixie,6 COM. BUILDING HWY 55A,Chief Financial Officer,"",DEM,Jeremy Ring,65
+Dixie,6 COM. BUILDING HWY 55A,Chief Financial Officer,"","",WriteinVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Chief Financial Officer,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Chief Financial Officer,"","",UnderVotes,19
+Dixie,6 COM. BUILDING HWY 55A,Commissioner of Agriculture,"",REP,Matt Caldwell,512
+Dixie,6 COM. BUILDING HWY 55A,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",68
+Dixie,6 COM. BUILDING HWY 55A,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Commissioner of Agriculture,"","",UnderVotes,14
+Dixie,6 COM. BUILDING HWY 55A,State House,21,REP,Chuck Clemons,532
+Dixie,6 COM. BUILDING HWY 55A,State House,21,DEM,Jason Lee Haeseler,55
+Dixie,6 COM. BUILDING HWY 55A,State House,21,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,State House,21,"",UnderVotes,7
+Dixie,6 COM. BUILDING HWY 55A,County Commissioner,4,NPA,Jamie Storey,382
+Dixie,6 COM. BUILDING HWY 55A,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",190
+Dixie,6 COM. BUILDING HWY 55A,County Commissioner,4,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,County Commissioner,4,"",UnderVotes,22
+Dixie,6 COM. BUILDING HWY 55A,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,336
+Dixie,6 COM. BUILDING HWY 55A,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,176
+Dixie,6 COM. BUILDING HWY 55A,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,82
+Dixie,6 COM. BUILDING HWY 55A,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,330
+Dixie,6 COM. BUILDING HWY 55A,Retention of Harvey Jay,First District Court of Appeal,NOP,No,179
+Dixie,6 COM. BUILDING HWY 55A,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,85
+Dixie,6 COM. BUILDING HWY 55A,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,330
+Dixie,6 COM. BUILDING HWY 55A,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,180
+Dixie,6 COM. BUILDING HWY 55A,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,84
+Dixie,6 COM. BUILDING HWY 55A,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,320
+Dixie,6 COM. BUILDING HWY 55A,Retention of Brad Thomas,First District Court of Appeal,NOP,No,188
+Dixie,6 COM. BUILDING HWY 55A,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,86
+Dixie,6 COM. BUILDING HWY 55A,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,313
+Dixie,6 COM. BUILDING HWY 55A,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,196
+Dixie,6 COM. BUILDING HWY 55A,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,85
+Dixie,6 COM. BUILDING HWY 55A,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,324
+Dixie,6 COM. BUILDING HWY 55A,Retention of Allen Winsor,First District Court of Appeal,NOP,No,183
+Dixie,6 COM. BUILDING HWY 55A,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Dixie,6 COM. BUILDING HWY 55A,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,86
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,300
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,265
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,29
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,349
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,204
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,41
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,407
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,160
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,26
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,268
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,301
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,24
+Dixie,6 COM. BUILDING HWY 55A,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,381
+Dixie,6 COM. BUILDING HWY 55A,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,171
+Dixie,6 COM. BUILDING HWY 55A,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,42
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,355
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,205
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,34
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,370
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,189
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,35
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,257
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,303
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,34
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,373
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,176
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,45
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,262
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,274
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,58
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,362
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,188
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,43
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,161
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,410
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Dixie,6 COM. BUILDING HWY 55A,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,23
+Dixie,7 CO BLDG WARD AVE,U.S. Senate,"",REP,Rick Scott,179
+Dixie,7 CO BLDG WARD AVE,U.S. Senate,"",DEM,Bill Nelson,38
+Dixie,7 CO BLDG WARD AVE,U.S. Senate,"","",WriteinVotes,2
+Dixie,7 CO BLDG WARD AVE,U.S. Senate,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,U.S. Senate,"","",UnderVotes,8
+Dixie,7 CO BLDG WARD AVE,U.S. House,2,REP,Neal Dunn,203
+Dixie,7 CO BLDG WARD AVE,U.S. House,2,DEM,Bob Rackleff,18
+Dixie,7 CO BLDG WARD AVE,U.S. House,2,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,U.S. House,2,"",UnderVotes,6
+Dixie,7 CO BLDG WARD AVE,Governor,"",REP,DeSantis / Nuñez,203
+Dixie,7 CO BLDG WARD AVE,Governor,"",DEM,Gillum / King,19
+Dixie,7 CO BLDG WARD AVE,Governor,"",REF,Richardson / Argenziano,0
+Dixie,7 CO BLDG WARD AVE,Governor,"",NPA,Gibson / Wilds,0
+Dixie,7 CO BLDG WARD AVE,Governor,"",NPA,Foley / Tutton,1
+Dixie,7 CO BLDG WARD AVE,Governor,"",NPA,Stanley / McJury,0
+Dixie,7 CO BLDG WARD AVE,Governor,"","",WriteinVotes,1
+Dixie,7 CO BLDG WARD AVE,Governor,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Governor,"","",UnderVotes,3
+Dixie,7 CO BLDG WARD AVE,Attorney General,"",REP,Ashley Moody,198
+Dixie,7 CO BLDG WARD AVE,Attorney General,"",DEM,Sean Shaw,18
+Dixie,7 CO BLDG WARD AVE,Attorney General,"",NPA,Jeffrey Marc Siskind,2
+Dixie,7 CO BLDG WARD AVE,Attorney General,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Attorney General,"","",UnderVotes,9
+Dixie,7 CO BLDG WARD AVE,Chief Financial Officer,"",REP,Jimmy Patronis,194
+Dixie,7 CO BLDG WARD AVE,Chief Financial Officer,"",DEM,Jeremy Ring,21
+Dixie,7 CO BLDG WARD AVE,Chief Financial Officer,"","",WriteinVotes,0
+Dixie,7 CO BLDG WARD AVE,Chief Financial Officer,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Chief Financial Officer,"","",UnderVotes,12
+Dixie,7 CO BLDG WARD AVE,Commissioner of Agriculture,"",REP,Matt Caldwell,196
+Dixie,7 CO BLDG WARD AVE,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",19
+Dixie,7 CO BLDG WARD AVE,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Commissioner of Agriculture,"","",UnderVotes,12
+Dixie,7 CO BLDG WARD AVE,State House,21,REP,Chuck Clemons,204
+Dixie,7 CO BLDG WARD AVE,State House,21,DEM,Jason Lee Haeseler,15
+Dixie,7 CO BLDG WARD AVE,State House,21,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,State House,21,"",UnderVotes,8
+Dixie,7 CO BLDG WARD AVE,County Commissioner,4,NPA,Jamie Storey,132
+Dixie,7 CO BLDG WARD AVE,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",86
+Dixie,7 CO BLDG WARD AVE,County Commissioner,4,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,County Commissioner,4,"",UnderVotes,9
+Dixie,7 CO BLDG WARD AVE,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,109
+Dixie,7 CO BLDG WARD AVE,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,80
+Dixie,7 CO BLDG WARD AVE,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,38
+Dixie,7 CO BLDG WARD AVE,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,104
+Dixie,7 CO BLDG WARD AVE,Retention of Harvey Jay,First District Court of Appeal,NOP,No,82
+Dixie,7 CO BLDG WARD AVE,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,41
+Dixie,7 CO BLDG WARD AVE,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,105
+Dixie,7 CO BLDG WARD AVE,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,77
+Dixie,7 CO BLDG WARD AVE,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,45
+Dixie,7 CO BLDG WARD AVE,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,106
+Dixie,7 CO BLDG WARD AVE,Retention of Brad Thomas,First District Court of Appeal,NOP,No,76
+Dixie,7 CO BLDG WARD AVE,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,45
+Dixie,7 CO BLDG WARD AVE,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,100
+Dixie,7 CO BLDG WARD AVE,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,83
+Dixie,7 CO BLDG WARD AVE,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,44
+Dixie,7 CO BLDG WARD AVE,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,103
+Dixie,7 CO BLDG WARD AVE,Retention of Allen Winsor,First District Court of Appeal,NOP,No,80
+Dixie,7 CO BLDG WARD AVE,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,44
+Dixie,7 CO BLDG WARD AVE,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,99
+Dixie,7 CO BLDG WARD AVE,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,115
+Dixie,7 CO BLDG WARD AVE,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Dixie,7 CO BLDG WARD AVE,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,133
+Dixie,7 CO BLDG WARD AVE,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,77
+Dixie,7 CO BLDG WARD AVE,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,17
+Dixie,7 CO BLDG WARD AVE,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,125
+Dixie,7 CO BLDG WARD AVE,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,90
+Dixie,7 CO BLDG WARD AVE,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,12
+Dixie,7 CO BLDG WARD AVE,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,96
+Dixie,7 CO BLDG WARD AVE,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,118
+Dixie,7 CO BLDG WARD AVE,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,13
+Dixie,7 CO BLDG WARD AVE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,145
+Dixie,7 CO BLDG WARD AVE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,65
+Dixie,7 CO BLDG WARD AVE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,17
+Dixie,7 CO BLDG WARD AVE,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,115
+Dixie,7 CO BLDG WARD AVE,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,94
+Dixie,7 CO BLDG WARD AVE,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,18
+Dixie,7 CO BLDG WARD AVE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,122
+Dixie,7 CO BLDG WARD AVE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,88
+Dixie,7 CO BLDG WARD AVE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,17
+Dixie,7 CO BLDG WARD AVE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,81
+Dixie,7 CO BLDG WARD AVE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,127
+Dixie,7 CO BLDG WARD AVE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,19
+Dixie,7 CO BLDG WARD AVE,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,145
+Dixie,7 CO BLDG WARD AVE,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,67
+Dixie,7 CO BLDG WARD AVE,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,15
+Dixie,7 CO BLDG WARD AVE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,84
+Dixie,7 CO BLDG WARD AVE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,120
+Dixie,7 CO BLDG WARD AVE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,23
+Dixie,7 CO BLDG WARD AVE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,134
+Dixie,7 CO BLDG WARD AVE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,72
+Dixie,7 CO BLDG WARD AVE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Dixie,7 CO BLDG WARD AVE,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Dixie,7 CO BLDG WARD AVE,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,47
+Dixie,7 CO BLDG WARD AVE,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,163
+Dixie,7 CO BLDG WARD AVE,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Dixie,7 CO BLDG WARD AVE,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Dixie,9 CITY HALL,U.S. Senate,"",REP,Rick Scott,436
+Dixie,9 CITY HALL,U.S. Senate,"",DEM,Bill Nelson,294
+Dixie,9 CITY HALL,U.S. Senate,"","",WriteinVotes,5
+Dixie,9 CITY HALL,U.S. Senate,"","",OverVotes,1
+Dixie,9 CITY HALL,U.S. Senate,"","",UnderVotes,17
+Dixie,9 CITY HALL,U.S. House,2,REP,Neal Dunn,475
+Dixie,9 CITY HALL,U.S. House,2,DEM,Bob Rackleff,250
+Dixie,9 CITY HALL,U.S. House,2,"",OverVotes,0
+Dixie,9 CITY HALL,U.S. House,2,"",UnderVotes,28
+Dixie,9 CITY HALL,Governor,"",REP,DeSantis / Nuñez,445
+Dixie,9 CITY HALL,Governor,"",DEM,Gillum / King,284
+Dixie,9 CITY HALL,Governor,"",REF,Richardson / Argenziano,7
+Dixie,9 CITY HALL,Governor,"",NPA,Gibson / Wilds,5
+Dixie,9 CITY HALL,Governor,"",NPA,Foley / Tutton,0
+Dixie,9 CITY HALL,Governor,"",NPA,Stanley / McJury,4
+Dixie,9 CITY HALL,Governor,"","",WriteinVotes,0
+Dixie,9 CITY HALL,Governor,"","",OverVotes,1
+Dixie,9 CITY HALL,Governor,"","",UnderVotes,7
+Dixie,9 CITY HALL,Attorney General,"",REP,Ashley Moody,465
+Dixie,9 CITY HALL,Attorney General,"",DEM,Sean Shaw,249
+Dixie,9 CITY HALL,Attorney General,"",NPA,Jeffrey Marc Siskind,23
+Dixie,9 CITY HALL,Attorney General,"","",OverVotes,0
+Dixie,9 CITY HALL,Attorney General,"","",UnderVotes,16
+Dixie,9 CITY HALL,Chief Financial Officer,"",REP,Jimmy Patronis,448
+Dixie,9 CITY HALL,Chief Financial Officer,"",DEM,Jeremy Ring,276
+Dixie,9 CITY HALL,Chief Financial Officer,"","",WriteinVotes,1
+Dixie,9 CITY HALL,Chief Financial Officer,"","",OverVotes,0
+Dixie,9 CITY HALL,Chief Financial Officer,"","",UnderVotes,28
+Dixie,9 CITY HALL,Commissioner of Agriculture,"",REP,Matt Caldwell,459
+Dixie,9 CITY HALL,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",268
+Dixie,9 CITY HALL,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,9 CITY HALL,Commissioner of Agriculture,"","",UnderVotes,26
+Dixie,9 CITY HALL,State House,21,REP,Chuck Clemons,491
+Dixie,9 CITY HALL,State House,21,DEM,Jason Lee Haeseler,248
+Dixie,9 CITY HALL,State House,21,"",OverVotes,0
+Dixie,9 CITY HALL,State House,21,"",UnderVotes,14
+Dixie,9 CITY HALL,County Commissioner,4,NPA,Jamie Storey,422
+Dixie,9 CITY HALL,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",307
+Dixie,9 CITY HALL,County Commissioner,4,"",OverVotes,0
+Dixie,9 CITY HALL,County Commissioner,4,"",UnderVotes,24
+Dixie,9 CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,404
+Dixie,9 CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,257
+Dixie,9 CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,9 CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,92
+Dixie,9 CITY HALL,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,387
+Dixie,9 CITY HALL,Retention of Harvey Jay,First District Court of Appeal,NOP,No,268
+Dixie,9 CITY HALL,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,9 CITY HALL,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,98
+Dixie,9 CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,393
+Dixie,9 CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,261
+Dixie,9 CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,9 CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,99
+Dixie,9 CITY HALL,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,398
+Dixie,9 CITY HALL,Retention of Brad Thomas,First District Court of Appeal,NOP,No,255
+Dixie,9 CITY HALL,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,9 CITY HALL,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,100
+Dixie,9 CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,386
+Dixie,9 CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,264
+Dixie,9 CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,9 CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,103
+Dixie,9 CITY HALL,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,383
+Dixie,9 CITY HALL,Retention of Allen Winsor,First District Court of Appeal,NOP,No,274
+Dixie,9 CITY HALL,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,9 CITY HALL,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,96
+Dixie,9 CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,357
+Dixie,9 CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,355
+Dixie,9 CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Dixie,9 CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,41
+Dixie,9 CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,453
+Dixie,9 CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,250
+Dixie,9 CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Dixie,9 CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,49
+Dixie,9 CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,506
+Dixie,9 CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,212
+Dixie,9 CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,9 CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,35
+Dixie,9 CITY HALL,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,434
+Dixie,9 CITY HALL,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,281
+Dixie,9 CITY HALL,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Dixie,9 CITY HALL,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,38
+Dixie,9 CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,429
+Dixie,9 CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,268
+Dixie,9 CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Dixie,9 CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,56
+Dixie,9 CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,452
+Dixie,9 CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,257
+Dixie,9 CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Dixie,9 CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,44
+Dixie,9 CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,502
+Dixie,9 CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,195
+Dixie,9 CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,2
+Dixie,9 CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,54
+Dixie,9 CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,328
+Dixie,9 CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,360
+Dixie,9 CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Dixie,9 CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,64
+Dixie,9 CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,474
+Dixie,9 CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,209
+Dixie,9 CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,9 CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,70
+Dixie,9 CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,378
+Dixie,9 CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,299
+Dixie,9 CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Dixie,9 CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,74
+Dixie,9 CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,487
+Dixie,9 CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,195
+Dixie,9 CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Dixie,9 CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,70
+Dixie,9 CITY HALL,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,268
+Dixie,9 CITY HALL,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,435
+Dixie,9 CITY HALL,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Dixie,9 CITY HALL,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,49
+Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"",REP,Rick Scott,302
+Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"",DEM,Bill Nelson,48
+Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"","",WriteinVotes,3
+Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,U.S. Senate,"","",UnderVotes,6
+Dixie,10 COUNTY BLDG 292 Ave,U.S. House,2,REP,Neal Dunn,322
+Dixie,10 COUNTY BLDG 292 Ave,U.S. House,2,DEM,Bob Rackleff,31
+Dixie,10 COUNTY BLDG 292 Ave,U.S. House,2,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,U.S. House,2,"",UnderVotes,6
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"",REP,DeSantis / Nuñez,318
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"",DEM,Gillum / King,30
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"",REF,Richardson / Argenziano,3
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"",NPA,Gibson / Wilds,2
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"",NPA,Foley / Tutton,2
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"",NPA,Stanley / McJury,2
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"","",WriteinVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"","",OverVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,Governor,"","",UnderVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,Attorney General,"",REP,Ashley Moody,323
+Dixie,10 COUNTY BLDG 292 Ave,Attorney General,"",DEM,Sean Shaw,29
+Dixie,10 COUNTY BLDG 292 Ave,Attorney General,"",NPA,Jeffrey Marc Siskind,1
+Dixie,10 COUNTY BLDG 292 Ave,Attorney General,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Attorney General,"","",UnderVotes,6
+Dixie,10 COUNTY BLDG 292 Ave,Chief Financial Officer,"",REP,Jimmy Patronis,318
+Dixie,10 COUNTY BLDG 292 Ave,Chief Financial Officer,"",DEM,Jeremy Ring,34
+Dixie,10 COUNTY BLDG 292 Ave,Chief Financial Officer,"","",WriteinVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Chief Financial Officer,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Chief Financial Officer,"","",UnderVotes,7
+Dixie,10 COUNTY BLDG 292 Ave,Commissioner of Agriculture,"",REP,Matt Caldwell,321
+Dixie,10 COUNTY BLDG 292 Ave,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",33
+Dixie,10 COUNTY BLDG 292 Ave,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Commissioner of Agriculture,"","",UnderVotes,5
+Dixie,10 COUNTY BLDG 292 Ave,State House,21,REP,Chuck Clemons,328
+Dixie,10 COUNTY BLDG 292 Ave,State House,21,DEM,Jason Lee Haeseler,26
+Dixie,10 COUNTY BLDG 292 Ave,State House,21,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,State House,21,"",UnderVotes,5
+Dixie,10 COUNTY BLDG 292 Ave,County Commissioner,4,NPA,Jamie Storey,221
+Dixie,10 COUNTY BLDG 292 Ave,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",129
+Dixie,10 COUNTY BLDG 292 Ave,County Commissioner,4,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,County Commissioner,4,"",UnderVotes,9
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,184
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,124
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,50
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,178
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Harvey Jay,First District Court of Appeal,NOP,No,131
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,50
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,185
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,123
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,51
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,179
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Brad Thomas,First District Court of Appeal,NOP,No,131
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,49
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,174
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,136
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,49
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,173
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Allen Winsor,First District Court of Appeal,NOP,No,137
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,49
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,170
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,167
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,21
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,214
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,120
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,24
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,222
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,118
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,19
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,164
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,176
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,19
+Dixie,10 COUNTY BLDG 292 Ave,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,242
+Dixie,10 COUNTY BLDG 292 Ave,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,89
+Dixie,10 COUNTY BLDG 292 Ave,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,27
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,181
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,152
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,211
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,120
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,28
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,151
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,183
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,208
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,120
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,31
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,130
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,187
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,41
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,209
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,118
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,32
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,107
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,232
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Dixie,10 COUNTY BLDG 292 Ave,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,20
+Dixie,11 JENA COM. CENTER,U.S. Senate,"",REP,Rick Scott,227
+Dixie,11 JENA COM. CENTER,U.S. Senate,"",DEM,Bill Nelson,47
+Dixie,11 JENA COM. CENTER,U.S. Senate,"","",WriteinVotes,0
+Dixie,11 JENA COM. CENTER,U.S. Senate,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,U.S. Senate,"","",UnderVotes,2
+Dixie,11 JENA COM. CENTER,U.S. House,2,REP,Neal Dunn,232
+Dixie,11 JENA COM. CENTER,U.S. House,2,DEM,Bob Rackleff,38
+Dixie,11 JENA COM. CENTER,U.S. House,2,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,U.S. House,2,"",UnderVotes,6
+Dixie,11 JENA COM. CENTER,Governor,"",REP,DeSantis / Nuñez,235
+Dixie,11 JENA COM. CENTER,Governor,"",DEM,Gillum / King,32
+Dixie,11 JENA COM. CENTER,Governor,"",REF,Richardson / Argenziano,2
+Dixie,11 JENA COM. CENTER,Governor,"",NPA,Gibson / Wilds,0
+Dixie,11 JENA COM. CENTER,Governor,"",NPA,Foley / Tutton,2
+Dixie,11 JENA COM. CENTER,Governor,"",NPA,Stanley / McJury,0
+Dixie,11 JENA COM. CENTER,Governor,"","",WriteinVotes,0
+Dixie,11 JENA COM. CENTER,Governor,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Governor,"","",UnderVotes,5
+Dixie,11 JENA COM. CENTER,Attorney General,"",REP,Ashley Moody,230
+Dixie,11 JENA COM. CENTER,Attorney General,"",DEM,Sean Shaw,36
+Dixie,11 JENA COM. CENTER,Attorney General,"",NPA,Jeffrey Marc Siskind,1
+Dixie,11 JENA COM. CENTER,Attorney General,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Attorney General,"","",UnderVotes,9
+Dixie,11 JENA COM. CENTER,Chief Financial Officer,"",REP,Jimmy Patronis,222
+Dixie,11 JENA COM. CENTER,Chief Financial Officer,"",DEM,Jeremy Ring,39
+Dixie,11 JENA COM. CENTER,Chief Financial Officer,"","",WriteinVotes,0
+Dixie,11 JENA COM. CENTER,Chief Financial Officer,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Chief Financial Officer,"","",UnderVotes,15
+Dixie,11 JENA COM. CENTER,Commissioner of Agriculture,"",REP,Matt Caldwell,227
+Dixie,11 JENA COM. CENTER,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",35
+Dixie,11 JENA COM. CENTER,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Commissioner of Agriculture,"","",UnderVotes,14
+Dixie,11 JENA COM. CENTER,State House,21,REP,Chuck Clemons,233
+Dixie,11 JENA COM. CENTER,State House,21,DEM,Jason Lee Haeseler,35
+Dixie,11 JENA COM. CENTER,State House,21,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,State House,21,"",UnderVotes,8
+Dixie,11 JENA COM. CENTER,County Commissioner,4,NPA,Jamie Storey,84
+Dixie,11 JENA COM. CENTER,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",174
+Dixie,11 JENA COM. CENTER,County Commissioner,4,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,County Commissioner,4,"",UnderVotes,18
+Dixie,11 JENA COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,163
+Dixie,11 JENA COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,76
+Dixie,11 JENA COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Dixie,11 JENA COM. CENTER,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,36
+Dixie,11 JENA COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,161
+Dixie,11 JENA COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,NOP,No,78
+Dixie,11 JENA COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,37
+Dixie,11 JENA COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,150
+Dixie,11 JENA COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,86
+Dixie,11 JENA COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,40
+Dixie,11 JENA COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,154
+Dixie,11 JENA COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,NOP,No,84
+Dixie,11 JENA COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,38
+Dixie,11 JENA COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,153
+Dixie,11 JENA COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,82
+Dixie,11 JENA COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,41
+Dixie,11 JENA COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,154
+Dixie,11 JENA COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,NOP,No,82
+Dixie,11 JENA COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,11 JENA COM. CENTER,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,40
+Dixie,11 JENA COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,151
+Dixie,11 JENA COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,109
+Dixie,11 JENA COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Dixie,11 JENA COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,173
+Dixie,11 JENA COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,78
+Dixie,11 JENA COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,25
+Dixie,11 JENA COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,157
+Dixie,11 JENA COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,101
+Dixie,11 JENA COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Dixie,11 JENA COM. CENTER,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,17
+Dixie,11 JENA COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,126
+Dixie,11 JENA COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,129
+Dixie,11 JENA COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Dixie,11 JENA COM. CENTER,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,20
+Dixie,11 JENA COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,184
+Dixie,11 JENA COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,63
+Dixie,11 JENA COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Dixie,11 JENA COM. CENTER,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,28
+Dixie,11 JENA COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,141
+Dixie,11 JENA COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,109
+Dixie,11 JENA COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Dixie,11 JENA COM. CENTER,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Dixie,11 JENA COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,165
+Dixie,11 JENA COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,85
+Dixie,11 JENA COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,26
+Dixie,11 JENA COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,93
+Dixie,11 JENA COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,155
+Dixie,11 JENA COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,28
+Dixie,11 JENA COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,154
+Dixie,11 JENA COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,92
+Dixie,11 JENA COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,30
+Dixie,11 JENA COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,99
+Dixie,11 JENA COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,137
+Dixie,11 JENA COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,40
+Dixie,11 JENA COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,177
+Dixie,11 JENA COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,70
+Dixie,11 JENA COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Dixie,11 JENA COM. CENTER,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,28
+Dixie,11 JENA COM. CENTER,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,58
+Dixie,11 JENA COM. CENTER,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,198
+Dixie,11 JENA COM. CENTER,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Dixie,11 JENA COM. CENTER,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,20
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"",REP,Rick Scott,187
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"",DEM,Bill Nelson,32
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"","",WriteinVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. Senate,"","",UnderVotes,2
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. House,2,REP,Neal Dunn,193
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. House,2,DEM,Bob Rackleff,26
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. House,2,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,U.S. House,2,"",UnderVotes,3
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",REP,DeSantis / Nuñez,196
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",DEM,Gillum / King,24
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",REF,Richardson / Argenziano,1
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",NPA,Gibson / Wilds,0
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",NPA,Foley / Tutton,0
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"",NPA,Stanley / McJury,0
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"","",WriteinVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Governor,"","",UnderVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,Attorney General,"",REP,Ashley Moody,198
+Dixie,12 HORSESHOE BCH CITY HALL,Attorney General,"",DEM,Sean Shaw,20
+Dixie,12 HORSESHOE BCH CITY HALL,Attorney General,"",NPA,Jeffrey Marc Siskind,1
+Dixie,12 HORSESHOE BCH CITY HALL,Attorney General,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Attorney General,"","",UnderVotes,3
+Dixie,12 HORSESHOE BCH CITY HALL,Chief Financial Officer,"",REP,Jimmy Patronis,193
+Dixie,12 HORSESHOE BCH CITY HALL,Chief Financial Officer,"",DEM,Jeremy Ring,27
+Dixie,12 HORSESHOE BCH CITY HALL,Chief Financial Officer,"","",WriteinVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Chief Financial Officer,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Chief Financial Officer,"","",UnderVotes,2
+Dixie,12 HORSESHOE BCH CITY HALL,Commissioner of Agriculture,"",REP,Matt Caldwell,197
+Dixie,12 HORSESHOE BCH CITY HALL,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",23
+Dixie,12 HORSESHOE BCH CITY HALL,Commissioner of Agriculture,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Commissioner of Agriculture,"","",UnderVotes,2
+Dixie,12 HORSESHOE BCH CITY HALL,State House,21,REP,Chuck Clemons,197
+Dixie,12 HORSESHOE BCH CITY HALL,State House,21,DEM,Jason Lee Haeseler,24
+Dixie,12 HORSESHOE BCH CITY HALL,State House,21,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,State House,21,"",UnderVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,County Commissioner,4,NPA,Jamie Storey,95
+Dixie,12 HORSESHOE BCH CITY HALL,County Commissioner,4,NPA,"John ""Lil John"" Driggers JR",103
+Dixie,12 HORSESHOE BCH CITY HALL,County Commissioner,4,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,County Commissioner,4,"",UnderVotes,24
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,122
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,74
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,26
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,121
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Harvey Jay,First District Court of Appeal,NOP,No,70
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,31
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,116
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,72
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,33
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,124
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Brad Thomas,First District Court of Appeal,NOP,No,66
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,32
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,115
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,71
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,36
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,116
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Allen Winsor,First District Court of Appeal,NOP,No,72
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,34
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,134
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,80
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,7
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,146
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,64
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,11
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,140
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,75
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,101
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,108
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,10
+Dixie,12 HORSESHOE BCH CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,153
+Dixie,12 HORSESHOE BCH CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,58
+Dixie,12 HORSESHOE BCH CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,10
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,120
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,90
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,11
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,125
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,86
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,11
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,82
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,128
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,12
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,128
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,81
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,13
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,103
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,102
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,16
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,158
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,51
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,13
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,82
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,127
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Dixie,12 HORSESHOE BCH CITY HALL,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,12
+Dixie,1 1ST DIST. COM. BLDG,Registered Voters,"","","",2231
+Dixie,10 COUNTY BLDG 292 Ave,Registered Voters,"","","",515
+Dixie,11 JENA COM. CENTER,Registered Voters,"","","",397
+Dixie,12 HORSESHOE BCH CITY HALL,Registered Voters,"","","",357
+Dixie,2 MASONIC LODGE,Registered Voters,"","","",472
+Dixie,4 Old Town CTR,Registered Voters,"","","",2684
+Dixie,5 SUWANNEE COM. CENTER,Registered Voters,"","","",368
+Dixie,6 COM. BUILDING HWY 55A,Registered Voters,"","","",1034
+Dixie,7 CO BLDG WARD AVE,Registered Voters,"","","",340
+Dixie,9 CITY HALL,Registered Voters,"","","",1272
