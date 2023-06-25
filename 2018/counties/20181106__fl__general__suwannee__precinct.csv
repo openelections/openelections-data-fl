@@ -1,0 +1,1841 @@
+county,precinct,office,district,party,candidate,votes
+Suwannee,Recreation Center,U.S. Senate,"",REP,Rick Scott,443
+Suwannee,Recreation Center,U.S. Senate,"",DEM,Bill Nelson,754
+Suwannee,Recreation Center,U.S. Senate,"","",WriteinVotes,4
+Suwannee,Recreation Center,U.S. Senate,"","",OverVotes,0
+Suwannee,Recreation Center,U.S. Senate,"","",UnderVotes,3
+Suwannee,Recreation Center,U.S. House,2,REP,Neal Dunn,470
+Suwannee,Recreation Center,U.S. House,2,DEM,Bob Rackleff,706
+Suwannee,Recreation Center,U.S. House,2,"",OverVotes,0
+Suwannee,Recreation Center,U.S. House,2,"",UnderVotes,30
+Suwannee,Recreation Center,Governor,"",REP,DeSantis / Nuñez,448
+Suwannee,Recreation Center,Governor,"",DEM,Gillum / King,735
+Suwannee,Recreation Center,Governor,"",REF,Richardson / Argenziano,2
+Suwannee,Recreation Center,Governor,"",NPA,Gibson / Wilds,2
+Suwannee,Recreation Center,Governor,"",NPA,Foley / Tutton,2
+Suwannee,Recreation Center,Governor,"",NPA,Stanley / McJury,2
+Suwannee,Recreation Center,Governor,"","",WriteinVotes,0
+Suwannee,Recreation Center,Governor,"","",OverVotes,7
+Suwannee,Recreation Center,Governor,"","",UnderVotes,7
+Suwannee,Recreation Center,Attorney General,"",REP,Ashley Moody,473
+Suwannee,Recreation Center,Attorney General,"",DEM,Sean Shaw,714
+Suwannee,Recreation Center,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Suwannee,Recreation Center,Attorney General,"","",OverVotes,0
+Suwannee,Recreation Center,Attorney General,"","",UnderVotes,13
+Suwannee,Recreation Center,Chief Financial Officer,"",REP,Jimmy Patronis,450
+Suwannee,Recreation Center,Chief Financial Officer,"",DEM,Jeremy Ring,730
+Suwannee,Recreation Center,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Recreation Center,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Recreation Center,Chief Financial Officer,"","",UnderVotes,26
+Suwannee,Recreation Center,Commissioner of Agriculture,"",REP,Matt Caldwell,445
+Suwannee,Recreation Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",731
+Suwannee,Recreation Center,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Recreation Center,Commissioner of Agriculture,"","",UnderVotes,29
+Suwannee,Recreation Center,State House,10,REP,Chuck Brannan,439
+Suwannee,Recreation Center,State House,10,DEM,Ronald W. Williams II,714
+Suwannee,Recreation Center,State House,10,NPA,Fred S. Martin,30
+Suwannee,Recreation Center,State House,10,NPA,Merrillee Malwitz Jipson,5
+Suwannee,Recreation Center,State House,10,"",OverVotes,0
+Suwannee,Recreation Center,State House,10,"",UnderVotes,18
+Suwannee,Recreation Center,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,342
+Suwannee,Recreation Center,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,701
+Suwannee,Recreation Center,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Recreation Center,Suwannee County Conservation District,Group 4,"",UnderVotes,163
+Suwannee,Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,685
+Suwannee,Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,428
+Suwannee,Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Recreation Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,93
+Suwannee,Recreation Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,652
+Suwannee,Recreation Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,454
+Suwannee,Recreation Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Recreation Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,100
+Suwannee,Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,670
+Suwannee,Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,426
+Suwannee,Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Recreation Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,110
+Suwannee,Recreation Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,649
+Suwannee,Recreation Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,448
+Suwannee,Recreation Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Recreation Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,109
+Suwannee,Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,668
+Suwannee,Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,429
+Suwannee,Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Suwannee,Recreation Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,108
+Suwannee,Recreation Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,642
+Suwannee,Recreation Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,463
+Suwannee,Recreation Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Recreation Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,101
+Suwannee,Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,534
+Suwannee,Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,635
+Suwannee,Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Suwannee,Recreation Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,36
+Suwannee,Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,698
+Suwannee,Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,472
+Suwannee,Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Suwannee,Recreation Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,35
+Suwannee,Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,862
+Suwannee,Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,316
+Suwannee,Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,3
+Suwannee,Recreation Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,25
+Suwannee,Recreation Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,831
+Suwannee,Recreation Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,330
+Suwannee,Recreation Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Suwannee,Recreation Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,42
+Suwannee,Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,637
+Suwannee,Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,520
+Suwannee,Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Recreation Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,49
+Suwannee,Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,687
+Suwannee,Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,472
+Suwannee,Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Recreation Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,46
+Suwannee,Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,748
+Suwannee,Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,399
+Suwannee,Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,3
+Suwannee,Recreation Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,56
+Suwannee,Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,675
+Suwannee,Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,465
+Suwannee,Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Suwannee,Recreation Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,64
+Suwannee,Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,723
+Suwannee,Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,409
+Suwannee,Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Suwannee,Recreation Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,74
+Suwannee,Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,645
+Suwannee,Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,480
+Suwannee,Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Suwannee,Recreation Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,80
+Suwannee,Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,791
+Suwannee,Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,337
+Suwannee,Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Suwannee,Recreation Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,77
+Suwannee,Recreation Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,560
+Suwannee,Recreation Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,582
+Suwannee,Recreation Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Suwannee,Recreation Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,63
+Suwannee,Church of God,U.S. Senate,"",REP,Rick Scott,874
+Suwannee,Church of God,U.S. Senate,"",DEM,Bill Nelson,350
+Suwannee,Church of God,U.S. Senate,"","",WriteinVotes,3
+Suwannee,Church of God,U.S. Senate,"","",OverVotes,1
+Suwannee,Church of God,U.S. Senate,"","",UnderVotes,7
+Suwannee,Church of God,U.S. House,2,REP,Neal Dunn,897
+Suwannee,Church of God,U.S. House,2,DEM,Bob Rackleff,316
+Suwannee,Church of God,U.S. House,2,"",OverVotes,1
+Suwannee,Church of God,U.S. House,2,"",UnderVotes,21
+Suwannee,Church of God,Governor,"",REP,DeSantis / Nuñez,881
+Suwannee,Church of God,Governor,"",DEM,Gillum / King,326
+Suwannee,Church of God,Governor,"",REF,Richardson / Argenziano,7
+Suwannee,Church of God,Governor,"",NPA,Gibson / Wilds,1
+Suwannee,Church of God,Governor,"",NPA,Foley / Tutton,3
+Suwannee,Church of God,Governor,"",NPA,Stanley / McJury,5
+Suwannee,Church of God,Governor,"","",WriteinVotes,0
+Suwannee,Church of God,Governor,"","",OverVotes,6
+Suwannee,Church of God,Governor,"","",UnderVotes,5
+Suwannee,Church of God,Attorney General,"",REP,Ashley Moody,902
+Suwannee,Church of God,Attorney General,"",DEM,Sean Shaw,303
+Suwannee,Church of God,Attorney General,"",NPA,Jeffrey Marc Siskind,12
+Suwannee,Church of God,Attorney General,"","",OverVotes,2
+Suwannee,Church of God,Attorney General,"","",UnderVotes,16
+Suwannee,Church of God,Chief Financial Officer,"",REP,Jimmy Patronis,870
+Suwannee,Church of God,Chief Financial Officer,"",DEM,Jeremy Ring,330
+Suwannee,Church of God,Chief Financial Officer,"","",WriteinVotes,2
+Suwannee,Church of God,Chief Financial Officer,"","",OverVotes,1
+Suwannee,Church of God,Chief Financial Officer,"","",UnderVotes,32
+Suwannee,Church of God,Commissioner of Agriculture,"",REP,Matt Caldwell,890
+Suwannee,Church of God,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",320
+Suwannee,Church of God,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Church of God,Commissioner of Agriculture,"","",UnderVotes,24
+Suwannee,Church of God,State House,10,REP,Chuck Brannan,867
+Suwannee,Church of God,State House,10,DEM,Ronald W. Williams II,305
+Suwannee,Church of God,State House,10,NPA,Fred S. Martin,25
+Suwannee,Church of God,State House,10,NPA,Merrillee Malwitz Jipson,19
+Suwannee,Church of God,State House,10,"",OverVotes,1
+Suwannee,Church of God,State House,10,"",UnderVotes,18
+Suwannee,Church of God,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,444
+Suwannee,Church of God,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,653
+Suwannee,Church of God,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Church of God,Suwannee County Conservation District,Group 4,"",UnderVotes,138
+Suwannee,Church of God,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,685
+Suwannee,Church of God,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,438
+Suwannee,Church of God,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Suwannee,Church of God,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,110
+Suwannee,Church of God,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,687
+Suwannee,Church of God,Retention of Harvey Jay,First District Court of Appeal,NOP,No,428
+Suwannee,Church of God,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Church of God,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,120
+Suwannee,Church of God,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,680
+Suwannee,Church of God,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,434
+Suwannee,Church of God,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Church of God,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,121
+Suwannee,Church of God,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,692
+Suwannee,Church of God,Retention of Brad Thomas,First District Court of Appeal,NOP,No,416
+Suwannee,Church of God,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Church of God,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,127
+Suwannee,Church of God,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,669
+Suwannee,Church of God,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,443
+Suwannee,Church of God,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Suwannee,Church of God,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,121
+Suwannee,Church of God,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,670
+Suwannee,Church of God,Retention of Allen Winsor,First District Court of Appeal,NOP,No,446
+Suwannee,Church of God,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Suwannee,Church of God,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,118
+Suwannee,Church of God,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,680
+Suwannee,Church of God,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,517
+Suwannee,Church of God,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Suwannee,Church of God,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,36
+Suwannee,Church of God,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,828
+Suwannee,Church of God,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,358
+Suwannee,Church of God,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,4
+Suwannee,Church of God,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,45
+Suwannee,Church of God,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,851
+Suwannee,Church of God,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,358
+Suwannee,Church of God,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,Church of God,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,26
+Suwannee,Church of God,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,640
+Suwannee,Church of God,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,561
+Suwannee,Church of God,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Church of God,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,34
+Suwannee,Church of God,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,811
+Suwannee,Church of God,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,377
+Suwannee,Church of God,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Suwannee,Church of God,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,46
+Suwannee,Church of God,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,729
+Suwannee,Church of God,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,465
+Suwannee,Church of God,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,Church of God,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,41
+Suwannee,Church of God,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,796
+Suwannee,Church of God,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,391
+Suwannee,Church of God,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,3
+Suwannee,Church of God,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,45
+Suwannee,Church of God,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,600
+Suwannee,Church of God,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,581
+Suwannee,Church of God,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Suwannee,Church of God,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,52
+Suwannee,Church of God,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,790
+Suwannee,Church of God,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,382
+Suwannee,Church of God,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Suwannee,Church of God,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,62
+Suwannee,Church of God,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,597
+Suwannee,Church of God,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,561
+Suwannee,Church of God,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Suwannee,Church of God,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,77
+Suwannee,Church of God,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,852
+Suwannee,Church of God,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,328
+Suwannee,Church of God,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Suwannee,Church of God,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,54
+Suwannee,Church of God,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,536
+Suwannee,Church of God,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,642
+Suwannee,Church of God,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Suwannee,Church of God,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,55
+Suwannee,Presbyterian Church,U.S. Senate,"",REP,Rick Scott,715
+Suwannee,Presbyterian Church,U.S. Senate,"",DEM,Bill Nelson,294
+Suwannee,Presbyterian Church,U.S. Senate,"","",WriteinVotes,0
+Suwannee,Presbyterian Church,U.S. Senate,"","",OverVotes,0
+Suwannee,Presbyterian Church,U.S. Senate,"","",UnderVotes,5
+Suwannee,Presbyterian Church,U.S. House,2,REP,Neal Dunn,756
+Suwannee,Presbyterian Church,U.S. House,2,DEM,Bob Rackleff,243
+Suwannee,Presbyterian Church,U.S. House,2,"",OverVotes,0
+Suwannee,Presbyterian Church,U.S. House,2,"",UnderVotes,16
+Suwannee,Presbyterian Church,Governor,"",REP,DeSantis / Nuñez,743
+Suwannee,Presbyterian Church,Governor,"",DEM,Gillum / King,247
+Suwannee,Presbyterian Church,Governor,"",REF,Richardson / Argenziano,7
+Suwannee,Presbyterian Church,Governor,"",NPA,Gibson / Wilds,3
+Suwannee,Presbyterian Church,Governor,"",NPA,Foley / Tutton,0
+Suwannee,Presbyterian Church,Governor,"",NPA,Stanley / McJury,3
+Suwannee,Presbyterian Church,Governor,"","",WriteinVotes,1
+Suwannee,Presbyterian Church,Governor,"","",OverVotes,3
+Suwannee,Presbyterian Church,Governor,"","",UnderVotes,7
+Suwannee,Presbyterian Church,Attorney General,"",REP,Ashley Moody,757
+Suwannee,Presbyterian Church,Attorney General,"",DEM,Sean Shaw,225
+Suwannee,Presbyterian Church,Attorney General,"",NPA,Jeffrey Marc Siskind,12
+Suwannee,Presbyterian Church,Attorney General,"","",OverVotes,0
+Suwannee,Presbyterian Church,Attorney General,"","",UnderVotes,21
+Suwannee,Presbyterian Church,Chief Financial Officer,"",REP,Jimmy Patronis,742
+Suwannee,Presbyterian Church,Chief Financial Officer,"",DEM,Jeremy Ring,245
+Suwannee,Presbyterian Church,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Presbyterian Church,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Presbyterian Church,Chief Financial Officer,"","",UnderVotes,28
+Suwannee,Presbyterian Church,Commissioner of Agriculture,"",REP,Matt Caldwell,745
+Suwannee,Presbyterian Church,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",250
+Suwannee,Presbyterian Church,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Presbyterian Church,Commissioner of Agriculture,"","",UnderVotes,19
+Suwannee,Presbyterian Church,State House,10,REP,Chuck Brannan,736
+Suwannee,Presbyterian Church,State House,10,DEM,Ronald W. Williams II,237
+Suwannee,Presbyterian Church,State House,10,NPA,Fred S. Martin,8
+Suwannee,Presbyterian Church,State House,10,NPA,Merrillee Malwitz Jipson,15
+Suwannee,Presbyterian Church,State House,10,"",OverVotes,0
+Suwannee,Presbyterian Church,State House,10,"",UnderVotes,19
+Suwannee,Presbyterian Church,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,361
+Suwannee,Presbyterian Church,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,519
+Suwannee,Presbyterian Church,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Presbyterian Church,Suwannee County Conservation District,Group 4,"",UnderVotes,135
+Suwannee,Presbyterian Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,527
+Suwannee,Presbyterian Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,378
+Suwannee,Presbyterian Church,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Suwannee,Presbyterian Church,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,109
+Suwannee,Presbyterian Church,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,526
+Suwannee,Presbyterian Church,Retention of Harvey Jay,First District Court of Appeal,NOP,No,379
+Suwannee,Presbyterian Church,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Suwannee,Presbyterian Church,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,109
+Suwannee,Presbyterian Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,524
+Suwannee,Presbyterian Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,373
+Suwannee,Presbyterian Church,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,3
+Suwannee,Presbyterian Church,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,115
+Suwannee,Presbyterian Church,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,526
+Suwannee,Presbyterian Church,Retention of Brad Thomas,First District Court of Appeal,NOP,No,374
+Suwannee,Presbyterian Church,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Presbyterian Church,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,115
+Suwannee,Presbyterian Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,518
+Suwannee,Presbyterian Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,382
+Suwannee,Presbyterian Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Presbyterian Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,115
+Suwannee,Presbyterian Church,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,513
+Suwannee,Presbyterian Church,Retention of Allen Winsor,First District Court of Appeal,NOP,No,388
+Suwannee,Presbyterian Church,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Suwannee,Presbyterian Church,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,113
+Suwannee,Presbyterian Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,533
+Suwannee,Presbyterian Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,439
+Suwannee,Presbyterian Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Suwannee,Presbyterian Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,42
+Suwannee,Presbyterian Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,676
+Suwannee,Presbyterian Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,286
+Suwannee,Presbyterian Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,3
+Suwannee,Presbyterian Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,50
+Suwannee,Presbyterian Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,671
+Suwannee,Presbyterian Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,314
+Suwannee,Presbyterian Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Suwannee,Presbyterian Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,29
+Suwannee,Presbyterian Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,494
+Suwannee,Presbyterian Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,492
+Suwannee,Presbyterian Church,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Suwannee,Presbyterian Church,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,28
+Suwannee,Presbyterian Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,645
+Suwannee,Presbyterian Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,323
+Suwannee,Presbyterian Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Presbyterian Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,47
+Suwannee,Presbyterian Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,575
+Suwannee,Presbyterian Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,389
+Suwannee,Presbyterian Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,Presbyterian Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,51
+Suwannee,Presbyterian Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,601
+Suwannee,Presbyterian Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,363
+Suwannee,Presbyterian Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Presbyterian Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,51
+Suwannee,Presbyterian Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,483
+Suwannee,Presbyterian Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,483
+Suwannee,Presbyterian Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Suwannee,Presbyterian Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,48
+Suwannee,Presbyterian Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,615
+Suwannee,Presbyterian Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,332
+Suwannee,Presbyterian Church,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Suwannee,Presbyterian Church,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,68
+Suwannee,Presbyterian Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,496
+Suwannee,Presbyterian Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,438
+Suwannee,Presbyterian Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Suwannee,Presbyterian Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,80
+Suwannee,Presbyterian Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,683
+Suwannee,Presbyterian Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,276
+Suwannee,Presbyterian Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Suwannee,Presbyterian Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,54
+Suwannee,Presbyterian Church,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,466
+Suwannee,Presbyterian Church,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,506
+Suwannee,Presbyterian Church,Amendment No. 13: Ends Dog Racing,"","",OverVotes,3
+Suwannee,Presbyterian Church,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,40
+Suwannee,Coliseum,U.S. Senate,"",REP,Rick Scott,1118
+Suwannee,Coliseum,U.S. Senate,"",DEM,Bill Nelson,327
+Suwannee,Coliseum,U.S. Senate,"","",WriteinVotes,2
+Suwannee,Coliseum,U.S. Senate,"","",OverVotes,0
+Suwannee,Coliseum,U.S. Senate,"","",UnderVotes,10
+Suwannee,Coliseum,U.S. House,2,REP,Neal Dunn,1142
+Suwannee,Coliseum,U.S. House,2,DEM,Bob Rackleff,291
+Suwannee,Coliseum,U.S. House,2,"",OverVotes,1
+Suwannee,Coliseum,U.S. House,2,"",UnderVotes,23
+Suwannee,Coliseum,Governor,"",REP,DeSantis / Nuñez,1148
+Suwannee,Coliseum,Governor,"",DEM,Gillum / King,289
+Suwannee,Coliseum,Governor,"",REF,Richardson / Argenziano,6
+Suwannee,Coliseum,Governor,"",NPA,Gibson / Wilds,0
+Suwannee,Coliseum,Governor,"",NPA,Foley / Tutton,4
+Suwannee,Coliseum,Governor,"",NPA,Stanley / McJury,2
+Suwannee,Coliseum,Governor,"","",WriteinVotes,0
+Suwannee,Coliseum,Governor,"","",OverVotes,2
+Suwannee,Coliseum,Governor,"","",UnderVotes,6
+Suwannee,Coliseum,Attorney General,"",REP,Ashley Moody,1146
+Suwannee,Coliseum,Attorney General,"",DEM,Sean Shaw,267
+Suwannee,Coliseum,Attorney General,"",NPA,Jeffrey Marc Siskind,21
+Suwannee,Coliseum,Attorney General,"","",OverVotes,2
+Suwannee,Coliseum,Attorney General,"","",UnderVotes,21
+Suwannee,Coliseum,Chief Financial Officer,"",REP,Jimmy Patronis,1127
+Suwannee,Coliseum,Chief Financial Officer,"",DEM,Jeremy Ring,298
+Suwannee,Coliseum,Chief Financial Officer,"","",WriteinVotes,1
+Suwannee,Coliseum,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Coliseum,Chief Financial Officer,"","",UnderVotes,31
+Suwannee,Coliseum,Commissioner of Agriculture,"",REP,Matt Caldwell,1135
+Suwannee,Coliseum,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",298
+Suwannee,Coliseum,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Coliseum,Commissioner of Agriculture,"","",UnderVotes,24
+Suwannee,Coliseum,State House,10,REP,Chuck Brannan,1119
+Suwannee,Coliseum,State House,10,DEM,Ronald W. Williams II,283
+Suwannee,Coliseum,State House,10,NPA,Fred S. Martin,15
+Suwannee,Coliseum,State House,10,NPA,Merrillee Malwitz Jipson,19
+Suwannee,Coliseum,State House,10,"",OverVotes,0
+Suwannee,Coliseum,State House,10,"",UnderVotes,21
+Suwannee,Coliseum,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,462
+Suwannee,Coliseum,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,809
+Suwannee,Coliseum,Suwannee County Conservation District,Group 4,"",OverVotes,1
+Suwannee,Coliseum,Suwannee County Conservation District,Group 4,"",UnderVotes,185
+Suwannee,Coliseum,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,838
+Suwannee,Coliseum,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,478
+Suwannee,Coliseum,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Coliseum,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,141
+Suwannee,Coliseum,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,810
+Suwannee,Coliseum,Retention of Harvey Jay,First District Court of Appeal,NOP,No,503
+Suwannee,Coliseum,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Coliseum,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,144
+Suwannee,Coliseum,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,805
+Suwannee,Coliseum,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,499
+Suwannee,Coliseum,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Coliseum,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,153
+Suwannee,Coliseum,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,800
+Suwannee,Coliseum,Retention of Brad Thomas,First District Court of Appeal,NOP,No,504
+Suwannee,Coliseum,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Coliseum,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,153
+Suwannee,Coliseum,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,781
+Suwannee,Coliseum,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,521
+Suwannee,Coliseum,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Suwannee,Coliseum,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,154
+Suwannee,Coliseum,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,796
+Suwannee,Coliseum,Retention of Allen Winsor,First District Court of Appeal,NOP,No,511
+Suwannee,Coliseum,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Suwannee,Coliseum,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,149
+Suwannee,Coliseum,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,814
+Suwannee,Coliseum,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,620
+Suwannee,Coliseum,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Suwannee,Coliseum,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,22
+Suwannee,Coliseum,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1022
+Suwannee,Coliseum,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,404
+Suwannee,Coliseum,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Suwannee,Coliseum,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,30
+Suwannee,Coliseum,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,972
+Suwannee,Coliseum,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,461
+Suwannee,Coliseum,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Suwannee,Coliseum,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,22
+Suwannee,Coliseum,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,643
+Suwannee,Coliseum,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,780
+Suwannee,Coliseum,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Coliseum,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,34
+Suwannee,Coliseum,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,974
+Suwannee,Coliseum,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,440
+Suwannee,Coliseum,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Coliseum,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,43
+Suwannee,Coliseum,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,808
+Suwannee,Coliseum,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,603
+Suwannee,Coliseum,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,Coliseum,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,46
+Suwannee,Coliseum,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,834
+Suwannee,Coliseum,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,568
+Suwannee,Coliseum,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Coliseum,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,55
+Suwannee,Coliseum,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,734
+Suwannee,Coliseum,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,668
+Suwannee,Coliseum,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,3
+Suwannee,Coliseum,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,52
+Suwannee,Coliseum,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,920
+Suwannee,Coliseum,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,471
+Suwannee,Coliseum,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,3
+Suwannee,Coliseum,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,63
+Suwannee,Coliseum,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,725
+Suwannee,Coliseum,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,649
+Suwannee,Coliseum,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Suwannee,Coliseum,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,82
+Suwannee,Coliseum,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,948
+Suwannee,Coliseum,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,456
+Suwannee,Coliseum,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Suwannee,Coliseum,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,51
+Suwannee,Coliseum,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,608
+Suwannee,Coliseum,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,802
+Suwannee,Coliseum,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Suwannee,Coliseum,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,46
+Suwannee,Diagnostic Center,U.S. Senate,"",REP,Rick Scott,655
+Suwannee,Diagnostic Center,U.S. Senate,"",DEM,Bill Nelson,208
+Suwannee,Diagnostic Center,U.S. Senate,"","",WriteinVotes,3
+Suwannee,Diagnostic Center,U.S. Senate,"","",OverVotes,0
+Suwannee,Diagnostic Center,U.S. Senate,"","",UnderVotes,4
+Suwannee,Diagnostic Center,U.S. House,2,REP,Neal Dunn,673
+Suwannee,Diagnostic Center,U.S. House,2,DEM,Bob Rackleff,184
+Suwannee,Diagnostic Center,U.S. House,2,"",OverVotes,1
+Suwannee,Diagnostic Center,U.S. House,2,"",UnderVotes,15
+Suwannee,Diagnostic Center,Governor,"",REP,DeSantis / Nuñez,674
+Suwannee,Diagnostic Center,Governor,"",DEM,Gillum / King,178
+Suwannee,Diagnostic Center,Governor,"",REF,Richardson / Argenziano,4
+Suwannee,Diagnostic Center,Governor,"",NPA,Gibson / Wilds,1
+Suwannee,Diagnostic Center,Governor,"",NPA,Foley / Tutton,1
+Suwannee,Diagnostic Center,Governor,"",NPA,Stanley / McJury,3
+Suwannee,Diagnostic Center,Governor,"","",WriteinVotes,0
+Suwannee,Diagnostic Center,Governor,"","",OverVotes,1
+Suwannee,Diagnostic Center,Governor,"","",UnderVotes,8
+Suwannee,Diagnostic Center,Attorney General,"",REP,Ashley Moody,670
+Suwannee,Diagnostic Center,Attorney General,"",DEM,Sean Shaw,179
+Suwannee,Diagnostic Center,Attorney General,"",NPA,Jeffrey Marc Siskind,11
+Suwannee,Diagnostic Center,Attorney General,"","",OverVotes,0
+Suwannee,Diagnostic Center,Attorney General,"","",UnderVotes,13
+Suwannee,Diagnostic Center,Chief Financial Officer,"",REP,Jimmy Patronis,662
+Suwannee,Diagnostic Center,Chief Financial Officer,"",DEM,Jeremy Ring,195
+Suwannee,Diagnostic Center,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Diagnostic Center,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Diagnostic Center,Chief Financial Officer,"","",UnderVotes,16
+Suwannee,Diagnostic Center,Commissioner of Agriculture,"",REP,Matt Caldwell,660
+Suwannee,Diagnostic Center,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",195
+Suwannee,Diagnostic Center,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Diagnostic Center,Commissioner of Agriculture,"","",UnderVotes,16
+Suwannee,Diagnostic Center,State House,10,REP,Chuck Brannan,657
+Suwannee,Diagnostic Center,State House,10,DEM,Ronald W. Williams II,174
+Suwannee,Diagnostic Center,State House,10,NPA,Fred S. Martin,17
+Suwannee,Diagnostic Center,State House,10,NPA,Merrillee Malwitz Jipson,13
+Suwannee,Diagnostic Center,State House,10,"",OverVotes,1
+Suwannee,Diagnostic Center,State House,10,"",UnderVotes,11
+Suwannee,Diagnostic Center,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,288
+Suwannee,Diagnostic Center,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,470
+Suwannee,Diagnostic Center,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Diagnostic Center,Suwannee County Conservation District,Group 4,"",UnderVotes,115
+Suwannee,Diagnostic Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,486
+Suwannee,Diagnostic Center,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,306
+Suwannee,Diagnostic Center,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Diagnostic Center,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,81
+Suwannee,Diagnostic Center,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,461
+Suwannee,Diagnostic Center,Retention of Harvey Jay,First District Court of Appeal,NOP,No,323
+Suwannee,Diagnostic Center,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Diagnostic Center,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,89
+Suwannee,Diagnostic Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,470
+Suwannee,Diagnostic Center,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,311
+Suwannee,Diagnostic Center,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Diagnostic Center,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,92
+Suwannee,Diagnostic Center,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,458
+Suwannee,Diagnostic Center,Retention of Brad Thomas,First District Court of Appeal,NOP,No,321
+Suwannee,Diagnostic Center,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Diagnostic Center,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,94
+Suwannee,Diagnostic Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,467
+Suwannee,Diagnostic Center,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,316
+Suwannee,Diagnostic Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Diagnostic Center,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,90
+Suwannee,Diagnostic Center,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,466
+Suwannee,Diagnostic Center,Retention of Allen Winsor,First District Court of Appeal,NOP,No,318
+Suwannee,Diagnostic Center,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Diagnostic Center,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,89
+Suwannee,Diagnostic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,464
+Suwannee,Diagnostic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,385
+Suwannee,Diagnostic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Suwannee,Diagnostic Center,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,24
+Suwannee,Diagnostic Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,587
+Suwannee,Diagnostic Center,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,250
+Suwannee,Diagnostic Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Diagnostic Center,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,36
+Suwannee,Diagnostic Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,569
+Suwannee,Diagnostic Center,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,281
+Suwannee,Diagnostic Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Suwannee,Diagnostic Center,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,22
+Suwannee,Diagnostic Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,423
+Suwannee,Diagnostic Center,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,429
+Suwannee,Diagnostic Center,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Suwannee,Diagnostic Center,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,20
+Suwannee,Diagnostic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,602
+Suwannee,Diagnostic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,240
+Suwannee,Diagnostic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Diagnostic Center,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,31
+Suwannee,Diagnostic Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,493
+Suwannee,Diagnostic Center,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,342
+Suwannee,Diagnostic Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Diagnostic Center,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,37
+Suwannee,Diagnostic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,540
+Suwannee,Diagnostic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,292
+Suwannee,Diagnostic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Diagnostic Center,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,41
+Suwannee,Diagnostic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,409
+Suwannee,Diagnostic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,430
+Suwannee,Diagnostic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Suwannee,Diagnostic Center,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,33
+Suwannee,Diagnostic Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,543
+Suwannee,Diagnostic Center,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,270
+Suwannee,Diagnostic Center,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Suwannee,Diagnostic Center,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,58
+Suwannee,Diagnostic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,396
+Suwannee,Diagnostic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,410
+Suwannee,Diagnostic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Suwannee,Diagnostic Center,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,66
+Suwannee,Diagnostic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,607
+Suwannee,Diagnostic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,220
+Suwannee,Diagnostic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Suwannee,Diagnostic Center,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,46
+Suwannee,Diagnostic Center,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,341
+Suwannee,Diagnostic Center,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,497
+Suwannee,Diagnostic Center,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Suwannee,Diagnostic Center,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,34
+Suwannee,Luraville,U.S. Senate,"",REP,Rick Scott,693
+Suwannee,Luraville,U.S. Senate,"",DEM,Bill Nelson,163
+Suwannee,Luraville,U.S. Senate,"","",WriteinVotes,0
+Suwannee,Luraville,U.S. Senate,"","",OverVotes,0
+Suwannee,Luraville,U.S. Senate,"","",UnderVotes,6
+Suwannee,Luraville,U.S. House,2,REP,Neal Dunn,722
+Suwannee,Luraville,U.S. House,2,DEM,Bob Rackleff,138
+Suwannee,Luraville,U.S. House,2,"",OverVotes,0
+Suwannee,Luraville,U.S. House,2,"",UnderVotes,7
+Suwannee,Luraville,Governor,"",REP,DeSantis / Nuñez,711
+Suwannee,Luraville,Governor,"",DEM,Gillum / King,137
+Suwannee,Luraville,Governor,"",REF,Richardson / Argenziano,8
+Suwannee,Luraville,Governor,"",NPA,Gibson / Wilds,2
+Suwannee,Luraville,Governor,"",NPA,Foley / Tutton,0
+Suwannee,Luraville,Governor,"",NPA,Stanley / McJury,3
+Suwannee,Luraville,Governor,"","",WriteinVotes,0
+Suwannee,Luraville,Governor,"","",OverVotes,1
+Suwannee,Luraville,Governor,"","",UnderVotes,0
+Suwannee,Luraville,Attorney General,"",REP,Ashley Moody,737
+Suwannee,Luraville,Attorney General,"",DEM,Sean Shaw,110
+Suwannee,Luraville,Attorney General,"",NPA,Jeffrey Marc Siskind,16
+Suwannee,Luraville,Attorney General,"","",OverVotes,0
+Suwannee,Luraville,Attorney General,"","",UnderVotes,4
+Suwannee,Luraville,Chief Financial Officer,"",REP,Jimmy Patronis,712
+Suwannee,Luraville,Chief Financial Officer,"",DEM,Jeremy Ring,138
+Suwannee,Luraville,Chief Financial Officer,"","",WriteinVotes,1
+Suwannee,Luraville,Chief Financial Officer,"","",OverVotes,1
+Suwannee,Luraville,Chief Financial Officer,"","",UnderVotes,15
+Suwannee,Luraville,Commissioner of Agriculture,"",REP,Matt Caldwell,705
+Suwannee,Luraville,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",147
+Suwannee,Luraville,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Luraville,Commissioner of Agriculture,"","",UnderVotes,10
+Suwannee,Luraville,State House,10,REP,Chuck Brannan,689
+Suwannee,Luraville,State House,10,DEM,Ronald W. Williams II,106
+Suwannee,Luraville,State House,10,NPA,Fred S. Martin,30
+Suwannee,Luraville,State House,10,NPA,Merrillee Malwitz Jipson,34
+Suwannee,Luraville,State House,10,"",OverVotes,1
+Suwannee,Luraville,State House,10,"",UnderVotes,7
+Suwannee,Luraville,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,306
+Suwannee,Luraville,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,471
+Suwannee,Luraville,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Luraville,Suwannee County Conservation District,Group 4,"",UnderVotes,90
+Suwannee,Luraville,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,471
+Suwannee,Luraville,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,314
+Suwannee,Luraville,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Luraville,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,82
+Suwannee,Luraville,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,458
+Suwannee,Luraville,Retention of Harvey Jay,First District Court of Appeal,NOP,No,326
+Suwannee,Luraville,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Luraville,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,83
+Suwannee,Luraville,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,456
+Suwannee,Luraville,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,315
+Suwannee,Luraville,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Suwannee,Luraville,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,95
+Suwannee,Luraville,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,460
+Suwannee,Luraville,Retention of Brad Thomas,First District Court of Appeal,NOP,No,320
+Suwannee,Luraville,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Luraville,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,87
+Suwannee,Luraville,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,455
+Suwannee,Luraville,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,321
+Suwannee,Luraville,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Luraville,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,91
+Suwannee,Luraville,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,458
+Suwannee,Luraville,Retention of Allen Winsor,First District Court of Appeal,NOP,No,321
+Suwannee,Luraville,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Luraville,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,88
+Suwannee,Luraville,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,540
+Suwannee,Luraville,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,310
+Suwannee,Luraville,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,17
+Suwannee,Luraville,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,612
+Suwannee,Luraville,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,237
+Suwannee,Luraville,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,18
+Suwannee,Luraville,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,612
+Suwannee,Luraville,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,242
+Suwannee,Luraville,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,13
+Suwannee,Luraville,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,395
+Suwannee,Luraville,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,449
+Suwannee,Luraville,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,23
+Suwannee,Luraville,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,627
+Suwannee,Luraville,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,213
+Suwannee,Luraville,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Luraville,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,27
+Suwannee,Luraville,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,517
+Suwannee,Luraville,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,326
+Suwannee,Luraville,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,24
+Suwannee,Luraville,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,571
+Suwannee,Luraville,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,272
+Suwannee,Luraville,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Suwannee,Luraville,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,412
+Suwannee,Luraville,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,431
+Suwannee,Luraville,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Suwannee,Luraville,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,23
+Suwannee,Luraville,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,574
+Suwannee,Luraville,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,262
+Suwannee,Luraville,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,31
+Suwannee,Luraville,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,448
+Suwannee,Luraville,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,376
+Suwannee,Luraville,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,43
+Suwannee,Luraville,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,648
+Suwannee,Luraville,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,187
+Suwannee,Luraville,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Suwannee,Luraville,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,32
+Suwannee,Luraville,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,408
+Suwannee,Luraville,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,433
+Suwannee,Luraville,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Suwannee,Luraville,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,25
+Suwannee,Mt. Gilead,U.S. Senate,"",REP,Rick Scott,438
+Suwannee,Mt. Gilead,U.S. Senate,"",DEM,Bill Nelson,134
+Suwannee,Mt. Gilead,U.S. Senate,"","",WriteinVotes,2
+Suwannee,Mt. Gilead,U.S. Senate,"","",OverVotes,1
+Suwannee,Mt. Gilead,U.S. Senate,"","",UnderVotes,3
+Suwannee,Mt. Gilead,U.S. House,2,REP,Neal Dunn,469
+Suwannee,Mt. Gilead,U.S. House,2,DEM,Bob Rackleff,104
+Suwannee,Mt. Gilead,U.S. House,2,"",OverVotes,0
+Suwannee,Mt. Gilead,U.S. House,2,"",UnderVotes,4
+Suwannee,Mt. Gilead,Governor,"",REP,DeSantis / Nuñez,453
+Suwannee,Mt. Gilead,Governor,"",DEM,Gillum / King,108
+Suwannee,Mt. Gilead,Governor,"",REF,Richardson / Argenziano,4
+Suwannee,Mt. Gilead,Governor,"",NPA,Gibson / Wilds,4
+Suwannee,Mt. Gilead,Governor,"",NPA,Foley / Tutton,3
+Suwannee,Mt. Gilead,Governor,"",NPA,Stanley / McJury,1
+Suwannee,Mt. Gilead,Governor,"","",WriteinVotes,1
+Suwannee,Mt. Gilead,Governor,"","",OverVotes,2
+Suwannee,Mt. Gilead,Governor,"","",UnderVotes,1
+Suwannee,Mt. Gilead,Attorney General,"",REP,Ashley Moody,459
+Suwannee,Mt. Gilead,Attorney General,"",DEM,Sean Shaw,105
+Suwannee,Mt. Gilead,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Suwannee,Mt. Gilead,Attorney General,"","",OverVotes,1
+Suwannee,Mt. Gilead,Attorney General,"","",UnderVotes,4
+Suwannee,Mt. Gilead,Chief Financial Officer,"",REP,Jimmy Patronis,450
+Suwannee,Mt. Gilead,Chief Financial Officer,"",DEM,Jeremy Ring,118
+Suwannee,Mt. Gilead,Chief Financial Officer,"","",WriteinVotes,1
+Suwannee,Mt. Gilead,Chief Financial Officer,"","",OverVotes,1
+Suwannee,Mt. Gilead,Chief Financial Officer,"","",UnderVotes,7
+Suwannee,Mt. Gilead,Commissioner of Agriculture,"",REP,Matt Caldwell,460
+Suwannee,Mt. Gilead,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",111
+Suwannee,Mt. Gilead,Commissioner of Agriculture,"","",OverVotes,1
+Suwannee,Mt. Gilead,Commissioner of Agriculture,"","",UnderVotes,5
+Suwannee,Mt. Gilead,State House,10,REP,Chuck Brannan,434
+Suwannee,Mt. Gilead,State House,10,DEM,Ronald W. Williams II,95
+Suwannee,Mt. Gilead,State House,10,NPA,Fred S. Martin,27
+Suwannee,Mt. Gilead,State House,10,NPA,Merrillee Malwitz Jipson,16
+Suwannee,Mt. Gilead,State House,10,"",OverVotes,0
+Suwannee,Mt. Gilead,State House,10,"",UnderVotes,5
+Suwannee,Mt. Gilead,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,238
+Suwannee,Mt. Gilead,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,282
+Suwannee,Mt. Gilead,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Mt. Gilead,Suwannee County Conservation District,Group 4,"",UnderVotes,57
+Suwannee,Mt. Gilead,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,333
+Suwannee,Mt. Gilead,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,209
+Suwannee,Mt. Gilead,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Mt. Gilead,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,35
+Suwannee,Mt. Gilead,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,325
+Suwannee,Mt. Gilead,Retention of Harvey Jay,First District Court of Appeal,NOP,No,217
+Suwannee,Mt. Gilead,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Mt. Gilead,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,35
+Suwannee,Mt. Gilead,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,335
+Suwannee,Mt. Gilead,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,208
+Suwannee,Mt. Gilead,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Mt. Gilead,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,34
+Suwannee,Mt. Gilead,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,332
+Suwannee,Mt. Gilead,Retention of Brad Thomas,First District Court of Appeal,NOP,No,208
+Suwannee,Mt. Gilead,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Mt. Gilead,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,37
+Suwannee,Mt. Gilead,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,327
+Suwannee,Mt. Gilead,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,218
+Suwannee,Mt. Gilead,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Mt. Gilead,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,32
+Suwannee,Mt. Gilead,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,330
+Suwannee,Mt. Gilead,Retention of Allen Winsor,First District Court of Appeal,NOP,No,216
+Suwannee,Mt. Gilead,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Mt. Gilead,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,31
+Suwannee,Mt. Gilead,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,356
+Suwannee,Mt. Gilead,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,203
+Suwannee,Mt. Gilead,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Suwannee,Mt. Gilead,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Suwannee,Mt. Gilead,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,391
+Suwannee,Mt. Gilead,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,167
+Suwannee,Mt. Gilead,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Suwannee,Mt. Gilead,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,18
+Suwannee,Mt. Gilead,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,372
+Suwannee,Mt. Gilead,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,192
+Suwannee,Mt. Gilead,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,Mt. Gilead,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,13
+Suwannee,Mt. Gilead,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,292
+Suwannee,Mt. Gilead,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,273
+Suwannee,Mt. Gilead,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Mt. Gilead,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,12
+Suwannee,Mt. Gilead,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,399
+Suwannee,Mt. Gilead,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,167
+Suwannee,Mt. Gilead,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Mt. Gilead,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,11
+Suwannee,Mt. Gilead,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,345
+Suwannee,Mt. Gilead,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,218
+Suwannee,Mt. Gilead,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Mt. Gilead,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,13
+Suwannee,Mt. Gilead,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,381
+Suwannee,Mt. Gilead,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,178
+Suwannee,Mt. Gilead,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Mt. Gilead,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,18
+Suwannee,Mt. Gilead,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,318
+Suwannee,Mt. Gilead,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,245
+Suwannee,Mt. Gilead,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Suwannee,Mt. Gilead,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,13
+Suwannee,Mt. Gilead,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,398
+Suwannee,Mt. Gilead,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,158
+Suwannee,Mt. Gilead,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Suwannee,Mt. Gilead,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,21
+Suwannee,Mt. Gilead,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,299
+Suwannee,Mt. Gilead,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,252
+Suwannee,Mt. Gilead,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Suwannee,Mt. Gilead,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,24
+Suwannee,Mt. Gilead,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,412
+Suwannee,Mt. Gilead,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,139
+Suwannee,Mt. Gilead,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Suwannee,Mt. Gilead,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,25
+Suwannee,Mt. Gilead,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,263
+Suwannee,Mt. Gilead,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,299
+Suwannee,Mt. Gilead,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Suwannee,Mt. Gilead,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,13
+Suwannee,Rocky Sink,U.S. Senate,"",REP,Rick Scott,546
+Suwannee,Rocky Sink,U.S. Senate,"",DEM,Bill Nelson,154
+Suwannee,Rocky Sink,U.S. Senate,"","",WriteinVotes,4
+Suwannee,Rocky Sink,U.S. Senate,"","",OverVotes,0
+Suwannee,Rocky Sink,U.S. Senate,"","",UnderVotes,7
+Suwannee,Rocky Sink,U.S. House,2,REP,Neal Dunn,572
+Suwannee,Rocky Sink,U.S. House,2,DEM,Bob Rackleff,132
+Suwannee,Rocky Sink,U.S. House,2,"",OverVotes,0
+Suwannee,Rocky Sink,U.S. House,2,"",UnderVotes,7
+Suwannee,Rocky Sink,Governor,"",REP,DeSantis / Nuñez,569
+Suwannee,Rocky Sink,Governor,"",DEM,Gillum / King,125
+Suwannee,Rocky Sink,Governor,"",REF,Richardson / Argenziano,8
+Suwannee,Rocky Sink,Governor,"",NPA,Gibson / Wilds,3
+Suwannee,Rocky Sink,Governor,"",NPA,Foley / Tutton,0
+Suwannee,Rocky Sink,Governor,"",NPA,Stanley / McJury,2
+Suwannee,Rocky Sink,Governor,"","",WriteinVotes,0
+Suwannee,Rocky Sink,Governor,"","",OverVotes,1
+Suwannee,Rocky Sink,Governor,"","",UnderVotes,3
+Suwannee,Rocky Sink,Attorney General,"",REP,Ashley Moody,564
+Suwannee,Rocky Sink,Attorney General,"",DEM,Sean Shaw,121
+Suwannee,Rocky Sink,Attorney General,"",NPA,Jeffrey Marc Siskind,14
+Suwannee,Rocky Sink,Attorney General,"","",OverVotes,0
+Suwannee,Rocky Sink,Attorney General,"","",UnderVotes,12
+Suwannee,Rocky Sink,Chief Financial Officer,"",REP,Jimmy Patronis,564
+Suwannee,Rocky Sink,Chief Financial Officer,"",DEM,Jeremy Ring,130
+Suwannee,Rocky Sink,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Rocky Sink,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Rocky Sink,Chief Financial Officer,"","",UnderVotes,17
+Suwannee,Rocky Sink,Commissioner of Agriculture,"",REP,Matt Caldwell,571
+Suwannee,Rocky Sink,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",132
+Suwannee,Rocky Sink,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Rocky Sink,Commissioner of Agriculture,"","",UnderVotes,8
+Suwannee,Rocky Sink,State House,10,REP,Chuck Brannan,551
+Suwannee,Rocky Sink,State House,10,DEM,Ronald W. Williams II,118
+Suwannee,Rocky Sink,State House,10,NPA,Fred S. Martin,25
+Suwannee,Rocky Sink,State House,10,NPA,Merrillee Malwitz Jipson,11
+Suwannee,Rocky Sink,State House,10,"",OverVotes,0
+Suwannee,Rocky Sink,State House,10,"",UnderVotes,6
+Suwannee,Rocky Sink,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,252
+Suwannee,Rocky Sink,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,368
+Suwannee,Rocky Sink,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Rocky Sink,Suwannee County Conservation District,Group 4,"",UnderVotes,91
+Suwannee,Rocky Sink,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,404
+Suwannee,Rocky Sink,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,230
+Suwannee,Rocky Sink,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Rocky Sink,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,77
+Suwannee,Rocky Sink,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,415
+Suwannee,Rocky Sink,Retention of Harvey Jay,First District Court of Appeal,NOP,No,216
+Suwannee,Rocky Sink,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Rocky Sink,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,80
+Suwannee,Rocky Sink,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,415
+Suwannee,Rocky Sink,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,217
+Suwannee,Rocky Sink,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Rocky Sink,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,79
+Suwannee,Rocky Sink,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,406
+Suwannee,Rocky Sink,Retention of Brad Thomas,First District Court of Appeal,NOP,No,226
+Suwannee,Rocky Sink,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Rocky Sink,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,79
+Suwannee,Rocky Sink,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,406
+Suwannee,Rocky Sink,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,224
+Suwannee,Rocky Sink,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Suwannee,Rocky Sink,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,80
+Suwannee,Rocky Sink,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,414
+Suwannee,Rocky Sink,Retention of Allen Winsor,First District Court of Appeal,NOP,No,221
+Suwannee,Rocky Sink,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Rocky Sink,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,76
+Suwannee,Rocky Sink,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,425
+Suwannee,Rocky Sink,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,278
+Suwannee,Rocky Sink,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Suwannee,Rocky Sink,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,7
+Suwannee,Rocky Sink,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,533
+Suwannee,Rocky Sink,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,171
+Suwannee,Rocky Sink,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Rocky Sink,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,7
+Suwannee,Rocky Sink,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,486
+Suwannee,Rocky Sink,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,213
+Suwannee,Rocky Sink,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Suwannee,Rocky Sink,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Suwannee,Rocky Sink,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,326
+Suwannee,Rocky Sink,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,375
+Suwannee,Rocky Sink,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Rocky Sink,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,10
+Suwannee,Rocky Sink,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,520
+Suwannee,Rocky Sink,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,173
+Suwannee,Rocky Sink,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Rocky Sink,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Suwannee,Rocky Sink,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,451
+Suwannee,Rocky Sink,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,241
+Suwannee,Rocky Sink,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Rocky Sink,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,18
+Suwannee,Rocky Sink,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,495
+Suwannee,Rocky Sink,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,200
+Suwannee,Rocky Sink,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Suwannee,Rocky Sink,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,15
+Suwannee,Rocky Sink,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,358
+Suwannee,Rocky Sink,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,335
+Suwannee,Rocky Sink,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Suwannee,Rocky Sink,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,17
+Suwannee,Rocky Sink,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,471
+Suwannee,Rocky Sink,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,215
+Suwannee,Rocky Sink,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Suwannee,Rocky Sink,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,25
+Suwannee,Rocky Sink,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,373
+Suwannee,Rocky Sink,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,310
+Suwannee,Rocky Sink,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Suwannee,Rocky Sink,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,27
+Suwannee,Rocky Sink,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,532
+Suwannee,Rocky Sink,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,160
+Suwannee,Rocky Sink,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Suwannee,Rocky Sink,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,18
+Suwannee,Rocky Sink,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,318
+Suwannee,Rocky Sink,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,375
+Suwannee,Rocky Sink,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Suwannee,Rocky Sink,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Suwannee,Dowling Park,U.S. Senate,"",REP,Rick Scott,734
+Suwannee,Dowling Park,U.S. Senate,"",DEM,Bill Nelson,228
+Suwannee,Dowling Park,U.S. Senate,"","",WriteinVotes,5
+Suwannee,Dowling Park,U.S. Senate,"","",OverVotes,0
+Suwannee,Dowling Park,U.S. Senate,"","",UnderVotes,12
+Suwannee,Dowling Park,U.S. House,2,REP,Neal Dunn,773
+Suwannee,Dowling Park,U.S. House,2,DEM,Bob Rackleff,190
+Suwannee,Dowling Park,U.S. House,2,"",OverVotes,0
+Suwannee,Dowling Park,U.S. House,2,"",UnderVotes,20
+Suwannee,Dowling Park,Governor,"",REP,DeSantis / Nuñez,755
+Suwannee,Dowling Park,Governor,"",DEM,Gillum / King,180
+Suwannee,Dowling Park,Governor,"",REF,Richardson / Argenziano,11
+Suwannee,Dowling Park,Governor,"",NPA,Gibson / Wilds,6
+Suwannee,Dowling Park,Governor,"",NPA,Foley / Tutton,2
+Suwannee,Dowling Park,Governor,"",NPA,Stanley / McJury,5
+Suwannee,Dowling Park,Governor,"","",WriteinVotes,2
+Suwannee,Dowling Park,Governor,"","",OverVotes,4
+Suwannee,Dowling Park,Governor,"","",UnderVotes,14
+Suwannee,Dowling Park,Attorney General,"",REP,Ashley Moody,773
+Suwannee,Dowling Park,Attorney General,"",DEM,Sean Shaw,169
+Suwannee,Dowling Park,Attorney General,"",NPA,Jeffrey Marc Siskind,12
+Suwannee,Dowling Park,Attorney General,"","",OverVotes,0
+Suwannee,Dowling Park,Attorney General,"","",UnderVotes,29
+Suwannee,Dowling Park,Chief Financial Officer,"",REP,Jimmy Patronis,744
+Suwannee,Dowling Park,Chief Financial Officer,"",DEM,Jeremy Ring,196
+Suwannee,Dowling Park,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Dowling Park,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Dowling Park,Chief Financial Officer,"","",UnderVotes,43
+Suwannee,Dowling Park,Commissioner of Agriculture,"",REP,Matt Caldwell,763
+Suwannee,Dowling Park,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",186
+Suwannee,Dowling Park,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Dowling Park,Commissioner of Agriculture,"","",UnderVotes,30
+Suwannee,Dowling Park,State House,10,REP,Chuck Brannan,752
+Suwannee,Dowling Park,State House,10,DEM,Ronald W. Williams II,184
+Suwannee,Dowling Park,State House,10,NPA,Fred S. Martin,16
+Suwannee,Dowling Park,State House,10,NPA,Merrillee Malwitz Jipson,11
+Suwannee,Dowling Park,State House,10,"",OverVotes,0
+Suwannee,Dowling Park,State House,10,"",UnderVotes,20
+Suwannee,Dowling Park,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,298
+Suwannee,Dowling Park,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,463
+Suwannee,Dowling Park,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Dowling Park,Suwannee County Conservation District,Group 4,"",UnderVotes,222
+Suwannee,Dowling Park,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,597
+Suwannee,Dowling Park,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,221
+Suwannee,Dowling Park,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Suwannee,Dowling Park,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,164
+Suwannee,Dowling Park,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,599
+Suwannee,Dowling Park,Retention of Harvey Jay,First District Court of Appeal,NOP,No,216
+Suwannee,Dowling Park,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Dowling Park,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,168
+Suwannee,Dowling Park,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,579
+Suwannee,Dowling Park,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,224
+Suwannee,Dowling Park,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Dowling Park,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,180
+Suwannee,Dowling Park,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,583
+Suwannee,Dowling Park,Retention of Brad Thomas,First District Court of Appeal,NOP,No,224
+Suwannee,Dowling Park,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Suwannee,Dowling Park,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,175
+Suwannee,Dowling Park,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,579
+Suwannee,Dowling Park,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,231
+Suwannee,Dowling Park,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Suwannee,Dowling Park,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,171
+Suwannee,Dowling Park,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,574
+Suwannee,Dowling Park,Retention of Allen Winsor,First District Court of Appeal,NOP,No,240
+Suwannee,Dowling Park,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Dowling Park,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,169
+Suwannee,Dowling Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,594
+Suwannee,Dowling Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,348
+Suwannee,Dowling Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Suwannee,Dowling Park,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,40
+Suwannee,Dowling Park,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,675
+Suwannee,Dowling Park,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,257
+Suwannee,Dowling Park,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,51
+Suwannee,Dowling Park,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,673
+Suwannee,Dowling Park,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,274
+Suwannee,Dowling Park,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,36
+Suwannee,Dowling Park,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,470
+Suwannee,Dowling Park,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,453
+Suwannee,Dowling Park,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Suwannee,Dowling Park,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,58
+Suwannee,Dowling Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,690
+Suwannee,Dowling Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,237
+Suwannee,Dowling Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Suwannee,Dowling Park,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,55
+Suwannee,Dowling Park,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,615
+Suwannee,Dowling Park,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,309
+Suwannee,Dowling Park,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,59
+Suwannee,Dowling Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,653
+Suwannee,Dowling Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,264
+Suwannee,Dowling Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,66
+Suwannee,Dowling Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,529
+Suwannee,Dowling Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,392
+Suwannee,Dowling Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,62
+Suwannee,Dowling Park,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,625
+Suwannee,Dowling Park,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,291
+Suwannee,Dowling Park,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,67
+Suwannee,Dowling Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,560
+Suwannee,Dowling Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,335
+Suwannee,Dowling Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,88
+Suwannee,Dowling Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,740
+Suwannee,Dowling Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,187
+Suwannee,Dowling Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Suwannee,Dowling Park,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,56
+Suwannee,Dowling Park,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,532
+Suwannee,Dowling Park,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,398
+Suwannee,Dowling Park,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Suwannee,Dowling Park,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,52
+Suwannee,McAlpin,U.S. Senate,"",REP,Rick Scott,848
+Suwannee,McAlpin,U.S. Senate,"",DEM,Bill Nelson,225
+Suwannee,McAlpin,U.S. Senate,"","",WriteinVotes,2
+Suwannee,McAlpin,U.S. Senate,"","",OverVotes,0
+Suwannee,McAlpin,U.S. Senate,"","",UnderVotes,7
+Suwannee,McAlpin,U.S. House,2,REP,Neal Dunn,879
+Suwannee,McAlpin,U.S. House,2,DEM,Bob Rackleff,193
+Suwannee,McAlpin,U.S. House,2,"",OverVotes,0
+Suwannee,McAlpin,U.S. House,2,"",UnderVotes,13
+Suwannee,McAlpin,Governor,"",REP,DeSantis / Nuñez,870
+Suwannee,McAlpin,Governor,"",DEM,Gillum / King,185
+Suwannee,McAlpin,Governor,"",REF,Richardson / Argenziano,11
+Suwannee,McAlpin,Governor,"",NPA,Gibson / Wilds,1
+Suwannee,McAlpin,Governor,"",NPA,Foley / Tutton,2
+Suwannee,McAlpin,Governor,"",NPA,Stanley / McJury,1
+Suwannee,McAlpin,Governor,"","",WriteinVotes,2
+Suwannee,McAlpin,Governor,"","",OverVotes,3
+Suwannee,McAlpin,Governor,"","",UnderVotes,7
+Suwannee,McAlpin,Attorney General,"",REP,Ashley Moody,890
+Suwannee,McAlpin,Attorney General,"",DEM,Sean Shaw,171
+Suwannee,McAlpin,Attorney General,"",NPA,Jeffrey Marc Siskind,14
+Suwannee,McAlpin,Attorney General,"","",OverVotes,0
+Suwannee,McAlpin,Attorney General,"","",UnderVotes,10
+Suwannee,McAlpin,Chief Financial Officer,"",REP,Jimmy Patronis,861
+Suwannee,McAlpin,Chief Financial Officer,"",DEM,Jeremy Ring,203
+Suwannee,McAlpin,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,McAlpin,Chief Financial Officer,"","",OverVotes,0
+Suwannee,McAlpin,Chief Financial Officer,"","",UnderVotes,21
+Suwannee,McAlpin,Commissioner of Agriculture,"",REP,Matt Caldwell,868
+Suwannee,McAlpin,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",199
+Suwannee,McAlpin,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,McAlpin,Commissioner of Agriculture,"","",UnderVotes,15
+Suwannee,McAlpin,State House,10,REP,Chuck Brannan,852
+Suwannee,McAlpin,State House,10,DEM,Ronald W. Williams II,174
+Suwannee,McAlpin,State House,10,NPA,Fred S. Martin,29
+Suwannee,McAlpin,State House,10,NPA,Merrillee Malwitz Jipson,18
+Suwannee,McAlpin,State House,10,"",OverVotes,1
+Suwannee,McAlpin,State House,10,"",UnderVotes,11
+Suwannee,McAlpin,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,389
+Suwannee,McAlpin,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,540
+Suwannee,McAlpin,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,McAlpin,Suwannee County Conservation District,Group 4,"",UnderVotes,156
+Suwannee,McAlpin,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,610
+Suwannee,McAlpin,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,371
+Suwannee,McAlpin,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Suwannee,McAlpin,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,102
+Suwannee,McAlpin,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,598
+Suwannee,McAlpin,Retention of Harvey Jay,First District Court of Appeal,NOP,No,375
+Suwannee,McAlpin,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,McAlpin,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,112
+Suwannee,McAlpin,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,597
+Suwannee,McAlpin,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,371
+Suwannee,McAlpin,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,McAlpin,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,117
+Suwannee,McAlpin,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,595
+Suwannee,McAlpin,Retention of Brad Thomas,First District Court of Appeal,NOP,No,377
+Suwannee,McAlpin,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,McAlpin,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,113
+Suwannee,McAlpin,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,590
+Suwannee,McAlpin,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,377
+Suwannee,McAlpin,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,McAlpin,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,118
+Suwannee,McAlpin,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,593
+Suwannee,McAlpin,Retention of Allen Winsor,First District Court of Appeal,NOP,No,380
+Suwannee,McAlpin,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,McAlpin,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,112
+Suwannee,McAlpin,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,643
+Suwannee,McAlpin,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,415
+Suwannee,McAlpin,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Suwannee,McAlpin,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,25
+Suwannee,McAlpin,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,749
+Suwannee,McAlpin,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,309
+Suwannee,McAlpin,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Suwannee,McAlpin,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,26
+Suwannee,McAlpin,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,777
+Suwannee,McAlpin,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,296
+Suwannee,McAlpin,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,McAlpin,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,12
+Suwannee,McAlpin,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,477
+Suwannee,McAlpin,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,589
+Suwannee,McAlpin,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,McAlpin,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,19
+Suwannee,McAlpin,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,755
+Suwannee,McAlpin,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,292
+Suwannee,McAlpin,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,McAlpin,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,38
+Suwannee,McAlpin,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,686
+Suwannee,McAlpin,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,371
+Suwannee,McAlpin,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,McAlpin,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,28
+Suwannee,McAlpin,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,695
+Suwannee,McAlpin,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,359
+Suwannee,McAlpin,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Suwannee,McAlpin,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,30
+Suwannee,McAlpin,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,532
+Suwannee,McAlpin,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,519
+Suwannee,McAlpin,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Suwannee,McAlpin,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,33
+Suwannee,McAlpin,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,723
+Suwannee,McAlpin,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,317
+Suwannee,McAlpin,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Suwannee,McAlpin,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,45
+Suwannee,McAlpin,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,558
+Suwannee,McAlpin,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,464
+Suwannee,McAlpin,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Suwannee,McAlpin,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,62
+Suwannee,McAlpin,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,794
+Suwannee,McAlpin,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,245
+Suwannee,McAlpin,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,3
+Suwannee,McAlpin,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,43
+Suwannee,McAlpin,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,505
+Suwannee,McAlpin,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,544
+Suwannee,McAlpin,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Suwannee,McAlpin,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,36
+Suwannee,O'Brien,U.S. Senate,"",REP,Rick Scott,822
+Suwannee,O'Brien,U.S. Senate,"",DEM,Bill Nelson,223
+Suwannee,O'Brien,U.S. Senate,"","",WriteinVotes,6
+Suwannee,O'Brien,U.S. Senate,"","",OverVotes,0
+Suwannee,O'Brien,U.S. Senate,"","",UnderVotes,4
+Suwannee,O'Brien,U.S. House,2,REP,Neal Dunn,856
+Suwannee,O'Brien,U.S. House,2,DEM,Bob Rackleff,188
+Suwannee,O'Brien,U.S. House,2,"",OverVotes,0
+Suwannee,O'Brien,U.S. House,2,"",UnderVotes,17
+Suwannee,O'Brien,Governor,"",REP,DeSantis / Nuñez,842
+Suwannee,O'Brien,Governor,"",DEM,Gillum / King,182
+Suwannee,O'Brien,Governor,"",REF,Richardson / Argenziano,10
+Suwannee,O'Brien,Governor,"",NPA,Gibson / Wilds,7
+Suwannee,O'Brien,Governor,"",NPA,Foley / Tutton,4
+Suwannee,O'Brien,Governor,"",NPA,Stanley / McJury,2
+Suwannee,O'Brien,Governor,"","",WriteinVotes,1
+Suwannee,O'Brien,Governor,"","",OverVotes,2
+Suwannee,O'Brien,Governor,"","",UnderVotes,5
+Suwannee,O'Brien,Attorney General,"",REP,Ashley Moody,844
+Suwannee,O'Brien,Attorney General,"",DEM,Sean Shaw,177
+Suwannee,O'Brien,Attorney General,"",NPA,Jeffrey Marc Siskind,20
+Suwannee,O'Brien,Attorney General,"","",OverVotes,0
+Suwannee,O'Brien,Attorney General,"","",UnderVotes,20
+Suwannee,O'Brien,Chief Financial Officer,"",REP,Jimmy Patronis,836
+Suwannee,O'Brien,Chief Financial Officer,"",DEM,Jeremy Ring,195
+Suwannee,O'Brien,Chief Financial Officer,"","",WriteinVotes,3
+Suwannee,O'Brien,Chief Financial Officer,"","",OverVotes,0
+Suwannee,O'Brien,Chief Financial Officer,"","",UnderVotes,27
+Suwannee,O'Brien,Commissioner of Agriculture,"",REP,Matt Caldwell,848
+Suwannee,O'Brien,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",188
+Suwannee,O'Brien,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,O'Brien,Commissioner of Agriculture,"","",UnderVotes,19
+Suwannee,O'Brien,State House,10,REP,Chuck Brannan,827
+Suwannee,O'Brien,State House,10,DEM,Ronald W. Williams II,157
+Suwannee,O'Brien,State House,10,NPA,Fred S. Martin,37
+Suwannee,O'Brien,State House,10,NPA,Merrillee Malwitz Jipson,24
+Suwannee,O'Brien,State House,10,"",OverVotes,1
+Suwannee,O'Brien,State House,10,"",UnderVotes,15
+Suwannee,O'Brien,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,426
+Suwannee,O'Brien,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,444
+Suwannee,O'Brien,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,O'Brien,Suwannee County Conservation District,Group 4,"",UnderVotes,191
+Suwannee,O'Brien,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,591
+Suwannee,O'Brien,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,344
+Suwannee,O'Brien,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,O'Brien,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,126
+Suwannee,O'Brien,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,588
+Suwannee,O'Brien,Retention of Harvey Jay,First District Court of Appeal,NOP,No,345
+Suwannee,O'Brien,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,O'Brien,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,128
+Suwannee,O'Brien,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,580
+Suwannee,O'Brien,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,349
+Suwannee,O'Brien,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Suwannee,O'Brien,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,131
+Suwannee,O'Brien,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,573
+Suwannee,O'Brien,Retention of Brad Thomas,First District Court of Appeal,NOP,No,356
+Suwannee,O'Brien,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,O'Brien,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,132
+Suwannee,O'Brien,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,576
+Suwannee,O'Brien,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,354
+Suwannee,O'Brien,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,O'Brien,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,131
+Suwannee,O'Brien,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,576
+Suwannee,O'Brien,Retention of Allen Winsor,First District Court of Appeal,NOP,No,358
+Suwannee,O'Brien,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,O'Brien,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,127
+Suwannee,O'Brien,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,617
+Suwannee,O'Brien,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,415
+Suwannee,O'Brien,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Suwannee,O'Brien,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,29
+Suwannee,O'Brien,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,713
+Suwannee,O'Brien,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,303
+Suwannee,O'Brien,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Suwannee,O'Brien,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,44
+Suwannee,O'Brien,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,703
+Suwannee,O'Brien,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,334
+Suwannee,O'Brien,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Suwannee,O'Brien,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,23
+Suwannee,O'Brien,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,486
+Suwannee,O'Brien,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,545
+Suwannee,O'Brien,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,O'Brien,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,30
+Suwannee,O'Brien,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,750
+Suwannee,O'Brien,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,264
+Suwannee,O'Brien,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Suwannee,O'Brien,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,45
+Suwannee,O'Brien,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,639
+Suwannee,O'Brien,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,374
+Suwannee,O'Brien,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,O'Brien,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,48
+Suwannee,O'Brien,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,669
+Suwannee,O'Brien,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,333
+Suwannee,O'Brien,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Suwannee,O'Brien,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,58
+Suwannee,O'Brien,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,498
+Suwannee,O'Brien,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,511
+Suwannee,O'Brien,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Suwannee,O'Brien,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,52
+Suwannee,O'Brien,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,695
+Suwannee,O'Brien,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,296
+Suwannee,O'Brien,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Suwannee,O'Brien,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,69
+Suwannee,O'Brien,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,536
+Suwannee,O'Brien,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,452
+Suwannee,O'Brien,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Suwannee,O'Brien,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,72
+Suwannee,O'Brien,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,774
+Suwannee,O'Brien,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,229
+Suwannee,O'Brien,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Suwannee,O'Brien,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,57
+Suwannee,O'Brien,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,492
+Suwannee,O'Brien,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,528
+Suwannee,O'Brien,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Suwannee,O'Brien,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,40
+Suwannee,Wellborn,U.S. Senate,"",REP,Rick Scott,964
+Suwannee,Wellborn,U.S. Senate,"",DEM,Bill Nelson,284
+Suwannee,Wellborn,U.S. Senate,"","",WriteinVotes,6
+Suwannee,Wellborn,U.S. Senate,"","",OverVotes,0
+Suwannee,Wellborn,U.S. Senate,"","",UnderVotes,10
+Suwannee,Wellborn,U.S. House,2,REP,Neal Dunn,1044
+Suwannee,Wellborn,U.S. House,2,DEM,Bob Rackleff,218
+Suwannee,Wellborn,U.S. House,2,"",OverVotes,0
+Suwannee,Wellborn,U.S. House,2,"",UnderVotes,5
+Suwannee,Wellborn,Governor,"",REP,DeSantis / Nuñez,1031
+Suwannee,Wellborn,Governor,"",DEM,Gillum / King,212
+Suwannee,Wellborn,Governor,"",REF,Richardson / Argenziano,7
+Suwannee,Wellborn,Governor,"",NPA,Gibson / Wilds,4
+Suwannee,Wellborn,Governor,"",NPA,Foley / Tutton,2
+Suwannee,Wellborn,Governor,"",NPA,Stanley / McJury,2
+Suwannee,Wellborn,Governor,"","",WriteinVotes,0
+Suwannee,Wellborn,Governor,"","",OverVotes,4
+Suwannee,Wellborn,Governor,"","",UnderVotes,3
+Suwannee,Wellborn,Attorney General,"",REP,Ashley Moody,1050
+Suwannee,Wellborn,Attorney General,"",DEM,Sean Shaw,189
+Suwannee,Wellborn,Attorney General,"",NPA,Jeffrey Marc Siskind,19
+Suwannee,Wellborn,Attorney General,"","",OverVotes,0
+Suwannee,Wellborn,Attorney General,"","",UnderVotes,9
+Suwannee,Wellborn,Chief Financial Officer,"",REP,Jimmy Patronis,1030
+Suwannee,Wellborn,Chief Financial Officer,"",DEM,Jeremy Ring,216
+Suwannee,Wellborn,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Wellborn,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Wellborn,Chief Financial Officer,"","",UnderVotes,21
+Suwannee,Wellborn,Commissioner of Agriculture,"",REP,Matt Caldwell,1040
+Suwannee,Wellborn,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",203
+Suwannee,Wellborn,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Wellborn,Commissioner of Agriculture,"","",UnderVotes,21
+Suwannee,Wellborn,State House,10,REP,Chuck Brannan,1008
+Suwannee,Wellborn,State House,10,DEM,Ronald W. Williams II,192
+Suwannee,Wellborn,State House,10,NPA,Fred S. Martin,26
+Suwannee,Wellborn,State House,10,NPA,Merrillee Malwitz Jipson,25
+Suwannee,Wellborn,State House,10,"",OverVotes,2
+Suwannee,Wellborn,State House,10,"",UnderVotes,14
+Suwannee,Wellborn,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,481
+Suwannee,Wellborn,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,622
+Suwannee,Wellborn,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Wellborn,Suwannee County Conservation District,Group 4,"",UnderVotes,164
+Suwannee,Wellborn,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,699
+Suwannee,Wellborn,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,467
+Suwannee,Wellborn,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Wellborn,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,101
+Suwannee,Wellborn,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,679
+Suwannee,Wellborn,Retention of Harvey Jay,First District Court of Appeal,NOP,No,480
+Suwannee,Wellborn,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Suwannee,Wellborn,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,107
+Suwannee,Wellborn,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,688
+Suwannee,Wellborn,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,467
+Suwannee,Wellborn,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Wellborn,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,112
+Suwannee,Wellborn,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,675
+Suwannee,Wellborn,Retention of Brad Thomas,First District Court of Appeal,NOP,No,484
+Suwannee,Wellborn,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Suwannee,Wellborn,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,107
+Suwannee,Wellborn,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,684
+Suwannee,Wellborn,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,476
+Suwannee,Wellborn,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,3
+Suwannee,Wellborn,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,104
+Suwannee,Wellborn,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,677
+Suwannee,Wellborn,Retention of Allen Winsor,First District Court of Appeal,NOP,No,487
+Suwannee,Wellborn,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Wellborn,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,103
+Suwannee,Wellborn,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,720
+Suwannee,Wellborn,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,531
+Suwannee,Wellborn,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Suwannee,Wellborn,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,14
+Suwannee,Wellborn,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,879
+Suwannee,Wellborn,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,356
+Suwannee,Wellborn,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Wellborn,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,32
+Suwannee,Wellborn,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,840
+Suwannee,Wellborn,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,406
+Suwannee,Wellborn,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Suwannee,Wellborn,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,20
+Suwannee,Wellborn,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,567
+Suwannee,Wellborn,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,678
+Suwannee,Wellborn,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Wellborn,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,22
+Suwannee,Wellborn,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,883
+Suwannee,Wellborn,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,351
+Suwannee,Wellborn,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Suwannee,Wellborn,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,32
+Suwannee,Wellborn,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,765
+Suwannee,Wellborn,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,470
+Suwannee,Wellborn,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Wellborn,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,31
+Suwannee,Wellborn,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,809
+Suwannee,Wellborn,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,424
+Suwannee,Wellborn,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Wellborn,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,34
+Suwannee,Wellborn,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,594
+Suwannee,Wellborn,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,643
+Suwannee,Wellborn,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Suwannee,Wellborn,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,30
+Suwannee,Wellborn,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,849
+Suwannee,Wellborn,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,369
+Suwannee,Wellborn,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Suwannee,Wellborn,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,48
+Suwannee,Wellborn,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,667
+Suwannee,Wellborn,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,543
+Suwannee,Wellborn,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Suwannee,Wellborn,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,57
+Suwannee,Wellborn,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,917
+Suwannee,Wellborn,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,307
+Suwannee,Wellborn,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,3
+Suwannee,Wellborn,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,40
+Suwannee,Wellborn,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,545
+Suwannee,Wellborn,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,690
+Suwannee,Wellborn,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Suwannee,Wellborn,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,31
+Suwannee,Branford,U.S. Senate,"",REP,Rick Scott,1088
+Suwannee,Branford,U.S. Senate,"",DEM,Bill Nelson,239
+Suwannee,Branford,U.S. Senate,"","",WriteinVotes,4
+Suwannee,Branford,U.S. Senate,"","",OverVotes,0
+Suwannee,Branford,U.S. Senate,"","",UnderVotes,1
+Suwannee,Branford,U.S. House,2,REP,Neal Dunn,1139
+Suwannee,Branford,U.S. House,2,DEM,Bob Rackleff,181
+Suwannee,Branford,U.S. House,2,"",OverVotes,0
+Suwannee,Branford,U.S. House,2,"",UnderVotes,13
+Suwannee,Branford,Governor,"",REP,DeSantis / Nuñez,1128
+Suwannee,Branford,Governor,"",DEM,Gillum / King,180
+Suwannee,Branford,Governor,"",REF,Richardson / Argenziano,9
+Suwannee,Branford,Governor,"",NPA,Gibson / Wilds,4
+Suwannee,Branford,Governor,"",NPA,Foley / Tutton,5
+Suwannee,Branford,Governor,"",NPA,Stanley / McJury,1
+Suwannee,Branford,Governor,"","",WriteinVotes,1
+Suwannee,Branford,Governor,"","",OverVotes,1
+Suwannee,Branford,Governor,"","",UnderVotes,2
+Suwannee,Branford,Attorney General,"",REP,Ashley Moody,1126
+Suwannee,Branford,Attorney General,"",DEM,Sean Shaw,171
+Suwannee,Branford,Attorney General,"",NPA,Jeffrey Marc Siskind,16
+Suwannee,Branford,Attorney General,"","",OverVotes,1
+Suwannee,Branford,Attorney General,"","",UnderVotes,19
+Suwannee,Branford,Chief Financial Officer,"",REP,Jimmy Patronis,1121
+Suwannee,Branford,Chief Financial Officer,"",DEM,Jeremy Ring,188
+Suwannee,Branford,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Branford,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Branford,Chief Financial Officer,"","",UnderVotes,24
+Suwannee,Branford,Commissioner of Agriculture,"",REP,Matt Caldwell,1115
+Suwannee,Branford,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",199
+Suwannee,Branford,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Branford,Commissioner of Agriculture,"","",UnderVotes,17
+Suwannee,Branford,State House,10,REP,Chuck Brannan,1071
+Suwannee,Branford,State House,10,DEM,Ronald W. Williams II,147
+Suwannee,Branford,State House,10,NPA,Fred S. Martin,30
+Suwannee,Branford,State House,10,NPA,Merrillee Malwitz Jipson,65
+Suwannee,Branford,State House,10,"",OverVotes,0
+Suwannee,Branford,State House,10,"",UnderVotes,20
+Suwannee,Branford,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,520
+Suwannee,Branford,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,569
+Suwannee,Branford,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Branford,Suwannee County Conservation District,Group 4,"",UnderVotes,244
+Suwannee,Branford,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,751
+Suwannee,Branford,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,465
+Suwannee,Branford,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Branford,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,117
+Suwannee,Branford,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,724
+Suwannee,Branford,Retention of Harvey Jay,First District Court of Appeal,NOP,No,482
+Suwannee,Branford,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Suwannee,Branford,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,126
+Suwannee,Branford,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,719
+Suwannee,Branford,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,478
+Suwannee,Branford,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Suwannee,Branford,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,135
+Suwannee,Branford,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,713
+Suwannee,Branford,Retention of Brad Thomas,First District Court of Appeal,NOP,No,493
+Suwannee,Branford,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Branford,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,127
+Suwannee,Branford,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,708
+Suwannee,Branford,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,497
+Suwannee,Branford,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Suwannee,Branford,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,127
+Suwannee,Branford,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,717
+Suwannee,Branford,Retention of Allen Winsor,First District Court of Appeal,NOP,No,492
+Suwannee,Branford,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Branford,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,124
+Suwannee,Branford,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,759
+Suwannee,Branford,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,542
+Suwannee,Branford,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Suwannee,Branford,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,31
+Suwannee,Branford,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,908
+Suwannee,Branford,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,382
+Suwannee,Branford,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Branford,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,43
+Suwannee,Branford,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,845
+Suwannee,Branford,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,463
+Suwannee,Branford,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,Branford,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,25
+Suwannee,Branford,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,533
+Suwannee,Branford,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,768
+Suwannee,Branford,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Branford,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,32
+Suwannee,Branford,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,895
+Suwannee,Branford,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,390
+Suwannee,Branford,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Suwannee,Branford,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,46
+Suwannee,Branford,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,745
+Suwannee,Branford,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,548
+Suwannee,Branford,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Branford,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,39
+Suwannee,Branford,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,796
+Suwannee,Branford,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,480
+Suwannee,Branford,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,2
+Suwannee,Branford,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,55
+Suwannee,Branford,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,587
+Suwannee,Branford,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,698
+Suwannee,Branford,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Suwannee,Branford,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,46
+Suwannee,Branford,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,842
+Suwannee,Branford,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,427
+Suwannee,Branford,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Suwannee,Branford,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,63
+Suwannee,Branford,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,610
+Suwannee,Branford,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,639
+Suwannee,Branford,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Suwannee,Branford,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,82
+Suwannee,Branford,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,913
+Suwannee,Branford,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,370
+Suwannee,Branford,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Suwannee,Branford,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,48
+Suwannee,Branford,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,533
+Suwannee,Branford,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,755
+Suwannee,Branford,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Suwannee,Branford,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,43
+Suwannee,Clayland,U.S. Senate,"",REP,Rick Scott,575
+Suwannee,Clayland,U.S. Senate,"",DEM,Bill Nelson,113
+Suwannee,Clayland,U.S. Senate,"","",WriteinVotes,2
+Suwannee,Clayland,U.S. Senate,"","",OverVotes,0
+Suwannee,Clayland,U.S. Senate,"","",UnderVotes,6
+Suwannee,Clayland,U.S. House,2,REP,Neal Dunn,600
+Suwannee,Clayland,U.S. House,2,DEM,Bob Rackleff,90
+Suwannee,Clayland,U.S. House,2,"",OverVotes,0
+Suwannee,Clayland,U.S. House,2,"",UnderVotes,7
+Suwannee,Clayland,Governor,"",REP,DeSantis / Nuñez,597
+Suwannee,Clayland,Governor,"",DEM,Gillum / King,87
+Suwannee,Clayland,Governor,"",REF,Richardson / Argenziano,4
+Suwannee,Clayland,Governor,"",NPA,Gibson / Wilds,3
+Suwannee,Clayland,Governor,"",NPA,Foley / Tutton,0
+Suwannee,Clayland,Governor,"",NPA,Stanley / McJury,0
+Suwannee,Clayland,Governor,"","",WriteinVotes,1
+Suwannee,Clayland,Governor,"","",OverVotes,0
+Suwannee,Clayland,Governor,"","",UnderVotes,3
+Suwannee,Clayland,Attorney General,"",REP,Ashley Moody,608
+Suwannee,Clayland,Attorney General,"",DEM,Sean Shaw,81
+Suwannee,Clayland,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Suwannee,Clayland,Attorney General,"","",OverVotes,0
+Suwannee,Clayland,Attorney General,"","",UnderVotes,3
+Suwannee,Clayland,Chief Financial Officer,"",REP,Jimmy Patronis,585
+Suwannee,Clayland,Chief Financial Officer,"",DEM,Jeremy Ring,102
+Suwannee,Clayland,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Clayland,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Clayland,Chief Financial Officer,"","",UnderVotes,10
+Suwannee,Clayland,Commissioner of Agriculture,"",REP,Matt Caldwell,577
+Suwannee,Clayland,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",108
+Suwannee,Clayland,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Clayland,Commissioner of Agriculture,"","",UnderVotes,11
+Suwannee,Clayland,State House,10,REP,Chuck Brannan,579
+Suwannee,Clayland,State House,10,DEM,Ronald W. Williams II,94
+Suwannee,Clayland,State House,10,NPA,Fred S. Martin,10
+Suwannee,Clayland,State House,10,NPA,Merrillee Malwitz Jipson,7
+Suwannee,Clayland,State House,10,"",OverVotes,0
+Suwannee,Clayland,State House,10,"",UnderVotes,7
+Suwannee,Clayland,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,223
+Suwannee,Clayland,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,391
+Suwannee,Clayland,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Clayland,Suwannee County Conservation District,Group 4,"",UnderVotes,83
+Suwannee,Clayland,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,382
+Suwannee,Clayland,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,256
+Suwannee,Clayland,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Suwannee,Clayland,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,58
+Suwannee,Clayland,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,365
+Suwannee,Clayland,Retention of Harvey Jay,First District Court of Appeal,NOP,No,268
+Suwannee,Clayland,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Clayland,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,64
+Suwannee,Clayland,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,372
+Suwannee,Clayland,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,253
+Suwannee,Clayland,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Clayland,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,72
+Suwannee,Clayland,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,360
+Suwannee,Clayland,Retention of Brad Thomas,First District Court of Appeal,NOP,No,265
+Suwannee,Clayland,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Clayland,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,72
+Suwannee,Clayland,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,361
+Suwannee,Clayland,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,266
+Suwannee,Clayland,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Suwannee,Clayland,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,69
+Suwannee,Clayland,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,362
+Suwannee,Clayland,Retention of Allen Winsor,First District Court of Appeal,NOP,No,265
+Suwannee,Clayland,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Suwannee,Clayland,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,69
+Suwannee,Clayland,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,388
+Suwannee,Clayland,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,298
+Suwannee,Clayland,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Suwannee,Clayland,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Suwannee,Clayland,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,505
+Suwannee,Clayland,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,170
+Suwannee,Clayland,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Suwannee,Clayland,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,21
+Suwannee,Clayland,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,455
+Suwannee,Clayland,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,225
+Suwannee,Clayland,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,Clayland,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,17
+Suwannee,Clayland,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,300
+Suwannee,Clayland,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,384
+Suwannee,Clayland,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Clayland,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,13
+Suwannee,Clayland,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,485
+Suwannee,Clayland,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,181
+Suwannee,Clayland,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Suwannee,Clayland,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,30
+Suwannee,Clayland,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,426
+Suwannee,Clayland,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,247
+Suwannee,Clayland,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Clayland,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,23
+Suwannee,Clayland,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,425
+Suwannee,Clayland,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,250
+Suwannee,Clayland,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Clayland,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,22
+Suwannee,Clayland,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,321
+Suwannee,Clayland,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,351
+Suwannee,Clayland,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Suwannee,Clayland,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Suwannee,Clayland,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,469
+Suwannee,Clayland,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,199
+Suwannee,Clayland,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Suwannee,Clayland,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,28
+Suwannee,Clayland,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,343
+Suwannee,Clayland,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,319
+Suwannee,Clayland,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Suwannee,Clayland,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,33
+Suwannee,Clayland,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,474
+Suwannee,Clayland,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,200
+Suwannee,Clayland,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Suwannee,Clayland,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,22
+Suwannee,Clayland,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,236
+Suwannee,Clayland,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,444
+Suwannee,Clayland,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Suwannee,Clayland,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,17
+Suwannee,Pinegrove,U.S. Senate,"",REP,Rick Scott,619
+Suwannee,Pinegrove,U.S. Senate,"",DEM,Bill Nelson,156
+Suwannee,Pinegrove,U.S. Senate,"","",WriteinVotes,2
+Suwannee,Pinegrove,U.S. Senate,"","",OverVotes,0
+Suwannee,Pinegrove,U.S. Senate,"","",UnderVotes,5
+Suwannee,Pinegrove,U.S. House,2,REP,Neal Dunn,636
+Suwannee,Pinegrove,U.S. House,2,DEM,Bob Rackleff,135
+Suwannee,Pinegrove,U.S. House,2,"",OverVotes,0
+Suwannee,Pinegrove,U.S. House,2,"",UnderVotes,11
+Suwannee,Pinegrove,Governor,"",REP,DeSantis / Nuñez,646
+Suwannee,Pinegrove,Governor,"",DEM,Gillum / King,121
+Suwannee,Pinegrove,Governor,"",REF,Richardson / Argenziano,5
+Suwannee,Pinegrove,Governor,"",NPA,Gibson / Wilds,2
+Suwannee,Pinegrove,Governor,"",NPA,Foley / Tutton,1
+Suwannee,Pinegrove,Governor,"",NPA,Stanley / McJury,2
+Suwannee,Pinegrove,Governor,"","",WriteinVotes,0
+Suwannee,Pinegrove,Governor,"","",OverVotes,2
+Suwannee,Pinegrove,Governor,"","",UnderVotes,3
+Suwannee,Pinegrove,Attorney General,"",REP,Ashley Moody,649
+Suwannee,Pinegrove,Attorney General,"",DEM,Sean Shaw,114
+Suwannee,Pinegrove,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Suwannee,Pinegrove,Attorney General,"","",OverVotes,0
+Suwannee,Pinegrove,Attorney General,"","",UnderVotes,9
+Suwannee,Pinegrove,Chief Financial Officer,"",REP,Jimmy Patronis,638
+Suwannee,Pinegrove,Chief Financial Officer,"",DEM,Jeremy Ring,124
+Suwannee,Pinegrove,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Pinegrove,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Pinegrove,Chief Financial Officer,"","",UnderVotes,20
+Suwannee,Pinegrove,Commissioner of Agriculture,"",REP,Matt Caldwell,632
+Suwannee,Pinegrove,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",133
+Suwannee,Pinegrove,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Pinegrove,Commissioner of Agriculture,"","",UnderVotes,17
+Suwannee,Pinegrove,State House,10,REP,Chuck Brannan,630
+Suwannee,Pinegrove,State House,10,DEM,Ronald W. Williams II,114
+Suwannee,Pinegrove,State House,10,NPA,Fred S. Martin,15
+Suwannee,Pinegrove,State House,10,NPA,Merrillee Malwitz Jipson,14
+Suwannee,Pinegrove,State House,10,"",OverVotes,0
+Suwannee,Pinegrove,State House,10,"",UnderVotes,9
+Suwannee,Pinegrove,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,321
+Suwannee,Pinegrove,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,371
+Suwannee,Pinegrove,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Pinegrove,Suwannee County Conservation District,Group 4,"",UnderVotes,90
+Suwannee,Pinegrove,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,443
+Suwannee,Pinegrove,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,278
+Suwannee,Pinegrove,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Suwannee,Pinegrove,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,61
+Suwannee,Pinegrove,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,410
+Suwannee,Pinegrove,Retention of Harvey Jay,First District Court of Appeal,NOP,No,303
+Suwannee,Pinegrove,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Suwannee,Pinegrove,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,69
+Suwannee,Pinegrove,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,421
+Suwannee,Pinegrove,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,290
+Suwannee,Pinegrove,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Pinegrove,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,71
+Suwannee,Pinegrove,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,414
+Suwannee,Pinegrove,Retention of Brad Thomas,First District Court of Appeal,NOP,No,297
+Suwannee,Pinegrove,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Pinegrove,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,71
+Suwannee,Pinegrove,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,409
+Suwannee,Pinegrove,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,301
+Suwannee,Pinegrove,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Pinegrove,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,72
+Suwannee,Pinegrove,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,411
+Suwannee,Pinegrove,Retention of Allen Winsor,First District Court of Appeal,NOP,No,299
+Suwannee,Pinegrove,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Pinegrove,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,72
+Suwannee,Pinegrove,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,431
+Suwannee,Pinegrove,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,331
+Suwannee,Pinegrove,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Suwannee,Pinegrove,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,19
+Suwannee,Pinegrove,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,558
+Suwannee,Pinegrove,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,200
+Suwannee,Pinegrove,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Pinegrove,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,24
+Suwannee,Pinegrove,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,514
+Suwannee,Pinegrove,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,251
+Suwannee,Pinegrove,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Suwannee,Pinegrove,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,16
+Suwannee,Pinegrove,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,339
+Suwannee,Pinegrove,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,424
+Suwannee,Pinegrove,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Pinegrove,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,19
+Suwannee,Pinegrove,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,538
+Suwannee,Pinegrove,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,218
+Suwannee,Pinegrove,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Pinegrove,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,26
+Suwannee,Pinegrove,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,417
+Suwannee,Pinegrove,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,336
+Suwannee,Pinegrove,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Suwannee,Pinegrove,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,28
+Suwannee,Pinegrove,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,474
+Suwannee,Pinegrove,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,284
+Suwannee,Pinegrove,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Suwannee,Pinegrove,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Suwannee,Pinegrove,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,327
+Suwannee,Pinegrove,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,423
+Suwannee,Pinegrove,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Suwannee,Pinegrove,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,30
+Suwannee,Pinegrove,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,519
+Suwannee,Pinegrove,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,225
+Suwannee,Pinegrove,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Suwannee,Pinegrove,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,36
+Suwannee,Pinegrove,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,395
+Suwannee,Pinegrove,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,342
+Suwannee,Pinegrove,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Suwannee,Pinegrove,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,43
+Suwannee,Pinegrove,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,556
+Suwannee,Pinegrove,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,189
+Suwannee,Pinegrove,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Suwannee,Pinegrove,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,37
+Suwannee,Pinegrove,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,333
+Suwannee,Pinegrove,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,418
+Suwannee,Pinegrove,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Suwannee,Pinegrove,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,29
+Suwannee,Ranchettes,U.S. Senate,"",REP,Rick Scott,710
+Suwannee,Ranchettes,U.S. Senate,"",DEM,Bill Nelson,192
+Suwannee,Ranchettes,U.S. Senate,"","",WriteinVotes,6
+Suwannee,Ranchettes,U.S. Senate,"","",OverVotes,0
+Suwannee,Ranchettes,U.S. Senate,"","",UnderVotes,6
+Suwannee,Ranchettes,U.S. House,2,REP,Neal Dunn,748
+Suwannee,Ranchettes,U.S. House,2,DEM,Bob Rackleff,163
+Suwannee,Ranchettes,U.S. House,2,"",OverVotes,0
+Suwannee,Ranchettes,U.S. House,2,"",UnderVotes,6
+Suwannee,Ranchettes,Governor,"",REP,DeSantis / Nuñez,738
+Suwannee,Ranchettes,Governor,"",DEM,Gillum / King,158
+Suwannee,Ranchettes,Governor,"",REF,Richardson / Argenziano,3
+Suwannee,Ranchettes,Governor,"",NPA,Gibson / Wilds,3
+Suwannee,Ranchettes,Governor,"",NPA,Foley / Tutton,6
+Suwannee,Ranchettes,Governor,"",NPA,Stanley / McJury,1
+Suwannee,Ranchettes,Governor,"","",WriteinVotes,0
+Suwannee,Ranchettes,Governor,"","",OverVotes,2
+Suwannee,Ranchettes,Governor,"","",UnderVotes,3
+Suwannee,Ranchettes,Attorney General,"",REP,Ashley Moody,745
+Suwannee,Ranchettes,Attorney General,"",DEM,Sean Shaw,148
+Suwannee,Ranchettes,Attorney General,"",NPA,Jeffrey Marc Siskind,16
+Suwannee,Ranchettes,Attorney General,"","",OverVotes,1
+Suwannee,Ranchettes,Attorney General,"","",UnderVotes,7
+Suwannee,Ranchettes,Chief Financial Officer,"",REP,Jimmy Patronis,730
+Suwannee,Ranchettes,Chief Financial Officer,"",DEM,Jeremy Ring,174
+Suwannee,Ranchettes,Chief Financial Officer,"","",WriteinVotes,0
+Suwannee,Ranchettes,Chief Financial Officer,"","",OverVotes,0
+Suwannee,Ranchettes,Chief Financial Officer,"","",UnderVotes,13
+Suwannee,Ranchettes,Commissioner of Agriculture,"",REP,Matt Caldwell,729
+Suwannee,Ranchettes,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",172
+Suwannee,Ranchettes,Commissioner of Agriculture,"","",OverVotes,0
+Suwannee,Ranchettes,Commissioner of Agriculture,"","",UnderVotes,13
+Suwannee,Ranchettes,State House,10,REP,Chuck Brannan,726
+Suwannee,Ranchettes,State House,10,DEM,Ronald W. Williams II,141
+Suwannee,Ranchettes,State House,10,NPA,Fred S. Martin,28
+Suwannee,Ranchettes,State House,10,NPA,Merrillee Malwitz Jipson,14
+Suwannee,Ranchettes,State House,10,"",OverVotes,0
+Suwannee,Ranchettes,State House,10,"",UnderVotes,8
+Suwannee,Ranchettes,Suwannee County Conservation District,Group 4,NOP,Jordan Bosserman,423
+Suwannee,Ranchettes,Suwannee County Conservation District,Group 4,NOP,Ronnie Lawson,385
+Suwannee,Ranchettes,Suwannee County Conservation District,Group 4,"",OverVotes,0
+Suwannee,Ranchettes,Suwannee County Conservation District,Group 4,"",UnderVotes,109
+Suwannee,Ranchettes,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,502
+Suwannee,Ranchettes,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,333
+Suwannee,Ranchettes,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Suwannee,Ranchettes,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,81
+Suwannee,Ranchettes,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,480
+Suwannee,Ranchettes,Retention of Harvey Jay,First District Court of Appeal,NOP,No,344
+Suwannee,Ranchettes,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Suwannee,Ranchettes,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,92
+Suwannee,Ranchettes,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,497
+Suwannee,Ranchettes,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,323
+Suwannee,Ranchettes,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Suwannee,Ranchettes,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,97
+Suwannee,Ranchettes,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,492
+Suwannee,Ranchettes,Retention of Brad Thomas,First District Court of Appeal,NOP,No,332
+Suwannee,Ranchettes,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Suwannee,Ranchettes,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,93
+Suwannee,Ranchettes,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,482
+Suwannee,Ranchettes,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,338
+Suwannee,Ranchettes,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Suwannee,Ranchettes,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,95
+Suwannee,Ranchettes,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,487
+Suwannee,Ranchettes,Retention of Allen Winsor,First District Court of Appeal,NOP,No,337
+Suwannee,Ranchettes,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Suwannee,Ranchettes,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,93
+Suwannee,Ranchettes,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,557
+Suwannee,Ranchettes,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,333
+Suwannee,Ranchettes,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Suwannee,Ranchettes,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,25
+Suwannee,Ranchettes,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,652
+Suwannee,Ranchettes,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,239
+Suwannee,Ranchettes,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Suwannee,Ranchettes,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,26
+Suwannee,Ranchettes,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,657
+Suwannee,Ranchettes,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,249
+Suwannee,Ranchettes,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Suwannee,Ranchettes,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Suwannee,Ranchettes,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,453
+Suwannee,Ranchettes,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,450
+Suwannee,Ranchettes,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Suwannee,Ranchettes,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,14
+Suwannee,Ranchettes,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,686
+Suwannee,Ranchettes,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,201
+Suwannee,Ranchettes,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Suwannee,Ranchettes,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,30
+Suwannee,Ranchettes,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,566
+Suwannee,Ranchettes,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,325
+Suwannee,Ranchettes,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Suwannee,Ranchettes,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,26
+Suwannee,Ranchettes,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,640
+Suwannee,Ranchettes,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,250
+Suwannee,Ranchettes,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Suwannee,Ranchettes,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,26
+Suwannee,Ranchettes,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,456
+Suwannee,Ranchettes,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,433
+Suwannee,Ranchettes,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,3
+Suwannee,Ranchettes,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Suwannee,Ranchettes,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,641
+Suwannee,Ranchettes,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,238
+Suwannee,Ranchettes,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Suwannee,Ranchettes,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,36
+Suwannee,Ranchettes,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,501
+Suwannee,Ranchettes,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,369
+Suwannee,Ranchettes,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Suwannee,Ranchettes,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,47
+Suwannee,Ranchettes,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,687
+Suwannee,Ranchettes,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,194
+Suwannee,Ranchettes,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Suwannee,Ranchettes,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,36
+Suwannee,Ranchettes,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,449
+Suwannee,Ranchettes,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,441
+Suwannee,Ranchettes,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Suwannee,Ranchettes,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,27
+Suwannee,Branford,Registered Voters,"","","",2107
+Suwannee,Church of God,Registered Voters,"","","",2007
+Suwannee,Clayland,Registered Voters,"","","",1049
+Suwannee,Coliseum,Registered Voters,"","","",2124
+Suwannee,Diagnostic Center,Registered Voters,"","","",1457
+Suwannee,Dowling Park,Registered Voters,"","","",1494
+Suwannee,Luraville,Registered Voters,"","","",1360
+Suwannee,McAlpin,Registered Voters,"","","",1653
+Suwannee,Mt. Gilead,Registered Voters,"","","",915
+Suwannee,O'Brien,Registered Voters,"","","",1736
+Suwannee,Pinegrove,Registered Voters,"","","",1193
+Suwannee,Presbyterian Church,Registered Voters,"","","",1650
+Suwannee,Ranchettes,Registered Voters,"","","",1616
+Suwannee,Recreation Center,Registered Voters,"","","",2252
+Suwannee,Rocky Sink,Registered Voters,"","","",1203
+Suwannee,Wellborn,Registered Voters,"","","",2031

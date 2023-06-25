@@ -1,0 +1,1526 @@
+county,precinct,office,district,party,candidate,votes
+Taylor,1 1st United Methodist Ch,U.S. Senate,"",REP,Rick Scott,338
+Taylor,1 1st United Methodist Ch,U.S. Senate,"",DEM,Bill Nelson,251
+Taylor,1 1st United Methodist Ch,U.S. Senate,"","",WriteinVotes,2
+Taylor,1 1st United Methodist Ch,U.S. Senate,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,U.S. Senate,"","",UnderVotes,4
+Taylor,1 1st United Methodist Ch,U.S. House,2,REP,Neal Dunn,363
+Taylor,1 1st United Methodist Ch,U.S. House,2,DEM,Bob Rackleff,224
+Taylor,1 1st United Methodist Ch,U.S. House,2,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,U.S. House,2,"",UnderVotes,8
+Taylor,1 1st United Methodist Ch,Governor,"",REP,DeSantis / Nuñez,357
+Taylor,1 1st United Methodist Ch,Governor,"",DEM,Gillum / King,223
+Taylor,1 1st United Methodist Ch,Governor,"",REF,Richardson / Argenziano,5
+Taylor,1 1st United Methodist Ch,Governor,"",NPA,Gibson / Wilds,3
+Taylor,1 1st United Methodist Ch,Governor,"",NPA,Foley / Tutton,1
+Taylor,1 1st United Methodist Ch,Governor,"",NPA,Stanley / McJury,1
+Taylor,1 1st United Methodist Ch,Governor,"","",WriteinVotes,2
+Taylor,1 1st United Methodist Ch,Governor,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Governor,"","",UnderVotes,3
+Taylor,1 1st United Methodist Ch,Attorney General,"",REP,Ashley Moody,361
+Taylor,1 1st United Methodist Ch,Attorney General,"",DEM,Sean Shaw,217
+Taylor,1 1st United Methodist Ch,Attorney General,"",NPA,Jeffrey Marc Siskind,10
+Taylor,1 1st United Methodist Ch,Attorney General,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Attorney General,"","",UnderVotes,7
+Taylor,1 1st United Methodist Ch,Chief Financial Officer,"",REP,Jimmy Patronis,348
+Taylor,1 1st United Methodist Ch,Chief Financial Officer,"",DEM,Jeremy Ring,233
+Taylor,1 1st United Methodist Ch,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,1 1st United Methodist Ch,Chief Financial Officer,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Chief Financial Officer,"","",UnderVotes,14
+Taylor,1 1st United Methodist Ch,Commissioner of Agriculture,"",REP,Matt Caldwell,346
+Taylor,1 1st United Methodist Ch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",236
+Taylor,1 1st United Methodist Ch,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Commissioner of Agriculture,"","",UnderVotes,13
+Taylor,1 1st United Methodist Ch,County Commissioner,4,REP,Douglas Cruce,190
+Taylor,1 1st United Methodist Ch,County Commissioner,4,DEM,Pam Feagle,400
+Taylor,1 1st United Methodist Ch,County Commissioner,4,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,County Commissioner,4,"",UnderVotes,5
+Taylor,1 1st United Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,352
+Taylor,1 1st United Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,192
+Taylor,1 1st United Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,51
+Taylor,1 1st United Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,344
+Taylor,1 1st United Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,195
+Taylor,1 1st United Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,56
+Taylor,1 1st United Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,346
+Taylor,1 1st United Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,190
+Taylor,1 1st United Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,59
+Taylor,1 1st United Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,346
+Taylor,1 1st United Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,190
+Taylor,1 1st United Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,59
+Taylor,1 1st United Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,333
+Taylor,1 1st United Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,199
+Taylor,1 1st United Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,63
+Taylor,1 1st United Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,328
+Taylor,1 1st United Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,202
+Taylor,1 1st United Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,1 1st United Methodist Ch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,65
+Taylor,1 1st United Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,318
+Taylor,1 1st United Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,259
+Taylor,1 1st United Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,18
+Taylor,1 1st United Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,352
+Taylor,1 1st United Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,223
+Taylor,1 1st United Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,20
+Taylor,1 1st United Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,386
+Taylor,1 1st United Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,197
+Taylor,1 1st United Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Taylor,1 1st United Methodist Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Taylor,1 1st United Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,325
+Taylor,1 1st United Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,262
+Taylor,1 1st United Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Taylor,1 1st United Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,359
+Taylor,1 1st United Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,218
+Taylor,1 1st United Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,1 1st United Methodist Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Taylor,1 1st United Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,325
+Taylor,1 1st United Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,254
+Taylor,1 1st United Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,16
+Taylor,1 1st United Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,385
+Taylor,1 1st United Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,190
+Taylor,1 1st United Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,20
+Taylor,1 1st United Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,320
+Taylor,1 1st United Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,259
+Taylor,1 1st United Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,16
+Taylor,1 1st United Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,378
+Taylor,1 1st United Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,192
+Taylor,1 1st United Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,25
+Taylor,1 1st United Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,292
+Taylor,1 1st United Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,275
+Taylor,1 1st United Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,28
+Taylor,1 1st United Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,410
+Taylor,1 1st United Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,163
+Taylor,1 1st United Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,22
+Taylor,1 1st United Methodist Ch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,267
+Taylor,1 1st United Methodist Ch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,316
+Taylor,1 1st United Methodist Ch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,1 1st United Methodist Ch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,12
+Taylor,2 Big Bend Technical College,U.S. Senate,"",REP,Rick Scott,527
+Taylor,2 Big Bend Technical College,U.S. Senate,"",DEM,Bill Nelson,136
+Taylor,2 Big Bend Technical College,U.S. Senate,"","",WriteinVotes,4
+Taylor,2 Big Bend Technical College,U.S. Senate,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,U.S. Senate,"","",UnderVotes,4
+Taylor,2 Big Bend Technical College,U.S. House,2,REP,Neal Dunn,562
+Taylor,2 Big Bend Technical College,U.S. House,2,DEM,Bob Rackleff,102
+Taylor,2 Big Bend Technical College,U.S. House,2,"",OverVotes,0
+Taylor,2 Big Bend Technical College,U.S. House,2,"",UnderVotes,7
+Taylor,2 Big Bend Technical College,Governor,"",REP,DeSantis / Nuñez,564
+Taylor,2 Big Bend Technical College,Governor,"",DEM,Gillum / King,93
+Taylor,2 Big Bend Technical College,Governor,"",REF,Richardson / Argenziano,4
+Taylor,2 Big Bend Technical College,Governor,"",NPA,Gibson / Wilds,1
+Taylor,2 Big Bend Technical College,Governor,"",NPA,Foley / Tutton,2
+Taylor,2 Big Bend Technical College,Governor,"",NPA,Stanley / McJury,4
+Taylor,2 Big Bend Technical College,Governor,"","",WriteinVotes,0
+Taylor,2 Big Bend Technical College,Governor,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Governor,"","",UnderVotes,3
+Taylor,2 Big Bend Technical College,Attorney General,"",REP,Ashley Moody,570
+Taylor,2 Big Bend Technical College,Attorney General,"",DEM,Sean Shaw,90
+Taylor,2 Big Bend Technical College,Attorney General,"",NPA,Jeffrey Marc Siskind,1
+Taylor,2 Big Bend Technical College,Attorney General,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Attorney General,"","",UnderVotes,10
+Taylor,2 Big Bend Technical College,Chief Financial Officer,"",REP,Jimmy Patronis,542
+Taylor,2 Big Bend Technical College,Chief Financial Officer,"",DEM,Jeremy Ring,114
+Taylor,2 Big Bend Technical College,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,2 Big Bend Technical College,Chief Financial Officer,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Chief Financial Officer,"","",UnderVotes,15
+Taylor,2 Big Bend Technical College,Commissioner of Agriculture,"",REP,Matt Caldwell,546
+Taylor,2 Big Bend Technical College,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",112
+Taylor,2 Big Bend Technical College,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Commissioner of Agriculture,"","",UnderVotes,13
+Taylor,2 Big Bend Technical College,County Commissioner,2,REP,Jim Moody,451
+Taylor,2 Big Bend Technical College,County Commissioner,2,NPA,Cassie L Buckley,214
+Taylor,2 Big Bend Technical College,County Commissioner,2,"",OverVotes,0
+Taylor,2 Big Bend Technical College,County Commissioner,2,"",UnderVotes,6
+Taylor,2 Big Bend Technical College,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,417
+Taylor,2 Big Bend Technical College,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,213
+Taylor,2 Big Bend Technical College,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,2 Big Bend Technical College,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,41
+Taylor,2 Big Bend Technical College,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,407
+Taylor,2 Big Bend Technical College,Retention of Harvey Jay,First District Court of Appeal,NOP,No,215
+Taylor,2 Big Bend Technical College,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Taylor,2 Big Bend Technical College,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,48
+Taylor,2 Big Bend Technical College,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,409
+Taylor,2 Big Bend Technical College,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,214
+Taylor,2 Big Bend Technical College,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,2 Big Bend Technical College,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,48
+Taylor,2 Big Bend Technical College,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,388
+Taylor,2 Big Bend Technical College,Retention of Brad Thomas,First District Court of Appeal,NOP,No,230
+Taylor,2 Big Bend Technical College,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,2 Big Bend Technical College,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,53
+Taylor,2 Big Bend Technical College,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,392
+Taylor,2 Big Bend Technical College,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,225
+Taylor,2 Big Bend Technical College,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,2 Big Bend Technical College,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,54
+Taylor,2 Big Bend Technical College,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,395
+Taylor,2 Big Bend Technical College,Retention of Allen Winsor,First District Court of Appeal,NOP,No,222
+Taylor,2 Big Bend Technical College,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,2 Big Bend Technical College,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,54
+Taylor,2 Big Bend Technical College,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,367
+Taylor,2 Big Bend Technical College,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,282
+Taylor,2 Big Bend Technical College,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,22
+Taylor,2 Big Bend Technical College,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,487
+Taylor,2 Big Bend Technical College,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,165
+Taylor,2 Big Bend Technical College,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,19
+Taylor,2 Big Bend Technical College,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,464
+Taylor,2 Big Bend Technical College,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,196
+Taylor,2 Big Bend Technical College,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Taylor,2 Big Bend Technical College,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,329
+Taylor,2 Big Bend Technical College,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,332
+Taylor,2 Big Bend Technical College,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,10
+Taylor,2 Big Bend Technical College,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,478
+Taylor,2 Big Bend Technical College,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,175
+Taylor,2 Big Bend Technical College,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,2 Big Bend Technical College,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Taylor,2 Big Bend Technical College,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,424
+Taylor,2 Big Bend Technical College,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,225
+Taylor,2 Big Bend Technical College,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Taylor,2 Big Bend Technical College,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,21
+Taylor,2 Big Bend Technical College,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,462
+Taylor,2 Big Bend Technical College,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,187
+Taylor,2 Big Bend Technical College,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,22
+Taylor,2 Big Bend Technical College,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,330
+Taylor,2 Big Bend Technical College,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,316
+Taylor,2 Big Bend Technical College,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Taylor,2 Big Bend Technical College,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,457
+Taylor,2 Big Bend Technical College,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,184
+Taylor,2 Big Bend Technical College,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,30
+Taylor,2 Big Bend Technical College,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,322
+Taylor,2 Big Bend Technical College,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,314
+Taylor,2 Big Bend Technical College,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,35
+Taylor,2 Big Bend Technical College,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,492
+Taylor,2 Big Bend Technical College,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,155
+Taylor,2 Big Bend Technical College,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,24
+Taylor,2 Big Bend Technical College,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,254
+Taylor,2 Big Bend Technical College,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,403
+Taylor,2 Big Bend Technical College,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,2 Big Bend Technical College,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,14
+Taylor,3 Blue Creek Bapt Church,U.S. Senate,"",REP,Rick Scott,502
+Taylor,3 Blue Creek Bapt Church,U.S. Senate,"",DEM,Bill Nelson,116
+Taylor,3 Blue Creek Bapt Church,U.S. Senate,"","",WriteinVotes,1
+Taylor,3 Blue Creek Bapt Church,U.S. Senate,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,U.S. Senate,"","",UnderVotes,1
+Taylor,3 Blue Creek Bapt Church,U.S. House,2,REP,Neal Dunn,506
+Taylor,3 Blue Creek Bapt Church,U.S. House,2,DEM,Bob Rackleff,101
+Taylor,3 Blue Creek Bapt Church,U.S. House,2,"",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,U.S. House,2,"",UnderVotes,13
+Taylor,3 Blue Creek Bapt Church,Governor,"",REP,DeSantis / Nuñez,522
+Taylor,3 Blue Creek Bapt Church,Governor,"",DEM,Gillum / King,83
+Taylor,3 Blue Creek Bapt Church,Governor,"",REF,Richardson / Argenziano,4
+Taylor,3 Blue Creek Bapt Church,Governor,"",NPA,Gibson / Wilds,3
+Taylor,3 Blue Creek Bapt Church,Governor,"",NPA,Foley / Tutton,2
+Taylor,3 Blue Creek Bapt Church,Governor,"",NPA,Stanley / McJury,3
+Taylor,3 Blue Creek Bapt Church,Governor,"","",WriteinVotes,0
+Taylor,3 Blue Creek Bapt Church,Governor,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Governor,"","",UnderVotes,3
+Taylor,3 Blue Creek Bapt Church,Attorney General,"",REP,Ashley Moody,522
+Taylor,3 Blue Creek Bapt Church,Attorney General,"",DEM,Sean Shaw,82
+Taylor,3 Blue Creek Bapt Church,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Taylor,3 Blue Creek Bapt Church,Attorney General,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Attorney General,"","",UnderVotes,8
+Taylor,3 Blue Creek Bapt Church,Chief Financial Officer,"",REP,Jimmy Patronis,510
+Taylor,3 Blue Creek Bapt Church,Chief Financial Officer,"",DEM,Jeremy Ring,96
+Taylor,3 Blue Creek Bapt Church,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,3 Blue Creek Bapt Church,Chief Financial Officer,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Chief Financial Officer,"","",UnderVotes,14
+Taylor,3 Blue Creek Bapt Church,Commissioner of Agriculture,"",REP,Matt Caldwell,507
+Taylor,3 Blue Creek Bapt Church,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",102
+Taylor,3 Blue Creek Bapt Church,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Commissioner of Agriculture,"","",UnderVotes,11
+Taylor,3 Blue Creek Bapt Church,County Commissioner,3,REP,Sean Andrew Murphy,220
+Taylor,3 Blue Creek Bapt Church,County Commissioner,3,DEM,Michael Elzie Newman,86
+Taylor,3 Blue Creek Bapt Church,County Commissioner,3,NPA,Steve Spradley,164
+Taylor,3 Blue Creek Bapt Church,County Commissioner,3,NPA,Ursula Miller,93
+Taylor,3 Blue Creek Bapt Church,County Commissioner,3,NPA,Jody James DeVane,54
+Taylor,3 Blue Creek Bapt Church,County Commissioner,3,"",OverVotes,1
+Taylor,3 Blue Creek Bapt Church,County Commissioner,3,"",UnderVotes,2
+Taylor,3 Blue Creek Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,361
+Taylor,3 Blue Creek Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,201
+Taylor,3 Blue Creek Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,58
+Taylor,3 Blue Creek Bapt Church,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,352
+Taylor,3 Blue Creek Bapt Church,Retention of Harvey Jay,First District Court of Appeal,NOP,No,203
+Taylor,3 Blue Creek Bapt Church,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,65
+Taylor,3 Blue Creek Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,356
+Taylor,3 Blue Creek Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,199
+Taylor,3 Blue Creek Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,65
+Taylor,3 Blue Creek Bapt Church,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,351
+Taylor,3 Blue Creek Bapt Church,Retention of Brad Thomas,First District Court of Appeal,NOP,No,198
+Taylor,3 Blue Creek Bapt Church,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,71
+Taylor,3 Blue Creek Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,349
+Taylor,3 Blue Creek Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,200
+Taylor,3 Blue Creek Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,71
+Taylor,3 Blue Creek Bapt Church,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,338
+Taylor,3 Blue Creek Bapt Church,Retention of Allen Winsor,First District Court of Appeal,NOP,No,204
+Taylor,3 Blue Creek Bapt Church,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,78
+Taylor,3 Blue Creek Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,399
+Taylor,3 Blue Creek Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,203
+Taylor,3 Blue Creek Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,18
+Taylor,3 Blue Creek Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,477
+Taylor,3 Blue Creek Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,127
+Taylor,3 Blue Creek Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,16
+Taylor,3 Blue Creek Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,437
+Taylor,3 Blue Creek Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,170
+Taylor,3 Blue Creek Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,13
+Taylor,3 Blue Creek Bapt Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,299
+Taylor,3 Blue Creek Bapt Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,311
+Taylor,3 Blue Creek Bapt Church,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Taylor,3 Blue Creek Bapt Church,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,9
+Taylor,3 Blue Creek Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,475
+Taylor,3 Blue Creek Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,131
+Taylor,3 Blue Creek Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,14
+Taylor,3 Blue Creek Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,419
+Taylor,3 Blue Creek Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,184
+Taylor,3 Blue Creek Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,17
+Taylor,3 Blue Creek Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,434
+Taylor,3 Blue Creek Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,167
+Taylor,3 Blue Creek Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Taylor,3 Blue Creek Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,316
+Taylor,3 Blue Creek Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,284
+Taylor,3 Blue Creek Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,20
+Taylor,3 Blue Creek Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,418
+Taylor,3 Blue Creek Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,169
+Taylor,3 Blue Creek Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,33
+Taylor,3 Blue Creek Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,347
+Taylor,3 Blue Creek Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,230
+Taylor,3 Blue Creek Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,43
+Taylor,3 Blue Creek Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,457
+Taylor,3 Blue Creek Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,135
+Taylor,3 Blue Creek Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Taylor,3 Blue Creek Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,27
+Taylor,3 Blue Creek Bapt Church,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,249
+Taylor,3 Blue Creek Bapt Church,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,356
+Taylor,3 Blue Creek Bapt Church,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,3 Blue Creek Bapt Church,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,15
+Taylor,4 Salem Baptist Church,U.S. Senate,"",REP,Rick Scott,75
+Taylor,4 Salem Baptist Church,U.S. Senate,"",DEM,Bill Nelson,18
+Taylor,4 Salem Baptist Church,U.S. Senate,"","",WriteinVotes,0
+Taylor,4 Salem Baptist Church,U.S. Senate,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,U.S. Senate,"","",UnderVotes,0
+Taylor,4 Salem Baptist Church,U.S. House,2,REP,Neal Dunn,79
+Taylor,4 Salem Baptist Church,U.S. House,2,DEM,Bob Rackleff,10
+Taylor,4 Salem Baptist Church,U.S. House,2,"",OverVotes,0
+Taylor,4 Salem Baptist Church,U.S. House,2,"",UnderVotes,4
+Taylor,4 Salem Baptist Church,Governor,"",REP,DeSantis / Nuñez,81
+Taylor,4 Salem Baptist Church,Governor,"",DEM,Gillum / King,10
+Taylor,4 Salem Baptist Church,Governor,"",REF,Richardson / Argenziano,0
+Taylor,4 Salem Baptist Church,Governor,"",NPA,Gibson / Wilds,0
+Taylor,4 Salem Baptist Church,Governor,"",NPA,Foley / Tutton,0
+Taylor,4 Salem Baptist Church,Governor,"",NPA,Stanley / McJury,1
+Taylor,4 Salem Baptist Church,Governor,"","",WriteinVotes,0
+Taylor,4 Salem Baptist Church,Governor,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Governor,"","",UnderVotes,1
+Taylor,4 Salem Baptist Church,Attorney General,"",REP,Ashley Moody,77
+Taylor,4 Salem Baptist Church,Attorney General,"",DEM,Sean Shaw,10
+Taylor,4 Salem Baptist Church,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Taylor,4 Salem Baptist Church,Attorney General,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Attorney General,"","",UnderVotes,3
+Taylor,4 Salem Baptist Church,Chief Financial Officer,"",REP,Jimmy Patronis,75
+Taylor,4 Salem Baptist Church,Chief Financial Officer,"",DEM,Jeremy Ring,13
+Taylor,4 Salem Baptist Church,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,4 Salem Baptist Church,Chief Financial Officer,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Chief Financial Officer,"","",UnderVotes,5
+Taylor,4 Salem Baptist Church,Commissioner of Agriculture,"",REP,Matt Caldwell,76
+Taylor,4 Salem Baptist Church,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",10
+Taylor,4 Salem Baptist Church,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Commissioner of Agriculture,"","",UnderVotes,7
+Taylor,4 Salem Baptist Church,County Commissioner,3,REP,Sean Andrew Murphy,13
+Taylor,4 Salem Baptist Church,County Commissioner,3,DEM,Michael Elzie Newman,64
+Taylor,4 Salem Baptist Church,County Commissioner,3,NPA,Steve Spradley,14
+Taylor,4 Salem Baptist Church,County Commissioner,3,NPA,Ursula Miller,0
+Taylor,4 Salem Baptist Church,County Commissioner,3,NPA,Jody James DeVane,2
+Taylor,4 Salem Baptist Church,County Commissioner,3,"",OverVotes,0
+Taylor,4 Salem Baptist Church,County Commissioner,3,"",UnderVotes,0
+Taylor,4 Salem Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,45
+Taylor,4 Salem Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,31
+Taylor,4 Salem Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,4 Salem Baptist Church,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,17
+Taylor,4 Salem Baptist Church,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,49
+Taylor,4 Salem Baptist Church,Retention of Harvey Jay,First District Court of Appeal,NOP,No,27
+Taylor,4 Salem Baptist Church,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,4 Salem Baptist Church,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,17
+Taylor,4 Salem Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,47
+Taylor,4 Salem Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,29
+Taylor,4 Salem Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,4 Salem Baptist Church,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,17
+Taylor,4 Salem Baptist Church,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,47
+Taylor,4 Salem Baptist Church,Retention of Brad Thomas,First District Court of Appeal,NOP,No,29
+Taylor,4 Salem Baptist Church,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,4 Salem Baptist Church,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,17
+Taylor,4 Salem Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,46
+Taylor,4 Salem Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,29
+Taylor,4 Salem Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,4 Salem Baptist Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,18
+Taylor,4 Salem Baptist Church,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,47
+Taylor,4 Salem Baptist Church,Retention of Allen Winsor,First District Court of Appeal,NOP,No,28
+Taylor,4 Salem Baptist Church,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,4 Salem Baptist Church,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,18
+Taylor,4 Salem Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,52
+Taylor,4 Salem Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,34
+Taylor,4 Salem Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,7
+Taylor,4 Salem Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,70
+Taylor,4 Salem Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,19
+Taylor,4 Salem Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,4
+Taylor,4 Salem Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,61
+Taylor,4 Salem Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,26
+Taylor,4 Salem Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,6
+Taylor,4 Salem Baptist Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,44
+Taylor,4 Salem Baptist Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,42
+Taylor,4 Salem Baptist Church,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,7
+Taylor,4 Salem Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,66
+Taylor,4 Salem Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,20
+Taylor,4 Salem Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,4 Salem Baptist Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,7
+Taylor,4 Salem Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,62
+Taylor,4 Salem Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,26
+Taylor,4 Salem Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,5
+Taylor,4 Salem Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,66
+Taylor,4 Salem Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,22
+Taylor,4 Salem Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,5
+Taylor,4 Salem Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,46
+Taylor,4 Salem Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,40
+Taylor,4 Salem Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,7
+Taylor,4 Salem Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,55
+Taylor,4 Salem Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,32
+Taylor,4 Salem Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,6
+Taylor,4 Salem Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,42
+Taylor,4 Salem Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,40
+Taylor,4 Salem Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,11
+Taylor,4 Salem Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,73
+Taylor,4 Salem Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,15
+Taylor,4 Salem Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,5
+Taylor,4 Salem Baptist Church,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,30
+Taylor,4 Salem Baptist Church,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,57
+Taylor,4 Salem Baptist Church,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,4 Salem Baptist Church,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,6
+Taylor,5 Steinhatchee Comm Cntr,U.S. Senate,"",REP,Rick Scott,508
+Taylor,5 Steinhatchee Comm Cntr,U.S. Senate,"",DEM,Bill Nelson,109
+Taylor,5 Steinhatchee Comm Cntr,U.S. Senate,"","",WriteinVotes,5
+Taylor,5 Steinhatchee Comm Cntr,U.S. Senate,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,U.S. Senate,"","",UnderVotes,5
+Taylor,5 Steinhatchee Comm Cntr,U.S. House,2,REP,Neal Dunn,516
+Taylor,5 Steinhatchee Comm Cntr,U.S. House,2,DEM,Bob Rackleff,97
+Taylor,5 Steinhatchee Comm Cntr,U.S. House,2,"",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,U.S. House,2,"",UnderVotes,14
+Taylor,5 Steinhatchee Comm Cntr,Governor,"",REP,DeSantis / Nuñez,522
+Taylor,5 Steinhatchee Comm Cntr,Governor,"",DEM,Gillum / King,89
+Taylor,5 Steinhatchee Comm Cntr,Governor,"",REF,Richardson / Argenziano,2
+Taylor,5 Steinhatchee Comm Cntr,Governor,"",NPA,Gibson / Wilds,2
+Taylor,5 Steinhatchee Comm Cntr,Governor,"",NPA,Foley / Tutton,2
+Taylor,5 Steinhatchee Comm Cntr,Governor,"",NPA,Stanley / McJury,4
+Taylor,5 Steinhatchee Comm Cntr,Governor,"","",WriteinVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Governor,"","",OverVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Governor,"","",UnderVotes,4
+Taylor,5 Steinhatchee Comm Cntr,Attorney General,"",REP,Ashley Moody,526
+Taylor,5 Steinhatchee Comm Cntr,Attorney General,"",DEM,Sean Shaw,87
+Taylor,5 Steinhatchee Comm Cntr,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Taylor,5 Steinhatchee Comm Cntr,Attorney General,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Attorney General,"","",UnderVotes,8
+Taylor,5 Steinhatchee Comm Cntr,Chief Financial Officer,"",REP,Jimmy Patronis,506
+Taylor,5 Steinhatchee Comm Cntr,Chief Financial Officer,"",DEM,Jeremy Ring,99
+Taylor,5 Steinhatchee Comm Cntr,Chief Financial Officer,"","",WriteinVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Chief Financial Officer,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Chief Financial Officer,"","",UnderVotes,21
+Taylor,5 Steinhatchee Comm Cntr,Commissioner of Agriculture,"",REP,Matt Caldwell,521
+Taylor,5 Steinhatchee Comm Cntr,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",95
+Taylor,5 Steinhatchee Comm Cntr,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Commissioner of Agriculture,"","",UnderVotes,11
+Taylor,5 Steinhatchee Comm Cntr,County Commissioner,3,REP,Sean Andrew Murphy,249
+Taylor,5 Steinhatchee Comm Cntr,County Commissioner,3,DEM,Michael Elzie Newman,136
+Taylor,5 Steinhatchee Comm Cntr,County Commissioner,3,NPA,Steve Spradley,76
+Taylor,5 Steinhatchee Comm Cntr,County Commissioner,3,NPA,Ursula Miller,118
+Taylor,5 Steinhatchee Comm Cntr,County Commissioner,3,NPA,Jody James DeVane,43
+Taylor,5 Steinhatchee Comm Cntr,County Commissioner,3,"",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,County Commissioner,3,"",UnderVotes,5
+Taylor,5 Steinhatchee Comm Cntr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,374
+Taylor,5 Steinhatchee Comm Cntr,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,170
+Taylor,5 Steinhatchee Comm Cntr,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,83
+Taylor,5 Steinhatchee Comm Cntr,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,365
+Taylor,5 Steinhatchee Comm Cntr,Retention of Harvey Jay,First District Court of Appeal,NOP,No,167
+Taylor,5 Steinhatchee Comm Cntr,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,95
+Taylor,5 Steinhatchee Comm Cntr,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,375
+Taylor,5 Steinhatchee Comm Cntr,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,156
+Taylor,5 Steinhatchee Comm Cntr,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,95
+Taylor,5 Steinhatchee Comm Cntr,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,358
+Taylor,5 Steinhatchee Comm Cntr,Retention of Brad Thomas,First District Court of Appeal,NOP,No,167
+Taylor,5 Steinhatchee Comm Cntr,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,101
+Taylor,5 Steinhatchee Comm Cntr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,353
+Taylor,5 Steinhatchee Comm Cntr,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,171
+Taylor,5 Steinhatchee Comm Cntr,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,102
+Taylor,5 Steinhatchee Comm Cntr,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,352
+Taylor,5 Steinhatchee Comm Cntr,Retention of Allen Winsor,First District Court of Appeal,NOP,No,173
+Taylor,5 Steinhatchee Comm Cntr,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,102
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,388
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,219
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,20
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,447
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,148
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,30
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,427
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,179
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,19
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,330
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,277
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,20
+Taylor,5 Steinhatchee Comm Cntr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,455
+Taylor,5 Steinhatchee Comm Cntr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,148
+Taylor,5 Steinhatchee Comm Cntr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,24
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,407
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,195
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,404
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,192
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,31
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,328
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,268
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,30
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,413
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,176
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,38
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,337
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,238
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,52
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,466
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,131
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,30
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,264
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,339
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Taylor,5 Steinhatchee Comm Cntr,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,23
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. Senate,"",REP,Rick Scott,297
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. Senate,"",DEM,Bill Nelson,82
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. Senate,"","",WriteinVotes,2
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. Senate,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. Senate,"","",UnderVotes,6
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. House,2,REP,Neal Dunn,318
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. House,2,DEM,Bob Rackleff,63
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. House,2,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,U.S. House,2,"",UnderVotes,6
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"",REP,DeSantis / Nuñez,317
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"",DEM,Gillum / King,60
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"",REF,Richardson / Argenziano,3
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"",NPA,Gibson / Wilds,1
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"",NPA,Foley / Tutton,1
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"",NPA,Stanley / McJury,2
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"","",WriteinVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Governor,"","",UnderVotes,3
+Taylor,6 Shady Gr Missnry Bapt Ch,Attorney General,"",REP,Ashley Moody,321
+Taylor,6 Shady Gr Missnry Bapt Ch,Attorney General,"",DEM,Sean Shaw,62
+Taylor,6 Shady Gr Missnry Bapt Ch,Attorney General,"",NPA,Jeffrey Marc Siskind,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Attorney General,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Attorney General,"","",UnderVotes,4
+Taylor,6 Shady Gr Missnry Bapt Ch,Chief Financial Officer,"",REP,Jimmy Patronis,310
+Taylor,6 Shady Gr Missnry Bapt Ch,Chief Financial Officer,"",DEM,Jeremy Ring,66
+Taylor,6 Shady Gr Missnry Bapt Ch,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Chief Financial Officer,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Chief Financial Officer,"","",UnderVotes,11
+Taylor,6 Shady Gr Missnry Bapt Ch,Commissioner of Agriculture,"",REP,Matt Caldwell,309
+Taylor,6 Shady Gr Missnry Bapt Ch,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",71
+Taylor,6 Shady Gr Missnry Bapt Ch,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Commissioner of Agriculture,"","",UnderVotes,7
+Taylor,6 Shady Gr Missnry Bapt Ch,County Commissioner,4,REP,Douglas Cruce,153
+Taylor,6 Shady Gr Missnry Bapt Ch,County Commissioner,4,DEM,Pam Feagle,230
+Taylor,6 Shady Gr Missnry Bapt Ch,County Commissioner,4,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,County Commissioner,4,"",UnderVotes,4
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,208
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,150
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,29
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,206
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Harvey Jay,First District Court of Appeal,NOP,No,143
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,38
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,209
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,138
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,40
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,208
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Brad Thomas,First District Court of Appeal,NOP,No,138
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,41
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,200
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,144
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,43
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,206
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Allen Winsor,First District Court of Appeal,NOP,No,142
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,39
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,226
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,150
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,263
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,113
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,11
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,247
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,128
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,12
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,170
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,203
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,14
+Taylor,6 Shady Gr Missnry Bapt Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,265
+Taylor,6 Shady Gr Missnry Bapt Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,103
+Taylor,6 Shady Gr Missnry Bapt Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,19
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,227
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,144
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,16
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,254
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,117
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,16
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,167
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,201
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,19
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,257
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,109
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,21
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,169
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,189
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,29
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,263
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,103
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,112
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,259
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,6 Shady Gr Missnry Bapt Ch,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Taylor,7 Johnson Strip Rd Voting,U.S. Senate,"",REP,Rick Scott,755
+Taylor,7 Johnson Strip Rd Voting,U.S. Senate,"",DEM,Bill Nelson,171
+Taylor,7 Johnson Strip Rd Voting,U.S. Senate,"","",WriteinVotes,6
+Taylor,7 Johnson Strip Rd Voting,U.S. Senate,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,U.S. Senate,"","",UnderVotes,9
+Taylor,7 Johnson Strip Rd Voting,U.S. House,2,REP,Neal Dunn,797
+Taylor,7 Johnson Strip Rd Voting,U.S. House,2,DEM,Bob Rackleff,130
+Taylor,7 Johnson Strip Rd Voting,U.S. House,2,"",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,U.S. House,2,"",UnderVotes,14
+Taylor,7 Johnson Strip Rd Voting,Governor,"",REP,DeSantis / Nuñez,807
+Taylor,7 Johnson Strip Rd Voting,Governor,"",DEM,Gillum / King,108
+Taylor,7 Johnson Strip Rd Voting,Governor,"",REF,Richardson / Argenziano,4
+Taylor,7 Johnson Strip Rd Voting,Governor,"",NPA,Gibson / Wilds,0
+Taylor,7 Johnson Strip Rd Voting,Governor,"",NPA,Foley / Tutton,4
+Taylor,7 Johnson Strip Rd Voting,Governor,"",NPA,Stanley / McJury,3
+Taylor,7 Johnson Strip Rd Voting,Governor,"","",WriteinVotes,1
+Taylor,7 Johnson Strip Rd Voting,Governor,"","",OverVotes,3
+Taylor,7 Johnson Strip Rd Voting,Governor,"","",UnderVotes,11
+Taylor,7 Johnson Strip Rd Voting,Attorney General,"",REP,Ashley Moody,809
+Taylor,7 Johnson Strip Rd Voting,Attorney General,"",DEM,Sean Shaw,109
+Taylor,7 Johnson Strip Rd Voting,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Taylor,7 Johnson Strip Rd Voting,Attorney General,"","",OverVotes,1
+Taylor,7 Johnson Strip Rd Voting,Attorney General,"","",UnderVotes,17
+Taylor,7 Johnson Strip Rd Voting,Chief Financial Officer,"",REP,Jimmy Patronis,781
+Taylor,7 Johnson Strip Rd Voting,Chief Financial Officer,"",DEM,Jeremy Ring,129
+Taylor,7 Johnson Strip Rd Voting,Chief Financial Officer,"","",WriteinVotes,2
+Taylor,7 Johnson Strip Rd Voting,Chief Financial Officer,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Chief Financial Officer,"","",UnderVotes,29
+Taylor,7 Johnson Strip Rd Voting,Commissioner of Agriculture,"",REP,Matt Caldwell,787
+Taylor,7 Johnson Strip Rd Voting,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",131
+Taylor,7 Johnson Strip Rd Voting,Commissioner of Agriculture,"","",OverVotes,1
+Taylor,7 Johnson Strip Rd Voting,Commissioner of Agriculture,"","",UnderVotes,22
+Taylor,7 Johnson Strip Rd Voting,County Commissioner,4,REP,Douglas Cruce,418
+Taylor,7 Johnson Strip Rd Voting,County Commissioner,4,DEM,Pam Feagle,513
+Taylor,7 Johnson Strip Rd Voting,County Commissioner,4,"",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,County Commissioner,4,"",UnderVotes,10
+Taylor,7 Johnson Strip Rd Voting,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,562
+Taylor,7 Johnson Strip Rd Voting,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,298
+Taylor,7 Johnson Strip Rd Voting,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Taylor,7 Johnson Strip Rd Voting,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,80
+Taylor,7 Johnson Strip Rd Voting,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,531
+Taylor,7 Johnson Strip Rd Voting,Retention of Harvey Jay,First District Court of Appeal,NOP,No,307
+Taylor,7 Johnson Strip Rd Voting,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,103
+Taylor,7 Johnson Strip Rd Voting,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,529
+Taylor,7 Johnson Strip Rd Voting,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,307
+Taylor,7 Johnson Strip Rd Voting,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,2
+Taylor,7 Johnson Strip Rd Voting,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,103
+Taylor,7 Johnson Strip Rd Voting,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,512
+Taylor,7 Johnson Strip Rd Voting,Retention of Brad Thomas,First District Court of Appeal,NOP,No,319
+Taylor,7 Johnson Strip Rd Voting,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Taylor,7 Johnson Strip Rd Voting,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,109
+Taylor,7 Johnson Strip Rd Voting,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,513
+Taylor,7 Johnson Strip Rd Voting,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,320
+Taylor,7 Johnson Strip Rd Voting,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,108
+Taylor,7 Johnson Strip Rd Voting,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,520
+Taylor,7 Johnson Strip Rd Voting,Retention of Allen Winsor,First District Court of Appeal,NOP,No,312
+Taylor,7 Johnson Strip Rd Voting,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,109
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,512
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,395
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,32
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,650
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,253
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,38
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,635
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,279
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,26
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,418
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,496
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,26
+Taylor,7 Johnson Strip Rd Voting,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,663
+Taylor,7 Johnson Strip Rd Voting,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,241
+Taylor,7 Johnson Strip Rd Voting,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,37
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,576
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,329
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,34
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,617
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,285
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,39
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,436
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,465
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,40
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,584
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,302
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,55
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,430
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,438
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,73
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,635
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,260
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,46
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,363
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,541
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,7 Johnson Strip Rd Voting,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,37
+Taylor,8 United Steel Workers Bdg,U.S. Senate,"",REP,Rick Scott,388
+Taylor,8 United Steel Workers Bdg,U.S. Senate,"",DEM,Bill Nelson,186
+Taylor,8 United Steel Workers Bdg,U.S. Senate,"","",WriteinVotes,1
+Taylor,8 United Steel Workers Bdg,U.S. Senate,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,U.S. Senate,"","",UnderVotes,5
+Taylor,8 United Steel Workers Bdg,U.S. House,2,REP,Neal Dunn,398
+Taylor,8 United Steel Workers Bdg,U.S. House,2,DEM,Bob Rackleff,169
+Taylor,8 United Steel Workers Bdg,U.S. House,2,"",OverVotes,0
+Taylor,8 United Steel Workers Bdg,U.S. House,2,"",UnderVotes,13
+Taylor,8 United Steel Workers Bdg,Governor,"",REP,DeSantis / Nuñez,406
+Taylor,8 United Steel Workers Bdg,Governor,"",DEM,Gillum / King,163
+Taylor,8 United Steel Workers Bdg,Governor,"",REF,Richardson / Argenziano,3
+Taylor,8 United Steel Workers Bdg,Governor,"",NPA,Gibson / Wilds,3
+Taylor,8 United Steel Workers Bdg,Governor,"",NPA,Foley / Tutton,1
+Taylor,8 United Steel Workers Bdg,Governor,"",NPA,Stanley / McJury,1
+Taylor,8 United Steel Workers Bdg,Governor,"","",WriteinVotes,0
+Taylor,8 United Steel Workers Bdg,Governor,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Governor,"","",UnderVotes,3
+Taylor,8 United Steel Workers Bdg,Attorney General,"",REP,Ashley Moody,411
+Taylor,8 United Steel Workers Bdg,Attorney General,"",DEM,Sean Shaw,149
+Taylor,8 United Steel Workers Bdg,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Taylor,8 United Steel Workers Bdg,Attorney General,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Attorney General,"","",UnderVotes,15
+Taylor,8 United Steel Workers Bdg,Chief Financial Officer,"",REP,Jimmy Patronis,393
+Taylor,8 United Steel Workers Bdg,Chief Financial Officer,"",DEM,Jeremy Ring,169
+Taylor,8 United Steel Workers Bdg,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,8 United Steel Workers Bdg,Chief Financial Officer,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Chief Financial Officer,"","",UnderVotes,18
+Taylor,8 United Steel Workers Bdg,Commissioner of Agriculture,"",REP,Matt Caldwell,391
+Taylor,8 United Steel Workers Bdg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",171
+Taylor,8 United Steel Workers Bdg,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Commissioner of Agriculture,"","",UnderVotes,18
+Taylor,8 United Steel Workers Bdg,County Commissioner,2,REP,Jim Moody,293
+Taylor,8 United Steel Workers Bdg,County Commissioner,2,NPA,Cassie L Buckley,274
+Taylor,8 United Steel Workers Bdg,County Commissioner,2,"",OverVotes,0
+Taylor,8 United Steel Workers Bdg,County Commissioner,2,"",UnderVotes,13
+Taylor,8 United Steel Workers Bdg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,359
+Taylor,8 United Steel Workers Bdg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,164
+Taylor,8 United Steel Workers Bdg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,57
+Taylor,8 United Steel Workers Bdg,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,350
+Taylor,8 United Steel Workers Bdg,Retention of Harvey Jay,First District Court of Appeal,NOP,No,163
+Taylor,8 United Steel Workers Bdg,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,67
+Taylor,8 United Steel Workers Bdg,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,353
+Taylor,8 United Steel Workers Bdg,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,156
+Taylor,8 United Steel Workers Bdg,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Taylor,8 United Steel Workers Bdg,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,70
+Taylor,8 United Steel Workers Bdg,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,346
+Taylor,8 United Steel Workers Bdg,Retention of Brad Thomas,First District Court of Appeal,NOP,No,165
+Taylor,8 United Steel Workers Bdg,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,69
+Taylor,8 United Steel Workers Bdg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,348
+Taylor,8 United Steel Workers Bdg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,161
+Taylor,8 United Steel Workers Bdg,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,71
+Taylor,8 United Steel Workers Bdg,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,344
+Taylor,8 United Steel Workers Bdg,Retention of Allen Winsor,First District Court of Appeal,NOP,No,161
+Taylor,8 United Steel Workers Bdg,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,75
+Taylor,8 United Steel Workers Bdg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,334
+Taylor,8 United Steel Workers Bdg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,223
+Taylor,8 United Steel Workers Bdg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Taylor,8 United Steel Workers Bdg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,22
+Taylor,8 United Steel Workers Bdg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,376
+Taylor,8 United Steel Workers Bdg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,172
+Taylor,8 United Steel Workers Bdg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,32
+Taylor,8 United Steel Workers Bdg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,378
+Taylor,8 United Steel Workers Bdg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,178
+Taylor,8 United Steel Workers Bdg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Taylor,8 United Steel Workers Bdg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,23
+Taylor,8 United Steel Workers Bdg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,304
+Taylor,8 United Steel Workers Bdg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,253
+Taylor,8 United Steel Workers Bdg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,23
+Taylor,8 United Steel Workers Bdg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,340
+Taylor,8 United Steel Workers Bdg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,201
+Taylor,8 United Steel Workers Bdg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Taylor,8 United Steel Workers Bdg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,38
+Taylor,8 United Steel Workers Bdg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,358
+Taylor,8 United Steel Workers Bdg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,185
+Taylor,8 United Steel Workers Bdg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,37
+Taylor,8 United Steel Workers Bdg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,387
+Taylor,8 United Steel Workers Bdg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,152
+Taylor,8 United Steel Workers Bdg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,41
+Taylor,8 United Steel Workers Bdg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,276
+Taylor,8 United Steel Workers Bdg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,259
+Taylor,8 United Steel Workers Bdg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Taylor,8 United Steel Workers Bdg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,44
+Taylor,8 United Steel Workers Bdg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,374
+Taylor,8 United Steel Workers Bdg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,157
+Taylor,8 United Steel Workers Bdg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,49
+Taylor,8 United Steel Workers Bdg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,301
+Taylor,8 United Steel Workers Bdg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,226
+Taylor,8 United Steel Workers Bdg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,53
+Taylor,8 United Steel Workers Bdg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,375
+Taylor,8 United Steel Workers Bdg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,156
+Taylor,8 United Steel Workers Bdg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Taylor,8 United Steel Workers Bdg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,48
+Taylor,8 United Steel Workers Bdg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,267
+Taylor,8 United Steel Workers Bdg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,282
+Taylor,8 United Steel Workers Bdg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,8 United Steel Workers Bdg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,31
+Taylor,9 Forest Capital Hall,U.S. Senate,"",REP,Rick Scott,336
+Taylor,9 Forest Capital Hall,U.S. Senate,"",DEM,Bill Nelson,92
+Taylor,9 Forest Capital Hall,U.S. Senate,"","",WriteinVotes,1
+Taylor,9 Forest Capital Hall,U.S. Senate,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,U.S. Senate,"","",UnderVotes,3
+Taylor,9 Forest Capital Hall,U.S. House,2,REP,Neal Dunn,362
+Taylor,9 Forest Capital Hall,U.S. House,2,DEM,Bob Rackleff,60
+Taylor,9 Forest Capital Hall,U.S. House,2,"",OverVotes,0
+Taylor,9 Forest Capital Hall,U.S. House,2,"",UnderVotes,10
+Taylor,9 Forest Capital Hall,Governor,"",REP,DeSantis / Nuñez,369
+Taylor,9 Forest Capital Hall,Governor,"",DEM,Gillum / King,54
+Taylor,9 Forest Capital Hall,Governor,"",REF,Richardson / Argenziano,2
+Taylor,9 Forest Capital Hall,Governor,"",NPA,Gibson / Wilds,1
+Taylor,9 Forest Capital Hall,Governor,"",NPA,Foley / Tutton,0
+Taylor,9 Forest Capital Hall,Governor,"",NPA,Stanley / McJury,2
+Taylor,9 Forest Capital Hall,Governor,"","",WriteinVotes,0
+Taylor,9 Forest Capital Hall,Governor,"","",OverVotes,2
+Taylor,9 Forest Capital Hall,Governor,"","",UnderVotes,2
+Taylor,9 Forest Capital Hall,Attorney General,"",REP,Ashley Moody,364
+Taylor,9 Forest Capital Hall,Attorney General,"",DEM,Sean Shaw,56
+Taylor,9 Forest Capital Hall,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Taylor,9 Forest Capital Hall,Attorney General,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Attorney General,"","",UnderVotes,7
+Taylor,9 Forest Capital Hall,Chief Financial Officer,"",REP,Jimmy Patronis,351
+Taylor,9 Forest Capital Hall,Chief Financial Officer,"",DEM,Jeremy Ring,70
+Taylor,9 Forest Capital Hall,Chief Financial Officer,"","",WriteinVotes,2
+Taylor,9 Forest Capital Hall,Chief Financial Officer,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Chief Financial Officer,"","",UnderVotes,9
+Taylor,9 Forest Capital Hall,Commissioner of Agriculture,"",REP,Matt Caldwell,360
+Taylor,9 Forest Capital Hall,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",68
+Taylor,9 Forest Capital Hall,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Commissioner of Agriculture,"","",UnderVotes,4
+Taylor,9 Forest Capital Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,261
+Taylor,9 Forest Capital Hall,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,141
+Taylor,9 Forest Capital Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Taylor,9 Forest Capital Hall,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,29
+Taylor,9 Forest Capital Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,258
+Taylor,9 Forest Capital Hall,Retention of Harvey Jay,First District Court of Appeal,NOP,No,141
+Taylor,9 Forest Capital Hall,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Taylor,9 Forest Capital Hall,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,32
+Taylor,9 Forest Capital Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,254
+Taylor,9 Forest Capital Hall,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,143
+Taylor,9 Forest Capital Hall,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,9 Forest Capital Hall,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,35
+Taylor,9 Forest Capital Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,250
+Taylor,9 Forest Capital Hall,Retention of Brad Thomas,First District Court of Appeal,NOP,No,145
+Taylor,9 Forest Capital Hall,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,9 Forest Capital Hall,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,37
+Taylor,9 Forest Capital Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,247
+Taylor,9 Forest Capital Hall,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,149
+Taylor,9 Forest Capital Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,9 Forest Capital Hall,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,36
+Taylor,9 Forest Capital Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,257
+Taylor,9 Forest Capital Hall,Retention of Allen Winsor,First District Court of Appeal,NOP,No,139
+Taylor,9 Forest Capital Hall,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,9 Forest Capital Hall,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,36
+Taylor,9 Forest Capital Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,248
+Taylor,9 Forest Capital Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,172
+Taylor,9 Forest Capital Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,12
+Taylor,9 Forest Capital Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,314
+Taylor,9 Forest Capital Hall,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,106
+Taylor,9 Forest Capital Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Taylor,9 Forest Capital Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,287
+Taylor,9 Forest Capital Hall,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,136
+Taylor,9 Forest Capital Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,9
+Taylor,9 Forest Capital Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,187
+Taylor,9 Forest Capital Hall,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,237
+Taylor,9 Forest Capital Hall,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Taylor,9 Forest Capital Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,299
+Taylor,9 Forest Capital Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,121
+Taylor,9 Forest Capital Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,9 Forest Capital Hall,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,12
+Taylor,9 Forest Capital Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,265
+Taylor,9 Forest Capital Hall,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,154
+Taylor,9 Forest Capital Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,13
+Taylor,9 Forest Capital Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,283
+Taylor,9 Forest Capital Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,133
+Taylor,9 Forest Capital Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,16
+Taylor,9 Forest Capital Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,207
+Taylor,9 Forest Capital Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,208
+Taylor,9 Forest Capital Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,17
+Taylor,9 Forest Capital Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,283
+Taylor,9 Forest Capital Hall,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,132
+Taylor,9 Forest Capital Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,17
+Taylor,9 Forest Capital Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,218
+Taylor,9 Forest Capital Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,188
+Taylor,9 Forest Capital Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,26
+Taylor,9 Forest Capital Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,310
+Taylor,9 Forest Capital Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,100
+Taylor,9 Forest Capital Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,22
+Taylor,9 Forest Capital Hall,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,147
+Taylor,9 Forest Capital Hall,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,280
+Taylor,9 Forest Capital Hall,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,9 Forest Capital Hall,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,5
+Taylor,10 Lakeside Bapt Church,U.S. Senate,"",REP,Rick Scott,359
+Taylor,10 Lakeside Bapt Church,U.S. Senate,"",DEM,Bill Nelson,79
+Taylor,10 Lakeside Bapt Church,U.S. Senate,"","",WriteinVotes,2
+Taylor,10 Lakeside Bapt Church,U.S. Senate,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,U.S. Senate,"","",UnderVotes,1
+Taylor,10 Lakeside Bapt Church,U.S. House,2,REP,Neal Dunn,375
+Taylor,10 Lakeside Bapt Church,U.S. House,2,DEM,Bob Rackleff,58
+Taylor,10 Lakeside Bapt Church,U.S. House,2,"",OverVotes,0
+Taylor,10 Lakeside Bapt Church,U.S. House,2,"",UnderVotes,8
+Taylor,10 Lakeside Bapt Church,Governor,"",REP,DeSantis / Nuñez,384
+Taylor,10 Lakeside Bapt Church,Governor,"",DEM,Gillum / King,47
+Taylor,10 Lakeside Bapt Church,Governor,"",REF,Richardson / Argenziano,6
+Taylor,10 Lakeside Bapt Church,Governor,"",NPA,Gibson / Wilds,2
+Taylor,10 Lakeside Bapt Church,Governor,"",NPA,Foley / Tutton,0
+Taylor,10 Lakeside Bapt Church,Governor,"",NPA,Stanley / McJury,2
+Taylor,10 Lakeside Bapt Church,Governor,"","",WriteinVotes,0
+Taylor,10 Lakeside Bapt Church,Governor,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Governor,"","",UnderVotes,0
+Taylor,10 Lakeside Bapt Church,Attorney General,"",REP,Ashley Moody,381
+Taylor,10 Lakeside Bapt Church,Attorney General,"",DEM,Sean Shaw,50
+Taylor,10 Lakeside Bapt Church,Attorney General,"",NPA,Jeffrey Marc Siskind,4
+Taylor,10 Lakeside Bapt Church,Attorney General,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Attorney General,"","",UnderVotes,6
+Taylor,10 Lakeside Bapt Church,Chief Financial Officer,"",REP,Jimmy Patronis,378
+Taylor,10 Lakeside Bapt Church,Chief Financial Officer,"",DEM,Jeremy Ring,55
+Taylor,10 Lakeside Bapt Church,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,10 Lakeside Bapt Church,Chief Financial Officer,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Chief Financial Officer,"","",UnderVotes,8
+Taylor,10 Lakeside Bapt Church,Commissioner of Agriculture,"",REP,Matt Caldwell,373
+Taylor,10 Lakeside Bapt Church,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",64
+Taylor,10 Lakeside Bapt Church,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Commissioner of Agriculture,"","",UnderVotes,4
+Taylor,10 Lakeside Bapt Church,County Commissioner,3,REP,Sean Andrew Murphy,160
+Taylor,10 Lakeside Bapt Church,County Commissioner,3,DEM,Michael Elzie Newman,119
+Taylor,10 Lakeside Bapt Church,County Commissioner,3,NPA,Steve Spradley,99
+Taylor,10 Lakeside Bapt Church,County Commissioner,3,NPA,Ursula Miller,26
+Taylor,10 Lakeside Bapt Church,County Commissioner,3,NPA,Jody James DeVane,32
+Taylor,10 Lakeside Bapt Church,County Commissioner,3,"",OverVotes,0
+Taylor,10 Lakeside Bapt Church,County Commissioner,3,"",UnderVotes,5
+Taylor,10 Lakeside Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,277
+Taylor,10 Lakeside Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,130
+Taylor,10 Lakeside Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,34
+Taylor,10 Lakeside Bapt Church,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,268
+Taylor,10 Lakeside Bapt Church,Retention of Harvey Jay,First District Court of Appeal,NOP,No,138
+Taylor,10 Lakeside Bapt Church,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,35
+Taylor,10 Lakeside Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,265
+Taylor,10 Lakeside Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,137
+Taylor,10 Lakeside Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Taylor,10 Lakeside Bapt Church,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,38
+Taylor,10 Lakeside Bapt Church,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,259
+Taylor,10 Lakeside Bapt Church,Retention of Brad Thomas,First District Court of Appeal,NOP,No,142
+Taylor,10 Lakeside Bapt Church,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,40
+Taylor,10 Lakeside Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,263
+Taylor,10 Lakeside Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,138
+Taylor,10 Lakeside Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,40
+Taylor,10 Lakeside Bapt Church,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,257
+Taylor,10 Lakeside Bapt Church,Retention of Allen Winsor,First District Court of Appeal,NOP,No,142
+Taylor,10 Lakeside Bapt Church,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,42
+Taylor,10 Lakeside Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,258
+Taylor,10 Lakeside Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,174
+Taylor,10 Lakeside Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,9
+Taylor,10 Lakeside Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,285
+Taylor,10 Lakeside Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,144
+Taylor,10 Lakeside Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Taylor,10 Lakeside Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,298
+Taylor,10 Lakeside Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,135
+Taylor,10 Lakeside Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,8
+Taylor,10 Lakeside Bapt Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,174
+Taylor,10 Lakeside Bapt Church,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,258
+Taylor,10 Lakeside Bapt Church,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,9
+Taylor,10 Lakeside Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,297
+Taylor,10 Lakeside Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,130
+Taylor,10 Lakeside Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,14
+Taylor,10 Lakeside Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,299
+Taylor,10 Lakeside Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,128
+Taylor,10 Lakeside Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,14
+Taylor,10 Lakeside Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,318
+Taylor,10 Lakeside Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,110
+Taylor,10 Lakeside Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,13
+Taylor,10 Lakeside Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,221
+Taylor,10 Lakeside Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,209
+Taylor,10 Lakeside Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,11
+Taylor,10 Lakeside Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,287
+Taylor,10 Lakeside Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,132
+Taylor,10 Lakeside Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,22
+Taylor,10 Lakeside Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,242
+Taylor,10 Lakeside Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,171
+Taylor,10 Lakeside Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,28
+Taylor,10 Lakeside Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,312
+Taylor,10 Lakeside Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,115
+Taylor,10 Lakeside Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,14
+Taylor,10 Lakeside Bapt Church,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,161
+Taylor,10 Lakeside Bapt Church,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,271
+Taylor,10 Lakeside Bapt Church,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,10 Lakeside Bapt Church,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,9
+Taylor,11 Kelly Grade Voting House,U.S. Senate,"",REP,Rick Scott,391
+Taylor,11 Kelly Grade Voting House,U.S. Senate,"",DEM,Bill Nelson,70
+Taylor,11 Kelly Grade Voting House,U.S. Senate,"","",WriteinVotes,2
+Taylor,11 Kelly Grade Voting House,U.S. Senate,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,U.S. Senate,"","",UnderVotes,5
+Taylor,11 Kelly Grade Voting House,U.S. House,2,REP,Neal Dunn,417
+Taylor,11 Kelly Grade Voting House,U.S. House,2,DEM,Bob Rackleff,46
+Taylor,11 Kelly Grade Voting House,U.S. House,2,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,U.S. House,2,"",UnderVotes,5
+Taylor,11 Kelly Grade Voting House,Governor,"",REP,DeSantis / Nuñez,413
+Taylor,11 Kelly Grade Voting House,Governor,"",DEM,Gillum / King,40
+Taylor,11 Kelly Grade Voting House,Governor,"",REF,Richardson / Argenziano,8
+Taylor,11 Kelly Grade Voting House,Governor,"",NPA,Gibson / Wilds,2
+Taylor,11 Kelly Grade Voting House,Governor,"",NPA,Foley / Tutton,1
+Taylor,11 Kelly Grade Voting House,Governor,"",NPA,Stanley / McJury,1
+Taylor,11 Kelly Grade Voting House,Governor,"","",WriteinVotes,0
+Taylor,11 Kelly Grade Voting House,Governor,"","",OverVotes,2
+Taylor,11 Kelly Grade Voting House,Governor,"","",UnderVotes,1
+Taylor,11 Kelly Grade Voting House,Attorney General,"",REP,Ashley Moody,415
+Taylor,11 Kelly Grade Voting House,Attorney General,"",DEM,Sean Shaw,44
+Taylor,11 Kelly Grade Voting House,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Taylor,11 Kelly Grade Voting House,Attorney General,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Attorney General,"","",UnderVotes,6
+Taylor,11 Kelly Grade Voting House,Chief Financial Officer,"",REP,Jimmy Patronis,402
+Taylor,11 Kelly Grade Voting House,Chief Financial Officer,"",DEM,Jeremy Ring,59
+Taylor,11 Kelly Grade Voting House,Chief Financial Officer,"","",WriteinVotes,0
+Taylor,11 Kelly Grade Voting House,Chief Financial Officer,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Chief Financial Officer,"","",UnderVotes,7
+Taylor,11 Kelly Grade Voting House,Commissioner of Agriculture,"",REP,Matt Caldwell,398
+Taylor,11 Kelly Grade Voting House,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",64
+Taylor,11 Kelly Grade Voting House,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Commissioner of Agriculture,"","",UnderVotes,6
+Taylor,11 Kelly Grade Voting House,County Commissioner,3,REP,Sean Andrew Murphy,147
+Taylor,11 Kelly Grade Voting House,County Commissioner,3,DEM,Michael Elzie Newman,141
+Taylor,11 Kelly Grade Voting House,County Commissioner,3,NPA,Steve Spradley,97
+Taylor,11 Kelly Grade Voting House,County Commissioner,3,NPA,Ursula Miller,24
+Taylor,11 Kelly Grade Voting House,County Commissioner,3,NPA,Jody James DeVane,53
+Taylor,11 Kelly Grade Voting House,County Commissioner,3,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,County Commissioner,3,"",UnderVotes,6
+Taylor,11 Kelly Grade Voting House,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,276
+Taylor,11 Kelly Grade Voting House,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,144
+Taylor,11 Kelly Grade Voting House,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,48
+Taylor,11 Kelly Grade Voting House,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,276
+Taylor,11 Kelly Grade Voting House,Retention of Harvey Jay,First District Court of Appeal,NOP,No,137
+Taylor,11 Kelly Grade Voting House,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,55
+Taylor,11 Kelly Grade Voting House,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,265
+Taylor,11 Kelly Grade Voting House,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,148
+Taylor,11 Kelly Grade Voting House,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,55
+Taylor,11 Kelly Grade Voting House,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,260
+Taylor,11 Kelly Grade Voting House,Retention of Brad Thomas,First District Court of Appeal,NOP,No,151
+Taylor,11 Kelly Grade Voting House,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,57
+Taylor,11 Kelly Grade Voting House,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,265
+Taylor,11 Kelly Grade Voting House,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,146
+Taylor,11 Kelly Grade Voting House,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,57
+Taylor,11 Kelly Grade Voting House,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,258
+Taylor,11 Kelly Grade Voting House,Retention of Allen Winsor,First District Court of Appeal,NOP,No,152
+Taylor,11 Kelly Grade Voting House,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,58
+Taylor,11 Kelly Grade Voting House,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,246
+Taylor,11 Kelly Grade Voting House,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,203
+Taylor,11 Kelly Grade Voting House,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,19
+Taylor,11 Kelly Grade Voting House,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,318
+Taylor,11 Kelly Grade Voting House,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,125
+Taylor,11 Kelly Grade Voting House,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,25
+Taylor,11 Kelly Grade Voting House,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,319
+Taylor,11 Kelly Grade Voting House,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,132
+Taylor,11 Kelly Grade Voting House,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,17
+Taylor,11 Kelly Grade Voting House,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,193
+Taylor,11 Kelly Grade Voting House,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,259
+Taylor,11 Kelly Grade Voting House,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,16
+Taylor,11 Kelly Grade Voting House,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,323
+Taylor,11 Kelly Grade Voting House,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,117
+Taylor,11 Kelly Grade Voting House,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,28
+Taylor,11 Kelly Grade Voting House,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,284
+Taylor,11 Kelly Grade Voting House,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,159
+Taylor,11 Kelly Grade Voting House,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,25
+Taylor,11 Kelly Grade Voting House,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,289
+Taylor,11 Kelly Grade Voting House,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,143
+Taylor,11 Kelly Grade Voting House,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,36
+Taylor,11 Kelly Grade Voting House,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,203
+Taylor,11 Kelly Grade Voting House,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,234
+Taylor,11 Kelly Grade Voting House,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,31
+Taylor,11 Kelly Grade Voting House,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,311
+Taylor,11 Kelly Grade Voting House,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,124
+Taylor,11 Kelly Grade Voting House,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,33
+Taylor,11 Kelly Grade Voting House,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,203
+Taylor,11 Kelly Grade Voting House,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,227
+Taylor,11 Kelly Grade Voting House,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,38
+Taylor,11 Kelly Grade Voting House,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,321
+Taylor,11 Kelly Grade Voting House,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,118
+Taylor,11 Kelly Grade Voting House,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,29
+Taylor,11 Kelly Grade Voting House,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,172
+Taylor,11 Kelly Grade Voting House,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,278
+Taylor,11 Kelly Grade Voting House,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,11 Kelly Grade Voting House,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,18
+Taylor,12 Perry Shrine Bldg,U.S. Senate,"",REP,Rick Scott,330
+Taylor,12 Perry Shrine Bldg,U.S. Senate,"",DEM,Bill Nelson,280
+Taylor,12 Perry Shrine Bldg,U.S. Senate,"","",WriteinVotes,1
+Taylor,12 Perry Shrine Bldg,U.S. Senate,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,U.S. Senate,"","",UnderVotes,2
+Taylor,12 Perry Shrine Bldg,U.S. House,2,REP,Neal Dunn,339
+Taylor,12 Perry Shrine Bldg,U.S. House,2,DEM,Bob Rackleff,267
+Taylor,12 Perry Shrine Bldg,U.S. House,2,"",OverVotes,0
+Taylor,12 Perry Shrine Bldg,U.S. House,2,"",UnderVotes,7
+Taylor,12 Perry Shrine Bldg,Governor,"",REP,DeSantis / Nuñez,342
+Taylor,12 Perry Shrine Bldg,Governor,"",DEM,Gillum / King,257
+Taylor,12 Perry Shrine Bldg,Governor,"",REF,Richardson / Argenziano,5
+Taylor,12 Perry Shrine Bldg,Governor,"",NPA,Gibson / Wilds,1
+Taylor,12 Perry Shrine Bldg,Governor,"",NPA,Foley / Tutton,1
+Taylor,12 Perry Shrine Bldg,Governor,"",NPA,Stanley / McJury,2
+Taylor,12 Perry Shrine Bldg,Governor,"","",WriteinVotes,2
+Taylor,12 Perry Shrine Bldg,Governor,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Governor,"","",UnderVotes,3
+Taylor,12 Perry Shrine Bldg,Attorney General,"",REP,Ashley Moody,342
+Taylor,12 Perry Shrine Bldg,Attorney General,"",DEM,Sean Shaw,260
+Taylor,12 Perry Shrine Bldg,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Taylor,12 Perry Shrine Bldg,Attorney General,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Attorney General,"","",UnderVotes,6
+Taylor,12 Perry Shrine Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,337
+Taylor,12 Perry Shrine Bldg,Chief Financial Officer,"",DEM,Jeremy Ring,264
+Taylor,12 Perry Shrine Bldg,Chief Financial Officer,"","",WriteinVotes,2
+Taylor,12 Perry Shrine Bldg,Chief Financial Officer,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Chief Financial Officer,"","",UnderVotes,10
+Taylor,12 Perry Shrine Bldg,Commissioner of Agriculture,"",REP,Matt Caldwell,334
+Taylor,12 Perry Shrine Bldg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",269
+Taylor,12 Perry Shrine Bldg,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Commissioner of Agriculture,"","",UnderVotes,10
+Taylor,12 Perry Shrine Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,372
+Taylor,12 Perry Shrine Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,200
+Taylor,12 Perry Shrine Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Taylor,12 Perry Shrine Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,40
+Taylor,12 Perry Shrine Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,353
+Taylor,12 Perry Shrine Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,No,214
+Taylor,12 Perry Shrine Bldg,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,46
+Taylor,12 Perry Shrine Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,358
+Taylor,12 Perry Shrine Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,208
+Taylor,12 Perry Shrine Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,47
+Taylor,12 Perry Shrine Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,352
+Taylor,12 Perry Shrine Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,No,215
+Taylor,12 Perry Shrine Bldg,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,46
+Taylor,12 Perry Shrine Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,345
+Taylor,12 Perry Shrine Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,218
+Taylor,12 Perry Shrine Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,50
+Taylor,12 Perry Shrine Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,342
+Taylor,12 Perry Shrine Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,No,221
+Taylor,12 Perry Shrine Bldg,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,50
+Taylor,12 Perry Shrine Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,286
+Taylor,12 Perry Shrine Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,309
+Taylor,12 Perry Shrine Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Taylor,12 Perry Shrine Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,17
+Taylor,12 Perry Shrine Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,360
+Taylor,12 Perry Shrine Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,238
+Taylor,12 Perry Shrine Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Taylor,12 Perry Shrine Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,400
+Taylor,12 Perry Shrine Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,199
+Taylor,12 Perry Shrine Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,14
+Taylor,12 Perry Shrine Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,367
+Taylor,12 Perry Shrine Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,231
+Taylor,12 Perry Shrine Bldg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,15
+Taylor,12 Perry Shrine Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,329
+Taylor,12 Perry Shrine Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,266
+Taylor,12 Perry Shrine Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Taylor,12 Perry Shrine Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,17
+Taylor,12 Perry Shrine Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,326
+Taylor,12 Perry Shrine Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,265
+Taylor,12 Perry Shrine Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,22
+Taylor,12 Perry Shrine Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,366
+Taylor,12 Perry Shrine Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,222
+Taylor,12 Perry Shrine Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,25
+Taylor,12 Perry Shrine Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,319
+Taylor,12 Perry Shrine Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,269
+Taylor,12 Perry Shrine Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Taylor,12 Perry Shrine Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,357
+Taylor,12 Perry Shrine Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,232
+Taylor,12 Perry Shrine Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Taylor,12 Perry Shrine Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,296
+Taylor,12 Perry Shrine Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,287
+Taylor,12 Perry Shrine Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,30
+Taylor,12 Perry Shrine Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,376
+Taylor,12 Perry Shrine Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,213
+Taylor,12 Perry Shrine Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,24
+Taylor,12 Perry Shrine Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,257
+Taylor,12 Perry Shrine Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,339
+Taylor,12 Perry Shrine Bldg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,12 Perry Shrine Bldg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,17
+Taylor,13 Jerkins Bldg,U.S. Senate,"",REP,Rick Scott,125
+Taylor,13 Jerkins Bldg,U.S. Senate,"",DEM,Bill Nelson,545
+Taylor,13 Jerkins Bldg,U.S. Senate,"","",WriteinVotes,5
+Taylor,13 Jerkins Bldg,U.S. Senate,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,U.S. Senate,"","",UnderVotes,4
+Taylor,13 Jerkins Bldg,U.S. House,2,REP,Neal Dunn,124
+Taylor,13 Jerkins Bldg,U.S. House,2,DEM,Bob Rackleff,541
+Taylor,13 Jerkins Bldg,U.S. House,2,"",OverVotes,0
+Taylor,13 Jerkins Bldg,U.S. House,2,"",UnderVotes,14
+Taylor,13 Jerkins Bldg,Governor,"",REP,DeSantis / Nuñez,113
+Taylor,13 Jerkins Bldg,Governor,"",DEM,Gillum / King,557
+Taylor,13 Jerkins Bldg,Governor,"",REF,Richardson / Argenziano,2
+Taylor,13 Jerkins Bldg,Governor,"",NPA,Gibson / Wilds,1
+Taylor,13 Jerkins Bldg,Governor,"",NPA,Foley / Tutton,1
+Taylor,13 Jerkins Bldg,Governor,"",NPA,Stanley / McJury,1
+Taylor,13 Jerkins Bldg,Governor,"","",WriteinVotes,2
+Taylor,13 Jerkins Bldg,Governor,"","",OverVotes,2
+Taylor,13 Jerkins Bldg,Governor,"","",UnderVotes,0
+Taylor,13 Jerkins Bldg,Attorney General,"",REP,Ashley Moody,130
+Taylor,13 Jerkins Bldg,Attorney General,"",DEM,Sean Shaw,533
+Taylor,13 Jerkins Bldg,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Taylor,13 Jerkins Bldg,Attorney General,"","",OverVotes,1
+Taylor,13 Jerkins Bldg,Attorney General,"","",UnderVotes,9
+Taylor,13 Jerkins Bldg,Chief Financial Officer,"",REP,Jimmy Patronis,121
+Taylor,13 Jerkins Bldg,Chief Financial Officer,"",DEM,Jeremy Ring,536
+Taylor,13 Jerkins Bldg,Chief Financial Officer,"","",WriteinVotes,2
+Taylor,13 Jerkins Bldg,Chief Financial Officer,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Chief Financial Officer,"","",UnderVotes,20
+Taylor,13 Jerkins Bldg,Commissioner of Agriculture,"",REP,Matt Caldwell,115
+Taylor,13 Jerkins Bldg,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",547
+Taylor,13 Jerkins Bldg,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Commissioner of Agriculture,"","",UnderVotes,17
+Taylor,13 Jerkins Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,424
+Taylor,13 Jerkins Bldg,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,205
+Taylor,13 Jerkins Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,13 Jerkins Bldg,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,50
+Taylor,13 Jerkins Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,361
+Taylor,13 Jerkins Bldg,Retention of Harvey Jay,First District Court of Appeal,NOP,No,255
+Taylor,13 Jerkins Bldg,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,13 Jerkins Bldg,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,63
+Taylor,13 Jerkins Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,372
+Taylor,13 Jerkins Bldg,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,242
+Taylor,13 Jerkins Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Taylor,13 Jerkins Bldg,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,65
+Taylor,13 Jerkins Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,356
+Taylor,13 Jerkins Bldg,Retention of Brad Thomas,First District Court of Appeal,NOP,No,253
+Taylor,13 Jerkins Bldg,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,13 Jerkins Bldg,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,70
+Taylor,13 Jerkins Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,363
+Taylor,13 Jerkins Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,251
+Taylor,13 Jerkins Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,13 Jerkins Bldg,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,65
+Taylor,13 Jerkins Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,343
+Taylor,13 Jerkins Bldg,Retention of Allen Winsor,First District Court of Appeal,NOP,No,262
+Taylor,13 Jerkins Bldg,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,13 Jerkins Bldg,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,74
+Taylor,13 Jerkins Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,284
+Taylor,13 Jerkins Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,359
+Taylor,13 Jerkins Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Taylor,13 Jerkins Bldg,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,35
+Taylor,13 Jerkins Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,360
+Taylor,13 Jerkins Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,285
+Taylor,13 Jerkins Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,34
+Taylor,13 Jerkins Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,487
+Taylor,13 Jerkins Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,163
+Taylor,13 Jerkins Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Taylor,13 Jerkins Bldg,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,28
+Taylor,13 Jerkins Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,542
+Taylor,13 Jerkins Bldg,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,119
+Taylor,13 Jerkins Bldg,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,18
+Taylor,13 Jerkins Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,320
+Taylor,13 Jerkins Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,324
+Taylor,13 Jerkins Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,13 Jerkins Bldg,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,35
+Taylor,13 Jerkins Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,380
+Taylor,13 Jerkins Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,260
+Taylor,13 Jerkins Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,39
+Taylor,13 Jerkins Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,421
+Taylor,13 Jerkins Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,215
+Taylor,13 Jerkins Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,43
+Taylor,13 Jerkins Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,405
+Taylor,13 Jerkins Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,229
+Taylor,13 Jerkins Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,45
+Taylor,13 Jerkins Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,410
+Taylor,13 Jerkins Bldg,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,213
+Taylor,13 Jerkins Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,56
+Taylor,13 Jerkins Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,344
+Taylor,13 Jerkins Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,278
+Taylor,13 Jerkins Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,57
+Taylor,13 Jerkins Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,395
+Taylor,13 Jerkins Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,235
+Taylor,13 Jerkins Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Taylor,13 Jerkins Bldg,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,48
+Taylor,13 Jerkins Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,316
+Taylor,13 Jerkins Bldg,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,319
+Taylor,13 Jerkins Bldg,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,13 Jerkins Bldg,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,44
+Taylor,14 Taylor Co Sports Complex,U.S. Senate,"",REP,Rick Scott,711
+Taylor,14 Taylor Co Sports Complex,U.S. Senate,"",DEM,Bill Nelson,129
+Taylor,14 Taylor Co Sports Complex,U.S. Senate,"","",WriteinVotes,5
+Taylor,14 Taylor Co Sports Complex,U.S. Senate,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,U.S. Senate,"","",UnderVotes,8
+Taylor,14 Taylor Co Sports Complex,U.S. House,2,REP,Neal Dunn,723
+Taylor,14 Taylor Co Sports Complex,U.S. House,2,DEM,Bob Rackleff,114
+Taylor,14 Taylor Co Sports Complex,U.S. House,2,"",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,U.S. House,2,"",UnderVotes,16
+Taylor,14 Taylor Co Sports Complex,Governor,"",REP,DeSantis / Nuñez,745
+Taylor,14 Taylor Co Sports Complex,Governor,"",DEM,Gillum / King,93
+Taylor,14 Taylor Co Sports Complex,Governor,"",REF,Richardson / Argenziano,3
+Taylor,14 Taylor Co Sports Complex,Governor,"",NPA,Gibson / Wilds,2
+Taylor,14 Taylor Co Sports Complex,Governor,"",NPA,Foley / Tutton,3
+Taylor,14 Taylor Co Sports Complex,Governor,"",NPA,Stanley / McJury,3
+Taylor,14 Taylor Co Sports Complex,Governor,"","",WriteinVotes,1
+Taylor,14 Taylor Co Sports Complex,Governor,"","",OverVotes,1
+Taylor,14 Taylor Co Sports Complex,Governor,"","",UnderVotes,2
+Taylor,14 Taylor Co Sports Complex,Attorney General,"",REP,Ashley Moody,735
+Taylor,14 Taylor Co Sports Complex,Attorney General,"",DEM,Sean Shaw,98
+Taylor,14 Taylor Co Sports Complex,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Taylor,14 Taylor Co Sports Complex,Attorney General,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Attorney General,"","",UnderVotes,11
+Taylor,14 Taylor Co Sports Complex,Chief Financial Officer,"",REP,Jimmy Patronis,719
+Taylor,14 Taylor Co Sports Complex,Chief Financial Officer,"",DEM,Jeremy Ring,116
+Taylor,14 Taylor Co Sports Complex,Chief Financial Officer,"","",WriteinVotes,1
+Taylor,14 Taylor Co Sports Complex,Chief Financial Officer,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Chief Financial Officer,"","",UnderVotes,17
+Taylor,14 Taylor Co Sports Complex,Commissioner of Agriculture,"",REP,Matt Caldwell,719
+Taylor,14 Taylor Co Sports Complex,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",121
+Taylor,14 Taylor Co Sports Complex,Commissioner of Agriculture,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Commissioner of Agriculture,"","",UnderVotes,13
+Taylor,14 Taylor Co Sports Complex,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,513
+Taylor,14 Taylor Co Sports Complex,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,269
+Taylor,14 Taylor Co Sports Complex,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,71
+Taylor,14 Taylor Co Sports Complex,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,499
+Taylor,14 Taylor Co Sports Complex,Retention of Harvey Jay,First District Court of Appeal,NOP,No,276
+Taylor,14 Taylor Co Sports Complex,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,78
+Taylor,14 Taylor Co Sports Complex,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,495
+Taylor,14 Taylor Co Sports Complex,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,274
+Taylor,14 Taylor Co Sports Complex,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Taylor,14 Taylor Co Sports Complex,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,83
+Taylor,14 Taylor Co Sports Complex,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,480
+Taylor,14 Taylor Co Sports Complex,Retention of Brad Thomas,First District Court of Appeal,NOP,No,287
+Taylor,14 Taylor Co Sports Complex,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Taylor,14 Taylor Co Sports Complex,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,84
+Taylor,14 Taylor Co Sports Complex,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,481
+Taylor,14 Taylor Co Sports Complex,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,288
+Taylor,14 Taylor Co Sports Complex,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,84
+Taylor,14 Taylor Co Sports Complex,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,487
+Taylor,14 Taylor Co Sports Complex,Retention of Allen Winsor,First District Court of Appeal,NOP,No,278
+Taylor,14 Taylor Co Sports Complex,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,88
+Taylor,14 Taylor Co Sports Complex,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,506
+Taylor,14 Taylor Co Sports Complex,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,323
+Taylor,14 Taylor Co Sports Complex,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,24
+Taylor,14 Taylor Co Sports Complex,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,576
+Taylor,14 Taylor Co Sports Complex,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,250
+Taylor,14 Taylor Co Sports Complex,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,27
+Taylor,14 Taylor Co Sports Complex,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,578
+Taylor,14 Taylor Co Sports Complex,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,254
+Taylor,14 Taylor Co Sports Complex,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,21
+Taylor,14 Taylor Co Sports Complex,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,394
+Taylor,14 Taylor Co Sports Complex,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,447
+Taylor,14 Taylor Co Sports Complex,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,12
+Taylor,14 Taylor Co Sports Complex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,603
+Taylor,14 Taylor Co Sports Complex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,211
+Taylor,14 Taylor Co Sports Complex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,39
+Taylor,14 Taylor Co Sports Complex,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,504
+Taylor,14 Taylor Co Sports Complex,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,310
+Taylor,14 Taylor Co Sports Complex,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,39
+Taylor,14 Taylor Co Sports Complex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,551
+Taylor,14 Taylor Co Sports Complex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,260
+Taylor,14 Taylor Co Sports Complex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,42
+Taylor,14 Taylor Co Sports Complex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,428
+Taylor,14 Taylor Co Sports Complex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,389
+Taylor,14 Taylor Co Sports Complex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Taylor,14 Taylor Co Sports Complex,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,35
+Taylor,14 Taylor Co Sports Complex,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,544
+Taylor,14 Taylor Co Sports Complex,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,260
+Taylor,14 Taylor Co Sports Complex,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Taylor,14 Taylor Co Sports Complex,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,48
+Taylor,14 Taylor Co Sports Complex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,404
+Taylor,14 Taylor Co Sports Complex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,390
+Taylor,14 Taylor Co Sports Complex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,59
+Taylor,14 Taylor Co Sports Complex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,582
+Taylor,14 Taylor Co Sports Complex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,233
+Taylor,14 Taylor Co Sports Complex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,38
+Taylor,14 Taylor Co Sports Complex,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,339
+Taylor,14 Taylor Co Sports Complex,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,489
+Taylor,14 Taylor Co Sports Complex,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Taylor,14 Taylor Co Sports Complex,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,25
+Taylor,1 1st United Methodist Ch,Registered Voters,"","","",880
+Taylor,10 Lakeside Bapt Church,Registered Voters,"","","",678
+Taylor,11 Kelly Grade Voting House,Registered Voters,"","","",708
+Taylor,12 Perry Shrine Bldg,Registered Voters,"","","",963
+Taylor,13 Jerkins Bldg,Registered Voters,"","","",1090
+Taylor,14 Taylor Co Sports Complex,Registered Voters,"","","",1282
+Taylor,2 Big Bend Technical College,Registered Voters,"","","",1095
+Taylor,3 Blue Creek Bapt Church,Registered Voters,"","","",924
+Taylor,4 Salem Baptist Church,Registered Voters,"","","",146
+Taylor,5 Steinhatchee Comm Cntr,Registered Voters,"","","",874
+Taylor,6 Shady Gr Missnry Bapt Ch,Registered Voters,"","","",536
+Taylor,7 Johnson Strip Rd Voting,Registered Voters,"","","",1396
+Taylor,8 United Steel Workers Bdg,Registered Voters,"","","",899
+Taylor,9 Forest Capital Hall,Registered Voters,"","","",671
