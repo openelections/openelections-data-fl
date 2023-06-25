@@ -1,0 +1,2458 @@
+county,precinct,office,district,party,candidate,votes
+Walton,110,U.S. Senate,"",REP,Rick Scott,579
+Walton,110,U.S. Senate,"",DEM,Bill Nelson,96
+Walton,110,U.S. Senate,"","",WriteinVotes,1
+Walton,110,U.S. Senate,"","",OverVotes,0
+Walton,110,U.S. Senate,"","",UnderVotes,1
+Walton,110,U.S. House,1,REP,Matt Gaetz,577
+Walton,110,U.S. House,1,DEM,Jennifer M. Zimmerman,95
+Walton,110,U.S. House,1,"",OverVotes,0
+Walton,110,U.S. House,1,"",UnderVotes,5
+Walton,110,Governor,"",REP,DeSantis / Nuñez,578
+Walton,110,Governor,"",DEM,Gillum / King,82
+Walton,110,Governor,"",REF,Richardson / Argenziano,5
+Walton,110,Governor,"",NPA,Gibson / Wilds,2
+Walton,110,Governor,"",NPA,Foley / Tutton,2
+Walton,110,Governor,"",NPA,Stanley / McJury,3
+Walton,110,Governor,"","",WriteinVotes,0
+Walton,110,Governor,"","",OverVotes,1
+Walton,110,Governor,"","",UnderVotes,4
+Walton,110,Attorney General,"",REP,Ashley Moody,580
+Walton,110,Attorney General,"",DEM,Sean Shaw,77
+Walton,110,Attorney General,"",NPA,Jeffrey Marc Siskind,13
+Walton,110,Attorney General,"","",OverVotes,0
+Walton,110,Attorney General,"","",UnderVotes,7
+Walton,110,Chief Financial Officer,"",REP,Jimmy Patronis,584
+Walton,110,Chief Financial Officer,"",DEM,Jeremy Ring,84
+Walton,110,Chief Financial Officer,"","",WriteinVotes,0
+Walton,110,Chief Financial Officer,"","",OverVotes,0
+Walton,110,Chief Financial Officer,"","",UnderVotes,9
+Walton,110,Commissioner of Agriculture,"",REP,Matt Caldwell,576
+Walton,110,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",94
+Walton,110,Commissioner of Agriculture,"","",OverVotes,0
+Walton,110,Commissioner of Agriculture,"","",UnderVotes,7
+Walton,110,State Senate,2,REP,George B. Gainer,586
+Walton,110,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",86
+Walton,110,State Senate,2,"",OverVotes,1
+Walton,110,State Senate,2,"",UnderVotes,4
+Walton,110,County Commissioner,2,REP,Danny Glidewell,613
+Walton,110,County Commissioner,2,"",WriteinVotes,17
+Walton,110,County Commissioner,2,"",OverVotes,0
+Walton,110,County Commissioner,2,"",UnderVotes,47
+Walton,110,County Commissioner,4,REP,Trey Nick,622
+Walton,110,County Commissioner,4,"",WriteinVotes,10
+Walton,110,County Commissioner,4,"",OverVotes,0
+Walton,110,County Commissioner,4,"",UnderVotes,45
+Walton,110,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,427
+Walton,110,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,193
+Walton,110,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,110,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,57
+Walton,110,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,408
+Walton,110,Retention of Harvey Jay,First District Court of Appeal,NOP,No,205
+Walton,110,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,110,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,64
+Walton,110,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,414
+Walton,110,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,201
+Walton,110,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Walton,110,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,61
+Walton,110,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,397
+Walton,110,Retention of Brad Thomas,First District Court of Appeal,NOP,No,211
+Walton,110,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,110,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,69
+Walton,110,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,409
+Walton,110,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,202
+Walton,110,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,110,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,66
+Walton,110,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,404
+Walton,110,Retention of Allen Winsor,First District Court of Appeal,NOP,No,204
+Walton,110,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,110,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,69
+Walton,110,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,425
+Walton,110,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,226
+Walton,110,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,110,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,26
+Walton,110,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,443
+Walton,110,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,202
+Walton,110,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,110,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,32
+Walton,110,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,495
+Walton,110,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,168
+Walton,110,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,110,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,14
+Walton,110,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,324
+Walton,110,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,330
+Walton,110,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,110,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,23
+Walton,110,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,501
+Walton,110,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,152
+Walton,110,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,110,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,24
+Walton,110,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,403
+Walton,110,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,241
+Walton,110,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,110,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,33
+Walton,110,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,456
+Walton,110,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,190
+Walton,110,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,110,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,31
+Walton,110,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,349
+Walton,110,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,305
+Walton,110,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,110,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,23
+Walton,110,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,475
+Walton,110,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,171
+Walton,110,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,110,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,31
+Walton,110,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,367
+Walton,110,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,263
+Walton,110,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,110,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,47
+Walton,110,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,507
+Walton,110,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,142
+Walton,110,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,110,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,28
+Walton,110,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,284
+Walton,110,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,363
+Walton,110,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,110,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,30
+Walton,120,U.S. Senate,"",REP,Rick Scott,378
+Walton,120,U.S. Senate,"",DEM,Bill Nelson,67
+Walton,120,U.S. Senate,"","",WriteinVotes,0
+Walton,120,U.S. Senate,"","",OverVotes,0
+Walton,120,U.S. Senate,"","",UnderVotes,2
+Walton,120,U.S. House,1,REP,Matt Gaetz,383
+Walton,120,U.S. House,1,DEM,Jennifer M. Zimmerman,63
+Walton,120,U.S. House,1,"",OverVotes,0
+Walton,120,U.S. House,1,"",UnderVotes,1
+Walton,120,Governor,"",REP,DeSantis / Nuñez,387
+Walton,120,Governor,"",DEM,Gillum / King,53
+Walton,120,Governor,"",REF,Richardson / Argenziano,2
+Walton,120,Governor,"",NPA,Gibson / Wilds,1
+Walton,120,Governor,"",NPA,Foley / Tutton,0
+Walton,120,Governor,"",NPA,Stanley / McJury,2
+Walton,120,Governor,"","",WriteinVotes,0
+Walton,120,Governor,"","",OverVotes,2
+Walton,120,Governor,"","",UnderVotes,0
+Walton,120,Attorney General,"",REP,Ashley Moody,389
+Walton,120,Attorney General,"",DEM,Sean Shaw,52
+Walton,120,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Walton,120,Attorney General,"","",OverVotes,0
+Walton,120,Attorney General,"","",UnderVotes,3
+Walton,120,Chief Financial Officer,"",REP,Jimmy Patronis,389
+Walton,120,Chief Financial Officer,"",DEM,Jeremy Ring,49
+Walton,120,Chief Financial Officer,"","",WriteinVotes,0
+Walton,120,Chief Financial Officer,"","",OverVotes,0
+Walton,120,Chief Financial Officer,"","",UnderVotes,9
+Walton,120,Commissioner of Agriculture,"",REP,Matt Caldwell,388
+Walton,120,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",50
+Walton,120,Commissioner of Agriculture,"","",OverVotes,0
+Walton,120,Commissioner of Agriculture,"","",UnderVotes,9
+Walton,120,State Senate,2,REP,George B. Gainer,387
+Walton,120,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",55
+Walton,120,State Senate,2,"",OverVotes,0
+Walton,120,State Senate,2,"",UnderVotes,5
+Walton,120,County Commissioner,2,REP,Danny Glidewell,401
+Walton,120,County Commissioner,2,"",WriteinVotes,11
+Walton,120,County Commissioner,2,"",OverVotes,0
+Walton,120,County Commissioner,2,"",UnderVotes,35
+Walton,120,County Commissioner,4,REP,Trey Nick,407
+Walton,120,County Commissioner,4,"",WriteinVotes,9
+Walton,120,County Commissioner,4,"",OverVotes,0
+Walton,120,County Commissioner,4,"",UnderVotes,31
+Walton,120,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,269
+Walton,120,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,131
+Walton,120,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,120,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,47
+Walton,120,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,263
+Walton,120,Retention of Harvey Jay,First District Court of Appeal,NOP,No,134
+Walton,120,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,120,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,50
+Walton,120,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,265
+Walton,120,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,134
+Walton,120,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,120,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,48
+Walton,120,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,251
+Walton,120,Retention of Brad Thomas,First District Court of Appeal,NOP,No,146
+Walton,120,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,120,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,50
+Walton,120,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,256
+Walton,120,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,141
+Walton,120,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,120,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,49
+Walton,120,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,253
+Walton,120,Retention of Allen Winsor,First District Court of Appeal,NOP,No,143
+Walton,120,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,120,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,51
+Walton,120,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,262
+Walton,120,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,174
+Walton,120,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,120,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Walton,120,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,320
+Walton,120,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,109
+Walton,120,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Walton,120,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,17
+Walton,120,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,312
+Walton,120,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,120
+Walton,120,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Walton,120,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,14
+Walton,120,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,215
+Walton,120,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,221
+Walton,120,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,120,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,11
+Walton,120,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,357
+Walton,120,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,75
+Walton,120,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Walton,120,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,14
+Walton,120,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,273
+Walton,120,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,155
+Walton,120,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Walton,120,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,17
+Walton,120,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,290
+Walton,120,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,140
+Walton,120,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,120,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,17
+Walton,120,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,226
+Walton,120,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,207
+Walton,120,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,120,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,14
+Walton,120,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,301
+Walton,120,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,129
+Walton,120,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,120,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,17
+Walton,120,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,231
+Walton,120,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,188
+Walton,120,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,120,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,28
+Walton,120,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,327
+Walton,120,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,106
+Walton,120,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,120,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,14
+Walton,120,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,198
+Walton,120,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,234
+Walton,120,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,120,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,15
+Walton,130,U.S. Senate,"",REP,Rick Scott,750
+Walton,130,U.S. Senate,"",DEM,Bill Nelson,138
+Walton,130,U.S. Senate,"","",WriteinVotes,7
+Walton,130,U.S. Senate,"","",OverVotes,1
+Walton,130,U.S. Senate,"","",UnderVotes,11
+Walton,130,U.S. House,1,REP,Matt Gaetz,777
+Walton,130,U.S. House,1,DEM,Jennifer M. Zimmerman,124
+Walton,130,U.S. House,1,"",OverVotes,1
+Walton,130,U.S. House,1,"",UnderVotes,5
+Walton,130,Governor,"",REP,DeSantis / Nuñez,759
+Walton,130,Governor,"",DEM,Gillum / King,115
+Walton,130,Governor,"",REF,Richardson / Argenziano,8
+Walton,130,Governor,"",NPA,Gibson / Wilds,4
+Walton,130,Governor,"",NPA,Foley / Tutton,8
+Walton,130,Governor,"",NPA,Stanley / McJury,3
+Walton,130,Governor,"","",WriteinVotes,2
+Walton,130,Governor,"","",OverVotes,3
+Walton,130,Governor,"","",UnderVotes,5
+Walton,130,Attorney General,"",REP,Ashley Moody,770
+Walton,130,Attorney General,"",DEM,Sean Shaw,112
+Walton,130,Attorney General,"",NPA,Jeffrey Marc Siskind,19
+Walton,130,Attorney General,"","",OverVotes,0
+Walton,130,Attorney General,"","",UnderVotes,6
+Walton,130,Chief Financial Officer,"",REP,Jimmy Patronis,774
+Walton,130,Chief Financial Officer,"",DEM,Jeremy Ring,114
+Walton,130,Chief Financial Officer,"","",WriteinVotes,2
+Walton,130,Chief Financial Officer,"","",OverVotes,0
+Walton,130,Chief Financial Officer,"","",UnderVotes,17
+Walton,130,Commissioner of Agriculture,"",REP,Matt Caldwell,783
+Walton,130,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",117
+Walton,130,Commissioner of Agriculture,"","",OverVotes,0
+Walton,130,Commissioner of Agriculture,"","",UnderVotes,7
+Walton,130,State Senate,2,REP,George B. Gainer,774
+Walton,130,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",126
+Walton,130,State Senate,2,"",OverVotes,0
+Walton,130,State Senate,2,"",UnderVotes,7
+Walton,130,County Commissioner,2,REP,Danny Glidewell,829
+Walton,130,County Commissioner,2,"",WriteinVotes,24
+Walton,130,County Commissioner,2,"",OverVotes,0
+Walton,130,County Commissioner,2,"",UnderVotes,54
+Walton,130,County Commissioner,4,REP,Trey Nick,824
+Walton,130,County Commissioner,4,"",WriteinVotes,22
+Walton,130,County Commissioner,4,"",OverVotes,0
+Walton,130,County Commissioner,4,"",UnderVotes,61
+Walton,130,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,572
+Walton,130,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,266
+Walton,130,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,130,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,69
+Walton,130,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,577
+Walton,130,Retention of Harvey Jay,First District Court of Appeal,NOP,No,266
+Walton,130,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,130,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,64
+Walton,130,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,577
+Walton,130,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,263
+Walton,130,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,130,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,67
+Walton,130,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,557
+Walton,130,Retention of Brad Thomas,First District Court of Appeal,NOP,No,286
+Walton,130,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,130,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,64
+Walton,130,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,553
+Walton,130,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,288
+Walton,130,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,130,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,66
+Walton,130,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,567
+Walton,130,Retention of Allen Winsor,First District Court of Appeal,NOP,No,272
+Walton,130,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,130,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,68
+Walton,130,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,558
+Walton,130,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,336
+Walton,130,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,130,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Walton,130,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,659
+Walton,130,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,230
+Walton,130,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,130,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,18
+Walton,130,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,686
+Walton,130,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,214
+Walton,130,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,130,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Walton,130,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,458
+Walton,130,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,438
+Walton,130,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,130,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,11
+Walton,130,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,707
+Walton,130,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,183
+Walton,130,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,130,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,17
+Walton,130,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,602
+Walton,130,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,289
+Walton,130,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,130,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,16
+Walton,130,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,627
+Walton,130,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,249
+Walton,130,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Walton,130,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,30
+Walton,130,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,487
+Walton,130,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,397
+Walton,130,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Walton,130,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,22
+Walton,130,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,662
+Walton,130,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,217
+Walton,130,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,130,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,28
+Walton,130,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,542
+Walton,130,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,328
+Walton,130,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,130,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,37
+Walton,130,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,712
+Walton,130,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,176
+Walton,130,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,130,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,19
+Walton,130,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,391
+Walton,130,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,493
+Walton,130,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,130,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,23
+Walton,210,U.S. Senate,"",REP,Rick Scott,240
+Walton,210,U.S. Senate,"",DEM,Bill Nelson,33
+Walton,210,U.S. Senate,"","",WriteinVotes,1
+Walton,210,U.S. Senate,"","",OverVotes,1
+Walton,210,U.S. Senate,"","",UnderVotes,4
+Walton,210,U.S. House,1,REP,Matt Gaetz,245
+Walton,210,U.S. House,1,DEM,Jennifer M. Zimmerman,30
+Walton,210,U.S. House,1,"",OverVotes,1
+Walton,210,U.S. House,1,"",UnderVotes,3
+Walton,210,Governor,"",REP,DeSantis / Nuñez,242
+Walton,210,Governor,"",DEM,Gillum / King,32
+Walton,210,Governor,"",REF,Richardson / Argenziano,0
+Walton,210,Governor,"",NPA,Gibson / Wilds,0
+Walton,210,Governor,"",NPA,Foley / Tutton,0
+Walton,210,Governor,"",NPA,Stanley / McJury,0
+Walton,210,Governor,"","",WriteinVotes,0
+Walton,210,Governor,"","",OverVotes,2
+Walton,210,Governor,"","",UnderVotes,3
+Walton,210,Attorney General,"",REP,Ashley Moody,245
+Walton,210,Attorney General,"",DEM,Sean Shaw,26
+Walton,210,Attorney General,"",NPA,Jeffrey Marc Siskind,2
+Walton,210,Attorney General,"","",OverVotes,1
+Walton,210,Attorney General,"","",UnderVotes,5
+Walton,210,Chief Financial Officer,"",REP,Jimmy Patronis,246
+Walton,210,Chief Financial Officer,"",DEM,Jeremy Ring,24
+Walton,210,Chief Financial Officer,"","",WriteinVotes,0
+Walton,210,Chief Financial Officer,"","",OverVotes,1
+Walton,210,Chief Financial Officer,"","",UnderVotes,8
+Walton,210,Commissioner of Agriculture,"",REP,Matt Caldwell,242
+Walton,210,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",27
+Walton,210,Commissioner of Agriculture,"","",OverVotes,1
+Walton,210,Commissioner of Agriculture,"","",UnderVotes,9
+Walton,210,State Senate,2,REP,George B. Gainer,246
+Walton,210,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",25
+Walton,210,State Senate,2,"",OverVotes,1
+Walton,210,State Senate,2,"",UnderVotes,7
+Walton,210,County Commissioner,2,REP,Danny Glidewell,242
+Walton,210,County Commissioner,2,"",WriteinVotes,6
+Walton,210,County Commissioner,2,"",OverVotes,0
+Walton,210,County Commissioner,2,"",UnderVotes,31
+Walton,210,County Commissioner,4,REP,Trey Nick,254
+Walton,210,County Commissioner,4,"",WriteinVotes,1
+Walton,210,County Commissioner,4,"",OverVotes,0
+Walton,210,County Commissioner,4,"",UnderVotes,24
+Walton,210,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,161
+Walton,210,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,91
+Walton,210,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,210,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,27
+Walton,210,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,153
+Walton,210,Retention of Harvey Jay,First District Court of Appeal,NOP,No,98
+Walton,210,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Walton,210,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,27
+Walton,210,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,157
+Walton,210,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,95
+Walton,210,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,210,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,27
+Walton,210,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,150
+Walton,210,Retention of Brad Thomas,First District Court of Appeal,NOP,No,98
+Walton,210,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,210,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,30
+Walton,210,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,150
+Walton,210,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,100
+Walton,210,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,210,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,29
+Walton,210,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,154
+Walton,210,Retention of Allen Winsor,First District Court of Appeal,NOP,No,95
+Walton,210,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,210,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,30
+Walton,210,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,167
+Walton,210,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,99
+Walton,210,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,210,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,12
+Walton,210,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,198
+Walton,210,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,71
+Walton,210,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,210,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,10
+Walton,210,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,201
+Walton,210,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,75
+Walton,210,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,210,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,3
+Walton,210,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,133
+Walton,210,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,136
+Walton,210,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Walton,210,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,9
+Walton,210,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,208
+Walton,210,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,59
+Walton,210,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,210,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,12
+Walton,210,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,176
+Walton,210,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,93
+Walton,210,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,210,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,10
+Walton,210,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,176
+Walton,210,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,89
+Walton,210,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,210,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,14
+Walton,210,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,142
+Walton,210,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,124
+Walton,210,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,210,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,13
+Walton,210,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,186
+Walton,210,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,69
+Walton,210,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,210,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Walton,210,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,121
+Walton,210,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,131
+Walton,210,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,210,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,27
+Walton,210,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,208
+Walton,210,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,51
+Walton,210,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,210,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,20
+Walton,210,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,100
+Walton,210,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,159
+Walton,210,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Walton,210,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,19
+Walton,220,U.S. Senate,"",REP,Rick Scott,316
+Walton,220,U.S. Senate,"",DEM,Bill Nelson,52
+Walton,220,U.S. Senate,"","",WriteinVotes,0
+Walton,220,U.S. Senate,"","",OverVotes,0
+Walton,220,U.S. Senate,"","",UnderVotes,3
+Walton,220,U.S. House,1,REP,Matt Gaetz,317
+Walton,220,U.S. House,1,DEM,Jennifer M. Zimmerman,53
+Walton,220,U.S. House,1,"",OverVotes,0
+Walton,220,U.S. House,1,"",UnderVotes,1
+Walton,220,Governor,"",REP,DeSantis / Nuñez,322
+Walton,220,Governor,"",DEM,Gillum / King,44
+Walton,220,Governor,"",REF,Richardson / Argenziano,0
+Walton,220,Governor,"",NPA,Gibson / Wilds,2
+Walton,220,Governor,"",NPA,Foley / Tutton,0
+Walton,220,Governor,"",NPA,Stanley / McJury,2
+Walton,220,Governor,"","",WriteinVotes,0
+Walton,220,Governor,"","",OverVotes,1
+Walton,220,Governor,"","",UnderVotes,0
+Walton,220,Attorney General,"",REP,Ashley Moody,315
+Walton,220,Attorney General,"",DEM,Sean Shaw,46
+Walton,220,Attorney General,"",NPA,Jeffrey Marc Siskind,6
+Walton,220,Attorney General,"","",OverVotes,1
+Walton,220,Attorney General,"","",UnderVotes,3
+Walton,220,Chief Financial Officer,"",REP,Jimmy Patronis,324
+Walton,220,Chief Financial Officer,"",DEM,Jeremy Ring,41
+Walton,220,Chief Financial Officer,"","",WriteinVotes,0
+Walton,220,Chief Financial Officer,"","",OverVotes,0
+Walton,220,Chief Financial Officer,"","",UnderVotes,6
+Walton,220,Commissioner of Agriculture,"",REP,Matt Caldwell,329
+Walton,220,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",41
+Walton,220,Commissioner of Agriculture,"","",OverVotes,0
+Walton,220,Commissioner of Agriculture,"","",UnderVotes,1
+Walton,220,State Senate,2,REP,George B. Gainer,328
+Walton,220,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",39
+Walton,220,State Senate,2,"",OverVotes,0
+Walton,220,State Senate,2,"",UnderVotes,4
+Walton,220,County Commissioner,2,REP,Danny Glidewell,325
+Walton,220,County Commissioner,2,"",WriteinVotes,13
+Walton,220,County Commissioner,2,"",OverVotes,0
+Walton,220,County Commissioner,2,"",UnderVotes,33
+Walton,220,County Commissioner,4,REP,Trey Nick,340
+Walton,220,County Commissioner,4,"",WriteinVotes,7
+Walton,220,County Commissioner,4,"",OverVotes,1
+Walton,220,County Commissioner,4,"",UnderVotes,23
+Walton,220,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,197
+Walton,220,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,142
+Walton,220,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,220,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,32
+Walton,220,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,186
+Walton,220,Retention of Harvey Jay,First District Court of Appeal,NOP,No,154
+Walton,220,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,220,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,31
+Walton,220,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,187
+Walton,220,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,153
+Walton,220,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,220,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,31
+Walton,220,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,186
+Walton,220,Retention of Brad Thomas,First District Court of Appeal,NOP,No,153
+Walton,220,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,220,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,32
+Walton,220,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,177
+Walton,220,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,160
+Walton,220,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,220,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,34
+Walton,220,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,183
+Walton,220,Retention of Allen Winsor,First District Court of Appeal,NOP,No,156
+Walton,220,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,220,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,32
+Walton,220,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,224
+Walton,220,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,136
+Walton,220,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,220,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Walton,220,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,258
+Walton,220,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,99
+Walton,220,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,220,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,14
+Walton,220,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,243
+Walton,220,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,118
+Walton,220,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,220,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Walton,220,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,159
+Walton,220,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,198
+Walton,220,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,220,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,14
+Walton,220,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,268
+Walton,220,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,94
+Walton,220,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,220,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,9
+Walton,220,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,221
+Walton,220,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,135
+Walton,220,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,220,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,15
+Walton,220,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,242
+Walton,220,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,110
+Walton,220,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,220,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,19
+Walton,220,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,167
+Walton,220,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,185
+Walton,220,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Walton,220,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,18
+Walton,220,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,255
+Walton,220,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,98
+Walton,220,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,220,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,18
+Walton,220,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,188
+Walton,220,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,154
+Walton,220,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,220,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,29
+Walton,220,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,267
+Walton,220,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,84
+Walton,220,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,220,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,20
+Walton,220,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,127
+Walton,220,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,230
+Walton,220,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Walton,220,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,13
+Walton,230,U.S. Senate,"",REP,Rick Scott,556
+Walton,230,U.S. Senate,"",DEM,Bill Nelson,71
+Walton,230,U.S. Senate,"","",WriteinVotes,0
+Walton,230,U.S. Senate,"","",OverVotes,0
+Walton,230,U.S. Senate,"","",UnderVotes,6
+Walton,230,U.S. House,1,REP,Matt Gaetz,550
+Walton,230,U.S. House,1,DEM,Jennifer M. Zimmerman,70
+Walton,230,U.S. House,1,"",OverVotes,1
+Walton,230,U.S. House,1,"",UnderVotes,12
+Walton,230,Governor,"",REP,DeSantis / Nuñez,558
+Walton,230,Governor,"",DEM,Gillum / King,64
+Walton,230,Governor,"",REF,Richardson / Argenziano,4
+Walton,230,Governor,"",NPA,Gibson / Wilds,3
+Walton,230,Governor,"",NPA,Foley / Tutton,1
+Walton,230,Governor,"",NPA,Stanley / McJury,0
+Walton,230,Governor,"","",WriteinVotes,0
+Walton,230,Governor,"","",OverVotes,1
+Walton,230,Governor,"","",UnderVotes,2
+Walton,230,Attorney General,"",REP,Ashley Moody,561
+Walton,230,Attorney General,"",DEM,Sean Shaw,51
+Walton,230,Attorney General,"",NPA,Jeffrey Marc Siskind,15
+Walton,230,Attorney General,"","",OverVotes,0
+Walton,230,Attorney General,"","",UnderVotes,6
+Walton,230,Chief Financial Officer,"",REP,Jimmy Patronis,576
+Walton,230,Chief Financial Officer,"",DEM,Jeremy Ring,54
+Walton,230,Chief Financial Officer,"","",WriteinVotes,1
+Walton,230,Chief Financial Officer,"","",OverVotes,0
+Walton,230,Chief Financial Officer,"","",UnderVotes,2
+Walton,230,Commissioner of Agriculture,"",REP,Matt Caldwell,569
+Walton,230,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",61
+Walton,230,Commissioner of Agriculture,"","",OverVotes,0
+Walton,230,Commissioner of Agriculture,"","",UnderVotes,3
+Walton,230,State Senate,2,REP,George B. Gainer,563
+Walton,230,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",59
+Walton,230,State Senate,2,"",OverVotes,1
+Walton,230,State Senate,2,"",UnderVotes,10
+Walton,230,County Commissioner,2,REP,Danny Glidewell,565
+Walton,230,County Commissioner,2,"",WriteinVotes,17
+Walton,230,County Commissioner,2,"",OverVotes,1
+Walton,230,County Commissioner,2,"",UnderVotes,50
+Walton,230,County Commissioner,4,REP,Trey Nick,585
+Walton,230,County Commissioner,4,"",WriteinVotes,3
+Walton,230,County Commissioner,4,"",OverVotes,0
+Walton,230,County Commissioner,4,"",UnderVotes,45
+Walton,230,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,392
+Walton,230,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,175
+Walton,230,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,230,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,66
+Walton,230,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,396
+Walton,230,Retention of Harvey Jay,First District Court of Appeal,NOP,No,172
+Walton,230,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,230,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,65
+Walton,230,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,393
+Walton,230,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,174
+Walton,230,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Walton,230,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,65
+Walton,230,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,391
+Walton,230,Retention of Brad Thomas,First District Court of Appeal,NOP,No,175
+Walton,230,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Walton,230,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,65
+Walton,230,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,381
+Walton,230,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,183
+Walton,230,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Walton,230,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,67
+Walton,230,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,386
+Walton,230,Retention of Allen Winsor,First District Court of Appeal,NOP,No,182
+Walton,230,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,230,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,65
+Walton,230,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,380
+Walton,230,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,240
+Walton,230,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Walton,230,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Walton,230,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,445
+Walton,230,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,167
+Walton,230,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Walton,230,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,20
+Walton,230,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,458
+Walton,230,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,165
+Walton,230,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,230,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Walton,230,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,308
+Walton,230,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,309
+Walton,230,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Walton,230,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,15
+Walton,230,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,488
+Walton,230,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,126
+Walton,230,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,230,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,19
+Walton,230,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,417
+Walton,230,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,198
+Walton,230,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,230,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,18
+Walton,230,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,396
+Walton,230,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,215
+Walton,230,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,230,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,22
+Walton,230,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,302
+Walton,230,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,309
+Walton,230,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Walton,230,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,21
+Walton,230,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,430
+Walton,230,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,177
+Walton,230,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,230,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,26
+Walton,230,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,330
+Walton,230,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,252
+Walton,230,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,230,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,51
+Walton,230,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,477
+Walton,230,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,130
+Walton,230,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,230,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,26
+Walton,230,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,241
+Walton,230,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,363
+Walton,230,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,230,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,29
+Walton,240,U.S. Senate,"",REP,Rick Scott,204
+Walton,240,U.S. Senate,"",DEM,Bill Nelson,25
+Walton,240,U.S. Senate,"","",WriteinVotes,0
+Walton,240,U.S. Senate,"","",OverVotes,0
+Walton,240,U.S. Senate,"","",UnderVotes,1
+Walton,240,U.S. House,1,REP,Matt Gaetz,200
+Walton,240,U.S. House,1,DEM,Jennifer M. Zimmerman,26
+Walton,240,U.S. House,1,"",OverVotes,0
+Walton,240,U.S. House,1,"",UnderVotes,4
+Walton,240,Governor,"",REP,DeSantis / Nuñez,203
+Walton,240,Governor,"",DEM,Gillum / King,22
+Walton,240,Governor,"",REF,Richardson / Argenziano,2
+Walton,240,Governor,"",NPA,Gibson / Wilds,1
+Walton,240,Governor,"",NPA,Foley / Tutton,0
+Walton,240,Governor,"",NPA,Stanley / McJury,0
+Walton,240,Governor,"","",WriteinVotes,0
+Walton,240,Governor,"","",OverVotes,1
+Walton,240,Governor,"","",UnderVotes,1
+Walton,240,Attorney General,"",REP,Ashley Moody,204
+Walton,240,Attorney General,"",DEM,Sean Shaw,23
+Walton,240,Attorney General,"",NPA,Jeffrey Marc Siskind,1
+Walton,240,Attorney General,"","",OverVotes,0
+Walton,240,Attorney General,"","",UnderVotes,2
+Walton,240,Chief Financial Officer,"",REP,Jimmy Patronis,204
+Walton,240,Chief Financial Officer,"",DEM,Jeremy Ring,24
+Walton,240,Chief Financial Officer,"","",WriteinVotes,0
+Walton,240,Chief Financial Officer,"","",OverVotes,0
+Walton,240,Chief Financial Officer,"","",UnderVotes,2
+Walton,240,Commissioner of Agriculture,"",REP,Matt Caldwell,205
+Walton,240,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",24
+Walton,240,Commissioner of Agriculture,"","",OverVotes,0
+Walton,240,Commissioner of Agriculture,"","",UnderVotes,1
+Walton,240,State Senate,2,REP,George B. Gainer,202
+Walton,240,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",26
+Walton,240,State Senate,2,"",OverVotes,0
+Walton,240,State Senate,2,"",UnderVotes,2
+Walton,240,County Commissioner,2,REP,Danny Glidewell,211
+Walton,240,County Commissioner,2,"",WriteinVotes,9
+Walton,240,County Commissioner,2,"",OverVotes,0
+Walton,240,County Commissioner,2,"",UnderVotes,10
+Walton,240,County Commissioner,4,REP,Trey Nick,214
+Walton,240,County Commissioner,4,"",WriteinVotes,2
+Walton,240,County Commissioner,4,"",OverVotes,0
+Walton,240,County Commissioner,4,"",UnderVotes,14
+Walton,240,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,125
+Walton,240,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,79
+Walton,240,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,240,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,26
+Walton,240,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,127
+Walton,240,Retention of Harvey Jay,First District Court of Appeal,NOP,No,79
+Walton,240,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Walton,240,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,23
+Walton,240,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,126
+Walton,240,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,81
+Walton,240,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,240,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,23
+Walton,240,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,123
+Walton,240,Retention of Brad Thomas,First District Court of Appeal,NOP,No,84
+Walton,240,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,240,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,23
+Walton,240,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,116
+Walton,240,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,91
+Walton,240,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,240,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,23
+Walton,240,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,127
+Walton,240,Retention of Allen Winsor,First District Court of Appeal,NOP,No,79
+Walton,240,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,240,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,24
+Walton,240,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,149
+Walton,240,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,72
+Walton,240,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,240,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,9
+Walton,240,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,156
+Walton,240,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,62
+Walton,240,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,240,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Walton,240,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,168
+Walton,240,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,55
+Walton,240,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,240,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,7
+Walton,240,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,110
+Walton,240,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,114
+Walton,240,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,240,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,6
+Walton,240,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,170
+Walton,240,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,48
+Walton,240,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,240,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,12
+Walton,240,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,129
+Walton,240,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,89
+Walton,240,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,240,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,12
+Walton,240,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,144
+Walton,240,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,69
+Walton,240,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Walton,240,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,16
+Walton,240,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,99
+Walton,240,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,115
+Walton,240,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Walton,240,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,14
+Walton,240,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,154
+Walton,240,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,59
+Walton,240,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Walton,240,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,16
+Walton,240,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,99
+Walton,240,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,111
+Walton,240,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,240,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,20
+Walton,240,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,156
+Walton,240,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,57
+Walton,240,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,240,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,17
+Walton,240,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,77
+Walton,240,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,138
+Walton,240,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,240,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,15
+Walton,310,U.S. Senate,"",REP,Rick Scott,1935
+Walton,310,U.S. Senate,"",DEM,Bill Nelson,655
+Walton,310,U.S. Senate,"","",WriteinVotes,8
+Walton,310,U.S. Senate,"","",OverVotes,0
+Walton,310,U.S. Senate,"","",UnderVotes,23
+Walton,310,U.S. House,1,REP,Matt Gaetz,1945
+Walton,310,U.S. House,1,DEM,Jennifer M. Zimmerman,636
+Walton,310,U.S. House,1,"",OverVotes,1
+Walton,310,U.S. House,1,"",UnderVotes,39
+Walton,310,Governor,"",REP,DeSantis / Nuñez,1932
+Walton,310,Governor,"",DEM,Gillum / King,614
+Walton,310,Governor,"",REF,Richardson / Argenziano,22
+Walton,310,Governor,"",NPA,Gibson / Wilds,5
+Walton,310,Governor,"",NPA,Foley / Tutton,12
+Walton,310,Governor,"",NPA,Stanley / McJury,11
+Walton,310,Governor,"","",WriteinVotes,1
+Walton,310,Governor,"","",OverVotes,9
+Walton,310,Governor,"","",UnderVotes,15
+Walton,310,Attorney General,"",REP,Ashley Moody,1942
+Walton,310,Attorney General,"",DEM,Sean Shaw,588
+Walton,310,Attorney General,"",NPA,Jeffrey Marc Siskind,55
+Walton,310,Attorney General,"","",OverVotes,1
+Walton,310,Attorney General,"","",UnderVotes,35
+Walton,310,Chief Financial Officer,"",REP,Jimmy Patronis,1987
+Walton,310,Chief Financial Officer,"",DEM,Jeremy Ring,590
+Walton,310,Chief Financial Officer,"","",WriteinVotes,3
+Walton,310,Chief Financial Officer,"","",OverVotes,0
+Walton,310,Chief Financial Officer,"","",UnderVotes,41
+Walton,310,Commissioner of Agriculture,"",REP,Matt Caldwell,1975
+Walton,310,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",612
+Walton,310,Commissioner of Agriculture,"","",OverVotes,0
+Walton,310,Commissioner of Agriculture,"","",UnderVotes,34
+Walton,310,State Senate,2,REP,George B. Gainer,1985
+Walton,310,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",601
+Walton,310,State Senate,2,"",OverVotes,0
+Walton,310,State Senate,2,"",UnderVotes,35
+Walton,310,County Commissioner,2,REP,Danny Glidewell,2211
+Walton,310,County Commissioner,2,"",WriteinVotes,106
+Walton,310,County Commissioner,2,"",OverVotes,0
+Walton,310,County Commissioner,2,"",UnderVotes,304
+Walton,310,County Commissioner,4,REP,Trey Nick,2264
+Walton,310,County Commissioner,4,"",WriteinVotes,70
+Walton,310,County Commissioner,4,"",OverVotes,0
+Walton,310,County Commissioner,4,"",UnderVotes,287
+Walton,310,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1614
+Walton,310,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,770
+Walton,310,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Walton,310,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,235
+Walton,310,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1558
+Walton,310,Retention of Harvey Jay,First District Court of Appeal,NOP,No,812
+Walton,310,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Walton,310,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,250
+Walton,310,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1611
+Walton,310,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,755
+Walton,310,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Walton,310,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,254
+Walton,310,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1570
+Walton,310,Retention of Brad Thomas,First District Court of Appeal,NOP,No,798
+Walton,310,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,310,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,252
+Walton,310,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1546
+Walton,310,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,819
+Walton,310,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,310,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,255
+Walton,310,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1557
+Walton,310,Retention of Allen Winsor,First District Court of Appeal,NOP,No,808
+Walton,310,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,310,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,256
+Walton,310,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1576
+Walton,310,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,961
+Walton,310,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,2
+Walton,310,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,82
+Walton,310,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1764
+Walton,310,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,758
+Walton,310,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Walton,310,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,98
+Walton,310,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1942
+Walton,310,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,619
+Walton,310,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,2
+Walton,310,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,58
+Walton,310,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1481
+Walton,310,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1059
+Walton,310,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Walton,310,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,80
+Walton,310,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1911
+Walton,310,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,608
+Walton,310,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,310,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,102
+Walton,310,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1677
+Walton,310,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,845
+Walton,310,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,310,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,99
+Walton,310,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1796
+Walton,310,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,711
+Walton,310,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,310,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,114
+Walton,310,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1490
+Walton,310,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1018
+Walton,310,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Walton,310,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,111
+Walton,310,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1887
+Walton,310,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,595
+Walton,310,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Walton,310,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,138
+Walton,310,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1500
+Walton,310,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,928
+Walton,310,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,310,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,193
+Walton,310,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1995
+Walton,310,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,502
+Walton,310,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,3
+Walton,310,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,121
+Walton,310,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1230
+Walton,310,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1291
+Walton,310,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,310,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,100
+Walton,320,U.S. Senate,"",REP,Rick Scott,857
+Walton,320,U.S. Senate,"",DEM,Bill Nelson,321
+Walton,320,U.S. Senate,"","",WriteinVotes,3
+Walton,320,U.S. Senate,"","",OverVotes,0
+Walton,320,U.S. Senate,"","",UnderVotes,18
+Walton,320,U.S. House,1,REP,Matt Gaetz,854
+Walton,320,U.S. House,1,DEM,Jennifer M. Zimmerman,321
+Walton,320,U.S. House,1,"",OverVotes,0
+Walton,320,U.S. House,1,"",UnderVotes,24
+Walton,320,Governor,"",REP,DeSantis / Nuñez,860
+Walton,320,Governor,"",DEM,Gillum / King,311
+Walton,320,Governor,"",REF,Richardson / Argenziano,4
+Walton,320,Governor,"",NPA,Gibson / Wilds,10
+Walton,320,Governor,"",NPA,Foley / Tutton,1
+Walton,320,Governor,"",NPA,Stanley / McJury,1
+Walton,320,Governor,"","",WriteinVotes,2
+Walton,320,Governor,"","",OverVotes,2
+Walton,320,Governor,"","",UnderVotes,8
+Walton,320,Attorney General,"",REP,Ashley Moody,873
+Walton,320,Attorney General,"",DEM,Sean Shaw,277
+Walton,320,Attorney General,"",NPA,Jeffrey Marc Siskind,25
+Walton,320,Attorney General,"","",OverVotes,1
+Walton,320,Attorney General,"","",UnderVotes,23
+Walton,320,Chief Financial Officer,"",REP,Jimmy Patronis,901
+Walton,320,Chief Financial Officer,"",DEM,Jeremy Ring,271
+Walton,320,Chief Financial Officer,"","",WriteinVotes,0
+Walton,320,Chief Financial Officer,"","",OverVotes,0
+Walton,320,Chief Financial Officer,"","",UnderVotes,27
+Walton,320,Commissioner of Agriculture,"",REP,Matt Caldwell,878
+Walton,320,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",291
+Walton,320,Commissioner of Agriculture,"","",OverVotes,0
+Walton,320,Commissioner of Agriculture,"","",UnderVotes,29
+Walton,320,State Senate,2,REP,George B. Gainer,885
+Walton,320,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",293
+Walton,320,State Senate,2,"",OverVotes,1
+Walton,320,State Senate,2,"",UnderVotes,20
+Walton,320,County Commissioner,2,REP,Danny Glidewell,994
+Walton,320,County Commissioner,2,"",WriteinVotes,35
+Walton,320,County Commissioner,2,"",OverVotes,0
+Walton,320,County Commissioner,2,"",UnderVotes,170
+Walton,320,County Commissioner,4,REP,Trey Nick,1008
+Walton,320,County Commissioner,4,"",WriteinVotes,29
+Walton,320,County Commissioner,4,"",OverVotes,0
+Walton,320,County Commissioner,4,"",UnderVotes,162
+Walton,320,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,672
+Walton,320,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,356
+Walton,320,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Walton,320,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,170
+Walton,320,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,640
+Walton,320,Retention of Harvey Jay,First District Court of Appeal,NOP,No,385
+Walton,320,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,320,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,174
+Walton,320,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,658
+Walton,320,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,362
+Walton,320,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,320,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,179
+Walton,320,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,642
+Walton,320,Retention of Brad Thomas,First District Court of Appeal,NOP,No,376
+Walton,320,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,320,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,181
+Walton,320,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,630
+Walton,320,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,394
+Walton,320,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,320,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,175
+Walton,320,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,628
+Walton,320,Retention of Allen Winsor,First District Court of Appeal,NOP,No,388
+Walton,320,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Walton,320,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,182
+Walton,320,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,673
+Walton,320,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,479
+Walton,320,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,320,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,47
+Walton,320,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,801
+Walton,320,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,342
+Walton,320,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,320,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,56
+Walton,320,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,864
+Walton,320,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,296
+Walton,320,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,320,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,39
+Walton,320,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,640
+Walton,320,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,521
+Walton,320,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,320,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,38
+Walton,320,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,849
+Walton,320,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,303
+Walton,320,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,320,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,47
+Walton,320,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,715
+Walton,320,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,429
+Walton,320,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,320,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,55
+Walton,320,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,768
+Walton,320,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,366
+Walton,320,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Walton,320,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,64
+Walton,320,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,706
+Walton,320,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,438
+Walton,320,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,320,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,55
+Walton,320,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,817
+Walton,320,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,310
+Walton,320,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,320,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,72
+Walton,320,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,641
+Walton,320,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,453
+Walton,320,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,320,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,105
+Walton,320,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,873
+Walton,320,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,252
+Walton,320,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,320,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,74
+Walton,320,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,583
+Walton,320,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,555
+Walton,320,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,320,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,61
+Walton,330,U.S. Senate,"",REP,Rick Scott,715
+Walton,330,U.S. Senate,"",DEM,Bill Nelson,151
+Walton,330,U.S. Senate,"","",WriteinVotes,3
+Walton,330,U.S. Senate,"","",OverVotes,0
+Walton,330,U.S. Senate,"","",UnderVotes,12
+Walton,330,U.S. House,1,REP,Matt Gaetz,716
+Walton,330,U.S. House,1,DEM,Jennifer M. Zimmerman,148
+Walton,330,U.S. House,1,"",OverVotes,0
+Walton,330,U.S. House,1,"",UnderVotes,17
+Walton,330,Governor,"",REP,DeSantis / Nuñez,718
+Walton,330,Governor,"",DEM,Gillum / King,138
+Walton,330,Governor,"",REF,Richardson / Argenziano,4
+Walton,330,Governor,"",NPA,Gibson / Wilds,2
+Walton,330,Governor,"",NPA,Foley / Tutton,4
+Walton,330,Governor,"",NPA,Stanley / McJury,3
+Walton,330,Governor,"","",WriteinVotes,0
+Walton,330,Governor,"","",OverVotes,2
+Walton,330,Governor,"","",UnderVotes,10
+Walton,330,Attorney General,"",REP,Ashley Moody,719
+Walton,330,Attorney General,"",DEM,Sean Shaw,126
+Walton,330,Attorney General,"",NPA,Jeffrey Marc Siskind,18
+Walton,330,Attorney General,"","",OverVotes,0
+Walton,330,Attorney General,"","",UnderVotes,18
+Walton,330,Chief Financial Officer,"",REP,Jimmy Patronis,747
+Walton,330,Chief Financial Officer,"",DEM,Jeremy Ring,116
+Walton,330,Chief Financial Officer,"","",WriteinVotes,0
+Walton,330,Chief Financial Officer,"","",OverVotes,0
+Walton,330,Chief Financial Officer,"","",UnderVotes,18
+Walton,330,Commissioner of Agriculture,"",REP,Matt Caldwell,734
+Walton,330,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",129
+Walton,330,Commissioner of Agriculture,"","",OverVotes,0
+Walton,330,Commissioner of Agriculture,"","",UnderVotes,18
+Walton,330,State Senate,2,REP,George B. Gainer,736
+Walton,330,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",129
+Walton,330,State Senate,2,"",OverVotes,0
+Walton,330,State Senate,2,"",UnderVotes,16
+Walton,330,County Commissioner,2,REP,Danny Glidewell,789
+Walton,330,County Commissioner,2,"",WriteinVotes,19
+Walton,330,County Commissioner,2,"",OverVotes,0
+Walton,330,County Commissioner,2,"",UnderVotes,73
+Walton,330,County Commissioner,4,REP,Trey Nick,792
+Walton,330,County Commissioner,4,"",WriteinVotes,13
+Walton,330,County Commissioner,4,"",OverVotes,0
+Walton,330,County Commissioner,4,"",UnderVotes,76
+Walton,330,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,508
+Walton,330,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,274
+Walton,330,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,330,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,99
+Walton,330,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,493
+Walton,330,Retention of Harvey Jay,First District Court of Appeal,NOP,No,284
+Walton,330,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,330,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,104
+Walton,330,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,497
+Walton,330,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,279
+Walton,330,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,330,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,105
+Walton,330,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,498
+Walton,330,Retention of Brad Thomas,First District Court of Appeal,NOP,No,277
+Walton,330,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,330,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,106
+Walton,330,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,474
+Walton,330,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,302
+Walton,330,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,330,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,105
+Walton,330,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,488
+Walton,330,Retention of Allen Winsor,First District Court of Appeal,NOP,No,288
+Walton,330,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,330,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,105
+Walton,330,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,500
+Walton,330,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,351
+Walton,330,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,330,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,30
+Walton,330,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,598
+Walton,330,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,250
+Walton,330,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,330,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,33
+Walton,330,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,662
+Walton,330,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,203
+Walton,330,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Walton,330,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,15
+Walton,330,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,467
+Walton,330,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,384
+Walton,330,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Walton,330,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,29
+Walton,330,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,652
+Walton,330,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,196
+Walton,330,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,330,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,33
+Walton,330,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,569
+Walton,330,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,282
+Walton,330,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,330,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,30
+Walton,330,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,593
+Walton,330,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,249
+Walton,330,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,330,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,39
+Walton,330,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,488
+Walton,330,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,355
+Walton,330,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,330,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,38
+Walton,330,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,622
+Walton,330,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,222
+Walton,330,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,330,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,37
+Walton,330,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,460
+Walton,330,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,357
+Walton,330,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,330,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,64
+Walton,330,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,649
+Walton,330,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,198
+Walton,330,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,330,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,34
+Walton,330,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,365
+Walton,330,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,471
+Walton,330,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Walton,330,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,44
+Walton,340,U.S. Senate,"",REP,Rick Scott,399
+Walton,340,U.S. Senate,"",DEM,Bill Nelson,179
+Walton,340,U.S. Senate,"","",WriteinVotes,2
+Walton,340,U.S. Senate,"","",OverVotes,0
+Walton,340,U.S. Senate,"","",UnderVotes,4
+Walton,340,U.S. House,1,REP,Matt Gaetz,396
+Walton,340,U.S. House,1,DEM,Jennifer M. Zimmerman,177
+Walton,340,U.S. House,1,"",OverVotes,0
+Walton,340,U.S. House,1,"",UnderVotes,11
+Walton,340,Governor,"",REP,DeSantis / Nuñez,394
+Walton,340,Governor,"",DEM,Gillum / King,179
+Walton,340,Governor,"",REF,Richardson / Argenziano,3
+Walton,340,Governor,"",NPA,Gibson / Wilds,0
+Walton,340,Governor,"",NPA,Foley / Tutton,3
+Walton,340,Governor,"",NPA,Stanley / McJury,2
+Walton,340,Governor,"","",WriteinVotes,0
+Walton,340,Governor,"","",OverVotes,0
+Walton,340,Governor,"","",UnderVotes,3
+Walton,340,Attorney General,"",REP,Ashley Moody,397
+Walton,340,Attorney General,"",DEM,Sean Shaw,170
+Walton,340,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Walton,340,Attorney General,"","",OverVotes,0
+Walton,340,Attorney General,"","",UnderVotes,9
+Walton,340,Chief Financial Officer,"",REP,Jimmy Patronis,401
+Walton,340,Chief Financial Officer,"",DEM,Jeremy Ring,171
+Walton,340,Chief Financial Officer,"","",WriteinVotes,2
+Walton,340,Chief Financial Officer,"","",OverVotes,0
+Walton,340,Chief Financial Officer,"","",UnderVotes,10
+Walton,340,Commissioner of Agriculture,"",REP,Matt Caldwell,394
+Walton,340,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",182
+Walton,340,Commissioner of Agriculture,"","",OverVotes,0
+Walton,340,Commissioner of Agriculture,"","",UnderVotes,8
+Walton,340,State Senate,2,REP,George B. Gainer,403
+Walton,340,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",169
+Walton,340,State Senate,2,"",OverVotes,0
+Walton,340,State Senate,2,"",UnderVotes,12
+Walton,340,County Commissioner,2,REP,Danny Glidewell,460
+Walton,340,County Commissioner,2,"",WriteinVotes,19
+Walton,340,County Commissioner,2,"",OverVotes,0
+Walton,340,County Commissioner,2,"",UnderVotes,105
+Walton,340,County Commissioner,4,REP,Trey Nick,487
+Walton,340,County Commissioner,4,"",WriteinVotes,7
+Walton,340,County Commissioner,4,"",OverVotes,0
+Walton,340,County Commissioner,4,"",UnderVotes,90
+Walton,340,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,333
+Walton,340,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,191
+Walton,340,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,340,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,60
+Walton,340,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,326
+Walton,340,Retention of Harvey Jay,First District Court of Appeal,NOP,No,199
+Walton,340,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,340,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,59
+Walton,340,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,331
+Walton,340,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,191
+Walton,340,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,340,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,62
+Walton,340,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,332
+Walton,340,Retention of Brad Thomas,First District Court of Appeal,NOP,No,186
+Walton,340,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,340,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,66
+Walton,340,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,329
+Walton,340,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,194
+Walton,340,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,340,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,60
+Walton,340,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,329
+Walton,340,Retention of Allen Winsor,First District Court of Appeal,NOP,No,196
+Walton,340,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,340,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,59
+Walton,340,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,319
+Walton,340,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,252
+Walton,340,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,340,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Walton,340,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,392
+Walton,340,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,177
+Walton,340,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,340,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Walton,340,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,457
+Walton,340,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,118
+Walton,340,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,340,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,9
+Walton,340,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,332
+Walton,340,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,234
+Walton,340,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,340,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,18
+Walton,340,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,388
+Walton,340,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,178
+Walton,340,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,340,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Walton,340,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,361
+Walton,340,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,202
+Walton,340,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,340,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,21
+Walton,340,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,381
+Walton,340,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,174
+Walton,340,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,340,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,29
+Walton,340,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,310
+Walton,340,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,249
+Walton,340,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,340,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,25
+Walton,340,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,394
+Walton,340,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,161
+Walton,340,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,340,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,29
+Walton,340,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,320
+Walton,340,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,227
+Walton,340,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,340,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,37
+Walton,340,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,395
+Walton,340,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,153
+Walton,340,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,340,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,36
+Walton,340,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,238
+Walton,340,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,320
+Walton,340,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,340,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,26
+Walton,350,U.S. Senate,"",REP,Rick Scott,398
+Walton,350,U.S. Senate,"",DEM,Bill Nelson,80
+Walton,350,U.S. Senate,"","",WriteinVotes,0
+Walton,350,U.S. Senate,"","",OverVotes,0
+Walton,350,U.S. Senate,"","",UnderVotes,2
+Walton,350,U.S. House,1,REP,Matt Gaetz,384
+Walton,350,U.S. House,1,DEM,Jennifer M. Zimmerman,91
+Walton,350,U.S. House,1,"",OverVotes,0
+Walton,350,U.S. House,1,"",UnderVotes,5
+Walton,350,Governor,"",REP,DeSantis / Nuñez,392
+Walton,350,Governor,"",DEM,Gillum / King,75
+Walton,350,Governor,"",REF,Richardson / Argenziano,6
+Walton,350,Governor,"",NPA,Gibson / Wilds,1
+Walton,350,Governor,"",NPA,Foley / Tutton,1
+Walton,350,Governor,"",NPA,Stanley / McJury,1
+Walton,350,Governor,"","",WriteinVotes,0
+Walton,350,Governor,"","",OverVotes,1
+Walton,350,Governor,"","",UnderVotes,3
+Walton,350,Attorney General,"",REP,Ashley Moody,398
+Walton,350,Attorney General,"",DEM,Sean Shaw,71
+Walton,350,Attorney General,"",NPA,Jeffrey Marc Siskind,5
+Walton,350,Attorney General,"","",OverVotes,0
+Walton,350,Attorney General,"","",UnderVotes,6
+Walton,350,Chief Financial Officer,"",REP,Jimmy Patronis,403
+Walton,350,Chief Financial Officer,"",DEM,Jeremy Ring,70
+Walton,350,Chief Financial Officer,"","",WriteinVotes,0
+Walton,350,Chief Financial Officer,"","",OverVotes,0
+Walton,350,Chief Financial Officer,"","",UnderVotes,7
+Walton,350,Commissioner of Agriculture,"",REP,Matt Caldwell,400
+Walton,350,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",74
+Walton,350,Commissioner of Agriculture,"","",OverVotes,0
+Walton,350,Commissioner of Agriculture,"","",UnderVotes,6
+Walton,350,State Senate,2,REP,George B. Gainer,404
+Walton,350,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",71
+Walton,350,State Senate,2,"",OverVotes,0
+Walton,350,State Senate,2,"",UnderVotes,5
+Walton,350,County Commissioner,2,REP,Danny Glidewell,429
+Walton,350,County Commissioner,2,"",WriteinVotes,11
+Walton,350,County Commissioner,2,"",OverVotes,0
+Walton,350,County Commissioner,2,"",UnderVotes,40
+Walton,350,County Commissioner,4,REP,Trey Nick,433
+Walton,350,County Commissioner,4,"",WriteinVotes,7
+Walton,350,County Commissioner,4,"",OverVotes,0
+Walton,350,County Commissioner,4,"",UnderVotes,40
+Walton,350,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,273
+Walton,350,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,157
+Walton,350,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,350,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,50
+Walton,350,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,271
+Walton,350,Retention of Harvey Jay,First District Court of Appeal,NOP,No,156
+Walton,350,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,350,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,53
+Walton,350,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,266
+Walton,350,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,157
+Walton,350,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,350,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,57
+Walton,350,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,265
+Walton,350,Retention of Brad Thomas,First District Court of Appeal,NOP,No,156
+Walton,350,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,350,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,58
+Walton,350,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,253
+Walton,350,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,166
+Walton,350,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,350,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,61
+Walton,350,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,270
+Walton,350,Retention of Allen Winsor,First District Court of Appeal,NOP,No,153
+Walton,350,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,350,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,57
+Walton,350,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,299
+Walton,350,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,163
+Walton,350,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,350,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,17
+Walton,350,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,339
+Walton,350,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,119
+Walton,350,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,350,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,22
+Walton,350,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,350
+Walton,350,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,116
+Walton,350,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,350,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,14
+Walton,350,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,237
+Walton,350,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,229
+Walton,350,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,350,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,14
+Walton,350,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,339
+Walton,350,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,119
+Walton,350,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,350,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,22
+Walton,350,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,312
+Walton,350,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,151
+Walton,350,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,350,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,17
+Walton,350,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,326
+Walton,350,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,130
+Walton,350,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,350,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,24
+Walton,350,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,231
+Walton,350,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,220
+Walton,350,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,350,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,29
+Walton,350,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,347
+Walton,350,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,109
+Walton,350,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,350,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Walton,350,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,271
+Walton,350,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,170
+Walton,350,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,350,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,39
+Walton,350,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,373
+Walton,350,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,84
+Walton,350,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,350,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,23
+Walton,350,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,163
+Walton,350,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,300
+Walton,350,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,350,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,17
+Walton,360,U.S. Senate,"",REP,Rick Scott,312
+Walton,360,U.S. Senate,"",DEM,Bill Nelson,83
+Walton,360,U.S. Senate,"","",WriteinVotes,0
+Walton,360,U.S. Senate,"","",OverVotes,1
+Walton,360,U.S. Senate,"","",UnderVotes,4
+Walton,360,U.S. House,1,REP,Matt Gaetz,316
+Walton,360,U.S. House,1,DEM,Jennifer M. Zimmerman,78
+Walton,360,U.S. House,1,"",OverVotes,0
+Walton,360,U.S. House,1,"",UnderVotes,6
+Walton,360,Governor,"",REP,DeSantis / Nuñez,311
+Walton,360,Governor,"",DEM,Gillum / King,80
+Walton,360,Governor,"",REF,Richardson / Argenziano,1
+Walton,360,Governor,"",NPA,Gibson / Wilds,3
+Walton,360,Governor,"",NPA,Foley / Tutton,1
+Walton,360,Governor,"",NPA,Stanley / McJury,0
+Walton,360,Governor,"","",WriteinVotes,0
+Walton,360,Governor,"","",OverVotes,2
+Walton,360,Governor,"","",UnderVotes,2
+Walton,360,Attorney General,"",REP,Ashley Moody,311
+Walton,360,Attorney General,"",DEM,Sean Shaw,73
+Walton,360,Attorney General,"",NPA,Jeffrey Marc Siskind,11
+Walton,360,Attorney General,"","",OverVotes,0
+Walton,360,Attorney General,"","",UnderVotes,5
+Walton,360,Chief Financial Officer,"",REP,Jimmy Patronis,323
+Walton,360,Chief Financial Officer,"",DEM,Jeremy Ring,74
+Walton,360,Chief Financial Officer,"","",WriteinVotes,0
+Walton,360,Chief Financial Officer,"","",OverVotes,0
+Walton,360,Chief Financial Officer,"","",UnderVotes,3
+Walton,360,Commissioner of Agriculture,"",REP,Matt Caldwell,310
+Walton,360,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",84
+Walton,360,Commissioner of Agriculture,"","",OverVotes,0
+Walton,360,Commissioner of Agriculture,"","",UnderVotes,6
+Walton,360,State Senate,2,REP,George B. Gainer,318
+Walton,360,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",77
+Walton,360,State Senate,2,"",OverVotes,0
+Walton,360,State Senate,2,"",UnderVotes,5
+Walton,360,County Commissioner,2,REP,Danny Glidewell,350
+Walton,360,County Commissioner,2,"",WriteinVotes,8
+Walton,360,County Commissioner,2,"",OverVotes,1
+Walton,360,County Commissioner,2,"",UnderVotes,41
+Walton,360,County Commissioner,4,REP,Trey Nick,359
+Walton,360,County Commissioner,4,"",WriteinVotes,3
+Walton,360,County Commissioner,4,"",OverVotes,0
+Walton,360,County Commissioner,4,"",UnderVotes,38
+Walton,360,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,199
+Walton,360,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,171
+Walton,360,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,360,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,30
+Walton,360,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,203
+Walton,360,Retention of Harvey Jay,First District Court of Appeal,NOP,No,164
+Walton,360,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,360,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,33
+Walton,360,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,200
+Walton,360,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,168
+Walton,360,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,360,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,32
+Walton,360,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,199
+Walton,360,Retention of Brad Thomas,First District Court of Appeal,NOP,No,168
+Walton,360,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,360,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,33
+Walton,360,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,199
+Walton,360,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,166
+Walton,360,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,360,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,34
+Walton,360,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,194
+Walton,360,Retention of Allen Winsor,First District Court of Appeal,NOP,No,172
+Walton,360,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,360,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,34
+Walton,360,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,225
+Walton,360,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,167
+Walton,360,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,360,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,8
+Walton,360,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,279
+Walton,360,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,110
+Walton,360,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Walton,360,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,10
+Walton,360,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,323
+Walton,360,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,71
+Walton,360,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,360,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,6
+Walton,360,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,213
+Walton,360,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,179
+Walton,360,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,360,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Walton,360,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,301
+Walton,360,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,85
+Walton,360,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,360,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,14
+Walton,360,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,257
+Walton,360,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,129
+Walton,360,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,360,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,14
+Walton,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,267
+Walton,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,117
+Walton,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,16
+Walton,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,200
+Walton,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,182
+Walton,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,18
+Walton,360,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,303
+Walton,360,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,81
+Walton,360,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,360,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,16
+Walton,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,210
+Walton,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,170
+Walton,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,20
+Walton,360,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,292
+Walton,360,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,93
+Walton,360,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,360,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,15
+Walton,360,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,98
+Walton,360,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,288
+Walton,360,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,360,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,14
+Walton,410,U.S. Senate,"",REP,Rick Scott,612
+Walton,410,U.S. Senate,"",DEM,Bill Nelson,135
+Walton,410,U.S. Senate,"","",WriteinVotes,3
+Walton,410,U.S. Senate,"","",OverVotes,0
+Walton,410,U.S. Senate,"","",UnderVotes,5
+Walton,410,U.S. House,1,REP,Matt Gaetz,596
+Walton,410,U.S. House,1,DEM,Jennifer M. Zimmerman,148
+Walton,410,U.S. House,1,"",OverVotes,0
+Walton,410,U.S. House,1,"",UnderVotes,11
+Walton,410,Governor,"",REP,DeSantis / Nuñez,598
+Walton,410,Governor,"",DEM,Gillum / King,135
+Walton,410,Governor,"",REF,Richardson / Argenziano,6
+Walton,410,Governor,"",NPA,Gibson / Wilds,1
+Walton,410,Governor,"",NPA,Foley / Tutton,3
+Walton,410,Governor,"",NPA,Stanley / McJury,1
+Walton,410,Governor,"","",WriteinVotes,1
+Walton,410,Governor,"","",OverVotes,4
+Walton,410,Governor,"","",UnderVotes,6
+Walton,410,Attorney General,"",REP,Ashley Moody,601
+Walton,410,Attorney General,"",DEM,Sean Shaw,122
+Walton,410,Attorney General,"",NPA,Jeffrey Marc Siskind,15
+Walton,410,Attorney General,"","",OverVotes,0
+Walton,410,Attorney General,"","",UnderVotes,17
+Walton,410,Chief Financial Officer,"",REP,Jimmy Patronis,607
+Walton,410,Chief Financial Officer,"",DEM,Jeremy Ring,129
+Walton,410,Chief Financial Officer,"","",WriteinVotes,0
+Walton,410,Chief Financial Officer,"","",OverVotes,0
+Walton,410,Chief Financial Officer,"","",UnderVotes,19
+Walton,410,Commissioner of Agriculture,"",REP,Matt Caldwell,611
+Walton,410,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",130
+Walton,410,Commissioner of Agriculture,"","",OverVotes,0
+Walton,410,Commissioner of Agriculture,"","",UnderVotes,14
+Walton,410,State Senate,2,REP,George B. Gainer,603
+Walton,410,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",140
+Walton,410,State Senate,2,"",OverVotes,0
+Walton,410,State Senate,2,"",UnderVotes,12
+Walton,410,County Commissioner,2,REP,Danny Glidewell,662
+Walton,410,County Commissioner,2,"",WriteinVotes,12
+Walton,410,County Commissioner,2,"",OverVotes,0
+Walton,410,County Commissioner,2,"",UnderVotes,81
+Walton,410,County Commissioner,4,REP,Trey Nick,672
+Walton,410,County Commissioner,4,"",WriteinVotes,19
+Walton,410,County Commissioner,4,"",OverVotes,0
+Walton,410,County Commissioner,4,"",UnderVotes,64
+Walton,410,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,487
+Walton,410,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,195
+Walton,410,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,410,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,73
+Walton,410,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,470
+Walton,410,Retention of Harvey Jay,First District Court of Appeal,NOP,No,202
+Walton,410,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,410,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,83
+Walton,410,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,485
+Walton,410,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,185
+Walton,410,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,410,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,85
+Walton,410,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,461
+Walton,410,Retention of Brad Thomas,First District Court of Appeal,NOP,No,212
+Walton,410,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,410,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,82
+Walton,410,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,463
+Walton,410,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,207
+Walton,410,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,410,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,85
+Walton,410,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,466
+Walton,410,Retention of Allen Winsor,First District Court of Appeal,NOP,No,208
+Walton,410,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,410,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,81
+Walton,410,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,509
+Walton,410,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,229
+Walton,410,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,410,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,16
+Walton,410,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,539
+Walton,410,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,197
+Walton,410,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,410,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,19
+Walton,410,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,561
+Walton,410,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,180
+Walton,410,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,410,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,14
+Walton,410,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,393
+Walton,410,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,348
+Walton,410,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,410,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,14
+Walton,410,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,588
+Walton,410,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,149
+Walton,410,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,410,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,18
+Walton,410,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,514
+Walton,410,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,227
+Walton,410,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,410,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,14
+Walton,410,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,502
+Walton,410,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,230
+Walton,410,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,410,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,23
+Walton,410,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,466
+Walton,410,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,266
+Walton,410,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Walton,410,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,21
+Walton,410,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,537
+Walton,410,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,182
+Walton,410,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,410,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,36
+Walton,410,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,456
+Walton,410,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,255
+Walton,410,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,410,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,44
+Walton,410,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,606
+Walton,410,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,123
+Walton,410,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Walton,410,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,25
+Walton,410,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,444
+Walton,410,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,295
+Walton,410,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,410,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Walton,420,U.S. Senate,"",REP,Rick Scott,383
+Walton,420,U.S. Senate,"",DEM,Bill Nelson,81
+Walton,420,U.S. Senate,"","",WriteinVotes,2
+Walton,420,U.S. Senate,"","",OverVotes,0
+Walton,420,U.S. Senate,"","",UnderVotes,1
+Walton,420,U.S. House,1,REP,Matt Gaetz,376
+Walton,420,U.S. House,1,DEM,Jennifer M. Zimmerman,87
+Walton,420,U.S. House,1,"",OverVotes,0
+Walton,420,U.S. House,1,"",UnderVotes,4
+Walton,420,Governor,"",REP,DeSantis / Nuñez,386
+Walton,420,Governor,"",DEM,Gillum / King,72
+Walton,420,Governor,"",REF,Richardson / Argenziano,4
+Walton,420,Governor,"",NPA,Gibson / Wilds,0
+Walton,420,Governor,"",NPA,Foley / Tutton,0
+Walton,420,Governor,"",NPA,Stanley / McJury,0
+Walton,420,Governor,"","",WriteinVotes,0
+Walton,420,Governor,"","",OverVotes,1
+Walton,420,Governor,"","",UnderVotes,4
+Walton,420,Attorney General,"",REP,Ashley Moody,375
+Walton,420,Attorney General,"",DEM,Sean Shaw,77
+Walton,420,Attorney General,"",NPA,Jeffrey Marc Siskind,11
+Walton,420,Attorney General,"","",OverVotes,0
+Walton,420,Attorney General,"","",UnderVotes,4
+Walton,420,Chief Financial Officer,"",REP,Jimmy Patronis,384
+Walton,420,Chief Financial Officer,"",DEM,Jeremy Ring,78
+Walton,420,Chief Financial Officer,"","",WriteinVotes,0
+Walton,420,Chief Financial Officer,"","",OverVotes,0
+Walton,420,Chief Financial Officer,"","",UnderVotes,5
+Walton,420,Commissioner of Agriculture,"",REP,Matt Caldwell,381
+Walton,420,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",82
+Walton,420,Commissioner of Agriculture,"","",OverVotes,0
+Walton,420,Commissioner of Agriculture,"","",UnderVotes,4
+Walton,420,State Senate,2,REP,George B. Gainer,378
+Walton,420,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",84
+Walton,420,State Senate,2,"",OverVotes,0
+Walton,420,State Senate,2,"",UnderVotes,5
+Walton,420,County Commissioner,2,REP,Danny Glidewell,412
+Walton,420,County Commissioner,2,"",WriteinVotes,9
+Walton,420,County Commissioner,2,"",OverVotes,0
+Walton,420,County Commissioner,2,"",UnderVotes,46
+Walton,420,County Commissioner,4,REP,Trey Nick,425
+Walton,420,County Commissioner,4,"",WriteinVotes,11
+Walton,420,County Commissioner,4,"",OverVotes,0
+Walton,420,County Commissioner,4,"",UnderVotes,31
+Walton,420,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,273
+Walton,420,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,151
+Walton,420,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,420,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,43
+Walton,420,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,266
+Walton,420,Retention of Harvey Jay,First District Court of Appeal,NOP,No,150
+Walton,420,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,420,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,51
+Walton,420,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,266
+Walton,420,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,149
+Walton,420,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Walton,420,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,51
+Walton,420,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,256
+Walton,420,Retention of Brad Thomas,First District Court of Appeal,NOP,No,162
+Walton,420,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,420,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,49
+Walton,420,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,260
+Walton,420,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,156
+Walton,420,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,420,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,51
+Walton,420,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,258
+Walton,420,Retention of Allen Winsor,First District Court of Appeal,NOP,No,155
+Walton,420,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,420,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,54
+Walton,420,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,316
+Walton,420,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,137
+Walton,420,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,420,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Walton,420,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,354
+Walton,420,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,99
+Walton,420,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,420,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,14
+Walton,420,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,351
+Walton,420,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,111
+Walton,420,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,420,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,5
+Walton,420,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,253
+Walton,420,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,207
+Walton,420,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,420,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,7
+Walton,420,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,349
+Walton,420,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,103
+Walton,420,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,420,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,15
+Walton,420,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,309
+Walton,420,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,148
+Walton,420,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,420,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,10
+Walton,420,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,323
+Walton,420,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,130
+Walton,420,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,420,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,14
+Walton,420,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,274
+Walton,420,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,182
+Walton,420,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Walton,420,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,10
+Walton,420,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,332
+Walton,420,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,111
+Walton,420,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,420,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Walton,420,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,274
+Walton,420,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,169
+Walton,420,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,420,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,24
+Walton,420,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,378
+Walton,420,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,66
+Walton,420,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,420,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,23
+Walton,420,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,214
+Walton,420,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,243
+Walton,420,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,420,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,10
+Walton,430,U.S. Senate,"",REP,Rick Scott,2634
+Walton,430,U.S. Senate,"",DEM,Bill Nelson,887
+Walton,430,U.S. Senate,"","",WriteinVotes,16
+Walton,430,U.S. Senate,"","",OverVotes,0
+Walton,430,U.S. Senate,"","",UnderVotes,35
+Walton,430,U.S. House,1,REP,Matt Gaetz,2677
+Walton,430,U.S. House,1,DEM,Jennifer M. Zimmerman,851
+Walton,430,U.S. House,1,"",OverVotes,0
+Walton,430,U.S. House,1,"",UnderVotes,44
+Walton,430,Governor,"",REP,DeSantis / Nuñez,2667
+Walton,430,Governor,"",DEM,Gillum / King,807
+Walton,430,Governor,"",REF,Richardson / Argenziano,31
+Walton,430,Governor,"",NPA,Gibson / Wilds,15
+Walton,430,Governor,"",NPA,Foley / Tutton,6
+Walton,430,Governor,"",NPA,Stanley / McJury,3
+Walton,430,Governor,"","",WriteinVotes,5
+Walton,430,Governor,"","",OverVotes,16
+Walton,430,Governor,"","",UnderVotes,22
+Walton,430,Attorney General,"",REP,Ashley Moody,2710
+Walton,430,Attorney General,"",DEM,Sean Shaw,735
+Walton,430,Attorney General,"",NPA,Jeffrey Marc Siskind,66
+Walton,430,Attorney General,"","",OverVotes,1
+Walton,430,Attorney General,"","",UnderVotes,60
+Walton,430,Chief Financial Officer,"",REP,Jimmy Patronis,2786
+Walton,430,Chief Financial Officer,"",DEM,Jeremy Ring,726
+Walton,430,Chief Financial Officer,"","",WriteinVotes,2
+Walton,430,Chief Financial Officer,"","",OverVotes,1
+Walton,430,Chief Financial Officer,"","",UnderVotes,57
+Walton,430,Commissioner of Agriculture,"",REP,Matt Caldwell,2705
+Walton,430,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",809
+Walton,430,Commissioner of Agriculture,"","",OverVotes,0
+Walton,430,Commissioner of Agriculture,"","",UnderVotes,58
+Walton,430,State Senate,2,REP,George B. Gainer,2702
+Walton,430,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",809
+Walton,430,State Senate,2,"",OverVotes,0
+Walton,430,State Senate,2,"",UnderVotes,61
+Walton,430,County Commissioner,2,REP,Danny Glidewell,3090
+Walton,430,County Commissioner,2,"",WriteinVotes,94
+Walton,430,County Commissioner,2,"",OverVotes,0
+Walton,430,County Commissioner,2,"",UnderVotes,388
+Walton,430,County Commissioner,4,REP,Trey Nick,3151
+Walton,430,County Commissioner,4,"",WriteinVotes,81
+Walton,430,County Commissioner,4,"",OverVotes,0
+Walton,430,County Commissioner,4,"",UnderVotes,340
+Walton,430,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,2227
+Walton,430,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,886
+Walton,430,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,430,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,459
+Walton,430,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,2183
+Walton,430,Retention of Harvey Jay,First District Court of Appeal,NOP,No,895
+Walton,430,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Walton,430,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,493
+Walton,430,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,2237
+Walton,430,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,842
+Walton,430,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,2
+Walton,430,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,491
+Walton,430,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,2151
+Walton,430,Retention of Brad Thomas,First District Court of Appeal,NOP,No,918
+Walton,430,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,430,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,502
+Walton,430,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,2174
+Walton,430,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,891
+Walton,430,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,430,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,507
+Walton,430,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,2140
+Walton,430,Retention of Allen Winsor,First District Court of Appeal,NOP,No,924
+Walton,430,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,430,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,508
+Walton,430,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,2437
+Walton,430,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1032
+Walton,430,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,5
+Walton,430,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,98
+Walton,430,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,2622
+Walton,430,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,810
+Walton,430,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Walton,430,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,138
+Walton,430,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,2805
+Walton,430,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,697
+Walton,430,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Walton,430,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,69
+Walton,430,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1896
+Walton,430,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1579
+Walton,430,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Walton,430,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,96
+Walton,430,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,2756
+Walton,430,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,679
+Walton,430,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Walton,430,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,136
+Walton,430,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,2402
+Walton,430,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1023
+Walton,430,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Walton,430,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,145
+Walton,430,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,2539
+Walton,430,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,886
+Walton,430,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Walton,430,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,146
+Walton,430,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,2336
+Walton,430,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1108
+Walton,430,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Walton,430,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,126
+Walton,430,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,2647
+Walton,430,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,730
+Walton,430,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,430,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,195
+Walton,430,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,2229
+Walton,430,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1079
+Walton,430,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Walton,430,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,263
+Walton,430,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2954
+Walton,430,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,442
+Walton,430,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Walton,430,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,175
+Walton,430,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,2047
+Walton,430,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1411
+Walton,430,Amendment No. 13: Ends Dog Racing,"","",OverVotes,4
+Walton,430,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,110
+Walton,440,U.S. Senate,"",REP,Rick Scott,421
+Walton,440,U.S. Senate,"",DEM,Bill Nelson,84
+Walton,440,U.S. Senate,"","",WriteinVotes,0
+Walton,440,U.S. Senate,"","",OverVotes,0
+Walton,440,U.S. Senate,"","",UnderVotes,3
+Walton,440,U.S. House,1,REP,Matt Gaetz,427
+Walton,440,U.S. House,1,DEM,Jennifer M. Zimmerman,73
+Walton,440,U.S. House,1,"",OverVotes,0
+Walton,440,U.S. House,1,"",UnderVotes,8
+Walton,440,Governor,"",REP,DeSantis / Nuñez,412
+Walton,440,Governor,"",DEM,Gillum / King,83
+Walton,440,Governor,"",REF,Richardson / Argenziano,4
+Walton,440,Governor,"",NPA,Gibson / Wilds,1
+Walton,440,Governor,"",NPA,Foley / Tutton,1
+Walton,440,Governor,"",NPA,Stanley / McJury,0
+Walton,440,Governor,"","",WriteinVotes,0
+Walton,440,Governor,"","",OverVotes,4
+Walton,440,Governor,"","",UnderVotes,3
+Walton,440,Attorney General,"",REP,Ashley Moody,426
+Walton,440,Attorney General,"",DEM,Sean Shaw,69
+Walton,440,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Walton,440,Attorney General,"","",OverVotes,0
+Walton,440,Attorney General,"","",UnderVotes,4
+Walton,440,Chief Financial Officer,"",REP,Jimmy Patronis,436
+Walton,440,Chief Financial Officer,"",DEM,Jeremy Ring,68
+Walton,440,Chief Financial Officer,"","",WriteinVotes,0
+Walton,440,Chief Financial Officer,"","",OverVotes,0
+Walton,440,Chief Financial Officer,"","",UnderVotes,4
+Walton,440,Commissioner of Agriculture,"",REP,Matt Caldwell,422
+Walton,440,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",82
+Walton,440,Commissioner of Agriculture,"","",OverVotes,0
+Walton,440,Commissioner of Agriculture,"","",UnderVotes,4
+Walton,440,State Senate,2,REP,George B. Gainer,430
+Walton,440,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",77
+Walton,440,State Senate,2,"",OverVotes,0
+Walton,440,State Senate,2,"",UnderVotes,1
+Walton,440,County Commissioner,2,REP,Danny Glidewell,456
+Walton,440,County Commissioner,2,"",WriteinVotes,14
+Walton,440,County Commissioner,2,"",OverVotes,0
+Walton,440,County Commissioner,2,"",UnderVotes,38
+Walton,440,County Commissioner,4,REP,Trey Nick,473
+Walton,440,County Commissioner,4,"",WriteinVotes,8
+Walton,440,County Commissioner,4,"",OverVotes,0
+Walton,440,County Commissioner,4,"",UnderVotes,27
+Walton,440,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,340
+Walton,440,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,127
+Walton,440,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Walton,440,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,39
+Walton,440,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,330
+Walton,440,Retention of Harvey Jay,First District Court of Appeal,NOP,No,139
+Walton,440,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,440,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,39
+Walton,440,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,331
+Walton,440,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,135
+Walton,440,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,440,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,42
+Walton,440,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,333
+Walton,440,Retention of Brad Thomas,First District Court of Appeal,NOP,No,137
+Walton,440,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,440,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,38
+Walton,440,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,322
+Walton,440,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,146
+Walton,440,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,440,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,40
+Walton,440,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,328
+Walton,440,Retention of Allen Winsor,First District Court of Appeal,NOP,No,140
+Walton,440,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,440,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,40
+Walton,440,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,338
+Walton,440,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,158
+Walton,440,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,440,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,11
+Walton,440,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,366
+Walton,440,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,123
+Walton,440,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,440,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,19
+Walton,440,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,398
+Walton,440,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,102
+Walton,440,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,440,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,8
+Walton,440,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,275
+Walton,440,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,218
+Walton,440,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,440,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,15
+Walton,440,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,381
+Walton,440,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,105
+Walton,440,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,440,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,22
+Walton,440,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,339
+Walton,440,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,147
+Walton,440,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Walton,440,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,22
+Walton,440,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,362
+Walton,440,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,126
+Walton,440,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,440,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,20
+Walton,440,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,281
+Walton,440,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,203
+Walton,440,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Walton,440,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,24
+Walton,440,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,390
+Walton,440,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,91
+Walton,440,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Walton,440,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,26
+Walton,440,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,295
+Walton,440,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,176
+Walton,440,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,440,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,37
+Walton,440,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,426
+Walton,440,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,61
+Walton,440,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Walton,440,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,20
+Walton,440,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,192
+Walton,440,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,300
+Walton,440,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Walton,440,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,15
+Walton,510,U.S. Senate,"",REP,Rick Scott,4669
+Walton,510,U.S. Senate,"",DEM,Bill Nelson,1289
+Walton,510,U.S. Senate,"","",WriteinVotes,17
+Walton,510,U.S. Senate,"","",OverVotes,0
+Walton,510,U.S. Senate,"","",UnderVotes,33
+Walton,510,U.S. House,1,REP,Matt Gaetz,4666
+Walton,510,U.S. House,1,DEM,Jennifer M. Zimmerman,1280
+Walton,510,U.S. House,1,"",OverVotes,0
+Walton,510,U.S. House,1,"",UnderVotes,62
+Walton,510,Governor,"",REP,DeSantis / Nuñez,4663
+Walton,510,Governor,"",DEM,Gillum / King,1254
+Walton,510,Governor,"",REF,Richardson / Argenziano,30
+Walton,510,Governor,"",NPA,Gibson / Wilds,13
+Walton,510,Governor,"",NPA,Foley / Tutton,5
+Walton,510,Governor,"",NPA,Stanley / McJury,7
+Walton,510,Governor,"","",WriteinVotes,4
+Walton,510,Governor,"","",OverVotes,11
+Walton,510,Governor,"","",UnderVotes,21
+Walton,510,Attorney General,"",REP,Ashley Moody,4710
+Walton,510,Attorney General,"",DEM,Sean Shaw,1144
+Walton,510,Attorney General,"",NPA,Jeffrey Marc Siskind,88
+Walton,510,Attorney General,"","",OverVotes,1
+Walton,510,Attorney General,"","",UnderVotes,65
+Walton,510,Chief Financial Officer,"",REP,Jimmy Patronis,4775
+Walton,510,Chief Financial Officer,"",DEM,Jeremy Ring,1139
+Walton,510,Chief Financial Officer,"","",WriteinVotes,3
+Walton,510,Chief Financial Officer,"","",OverVotes,0
+Walton,510,Chief Financial Officer,"","",UnderVotes,91
+Walton,510,Commissioner of Agriculture,"",REP,Matt Caldwell,4638
+Walton,510,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",1274
+Walton,510,Commissioner of Agriculture,"","",OverVotes,0
+Walton,510,Commissioner of Agriculture,"","",UnderVotes,96
+Walton,510,State Senate,2,REP,George B. Gainer,4673
+Walton,510,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",1232
+Walton,510,State Senate,2,"",OverVotes,1
+Walton,510,State Senate,2,"",UnderVotes,102
+Walton,510,County Commissioner,2,REP,Danny Glidewell,5132
+Walton,510,County Commissioner,2,"",WriteinVotes,136
+Walton,510,County Commissioner,2,"",OverVotes,0
+Walton,510,County Commissioner,2,"",UnderVotes,740
+Walton,510,County Commissioner,4,REP,Trey Nick,5086
+Walton,510,County Commissioner,4,"",WriteinVotes,153
+Walton,510,County Commissioner,4,"",OverVotes,0
+Walton,510,County Commissioner,4,"",UnderVotes,769
+Walton,510,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,4115
+Walton,510,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,1017
+Walton,510,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Walton,510,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,874
+Walton,510,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,4050
+Walton,510,Retention of Harvey Jay,First District Court of Appeal,NOP,No,1030
+Walton,510,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Walton,510,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,927
+Walton,510,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,4109
+Walton,510,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,961
+Walton,510,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,5
+Walton,510,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,933
+Walton,510,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,3966
+Walton,510,Retention of Brad Thomas,First District Court of Appeal,NOP,No,1079
+Walton,510,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,3
+Walton,510,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,960
+Walton,510,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,3983
+Walton,510,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,1064
+Walton,510,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,4
+Walton,510,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,957
+Walton,510,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,3962
+Walton,510,Retention of Allen Winsor,First District Court of Appeal,NOP,No,1079
+Walton,510,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,510,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,967
+Walton,510,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,4476
+Walton,510,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1357
+Walton,510,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,510,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,174
+Walton,510,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,4747
+Walton,510,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,1002
+Walton,510,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,6
+Walton,510,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,253
+Walton,510,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,4753
+Walton,510,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,1105
+Walton,510,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,510,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,150
+Walton,510,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,2941
+Walton,510,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,2890
+Walton,510,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,3
+Walton,510,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,174
+Walton,510,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,4797
+Walton,510,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,982
+Walton,510,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,3
+Walton,510,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,226
+Walton,510,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,4270
+Walton,510,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1476
+Walton,510,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Walton,510,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,261
+Walton,510,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,4492
+Walton,510,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1262
+Walton,510,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,510,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,254
+Walton,510,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,4165
+Walton,510,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1590
+Walton,510,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,6
+Walton,510,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,247
+Walton,510,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,4452
+Walton,510,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1180
+Walton,510,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Walton,510,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,375
+Walton,510,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,3947
+Walton,510,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1550
+Walton,510,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Walton,510,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,510
+Walton,510,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,5165
+Walton,510,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,568
+Walton,510,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Walton,510,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,274
+Walton,510,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,4059
+Walton,510,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1721
+Walton,510,Amendment No. 13: Ends Dog Racing,"","",OverVotes,6
+Walton,510,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,222
+Walton,520,U.S. Senate,"",REP,Rick Scott,3597
+Walton,520,U.S. Senate,"",DEM,Bill Nelson,1586
+Walton,520,U.S. Senate,"","",WriteinVotes,15
+Walton,520,U.S. Senate,"","",OverVotes,0
+Walton,520,U.S. Senate,"","",UnderVotes,37
+Walton,520,U.S. House,1,REP,Matt Gaetz,3629
+Walton,520,U.S. House,1,DEM,Jennifer M. Zimmerman,1531
+Walton,520,U.S. House,1,"",OverVotes,0
+Walton,520,U.S. House,1,"",UnderVotes,75
+Walton,520,Governor,"",REP,DeSantis / Nuñez,3688
+Walton,520,Governor,"",DEM,Gillum / King,1461
+Walton,520,Governor,"",REF,Richardson / Argenziano,31
+Walton,520,Governor,"",NPA,Gibson / Wilds,16
+Walton,520,Governor,"",NPA,Foley / Tutton,3
+Walton,520,Governor,"",NPA,Stanley / McJury,7
+Walton,520,Governor,"","",WriteinVotes,5
+Walton,520,Governor,"","",OverVotes,4
+Walton,520,Governor,"","",UnderVotes,20
+Walton,520,Attorney General,"",REP,Ashley Moody,3752
+Walton,520,Attorney General,"",DEM,Sean Shaw,1303
+Walton,520,Attorney General,"",NPA,Jeffrey Marc Siskind,89
+Walton,520,Attorney General,"","",OverVotes,1
+Walton,520,Attorney General,"","",UnderVotes,90
+Walton,520,Chief Financial Officer,"",REP,Jimmy Patronis,3825
+Walton,520,Chief Financial Officer,"",DEM,Jeremy Ring,1295
+Walton,520,Chief Financial Officer,"","",WriteinVotes,5
+Walton,520,Chief Financial Officer,"","",OverVotes,0
+Walton,520,Chief Financial Officer,"","",UnderVotes,110
+Walton,520,Commissioner of Agriculture,"",REP,Matt Caldwell,3664
+Walton,520,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",1460
+Walton,520,Commissioner of Agriculture,"","",OverVotes,0
+Walton,520,Commissioner of Agriculture,"","",UnderVotes,111
+Walton,520,State Senate,2,REP,George B. Gainer,3694
+Walton,520,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",1418
+Walton,520,State Senate,2,"",OverVotes,0
+Walton,520,State Senate,2,"",UnderVotes,123
+Walton,520,County Commissioner,2,REP,Danny Glidewell,4258
+Walton,520,County Commissioner,2,"",WriteinVotes,204
+Walton,520,County Commissioner,2,"",OverVotes,1
+Walton,520,County Commissioner,2,"",UnderVotes,772
+Walton,520,County Commissioner,4,REP,Trey Nick,4203
+Walton,520,County Commissioner,4,"",WriteinVotes,226
+Walton,520,County Commissioner,4,"",OverVotes,0
+Walton,520,County Commissioner,4,"",UnderVotes,806
+Walton,520,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,3320
+Walton,520,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,1109
+Walton,520,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Walton,520,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,805
+Walton,520,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,3255
+Walton,520,Retention of Harvey Jay,First District Court of Appeal,NOP,No,1112
+Walton,520,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,520,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,868
+Walton,520,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,3365
+Walton,520,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,1013
+Walton,520,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,520,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,857
+Walton,520,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,3195
+Walton,520,Retention of Brad Thomas,First District Court of Appeal,NOP,No,1155
+Walton,520,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,520,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,885
+Walton,520,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,3220
+Walton,520,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,1124
+Walton,520,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,520,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,890
+Walton,520,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,3176
+Walton,520,Retention of Allen Winsor,First District Court of Appeal,NOP,No,1160
+Walton,520,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Walton,520,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,898
+Walton,520,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,3715
+Walton,520,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,1340
+Walton,520,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,520,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,179
+Walton,520,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,3892
+Walton,520,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,1113
+Walton,520,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,2
+Walton,520,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,228
+Walton,520,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,4158
+Walton,520,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,934
+Walton,520,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Walton,520,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,142
+Walton,520,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,2783
+Walton,520,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,2298
+Walton,520,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Walton,520,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,153
+Walton,520,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,3991
+Walton,520,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,1025
+Walton,520,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,2
+Walton,520,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,217
+Walton,520,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,3500
+Walton,520,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,1493
+Walton,520,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Walton,520,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,240
+Walton,520,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,3750
+Walton,520,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,1250
+Walton,520,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,520,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,235
+Walton,520,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,3738
+Walton,520,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,1316
+Walton,520,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,7
+Walton,520,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,174
+Walton,520,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,3678
+Walton,520,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,1201
+Walton,520,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Walton,520,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,354
+Walton,520,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,3250
+Walton,520,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,1525
+Walton,520,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Walton,520,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,460
+Walton,520,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,4361
+Walton,520,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,613
+Walton,520,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,2
+Walton,520,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,259
+Walton,520,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,3530
+Walton,520,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,1511
+Walton,520,Amendment No. 13: Ends Dog Racing,"","",OverVotes,5
+Walton,520,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,189
+Walton,530,U.S. Senate,"",REP,Rick Scott,1697
+Walton,530,U.S. Senate,"",DEM,Bill Nelson,1034
+Walton,530,U.S. Senate,"","",WriteinVotes,11
+Walton,530,U.S. Senate,"","",OverVotes,0
+Walton,530,U.S. Senate,"","",UnderVotes,12
+Walton,530,U.S. House,1,REP,Matt Gaetz,1711
+Walton,530,U.S. House,1,DEM,Jennifer M. Zimmerman,1008
+Walton,530,U.S. House,1,"",OverVotes,0
+Walton,530,U.S. House,1,"",UnderVotes,35
+Walton,530,Governor,"",REP,DeSantis / Nuñez,1734
+Walton,530,Governor,"",DEM,Gillum / King,978
+Walton,530,Governor,"",REF,Richardson / Argenziano,20
+Walton,530,Governor,"",NPA,Gibson / Wilds,4
+Walton,530,Governor,"",NPA,Foley / Tutton,2
+Walton,530,Governor,"",NPA,Stanley / McJury,1
+Walton,530,Governor,"","",WriteinVotes,1
+Walton,530,Governor,"","",OverVotes,4
+Walton,530,Governor,"","",UnderVotes,10
+Walton,530,Attorney General,"",REP,Ashley Moody,1798
+Walton,530,Attorney General,"",DEM,Sean Shaw,883
+Walton,530,Attorney General,"",NPA,Jeffrey Marc Siskind,43
+Walton,530,Attorney General,"","",OverVotes,0
+Walton,530,Attorney General,"","",UnderVotes,30
+Walton,530,Chief Financial Officer,"",REP,Jimmy Patronis,1862
+Walton,530,Chief Financial Officer,"",DEM,Jeremy Ring,851
+Walton,530,Chief Financial Officer,"","",WriteinVotes,1
+Walton,530,Chief Financial Officer,"","",OverVotes,0
+Walton,530,Chief Financial Officer,"","",UnderVotes,40
+Walton,530,Commissioner of Agriculture,"",REP,Matt Caldwell,1741
+Walton,530,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",962
+Walton,530,Commissioner of Agriculture,"","",OverVotes,0
+Walton,530,Commissioner of Agriculture,"","",UnderVotes,51
+Walton,530,State Senate,2,REP,George B. Gainer,1781
+Walton,530,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",930
+Walton,530,State Senate,2,"",OverVotes,0
+Walton,530,State Senate,2,"",UnderVotes,43
+Walton,530,County Commissioner,2,REP,Danny Glidewell,2174
+Walton,530,County Commissioner,2,"",WriteinVotes,112
+Walton,530,County Commissioner,2,"",OverVotes,0
+Walton,530,County Commissioner,2,"",UnderVotes,468
+Walton,530,County Commissioner,4,REP,Trey Nick,2064
+Walton,530,County Commissioner,4,"",WriteinVotes,147
+Walton,530,County Commissioner,4,"",OverVotes,1
+Walton,530,County Commissioner,4,"",UnderVotes,542
+Walton,530,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1701
+Walton,530,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,605
+Walton,530,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,1
+Walton,530,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,447
+Walton,530,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1638
+Walton,530,Retention of Harvey Jay,First District Court of Appeal,NOP,No,621
+Walton,530,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,530,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,495
+Walton,530,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1684
+Walton,530,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,583
+Walton,530,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,530,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,487
+Walton,530,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1630
+Walton,530,Retention of Brad Thomas,First District Court of Appeal,NOP,No,626
+Walton,530,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Walton,530,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,497
+Walton,530,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1625
+Walton,530,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,632
+Walton,530,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,530,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,497
+Walton,530,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1586
+Walton,530,Retention of Allen Winsor,First District Court of Appeal,NOP,No,665
+Walton,530,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Walton,530,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,503
+Walton,530,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1846
+Walton,530,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,810
+Walton,530,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Walton,530,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,97
+Walton,530,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1911
+Walton,530,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,702
+Walton,530,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,530,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,141
+Walton,530,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,2218
+Walton,530,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,461
+Walton,530,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,530,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,75
+Walton,530,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,1580
+Walton,530,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,1088
+Walton,530,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Walton,530,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,85
+Walton,530,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1930
+Walton,530,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,688
+Walton,530,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,530,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,136
+Walton,530,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1738
+Walton,530,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,881
+Walton,530,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Walton,530,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,134
+Walton,530,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1829
+Walton,530,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,766
+Walton,530,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,530,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,159
+Walton,530,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,2075
+Walton,530,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,567
+Walton,530,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,5
+Walton,530,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,107
+Walton,530,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1803
+Walton,530,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,768
+Walton,530,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Walton,530,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,182
+Walton,530,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1667
+Walton,530,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,828
+Walton,530,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Walton,530,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,257
+Walton,530,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,2257
+Walton,530,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,348
+Walton,530,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,530,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,149
+Walton,530,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1993
+Walton,530,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,651
+Walton,530,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Walton,530,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,108
+Walton,540,U.S. Senate,"",REP,Rick Scott,1124
+Walton,540,U.S. Senate,"",DEM,Bill Nelson,438
+Walton,540,U.S. Senate,"","",WriteinVotes,3
+Walton,540,U.S. Senate,"","",OverVotes,0
+Walton,540,U.S. Senate,"","",UnderVotes,6
+Walton,540,U.S. House,1,REP,Matt Gaetz,1119
+Walton,540,U.S. House,1,DEM,Jennifer M. Zimmerman,439
+Walton,540,U.S. House,1,"",OverVotes,0
+Walton,540,U.S. House,1,"",UnderVotes,13
+Walton,540,Governor,"",REP,DeSantis / Nuñez,1121
+Walton,540,Governor,"",DEM,Gillum / King,420
+Walton,540,Governor,"",REF,Richardson / Argenziano,6
+Walton,540,Governor,"",NPA,Gibson / Wilds,7
+Walton,540,Governor,"",NPA,Foley / Tutton,2
+Walton,540,Governor,"",NPA,Stanley / McJury,1
+Walton,540,Governor,"","",WriteinVotes,2
+Walton,540,Governor,"","",OverVotes,3
+Walton,540,Governor,"","",UnderVotes,9
+Walton,540,Attorney General,"",REP,Ashley Moody,1146
+Walton,540,Attorney General,"",DEM,Sean Shaw,382
+Walton,540,Attorney General,"",NPA,Jeffrey Marc Siskind,25
+Walton,540,Attorney General,"","",OverVotes,0
+Walton,540,Attorney General,"","",UnderVotes,18
+Walton,540,Chief Financial Officer,"",REP,Jimmy Patronis,1204
+Walton,540,Chief Financial Officer,"",DEM,Jeremy Ring,343
+Walton,540,Chief Financial Officer,"","",WriteinVotes,1
+Walton,540,Chief Financial Officer,"","",OverVotes,0
+Walton,540,Chief Financial Officer,"","",UnderVotes,23
+Walton,540,Commissioner of Agriculture,"",REP,Matt Caldwell,1116
+Walton,540,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",426
+Walton,540,Commissioner of Agriculture,"","",OverVotes,0
+Walton,540,Commissioner of Agriculture,"","",UnderVotes,29
+Walton,540,State Senate,2,REP,George B. Gainer,1149
+Walton,540,State Senate,2,DEM,"Mary Jeanne ""Gigi"" Gibson",402
+Walton,540,State Senate,2,"",OverVotes,0
+Walton,540,State Senate,2,"",UnderVotes,20
+Walton,540,County Commissioner,2,REP,Danny Glidewell,1282
+Walton,540,County Commissioner,2,"",WriteinVotes,49
+Walton,540,County Commissioner,2,"",OverVotes,0
+Walton,540,County Commissioner,2,"",UnderVotes,240
+Walton,540,County Commissioner,4,REP,Trey Nick,1244
+Walton,540,County Commissioner,4,"",WriteinVotes,62
+Walton,540,County Commissioner,4,"",OverVotes,0
+Walton,540,County Commissioner,4,"",UnderVotes,265
+Walton,540,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,1051
+Walton,540,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,279
+Walton,540,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Walton,540,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,241
+Walton,540,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,1035
+Walton,540,Retention of Harvey Jay,First District Court of Appeal,NOP,No,276
+Walton,540,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Walton,540,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,260
+Walton,540,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,1043
+Walton,540,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,269
+Walton,540,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Walton,540,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,259
+Walton,540,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,1016
+Walton,540,Retention of Brad Thomas,First District Court of Appeal,NOP,No,292
+Walton,540,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Walton,540,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,263
+Walton,540,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,1018
+Walton,540,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,279
+Walton,540,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Walton,540,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,272
+Walton,540,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,1004
+Walton,540,Retention of Allen Winsor,First District Court of Appeal,NOP,No,297
+Walton,540,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,1
+Walton,540,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,269
+Walton,540,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,1169
+Walton,540,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,365
+Walton,540,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Walton,540,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,37
+Walton,540,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,1205
+Walton,540,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,317
+Walton,540,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Walton,540,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,49
+Walton,540,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,1247
+Walton,540,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,284
+Walton,540,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Walton,540,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,40
+Walton,540,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,814
+Walton,540,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,717
+Walton,540,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Walton,540,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,40
+Walton,540,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,1218
+Walton,540,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,286
+Walton,540,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Walton,540,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,67
+Walton,540,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,1050
+Walton,540,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,446
+Walton,540,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Walton,540,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,74
+Walton,540,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,1142
+Walton,540,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,348
+Walton,540,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Walton,540,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,81
+Walton,540,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,1146
+Walton,540,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,359
+Walton,540,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,4
+Walton,540,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,62
+Walton,540,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,1107
+Walton,540,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,359
+Walton,540,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Walton,540,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,105
+Walton,540,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,1015
+Walton,540,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,408
+Walton,540,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Walton,540,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,147
+Walton,540,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,1306
+Walton,540,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,193
+Walton,540,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Walton,540,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,72
+Walton,540,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,1080
+Walton,540,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,433
+Walton,540,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Walton,540,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,58
+Walton,110,Registered Voters,"","","",1235
+Walton,120,Registered Voters,"","","",785
+Walton,130,Registered Voters,"","","",1659
+Walton,210,Registered Voters,"","","",436
+Walton,220,Registered Voters,"","","",610
+Walton,230,Registered Voters,"","","",970
+Walton,240,Registered Voters,"","","",408
+Walton,310,Registered Voters,"","","",5124
+Walton,320,Registered Voters,"","","",1933
+Walton,330,Registered Voters,"","","",1558
+Walton,340,Registered Voters,"","","",1032
+Walton,350,Registered Voters,"","","",767
+Walton,360,Registered Voters,"","","",744
+Walton,410,Registered Voters,"","","",1247
+Walton,420,Registered Voters,"","","",743
+Walton,430,Registered Voters,"","","",5603
+Walton,440,Registered Voters,"","","",900
+Walton,510,Registered Voters,"","","",9679
+Walton,520,Registered Voters,"","","",8399
+Walton,530,Registered Voters,"","","",4083
+Walton,540,Registered Voters,"","","",2348
