@@ -1,0 +1,936 @@
+county,precinct,office,district,party,candidate,votes
+Franklin,Eastpoint,U.S. Senate,"",REP,Rick Scott,811
+Franklin,Eastpoint,U.S. Senate,"",DEM,Bill Nelson,264
+Franklin,Eastpoint,U.S. Senate,"","",WriteinVotes,4
+Franklin,Eastpoint,U.S. Senate,"","",OverVotes,0
+Franklin,Eastpoint,U.S. Senate,"","",UnderVotes,29
+Franklin,Eastpoint,U.S. House,2,REP,Neal Dunn,852
+Franklin,Eastpoint,U.S. House,2,DEM,Bob Rackleff,225
+Franklin,Eastpoint,U.S. House,2,"",OverVotes,0
+Franklin,Eastpoint,U.S. House,2,"",UnderVotes,31
+Franklin,Eastpoint,Governor,"",REP,DeSantis / Nuñez,846
+Franklin,Eastpoint,Governor,"",DEM,Gillum / King,207
+Franklin,Eastpoint,Governor,"",REF,Richardson / Argenziano,7
+Franklin,Eastpoint,Governor,"",NPA,Gibson / Wilds,12
+Franklin,Eastpoint,Governor,"",NPA,Foley / Tutton,7
+Franklin,Eastpoint,Governor,"",NPA,Stanley / McJury,8
+Franklin,Eastpoint,Governor,"","",WriteinVotes,0
+Franklin,Eastpoint,Governor,"","",OverVotes,0
+Franklin,Eastpoint,Governor,"","",UnderVotes,21
+Franklin,Eastpoint,Attorney General,"",REP,Ashley Moody,815
+Franklin,Eastpoint,Attorney General,"",DEM,Sean Shaw,207
+Franklin,Eastpoint,Attorney General,"",NPA,Jeffrey Marc Siskind,28
+Franklin,Eastpoint,Attorney General,"","",OverVotes,0
+Franklin,Eastpoint,Attorney General,"","",UnderVotes,58
+Franklin,Eastpoint,Chief Financial Officer,"",REP,Jimmy Patronis,895
+Franklin,Eastpoint,Chief Financial Officer,"",DEM,Jeremy Ring,183
+Franklin,Eastpoint,Chief Financial Officer,"","",WriteinVotes,0
+Franklin,Eastpoint,Chief Financial Officer,"","",OverVotes,0
+Franklin,Eastpoint,Chief Financial Officer,"","",UnderVotes,30
+Franklin,Eastpoint,Commissioner of Agriculture,"",REP,Matt Caldwell,829
+Franklin,Eastpoint,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",227
+Franklin,Eastpoint,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,Eastpoint,Commissioner of Agriculture,"","",UnderVotes,52
+Franklin,Eastpoint,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,429
+Franklin,Eastpoint,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,478
+Franklin,Eastpoint,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Franklin,Eastpoint,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,201
+Franklin,Eastpoint,Tax Collector,"",REP,Rick Watson,262
+Franklin,Eastpoint,Tax Collector,"",DEM,Teresa Ann Martin,250
+Franklin,Eastpoint,Tax Collector,"",NPA,Connie Dykes Polous,584
+Franklin,Eastpoint,Tax Collector,"","",OverVotes,4
+Franklin,Eastpoint,Tax Collector,"","",UnderVotes,8
+Franklin,Eastpoint,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,599
+Franklin,Eastpoint,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,341
+Franklin,Eastpoint,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,2
+Franklin,Eastpoint,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,166
+Franklin,Eastpoint,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,564
+Franklin,Eastpoint,Retention of Harvey Jay,First District Court of Appeal,NOP,No,345
+Franklin,Eastpoint,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Franklin,Eastpoint,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,198
+Franklin,Eastpoint,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,572
+Franklin,Eastpoint,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,338
+Franklin,Eastpoint,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Franklin,Eastpoint,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,198
+Franklin,Eastpoint,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,567
+Franklin,Eastpoint,Retention of Brad Thomas,First District Court of Appeal,NOP,No,336
+Franklin,Eastpoint,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,Eastpoint,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,205
+Franklin,Eastpoint,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,573
+Franklin,Eastpoint,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,332
+Franklin,Eastpoint,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,Eastpoint,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,203
+Franklin,Eastpoint,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,562
+Franklin,Eastpoint,Retention of Allen Winsor,First District Court of Appeal,NOP,No,342
+Franklin,Eastpoint,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,Eastpoint,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,204
+Franklin,Eastpoint,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,608
+Franklin,Eastpoint,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,425
+Franklin,Eastpoint,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,6
+Franklin,Eastpoint,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,69
+Franklin,Eastpoint,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,636
+Franklin,Eastpoint,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,362
+Franklin,Eastpoint,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,4
+Franklin,Eastpoint,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,106
+Franklin,Eastpoint,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,754
+Franklin,Eastpoint,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,290
+Franklin,Eastpoint,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,1
+Franklin,Eastpoint,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,63
+Franklin,Eastpoint,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,566
+Franklin,Eastpoint,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,466
+Franklin,Eastpoint,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Franklin,Eastpoint,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,75
+Franklin,Eastpoint,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,683
+Franklin,Eastpoint,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,324
+Franklin,Eastpoint,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Franklin,Eastpoint,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,101
+Franklin,Eastpoint,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,622
+Franklin,Eastpoint,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,380
+Franklin,Eastpoint,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Franklin,Eastpoint,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,106
+Franklin,Eastpoint,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,708
+Franklin,Eastpoint,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,284
+Franklin,Eastpoint,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Franklin,Eastpoint,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,116
+Franklin,Eastpoint,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,520
+Franklin,Eastpoint,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,489
+Franklin,Eastpoint,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Franklin,Eastpoint,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,98
+Franklin,Eastpoint,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,664
+Franklin,Eastpoint,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,322
+Franklin,Eastpoint,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,1
+Franklin,Eastpoint,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,121
+Franklin,Eastpoint,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,505
+Franklin,Eastpoint,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,440
+Franklin,Eastpoint,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Franklin,Eastpoint,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,163
+Franklin,Eastpoint,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,733
+Franklin,Eastpoint,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,247
+Franklin,Eastpoint,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Franklin,Eastpoint,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,128
+Franklin,Eastpoint,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,488
+Franklin,Eastpoint,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,539
+Franklin,Eastpoint,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Franklin,Eastpoint,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,79
+Franklin,Alligator Point,U.S. Senate,"",REP,Rick Scott,199
+Franklin,Alligator Point,U.S. Senate,"",DEM,Bill Nelson,106
+Franklin,Alligator Point,U.S. Senate,"","",WriteinVotes,0
+Franklin,Alligator Point,U.S. Senate,"","",OverVotes,2
+Franklin,Alligator Point,U.S. Senate,"","",UnderVotes,0
+Franklin,Alligator Point,U.S. House,2,REP,Neal Dunn,206
+Franklin,Alligator Point,U.S. House,2,DEM,Bob Rackleff,98
+Franklin,Alligator Point,U.S. House,2,"",OverVotes,0
+Franklin,Alligator Point,U.S. House,2,"",UnderVotes,3
+Franklin,Alligator Point,Governor,"",REP,DeSantis / Nuñez,207
+Franklin,Alligator Point,Governor,"",DEM,Gillum / King,98
+Franklin,Alligator Point,Governor,"",REF,Richardson / Argenziano,1
+Franklin,Alligator Point,Governor,"",NPA,Gibson / Wilds,0
+Franklin,Alligator Point,Governor,"",NPA,Foley / Tutton,0
+Franklin,Alligator Point,Governor,"",NPA,Stanley / McJury,1
+Franklin,Alligator Point,Governor,"","",WriteinVotes,0
+Franklin,Alligator Point,Governor,"","",OverVotes,0
+Franklin,Alligator Point,Governor,"","",UnderVotes,0
+Franklin,Alligator Point,Attorney General,"",REP,Ashley Moody,209
+Franklin,Alligator Point,Attorney General,"",DEM,Sean Shaw,91
+Franklin,Alligator Point,Attorney General,"",NPA,Jeffrey Marc Siskind,3
+Franklin,Alligator Point,Attorney General,"","",OverVotes,0
+Franklin,Alligator Point,Attorney General,"","",UnderVotes,4
+Franklin,Alligator Point,Chief Financial Officer,"",REP,Jimmy Patronis,214
+Franklin,Alligator Point,Chief Financial Officer,"",DEM,Jeremy Ring,85
+Franklin,Alligator Point,Chief Financial Officer,"","",WriteinVotes,0
+Franklin,Alligator Point,Chief Financial Officer,"","",OverVotes,0
+Franklin,Alligator Point,Chief Financial Officer,"","",UnderVotes,8
+Franklin,Alligator Point,Commissioner of Agriculture,"",REP,Matt Caldwell,208
+Franklin,Alligator Point,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",96
+Franklin,Alligator Point,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,Alligator Point,Commissioner of Agriculture,"","",UnderVotes,3
+Franklin,Alligator Point,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,107
+Franklin,Alligator Point,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,152
+Franklin,Alligator Point,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Franklin,Alligator Point,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,48
+Franklin,Alligator Point,Tax Collector,"",REP,Rick Watson,199
+Franklin,Alligator Point,Tax Collector,"",DEM,Teresa Ann Martin,79
+Franklin,Alligator Point,Tax Collector,"",NPA,Connie Dykes Polous,25
+Franklin,Alligator Point,Tax Collector,"","",OverVotes,0
+Franklin,Alligator Point,Tax Collector,"","",UnderVotes,4
+Franklin,Alligator Point,County Commissioner,2,REP,Bert Boldt,207
+Franklin,Alligator Point,County Commissioner,2,DEM,Tamara Allen,82
+Franklin,Alligator Point,County Commissioner,2,NPA,Mark Nobles,16
+Franklin,Alligator Point,County Commissioner,2,"",OverVotes,0
+Franklin,Alligator Point,County Commissioner,2,"",UnderVotes,2
+Franklin,Alligator Point,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,185
+Franklin,Alligator Point,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,83
+Franklin,Alligator Point,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Franklin,Alligator Point,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,39
+Franklin,Alligator Point,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,185
+Franklin,Alligator Point,Retention of Harvey Jay,First District Court of Appeal,NOP,No,78
+Franklin,Alligator Point,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,1
+Franklin,Alligator Point,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,43
+Franklin,Alligator Point,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,181
+Franklin,Alligator Point,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,79
+Franklin,Alligator Point,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Franklin,Alligator Point,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,47
+Franklin,Alligator Point,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,180
+Franklin,Alligator Point,Retention of Brad Thomas,First District Court of Appeal,NOP,No,80
+Franklin,Alligator Point,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Franklin,Alligator Point,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,46
+Franklin,Alligator Point,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,175
+Franklin,Alligator Point,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,84
+Franklin,Alligator Point,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Franklin,Alligator Point,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,47
+Franklin,Alligator Point,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,173
+Franklin,Alligator Point,Retention of Allen Winsor,First District Court of Appeal,NOP,No,86
+Franklin,Alligator Point,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,Alligator Point,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,48
+Franklin,Alligator Point,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,189
+Franklin,Alligator Point,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,104
+Franklin,Alligator Point,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,14
+Franklin,Alligator Point,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,199
+Franklin,Alligator Point,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,96
+Franklin,Alligator Point,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,12
+Franklin,Alligator Point,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,212
+Franklin,Alligator Point,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,85
+Franklin,Alligator Point,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,10
+Franklin,Alligator Point,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,159
+Franklin,Alligator Point,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,139
+Franklin,Alligator Point,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Franklin,Alligator Point,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,8
+Franklin,Alligator Point,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,210
+Franklin,Alligator Point,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,89
+Franklin,Alligator Point,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Franklin,Alligator Point,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,8
+Franklin,Alligator Point,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,164
+Franklin,Alligator Point,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,133
+Franklin,Alligator Point,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,10
+Franklin,Alligator Point,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,168
+Franklin,Alligator Point,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,124
+Franklin,Alligator Point,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,15
+Franklin,Alligator Point,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,192
+Franklin,Alligator Point,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,107
+Franklin,Alligator Point,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,8
+Franklin,Alligator Point,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,179
+Franklin,Alligator Point,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,106
+Franklin,Alligator Point,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,22
+Franklin,Alligator Point,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,180
+Franklin,Alligator Point,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,97
+Franklin,Alligator Point,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,30
+Franklin,Alligator Point,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,228
+Franklin,Alligator Point,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,65
+Franklin,Alligator Point,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,14
+Franklin,Alligator Point,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,173
+Franklin,Alligator Point,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,123
+Franklin,Alligator Point,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Franklin,Alligator Point,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,11
+Franklin,National Guard Armory,U.S. Senate,"",REP,Rick Scott,344
+Franklin,National Guard Armory,U.S. Senate,"",DEM,Bill Nelson,598
+Franklin,National Guard Armory,U.S. Senate,"","",WriteinVotes,3
+Franklin,National Guard Armory,U.S. Senate,"","",OverVotes,0
+Franklin,National Guard Armory,U.S. Senate,"","",UnderVotes,20
+Franklin,National Guard Armory,U.S. House,2,REP,Neal Dunn,364
+Franklin,National Guard Armory,U.S. House,2,DEM,Bob Rackleff,563
+Franklin,National Guard Armory,U.S. House,2,"",OverVotes,1
+Franklin,National Guard Armory,U.S. House,2,"",UnderVotes,37
+Franklin,National Guard Armory,Governor,"",REP,DeSantis / Nuñez,329
+Franklin,National Guard Armory,Governor,"",DEM,Gillum / King,601
+Franklin,National Guard Armory,Governor,"",REF,Richardson / Argenziano,2
+Franklin,National Guard Armory,Governor,"",NPA,Gibson / Wilds,8
+Franklin,National Guard Armory,Governor,"",NPA,Foley / Tutton,1
+Franklin,National Guard Armory,Governor,"",NPA,Stanley / McJury,3
+Franklin,National Guard Armory,Governor,"","",WriteinVotes,0
+Franklin,National Guard Armory,Governor,"","",OverVotes,3
+Franklin,National Guard Armory,Governor,"","",UnderVotes,19
+Franklin,National Guard Armory,Attorney General,"",REP,Ashley Moody,328
+Franklin,National Guard Armory,Attorney General,"",DEM,Sean Shaw,583
+Franklin,National Guard Armory,Attorney General,"",NPA,Jeffrey Marc Siskind,15
+Franklin,National Guard Armory,Attorney General,"","",OverVotes,0
+Franklin,National Guard Armory,Attorney General,"","",UnderVotes,38
+Franklin,National Guard Armory,Chief Financial Officer,"",REP,Jimmy Patronis,406
+Franklin,National Guard Armory,Chief Financial Officer,"",DEM,Jeremy Ring,524
+Franklin,National Guard Armory,Chief Financial Officer,"","",WriteinVotes,0
+Franklin,National Guard Armory,Chief Financial Officer,"","",OverVotes,0
+Franklin,National Guard Armory,Chief Financial Officer,"","",UnderVotes,35
+Franklin,National Guard Armory,Commissioner of Agriculture,"",REP,Matt Caldwell,311
+Franklin,National Guard Armory,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",607
+Franklin,National Guard Armory,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,National Guard Armory,Commissioner of Agriculture,"","",UnderVotes,46
+Franklin,National Guard Armory,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,311
+Franklin,National Guard Armory,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,462
+Franklin,National Guard Armory,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Franklin,National Guard Armory,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,192
+Franklin,National Guard Armory,Tax Collector,"",REP,Rick Watson,184
+Franklin,National Guard Armory,Tax Collector,"",DEM,Teresa Ann Martin,626
+Franklin,National Guard Armory,Tax Collector,"",NPA,Connie Dykes Polous,147
+Franklin,National Guard Armory,Tax Collector,"","",OverVotes,1
+Franklin,National Guard Armory,Tax Collector,"","",UnderVotes,7
+Franklin,National Guard Armory,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,529
+Franklin,National Guard Armory,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,308
+Franklin,National Guard Armory,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Franklin,National Guard Armory,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,128
+Franklin,National Guard Armory,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,450
+Franklin,National Guard Armory,Retention of Harvey Jay,First District Court of Appeal,NOP,No,355
+Franklin,National Guard Armory,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Franklin,National Guard Armory,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,160
+Franklin,National Guard Armory,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,485
+Franklin,National Guard Armory,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,322
+Franklin,National Guard Armory,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Franklin,National Guard Armory,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,158
+Franklin,National Guard Armory,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,472
+Franklin,National Guard Armory,Retention of Brad Thomas,First District Court of Appeal,NOP,No,334
+Franklin,National Guard Armory,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,1
+Franklin,National Guard Armory,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,158
+Franklin,National Guard Armory,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,476
+Franklin,National Guard Armory,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,335
+Franklin,National Guard Armory,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,National Guard Armory,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,154
+Franklin,National Guard Armory,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,451
+Franklin,National Guard Armory,Retention of Allen Winsor,First District Court of Appeal,NOP,No,359
+Franklin,National Guard Armory,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,National Guard Armory,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,155
+Franklin,National Guard Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,434
+Franklin,National Guard Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,470
+Franklin,National Guard Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Franklin,National Guard Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,61
+Franklin,National Guard Armory,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,502
+Franklin,National Guard Armory,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,392
+Franklin,National Guard Armory,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Franklin,National Guard Armory,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,71
+Franklin,National Guard Armory,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,692
+Franklin,National Guard Armory,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,192
+Franklin,National Guard Armory,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Franklin,National Guard Armory,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,81
+Franklin,National Guard Armory,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,672
+Franklin,National Guard Armory,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,226
+Franklin,National Guard Armory,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Franklin,National Guard Armory,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,67
+Franklin,National Guard Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,454
+Franklin,National Guard Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,422
+Franklin,National Guard Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Franklin,National Guard Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,88
+Franklin,National Guard Armory,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,496
+Franklin,National Guard Armory,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,383
+Franklin,National Guard Armory,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Franklin,National Guard Armory,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,84
+Franklin,National Guard Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,545
+Franklin,National Guard Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,325
+Franklin,National Guard Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Franklin,National Guard Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,94
+Franklin,National Guard Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,597
+Franklin,National Guard Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,285
+Franklin,National Guard Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Franklin,National Guard Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,81
+Franklin,National Guard Armory,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,499
+Franklin,National Guard Armory,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,358
+Franklin,National Guard Armory,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Franklin,National Guard Armory,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,107
+Franklin,National Guard Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,471
+Franklin,National Guard Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,374
+Franklin,National Guard Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Franklin,National Guard Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,119
+Franklin,National Guard Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,584
+Franklin,National Guard Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,275
+Franklin,National Guard Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Franklin,National Guard Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,105
+Franklin,National Guard Armory,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,546
+Franklin,National Guard Armory,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,340
+Franklin,National Guard Armory,Amendment No. 13: Ends Dog Racing,"","",OverVotes,1
+Franklin,National Guard Armory,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,78
+Franklin,Fort Coombs Armory,U.S. Senate,"",REP,Rick Scott,167
+Franklin,Fort Coombs Armory,U.S. Senate,"",DEM,Bill Nelson,134
+Franklin,Fort Coombs Armory,U.S. Senate,"","",WriteinVotes,1
+Franklin,Fort Coombs Armory,U.S. Senate,"","",OverVotes,0
+Franklin,Fort Coombs Armory,U.S. Senate,"","",UnderVotes,2
+Franklin,Fort Coombs Armory,U.S. House,2,REP,Neal Dunn,174
+Franklin,Fort Coombs Armory,U.S. House,2,DEM,Bob Rackleff,125
+Franklin,Fort Coombs Armory,U.S. House,2,"",OverVotes,0
+Franklin,Fort Coombs Armory,U.S. House,2,"",UnderVotes,5
+Franklin,Fort Coombs Armory,Governor,"",REP,DeSantis / Nuñez,173
+Franklin,Fort Coombs Armory,Governor,"",DEM,Gillum / King,121
+Franklin,Fort Coombs Armory,Governor,"",REF,Richardson / Argenziano,3
+Franklin,Fort Coombs Armory,Governor,"",NPA,Gibson / Wilds,3
+Franklin,Fort Coombs Armory,Governor,"",NPA,Foley / Tutton,0
+Franklin,Fort Coombs Armory,Governor,"",NPA,Stanley / McJury,1
+Franklin,Fort Coombs Armory,Governor,"","",WriteinVotes,0
+Franklin,Fort Coombs Armory,Governor,"","",OverVotes,1
+Franklin,Fort Coombs Armory,Governor,"","",UnderVotes,2
+Franklin,Fort Coombs Armory,Attorney General,"",REP,Ashley Moody,170
+Franklin,Fort Coombs Armory,Attorney General,"",DEM,Sean Shaw,113
+Franklin,Fort Coombs Armory,Attorney General,"",NPA,Jeffrey Marc Siskind,9
+Franklin,Fort Coombs Armory,Attorney General,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Attorney General,"","",UnderVotes,12
+Franklin,Fort Coombs Armory,Chief Financial Officer,"",REP,Jimmy Patronis,200
+Franklin,Fort Coombs Armory,Chief Financial Officer,"",DEM,Jeremy Ring,96
+Franklin,Fort Coombs Armory,Chief Financial Officer,"","",WriteinVotes,0
+Franklin,Fort Coombs Armory,Chief Financial Officer,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Chief Financial Officer,"","",UnderVotes,8
+Franklin,Fort Coombs Armory,Commissioner of Agriculture,"",REP,Matt Caldwell,172
+Franklin,Fort Coombs Armory,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",119
+Franklin,Fort Coombs Armory,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Commissioner of Agriculture,"","",UnderVotes,13
+Franklin,Fort Coombs Armory,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,116
+Franklin,Fort Coombs Armory,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,125
+Franklin,Fort Coombs Armory,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Franklin,Fort Coombs Armory,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,63
+Franklin,Fort Coombs Armory,Tax Collector,"",REP,Rick Watson,135
+Franklin,Fort Coombs Armory,Tax Collector,"",DEM,Teresa Ann Martin,112
+Franklin,Fort Coombs Armory,Tax Collector,"",NPA,Connie Dykes Polous,52
+Franklin,Fort Coombs Armory,Tax Collector,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Tax Collector,"","",UnderVotes,5
+Franklin,Fort Coombs Armory,County Commissioner,4,DEM,"Joseph ""Smokey"" Parrish",159
+Franklin,Fort Coombs Armory,County Commissioner,4,NPA,Howard E. Wesson,134
+Franklin,Fort Coombs Armory,County Commissioner,4,"",OverVotes,0
+Franklin,Fort Coombs Armory,County Commissioner,4,"",UnderVotes,11
+Franklin,Fort Coombs Armory,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,147
+Franklin,Fort Coombs Armory,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,107
+Franklin,Fort Coombs Armory,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Franklin,Fort Coombs Armory,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,50
+Franklin,Fort Coombs Armory,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,143
+Franklin,Fort Coombs Armory,Retention of Harvey Jay,First District Court of Appeal,NOP,No,104
+Franklin,Fort Coombs Armory,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Franklin,Fort Coombs Armory,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,57
+Franklin,Fort Coombs Armory,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,147
+Franklin,Fort Coombs Armory,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,103
+Franklin,Fort Coombs Armory,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Franklin,Fort Coombs Armory,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,54
+Franklin,Fort Coombs Armory,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,151
+Franklin,Fort Coombs Armory,Retention of Brad Thomas,First District Court of Appeal,NOP,No,100
+Franklin,Fort Coombs Armory,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,Fort Coombs Armory,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,53
+Franklin,Fort Coombs Armory,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,145
+Franklin,Fort Coombs Armory,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,105
+Franklin,Fort Coombs Armory,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,1
+Franklin,Fort Coombs Armory,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,53
+Franklin,Fort Coombs Armory,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,148
+Franklin,Fort Coombs Armory,Retention of Allen Winsor,First District Court of Appeal,NOP,No,103
+Franklin,Fort Coombs Armory,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,Fort Coombs Armory,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,53
+Franklin,Fort Coombs Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,167
+Franklin,Fort Coombs Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,123
+Franklin,Fort Coombs Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Franklin,Fort Coombs Armory,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Franklin,Fort Coombs Armory,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,181
+Franklin,Fort Coombs Armory,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,108
+Franklin,Fort Coombs Armory,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Franklin,Fort Coombs Armory,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,14
+Franklin,Fort Coombs Armory,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,222
+Franklin,Fort Coombs Armory,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,66
+Franklin,Fort Coombs Armory,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,16
+Franklin,Fort Coombs Armory,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,170
+Franklin,Fort Coombs Armory,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,121
+Franklin,Fort Coombs Armory,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,13
+Franklin,Fort Coombs Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,170
+Franklin,Fort Coombs Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,110
+Franklin,Fort Coombs Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Franklin,Fort Coombs Armory,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,24
+Franklin,Fort Coombs Armory,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,170
+Franklin,Fort Coombs Armory,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,116
+Franklin,Fort Coombs Armory,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,18
+Franklin,Fort Coombs Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,168
+Franklin,Fort Coombs Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,114
+Franklin,Fort Coombs Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,22
+Franklin,Fort Coombs Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,203
+Franklin,Fort Coombs Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,82
+Franklin,Fort Coombs Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,19
+Franklin,Fort Coombs Armory,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,155
+Franklin,Fort Coombs Armory,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,119
+Franklin,Fort Coombs Armory,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Franklin,Fort Coombs Armory,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,28
+Franklin,Fort Coombs Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,143
+Franklin,Fort Coombs Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,125
+Franklin,Fort Coombs Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,36
+Franklin,Fort Coombs Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,211
+Franklin,Fort Coombs Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,68
+Franklin,Fort Coombs Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,25
+Franklin,Fort Coombs Armory,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,194
+Franklin,Fort Coombs Armory,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,93
+Franklin,Fort Coombs Armory,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Franklin,Fort Coombs Armory,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,17
+Franklin,Carrabelle,U.S. Senate,"",REP,Rick Scott,737
+Franklin,Carrabelle,U.S. Senate,"",DEM,Bill Nelson,342
+Franklin,Carrabelle,U.S. Senate,"","",WriteinVotes,7
+Franklin,Carrabelle,U.S. Senate,"","",OverVotes,0
+Franklin,Carrabelle,U.S. Senate,"","",UnderVotes,18
+Franklin,Carrabelle,U.S. House,2,REP,Neal Dunn,798
+Franklin,Carrabelle,U.S. House,2,DEM,Bob Rackleff,283
+Franklin,Carrabelle,U.S. House,2,"",OverVotes,0
+Franklin,Carrabelle,U.S. House,2,"",UnderVotes,23
+Franklin,Carrabelle,Governor,"",REP,DeSantis / Nuñez,774
+Franklin,Carrabelle,Governor,"",DEM,Gillum / King,273
+Franklin,Carrabelle,Governor,"",REF,Richardson / Argenziano,10
+Franklin,Carrabelle,Governor,"",NPA,Gibson / Wilds,8
+Franklin,Carrabelle,Governor,"",NPA,Foley / Tutton,7
+Franklin,Carrabelle,Governor,"",NPA,Stanley / McJury,5
+Franklin,Carrabelle,Governor,"","",WriteinVotes,4
+Franklin,Carrabelle,Governor,"","",OverVotes,2
+Franklin,Carrabelle,Governor,"","",UnderVotes,21
+Franklin,Carrabelle,Attorney General,"",REP,Ashley Moody,758
+Franklin,Carrabelle,Attorney General,"",DEM,Sean Shaw,279
+Franklin,Carrabelle,Attorney General,"",NPA,Jeffrey Marc Siskind,33
+Franklin,Carrabelle,Attorney General,"","",OverVotes,0
+Franklin,Carrabelle,Attorney General,"","",UnderVotes,34
+Franklin,Carrabelle,Chief Financial Officer,"",REP,Jimmy Patronis,806
+Franklin,Carrabelle,Chief Financial Officer,"",DEM,Jeremy Ring,263
+Franklin,Carrabelle,Chief Financial Officer,"","",WriteinVotes,4
+Franklin,Carrabelle,Chief Financial Officer,"","",OverVotes,0
+Franklin,Carrabelle,Chief Financial Officer,"","",UnderVotes,31
+Franklin,Carrabelle,Commissioner of Agriculture,"",REP,Matt Caldwell,762
+Franklin,Carrabelle,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",307
+Franklin,Carrabelle,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,Carrabelle,Commissioner of Agriculture,"","",UnderVotes,35
+Franklin,Carrabelle,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,447
+Franklin,Carrabelle,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,495
+Franklin,Carrabelle,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,1
+Franklin,Carrabelle,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,161
+Franklin,Carrabelle,Tax Collector,"",REP,Rick Watson,371
+Franklin,Carrabelle,Tax Collector,"",DEM,Teresa Ann Martin,230
+Franklin,Carrabelle,Tax Collector,"",NPA,Connie Dykes Polous,491
+Franklin,Carrabelle,Tax Collector,"","",OverVotes,1
+Franklin,Carrabelle,Tax Collector,"","",UnderVotes,11
+Franklin,Carrabelle,County Commissioner,2,REP,Bert Boldt,143
+Franklin,Carrabelle,County Commissioner,2,DEM,Tamara Allen,119
+Franklin,Carrabelle,County Commissioner,2,NPA,Mark Nobles,174
+Franklin,Carrabelle,County Commissioner,2,"",OverVotes,0
+Franklin,Carrabelle,County Commissioner,2,"",UnderVotes,7
+Franklin,Carrabelle,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,591
+Franklin,Carrabelle,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,351
+Franklin,Carrabelle,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Franklin,Carrabelle,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,162
+Franklin,Carrabelle,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,589
+Franklin,Carrabelle,Retention of Harvey Jay,First District Court of Appeal,NOP,No,346
+Franklin,Carrabelle,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Franklin,Carrabelle,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,169
+Franklin,Carrabelle,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,596
+Franklin,Carrabelle,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,338
+Franklin,Carrabelle,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,1
+Franklin,Carrabelle,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,169
+Franklin,Carrabelle,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,588
+Franklin,Carrabelle,Retention of Brad Thomas,First District Court of Appeal,NOP,No,349
+Franklin,Carrabelle,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,2
+Franklin,Carrabelle,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,165
+Franklin,Carrabelle,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,594
+Franklin,Carrabelle,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,345
+Franklin,Carrabelle,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,Carrabelle,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,165
+Franklin,Carrabelle,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,568
+Franklin,Carrabelle,Retention of Allen Winsor,First District Court of Appeal,NOP,No,366
+Franklin,Carrabelle,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,Carrabelle,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,170
+Franklin,Carrabelle,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,636
+Franklin,Carrabelle,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,412
+Franklin,Carrabelle,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,1
+Franklin,Carrabelle,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,55
+Franklin,Carrabelle,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,705
+Franklin,Carrabelle,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,334
+Franklin,Carrabelle,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,5
+Franklin,Carrabelle,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,60
+Franklin,Carrabelle,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,777
+Franklin,Carrabelle,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,251
+Franklin,Carrabelle,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,4
+Franklin,Carrabelle,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,72
+Franklin,Carrabelle,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,628
+Franklin,Carrabelle,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,404
+Franklin,Carrabelle,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,1
+Franklin,Carrabelle,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,71
+Franklin,Carrabelle,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,728
+Franklin,Carrabelle,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,281
+Franklin,Carrabelle,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,3
+Franklin,Carrabelle,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,92
+Franklin,Carrabelle,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,664
+Franklin,Carrabelle,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,354
+Franklin,Carrabelle,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Franklin,Carrabelle,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,85
+Franklin,Carrabelle,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,702
+Franklin,Carrabelle,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,304
+Franklin,Carrabelle,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Franklin,Carrabelle,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,97
+Franklin,Carrabelle,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,521
+Franklin,Carrabelle,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,503
+Franklin,Carrabelle,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,2
+Franklin,Carrabelle,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,78
+Franklin,Carrabelle,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,668
+Franklin,Carrabelle,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,326
+Franklin,Carrabelle,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,4
+Franklin,Carrabelle,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,106
+Franklin,Carrabelle,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,591
+Franklin,Carrabelle,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,388
+Franklin,Carrabelle,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,2
+Franklin,Carrabelle,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,123
+Franklin,Carrabelle,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,771
+Franklin,Carrabelle,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,228
+Franklin,Carrabelle,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Franklin,Carrabelle,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,105
+Franklin,Carrabelle,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,556
+Franklin,Carrabelle,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,479
+Franklin,Carrabelle,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Franklin,Carrabelle,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,67
+Franklin,Lanark Village,U.S. Senate,"",REP,Rick Scott,275
+Franklin,Lanark Village,U.S. Senate,"",DEM,Bill Nelson,123
+Franklin,Lanark Village,U.S. Senate,"","",WriteinVotes,1
+Franklin,Lanark Village,U.S. Senate,"","",OverVotes,0
+Franklin,Lanark Village,U.S. Senate,"","",UnderVotes,9
+Franklin,Lanark Village,U.S. House,2,REP,Neal Dunn,283
+Franklin,Lanark Village,U.S. House,2,DEM,Bob Rackleff,117
+Franklin,Lanark Village,U.S. House,2,"",OverVotes,0
+Franklin,Lanark Village,U.S. House,2,"",UnderVotes,8
+Franklin,Lanark Village,Governor,"",REP,DeSantis / Nuñez,287
+Franklin,Lanark Village,Governor,"",DEM,Gillum / King,108
+Franklin,Lanark Village,Governor,"",REF,Richardson / Argenziano,1
+Franklin,Lanark Village,Governor,"",NPA,Gibson / Wilds,2
+Franklin,Lanark Village,Governor,"",NPA,Foley / Tutton,0
+Franklin,Lanark Village,Governor,"",NPA,Stanley / McJury,4
+Franklin,Lanark Village,Governor,"","",WriteinVotes,2
+Franklin,Lanark Village,Governor,"","",OverVotes,0
+Franklin,Lanark Village,Governor,"","",UnderVotes,4
+Franklin,Lanark Village,Attorney General,"",REP,Ashley Moody,283
+Franklin,Lanark Village,Attorney General,"",DEM,Sean Shaw,109
+Franklin,Lanark Village,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Franklin,Lanark Village,Attorney General,"","",OverVotes,0
+Franklin,Lanark Village,Attorney General,"","",UnderVotes,8
+Franklin,Lanark Village,Chief Financial Officer,"",REP,Jimmy Patronis,289
+Franklin,Lanark Village,Chief Financial Officer,"",DEM,Jeremy Ring,110
+Franklin,Lanark Village,Chief Financial Officer,"","",WriteinVotes,0
+Franklin,Lanark Village,Chief Financial Officer,"","",OverVotes,0
+Franklin,Lanark Village,Chief Financial Officer,"","",UnderVotes,9
+Franklin,Lanark Village,Commissioner of Agriculture,"",REP,Matt Caldwell,286
+Franklin,Lanark Village,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",114
+Franklin,Lanark Village,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,Lanark Village,Commissioner of Agriculture,"","",UnderVotes,8
+Franklin,Lanark Village,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,176
+Franklin,Lanark Village,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,174
+Franklin,Lanark Village,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Franklin,Lanark Village,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,58
+Franklin,Lanark Village,Tax Collector,"",REP,Rick Watson,188
+Franklin,Lanark Village,Tax Collector,"",DEM,Teresa Ann Martin,88
+Franklin,Lanark Village,Tax Collector,"",NPA,Connie Dykes Polous,124
+Franklin,Lanark Village,Tax Collector,"","",OverVotes,0
+Franklin,Lanark Village,Tax Collector,"","",UnderVotes,8
+Franklin,Lanark Village,County Commissioner,2,REP,Bert Boldt,217
+Franklin,Lanark Village,County Commissioner,2,DEM,Tamara Allen,105
+Franklin,Lanark Village,County Commissioner,2,NPA,Mark Nobles,78
+Franklin,Lanark Village,County Commissioner,2,"",OverVotes,0
+Franklin,Lanark Village,County Commissioner,2,"",UnderVotes,8
+Franklin,Lanark Village,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,227
+Franklin,Lanark Village,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,127
+Franklin,Lanark Village,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Franklin,Lanark Village,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,54
+Franklin,Lanark Village,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,238
+Franklin,Lanark Village,Retention of Harvey Jay,First District Court of Appeal,NOP,No,116
+Franklin,Lanark Village,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Franklin,Lanark Village,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,54
+Franklin,Lanark Village,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,226
+Franklin,Lanark Village,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,128
+Franklin,Lanark Village,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Franklin,Lanark Village,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,54
+Franklin,Lanark Village,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,236
+Franklin,Lanark Village,Retention of Brad Thomas,First District Court of Appeal,NOP,No,119
+Franklin,Lanark Village,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,Lanark Village,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,53
+Franklin,Lanark Village,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,225
+Franklin,Lanark Village,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,130
+Franklin,Lanark Village,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Franklin,Lanark Village,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,51
+Franklin,Lanark Village,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,224
+Franklin,Lanark Village,Retention of Allen Winsor,First District Court of Appeal,NOP,No,129
+Franklin,Lanark Village,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,Lanark Village,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,55
+Franklin,Lanark Village,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,238
+Franklin,Lanark Village,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,155
+Franklin,Lanark Village,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,15
+Franklin,Lanark Village,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,272
+Franklin,Lanark Village,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,121
+Franklin,Lanark Village,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,15
+Franklin,Lanark Village,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,295
+Franklin,Lanark Village,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,102
+Franklin,Lanark Village,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,11
+Franklin,Lanark Village,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,212
+Franklin,Lanark Village,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,185
+Franklin,Lanark Village,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,11
+Franklin,Lanark Village,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,276
+Franklin,Lanark Village,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,116
+Franklin,Lanark Village,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Franklin,Lanark Village,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,16
+Franklin,Lanark Village,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,249
+Franklin,Lanark Village,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,141
+Franklin,Lanark Village,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,18
+Franklin,Lanark Village,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,264
+Franklin,Lanark Village,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,126
+Franklin,Lanark Village,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,18
+Franklin,Lanark Village,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,220
+Franklin,Lanark Village,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,170
+Franklin,Lanark Village,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,18
+Franklin,Lanark Village,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,257
+Franklin,Lanark Village,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,127
+Franklin,Lanark Village,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,24
+Franklin,Lanark Village,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,225
+Franklin,Lanark Village,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,148
+Franklin,Lanark Village,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,35
+Franklin,Lanark Village,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,287
+Franklin,Lanark Village,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,99
+Franklin,Lanark Village,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Franklin,Lanark Village,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,21
+Franklin,Lanark Village,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,235
+Franklin,Lanark Village,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,157
+Franklin,Lanark Village,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Franklin,Lanark Village,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,16
+Franklin,St. George Island,U.S. Senate,"",REP,Rick Scott,419
+Franklin,St. George Island,U.S. Senate,"",DEM,Bill Nelson,262
+Franklin,St. George Island,U.S. Senate,"","",WriteinVotes,0
+Franklin,St. George Island,U.S. Senate,"","",OverVotes,0
+Franklin,St. George Island,U.S. Senate,"","",UnderVotes,5
+Franklin,St. George Island,U.S. House,2,REP,Neal Dunn,426
+Franklin,St. George Island,U.S. House,2,DEM,Bob Rackleff,254
+Franklin,St. George Island,U.S. House,2,"",OverVotes,0
+Franklin,St. George Island,U.S. House,2,"",UnderVotes,6
+Franklin,St. George Island,Governor,"",REP,DeSantis / Nuñez,423
+Franklin,St. George Island,Governor,"",DEM,Gillum / King,252
+Franklin,St. George Island,Governor,"",REF,Richardson / Argenziano,2
+Franklin,St. George Island,Governor,"",NPA,Gibson / Wilds,1
+Franklin,St. George Island,Governor,"",NPA,Foley / Tutton,1
+Franklin,St. George Island,Governor,"",NPA,Stanley / McJury,1
+Franklin,St. George Island,Governor,"","",WriteinVotes,1
+Franklin,St. George Island,Governor,"","",OverVotes,1
+Franklin,St. George Island,Governor,"","",UnderVotes,4
+Franklin,St. George Island,Attorney General,"",REP,Ashley Moody,427
+Franklin,St. George Island,Attorney General,"",DEM,Sean Shaw,238
+Franklin,St. George Island,Attorney General,"",NPA,Jeffrey Marc Siskind,8
+Franklin,St. George Island,Attorney General,"","",OverVotes,0
+Franklin,St. George Island,Attorney General,"","",UnderVotes,13
+Franklin,St. George Island,Chief Financial Officer,"",REP,Jimmy Patronis,443
+Franklin,St. George Island,Chief Financial Officer,"",DEM,Jeremy Ring,236
+Franklin,St. George Island,Chief Financial Officer,"","",WriteinVotes,0
+Franklin,St. George Island,Chief Financial Officer,"","",OverVotes,0
+Franklin,St. George Island,Chief Financial Officer,"","",UnderVotes,7
+Franklin,St. George Island,Commissioner of Agriculture,"",REP,Matt Caldwell,409
+Franklin,St. George Island,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",267
+Franklin,St. George Island,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,St. George Island,Commissioner of Agriculture,"","",UnderVotes,10
+Franklin,St. George Island,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,300
+Franklin,St. George Island,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,250
+Franklin,St. George Island,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,1
+Franklin,St. George Island,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,135
+Franklin,St. George Island,Tax Collector,"",REP,Rick Watson,393
+Franklin,St. George Island,Tax Collector,"",DEM,Teresa Ann Martin,201
+Franklin,St. George Island,Tax Collector,"",NPA,Connie Dykes Polous,82
+Franklin,St. George Island,Tax Collector,"","",OverVotes,1
+Franklin,St. George Island,Tax Collector,"","",UnderVotes,9
+Franklin,St. George Island,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,423
+Franklin,St. George Island,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,153
+Franklin,St. George Island,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Franklin,St. George Island,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,110
+Franklin,St. George Island,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,403
+Franklin,St. George Island,Retention of Harvey Jay,First District Court of Appeal,NOP,No,154
+Franklin,St. George Island,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Franklin,St. George Island,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,129
+Franklin,St. George Island,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,417
+Franklin,St. George Island,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,139
+Franklin,St. George Island,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Franklin,St. George Island,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,130
+Franklin,St. George Island,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,396
+Franklin,St. George Island,Retention of Brad Thomas,First District Court of Appeal,NOP,No,162
+Franklin,St. George Island,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,St. George Island,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,128
+Franklin,St. George Island,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,400
+Franklin,St. George Island,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,156
+Franklin,St. George Island,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,St. George Island,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,130
+Franklin,St. George Island,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,389
+Franklin,St. George Island,Retention of Allen Winsor,First District Court of Appeal,NOP,No,166
+Franklin,St. George Island,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,St. George Island,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,131
+Franklin,St. George Island,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,463
+Franklin,St. George Island,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,210
+Franklin,St. George Island,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,13
+Franklin,St. George Island,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,482
+Franklin,St. George Island,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,188
+Franklin,St. George Island,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,16
+Franklin,St. George Island,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,503
+Franklin,St. George Island,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,165
+Franklin,St. George Island,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,18
+Franklin,St. George Island,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,380
+Franklin,St. George Island,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,288
+Franklin,St. George Island,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,18
+Franklin,St. George Island,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,475
+Franklin,St. George Island,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,189
+Franklin,St. George Island,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,0
+Franklin,St. George Island,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,22
+Franklin,St. George Island,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,395
+Franklin,St. George Island,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,264
+Franklin,St. George Island,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,1
+Franklin,St. George Island,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,26
+Franklin,St. George Island,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,404
+Franklin,St. George Island,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,244
+Franklin,St. George Island,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,38
+Franklin,St. George Island,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,477
+Franklin,St. George Island,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,185
+Franklin,St. George Island,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,1
+Franklin,St. George Island,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,23
+Franklin,St. George Island,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,424
+Franklin,St. George Island,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,232
+Franklin,St. George Island,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,30
+Franklin,St. George Island,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,421
+Franklin,St. George Island,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,219
+Franklin,St. George Island,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Franklin,St. George Island,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,45
+Franklin,St. George Island,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,567
+Franklin,St. George Island,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,93
+Franklin,St. George Island,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,26
+Franklin,St. George Island,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,458
+Franklin,St. George Island,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,208
+Franklin,St. George Island,Amendment No. 13: Ends Dog Racing,"","",OverVotes,0
+Franklin,St. George Island,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,20
+Franklin,American Legion,U.S. Senate,"",REP,Rick Scott,452
+Franklin,American Legion,U.S. Senate,"",DEM,Bill Nelson,182
+Franklin,American Legion,U.S. Senate,"","",WriteinVotes,3
+Franklin,American Legion,U.S. Senate,"","",OverVotes,0
+Franklin,American Legion,U.S. Senate,"","",UnderVotes,13
+Franklin,American Legion,U.S. House,2,REP,Neal Dunn,486
+Franklin,American Legion,U.S. House,2,DEM,Bob Rackleff,140
+Franklin,American Legion,U.S. House,2,"",OverVotes,0
+Franklin,American Legion,U.S. House,2,"",UnderVotes,24
+Franklin,American Legion,Governor,"",REP,DeSantis / Nuñez,477
+Franklin,American Legion,Governor,"",DEM,Gillum / King,134
+Franklin,American Legion,Governor,"",REF,Richardson / Argenziano,10
+Franklin,American Legion,Governor,"",NPA,Gibson / Wilds,7
+Franklin,American Legion,Governor,"",NPA,Foley / Tutton,3
+Franklin,American Legion,Governor,"",NPA,Stanley / McJury,3
+Franklin,American Legion,Governor,"","",WriteinVotes,2
+Franklin,American Legion,Governor,"","",OverVotes,0
+Franklin,American Legion,Governor,"","",UnderVotes,14
+Franklin,American Legion,Attorney General,"",REP,Ashley Moody,459
+Franklin,American Legion,Attorney General,"",DEM,Sean Shaw,139
+Franklin,American Legion,Attorney General,"",NPA,Jeffrey Marc Siskind,18
+Franklin,American Legion,Attorney General,"","",OverVotes,0
+Franklin,American Legion,Attorney General,"","",UnderVotes,34
+Franklin,American Legion,Chief Financial Officer,"",REP,Jimmy Patronis,528
+Franklin,American Legion,Chief Financial Officer,"",DEM,Jeremy Ring,107
+Franklin,American Legion,Chief Financial Officer,"","",WriteinVotes,0
+Franklin,American Legion,Chief Financial Officer,"","",OverVotes,0
+Franklin,American Legion,Chief Financial Officer,"","",UnderVotes,15
+Franklin,American Legion,Commissioner of Agriculture,"",REP,Matt Caldwell,470
+Franklin,American Legion,Commissioner of Agriculture,"",DEM,"Nicole ""Nikki"" Fried",150
+Franklin,American Legion,Commissioner of Agriculture,"","",OverVotes,0
+Franklin,American Legion,Commissioner of Agriculture,"","",UnderVotes,30
+Franklin,American Legion,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,Lisa Barclay Fountain,218
+Franklin,American Legion,Circuit Judge,"2nd Judicial Circuit, Group 12",NOP,David Frank,307
+Franklin,American Legion,Circuit Judge,"2nd Judicial Circuit, Group 12","",OverVotes,0
+Franklin,American Legion,Circuit Judge,"2nd Judicial Circuit, Group 12","",UnderVotes,125
+Franklin,American Legion,Tax Collector,"",REP,Rick Watson,153
+Franklin,American Legion,Tax Collector,"",DEM,Teresa Ann Martin,230
+Franklin,American Legion,Tax Collector,"",NPA,Connie Dykes Polous,264
+Franklin,American Legion,Tax Collector,"","",OverVotes,0
+Franklin,American Legion,Tax Collector,"","",UnderVotes,3
+Franklin,American Legion,County Commissioner,4,DEM,"Joseph ""Smokey"" Parrish",339
+Franklin,American Legion,County Commissioner,4,NPA,Howard E. Wesson,297
+Franklin,American Legion,County Commissioner,4,"",OverVotes,0
+Franklin,American Legion,County Commissioner,4,"",UnderVotes,14
+Franklin,American Legion,Retention of Alan Lawson,Justice of the Supreme Court,NOP,Yes,298
+Franklin,American Legion,Retention of Alan Lawson,Justice of the Supreme Court,NOP,No,234
+Franklin,American Legion,Retention of Alan Lawson,Justice of the Supreme Court,"",OverVotes,0
+Franklin,American Legion,Retention of Alan Lawson,Justice of the Supreme Court,"",UnderVotes,118
+Franklin,American Legion,Retention of Harvey Jay,First District Court of Appeal,NOP,Yes,287
+Franklin,American Legion,Retention of Harvey Jay,First District Court of Appeal,NOP,No,238
+Franklin,American Legion,Retention of Harvey Jay,First District Court of Appeal,"",OverVotes,0
+Franklin,American Legion,Retention of Harvey Jay,First District Court of Appeal,"",UnderVotes,125
+Franklin,American Legion,Retention of Stephanie Ray,First District Court of Appeal,NOP,Yes,292
+Franklin,American Legion,Retention of Stephanie Ray,First District Court of Appeal,NOP,No,229
+Franklin,American Legion,Retention of Stephanie Ray,First District Court of Appeal,"",OverVotes,0
+Franklin,American Legion,Retention of Stephanie Ray,First District Court of Appeal,"",UnderVotes,129
+Franklin,American Legion,Retention of Brad Thomas,First District Court of Appeal,NOP,Yes,292
+Franklin,American Legion,Retention of Brad Thomas,First District Court of Appeal,NOP,No,234
+Franklin,American Legion,Retention of Brad Thomas,First District Court of Appeal,"",OverVotes,0
+Franklin,American Legion,Retention of Brad Thomas,First District Court of Appeal,"",UnderVotes,124
+Franklin,American Legion,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,Yes,290
+Franklin,American Legion,Retention of Kemmerly Thomas,First District Court of Appeal,NOP,No,230
+Franklin,American Legion,Retention of Kemmerly Thomas,First District Court of Appeal,"",OverVotes,2
+Franklin,American Legion,Retention of Kemmerly Thomas,First District Court of Appeal,"",UnderVotes,128
+Franklin,American Legion,Retention of Allen Winsor,First District Court of Appeal,NOP,Yes,282
+Franklin,American Legion,Retention of Allen Winsor,First District Court of Appeal,NOP,No,233
+Franklin,American Legion,Retention of Allen Winsor,First District Court of Appeal,"",OverVotes,0
+Franklin,American Legion,Retention of Allen Winsor,First District Court of Appeal,"",UnderVotes,135
+Franklin,American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,Yes for Approval,362
+Franklin,American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"",NOP,No for Rejection,226
+Franklin,American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",OverVotes,3
+Franklin,American Legion,Amendment No. 1: Increased Homestead Property Tax Exemption,"","",UnderVotes,59
+Franklin,American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,Yes for Approval,376
+Franklin,American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"",NOP,No for Rejection,201
+Franklin,American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"","",OverVotes,1
+Franklin,American Legion,Amendment No. 2: Limitations On Property Tax Assessments,"","",UnderVotes,72
+Franklin,American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,Yes for Approval,451
+Franklin,American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"",NOP,No for Rejection,145
+Franklin,American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"","",OverVotes,0
+Franklin,American Legion,Amendment No. 3: Voter Control of Gambling In Florida,"","",UnderVotes,54
+Franklin,American Legion,Amendment No. 4: Voting Restoration Amendment,"",NOP,Yes for Approval,355
+Franklin,American Legion,Amendment No. 4: Voting Restoration Amendment,"",NOP,No for Rejection,239
+Franklin,American Legion,Amendment No. 4: Voting Restoration Amendment,"","",OverVotes,2
+Franklin,American Legion,Amendment No. 4: Voting Restoration Amendment,"","",UnderVotes,54
+Franklin,American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,Yes for Approval,410
+Franklin,American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees",NOP,No for Rejection,166
+Franklin,American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",OverVotes,1
+Franklin,American Legion,"Amendment No. 5: Supermajority Vote Required To Impose, Authorize, Or Raise State Taxes Or Fees","Authorize, or Raise State Taxes or Fees","",UnderVotes,73
+Franklin,American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,Yes for Approval,371
+Franklin,American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"",NOP,No for Rejection,202
+Franklin,American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"","",OverVotes,2
+Franklin,American Legion,Amendment No. 6: Rights of Crime Victims; Judges,"","",UnderVotes,75
+Franklin,American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,Yes for Approval,383
+Franklin,American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"",NOP,No for Rejection,187
+Franklin,American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",OverVotes,1
+Franklin,American Legion,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities,"","",UnderVotes,79
+Franklin,American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,Yes for Approval,297
+Franklin,American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"",NOP,No for Rejection,276
+Franklin,American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",OverVotes,0
+Franklin,American Legion,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping In Enclosed Indoor Workplaces,"","",UnderVotes,77
+Franklin,American Legion,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,Yes for Approval,392
+Franklin,American Legion,Amendment No. 10: State and Local Government Structure and Operation,"",NOP,No for Rejection,172
+Franklin,American Legion,Amendment No. 10: State and Local Government Structure and Operation,"","",OverVotes,2
+Franklin,American Legion,Amendment No. 10: State and Local Government Structure and Operation,"","",UnderVotes,84
+Franklin,American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,Yes for Approval,300
+Franklin,American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"",NOP,No for Rejection,239
+Franklin,American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",OverVotes,1
+Franklin,American Legion,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes,"","",UnderVotes,110
+Franklin,American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,Yes for Approval,421
+Franklin,American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"",NOP,No for Rejection,137
+Franklin,American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",OverVotes,1
+Franklin,American Legion,Amendment No. 12: Lobbying and Abuse of Office By Public Officers,"","",UnderVotes,91
+Franklin,American Legion,Amendment No. 13: Ends Dog Racing,"",NOP,Yes for Approval,259
+Franklin,American Legion,Amendment No. 13: Ends Dog Racing,"",NOP,No for Rejection,338
+Franklin,American Legion,Amendment No. 13: Ends Dog Racing,"","",OverVotes,2
+Franklin,American Legion,Amendment No. 13: Ends Dog Racing,"","",UnderVotes,51
+Franklin,Alligator Point,Registered Voters,"","","",382
+Franklin,American Legion,Registered Voters,"","","",904
+Franklin,Carrabelle,Registered Voters,"","","",1631
+Franklin,Eastpoint,Registered Voters,"","","",1678
+Franklin,Fort Coombs Armory,Registered Voters,"","","",379
+Franklin,Lanark Village,Registered Voters,"","","",584
+Franklin,National Guard Armory,Registered Voters,"","","",1336
+Franklin,St. George Island,Registered Voters,"","","",889
