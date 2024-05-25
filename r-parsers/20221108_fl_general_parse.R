@@ -172,6 +172,8 @@ parsefile <- function(county, state, cfile){
         xx$office <- gsub("^Representative Congress","U.S. House",xx$office, ignore.case = TRUE) # Miami-Dade County,FL
         xx$office <- gsub("^United States Senator","U.S. Senate",xx$office, ignore.case = TRUE) # Miami-Dade County,FL
         xx$office <- gsub("^United State Senate","U.S. Senate",xx$office, ignore.case = TRUE) # Manatee County,FL
+        xx$office <- gsub("^US Senator (Democrat) - CD1","U.S. Senate",xx$office, ignore.case = TRUE) # Walton County,FL
+        xx$office <- gsub("^US Senator (Democrat) - CD2","U.S. Senate",xx$office, ignore.case = TRUE) # Walton County,FL
         xx$office <- gsub("^In Congress","U.S. House",xx$office, ignore.case = TRUE) # Santa Rosa County,FL
         xx$office <- gsub("^U.S. House 17","U.S. House, Dist 17",xx$office, ignore.case = TRUE) # Sarasota County,FL
         xx$office <- gsub("^State House 84","State House, Dist 84",xx$office, ignore.case = TRUE) # St. Lucie County,FL
